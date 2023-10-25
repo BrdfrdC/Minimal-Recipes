@@ -1,0 +1,173 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Balsamic Braised Pork Tenderloins with Fresh Figs"
+,"datePublished": "2022-09-22T15:35:54.000-04:00"
+,"dateModified": "2022-09-22T15:35:54.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Bibi"
+,"url": "https://www.allrecipes.com/cook/bibi"
+}
+]
+,"description": "Pork tenderloins are braised in balsamic vinegar with fresh figs and shallots. A wonderful dish for fall."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/VX8xmfHx1k-ARaxAPlLYbh_Xgzs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Balsamic-Braised-Pork-Tenderloins-with-Fresh-Figs-Bibi-4x3-1-6d1a126590c44c518b7c36e9bec3d003.jpg",
+"height": 960,
+"width": 1280
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Balsamic Braised Pork Tenderloins with Fresh Figs"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "2"
+}
+,"cookTime": "PT45M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "307 kcal"
+,"carbohydrateContent": "18 g"
+,"cholesterolContent": "112 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "36 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "478 mg"
+,"fatContent": "10 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"2 (1 1/2 pound) pork tenderloins",
+"1 teaspoon kosher salt, or to taste",
+"0.5 teaspoon freshly ground black pepper, or to taste",
+"2 tablespoons olive oil",
+"2 shallots, thinly sliced lengthwise",
+"12 fresh figs, stemmed and halved",
+"1 cup chicken broth",
+"0.25 cup good-quality balsamic vinegar",
+"1 tablespoon minced fresh rosemary",
+"fresh rosemary sprigs for garnish (optional)" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Pat tenderloins dry and remove silver skin, if present. Season with kosher salt and freshly ground pepper, to taste."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour oil into a large, oven-proof skillet and heat over medium-heat until oil shimmers. Carefully place seasoned tenderloins into the hot oil and brown on all sides, 7 to 10 minutes total."
+} ,{
+"@type": "HowToStep"
+,"text": "Add sliced shallots around tenderloins and stir, about 1 minute. Add figs, chicken broth, and balsamic vinegar. When the mixture begins to bubble, sprinkle minced rosemary over everthing."
+} ,{
+"@type": "HowToStep"
+,"text": "Cover, place in the preheated oven and bake until pork is no longer pink in the center, 25 to 30 minutes. An instant-read thermometer inserted into the center should read 145 degrees F (63 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Using tongs, remove pork from the skillet and place on a serving platter. With a slotted spoon, remove figs from the skillet and place around the tenderloins. Cover loosely with foil."
+} ,{
+"@type": "HowToStep"
+,"text": "Place skillet back onto the stovetop over medium-high heat. Bring pan juices to a boil and allow to reduce to about 3/4 cup, 10 to 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Slice tenderloins, drizzle reduced liquid over the meat, and garnish with fresh rosemary sprigs, if desired."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT60M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Fantastic, quick and tasty recipe. I couldn't find fresh figs so I substituted about a 1/2 cup fig preserves."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Roseanne Viau-Dolan"
+},
+"reviewBody": "Delicious !"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8465712/balsamic-braised-pork-tenderloins-with-fresh-figs/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/205/meat-and-poultry/pork/",
+"name": "Pork"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1014/meat-and-poultry/pork/tenderloin/",
+"name": "Pork Tenderloin Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8465712/balsamic-braised-pork-tenderloins-with-fresh-figs/",
+"name": "Balsamic Braised Pork Tenderloins with Fresh Figs"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

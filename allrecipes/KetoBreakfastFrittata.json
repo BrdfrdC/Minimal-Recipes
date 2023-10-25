@@ -1,0 +1,257 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Keto Breakfast Frittata"
+,"datePublished": "2019-10-24T14:45:14.000-04:00"
+,"dateModified": "2022-06-15T04:24:54.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Bibi"
+,"url": "https://www.allrecipes.com/cook/bibi"
+}
+]
+,"description": "This keto frittata is dressed up with lots of low-carb vegetables including bell peppers, spinach, and mushrooms for great flavor and texture."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/mBax6ikz7zym5W9xjMh_1wwGKog=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7164615-6ce3f59b4dbd46239c6b3a6304cc34c1.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Keto Breakfast Frittata"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "11"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "283 kcal"
+,"carbohydrateContent": "4 g"
+,"cholesterolContent": "295 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "17 g"
+,"saturatedFatContent": "11 g"
+,"sodiumContent": "443 mg"
+,"sugarContent": "2 g"
+,"fatContent": "23 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"4 ounces bulk breakfast sausage",
+"8 eggs",
+"2 tablespoons heavy cream",
+"8 drops hot pepper sauce (such as Tabasco®), or more to taste",
+"2 tablespoons butter",
+"1 cup chopped mushrooms",
+"0.66666668653488 cup chopped red bell pepper",
+"0.5 cup chopped onion",
+"salt and ground black pepper to taste",
+"0.5 cup chopped fresh spinach",
+"1 cup shredded Cheddar cheese" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 325 degrees F (165 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Crumble sausage into a 12-inch nonstick, oven-proof skillet over medium heat. Cook until browned, about 4 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, whisk eggs in a large bowl. Add cream and hot pepper sauce; mix well."
+} ,{
+"@type": "HowToStep"
+,"text": "Add butter to the skillet with browned sausage and melt around the inside rim of the skillet. Add mushrooms, red bell pepper, onion, salt, and pepper. Cook until onion is soft and translucent, about 4 minutes. Turn off heat and stir in spinach. Cook for 1 minute in the hot skillet, then sprinkle with Cheddar cheese. Pour egg mixture on top, making sure all ingredients are submerged."
+} ,{
+"@type": "HowToStep"
+,"text": "Place skillet in the preheated oven and bake until eggs are set and no longer jiggle, about 20 minutes. Remove from oven and allow to sit for 1 to 2 minutes before cutting into serving pieces."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT45M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bettyboop"
+},
+"reviewBody": "i use goat cheese was great and less sausage"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jimidi"
+},
+"reviewBody": "Excellent breakfast or snack treat!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stacey DeBaun"
+},
+"reviewBody": "My first Frittata and it turned out great! Loved it!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "n5twf64z95"
+},
+"reviewBody": "Delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "pennyadams5025"
+},
+"reviewBody": "Excellent and easy...loved the leftovers reheated"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "fruitdog"
+},
+"reviewBody": "Turned out well, didn't have sausage so used bacon and only had mozzarella....very light, fluffy and delicious. Topped it with a hot salsa. Will make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Eric S"
+},
+"reviewBody": "Tasty recipe but it took 45 minutes to cook in the oven. I used a glass casserole dish so perhaps that's why."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nancy"
+},
+"reviewBody": "Yummy! Made it twice already."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Apctaz Smith"
+},
+"reviewBody": "Great recipe extremely tasty and filling. My family loved it ate it all in one sitting."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/276622/keto-breakfast-frittata/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/148/breakfast-and-brunch/eggs/",
+"name": "Eggs"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1564/breakfast-and-brunch/eggs/frittata/",
+"name": "Frittata Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/276622/keto-breakfast-frittata/",
+"name": "Keto Breakfast Frittata"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

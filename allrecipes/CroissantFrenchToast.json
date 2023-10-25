@@ -1,0 +1,128 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Croissant French Toast"
+,"datePublished": "2023-02-22T11:30:00.000-05:00"
+,"dateModified": "2023-02-22T11:30:00.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "lutzflcat"
+,"url": "https://www.allrecipes.com/cook/lutzflcat"
+}
+]
+,"description": "Croissant French Toast is an easy but impressive brunch, breakfast, or holiday dish."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/ZmzkSqFPyCOu1TLXuRHRBnVMx2A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8495603-Croissant-french-toast-4x3-1-2000-55e876dcd00e4c7baeba216c063566e0.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Croissant French Toast"
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "436 kcal"
+,"carbohydrateContent": "36 g"
+,"cholesterolContent": "211 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "11 g"
+,"saturatedFatContent": "15 g"
+,"sodiumContent": "686 mg"
+,"fatContent": "27 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"4 large croissants, halved horizontally, left out overnight",
+"3 large eggs",
+"0.5 cup half-and-half",
+"1 tablespoon white sugar",
+"2 teaspoons vanilla extract",
+"0.5 teaspoon ground cinnamon",
+"0.25 teaspoon salt",
+"1 pinch ground nutmeg",
+"2 tablespoons unsalted butter" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 200 degrees F (95 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk eggs, half-and-half, sugar, vanilla, cinnamon, salt, and nutmeg together in a shallow bowl. Dip each croissant half into the egg mixture, one at a time, flipping it and lightly pressing down, until well coated."
+} ,{
+"@type": "HowToStep"
+,"text": "Melt the butter in a large skillet over medium heat; add four croissant halves, cut side down. Fry until browned on both sides, turning once, 2 to 3 minutes per side. Transfer to the oven to keep warm while you cook the remaining croissants."
+} ,{
+"@type": "HowToStep"
+,"text": "Serve warm with your favorite toppings."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT505M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8495603/croissant-french-toast/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/78/breakfast-and-brunch/",
+"name": "Breakfast and Brunch"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/149/breakfast-and-brunch/french-toast/",
+"name": "French Toast Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8495603/croissant-french-toast/",
+"name": "Croissant French Toast"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

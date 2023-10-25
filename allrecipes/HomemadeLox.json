@@ -1,0 +1,368 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Homemade Lox"
+,"datePublished": "2020-06-19T00:17:45.000-04:00"
+,"dateModified": "2022-12-19T15:58:36.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Wacky Noodles"
+,"url": "https://www.allrecipes.com/cook/3903318"
+}
+]
+,"description": "Make homemade lox by curing salmon in sugar and kosher salt for 48 hours, then rinsing in liquid smoke water with this easy recipe perfect for brunch."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/rYFHBqf9rH_sziYyuBsLd7Ay1Js=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5116242-homemade-lox-Alan-Oliver-4x3-1-56e20b7b12e44dd4b358a692a3f34b5e.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Homemade Lox"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "19"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "120 kcal"
+,"carbohydrateContent": "13 g"
+,"cholesterolContent": "24 mg"
+,"proteinContent": "10 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "5719 mg"
+,"sugarContent": "13 g"
+,"fatContent": "3 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1 pound salmon fillet, bones removed",
+"0.5 cup kosher salt",
+"0.5 cup white sugar",
+"9 drops liquid smoke flavoring" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Rinse salmon with water; pat dry with paper towels."
+} ,{
+"@type": "HowToStep"
+,"text": "Lay a piece of plastic wrap onto a flat surface. Mix together kosher salt and sugar in a small bowl. Pour 1/2 of the salt mixture onto the plastic wrap; lay salmon on top. Cover salmon with remaining salt mixture."
+} ,{
+"@type": "HowToStep"
+,"text": "Fold plastic wrap around salmon until secure; cover with a second layer of plastic wrap. Transfer to a 9x9-inch baking pan; cover with an 8x8-inch baking pan. Place a heavy object onto the smaller baking pan to weigh salmon down. Cure in the refrigerator until salmon&#39;s surface is silky, about 48 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Fill a large bowl with ice water. Fill a second bowl with cold water and 3 drops liquid smoke."
+} ,{
+"@type": "HowToStep"
+,"text": "Unwrap salmon and dip in liquid smoke mixture to rinse. Remove to ice water and let sit, submerged, for 30 minutes. Repeat rinsing and submerging 2 more times, adding 3 drops liquid smoke to ice water each time."
+} ,{
+"@type": "HowToStep"
+,"text": "Dry salmon with paper towels. Slice with a sharp knife, starting at the thin edge."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT2930M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Wacky Noodles"
+},
+"reviewBody": "I created this recipe. So if you enjoy lox, give this a try. If you don't have kosher salt, use half the amount of regular salt. This was created after much trial and error following what I found in other recipes. I want to say something like I stood on the shoulders of giants, but yes that goes a bit too far. I have to say thanks for the nice person, Alan, that posted and absolutely beautiful photo. Food is love. Feed love to those around you and you'll find it comes back to you. Life is too short, enjoy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Elizabeth Wilson"
+},
+"reviewBody": "Absolutely delicious,have made this several times. I Love It!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "fruitdog"
+},
+"reviewBody": "Love Lox, Gravlax...even with Kosher salt this was a bit salty on it's own. Perhaps when eaten with something else to tame it, this would be more palatable. The recipe didn't say to remove the skin, so I left it on. Don't do that, remove the skin. It seemed the slices I tasted with the skins on were more salty than the ones I had removed the skins after the salt process. Will do again because it's just too cool to have this homemade! Thank you for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Philip L Ireland"
+},
+"reviewBody": "Excellent for homemade, just as good or better than store bought at a far less cost. Was great with bagels and cream cheese. Can I split the lox and vacuum seal part of it, and how long would it last?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sandra Larson"
+},
+"reviewBody": "Easy to do and my husband, the lox man, and my friend, the lox, cream cheese and bagels girl, loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Austin Chenelle"
+},
+"reviewBody": "Another review points out that lox should be [cold] smoked, this is simply not true. Lox is never smoked and is strictly brined as the curing process; fantastic recipe for traditional lox that tastes just like the real deli product. Gravlax is very similar but would have juniper berries among other specific flavorings."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Paul"
+},
+"reviewBody": "This was super easy and delicious. Will be making more soon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Roger T"
+},
+"reviewBody": "Used this recipe without the liquid smoke. Came out delicious with saltines, sliced red onion, capers and cream cheese. Used non farm raised salmon.... fish taste came thru light and not overbearing. Easy to make and good for appetizer or bagel sandwich."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jajam"
+},
+"reviewBody": "Good basic proportions for the lox of my east coast childhood, if you ignore the optional smoke flavor. Lox is not smoked, so that would make it unlike lox. Although Nova Scotia smoked salmon is sometimes called lox, to quote Epicurious, “Smoked salmon is cured or brined, then smoked. Lox is cured, but not smoked.”"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joe C"
+},
+"reviewBody": "So easy and so good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Eater"
+},
+"reviewBody": "To umax: Generally if your lox is salty, you probably used table salt rather than Kosher salt. Huge difference."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Cha Stefan"
+},
+"reviewBody": "Your recipe is excellent. However, it’s Gravlax not Lox. ( Lox is either cold smoked or smoked not just smoke flavored). One point I would strongly suggest for any cured Salmon, DO NOT use farm raised only Wild Salmon should be cured for Gravlax. Try adding a liberal amount of fresh dill when curing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Keith Brockmiller"
+},
+"reviewBody": "Interesting, but I'm wondering if you didn't like the smoke because it's artificial? Maybe try some real smoke?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jeanne Ciuffo"
+},
+"reviewBody": "This recipe was not only easy but delicious. After letting it sit in my refrigerator for 48 hours wrapped tight with holes at one end to let out water, I rinsed it and dipped it into water with liquid smoke just once. My husband and I couldn’t get over how delicious it is. A definite must try !!!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alan Oliver"
+},
+"reviewBody": "I've been using this recipe for quite some time now and it just gets better with time! This time I added cracked pepper and dried dill and let cure for 3 days. The ideas for ingredients are limitless. This is excellent on bagels, open faced sandwiches to cold pasta salad. An inexpensive alternative from store bought lox or smoked salmon, and made exactly the way you like it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "umax"
+},
+"reviewBody": "Followed the recipe as directed but this came out really really salty. It was so salty is was not edible. Will try again but not sure how much salt I can safely take out to ensure it properly cures."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Marina Gurbanov"
+},
+"reviewBody": "this is great! super simple and tastes great! I did keep it in the salt and sugar mixture for a longer time (by accident) and the second time I made it I used a gallon ziplock bag instead of the wrap."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kari"
+},
+"reviewBody": "I added a half tablespoon of smoked salt and it came out perfect!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/254896/homemade-lox/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/150/breakfast-and-brunch/meat-and-seafood/",
+"name": "Meat and Seafood"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/2428/breakfast-and-brunch/meat-and-seafood/seafood/",
+"name": "Seafood"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/254896/homemade-lox/",
+"name": "Homemade Lox"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

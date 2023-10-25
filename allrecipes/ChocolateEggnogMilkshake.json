@@ -1,0 +1,116 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Chocolate Eggnog Milkshake"
+,"datePublished": "2022-11-03T16:34:48.000-04:00"
+,"dateModified": "2022-11-03T16:34:48.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "lutzflcat"
+,"url": "https://www.allrecipes.com/cook/lutzflcat"
+}
+]
+,"description": "The holidays are a time for indulgence so why not sip this delicious chocolate eggnog milkshake? You can easily turn it into an adult beverage by adding a dash of vodka or rum."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/QOo1HNoAAydpgiHgjFQmywaziRk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1667147637Eggnog-Chocolate20Milkshake-2000-b289fd9c049042809d3a14774a881db8.jpeg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Chocolate Eggnog Milkshake"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "575 kcal"
+,"carbohydrateContent": "88 g"
+,"cholesterolContent": "199 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "19 g"
+,"saturatedFatContent": "9 g"
+,"sodiumContent": "290 mg"
+,"fatContent": "16 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1.5 cups low-fat vanilla ice cream",
+"0.75 cup low-fat eggnog",
+"2 tablespoons chocolate syrup, plus more for garnish",
+"whipped cream (optional)" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine ice cream, eggnog, and 2 tablespoons of chocolate syrup in a blender, and process until well-combined."
+} ,{
+"@type": "HowToStep"
+,"text": "Drizzle some chocolate syrup down the sides of the glass in a random pattern, and pour in the milkshake. Top with whipped cream, if desired."
+} ]
+,"recipeYield": ["1"]
+,"totalTime": "PT10M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8503936/chocolate-eggnog-milkshake/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/137/drinks/shakes-and-floats/",
+"name": "Shakes and Floats Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/135/drinks/shakes-and-floats/chocolate/",
+"name": "Chocolate"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8503936/chocolate-eggnog-milkshake/",
+"name": "Chocolate Eggnog Milkshake"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

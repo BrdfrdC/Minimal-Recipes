@@ -1,0 +1,1413 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Jasmine Rice"
+,"datePublished": "1999-11-19T17:27:47.000-05:00"
+,"dateModified": "2022-09-11T20:39:33.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Brian"
+,"url": "https://www.allrecipes.com/cook/Brian"
+}
+]
+,"description": "This beautiful rice is infused with onion, a few bay leaves and peas while it simmers and cooks on the stove. The result is a fragrant and very pretty rice pilaf. Serves four."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/bcsmTUxTja-7i_JP8WDrzZ9SAEs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1117118-jasmine-rice-naples34102-4x3-1-57a22a0875964357bf3030e3efbac523.jpg",
+"height": 720,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Jasmine Rice"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.2",
+"ratingCount": "131"
+}
+,"cookTime": "PT50M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "325 kcal"
+,"carbohydrateContent": "59 g"
+,"fiberContent": "1 g"
+,"proteinContent": "5 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "1 mg"
+,"sugarContent": "0 g"
+,"fatContent": "7 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"2 tablespoons olive oil",
+"2 tablespoons chopped onion",
+"0.25 cup green peas",
+"1 bay leaf",
+"1.5 cups dry jasmine rice",
+"3 cups water",
+"salt to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "In a large saucepan over a medium-low heat, warm the oil. Add onion and saute for 3 to 5 minutes. Mix in green peas, bay leaf, and jasmine rice. Stir to coat the rice."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour 3 cups water into the saucepan and add the salt. Increase the heat to medium and let the rice come to a quick simmer. Reduce heat to low and let rice simmer lightly and sit uncovered until all of the liquid is absorbed. Cover the rice and remove from heat. Let sit for about 40 minutes."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT60M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sally Michaud"
+},
+"reviewBody": "I made this but tried to make only half it was so good, I will make full recipe next time"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Angela Freeland"
+},
+"reviewBody": "Easy to put together with standard pantry ingredients - I used italian seasoning instead of bay leaf... liked it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Yaz"
+},
+"reviewBody": "I omitted the bay leaf, but I like the suggestion of sautéed onions and peas. Family loves peas in their mac n cheese- so here is another way to get peas into the diet. Came out very nice! Also added some butter."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bob Marini"
+},
+"reviewBody": "Great rice"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "boris haranki"
+},
+"reviewBody": "Very simple and easy to follow instructions."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "LJ"
+},
+"reviewBody": "I thought this was a solid recipe. Made it as is and served our with seared scallops and mango salsa alongside some steamed broccoli. Very good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Frenchbone"
+},
+"reviewBody": "Good stuff!! Makes a lot!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "deb"
+},
+"reviewBody": "The best rice!! It’s all about the bay leaf here. Amazing flavor. I questioned the cooking instructions, but it worked out fine. Love this rice! Making it today for the third time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mdvillarreale"
+},
+"reviewBody": "Love it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Latina99"
+},
+"reviewBody": "Nice and fluffy , tastes good. Will make again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LisaC108"
+},
+"reviewBody": "A great side dish! I actually used this recipe as inspiration, but made some changes. I had \"quick\" jasmine rice that you boil in the bag. But I shredded a couple of carrots &amp; sauteed those with some chopped onion &amp; butter and added those to the rice after it was cooked. It's a great side!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Christina"
+},
+"reviewBody": "Rice turned out great. I used raw peas and they came out a bit crunchy. I should have boiled them a bit longer. I will definitely try this again :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Nancy Duggan"
+},
+"reviewBody": "Silly letting it sit for 40 minutes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gina"
+},
+"reviewBody": "Great recipe!! I used a whole bag of frozen peas and carrots because I wanted more veggies in it. I also used half chicken broth and half water for the liquid and sautéed some"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rentata T"
+},
+"reviewBody": "This is a very traditional jasmine rice. For the people complaining that it's plain, that's how the recipe is. That's how it's supposed to taste. In my opinion, it's not so much plain, just different from the strongly spiced rices others might be used to. This is an excellent base for fried rice recipe, as well. My only differences were I used coconut oil, and I didn't put in peas as I dislike peas. That's all."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Chaya"
+},
+"reviewBody": "pretty bland, but the rice itself is good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ToybobMama11"
+},
+"reviewBody": "I added garlic and more veggies. I actually didn't follow the recipe exactly by mistake and it still turned out well. Added some fresh parmesan on top. It was nice. nice complement to a stronger dish"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "JennaOgriz"
+},
+"reviewBody": "I had friends come over last night and I made this dish. They all loved it. The kids especially ate the heck out of it. The only change I made to the recipe was I substituted vegetable broth/stock in place of the water to add flavor. It was delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Maggie Kowal-Shlaferman"
+},
+"reviewBody": "Just followed the recipe and it came out great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ken"
+},
+"reviewBody": "I made this dish to accompany the copycat chipotle chicken (found on this website) &amp; it was good. I thought the rice had great flavor unlike some of the other reviewers. However, I did add an additional bay leaf. When my daughter said, \"Dad, you have to make this again\", I knew it was a winner."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kimberly"
+},
+"reviewBody": "I added a light dressing of lemon juice, oil, salt &amp; sugar. I also added clock"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ray O"
+},
+"reviewBody": "Enjoyed this recipe very much. Would not change anything"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stircrazy"
+},
+"reviewBody": "Will make this again. The bay leaf gives the rice a nice subtle taste. Served this as a side dish and it was well recieved by my dinner guests."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathy Walsh"
+},
+"reviewBody": "Used chicken broth. It was so good! I loved the bay leaf in it and just the perfect amount of peas for us."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "shrinerm"
+},
+"reviewBody": "I've made this rice several times now - both on stovetop and with an electric pressure cooker. I use 1:1.5 ratio of rice:liquid to keep it from getting mushy In the pressure cooker. Use reduced sodium chicken broth instead of water for a little extra flavor.....great recipe, thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Andrea Parker"
+},
+"reviewBody": "So good and so easy. I make it in my rice cooker."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Rush"
+},
+"reviewBody": "I followed this recipe exactly and it came out perfect! Great flavor!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathleen Breitfeld"
+},
+"reviewBody": "I thought this had a great simple flavor rice. Just adds enough of a change to simple rice and can be changed to what's on hand! I unfortunately realized I was out of onions and didn't know what to do because chicken dinner was in oven, so used dehydrated minced onion and fresh garlic. Used all chicken broth and shredded carrots with the peas. Simple but just enough flavor to compliment a stronger flavored maincourse. Enjoyed will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kay"
+},
+"reviewBody": "This recipe seems so simple but its so GOOD! I always use basmati and wanted to try jasmine rice for a change. My six year old and I gobbled this up! It's so good you can eat it as a side or by itself! I wasn't too sure about the onions because I don't usually do that with my rice but they give the rice a subtle but really good flavor. This recipe is a keeper. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jacqui Galik"
+},
+"reviewBody": "I've been making this recipe for years, we all love it! Recently I switched to a coconut oil with a mild coconut taste, plus I've started adding a freshly ground sea salt/garlic mix I have."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lilbeing"
+},
+"reviewBody": "I love this recipe and it's my go-to recipe for rice! It's really simple and it cooks the rice to a fluffy perfection. The only things I changed on a regular basis, is that I use chicken or beef bouillon in my water for more flavor, which means I can cut down on the salt added to the recipe. I also usually add pepper to taste, as well, and sometimes substitute corn for peas. I will probably never use another recipe for white rice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Emmycat"
+},
+"reviewBody": "This was a wonderful rice for our dinner tonite. It accompanied honey walnut shrimp and steamed broccoli. I didn't measure the oil, onions, or peas, so I likely added more than the recipe calls for. We had some breeze coming into the kitchen and blowing the gas flames on the stove top so I had to adjust the cooking a bit. Brought to a boil with the lid on and then turned down to simmer with lid still on, for about 20 minutes. Then moved off heat and let sit for 20 more minutes with lid still on. I also added a bit of fresh basil.\n\nFluffy, moist, tasty, mild rice that was perfect for our Chinese shrimp dish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "LoJurz"
+},
+"reviewBody": "Add garlic too! Precook peas might help as well as less amount of peas!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "naples34102"
+},
+"reviewBody": "Perfect! I needed a simple rice, something beyond just basic cooked rice, but nothing that would detract from the main dish. I wanted it to be a tasty and attractive supporting side dish. This was exactly what I wanted. Beautiful bright white contrasting attractively with the bright green peas (I added a little extra). Just enough flavor from the onion and the bay leaf. This was an excellent foundation for \"Halibut with Tomato-Basil Sauce,\" also from this site. Very pleased!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Robin Lestina-Cikanek"
+},
+"reviewBody": "Very good. I added 3 cloves of garlic as was suggested by a previous user. Perfect. Be aware that Jasmine Rice has a mild flavor. Don't look for some spicy side dish here. I served it with seared tuna steaks and sautéed kale. Yum."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bill Hildreth"
+},
+"reviewBody": "Perfect companion to the Baked Halibut Steak one of my favorites from this site). Served the halibut o a bed of jasmine rice with steamed asparagus. Was a smash hit with my guests."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "sweetn'sour"
+},
+"reviewBody": "This recipe tasted bland. I had thai jasmine BROWN rice, so i don't know if the strong brown rice taste took away from the flavors and I didn't add the bay leaf. Also, I made this with chicken stalk and water 50/50. I will try this again with regular jasmine rice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Carrie"
+},
+"reviewBody": "I added garlic and omitted the peas because.... well no one, including myself, would not have liked that. This dish was very flavorful and was a nice change up from the standard jasmine rice my family eats."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "msharp99"
+},
+"reviewBody": "This rice was a good change from plain jasmine, but didn't have the herby flavor I expected. I will be adding more herbs next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Mina"
+},
+"reviewBody": "Sweet is really not my thing, so although I added more peas and onion and got a really interesting taste, I also added one spoonfull of slightly tart yoghurt and seasoned with large crystals of salt."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mbeardsley1"
+},
+"reviewBody": "Excellent recipe!! very delicate (not bland as noted in some reviews). I make this as a side dish to grilled thai marinaded shrimp. It's one of my family's favorite recipes, especially in the summer."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christine Laliberte"
+},
+"reviewBody": "I really loved this rice i added 3 cloves of garlic with the onion and cooked for 15 min as stated on the jasmine rice package and I added the peas at the end so they didnt get mushy. Flavor is subtle but thats what I wanted"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "NK"
+},
+"reviewBody": "Delicious. I substituted green onion for additional color and to reduce some of the acidity. Nice compliments from the guests!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Melanie Hagewood Willhite"
+},
+"reviewBody": "Very good - I needed to cook a little longer than the recipe called for..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christine"
+},
+"reviewBody": "Simple and delicious. This is a keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Brina Danielle-Cassidy Hartman"
+},
+"reviewBody": "It seemed very bland to me, but my kids ate it and really seemed to like it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joyce"
+},
+"reviewBody": "I just made this rice to accompany a garlic citrus chicken dinner. I sauteed 2 TBS olive oil with minced onion and minced garlic. I did not have any peas so I grated 2 large carrots and added to garlic and onion. Added 1 1/2 cups of jasmine rice and stirred to coat. Poured in 2 cups chicken broth and 1 cup water. Added 1 bay leaf, chopped fresh basil, and some ground black pepper. I did not add salt since I used the chicken broth which is high in sodium. Brought to a slight boil then put on low until all liquid was gone stirring occasionally. Took off heat and covered for 40 minutes. It was the best rice I have ever cooked. Thank you for the base recipe. You can do so many variations with this one. Enjoy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "pr3shussNatasha"
+},
+"reviewBody": "I added extra onion, garlic, a little bit of Chinese tianjin preserved vegetable to the oil.. then the peas, followed by the rice with 1 cup water and 2 cups chicken broth. I didn't use the bay leaf. My rice came out perfect though. and absolutely loved it. next time I make it I will use more Tianjin and possibly a touch of ginger."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah Gantt"
+},
+"reviewBody": "don't waste your time!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Jamie Pulk"
+},
+"reviewBody": "i followed the recipe, except for the cooking directions. i didnt have as much time as it called for, so i covered it while steaming instead of letting the water cook off uncovered. i also did not need to let it sit afterwards. it was very mild, and went great with the thai food i made. great recipe, i love the peas."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "A R"
+},
+"reviewBody": "Simple mild taste. Serve with a strong flavour main dish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Roseheart"
+},
+"reviewBody": "I love Jasmine rice! One small addition which I would recommend to those who find the taste still a bit bland. Instead of water use chicken broth and you may also want to add some red pepper to add a little more colour and taste to it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This was the first time I had Jasmine &amp; it was a pleasant experience. I was expecting a stronger flavor but was glad that it was subtle. I made it with sesame chicken (also from this site) &amp; thought it was a perfect combination. Loved the peas in it... Made for a pretty rice dish! Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cookerlady"
+},
+"reviewBody": "The secret is to only use fresh or frozen peas and enjoy the subtle flowery taste and smell of jasmine rice. I would nix the bay leaf next time. Overall, this is a beautiful recipe! Thanks for posting it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sandi Kester-Hayes"
+},
+"reviewBody": "This is really good rice. I love the flavor of the bay in it. I did change slightly. Used only chicken broth. I used about 1/4 cup onion and about 1/2 cup peas and cut the recipe for the rice and broth by a 1/3. Still more than 4 servings. Must be some really big servings."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Bibibel"
+},
+"reviewBody": "This is good if you like mushy rice, but if you like the grains to still be solid and separate, reduce water to 1.5 ratio instead of 2. So that would be 2 1/4 cup liquid for 1 1/2 cup rice. Other rices do need more water, but jasmine and basmati do better with less. I do love peas in my rice, so great idea."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anna Doyle Lundy"
+},
+"reviewBody": "This was really good. Followed the recipe and it worked great! I made this to go with Pineapple Chicken tenders from this website."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "chibiharuka"
+},
+"reviewBody": "very light almost to light in flavor. nice consistency, will make it w/chicken broth next time"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Cooking Kitty"
+},
+"reviewBody": "Average..I agree with others that this rice really didnt have much to it. Maybe by adding chicken broth it would be good. I just wanted to stick to the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "AllyBakes"
+},
+"reviewBody": "3 things are missing from this recipe: minced garlic, fresh sliced mushrooms and chicken or beef broth (depending on what you serve the rice with). Add the minced garlic with the onions to saute. To the onion/garlic saute I also added salt, pepper,basil and a pinch of crushed red pepper flakes. I added 1 cup of sliced fresh mushrooms with the peas, rices, etc. For 1 cup of rice, I used 1 cup water and 1 cup broth. My rice was slightly under cooked, so I'd recommend letting the rice simmer for about 10 mins before reducing heat. Had the rice been perfectly cooked and with these 3 additions, this recipe would be 5 stars."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Angela F."
+},
+"reviewBody": "This taste like plain steamed rice with peas mixed in. With that being said, i liked it. I liked the peas with the rice but i cant give it more than 3 stars cause it didnt taste like anything. The onions, and bay leaf did nothing and was a waste of time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dancing Queen"
+},
+"reviewBody": "I added everything to my rice cooker, with the additional of some Italian seasoning. It turned out perfect. I really liked the addition of the peas. I served with Fish Fillets Italiano from the site. This was a nice change to plain white rice. Thanks for sharing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "homeschooler3"
+},
+"reviewBody": "This is so easy and so good. It makes quite a bit but we did not have any leftovers. My husband and three boys could not get enough of it. I will make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Becky"
+},
+"reviewBody": "I cooked this in my rice cooker. Use a little bit of garlic anduse chicken broth instead water. I will do it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "may"
+},
+"reviewBody": "This rice was very, very good. I left out the peas. I made it with the \"Curried Coconut Chicken\"... it was unbelievable."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chef4Six"
+},
+"reviewBody": "We liked this recipe a lot! I added some freshly chopped garlic to the sauteed onion and used baby lima beans instead of the peas. I will make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Riss"
+},
+"reviewBody": "Excellent recipe to add a little depth to jasmine rice. Prepared as written, this dish went very well with Red Lentil Curry http://allrecipes.com/Recipe/Red-Lentil-Curry/Detail.aspx"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rich Greer"
+},
+"reviewBody": "Jasmine Rice is my favorite rice and this recipe makes it even better. This recipe says it makes 4 servings. Actually, it makes at least 8 reasonably sized servings. I substituted carrots (which I cut into very small pieces) for the peas and (in my opinion) carrots work better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Larry G Jones"
+},
+"reviewBody": "Not quite as flavorful as I thought it was going to be. Next time I might use a chicken buillion cube."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "beanscooks"
+},
+"reviewBody": "The flavor is subtle enough to go with just about anything. I served this with honey-mustard-curry baked chicken for company and it was a hit. Looks nicer than serving plain rice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "GNFSHN4"
+},
+"reviewBody": "VERY GOOD--ADDED A LITTLE GRATED GINGER-- AT THE END RICE DOES NOT NEED TO SIT- FOR 40 MINS-- 10 MINS IS PLENTY"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Charlee"
+},
+"reviewBody": "This was my first experience with\njasmine rice and your recipe was outstanding! Being a vegetarian, I could make a meal out of this very flavorful rice. Will definitely make this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Eliza"
+},
+"reviewBody": "Good recipe with very subtle flavours. The preparation is great- I have struggled for years successfully boiling rice (the one thing I could never make) and the instructions here brought perfect results. Allowing the rice to sit after cooking seemed to be the trick. I would suggest making this with a strong flavoured side; I made it with Chinese Roast Pork and Chinese Green Bean Stir Fry, both from this site. The strong flavours of these two dishes and resulting sauce from the pork combined for a fantastic dinner and my guests raved. \n\nSo, great recipe, easy preparation, foolproof cooking instructions and very subtle flavour. I'll certainly make it again to accompany a stronger dish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ms. Chef Esh"
+},
+"reviewBody": "This was a wonderful accompaniment to my grilled cedar plank salmon, it has such a mild, but oh so fragrant taste. I substituted shallots for the onion, I love the milder onion flavor from them. I also used 2 cups chicken stock and 1 cup of white wine, and added in some sauteed minced fresh garlic and baby bella mushrooms. I can't make to make this dish again and again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "missdrea"
+},
+"reviewBody": "i used chix broth instead of the water and used a little less olive oil but did everything else as written.i even threw my peas in still frozen and it turned out perfect. very good and easy. the only thing to watch out for is the 40 min resting time. i didnt notice that when i started the recipe so i had to put a hold on the rest of dinner. served this w/ lemon garlic tilapia."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Mary Scott"
+},
+"reviewBody": "Great idea...I added garlic and mushrooms and used green onion and added seseme seeds and ginger and used half olive oil and half seseme oil and i used 2 cups chicken broth and one cup water. I added a dash of creole seasoning as well. This was enjoyed with the Crab stuffed chicken recipe i found on All Recipes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KellyC"
+},
+"reviewBody": "This was really good! I used sesame oil instead of olive oil, green onions instead of regular onion. After step 1 I dumped everything in my rice cooker... added the 3 cups of water and I was done. So easy!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah"
+},
+"reviewBody": "I liked that it was very quick and easy. The only thing is we thought it was a little bland, maybe it is the brand of rice were using. We ended up using the sauce from our baked soy lemon chops to kick it up a little. I will be making this again with a different brand of rice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Chowchick"
+},
+"reviewBody": "This was really good! I added extra onion. I also used some basil and rosemery and left out the bay leaf, just because I didn't have it. Served this with Garlic and Tomato Tilapia and Buttery Cooked Carrots. The rice was a nice complement to the fish. Will make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "wjr198"
+},
+"reviewBody": "Use garlic and onion"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Burnitup"
+},
+"reviewBody": "First time i cooked rice this way,turned out good and we enjoyed it with real Texas chili from this site,both together GREAT!!!!!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Adriana"
+},
+"reviewBody": "Very subtle aroma from the bay leaf. I had to substitute the rice and modify water content for pearl/white short grain (what I had on hand)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Dragngirle"
+},
+"reviewBody": "I precooked the rice before placing in with the rest of the ingredients. Usually when I don’t make rice this way it ends up being too sticky, not done enough or both. I used ¾ cup rice to 1 ¾ cup water (scaled to 2 servings). Doubled the amount of onions &amp; peas. Served with Hatian Voodoo Sticks (from this site) along with grilled pineapples &amp; peaches."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "chasity"
+},
+"reviewBody": "This was diffrent and good I cooked it with seared tuna verrry good I also added chicken stock instead of water and garlic salt."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Teisha Simmons"
+},
+"reviewBody": "This rice is amazing and I will make it again and again! It is so good that it goes with anything. We didn't use any water, only chicken broth."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sheila T"
+},
+"reviewBody": "I first found this recipe a few months ago and it's become a staple in our house. I make this at least once a month. Sometimes I leave out the peas and sometimes I use chicken broth instead of water."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Anna Hochadel"
+},
+"reviewBody": "It was OKAY it was just very strange tasting to me."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Reneé Stevens"
+},
+"reviewBody": "I agree with an earlier post. Not an impressive flavor. Very bland. Personally I've gotten better results from just using canned seasoned chicken or beef stock. Will not make this again. Thanks for sharing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Melly Gee"
+},
+"reviewBody": "My review: Not incredibly impressive, not offensive. Not overly flavourful, not worth the time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Karen Caprioni"
+},
+"reviewBody": "This a wonderful dish. Jasmine rice has the most heavenly smell as well as taste and this recipe brings it out."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "My entire family thought this was a wonderful recipe. If you follow the directions exactly, this rice cooks thoroughly and tastes wonderful. However I did use a combination of frozen peas and carrots because I did not have just peas. I also buy authentic \"jasmine rice\" from the international section of the grocery store ( mine comes from Thailand) which I believe tastes better than the ones you can buy in the regular rice section of your supermarket and it's cheaper! I also made it as an a side to a wonderful asian chicken recipe I have which I may share on here later. WONDERFUL RICE DISH! Thanks Brian!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "BIOPHILE"
+},
+"reviewBody": "This dish did not turn out well for me at all. The flavor was very, very bland. I would recommend adding some vegetable broth to the rice while cooking."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "SHARLIE60647"
+},
+"reviewBody": "This is a simple rice dish that goes with a lot of different main dishes. Like the other reviews you need to serve it with a strong dish. I served it with a nice New York Strip steak. I added one beef bouillion cube to it. I think next time I will add two. It makes more that 4 servings more like 6-8. I will put this in my box...."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Simple yet good reciple. I added a little more green peas than called for but besides that made it like the recipe called for. Watch out for the bay leaves when eating and be careful not to break them up when stirring the rice. I also do agree that it makes way more than four servings."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Chef Brown"
+},
+"reviewBody": "Pay attention to the rice so it doesn't stick to the bottom of the pan while cooking, it came out great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "HEATHER123"
+},
+"reviewBody": "this dish is ok but do remember that it does not go with everything."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "American Abroad"
+},
+"reviewBody": "I thought this was quite good - its taste is very subtle but it makes a very pretty and fragrant side dish (as opposed to plain old boring white rice). As someone else suggested, this rice works best when served with something that has a \"strong\" flavor (i.e. curry, black bean sauces, etc.)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Navy_Mommy"
+},
+"reviewBody": "The rice has a very subtle taste and I enjoyed it. I added some garlic while the onion was sauting and used one can of chicken stock in place of the part of the water. The rice was good however this makes a lot more than four servings. Because the meat I made the rice with had a strong taste it complimented well. I wouldn't suggest this unless your meat has a lot of flavor. Also, all I had was a can of peas and carrots. I though this needed more vegetables though and next time I would double the amount."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "WINNONA"
+},
+"reviewBody": "Suggestion: cover the rice as it absorbs the water. Otherwise you get crunchy, uncooked rice. Yuck! The flavor was mild."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/14136/jasmine-rice/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/225/side-dish/vegetables/",
+"name": "Vegetables"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/2018/side-dish/vegetables/green-peas/",
+"name": "Green Peas"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/14136/jasmine-rice/",
+"name": "Jasmine Rice"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

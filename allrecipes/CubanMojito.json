@@ -1,0 +1,516 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Cuban Mojito"
+,"datePublished": "2020-06-18T23:32:59.000-04:00"
+,"dateModified": "2023-02-20T12:58:43.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "TealaB"
+,"url": "https://www.allrecipes.com/cook/2559316"
+}
+]
+,"description": "This Cuban mojito blends sugar, fresh lime juice, mint sprigs, rum, and club soda for a sweet, citrusy refreshing drink perfect on a hot summer day."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/WWTbARhk3S0vRwfcqU79BOXbqh4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6098663-cuban-mojito-AllrecipesPhoto-1x1-1-5f47337a0fbb495fa118288bce5cf7c3.jpg",
+"height": 960,
+"width": 960
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=5973759540001",
+"description": "Watch how to make Cuban mojito!",
+"duration": "PT43S",
+"name": "Cuban Mojito",
+"thumbnailUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/587ccf80-c381-4634-8339-15df292bb08a/40372dc4-a89b-4d05-af2f-fb1faca055d3/1280x720/match/image.jpg",
+"uploadDate": "2020-10-21T04:25:06.684-04:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Cuban Mojito"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "44"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"2 teaspoons white sugar",
+"1 lime, cut into 4 wedges",
+"4 sprigs fresh mint",
+"2 cups crushed ice, or as needed",
+"0.5 cup white rum",
+"2 cups club soda" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place 1 teaspoon sugar each into two 12-ounce glasses. Squeeze juice from a lime wedge into each glass and drop in the wedge. Place 2 mint sprigs into each glass. Use a spoon or muddler to mash lime mixture together in the bottom of the glasses."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/WWTbARhk3S0vRwfcqU79BOXbqh4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6098663-cuban-mojito-AllrecipesPhoto-1x1-1-5f47337a0fbb495fa118288bce5cf7c3.jpg"
+}
+]
+,"text": "Fill each glass about half full with crushed ice. Pour 1/4 cup rum into each glass. Fill the glasses with club soda, stir, and garnish with remaining lime wedges."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT10M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Very simple and very refreshing to have during these hot afternoons."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Abby"
+},
+"reviewBody": "Such a easy recipe and great use of my mint plant this summer. For my seltzer I had a lime flavored seltzer. I also bought a lime flavored light rum."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Abby"
+},
+"reviewBody": "Such a easy recipe and great use of my mint plant this summer. For my seltzer I had a lime flavored seltzer. I also bought a lime flavored light rum."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sosmad"
+},
+"reviewBody": "Classic!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Doug Batchelder"
+},
+"reviewBody": "Nice smooth. Not too sweet"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Mark Krosse"
+},
+"reviewBody": "authentic variations - (ht to Key West Legal Rum Distillery)\n\n1/ two tsp (or 3, or 4) of turbinado / demerara sugar - imparts a molasses hint\n2/ KEY LIMES, eg key lime juice - imparts a more intense lime experience - see Kermit's or other\n3/ mint with their stems - stems have more mint oil than just leaves\n\navoid the slice of lime - the white pulp is extra bitter\n\nmuddle 20 times - no more, no less\n\nuse a long thin spoon, not a straw - the Mojito experience is to continue to work/remix the ingredients up &amp; down as you savor it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "harlgr8dane"
+},
+"reviewBody": "I've previously made mojitos using a sugar syrup rather than sugar. This seems to be the only difference. Other than at Cuban restaurants, I have not had a Mojito outside of Cuba that I really liked... till this one. Thanks."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "DON ROBERTSON"
+},
+"reviewBody": "Needed more sweetness for me."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mel"
+},
+"reviewBody": "I just made these and man, they were so good! Another person complained that they weren't sweet enough so i added a little more sugar. I used a mortar and pestle to grind up the sugar, lime wedge, and mint leaves and then i put it into the glass, added the rum and the soda water. The store didnt have club soda, but they had seltzer water, no problem with that. I crushed up my ice in a blender. I only had dark rum, so i used that, no problem. Just taste it as you go, to see if you have enough lime or sugar or mint leaves, to your liking. I added an additional mint leaf to each drink. Amazon has all those mortar and pestle grinders or wooden muddlers for stuff like this. You do have to use something to grind the mint leaves and lime wedges up, though. A spoon doesn't do the trick. You have to make these!!. Excellent!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "gloria1967"
+},
+"reviewBody": "I make this all the time for our girls night. Everyone loves it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "TopChef"
+},
+"reviewBody": "For each Mojito, I use half a lime muddled with 1 tsp (or 2, if you like it sweet) sugar and 12 mint leaves. Then add 1 shot rum to a glass, 3 shots club soda, and mix with the muddled mixture. This does not have nearly enough mint for my taste."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MRSSFOWLER"
+},
+"reviewBody": "Just like the ones I have had in Havana!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "STENODANA"
+},
+"reviewBody": "We also make these mojitos using whiskey."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "STOLZS"
+},
+"reviewBody": "Refreshing, simple and delicious! I added lilikoi juice to mine and liked it even more, yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Laurel"
+},
+"reviewBody": "This drink is just o.k. I have made this for several different gatherings, adding more sugar each time, and I still hear from guests that it needs to be sweeter."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Jane Worley"
+},
+"reviewBody": "Not sweet enough for my taste. Even doubled the sugar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "inounvme"
+},
+"reviewBody": "Mojitos' generally are sweeter in my opinion however, those who opted for the drink liked it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "angi_kole"
+},
+"reviewBody": "Definitely good but not sweet enough for me. I added a splenda packet to each drink and liked it better that way."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jessi Wynelle Tallent"
+},
+"reviewBody": "I also squeeze in some fresh orange juice. also for a little extra zing try a splash of ginger ale instead of club soda. I find club soda has a horrible after taste."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christine Mascott"
+},
+"reviewBody": "Yum! Went perfectly with a romantic bbq my hubby and I had last summer."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "4in4mom"
+},
+"reviewBody": "Perfect drink, everyone kept asking for the recipe and we quickly learned how rum can sneak up on you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DKBECK"
+},
+"reviewBody": "I made this many, many times this summer. Tastes just like what I've ordered at a bar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "amesalk"
+},
+"reviewBody": "The perfect summer drink! So refreshing....I'm going to make another and add some fresh berries! Yum."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dianne"
+},
+"reviewBody": "Very refreshing! I've never had a mojito before, let alone made one, but I had all of the ingredients and thought \"why not?\" I used spiced rum because that's all we had. Great served with a spicy meal or on a hot day to cool it down!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "NancyJak"
+},
+"reviewBody": "Really good mojitos but we went out and bought a muddler the next day because I couldn't get the mint nice and mashed!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Steph"
+},
+"reviewBody": "So we were trying to figure out a good way to make a mojito because my roommate isn't very good at it and we made this one. I thought it was very good- much better than his but a few people thought it was too sweet and other people said it was really good. But I would have given it 5 stars if it wasn't for them."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Corrine Hagstrom Mosburg"
+},
+"reviewBody": "YUM! Just like vacation. Made recipe exactly. Perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mymeshell"
+},
+"reviewBody": "This is a true Mojito! A must have recipe-I spend most of my summers in and around the Carribean, this drink always takes me back there!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Leslie"
+},
+"reviewBody": "THIS is a real mojito!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Karen Lopez Vado"
+},
+"reviewBody": "go poolside with this one:)"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/152219/cuban-mojito/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/237/world-cuisine/latin-american/",
+"name": "Latin American"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/230/world-cuisine/latin-american/caribbean/",
+"name": "Caribbean"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/152219/cuban-mojito/",
+"name": "Cuban Mojito"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

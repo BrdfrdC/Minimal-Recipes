@@ -1,0 +1,870 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Jamaican Fried Dumplings"
+,"datePublished": "2019-04-03T23:43:57.000-04:00"
+,"dateModified": "2022-06-01T08:40:08.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Stephanie"
+,"url": "https://www.allrecipes.com/cook/1599231"
+}
+]
+,"description": "These fried dumplings are very quick and easy to make. They&#39;re typically served with codfish in Jamaica as part of a big weekend breakfast."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/z8ySRnMCwHkZXB3V_-4iSBV7km4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7792354-e1d32f57a62240598dacdecaeaf710a8.jpg",
+"height": 2000,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Jamaican Fried Dumplings"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.3",
+"ratingCount": "69"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "472 kcal"
+,"carbohydrateContent": "64 g"
+,"cholesterolContent": "41 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "9 g"
+,"saturatedFatContent": "10 g"
+,"sodiumContent": "855 mg"
+,"sugarContent": "0 g"
+,"fatContent": "20 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"4 cups all-purpose flour",
+"2 teaspoons baking powder",
+"1.5 teaspoons salt",
+"0.5 cup butter, cut into cubes and softened",
+"0.5 cup cold water",
+"1 cup vegetable oil for frying" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Mix flour, baking powder, and salt together in a large bowl. Rub in butter until the mixture is crumbly. Mix in water, 1 tablespoon at a time, to form a firm dough; knead briefly."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat oil in a large heavy skillet over medium heat."
+} ,{
+"@type": "HowToStep"
+,"text": "Break off pieces of dough and shape them into biscuit-like patties. Place just enough of the dumplings into the hot oil so they are not crowded; fry until golden brown, about 3 minutes per side. Remove from the pan and drain on paper towels before serving."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT20M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "It's almost the same recipe we use. I replace water with milk and I do not use butter. For those people that had hard dumplings, it's the heat, not the recipe. Been making these for years. Try stepping down the heat slightly and ensure the oil is not too hot before the patties go in, it will be disappointing"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kittenstar501"
+},
+"reviewBody": "It's Fabulous! I fried mine in a deep frier (they were smaller pieces) and left out the salt because I was using salted butter. If you want it to be savory do the salt anyway, even if you used salted butter. Use cinnamon sugar if you want to make it sweet! (even though that probably isn't the point) It's really good. (Leave out the salt if you want to top it with cinnamon sugar)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Andrew Smith"
+},
+"reviewBody": "Never been able to make fry dumplings until this recipe. Very simple. Mine where flat tho lol"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I’m sorry but these turned out awful. Flour water salt and baking powder is all you need. I tried this recipe just to do something different and the outsides were rock hard and the inside still gooey. Never heard of adding butter either and gave it a weird mixture that wouldn’t knead fully with only half a cup of water. Sorry but this was a bust for me."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "The recipe was good but instead of flattening the dough I rolled/made it like a normal boil dumpling. It turned out really good. Thanks for the assist. ❤️"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brianne M."
+},
+"reviewBody": "They tasted really good after I made it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sweetie"
+},
+"reviewBody": "This recipe was perfect! Had them with tin sardines and white rice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ethan"
+},
+"reviewBody": "loved it was very soft will make it again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "newmexjags"
+},
+"reviewBody": "These were pretty fabulous. I used milk instead of water and added about 2 tablespoons sugar. This is a basic biscuit recipe but frying makes them magical! crispy on the outside, soft as pillows inside. We dunked them in gravy, slathered them with butter and jam. Mine came out misshapen but who cares? Practice will make perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Zakiyyah Jacobson"
+},
+"reviewBody": "Needed more water that indicated and I made half the batch. It was good though and I added a tip of sugar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sabrina Ellis"
+},
+"reviewBody": "They're just like the way my Aunties used to make for me when I was little!! Really simple but really good nice job."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Slimequeen Amanda"
+},
+"reviewBody": "have made this multiple times and every time it comes out amazing! My family loves this and enjoys it I am always very happy with the results from this recipe and happy I can enjoy this I am only 11 years old and I can do this by myself, I am happy how these have come out thank you for this recipe!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tammy Dee Foster"
+},
+"reviewBody": "I made these and the are delicious. They didn’t fast all that buttery but I halved the recipe so o wonder if that made a difference. I made brown stew chicken and they were an excellent addition to the meal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lornette Ledan"
+},
+"reviewBody": "I add just a little bit of sugar.. my kids love it about 1/2 cup"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Ryan"
+},
+"reviewBody": "There must be some miscommunication somewhere with one of the ingredients because like a few other reviewers - mine turned out like rocks, too. Not sure what to say. Obviously the rocks were bad."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "mollie"
+},
+"reviewBody": "The only problem was the ingredient measurements. If you use 4 cups flour to 1/2 cup water and 1/2 cup butter you get a non usable batter. I increased the butter and water to 1 cup each then they were great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "learningtocook"
+},
+"reviewBody": "Great dumplings! They turn out more like biscuits but they are excellent. The amount of water in the recipe is incorrect. I used closer to 1 1/4 cups of water. Also, when frying, use a high walled pot. That reduces oil splatter. The three minutes per side is insufficient - it will take more like five minutes per side at medium heat. Basically cook them until they are golden brown on each side. Yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Christina Figueroa"
+},
+"reviewBody": "I saw so many great reviews and decided to make these. It came out horrible. I followed the recipe exactly and it was extremely dry. I had to add way more water. After I fried them they taste like biscuits and not like dumplings. The whole batch went in the garbage. Will definitely be finding another recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Norma Brown"
+},
+"reviewBody": "I believe this is called \"festival\" in Jamaica and is supposed to fry up as a ball, not flat. Delicious. Puerto Rico has similar, with raisins added."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kay Hall"
+},
+"reviewBody": "This receipe is absolutley perfect. Instead of cold water i used cold iced milk! Perfect and delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Vanessa Epps"
+},
+"reviewBody": "I added some corn meal for added texture and I made some rounder than flatter. Very good! My daughter said they taste like homemade biscuits!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Chefstacey"
+},
+"reviewBody": "These came out good overall, except I had to add more water than what the recipe called for... I probably would still have to add a little more water the next time I make them. Also, deep frying them and covering the pot for a min or two will help cook it through and still be crispy on the outside"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gracie"
+},
+"reviewBody": "Delicious! Easy and did I say delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Everina"
+},
+"reviewBody": "It was so delicious and YES I'll definitely make it again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Meek Temple"
+},
+"reviewBody": "Very well done!\nSimple and delicious. Doesn't take long and few ingredients. Enjoyable flavor!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "daniellie23"
+},
+"reviewBody": "Awesome, I am jamaican and mine always come out hard, I tried this one and it came out nice and soft"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anx"
+},
+"reviewBody": "Thumbs up from every thumb in my household. Even my kids love it, and trust me, they are very picky eaters. Definitely my fav ;)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Nix"
+},
+"reviewBody": "I had a similar problem to one of the other reviewers, I found the dough was far too dry using the measurements provided here (converted to metric and serving size changed to 2.) However this was easily fixed as I was adding water slowly so just continued a spoon at a time until the dough was stretchy, rather than crumbly. It might be helpful if you gave a bit more detail as to the required texture of the dough to give us a better idea of what it should feel/look like. Also, how big are these \"patties\" supposed to be? I intended to make mine into 4 dumplings but when I put the first one in, it browned far too quickly (medium heat on an electric hob) and so was burnt on the outside before it was even close to being cooked on the inside. I lumped the remaining mixture into one bigger dumpling and reduced the heat so inevitably it took much longer than the suggested 3 mins/side. But this is the best attempt so far, after trying loads of recipes. I'll keep fiddling with the details and see how it goes. I love the layout of this site and the conversations, so practical! ; the oil is the right temperature when...; makes x number of dumplings rather than \"serves x number of people\" (maybe others automatically assume that \"serves 2\" means \"makes 2 dumplings\" but not necessarily) Thanks all for the comments and advice!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "atina410"
+},
+"reviewBody": "Used a deep fryer, they came out delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "melissamc"
+},
+"reviewBody": "Not sure what happened, but I followed the recipe and my flour mixture was super dry... Just a bowl of crumbs, pretty much. I had to double the water to make them workable, and then they still had a dry/bland texture and taste after I fried them. Womp womp :-("
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sweetcakes"
+},
+"reviewBody": "I tried this and it was GREAT!! I followed the recipe exactly...love it!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "loladoggy"
+},
+"reviewBody": "these remind me of the yummy dumplings we ate with our fish in the caymans. i find i always have to add at least double the water to make them come together and next time i might try adding a bit more butter. they taste great though and they take us right back to the beach!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dee"
+},
+"reviewBody": "Followed recipe exactly and they came out wonderful! My daughter loved them, and she is not a huge dumpling fan! Thanks."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "funiygirll"
+},
+"reviewBody": "when i talked to my mom after i posted my initial review she said this is what the true Jamaican dumpling tastes like i was so surprised she said this recipe was a keeper and the distinct baking powder taste i love is from a bad recipe! This recipe is a keeper but i needed more water almost a cup."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Buck & Suzy's Kitchen"
+},
+"reviewBody": "i agree the key to these is to make them flat. i served these with a whole bunch of Jamaican foods and they were delicious. super flaky. crunchy. great texture. these are great for parties and holidays and all but not for every day healthy eating. lol. everyone loved them."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Mom in Need"
+},
+"reviewBody": "If you are serving these w/ ackee &amp; Saltfish, they are traditionally boiled."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "GoodCarma"
+},
+"reviewBody": "The true Jamaican name for them is \"Johnny cakes\" My cook there made them for every meal for me. I also loved Jamaican Meat pies (recipe here in Allrecipes) and fried plantains or fried bananas (I loved both)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Marjiesmom"
+},
+"reviewBody": "I followed this reciped exactly. I'm not sure what happened. They were really hard."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jess04"
+},
+"reviewBody": "Instead of using water, I used whole milk and added a tablespoon of sugar. The dumplings went great with beef stew!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Coco357"
+},
+"reviewBody": "My Jamaican boyfriend loves these!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Elizabeth"
+},
+"reviewBody": "These came out perfect and were delicious. Great recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sid"
+},
+"reviewBody": "These are awesome! My mom makes these all the time! I'm trying to get on her level of cooking so this was an easy way to start. These were sooo good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CookGoddess"
+},
+"reviewBody": "Great recipe!! Had these with Saltfish and Callaloo....my family could not get enough of these. The second time I made these, I did try to substitute 2 cups of white flour with whole wheat flour..my husband was not impressed although I liked the healthier alternative. Do try to flatten them down though as they do rise a bit. Either way a great recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Drea"
+},
+"reviewBody": "I skip the butter in the batter to make it less flaky. Thanks excellent recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "minnie0604"
+},
+"reviewBody": "So good! Very easy , I added some scallions and a dash of black pepper a little sprinkle of garlic powder ..... yummmmmmmmmmmm!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "darayman"
+},
+"reviewBody": "We looooove these guys! We cook up some corned beef (with onions and green peppers) and eat these two recipes together. Break apart the dumpling and scoops some meat in. YUM!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Dawn Davis"
+},
+"reviewBody": "Needs a bit of corn meal and a tad of sugar...otherwise pretty good recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "lisha"
+},
+"reviewBody": "recently went on a cruise to jamaica and thought this would be something like what i had on the island. not happy with this recipe, but the process was fun (high hopes)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mrsfcb"
+},
+"reviewBody": "these were better than my husbands and he is from Jamaica and has been cooking for 20+years!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MssweetTalk"
+},
+"reviewBody": "This came out perfect for my ackee &amp; saltfish, while frying them my nephew 2 kept comming and screaming because they were too hot and he didn't want to wait for them to cool."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "RESIDENTOFQ13"
+},
+"reviewBody": "Yum! I topped some with cinnamon/sugar, left some plain, and the rest got a sprinkling of cajun seasoning. The Cajun one were gone first but they were all gobbled up quickly. The only change I made was to use a non-dairy butter substitute since I'm vegan."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle"
+},
+"reviewBody": "These were good, next time I will increase the baking powder as I thought they would be lighter."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SHARON8799"
+},
+"reviewBody": "I was making a big pot of ham &amp; beans and wanted a good homemade bread to go with it but I was out of cornmeal. I thought I'd give my favorite recipe site a try and see what I could come up with. Boy am I glad I did! I didn't think this bread would go well with ham &amp; beans, but the rave reviews really intrigued me. I can't believe a handfull of such simple ingredients can taste so good just because they're fried. Some crumbled the bread into their bowl of soup, some ate them with butter. One even put a little jam on part of one. Delicious all the way around and everyone loved them. I even got a \"thumbs up\" from my super-finicky 9-yr-old. Now, THAT'S good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Taela"
+},
+"reviewBody": "A family staple! You can also be weird and put a fried egg and cheese in the middle. ;)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ReeRee"
+},
+"reviewBody": "I love it. I also sprinkled sugar and cinnamon on it and my whole family adored it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Coffee0ooYummy"
+},
+"reviewBody": "I really enjoyed these thank you for the recipe. However I topped them with cinnamon sugar while they were cooling a bit. everyone in my family scarfed them up! I did get 1 though. I can see they would probably be good as well dusted with powdered sugar as well.\nThanks again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nomi Sheppard"
+},
+"reviewBody": "yummy!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/139948/jamaican-fried-dumplings/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+"name": "Main Dishes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/535/main-dish/dumplings/",
+"name": "Dumpling Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/139948/jamaican-fried-dumplings/",
+"name": "Jamaican Fried Dumplings"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

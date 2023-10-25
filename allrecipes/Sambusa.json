@@ -1,0 +1,513 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Sambusa"
+,"datePublished": "2019-04-03T23:31:10.000-04:00"
+,"dateModified": "2023-02-14T11:42:17.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "safiyosmommy"
+,"url": "https://www.allrecipes.com/cook/682783"
+}
+]
+,"description": "These Somalian sambusas feature spring roll wrappers filled with seasoned ground beef, onion, and leek for a popular fried, crispy Ramadan treat."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Mt2H_LRi4_hmYuX2f-Cz2rv28tg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/873224-f1f1f7d0399249359165d1c226b50f2e.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Sambusa"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.2",
+"ratingCount": "41"
+}
+,"cookTime": "PT45M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "163 kcal"
+,"carbohydrateContent": "11 g"
+,"cholesterolContent": "25 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "8 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "213 mg"
+,"sugarContent": "0 g"
+,"fatContent": "10 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT25M"
+,"recipeIngredient": [
+"2 tablespoons olive oil",
+"1 small onion, finely chopped",
+"1 leek, chopped",
+"1 clove garlic, minced",
+"2 pounds ground beef",
+"2 teaspoons ground cumin",
+"2 teaspoons ground cardamom",
+"1 teaspoon salt",
+"1 teaspoon pepper",
+"1 tablespoon all-purpose flour",
+"1 tablespoon water, or as needed",
+"1 (14 ounce) package spring roll wrappers",
+"1 quart oil for frying, or as needed" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat olive oil in a large skillet over medium heat. Cook and stir onion, leek, and garlic in hot oil until onion is transparent. Add ground beef; cook and stir until still slightly pink and about halfway done. Season with cumin, cardamom, salt, and pepper; mix well. Continue cooking until beef is browned and crumbly. Remove the skillet from heat."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix together flour and water in a small bowl to make a thin paste. Using one wrapper at a time, fold into the shape of a cone. Fill cone with beef mixture, close the top, and seal with paste. Repeat until wrappers or filling are used up."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat oil in a deep fryer or large saucepan to 365 degrees F (170 degrees C). There should be enough oil to submerge sambusas. Fry sambusas, a few at a time, in hot oil until golden brown. Remove to a paper towel-lined plate to drain."
+} ]
+,"recipeYield": ["24"]
+,"totalTime": "PT70M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JoLinda Walsh"
+},
+"reviewBody": "it was delicious i would make it over and over again because of how good it was good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Crystal Klein"
+},
+"reviewBody": "This is my go to recipe for sambusa inspiration. I have modified this recipe to suit my tastes. I do not like all meat sambusas, so I boil 2-3 potatoes, the dice and add to the filling. I also add garlic, hot sauce, red pepper flakes, and some beef stock. I usually make the filling the day before. It seems less time consuming."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Olivia Florene"
+},
+"reviewBody": "I really love this traditional recipe but I would say when I was living in Eastern Africa the sambusas there were much spicier. I would recommend putting in at least 1 tbs of a hot pepper seasoning."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "kanita007c"
+},
+"reviewBody": "This was pretty good. My only complaint is that they were slightly bland for my tastes, so I would probably double the spices. I also didn't know what to dip it in, so I dipped it in ranch. It might be better dipped in something else."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Pomme"
+},
+"reviewBody": "Made it as written. My husband and I didn't like it. I love cardamom but couldn't taste it at all. The meat mixture tastes like bland ground beef taco meet. Tried dipping it in some sweetened chili sauce which was a small improvement. Certainly won't make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Angela Whip'nitupinthekitchen"
+},
+"reviewBody": "These are delicious.. for those of you who rated these low due to the filling lacking flavor.. well duh, adjust your seasonings. I for one like a lot of flavor so up'd the seasonings! A little chili flake in these bad boys does wonders!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Milena Dobranova-Waltz"
+},
+"reviewBody": "Ok, I didn't completely love it, but it wasn't the recipe's fault :) I had had sambusas before and I loved them so much I tried to make them at home. They didn't taste quite like the ones I had had before but who's to say which are more like the real thing! I think I may have gotten the wrong wrappers so they were a little thicker and tougher than what I remember. Also, I need to remember to drain the meat next time as mine were full of grease (from frying and from the meat). The flavor was still nice and I'm giving it five stars because my picky father-in-law and my picky four-year-old both loved them. Combined with a peri-peri sauce, the recipe for which I had found online, they were really quite good. I didn't quite get the folding instructions so I folded mine like envelopes. That didn't affect the taste :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Callie"
+},
+"reviewBody": "I havent made it yet but, I was wondering where I could buy Spring Roll Wraps, Cumin, And Cardamom in America?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Twotastee"
+},
+"reviewBody": "These were so good! Definitely making them again. The only thing I would do is try some different seasonings in the meat to give it a different tadte :) awesome!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sheila Allsup"
+},
+"reviewBody": "This recipe was great but I changed it up a bit to make it more flavorful. I omitted the salt and then added 2 Tbsp. of chicken broth powder! Added green onion instead of leek. Oh my.... so delicious! I make these and they dont stick around very long."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "spacesuz"
+},
+"reviewBody": "Delicious! We used egg roll wrappers and fried the sambusas in a pan and they did great. We also added finely diced potatoes to the pan during the onion cooking stage and added one pound of meat instead of two. A little curry added to the spice mixture and it was heaven! Fantastic recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Big Mike"
+},
+"reviewBody": "I didn't care for this much at all. They are a pain in the rear end to put together and the filling was very bland and tasteless."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ole Bath"
+},
+"reviewBody": "very much,great"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "SunnyDaysNora"
+},
+"reviewBody": "I really enjoyed these. I made them into triangles rather than cones and subbed wonton wrappers for spring roll wrappers (so no need for paste), but other than that left the recipe unchanged."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SammyK"
+},
+"reviewBody": "I try different sambusa fromd different country, the one I like the most by far...Ethiopian sambusa it very flavor full and lot of spices and herbs. Somali and Kenya is more bold and you need some thing to dip in. I love Ethiopian sambusa specially I had at the farmers market in Issaquah farmers market sambusa wraps or sambusawraps.com . It is fresh and crunchy you dont even need diping."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "BatikWindmillTurban"
+},
+"reviewBody": "I felt it lacked flavor. The spices didn't add much and it tasted mainly like ground beef wrapped in a spring roll wrapper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "im4metallica"
+},
+"reviewBody": "Oily, tasteless, and poor texture. This is not a review of the submitter, infact, it was given 2 stars instead of 0 because the reciepe was submitted well, just a poor product at the end of effort. Have had authentic somali sambusa, and these are not in the same neighborhood. Best bet would be to try another submission, and look for one that has some additional spices."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "aminoacid"
+},
+"reviewBody": "Awesome! Loved the recipe. Thanks for posting"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MOELASSES"
+},
+"reviewBody": "These are labor intensive, but delicious. Lots of cardamom flavor. You can make a version of these for many different cultures by changing the spices and substituting cabbage for the leek."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rcm33"
+},
+"reviewBody": "This was excellent! I made some African Hot Sauce to use with this, and it was great. Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah Swank"
+},
+"reviewBody": "amazing!! i had trouble with the wrappers because i am a klutz, and it was a little oilier on the inside then i like, but i think that was my fault too. Even with my mess up, i am making these every week! and 1 wrapper fille me up! they are soo good... By-the-way, i used deer meat (yes it is halal) and left out the leek and used just a little extra onion and it was still good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ashley01"
+},
+"reviewBody": "I really like this recipie... this is my favorite dish during Ramdan, and actually all around the year. I like to use regular tortillas for the wrapper. I cut them in half, and fold them into a cone, and seal them with the same paste. The tortilla doesnt tear as easily, and cooks up really great. Instead of 2 pounds of meat, I use one pound of meat, and one pound of diced boiled potatoes. I cook it the same way, and just add also a small amound of curry powder and garama masala to give it any extra kick. If you want to, you can freeze them right after making them, and when you want to make just a couple, pop them in the microwave for about a minnute or two (to make sure the inside is not frozen) and then fry them to finish the cooking. I like to make big batches, and enjoy them for lunch during the week! They also make a good fast-breaker! Enjoy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Deb Sanger"
+},
+"reviewBody": "excellent although with THESE spices, i had hoped for a more spicy filling. they actually taste a little like lamb. i dipped them in a chipotle sauce and am taking them to the company xmas party! THANKS! perfect amount of filling for a pack of wrappers!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Spink"
+},
+"reviewBody": "My husband buys these all the time from the Halal market, I made these and he said they taste a like, the only thing extra I added was dried parley, yummy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "worldfoodie"
+},
+"reviewBody": "really tasty filling! I've been making sambusa for years, and searching for the somali version of it after being intro'd to it about a year ago. I always pan fry and drain on paper towels. I actually made my own wrappers (too much work) b/c my grocery stopped carrying the egg roll wraps....suggestion--DO NOT get the spongy type wraps if you want a crispy shell."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ANJau"
+},
+"reviewBody": "This recipe is awesome. My husband is from Kenya and I suprised him with these and he was very impressed. I've always deep fried them as the recipe suggests, but I'm going to try the pan frying method some of you have suggested. Thanks a million!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I loved the recipe. I am from africa and that is exactly how they taste. Instead of deep frying though, i fry each side of the sambusa at the time in about a half cup of olive oil then place them on towel after they are golden. it helps to keep them less oily."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "These were really great---I struggled with the first few--trying to fold them into little triangles, but got the hang of it. We served these at a Multi-Cultural Event &amp; they were a bit hit! For a little extra kick--try a little chopped jalepeno---WOW!! Thanks for sharing the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This was *excellent* I ended up making it with potsticker wrappers, and was duly impressed! The spice mix is wonderful and it makes just the right amount of food. You won't be disappointed."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/53603/sambusa/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/86/world-cuisine/",
+"name": "Cuisine"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/226/world-cuisine/african/",
+"name": "African"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/53603/sambusa/",
+"name": "Sambusa"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

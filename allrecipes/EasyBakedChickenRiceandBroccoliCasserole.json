@@ -1,0 +1,273 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Easy Baked Chicken, Rice, and Broccoli Casserole"
+,"datePublished": "2019-04-01T02:03:39.000-04:00"
+,"dateModified": "2019-04-01T02:03:39.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "B's Kitchen"
+,"url": "https://www.allrecipes.com/cook/1126687"
+}
+]
+,"description": "This easy, budget-friendly baked chicken, rice, and broccoli casserole with cheese is perfect for busy weeknights and tastes comforting and delicious."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/PbkAiavJXaESNhn3VaaAGfQ_7hE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Easy-Baked-Chicken-Rice-and-Broccoli-Casserole-4x3-1-2000-2f891d7c585f4ced934355f357d2c680.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Easy Baked Chicken, Rice, and Broccoli Casserole"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "3.6",
+"ratingCount": "12"
+}
+,"cookTime": "PT40M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "446 kcal"
+,"carbohydrateContent": "46 g"
+,"cholesterolContent": "88 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "35 g"
+,"saturatedFatContent": "6 g"
+,"sodiumContent": "649 mg"
+,"sugarContent": "2 g"
+,"fatContent": "13 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"cooking spray",
+"1 pound skinless, boneless chicken breast, diced",
+"1 (10.5 ounce) can condensed cream of chicken soup",
+"1 (10 ounce) package frozen chopped broccoli",
+"1 cup uncooked white rice",
+"0.75 cup water",
+"0.5 cup shredded Cheddar cheese, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 375 degrees F (190 degrees C). Spray a 9x13-inch baking pan with cooking spray."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine chicken, condensed soup, broccoli, rice, and water in a bowl; mix thoroughly. Transfer mixture to the prepared baking pan and cover with foil."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven for 30 minutes. Uncover, stir, top with Cheddar cheese, and cover again. Continue to bake until chicken is no longer pink in the center, rice is tender, and cheese is melted and bubbly, about 10 minutes more."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT45M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Definitely needs seasoning. Needs more liquid. 3/4 cup is not enough to properly cook the rice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I doubled the recipe for my family of 4 and we all loved it!! It was good but I added some chipotle to mine for a little spice and it was a great accent! I highly recommend this!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "No no no - 30 minutes, breast was raw, rice was not cooked at all! Maybe if you use tenders and uncover it. I cooked it uncovered and it finally was cooked through. You absolutely need seasoning otherwise it’s so bland."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Even with the baking dish covered tightly to lock in the moisture, the rice was not cooked. Added an additional 20 minutes to baking time and still not cooked which resulted in a ruined meal. Take my advice, 'cook the rice first' before baking."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Horrible! Could not be more bland. First really bad recipe I’ve found on all recipes. I tried adding seasonings as recipe calls for none. Sautéed chicken with some onions and celery for flavor would help this dish a lot."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "If I make this again I would cook the rice first. Was in the oven for 90 minutes and the rice was not done yet. Other than that it was ok."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I've made this several times but wanted to make it a little more cooked on the too. But it came out perfect 👌🏽"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "No changes as I have made this recipe prior"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Birdie Num Num"
+},
+"reviewBody": "I made this a few nights ago, and it was mostly OK, but really bland. Next time, I will saute onion, mushrooms and minced garlic in butter and add it to the casserole, and also add some salt and pepper to taste. Maybe add some bread crumbs or crushed potato chips on top."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Beth Burr"
+},
+"reviewBody": "This was my husband’s favorite meal this week. I use ground chicken and added extra veggies: I sautéed onions and celery and some shredded carrots with the broccoli. I also added extra cheese because “the more cheddar the better.” I baked it in the same cast iron skillet so it was a one dish cleanup meal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SCMOXY"
+},
+"reviewBody": "Southern comfort what else can I say!\nI added more cheese"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/279774/easy-baked-chicken-rice-and-broccoli-casserole/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/249/main-dish/casseroles/",
+"name": "Casserole Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1004/main-dish/casseroles/rice/",
+"name": "Rice"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/279774/easy-baked-chicken-rice-and-broccoli-casserole/",
+"name": "Easy Baked Chicken, Rice, and Broccoli Casserole"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

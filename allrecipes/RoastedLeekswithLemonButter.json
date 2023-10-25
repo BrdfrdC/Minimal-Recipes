@@ -1,0 +1,144 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Roasted Leeks with Lemon Butter"
+,"datePublished": "2022-09-13T14:21:02.000-04:00"
+,"dateModified": "2022-09-13T14:21:02.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "France C"
+,"url": "https://www.allrecipes.com/cook/francecevallos"
+}
+]
+,"description": "Roasting leeks brings out their natural sweetness. Drizzled with lemon butter, this is a wonderful side to roast pork or other meats."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/tMjCDa3LZUq991HemCisn9_eW9I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Roasted-Leeks-with-Lemon-Butter-591404b1947148fcb2a7f41224d7f349.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Roasted Leeks with Lemon Butter"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "1"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "233 kcal"
+,"carbohydrateContent": "22 g"
+,"cholesterolContent": "15 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "2 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "71 mg"
+,"fatContent": "16 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"2 tablespoons butter",
+"1 tablespoon freshly squeezed lemon juice",
+"0.25 teaspoon granulated garlic",
+"4 large leeks",
+"3 tablespoons olive oil",
+"salt and ground black pepper to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat oven to 425 degrees F (220 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Melt butter in a small microwave-safe dish in 10-second increments until melted. Stir in lemon juice and granulated garlic and set aside in a warm place."
+} ,{
+"@type": "HowToStep"
+,"text": "Trim dark green parts from the leeks and discard (or save for other use such as vegetable stock). Trim roots off, but leave root end intact. Cut leeks in half lengthwise, and remove any tough outer layers. Rinse thoroughly between the layers to remove any dirt."
+} ,{
+"@type": "HowToStep"
+,"text": "Place leeks into a large baking dish. Drizzle with olive oil and season with salt and pepper, turning leeks so they are evenly covered with oil. Roast leeks, cut side down, for 15 minutes. Turn leeks so they are cut side up, and continue roasting for 10 more minutes. Drizzle with lemon butter and roast 3 to 5 minutes more."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT45M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ColOfTheWild"
+},
+"reviewBody": "Excellent! The leeks were buttery-melt-in-you-mouth and the outsides were crispy. I want this again tonight already. Didn’t use all of the lemon butter or oil and it was still delicious - would probably use the full amount for guests. Also we don’t use a microwave so I just melted the butter in a pot, which kept it warm and ready to top the leeks with. Great intro to roasted leeks, thanks!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8472754/roasted-leeks-with-lemon-butter/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1059/fruits-and-vegetables/vegetables/",
+"name": "Vegetables"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/2445/fruits-and-vegetables/vegetables/leeks/",
+"name": "Leeks"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8472754/roasted-leeks-with-lemon-butter/",
+"name": "Roasted Leeks with Lemon Butter"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

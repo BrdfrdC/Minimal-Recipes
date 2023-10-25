@@ -1,0 +1,169 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Noodle Bowl Formula"
+,"datePublished": "2022-10-11T14:14:29.000-04:00"
+,"dateModified": "2022-10-11T14:14:29.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "dinehaus"
+,"url": "https://www.allrecipes.com/cook/30387511"
+}
+]
+,"description": "This basic noodle bowl formula can be made with any type of broth, protein, and vegetable to your liking."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/9kRKJZVqQYhDoTi5CntfxknxHcA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Noodle-Bowl-Formula-b48b61c1151f4e81b89af408d1b8d558.jpg",
+"height": 823,
+"width": 1097
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Noodle Bowl Formula"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "4"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "384 kcal"
+,"carbohydrateContent": "34 g"
+,"cholesterolContent": "73 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "34 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "847 mg"
+,"fatContent": "12 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"3 cups low-sodium broth (any type of broth to taste)",
+"1 cup mixed fresh vegetables",
+"6 ounces cooked protein (any type of cooked meat, poultry, or tofu)",
+"1 (3 ounce) package ramen noodles (without flavor packet)",
+"0.125 teaspoon salt",
+"0.125 teaspoon freshly ground black pepper",
+"1 teaspoon sauce of choice",
+"garnish of choice (e.g. green onions, cilantro, etc.)" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Bring broth to a boil in a small saucepan. Reduce heat."
+} ,{
+"@type": "HowToStep"
+,"text": "Reduce heat. Add vegetables, protein, and noodles. Simmer, stirring occasionally, until ramen noodles are tender and ingredients are heated through, 3 to 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Season with salt and black pepper. Top with sauce and sprinkle with garnish."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT15M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This is easy and super delicious! I started by sautéing a few mushrooms, then just before adding the broth threw in fresh ginger and garlic. When they were fragrant, I added the broth. Once the broth started to simmer I added a bunch of fresh broccoli and the noodles. When the broccoli had softened, I added frozen shrimp, turned off the heat and let the heat of the broth cook the them. Super delicious and comforting for a Saturday quick lunch!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "maggie williamson"
+},
+"reviewBody": "Very good! It was filling and super easy to make. We’ll do this again, and try one of the other suggested recipes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Karen"
+},
+"reviewBody": "I made the hoisin beef noodle bowl following the recipe as is, and it was DELICIOUS! I wasn't sure if I should stir fry the beef and broccoli first, so I did. I don't think I needed to if I had cut the beef thinner (plus the recipe didn't say to cook it first, so my bad). I'll be making this again and making that adjustment. Adding this to my list of quick, no fuss and yummy meals."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8493264/noodle-bowl-formula/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16369/soups-stews-and-chili/soup/",
+"name": "Soup Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/181/soups-stews-and-chili/soup/noodle-soup/",
+"name": "Noodle Soup Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8493264/noodle-bowl-formula/",
+"name": "Noodle Bowl Formula"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

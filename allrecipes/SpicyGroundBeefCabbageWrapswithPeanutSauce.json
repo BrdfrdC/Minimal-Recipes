@@ -1,0 +1,182 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Spicy Ground Beef Cabbage Wraps with Peanut Sauce"
+,"datePublished": "2020-04-28T04:10:20.000-04:00"
+,"dateModified": "2022-01-14T11:58:39.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "lutzflcat"
+,"url": "https://www.allrecipes.com/cook/lutzflcat"
+}
+]
+,"description": "An Asian-inspired ground beef filling is wrapped in cabbage with a spicy, creamy peanut sauce in this easy recipe that&#39;s perfect as an appetizer or main dish."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/_-qC4nVTYt5GdPlLHOtp9t5ZhVM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7655121-a508c603219a492d89da72b14015fafb.jpg",
+"height": 1000,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Spicy Ground Beef Cabbage Wraps with Peanut Sauce"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "3.7",
+"ratingCount": "3"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "175 kcal"
+,"carbohydrateContent": "12 g"
+,"cholesterolContent": "25 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "11 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "218 mg"
+,"sugarContent": "3 g"
+,"fatContent": "11 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"6 tablespoons creamy peanut butter",
+"3 tablespoons low-sodium soy sauce",
+"2 teaspoons sambal oelek (chile paste), or more to taste",
+"2 teaspoons rice vinegar",
+"1 teaspoon grated ginger root",
+"1 clove garlic, grated",
+"0.25 teaspoon red pepper flakes",
+"0.25 cup water, or more as needed",
+"1 pound lean ground beef",
+"3 green onions, thinly sliced",
+"1 large clove garlic, finely minced",
+"1 tablespoon rice vinegar",
+"2 teaspoons sambal oelek, or more to taste",
+"0.5 teaspoon ground cardamom",
+"0.5 teaspoon finely minced ginger root",
+"0.5 teaspoon ground cinnamon",
+"salt and freshly ground black pepper to taste",
+"12 leaves Napa cabbage",
+"12 fresh lime wedges",
+"0.33333334326744 cup chopped peanuts" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Whisk peanut butter, soy sauce, sambal oelek, rice vinegar, ginger, garlic, and red pepper flakes for sauce together in a small bowl. Whisk in small amount of water slowly until well combined and you reach your desired consistency. Set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat a medium skillet over medium heat. Brown the ground beef, green onions, and garlic for about 5 minutes. Stir in rice vinegar, sambal oelek, cardamom, ginger, cinnamon, salt, and pepper. Reduce heat and simmer for 2 to 3 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Divide the ground beef mixture evenly among the 12 cabbage leaves. Top each with a dollop of the peanut sauce, a squeeze of a lime wedge, and sprinkle with peanuts. Fold up the sides of the leaves and serve."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT30M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sima Ramazani"
+},
+"reviewBody": "Easy and flavorful. I served it over large lettuce leaves with some naan on the side."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ellen"
+},
+"reviewBody": "Delicious and easy to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "smatlock"
+},
+"reviewBody": "Will not make this again! Horrible taste"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/278394/spicy-ground-beef-cabbage-wraps-with-peanut-sauce/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/76/appetizers-and-snacks/",
+"name": "Appetizers and Snacks"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/115/appetizers-and-snacks/wraps-and-rolls/",
+"name": "Wraps and Rolls"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/278394/spicy-ground-beef-cabbage-wraps-with-peanut-sauce/",
+"name": "Spicy Ground Beef Cabbage Wraps with Peanut Sauce"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

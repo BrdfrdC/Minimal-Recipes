@@ -1,0 +1,224 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Slow Cooker Ground Chicken Chili"
+,"datePublished": "2019-06-14T00:35:24.000-04:00"
+,"dateModified": "2019-06-14T00:35:24.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "KatieO"
+,"url": "https://www.allrecipes.com/cook/3375744"
+}
+]
+,"description": "Ground chicken, beans, spices, and corn are easily combined in a slow cooker for a hearty spin on traditional chili that&#39;s full of flavor."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/6GtO1AqKE4iNFSYU6o86xyaIK6Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8429393-dd7b3eb66690471e97876e666a260767.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Slow Cooker Ground Chicken Chili"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "6"
+}
+,"cookTime": "PT245M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "406 kcal"
+,"carbohydrateContent": "55 g"
+,"cholesterolContent": "51 mg"
+,"fiberContent": "17 g"
+,"proteinContent": "33 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "1621 mg"
+,"sugarContent": "4 g"
+,"fatContent": "8 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"1 tablespoon vegetable oil",
+"1 pound ground chicken",
+"2 tablespoons chili powder",
+"2 cloves garlic, minced",
+"1.5 teaspoons ground cumin",
+"0.5 teaspoon red pepper flakes",
+"1 (29 ounce) can kidney beans, rinsed and drained",
+"2 (10 ounce) cans diced tomatoes with green chile peppers",
+"1 (15 ounce) can black beans, rinsed and drained",
+"1 medium onion, chopped",
+"1 medium jalapeno pepper, seeded and finely chopped",
+"2 cups chicken broth",
+"1 (15.25 ounce) can whole kernel corn, drained",
+"1 tablespoon sour cream, or to taste",
+"1 tablespoon shredded Cheddar cheese, or to taste",
+"1 tablespoon chopped green onions, or to taste",
+"1 jalapeno pepper, sliced, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat vegetable oil over medium-high heat in a medium-sized pan. Cook and stir ground chicken in the hot skillet until browned and crumbly, 5 to 7 minutes. Drain and discard grease."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine chili powder, garlic, cumin, and red pepper flakes in a small bowl; stir into chicken to coat."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer chicken to a slow cooker. Add kidney beans, diced tomatoes with chiles, black beans, onion, and chopped jalapeno. Pour chicken broth over mixture and stir to combine."
+} ,{
+"@type": "HowToStep"
+,"text": "Cover and cook on High until chili has cooked down and thickened, about 4 hours, stirring corn kernels into mixture during last 30 minutes of cook time."
+} ,{
+"@type": "HowToStep"
+,"text": "Spoon chili into bowls and top each with sour cream, Cheddar cheese, green onions, and sliced jalapeno."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT275M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Overall, the recipe was good! I followed the recipe as written. The only thing was, it was too watery. The taste was great, just enough heat. I will make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "hoailong"
+},
+"reviewBody": "I halved the hot seasonings and added salt. Treated great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "My Hot Southern Mess"
+},
+"reviewBody": "I made this as written and my family thought it was okay. It wasn't bad but no one was wanting more. It wasn't spicy in our opinion and was more soup-like than chili-like."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shannon Moore"
+},
+"reviewBody": "Awesome recipe.. Nice medium bite. I smoked one breast (boneless) and three thighs (bone in) came out to 1.04lbs and shredded them for perfect distribution.. Yum. Smoked at 280 for about 3hrs IT was 180."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Susan Davy"
+},
+"reviewBody": "Good recipe that I tweaked..sauteed onions and garlic, added corn &amp; its liquid, added some canned Adobe chipotles in sauce, just chopped them up and finally just added some spoonfuls of herbed cream cheese, not mixed in but left on top. Cooked for 8 hours in slow cooker, then gave it a good stir before serving..even my fussy husband who isn’t a fan of ground chicken liked this. I’ll make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Paula"
+},
+"reviewBody": "I omitted the red pepper and the jalapeño because there were Rotel tomatoes in the recipe. I am a heat wimp. However, my husband added the red pepper and the chopped jalapeño to his bowls. I put two large chicken breasts in the bottom of the slow cooker and shredded them as was suggested. This was a delicious chicken chili that I will definitely make again."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/274091/slow-cooker-ground-chicken-chili/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/173/soups-stews-and-chili/chili/",
+"name": "Chili Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/14725/soups-stews-and-chili/chili/chicken-chili/",
+"name": "Chicken Chili Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/274091/slow-cooker-ground-chicken-chili/",
+"name": "Slow Cooker Ground Chicken Chili"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,284 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Pork for Tamales"
+,"datePublished": "2000-07-12T08:59:26.000-04:00"
+,"dateModified": "2022-08-08T10:36:17.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "TK"
+,"url": "https://www.allrecipes.com/cook/3453146"
+}
+]
+,"description": "Pork cooked in a fragrant and flavorful onion and spice broth makes a perfect filling for your tamales."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/t4OPRYcW0irbAnYZgRyE8-fjlkg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1040522-8da3fb3eaacf455b95c5eb93e20c37da.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Pork for Tamales"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.3",
+"ratingCount": "16"
+}
+,"cookTime": "PT60M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "32 kcal"
+,"carbohydrateContent": "1 g"
+,"cholesterolContent": "10 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "15 mg"
+,"sugarContent": "0 g"
+,"fatContent": "2 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1 pound pork butt roast",
+"2.5 cups water",
+"0.5 onion",
+"1 clove garlic, peeled",
+"1 bay leaf",
+"salt to taste",
+"8 black peppercorns",
+"1 dried red chile pepper" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Trim fat from pork butt. Cut into chunks and place in a large saucepan. Add water, onion, garlic, bay leaf, salt, peppercorns and chile pepper. Bring to a boil; skim foam from surface. Reduce heat, cover and simmer for 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Drain broth, let meat cool and shred with a fork. Refrigerate overnight if desired."
+} ]
+,"recipeYield": ["16"]
+,"totalTime": "PT80M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lydia"
+},
+"reviewBody": "I made this and it was very good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tina"
+},
+"reviewBody": "This recipe was so easy to make. I added cumin and chicken bullion and used my Insta Pot to cook this. I made Tamales with the shredded pork. OMG it was so yummy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "J.F. Wickey"
+},
+"reviewBody": "This was quite tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Nixza Hernandez"
+},
+"reviewBody": "I have never embarked on the task of making \"authentic\" Mexican tamales. Although I am Puerto Rican, I want to try my hand at making these to expand my culinary skills and experiences. Based on other comments here, I will give this, untried-as-of-yet recipe a 4-star rating. The comments seem quite reasonable and since I've known my way about a kitchen, seem perfectly valid and justifiable at a 4-star rating at this time. I hope to someday soon, add my photos of my first tamale attempt. Wish me luck!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Baking Nana"
+},
+"reviewBody": "This is pretty much how we usually make our pork for tamales but then the pork is mixed with chili sauce, green chiles and cheese so the pork itself doesn't need to be highly seasoned. I question the amount of pork for 16 servings. Is this supposed to be 16 tamales? You might be able to get 16 tamales out of this 1 pound of meat but I doubt it. I usually do 10 lbs at a time. When we are making tamales we don't just make a few."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Donna Bertheola LeMaster"
+},
+"reviewBody": "This was ok on it's own, but true Mexican tamale meat has a few more ingredients in it. I used this basic recipe but added 3cl. garlic, cumin, oregano, chile colorado, and I used chicken broth instead of water. It was pretty good, but next time I'll throw in a chipotle chile with mole for a little smokey flavor. This is a great basic recipe to build upon!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kali Durga"
+},
+"reviewBody": "Very nice, very simple. Just ate it in wraps with mesclun and tomatoes. I cut up the onion, not even realizing the recipe didn't call for chopped onion. Will leave the onion in one piece next time!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle Montoya"
+},
+"reviewBody": "What a great recipe! This is easy to make and good in corn or flour tortillas with a little hot sauce. My family loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Nothing special."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This recipe is as close as you can get to authentic...without flying to San Antonio. The recipe works very well with beef."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This tastes really good. I preferred the pork to beef in tamales when I made both."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gourmet cook"
+},
+"reviewBody": "I cooked this for use with tamales, but my children were so enticed by the smell, they kept eating it and wouldn't leave it alone! They just LOVED it, plain."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/20772/pork-for-tamales/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/237/world-cuisine/latin-american/",
+"name": "Latin American"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/728/world-cuisine/latin-american/mexican/",
+"name": "Mexican"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/20772/pork-for-tamales/",
+"name": "Pork for Tamales"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

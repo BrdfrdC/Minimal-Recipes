@@ -1,0 +1,242 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Ground Chicken Burgers"
+,"datePublished": "2020-04-02T16:40:49.000-04:00"
+,"dateModified": "2023-03-14T11:28:36.867-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Katy B"
+,"url": "https://www.allrecipes.com/cook/1776747"
+}
+]
+,"description": "These flavorful burgers made with ground chicken, Parmesan cheese, and garlic will keep you grilling from spring to fall."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/9n0L9cTRWkiT2T7ZV7i11stFfRk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8136903-844c4e537f5e4f9a9a46c82210ee4ad2.jpg",
+"height": 1000,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Ground Chicken Burgers"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4",
+"ratingCount": "8"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "268 kcal"
+,"carbohydrateContent": "22 g"
+,"cholesterolContent": "115 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "33 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "988 mg"
+,"sugarContent": "2 g"
+,"fatContent": "5 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+, "recipeCategory": ["Dinner"]
+,"recipeCuisine": ["American"]
+,"recipeIngredient": [
+"1 cup bread crumbs",
+"0.25 cup minced onion",
+"2 cloves garlic, minced",
+"2 tablespoons grated Parmesan cheese",
+"1.5 teaspoons coarse sea salt, or to taste",
+"0.5 teaspoon ground paprika",
+"0.5 teaspoon freshly ground black pepper",
+"0.25 teaspoon cayenne pepper",
+"1 pound ground chicken",
+"1 large egg" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat an outdoor grill for medium heat and lightly oil the grate."
+} ,{
+"@type": "HowToStep"
+,"text": "Place bread crumbs, onion, garlic, Parmesan cheese, salt, paprika, black pepper, and cayenne pepper into the bowl of a food processor; pulse until blended."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine chicken, egg, and bread crumb mixture in a large bowl until evenly mixed. Divide and shape mixture into 4 equal patties. Place on a cookie sheet and cover with aluminum foil. Refrigerate for 5 to 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook patties on the preheated grill until cooked through, at least 7 minutes per side. An instant-read thermometer inserted into the center of the patties should read at least 165 degrees F (74 degrees C)."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT35M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Made recipe as written. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "LGB"
+},
+"reviewBody": "I liked it and made the recipe as directed. I cooked them in a nonstick pan instead of on a grill. My only comment is they were a little salty. I’ll reduce salt next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "cathy1313"
+},
+"reviewBody": "Not bad but I changed a couple of things- no breadcrumbs, using shredded taco cheese, and no egg. They stayed together quite well and were nicely juicy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jax"
+},
+"reviewBody": "Made this for my hubby and he loved them. Made exactly as shown."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "GuynVA"
+},
+"reviewBody": "I made two; only ate one. They were too dry."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Deborah"
+},
+"reviewBody": "Great tasting. We loved it. I only added 3/4 of a cup of bread crumbs. It made 4 really great size chicken burgers. Will make again for sure!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kszr"
+},
+"reviewBody": "Big hit with picky eater"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "France C"
+},
+"reviewBody": "These were really good for chicken burgers, which normally tend to dry out. The only change I made was to use less bread crumbs (2/3 cup instead of 1 cup) because I don't like the spongy texture which results from too much binder. I really liked the method of mixing the onion, garlic, breadcrumbs together in the food processor. I didn't cook as long as directed as 7 minutes per side would definitely dry these out. I topped the patties with guacamole, cheddar and bacon. Yum!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/279485/ground-chicken-burgers/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/248/main-dish/burgers/",
+"name": "Burger Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16362/main-dish/burgers/chicken/",
+"name": "Chicken"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/279485/ground-chicken-burgers/",
+"name": "Ground Chicken Burgers"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

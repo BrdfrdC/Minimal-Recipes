@@ -1,0 +1,157 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Beef Empanadas"
+,"datePublished": "2020-01-13T21:50:32.000-05:00"
+,"dateModified": "2023-02-14T13:22:50.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "slatkasamrica"
+,"url": "https://www.allrecipes.com/cook/2887319"
+}
+]
+,"description": "These Argentine empanadas are filled with a delicious mixture of ground beef, onions, scallions, and spices."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/gVI5dzuGjeHQjwIoqWjoKcn1Yow=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1093314-beef-empanadas-slatkasamrica-4x3-1-5b1af0cb41254e6b8ce52ca646fb8e4f.jpg",
+"height": 720,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Beef Empanadas"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "2"
+}
+,"cookTime": "PT40M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "535 kcal"
+,"carbohydrateContent": "66 g"
+,"cholesterolContent": "49 mg"
+,"fiberContent": "5 g"
+,"proteinContent": "23 g"
+,"saturatedFatContent": "7 g"
+,"sodiumContent": "1472 mg"
+,"sugarContent": "2 g"
+,"fatContent": "22 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT45M"
+,"recipeIngredient": [
+"1 tablespoon extra-virgin olive oil",
+"1 pound yellow onions, chopped",
+"6 scallions, chopped",
+"1 green bell pepper, chopped",
+"2 pounds ground beef",
+"2 tablespoons dried oregano",
+"1.5 tablespoons salt",
+"1 tablespoon cayenne pepper",
+"1.5 teaspoons ground cumin",
+"1 tablespoon butter, or as needed",
+"36 empanada pastry discs",
+"1 egg white, beaten" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat oil in a large Dutch oven over medium heat. Add onions, scallions, and bell pepper. Cover and cook, stirring occasionally, until onions are translucent, 10 to 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Add ground beef, oregano, salt, cayenne pepper, and cumin to the pot. Cook and stir beef until no longer pink, 8 to 10 minutes. Remove from the heat and allow to cool slightly, then cover and place in the refrigerator until meat is completely cooled, about 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove filling from the refrigerator and transfer to a colander to drain. Return filling to the Dutch oven."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 400 degrees F (200 degrees C). Liberally grease a baking sheet with butter."
+} ,{
+"@type": "HowToStep"
+,"text": "Place about 2 tablespoons filling into the center of empanada disk. Fold empanada in half into a crescent shape, press the edges of dough together with a fork or your fingers to seal, and place onto the prepared baking sheet. Repeat with remaining empanadas and filling. Brush tops with egg white."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until golden brown, about 20 minutes."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT145M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "J.I. M."
+},
+"reviewBody": "These are delicious. I made a few changes to fit my taste: 1 T of salt and 1 teaspoon of cayenne pepper (1 T. cayenne would have been to spicy for me). For the dough I used a simple recipe of 3 c. flour, 1/2 t. salt, 3/4 c. butter (12 T.), 1 egg, 1/4 c. water. I rolled my dough thin,used a small bowl of 5 3/4\" diameter for a pattern to cut out discs and then put 1/4 c. filling in each empanada. It made 26 empanadas with just little dough leftover. Thanks slatkasamrica"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/277867/beef-empanadas/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/730/world-cuisine/latin-american/south-american/",
+"name": "South American"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/2432/world-cuisine/latin-american/south-american/argentinian/",
+"name": "Argentinian"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/277867/beef-empanadas/",
+"name": "Beef Empanadas"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

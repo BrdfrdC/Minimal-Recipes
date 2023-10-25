@@ -1,0 +1,213 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Homemade Dog Food with Beef"
+,"datePublished": "2020-04-24T16:28:32.000-04:00"
+,"dateModified": "2022-09-13T12:31:24.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "dish567"
+,"url": "https://www.allrecipes.com/cook/7162807"
+}
+]
+,"description": "Wholesome brown rice, beef, vegetables, eggs, and rosemary are the simple ingredients behind this homemade dog food that&#39;s sure to please your pup!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/z07ab_7d5Gx2-Oek26zIF2pIfow=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8475622-0b10f510a67b4af0b72ec3d27d095cbb.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Homemade Dog Food with Beef"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "6"
+}
+,"cookTime": "PT60M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "846 kcal"
+,"carbohydrateContent": "107 g"
+,"cholesterolContent": "258 mg"
+,"fiberContent": "9 g"
+,"proteinContent": "43 g"
+,"saturatedFatContent": "9 g"
+,"sodiumContent": "369 mg"
+,"sugarContent": "5 g"
+,"fatContent": "27 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"2 pounds ground beef",
+"6 cups water, or more as needed",
+"4 cups uncooked brown rice",
+"1 pound assorted beef bones (shin, shank, short ribs, or marrow bones)",
+"1 tablespoon chopped fresh rosemary",
+"1 (15 ounce) can sliced carrots, drained",
+"1 (13.5 ounce) can spinach, drained",
+"6 eggs",
+"1 (15 ounce) can pumpkin puree" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat a large skillet over medium-high heat. Cook and stir ground beef in the hot skillet until browned and crumbly, 5 to 7 minutes. Drain and discard grease."
+} ,{
+"@type": "HowToStep"
+,"text": "Place 6 cups water and brown rice into a stockpot. Add browned beef, bones, and rosemary; bring to a boil. Reduce heat to medium-low or low and let simmer, stirring occasionally to prevent burning, until rice is mushy, about 45 minutes. Add water if necessary to keep mixture a little thicker than a porridge-like consistency."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, place carrots, spinach, and eggs with their shells into an electric blender. Blend until completely pureed and no eggshells are intact."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix pumpkin and blended egg mixture in a bowl until combined. Remove meat mixture from heat and pour egg mixture into the pot to cook the eggs in hot contents, about 5 minutes. Let cool thoroughly before feeding to your dog, about 30 minutes."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT105M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "First, why would you use canned vegetables opposed to frozen? Frozen has all of the nutrients and none of the sodium and who knows what else. Used my culinary background to modify the method. Had a 1.8# freezer burned, skin on salmon fillet. Roasted it plain in oven. Used a bag of frozen peas and carrots, a pkg of frozen spinach and added two roasted sweet potatoes skin on. Much more nutrition as frozen veg is frozen immediately after harvest. Cooked the rice as I normally would. Bring to boil, lower temp just a bit, cook 30 minutes. Turn off heat and let sitar-30 minuted…never open lid. Blended eggs alone first, then added cooled roasted sweet potatoes. After that was combined I added all but rice. Took purée and mixed with rice. Dog loves it. Salmon adds the omega 3s that help with his arthritis."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "ALL of my dogs went crazy for this. We're gonna make the transition from the Hill's Science to this."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "My absolute go to recipe. My 3 dogs lick the plates clean. I add things like berries, cottage cheese, any leftovers I might have. It's always a hit."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ray Lommen"
+},
+"reviewBody": "My dog is extremely picky, has bad teeth so kibble is off the table, and doesn't like most canned dog foods either. Getting him to eat enough food has been a big cause of stress for me since we adopted him. Recently I learned that on top of this, his old \"favorite\" food is nutritionally incomplete, so I found this recipe. Before it would take hours of picking at his food to finish a meal, but with this recipe? He's OBSESSED, and so am I! He finishes eating in under a minute and his body language and mood seems revitalized, like his little body had been begging for nutrients and finally got what it needed. Honestly its a godsend, and I appreciate the peace of mind it gives me knowing he's getting good food I can trust and that he Loves it so much."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bobby Kohlbrenner"
+},
+"reviewBody": "This is my 1st time making this recipe. It was very easy to make and smells wonderful. I’m excited to let my pups try it for dinner tonight."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Susan J"
+},
+"reviewBody": "I had some freezer burned ground beef and was looking for dog food recipe to use it. This was perfect. I used shredded fresh carrots I had, a couple of apples, a can of green beans that he loves and everything else according to the recipe. I gave him a taste when it was done and he gives it 4 paws!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/275423/homemade-dog-food-with-beef/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17501/everyday-cooking/more-meal-ideas/",
+"name": "More Meal Ideas"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1951/everyday-cooking/more-meal-ideas/pet-food/",
+"name": "Pet Food Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/275423/homemade-dog-food-with-beef/",
+"name": "Homemade Dog Food with Beef"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

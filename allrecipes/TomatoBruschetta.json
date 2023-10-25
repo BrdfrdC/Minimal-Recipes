@@ -1,0 +1,711 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Tomato Bruschetta"
+,"datePublished": "2019-04-02T02:59:38.000-04:00"
+,"dateModified": "2019-04-02T02:59:38.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Joy Andrews"
+,"url": "https://www.allrecipes.com/cook/joyandrews"
+}
+]
+,"description": "Fresh tomatoes are combined with garlic, basil, and balsamic vinegar in this classic appetizer. Melted mozzarella cheese makes it extra special."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/C_Ivp9zS3BtwnGJnTWR0_d9lOCE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1382219-1e334f20a3d046c7898578756a9d1f99.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Tomato Bruschetta"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "54"
+}
+,"cookTime": "PT5M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "248 kcal"
+,"carbohydrateContent": "29 g"
+,"cholesterolContent": "2 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "7 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "313 mg"
+,"sugarContent": "4 g"
+,"fatContent": "12 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"2 large tomatoes, diced",
+"0.5 cup finely chopped red bell pepper",
+"0.25 cup finely chopped red onion",
+"0.25 cup balsamic vinegar",
+"0.25 cup olive oil",
+"10 leaves fresh basil, chopped",
+"2 cloves garlic, minced",
+"1 (1 pound) loaf French bread, cut into 1/4-inch slices",
+"0.25 cup olive oil",
+"0.25 cup shredded mozzarella cheese" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine tomatoes, bell pepper, onion, balsamic vinegar, 1/4 cup olive oil, basil, and garlic; let tomato mixture rest for 15 to 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Set oven rack about 6 inches from the heat source and preheat the oven&#39;s broiler."
+} ,{
+"@type": "HowToStep"
+,"text": "Arrange French bread slices on a large baking sheet; drizzle with 1/4 cup olive oil."
+} ,{
+"@type": "HowToStep"
+,"text": "Toast bread in preheated oven until lightly browned, about 1 minute on each side. Top bread slices with tomato mixture using a slotted spoon, allowing excess liquid to drain. Return bread to baking sheet and sprinkle with mozzarella cheese."
+} ,{
+"@type": "HowToStep"
+,"text": "Broil in preheated oven until cheese melts, about 3 minutes. Serve immediately."
+} ]
+,"recipeYield": ["10"]
+,"totalTime": "PT40M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hapygrl"
+},
+"reviewBody": "Excellent"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gina Anderson"
+},
+"reviewBody": "this was delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shelle"
+},
+"reviewBody": "I really liked it. Used some of great tomatoes from the garden in all different colors so it looked really appetizing"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "susu"
+},
+"reviewBody": "10+ out of 10 nothing but raves from my family. I have a garden and I used my cherry tomatoes that worked fabulous!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah Hilen"
+},
+"reviewBody": "Delicious! I just added a little parmesan cheese to the top of each slice before running it under the broiler."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MAIRIKRAUSSE"
+},
+"reviewBody": "This was great! I thought the vinegar was going to be too much, but it’s not"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Elon"
+},
+"reviewBody": "Other than using Cheddar cheese on the top and dried basil I followed this recipe quite precisely. It’s not often that I do that. It was wonderful! My husband asked if I could make it again tomorrow night."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Liks2Cook"
+},
+"reviewBody": "I may have lived in the South in a past life...they use tons of butter... but I'm definitely not Mediterranean because I used Ghee instead of olive oil to brush the toast! I added some canned, petite diced tomatoes that had basil and garlic in them and for color sake I used 1/2 each of a orange and a yellow pepper . I skipped the onion and was out of fresh basil (that would have made it even better), I was liberal with the cheese. I served this with wine as an appetizer instead of having rolls and salad with dinner. My neighbor guests raved. Oh...did I mention I made my own baguettes? It was my first time making them. Anywho, I will make this again and again all the same way except I'll be sure to have basil in the garden!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carla"
+},
+"reviewBody": "Delicious!! I used feta cheese instead of mozzarella."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dsj54"
+},
+"reviewBody": "Wonderful...even my fussy husband liked this brushetta! I eliminated the onion, used basil paste for the chopped basil and substituted white balsamic vinegar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Teresa Taylor Green"
+},
+"reviewBody": "I made this as directed with 2 loaves of french bread and it was just enough toppings. Excellent and recommend!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lalu"
+},
+"reviewBody": "Excellent and so easy to make! Did not change a thing to the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kathy d"
+},
+"reviewBody": "So easy and so good! Everyone loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Laura Swanson"
+},
+"reviewBody": "This was very good! We omitted the onions (personal preference) and tried it with both mozzarella and with goat cheese. Mmmmm!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Virginia Irlikis"
+},
+"reviewBody": "This was easy and excellent. I used high quality olive oil and balsamic. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Colleen Keogh Boyles"
+},
+"reviewBody": "Delish. I used white onion cause it's all I had and it was lovely."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "gandaree"
+},
+"reviewBody": "This is"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This is"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "duboo"
+},
+"reviewBody": "I love this simple and light tasting bruschetta. My family loved it as well. No changes necessary."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Becky"
+},
+"reviewBody": "I liked it so much, I canned some to have this winter. I love it with my eggs in the morning"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bmurray"
+},
+"reviewBody": "Had to leave out the red pepper but it was great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kurt Whitman"
+},
+"reviewBody": "It was amazing first time I made it. Not sure this time. Friend said I added some minced jalapeno first time. I don't know. I change and doctor things all the time. Will make again. It was amazing the first time whatever was different. Jalapeno next time...just a little minced."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jupitermap"
+},
+"reviewBody": "This recipes is now a must have appetizer. I made it once and the family requests it daily. I love the way the balsamic vinegar gives it just the right tang while the veggies give it a lite crunch . It soaks into the bread and is wonderful. I have also served the mix on bread not baked without the cheese. It is again a top rate recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ROCKY MTN BLOOM"
+},
+"reviewBody": "I made this as is, except after tasting I added 1/2 tsp salt, which brought out the flavors more. Great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SueHoo"
+},
+"reviewBody": "This was fantastic Bruschetta. I made it as directed, only using red, yellow and green roasted bell peppers since I already had some prepared and needed to use them up. We loved the flavor and ended up eating it as our main course because it was so delicious. Thanks for the great recipe. I'll be making it again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bluesdock"
+},
+"reviewBody": "So good and so easy, followed as written!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "wvgardener"
+},
+"reviewBody": "Family LOVES this. Usually make it as is, which it's great. When they've begged for it and I don't have all of the ingredients, I have subbed shaved parm for the mozz and have even used canned diced tomatoes a few times. :-) Just dumped them in a strainer over the sink for about 15 minutes while cutting up everything else and it still came out really good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jude"
+},
+"reviewBody": "Great for using fresh tomatoes from the garden. Used fresh chives + dill instead of pepper + garlic. Also, substituted shredded provolone vs. mozzarella. Easy dinner w sliced/grilled hot dogs. \nJude"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "James Schaefer"
+},
+"reviewBody": "Left out the peppers, onion, and mozzarella. Just use fresh garden tomatoes, good olive oil, fresh basil and parmesan freshly grated, garlic salt and pepper. This dish is a winner, but don'the over complicate it. We had it with the Pasta Primavera!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Crystal Williams"
+},
+"reviewBody": "A very simple great tasting recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kweiss"
+},
+"reviewBody": "Turned out great. Followed the basics of the recipe, but used what I had on hand - grape tomatoes, white onion and provolone cheese. Used pizza dough left over from Friday night for the base, more like a flat bread. Everyone loved it. And it was quick and easy. Definitely seeing more of this at my house."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Patricia Brown"
+},
+"reviewBody": "This was delicious. I committed the bell pepper and added salt and pepper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amanda Barnard"
+},
+"reviewBody": "This turned out incredible! My daughter, and grandmother loved it as well. They are 9 and 85! Just make sure you have enough people to enjoy it, or you will eat it all."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "augboilerdawes"
+},
+"reviewBody": "Too much balsamic"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christina Gille Rossomangno"
+},
+"reviewBody": "Delicious! Made this for a picnic, my guests ate it cold and it was just as yummy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "*Sherri*"
+},
+"reviewBody": "I made this for the Recipe group selection of the week. Instead of heating the house up with the oven, we made this on the gas grill. Turned out perfect using an Italian bread loaf. Cut the loaf down the middle and brush the olive oil on each half, place right on grill for only a minute to toast. Remove the bread and cut into smaller slices and place on a foil lined metal cookie sheet, top with the tomato mixture and cheese. Cook over indirect heat at 400° until the cheese melts. Took about 12 minutes. I just drizzled the oil and vinegar over my tomato mixture, but doubt it was anywhere near 1/4 cup each, still very refreshing flavor after sitting for an hour."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christina"
+},
+"reviewBody": "Made this for Recipe Group...BIG HIT! I used Italian bread, so it was more like a 'garlic bread' type thing to go w/ our pasta dinner. I used a mix of yellow and cherry tomatoes from the garden. Great flavor and it was enjoyed by all...a keeper~YUM! Thanks for sharing. :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lilcat"
+},
+"reviewBody": "Recipe group 8/23/14 This was so good as a hot weather supper. Easy to make and very refreshing. I ommitted the red bell pepper as I don't like it. Nice twist on the bruschetta recipe I usually use."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Molly"
+},
+"reviewBody": "Recipe Group Selection: 23, August 2014 ~ I made a small batch using white balsamic vinegar rather than the brown balsamic. We really enjoyed this, but you do need to let the flavor meld for about 30 minutes. I was out of sweet red bell pepper, but I did have yellow on hand. Served this with 'Pepper Jelly Glazed Chicken' from AR and a tossed salad. We really enjoyed this version of bruschetta, and I know I will use this recipe again. Thanks, Joy Cowling Andrews for sharing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SHORECOOK"
+},
+"reviewBody": "I made this for the RECIPE GROUP. I followed the recipe using all the ingredients; but, because I wanted a cold appetizer, I used the mozzarella as a garnish rather than melting it in the oven. I only used the flesh of the tomato not the seeds or juice. When it first got done, I was very disappointed in the taste. I just didn't like the pepper, it was too strong. (Perhaps my fault) After refrigeration of a few hours, it was \"knock your socks off\" good! All the flavors blended and it was totally delicious! I served the bruschetta separate, as I didn't want the bread to get soggy. I will be using this recipe often, infact I'll be making it again tomorrow. Thank you Joy for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TGILLS2"
+},
+"reviewBody": "wonderful and very tasty. I couldn't eat/use a whole loaf of bread so I used the excess tomato mixture on chicken and fish"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Scotdog"
+},
+"reviewBody": "Yum! I have cherry tomatoes and basil growing out my ears this year. This was a great recipe to use them in. It's an easy recipe to use what's growing in your garden. I have mild banana instead of red bell and white sweet onion instead of purple. Fresh parm instead of mozz. I know I changed a few things, but I still think the simple elegance of the dish shines. Easy and delish!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Annaliese"
+},
+"reviewBody": "This was super tasty even after I modified it. who doesn't? took out the oil and cheese to make it healthier and let it sit. Even used dried basil and onion as I made this last minute and it was very good. Didn't have any red pepper on hand so ommitted it as well. will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lutzflcat"
+},
+"reviewBody": "Just REALLY good! The next time that I make this, I'll try using white balsamic because you will lose the vibrant red color if it sits too long. White is milder in flavor, but it would be worth it to keep this bruschetta's eye appeal."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/230389/tomato-bruschetta/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/76/appetizers-and-snacks/",
+"name": "Appetizers and Snacks"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16833/appetizers-and-snacks/bruschetta/",
+"name": "Bruschetta Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/230389/tomato-bruschetta/",
+"name": "Tomato Bruschetta"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

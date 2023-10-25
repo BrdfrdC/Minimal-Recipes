@@ -1,0 +1,167 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Sous Vide Steak"
+,"datePublished": "2020-03-06T02:55:25.000-05:00"
+,"dateModified": "2022-06-23T22:13:14.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "barbara"
+,"url": "https://www.allrecipes.com/cook/3031597"
+}
+]
+,"description": "Learn how to cook sous vide steak with this recipe. These steaks are beautifully tender when cooked this way but get extra color and flavor when seared on the grill after."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/JQHvO503ReUz-iA1VpgXjOa84Ok=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6892313-149ba0765b9a434e8193eccaf080037b.jpg",
+"height": 2000,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Sous Vide Steak"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "3"
+}
+,"cookTime": "PT125M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "444 kcal"
+,"cholesterolContent": "148 mg"
+,"proteinContent": "44 g"
+,"saturatedFatContent": "11 g"
+,"sodiumContent": "130 mg"
+,"fatContent": "28 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"4 (10 ounce) strip steaks",
+"salt and freshly ground black pepper to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Generously season steaks with salt and black pepper. Place into a large plastic bag and vacuum seal."
+} ,{
+"@type": "HowToStep"
+,"text": "Place a heat-resistant pad underneath a large pot filled with water. Attach a sous vide precision cooker to the pot and set the temperature to 130 degrees F (54 degrees C). Immerse the bag with steaks into the water bath and cook for 2 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove the bag from the water bath and take out steaks. Pat very dry with paper towels."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat an outdoor grill to medium-high heat and lightly oil the grate."
+} ,{
+"@type": "HowToStep"
+,"text": "Place steak on the preheated grill. Cook, turning every minute or so until well seared all over, 3 to 4 minutes total."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT130M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Cooked two rib eyes with this recipe. Knowing what I know now I would have seared the steaks in a skillet for a minute on each side rather than 1:30 for a total time of two minutes, I think 3 minutes was too long. Maybe even less depending on what the two minute turns out next time for me. The steaks came out very tender and uniform in color from the sous vide. I'm glad I bought the sous vide, well worth the money and will use it regularly cooking meat. My next project is carnitas, I will use my sous vide to break down a pork shoulder over a number of hours. Thank you for this cool kitchen gadget."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lena"
+},
+"reviewBody": "Steak came out very tender and juicy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marianne"
+},
+"reviewBody": "Steak came out beautifully - it does look a little \"grey\" after the sous vide, but once you've thrown it on the grill it gets its color back..it came out beautifully tender by cooking it sous vide."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/275105/sous-vide-steak/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/475/meat-and-poultry/beef/steaks/",
+"name": "Steaks"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1027/meat-and-poultry/beef/steaks/strip-steak/",
+"name": "Strip Steak Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/275105/sous-vide-steak/",
+"name": "Sous Vide Steak"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

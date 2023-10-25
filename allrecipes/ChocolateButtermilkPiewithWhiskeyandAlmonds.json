@@ -1,0 +1,168 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Chocolate Buttermilk Pie with Whiskey and Almonds"
+,"datePublished": "2020-06-19T00:32:30.000-04:00"
+,"dateModified": "2020-06-19T00:32:30.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Sandra Garth"
+,"url": "https://www.allrecipes.com/cook/sandragarth"
+}
+]
+,"description": "Give buttermilk pie a makeover with whiskey, dark cocoa, and almonds for improved texture and an added kick."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/nxofra3uVG3UvmkyLQtMlvOn9xM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5759978-d30164b4fa62462d9fb029c2126320b5.jpg",
+"height": 1767,
+"width": 1178
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Chocolate Buttermilk Pie with Whiskey and Almonds"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "2"
+}
+,"cookTime": "PT50M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "415 kcal"
+,"carbohydrateContent": "46 g"
+,"cholesterolContent": "81 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "7 g"
+,"saturatedFatContent": "8 g"
+,"sodiumContent": "313 mg"
+,"sugarContent": "32 g"
+,"fatContent": "22 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 pastry for a 9-inch pie crust",
+"1 cup white sugar",
+"0.5 cup light brown sugar",
+"0.25 cup all-purpose flour",
+"2.5 tablespoons dark cocoa powder",
+"1.5 tablespoons cornmeal",
+"0.5 teaspoon salt",
+"3 large eggs",
+"0.5 cup buttermilk",
+"0.5 cup butter, melted",
+"0.25 cup whiskey",
+"1 teaspoon vanilla bean paste",
+"0.75 cup toasted sliced almonds" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place pastry crust in a pie plate. Refrigerate for 20 to 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine white sugar, brown sugar, flour, cocoa powder, cornmeal, and salt in a small bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk eggs, buttermilk, butter, whiskey, and vanilla paste together in a large bowl. Add sugar mixture and blend until smooth. Stir in almonds by hand until incorporated. Pour mixture into the chilled pastry crust."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until crust is golden and center is set, 50 to 60 minutes. Transfer pie to a wire rack and cool to room temperature before serving."
+} ]
+,"recipeYield": ["10"]
+,"totalTime": "PT80M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MartieHomemade"
+},
+"reviewBody": "Loved this pie- was easy to make and used ingredients I had on hand except the vanilla bean paste. I subbed almond paste and it was still terrific!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Holiday Baker"
+},
+"reviewBody": "This is quite a rich pie. It has a slight brownie nut taste with a hint of whiskey. It would be great with homemade whipped cream. I used a butter based homemade pie crust. I would highly recommend making a thick and flaky homemade crust with this filling. Ty"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/268090/chocolate-buttermilk-pie-with-whiskey-and-almonds/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/283/desserts/pies/vintage-pies/",
+"name": "Vintage Pie Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/12957/desserts/pies/vintage-pies/chess-pie/",
+"name": "Chess Pie Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/268090/chocolate-buttermilk-pie-with-whiskey-and-almonds/",
+"name": "Chocolate Buttermilk Pie with Whiskey and Almonds"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,163 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Chicken and Egg Salad"
+,"datePublished": "2020-04-30T17:34:18.000-04:00"
+,"dateModified": "2023-02-08T13:57:23.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Holly Jones"
+,"url": "https://www.allrecipes.com/cook/10460103"
+}
+]
+,"description": "This chicken salad with eggs is flavored with fresh herbs and mayo for a delicious main dish that can also be served on crackers as a tasty appetizer."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/-SBZureYIeB4R6YXNAfgAwsCOT0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1131774-chicken-and-egg-salad-Holly-Jones-4x3-1-ad90fe9e27504fefbaaa751915a1d9f7.jpg",
+"height": 720,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Chicken and Egg Salad"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "4"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "274 kcal"
+,"carbohydrateContent": "4 g"
+,"cholesterolContent": "216 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "23 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "181 mg"
+,"sugarContent": "2 g"
+,"fatContent": "18 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT25M"
+,"recipeIngredient": [
+"2 cups diced cooked chicken",
+"3 large hard-boiled eggs, diced",
+"0.5 onion, chopped",
+"1 stalk celery, diced",
+"2 tablespoons mayonnaise, or to taste",
+"2 tablespoons chopped fresh cilantro",
+"1 tablespoon chopped fresh parsley",
+"salt and cracked black pepper to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine cooked chicken, eggs, onion, celery, mayonnaise, cilantro, and parsley in a large bowl. Season with salt and cracked black pepper. Stir until well combined. Add more mayonnaise, salt, and cracked black pepper to your liking. Place in the refrigerator to chill, about 3 hours."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT205M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "SARAH1984"
+},
+"reviewBody": "This is a great recipe that is easily changed for personal tastes. I was serving it with steak, so I knew that I couldn't leave it as a chicken salad (the wine drinkers would have had a fit determining what wine to drink with their meals), so I swapped the chicken for about two cups of macaroni. No one in the family is okay with raw onion and I don't like raw celery, so I fried the two of them in a little butter and lemon-infused olive oil till they were soft. Because I substituted the chicken, I doubled the hardboiled eggs (not much substance to the salad with just onion, celery and pasta). As the mayo/sour cream dressing was quite thick I loosened it up with some more of that lemon-infused olive oil. I also upped the coriander (cilantro) amount by about four times what was called for because the family really loves the flavour. The family rated what I came up with at a five, so I think the original recipe deserves a four for inspiring me."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This is how I make chicken salad, with hard boiled eggs, celery, green onions, mayo."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ericabriggs95"
+},
+"reviewBody": "Really delicious recipe thank you! I did make a couple minor changes I used olive oil Mayo (calories) and I used green onions instead of a regular onion because they are my favorite lol. Will definitely use this recipe again it’s low calorie and protein packed!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/279940/chicken-and-egg-salad/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/",
+"name": "Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/96/salad/",
+"name": "Salad"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/279940/chicken-and-egg-salad/",
+"name": "Chicken and Egg Salad"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

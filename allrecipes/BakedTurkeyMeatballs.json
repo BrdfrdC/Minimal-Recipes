@@ -1,0 +1,702 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Baked Turkey Meatballs"
+,"datePublished": "2020-03-31T21:50:01.000-04:00"
+,"dateModified": "2022-11-04T12:02:50.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Kudra"
+,"url": "https://www.allrecipes.com/cook/kudra"
+}
+]
+,"description": "It doesn&#39;t take long to make these oven-baked turkey meatballs! In less than 30 minutes, they&#39;ll be ready to add to any of your favorite dishes."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/h_a9uDJbDOUC3qsDYuPaPDBlZbQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7887279-e50237c73cff4e7a92e4eda532d06bbd.jpg",
+"height": 716,
+"width": 1010
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=6029182913001",
+"description": "Easy and delicious baked turkey meatballs! ",
+"duration": "PT47S",
+"name": "Baked Turkey Meatballs ",
+"thumbnailUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/5b195eab-b291-49c1-8df6-688042a887ad/5edcb9b7-b4d3-4844-b360-fcb9c4a17def/1280x720/match/image.jpg",
+"uploadDate": "2020-10-21T04:20:27.886-04:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Baked Turkey Meatballs"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.1",
+"ratingCount": "49"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "267 kcal"
+,"carbohydrateContent": "16 g"
+,"cholesterolContent": "130 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "27 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "350 mg"
+,"sugarContent": "3 g"
+,"fatContent": "11 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 pound ground turkey",
+"0.5 cup Italian bread crumbs",
+"0.25 cup thinly sliced baby spinach",
+"1 large egg",
+"2 tablespoons onion powder",
+"2 tablespoons garlic powder" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 375 degrees F (190 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix turkey, bread crumbs, spinach, egg, onion powder, and garlic powder together in a bowl until well combined. Roll mixture into eight palm-sized meatballs and place 2 inches apart on a baking sheet."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/h_a9uDJbDOUC3qsDYuPaPDBlZbQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7887279-e50237c73cff4e7a92e4eda532d06bbd.jpg"
+}
+]
+,"text": "Bake in the preheated oven until no longer pink in the center and the outside is browned, 15 to 20 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT25M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nici Robison-McIntosh"
+},
+"reviewBody": "Easy and delicious, I pre-made the meatballs ahead of time and turned out great!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Jeanine"
+},
+"reviewBody": "But this recipe was the WORST meatballs I have ever eaten. Tasted like paste. I will definitely spend the time with my own recipe because this was a waste of my time"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "arizonalovers"
+},
+"reviewBody": "We love this recipe. Have made it many times!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Anastacia Adamcik"
+},
+"reviewBody": "These were very easy to make, and they taste good. The next time I make them, I might add a little extra seasoning - Italian seasoning, garlic, and pepper - because these meatballs have a mild taste. (This makes them kid-friendly, but as we are only adults, I feel the need to dial up the flavor a bit more.) These freeze nicely; so, I will probably stop buying the frozen meatballs from the grocery store."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kristine Nichols"
+},
+"reviewBody": "Came out perfect and delicious and so easy to make! Added some cayenne for a kick"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carolynn"
+},
+"reviewBody": "I used this recipe for ideas and did things a little differently. I didn’t have fresh spinach,which I prefer to canned or frozen, so left this out. I put in fresh diced onions, several cloves of fresh garlic, and made my own bread crumbs from seeded toasted organic bread. I am pretty sure the pre-packaged items, including the Italian dressing, was what made some of the other commenters’ food so salty. My version had a nice crunchy outside with a very moist inside and was deliciously light. I served them over wild rice risotto."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lindsay michelle"
+},
+"reviewBody": "Very yummy! Thanks added green pepper and red onion as well and it was delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "VKD"
+},
+"reviewBody": "No changes made, kind of tasteless despite all the onion and garlic powder."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "All-American Eater"
+},
+"reviewBody": "These things taste awful!! Don't trust the other reviews. The amount of onion and garlic powder makes the dang things horrendous. The spinach adds a bitter flavor to it. Don't make the recipe as-is. Gross!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Laura Esch"
+},
+"reviewBody": "It's OK like I will eat it... but not make it again. I thought the meatballs were dry and not sure how to fix that... fresh garlic? onion?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "joy"
+},
+"reviewBody": "Great recipe. I added curry to mine. Delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rebecca Cumpston-Navel"
+},
+"reviewBody": "It taste great"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "karen"
+},
+"reviewBody": "I added a bit of pepper flakes for a bit of spice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jeffrey Greene"
+},
+"reviewBody": "I made it without spinach, didn't have any on hand, but it turned out great.\nNext time I will use all the ingredients"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Super easy. I had all ingredients right in my kitchen. My husband loved them"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jim"
+},
+"reviewBody": "I find myself looking for ground turkey recipes as we transition away from beef, this one will be in my regular rotation. \n\nI made some changes by halving the onion and garlic powder, I also used a big handful of fresh spinach. When chopped, it was almost a cup. I also used 20 oz of ground turkey from Aldi. Somehow it worked because I got raves. I will also turn the meatballs in the oven next time. \n\nI may experiment with frozen chopped spinach and possibly use minced garlic and onion to replace the powder. But this is a very quick prep and cook time, so it’s perfect for weekday meals. I did allow the meatballs to cool at room temperature for a bit before I added them to a pot of jarred spaghetti sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Susan Lemmon (Sue)"
+},
+"reviewBody": "Yuk"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "MiladyR"
+},
+"reviewBody": "I used 1/4 cup chopped onions instead of onion powder and used egg whites instead of the egg."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Vincent"
+},
+"reviewBody": "My Toddler loved this- so a winner in my book. I followed advice of pp by decreasing the amount of onion and garlic salt by half and added a generous amount crumbled Feta. Prep was super fast but needed appx 30min of cook time rather than the recommended. Will become a regular meal in our house!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Nehus Saxon"
+},
+"reviewBody": "This has become one of my go-to recipes. I just tweaked the recipe a bit, adding a touch of fresh rosemary. On occasion, I replace the bread crumbs with a slice of day-old bread dipped in milk. One tip to remember that was passed along to me by my Italian great grandmother: When mixing everything together, use a light touch. The more you handle the meat, the tougher the meatballs will be."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Michael J Plourde"
+},
+"reviewBody": "Tasted salty. My wife pretended to find it tolerable but it wasn't good. I even halved the spices but it still tasted too salty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "John Gomez"
+},
+"reviewBody": "Turned out great! Timing and temperature was all perfect ?? I had all the ingredients already. It's inexpensive, healthy and tasty! I tested four on a bed of 1/2 cup red kidney bean and 1/2 cup corn mix with Sriracha on top. Only 350 calories by my calculations!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kristen Marineau"
+},
+"reviewBody": "I used a teaspoon of both both garlic powder and onion powder, and added 1/8 tsp of both salt and pepper and a tablespoon of Parmesan cheese."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Melissa Colón"
+},
+"reviewBody": "After reading every review, I made the following changes: eliminated the powdered onion and garlic and replaced it with fresh garlic, onion, green pepper and cilantro. I added a little Worcestire sauce, salt, pepper, dried parsley, dried oregano and Badhia all purpose seasoning. Kept the egg and fresh spinach as they were, and replaced the Italian Style breadcrumbs for Garlic and Herb breadcrumbs. Added half a pack of cream cheese, and about a 1/4 of a cup of three cheese italian shredded cheese. Baked it as it was suggested, covered half the time and uncovered for the remaining time. I finished them by cooking for 15 min. in low temperature on a pool of spaghetti sauce. They turned out AMAZING!!!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Anna Coppedge"
+},
+"reviewBody": "These were really tasty. I would make them more often made my parents aren't huge fans of ground turkey."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "st2988"
+},
+"reviewBody": "I made it, I added real onions instead of onion powder. Had to improvise"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cheryl Johnson"
+},
+"reviewBody": "Could not even tell that they were Turkey, have made them a few times. Highly recommended!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Rachel Sreebny-Costello"
+},
+"reviewBody": "Very salty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "michael bergman"
+},
+"reviewBody": "The onion and garlic ruined it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "BRIKZ"
+},
+"reviewBody": "The meatballs were very dry (could just be turkey) and I think there is way too much garlic and onion powder and maybe breadcrumbs. Going to experiment and maybe next time it will be better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Cookiecween"
+},
+"reviewBody": "I used 1/4 C gluten free oats, 1 t sea salt, and 1 T Worcester in place of Italian breadcrumbs. I used only 2 teaspoons each of onion powder and garlic powder."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Spicy Carb Lover"
+},
+"reviewBody": "Sorry very newb, this is the third part of my review! According to tips, sprayed the pan and the meatballs with olive oil spray, covered with foil for 15 min, uncovered for 10 min, while boiling two cans of crushed tomato sauce, and when the meatballs came out, we stuck them in the sauce and continued to simmer for about 5-10 min (since we weren't sure if the meatballs were ready). So soft and juicy and flavorful. First review on this site after years of using. Thanks for getting me started. :) Healthy-ish turkey meatballs."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "annie"
+},
+"reviewBody": "Very good I will make again.I used fresh spinach I measured half a cup and then broke it down. Was good amount for me.I added 1 tb of spices and will cut that back next time to 1 tsp.I also used an 8x8 I sprayed the bottom with olive oil spray and left coverd the whole time and then took cover off as it needed additional time to cook.Thank you for posting"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Heidi Mullins"
+},
+"reviewBody": "Made it to take to a party and absolutely loved it! Added some Keg steak spice and Worcestershire sauce to kick it up. Also followed the recommendations to use Panko instead of Italian bread crumbs. Paired it with some spicey Thai sauce and Greek yogurt Tzatziki for dipping. When baking them we baked them for 20 minutes and then put them under the broiler for 5 minutes to crisp them up slightly."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mmcgah"
+},
+"reviewBody": "I added sautéed garlic and onion instead of powder and mixed in a beaten egg and a little bit of mozzarella cheese yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nancy Shuman Carbone"
+},
+"reviewBody": "Delicious! I added a little cream cheese and extra spinach."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dantztutu"
+},
+"reviewBody": "Great recipe! I added more spinach and it still turned out great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Olya A"
+},
+"reviewBody": "It's lacking the salt and pepper and asks for too much dry garlic and onion. I added 1/4 tspn of salt, pepper to taste and a tspn of each, garlic and onion. Additionally, I am not a fan of Italian seasoning, so I added a tspn of smoked paprika. The temperature I baked at was 400 and I followed a suggestion of another reviewer (to prevent dry meatballs, &amp; they came out nicely moist): I placed the balls onto a piece of foil and covered with foil for the first half 12 minutes and then uncovered for another 15. The total cooking time was almost 30 min for me. I put in for longer bc I'm in the mountains (Denver) &amp; also bc I made them large. As big as my palm. They do taste great and thanks for the great base recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Debbie Elledge"
+},
+"reviewBody": "Absolutely loved these! I used only 1 tsp of the garlic and onion powder and it was perfect for us. I also used frozen/thawed chopped spinach. I used 1/2 c. though 1/4 would be great if you have to hide it from the kids, but 1/2 c. was not overkill. One review mentioned dryness so I cooked half the time covered with foil, then removed it second half to brown. I used an 8x8 baking dish and the result was 16 meatballs. They were juicy and tasty. These were even better for lunch the next day. Will be a regular at our house!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Tori Lee Snowdeal"
+},
+"reviewBody": "Yummm :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jessica"
+},
+"reviewBody": "its really good. They are a bit dry, so spray some cooking oil on the sheet before you cook them"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kkmarvin"
+},
+"reviewBody": "These meatballs are delicious and healthy. I substituted Panko bread crumbs and added my own Italian seasoning; I used frozen chopped spinach and probably used about 1/2 cup. My husband put gravy on his. About 21 carbs for the entire batch this way without the gravy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Holiday Baker"
+},
+"reviewBody": "I thought these tasted fine. Although, the texture oddly sort of reminded me of frozen meatballs. I suppose that is from the breadcrumb amount. I did think some of the ingredient amount seemed a bit off. I halved both the seasonings and used 1 cup of chopped spinach. I added 2 pinches of salt and 1/3 cup shredded parmesan cheese. I realized it called for Italian seasoning after making them and so I rolled them in 3~4 pinches of Italian seasoning. I used 1/4 cup measuring cup to divide the mixture. It made 10 meatballs. I baked them on a foil lined sheet sprayed with cooking spray. I also sprayed the meatballs with olive oil. They took 30 minutes, to bake, turning about every 10 minutes. The meatballs came to 99 cal each as made."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/239951/baked-turkey-meatballs/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/107/appetizers-and-snacks/meat-and-poultry/",
+"name": "Meat and Poultry"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/684/appetizers-and-snacks/meat-and-poultry/turkey/",
+"name": "Turkey"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/239951/baked-turkey-meatballs/",
+"name": "Baked Turkey Meatballs"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

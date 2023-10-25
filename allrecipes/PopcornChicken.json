@@ -1,0 +1,290 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Popcorn Chicken"
+,"datePublished": "2019-07-10T03:11:26.000-04:00"
+,"dateModified": "2022-08-25T11:49:15.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Megan"
+,"url": "https://www.allrecipes.com/cook/244022"
+}
+]
+,"description": "Make your own popcorn chicken at home; this quick and easy crispy fried chicken recipe is guaranteed to become a new family favorite!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/1t_Gzh0sPcP7KKH5klx0nWRsE5k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5108805-b4b77959d1ea4283b869e8e052cdd781.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Popcorn Chicken"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.4",
+"ratingCount": "14"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "451 kcal"
+,"carbohydrateContent": "49 g"
+,"cholesterolContent": "96 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "21 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "248 mg"
+,"sugarContent": "1 g"
+,"fatContent": "18 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"3 cups flour",
+"2 teaspoons garlic powder",
+"0.5 teaspoon salt",
+"0.25 teaspoon ground black pepper",
+"2 eggs",
+"2 tablespoons lemon juice",
+"2 cups oil, or as needed",
+"3 skinless, boneless chicken breasts, cubed" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Mix flour, garlic powder, salt, and black pepper together in a bowl. Beat eggs and lemon juice together in a separate bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat 2 inches of oil in a large pot over medium heat."
+} ,{
+"@type": "HowToStep"
+,"text": "Dredge chicken pieces in flour mixture; shake off excess. Dip into beaten egg. Lift up so excess egg drips back into the bowl. Press into flour mixture again to coat."
+} ,{
+"@type": "HowToStep"
+,"text": "Lower pieces of chicken carefully into hot oil in batches; fry until golden brown, 7 to 8 minutes. Transfer to a paper towel-lined plate to drain. Repeat with remaining chicken pieces."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT35M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brittany McElroy"
+},
+"reviewBody": "Tasty treat for everyone!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Oweo"
+},
+"reviewBody": "I made these with a few changes to the recipe, I used the air fryer, and it turned out just great! I saw that some of the reviews said it needed more seasonings, so I salted the chicken a night before and let it sit in the fridge for a night. It made it much more flavorful and amazing. Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Peter Samer"
+},
+"reviewBody": "the breading fell off"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KatesKitchen80"
+},
+"reviewBody": "I made this recipe for our boys and it was a HUGE hit! Zero complaints and there was complete SILENCE at the dinner table while they ate! Definitely a keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Faraz"
+},
+"reviewBody": "To be honest, to me the original recipe tasted very plain and had no flavor. There was barely any salt/ pepper taste. So I customized the recipe, added more Salt, Black &amp; Cayanne Pepper, Red Chilli Powder, some more Garlic Powder in the flour and added some more Lemon Juice in the egg. Then did the second batch, which tasted much better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Scarlet Vertolli"
+},
+"reviewBody": "Used the recipe as a guide and adjusted the flavours to what I had and like ( maple bacon rub, seasoning salt, garlic powder, paprika and black pepper) I adjusted the flour ratio to the chicken I had on hand. I subbed a couple dashes of Frank’s Red Hot instead of lemon with the egg mixture. \nMy husband loved these. They turned out very tasty and a wonderful crispy batter."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rachel M Brewster"
+},
+"reviewBody": "Absolutely delicious!! A favorite recipe of mine now!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Conny Wiersema"
+},
+"reviewBody": "Delicious! Just plan for enough time to make"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Quinzola Garrett"
+},
+"reviewBody": "It would have been better, had I ate it once it was ready. Instead I took it to work for lunch, maybe it was made to eat asap"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Jay Nine"
+},
+"reviewBody": "READ THIS BEFORE YOU MAKE IT:\nLike the others said, this needs a ton more of seasoning and salt. (I'd say at least 3 tablespoons salt, double the garlic powder) On top of that, 2 cups of flour is more than enough as there was a huge amount of it wasted at the end. \nAlso I recommend 10+ minutes in the fryer to get that golden crusty goodness."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Turned out perfect! This is an easy recipe and can be tweaked by adding more seasoning. Made Valentine snacks with these."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Soup Loving Nicole"
+},
+"reviewBody": "This turned out great! I do think the flour could use double the amount of seasoning but other than that I wouldn't change a thing."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/261087/popcorn-chicken/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/201/meat-and-poultry/chicken/",
+"name": "Chicken"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/650/meat-and-poultry/chicken/fried-chicken/",
+"name": "Fried Chicken Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/261087/popcorn-chicken/",
+"name": "Popcorn Chicken"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

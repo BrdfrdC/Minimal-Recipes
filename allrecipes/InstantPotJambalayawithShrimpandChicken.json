@@ -1,0 +1,339 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Instant Pot Jambalaya with Shrimp and Chicken"
+,"datePublished": "2020-02-20T00:06:11.000-05:00"
+,"dateModified": "2022-12-27T21:58:45.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "fabeveryday"
+,"url": "https://www.allrecipes.com/cook/fabeveryday"
+}
+]
+,"description": "This tasty chicken and shrimp jambalaya is made all in one pot — your Instant Pot! Heat lovers can double the hot pepper sauce to give it an extra kick."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/oOVaD-dBhYdCG85i-T6_B9NIEpM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6177699-instant-pot-jambalaya-with-shrimp-and-chicken-fabeveryday-4x3-1-ee44ee35ebc349e98e22d2199ff95bd7.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Instant Pot Jambalaya with Shrimp and Chicken"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "18"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "321 kcal"
+,"carbohydrateContent": "7 g"
+,"cholesterolContent": "144 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "27 g"
+,"saturatedFatContent": "6 g"
+,"sodiumContent": "939 mg"
+,"sugarContent": "4 g"
+,"fatContent": "19 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"2 tablespoons olive oil, divided",
+"14 ounces andouille sausage, sliced",
+"1 medium onion, chopped",
+"2 cloves garlic, crushed",
+"1 pound boneless skinless chicken breasts, cubed",
+"1 green bell pepper, chopped",
+"2 stalks celery, chopped",
+"1 (28 ounce) can diced tomatoes",
+"1 pound uncooked medium shrimp, peeled and deveined",
+"0.5 teaspoon dried thyme",
+"0.5 teaspoon salt",
+"0.5 teaspoon seasoned salt",
+"0.25 teaspoon pepper",
+"0.25 teaspoon hot pepper sauce (such as Tabasco®)",
+"2 tablespoons chopped green onions" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Turn on a multi-functional pressure cooker (such as Instant Pot) and select the Sauté function. Add 1 tablespoon olive oil and cook sausage slices until browned on both sides, 3 to 4 minutes. Remove sausage from pot and set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Add remaining olive oil to the pot. Add onion and garlic; cook and stir for 1 minute. Add chicken, bell pepper, and celery. Cook until chicken starts to brown on the edges, 2 to 3 minutes. Add browned sausage, diced tomatoes with liquid, shrimp, thyme, salt, seasoned salt, pepper, and hot pepper sauce; stir until well combined. Turn off the Sauté function. Close and lock the lid."
+} ,{
+"@type": "HowToStep"
+,"text": "Select high pressure according to manufacturer&#39;s instructions; set timer for 7 minutes. Allow 10 to 15 minutes for pressure to build."
+} ,{
+"@type": "HowToStep"
+,"text": "Release pressure carefully using the quick-release method according to the manufacturer&#39;s instructions, about 5 minutes. Unlock and remove the lid after the pressure has released completely."
+} ,{
+"@type": "HowToStep"
+,"text": "Serve jambalaya garnished with chopped green onions."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT45M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kj"
+},
+"reviewBody": "Amazing!! I added way more hot sauce than recipe. Otherwise, no other changes. OMG one of my favorite meals I have ever made"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kim"
+},
+"reviewBody": "Turned out great. There's a fair amount of liquid in this, but the rice soaks it up well.\n\nI added over double the recommended amount of hot sauce and it wasn't hot enough for my tastes. Next time I'll add some cayenne pepper and Worcestershire sauce as well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Greg"
+},
+"reviewBody": "Awesome...I added a little Smoking' Maries to spice it up and bit and used fire roasted tomatoes"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Don Mustard"
+},
+"reviewBody": "Loved it! Super flavourful. Paired excellently with Zatarans jambalaya rice"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "alessiophx"
+},
+"reviewBody": "Absolutely delicious! Will be making again and again!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sharon"
+},
+"reviewBody": "My only change was that I used Rotel stewed tomatoes. My family loved it served over rice or cornbread!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "karachromatic"
+},
+"reviewBody": "This was amazing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Melody Dumplin"
+},
+"reviewBody": "This dish tastes wonderful."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tess Flores Powers"
+},
+"reviewBody": "Easy to make and sooo delicious!!! Had it 2 nights and tasted even better the 2nd night!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Peter Kohlberger"
+},
+"reviewBody": "I'm making it again tonight by request of the family."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tim Jones"
+},
+"reviewBody": "Wow! I made this, and the family loved this jambalaya. The flavor was highlighted and the spices are just right. When I say spices don’t take it to mean spicy, I mean it to be flavorful. I would recommend just following the recipe. If you wanted to add anything after the dish is prepared then do so."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "johnb"
+},
+"reviewBody": "Made twice. Once with andouille sausage and was perfect. Once with keilbasa. It didn't have the same flavor at all with the kielbasa. Definitely use the andouille sausage and not kielbasa. You will love it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "helbirdier"
+},
+"reviewBody": "delicious and easy. I doubled up on the garlic and hot sauce"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rebecca"
+},
+"reviewBody": "I've made this 2 x now, because it is just that good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bill"
+},
+"reviewBody": "Very good will do again."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/269929/instant-pot-jambalaya-with-shrimp-and-chicken/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/183/soups-stews-and-chili/stews/",
+"name": "Stews"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1428/soups-stews-and-chili/stews/jambalaya/",
+"name": "Jambalaya Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/269929/instant-pot-jambalaya-with-shrimp-and-chicken/",
+"name": "Instant Pot Jambalaya with Shrimp and Chicken"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,1440 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Best Brownies"
+,"datePublished": "1998-02-18T13:54:57.000-05:00"
+,"dateModified": "2022-11-30T14:28:58.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Angie"
+,"url": "https://www.allrecipes.com/cook/24321025"
+}
+]
+,"description": "This brownie recipe makes moist, delicious brownies that are cakey on the outside and fudgy in the middle. The chocolate frosting makes them the best!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/zcVAaRd2uwIce4Q6eTy8xZwWZos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9460738-7b6e10149e7346a3926a51a9ef7b1a2d.jpg",
+"height": 1500,
+"width": 1500
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=1547157958001",
+"description": "See how to make moist, fudgy, perfectly decadent brownies.",
+"duration": "PT3M27S",
+"name": "Best Brownies",
+"thumbnailUrl": "https://static.onecms.io/wp-content/uploads/sites/43/2014/09/1090243_-Best-Brownies-Photo-by-Paula.jpg",
+"uploadDate": "2023-01-30T15:48:03.652-05:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Best Brownies"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "13553"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "183 kcal"
+,"carbohydrateContent": "26 g"
+,"cholesterolContent": "44 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "2 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "110 mg"
+,"sugarContent": "21 g"
+,"fatContent": "9 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"0.5 cup butter",
+"1 cup white sugar",
+"2 eggs",
+"1 teaspoon vanilla extract",
+"0.33333334326744 cup unsweetened cocoa powder",
+"0.5 cup all-purpose flour",
+"0.25 teaspoon salt",
+"0.25 teaspoon baking powder",
+"3 tablespoons butter, softened",
+"3 tablespoons unsweetened cocoa powder",
+"1 tablespoon honey",
+"1 teaspoon vanilla extract",
+"1 cup confectioners' sugar" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C). Grease and flour an 8-inch square pan."
+} ,{
+"@type": "HowToStep"
+,"text": "Melt 1/2 cup butter in a large saucepan. Remove from heat, and stir in sugar, eggs, and 1 teaspoon vanilla. Beat in 1/3 cup cocoa, flour, salt, and baking powder. Spread batter into prepared pan."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until top is dry and edges have started to pull away from the sides of the pan, about 25 to 30 minutes. Let cool briefly before frosting."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/zcVAaRd2uwIce4Q6eTy8xZwWZos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9460738-7b6e10149e7346a3926a51a9ef7b1a2d.jpg"
+}
+]
+,"text": "To make the frosting: Combine softened butter, confectioners&#39; sugar, 3 tablespoons cocoa, honey, and 1 teaspoon vanilla extract in a bowl. Stir until smooth. Frost brownies while they are still warm."
+} ]
+,"recipeYield": ["16"]
+,"totalTime": "PT45M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Amazing"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Brownies? Really? This is nice and chocolates and with the frosting (which does NOT “stir” unless you add milk) mildly enjoyable. But it’s too cakey for brownies and too dense for cake. Without the frosting it’s a bit like eating mud. Could be lovely with some tweaking but I’ll stick to “Katherine Hepburn’s Brownies” for now."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "pretty good I did not add frosting though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "i love this recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Thanks for the great brownies!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "It was a bit sticky and salty but otherwise great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "There is no liquid to be added in the frosting. The honey was not enough. I had to add some half n half."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Karen"
+},
+"reviewBody": "Super sweet"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "It was bussin"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joyce Neighbors"
+},
+"reviewBody": "I've made this recipe before, because Herseys Cocoa container doesn't have the recipe. These are delicious decadent brownies. They're just like the original recipe. I don't ice them. I really love the outside by the edge of the pan. Crunchy and moist and great. In fact I'm getting ready to put a batch together today. ❤️ 😋😊🤔"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Icing was too dry needed to add 2 tablespoons of milk Otherwise delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Love the brownies. Icing does not mix well. Followed instructions exactly. Doesn’t spread easily So I did half. We love the brownies but icing tastes ok just not sure how smooth it’s suppose to be. Thank you"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BDVE"
+},
+"reviewBody": "This has been our family's favorite brownie recipe for 9 years!! It's perfect every time just as the recipe is written. We normally don't make the frosting and we like to serve it with homemade vanilla ice cream."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jeff Thompson"
+},
+"reviewBody": "Simply perfect. Just like I remember my mom making."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I don’t understand the negative reviews these were gooey deliciousness! Want to eat the whole pan deliciousness. My only criticism is that the frosting was too thick and I thought the honey was unnecessary. I thinned it with a little milk and was fine."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This recipe was quick and easy. The brownies are fudgy and delicious!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kenny"
+},
+"reviewBody": "I added chocolate chips, awesome!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "i think that the frosting is quite thick at first(at least for me) so i added a bit more honey(about 1/2 tablespoon more) an i added 2 tablespoons of milk, and it got to a very good consistency(in my opinion.) hope this helps!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "The people who gave this negative reviews must've done something wrong. These were the most fudgey, moist, and all around amazing brownies I've ever made. I doubled up the icing recipe it was 🔥"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "WOW! Brownie to frosting, this recipe is a keeper! I substituted gluten free flour and cooked for 25 minutes. Cakey, fudgey, deliciousness!! The frosting was thick, my happy accident, so I was able to roll them into fudgey balls as sidecar for my Brownie. 100% will make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "clarkfam"
+},
+"reviewBody": "This is my go to recipe for a quick dessert or snack. Have been making these brownies for 50 years. Everyone loves these. I do add nuts."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Deirdre Bowen"
+},
+"reviewBody": "I haven't tasted these yet but the batter is delicious! That's usually how I can tell if I'll like brownies, cake, cookies, anything... I did double the brownie recipe. Fingers crossed that I cooked it long enough. Seems done with pulling away from the sides AND the fact that I put a cake thermometer in it. The frosting was too chunky and balled up... So, I added one more TBSP of butter (melted this time) and 1 TBSP of milk. Turned out still thick so I added maybe another 1/2 TBSP of milk and it turned out perfectly thin enough to spread! Score! Frosting is fabulous now!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "These were definitely not the fudgey brownies as put in the description. I would not make them again they are definitely more cake like than anything. They don’t taste very good either."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Melissa Lardi"
+},
+"reviewBody": "Hands down the best brownie recipe out there! Thanks for sharing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sonia Jean"
+},
+"reviewBody": "Love, love, love this recipe!! I don't use the icing because they're sweet enough. Everytime we make these everyone wants the recipe and more. They are the perfect fudgy, cakey brownies!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Easy and smells delicious, haven’t tried them yet fresh out of the oven. I made them gluten free with chocolate chips and will frost them in a few minutes. I appreciate the ease and simplicity of the ingredients!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Made these in little silicone cupcake pans and dialled back the baking time to 20 minutes. Topped them with crushed chocolate caramel (Daim here in Sweden, Skor in Canada/US)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "It was ABSOLUTELY HORRIBLE. They were hard and the frosting did not taste good. The cocoa powder was over whelming in the brownies. They were dry and had to scrape the frosting off."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Fantastic, next time I make them I'm probably going to add some chocolate chunks to the top of the batter before I bake them."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I'm shocked there are 1-star reviews for this recipe. This is hands down the best (and easiest) brownie recipe I've ever tried. Since I've made it quite a few times I now have some modifications like using dark brown sugar and adding dark chocolate chips. I also used to put a dollop of nutella in the batter as well, just to be a lil wild. I don't bother making the frosting because it never seemed necessary. Also not a fan of frosting in general. Be sure to add powdered sugar to the top of these bad boys once they're out - they're superb!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "aalmeida22"
+},
+"reviewBody": "Delicious with milk and warm snack"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I made no changes because you don't need to mess with a good thing. The brownies are wonderful."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "HEAR ME OUT. This brownie is closer to fudge more than anything, and if you are looking for a classic brownie recipe, maybe that's not it. But if you are looking for a decadent, delicious, rich, I-am-going-to-eat-the-whole-pan dessert, then this is it. I loved every single bite of it. Tip: when making the frosting, pop the butter in the microwave for 15 seconds, so it's borderline melting, but not quite. That way, the frosting will actually blend together and will be easier to spread."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "rk8ffz594m"
+},
+"reviewBody": "The brownies were fine but I couldn’t figure out that frosting! I followed the recipe exactly with softened butter vs melted and it was dry and clumpy. So I put it in the oven and it got better. Still wouldn’t spread so I dolloped it on and back in the oven to get more spreadable. Tasted ok."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Great recipe, made with my kids - they loved them. Topped with powered sugar instead of glaze."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Love these brownies! I don’t make the frosting, it’s too sweet and unnecessary. These have been a massive hit with my bf who doesn’t like sweets, and my family who don’t like brownies! Definitely a holiday favourite, and one of my favourite sweets to make! Just be aware that if you double the recipe, the batter comes out more runny, but this didn’t affect the brownies themselves too much."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lindsayhobbs119"
+},
+"reviewBody": "These are very delish!! I didn't make the frosting as my husband and daughter prefer brownies without. I added some 70% cacao chocolate, coarsely chopped, to add some melty-chocolate texture and taste, and added another T. of additional cocoa powder (we like deep, rich chocolate flavor). They came out fantastically! A keeper in my house. Thank you!!! Great recipe!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Silvan_C"
+},
+"reviewBody": "My fav brownie recipe. They aren't cakelike, they're moist, chocolatey and dense, like they should be. I don't make the frosting, though, it's too sweet. They don't need it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "These are way better than boxed brownies! I added chocolate chunks and chips, and didn’t frost them. My only problem with this recipe, is that my family won’t eat boxed ones ever again :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This is the first time I’ve made homemade brownies that I like better than a mix. My quest is over."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "5 stars on the brownie recipe. 2 stars on the frosting recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Morninstar Clark"
+},
+"reviewBody": "Thought they'd be a bit thicker but still tasted good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "OH MY GOODNESS!!! this was so yummy, and it didn't have the texture of cake at all, the whole pan was gone in minutes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "If you want a chewy brownie, use Crisco instead of butter. I've made them both ways, and either way is great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Not even a brownie… there’s no oil to give it that shiny top. The recipe yielded a very small amount. It gets one star because it taste good. Will double the recipe and add oil next time. (I added skor pieces if anyone is wondering)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "twb67rn24d"
+},
+"reviewBody": "This is my go to homemade brownie recipe. They are extremely easy and quick and super rich and moist. The only problem is the frosting— I always have to add a tablespoon or 2 of milk because as written, it’s just dry ingredients with some butter and honey and a tspn vanilla. With all the cocoa and a cup of powdered sugar it’s way too dry. It doesn’t ever turn into frosting without milk or some kind of wetter ingredient."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I followed the recipe and got bad chocolate cake. I’m not sure what went wrong but I didn’t get brownies. I followed every step too. Kinda disappointed"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Joanne Love Springberg"
+},
+"reviewBody": "Terrible! Made exactly to recipe and they were not sweet except the frosting. They fell apart and were cake like. Not chewy at all. I made a double batch because of such high ratings. So disappointing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Loved the recipe made it for my family they loved it....I added chocolate chip in side and it made it so good...I really recommended this recipe!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Deb C"
+},
+"reviewBody": "This easy and straight forward brownie recipe could be made and enjoyed without the frosting, but the frosting adds just a little bit of jazz that the family enjoyed. I found that I needed to add just a little bit of milk to make the frosting a spreading consistency. I also added walnuts which is a family preference."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Baking with Grandma Drauden"
+},
+"reviewBody": "I did not frost these but I added pecans, delish!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "its okay"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Faith Reed Tijerino"
+},
+"reviewBody": "I tried this recipe and I thought they were the best already, but then I browned the butter to make them all toffee nutty and it was 💯 Would highly recommend this recipe on its own, as well as with the browned butter mod!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I loved it they are so good . But they were a little to chocolatey. so good everyone should try them! soooooooooooo gooooooooooooodpeopie need to try it right now!!!!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle Lo"
+},
+"reviewBody": "These are SPOT ON i added chocolate chips and walnuts for extra decadence 😄"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I have been making this recipe for years. Sometimes I add walnuts. Sometimes I add M&amp;Ms (the mint ones at Christmas are amazing!). Sometimes I add recees pieces. I always top with a simple ganache made of heavy whipping cream and chocolate chips and sprinkle filling on top too. They are everyone’s favorite."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Suzy Stevens"
+},
+"reviewBody": "Love these brownies!! I’ve made them several times and everyone always raves about them. Simple and way better than from the box. Delicious even without the frosting."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Pretty good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "👍"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rebecca V"
+},
+"reviewBody": "I discovered this recipe on AllRecipes years ago, and since then it has been my go-to for brownies. They are PERFECT either with or without the frosting, so I normally don’t bother with it. The only modification I use for the recipe is I brown the butter before making the batter. It takes the flavor to a whole new level! Thank you Angie for this recipe which has become a beloved family favorite!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This is always my go-to recipe it's easy and fun I've used it multiple times and it hasn't failed me. A fantastic recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Best brownie recipe! I added a splash of vegetable oil and also added chocolate chips. Used brown sugar instead of white. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "patina"
+},
+"reviewBody": "Love this recipe. I like to add a bit of cayenne pepper and cinnamon to the brownie batter. I use Khalua instead of vanilla and honey in the frosting. If you frost while still warm it soaks into the brownie for perfect fudgey goodness."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Blandreth1"
+},
+"reviewBody": "Super easy and fast ,but most of all delish"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Deb"
+},
+"reviewBody": "It is the Best Brownie recipe! Everyone loves them! I do not melt the butter. I get it very soft and just add a little extra vanilla. The icing is so tasty with the honey, and I add extra with a little bit of water. When I made them with melting the butter they were not great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jason Pawczuk"
+},
+"reviewBody": "this recipe is great for brownies I used it a few times but I never made the frosting because I just don't like frosting on my brownies honestly IMO any bad review of this recipe is maker error not the recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I made these brownies for a tea party, and something went wrong. I managed to overbake the outside, but underbake the inside. Worst of all, the eggs got fried, and somehow the sugar crystallized or something because it was hard and crunchy. Not a positive experience"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I loved the simplicity of this recipe. I made a double batch and also drizzled the homemade caramel sauce over the top before baking! You can thank me later! Yumola!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Melt butter for frosting."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Blood-Moon"
+},
+"reviewBody": "It was amazing! I couldn’t make the frosting, but instead I used the caramel that you suggested! It was fantastic. I would like to know how to take it out of the pan properly, because we had the most trouble with that… Thank you for the amazing recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "It’s too dry and powdery"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alex Mage"
+},
+"reviewBody": "I absolutely love this recipe. It's exactly what I need when I crave sugar as its quite speedy to make. It's a great base brownie as well. I like to add 1/4 cups chocolate chips and 1 tp intant coffee."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Pretty terrible, better before the frosting, but still not good. What a waste of good butter."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Easy, chewy and great with pecans. No frosting needed!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Jmmccrory"
+},
+"reviewBody": "These were completely raw! I baked these for 30 minutes. You need to melt the butter in order to make the frosting. Couldn’t eat them."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Super Easy! Super yummy! I added pecans👍"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This is the brownie recipe I always use! They always turn out great. Just make sure to do proper measurements, as they can get dry easily."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "EVERYONE in the household agreed these were the best brownies We have ever eaten. I could’ve eaten the whole pan to myself. Will be making a lot more!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "rlly easy and great taste. love it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa"
+},
+"reviewBody": "Easy, easy, easy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "DrFlo"
+},
+"reviewBody": "I don’t have white sugar, only turbinado, and it came out a little crazy but still delicious. I also didn’t wait long enough for it to cool :D."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Worked great!!! It was so delicious and rich. The only thing I had to modify was the vanilla extract, I didn’t have any so I used orange for the batter and almond for the icing. I also added milk to the icing because it was pretty dry before."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Best brownies I've ever had no joke"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I think this is an awesome recipe. Nice job 👍"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bakerma"
+},
+"reviewBody": "Family Favourite! Hands down the best &amp; asked for regularly."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "marilynstooks"
+},
+"reviewBody": "I doubled the recipe and the brownies are delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I made this recipe for my family just as a night snack they did not rise as much as you would think and the frosting was terrible .."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Love Love Love them!! Did exactly as instructed and came out perfect. I added chopped walnuts and they reminded me of the Publix frosted brownies!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cajungal328"
+},
+"reviewBody": "I made these brownies, with a few additions. I used margarine instead of butter. And I added 2T instant coffee and ⅓c. Vegetable oil to the mix. Baked 350⁰ for 25 minutes. They were delicious. Very moist and fudgy with more depth of flavor from the coffee..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "flacatpawsaolcom"
+},
+"reviewBody": "Very easy to make, added pecans and frosted with toasted coconut cream cheese frosting"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jjjquan"
+},
+"reviewBody": "Super moist, super rich!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This was quick and very easy to make, I added pecans and no icing. Amazingly good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Litterally the best brownies. They were chewy and perfect brownies. My whole family loves them so now im making a double batch lol."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I love them the only thing is I like the touch of milk for the frosting"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Heather Kline"
+},
+"reviewBody": "Easy recipe. The kids had fun helping."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "These brownies are the best I've made them a bunch of times now the only thing that I do differently is add a splash of milk to the icing I found it the thick otherwise great brownies ☺️"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This is SO GOOD make this if you can for sure!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathryn Roberts"
+},
+"reviewBody": "This is the recipe we used to make, although back when I was in school we usually subbed veg oil for the butter, I use butter or coconut oil now. We used to triple the recipe but use less cocoa powder, and never frosted them. If you want a chewier brownie then cook the batter in a larger pan. Another thing we used to do is add a handful of oats to make the brownie chewier."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pam Richmond"
+},
+"reviewBody": "Really are the best and also unique. Frosting is genious"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/10549/best-brownies/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/838/desserts/cookies/brownies/",
+"name": "Brownie Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1562/desserts/cookies/brownies/chocolate-brownies/",
+"name": "Chocolate Brownie Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/10549/best-brownies/",
+"name": "Best Brownies"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

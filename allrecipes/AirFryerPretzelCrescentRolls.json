@@ -1,0 +1,124 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Air Fryer Pretzel Crescent Rolls"
+,"datePublished": "2023-02-11T10:00:00.000-05:00"
+,"dateModified": "2023-02-11T10:00:00.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "thedailygourmet"
+,"url": "https://www.allrecipes.com/cook/thedailygourmet"
+}
+]
+,"description": "A quick and easy recipe for crispy pretzel crescent rolls cooked in the air fryer."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/KFk3JQq8dLFPn7isbhut2d9s9zk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8537842-Air-Fryer-Pretzel-Crescent-Rolls-TheDailyGourmet-192beb75d1f7447da3f96874f33e970f.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Air Fryer Pretzel Crescent Rolls"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "110 kcal"
+,"carbohydrateContent": "11 g"
+,"proteinContent": "2 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "2090 mg"
+,"fatContent": "6 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"1 quart water",
+"0.25 cup baking soda",
+"1 (8 ounce) package refrigerated crescent roll dough",
+"pretzel salt",
+"cooking spray" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place a large stock pot over high heat. Add water and bring to a boil over high heat."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile shape crescents into desired shape and preheat air fryer to 350°"
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat an air fryer to 350 degrees F (175 degrees C). Line the air fryer basket with a fitted piece of parchment. Generously spray with cooking spray."
+} ,{
+"@type": "HowToStep"
+,"text": "Once water is boiling, carefully add baking soda (it WILL bubble up!). Lower crescent rolls into the brine with a spider strainer; boil for 5 seconds. Transfer onto the parchment paper in the air fryer basket. Sprinkle with salt."
+} ,{
+"@type": "HowToStep"
+,"text": "Air fry until crescent rolls are cooked through and golden, about 12 minutes. Serve immediately."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT5M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8537838/air-fryer-pretzel-crescent-rolls/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/339/bread/yeast-bread/",
+"name": "Yeast Bread Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16220/bread/yeast-bread/pretzels/",
+"name": "Pretzel Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8537838/air-fryer-pretzel-crescent-rolls/",
+"name": "Air Fryer Pretzel Crescent Rolls"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

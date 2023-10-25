@@ -1,0 +1,132 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Overnight Matzo Bake"
+,"datePublished": "2022-09-14T16:01:01.000-04:00"
+,"dateModified": "2022-09-14T16:01:01.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Liv Dansky"
+,"url": "https://www.allrecipes.com/cook/27184756"
+}
+]
+,"description": "This Passover-friendly matzo bake with raisins, apricots, apples, and sour cream, is chilled overnight for easy prep."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/xuWtWGU7ENgmzaV1UKLNvhSLTrU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Overniht-matzo-bake-mfs_001_4x3-dfa468e579d64af98d4bf89779641dae.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Overnight Matzo Bake"
+,"cookTime": "PT40M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "311 kcal"
+,"carbohydrateContent": "48 g"
+,"cholesterolContent": "195 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "10 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "273 mg"
+,"fatContent": "9 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"cooking spray",
+"6 matzo sheets",
+"8 large eggs",
+"1 cup whole milk",
+"0.75 cup white sugar",
+"0.5 cup sour cream",
+"2 teaspoons vanilla extract",
+"1 teaspoon ground cinnamon",
+"0.75 teaspoon kosher salt",
+"0.25 teaspoon ground nutmeg",
+"0.25 cup chopped golden raisins",
+"0.25 cup chopped dried apricots",
+"0.25 cup chopped dried apples" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Lightly coat a 2-quart baking dish with cooking spray. Set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Break matzo sheets into bite-sized pieces. Whisk together eggs, milk, sugar, sour cream, vanilla, cinnamon, salt, and nutmeg in a large bowl. Stir in raisins, apricots, apples, and matzo pieces. Transfer to the prepared baking dish, smoothing into an even layer. Cover with aluminum foil and transfer to a refrigerator to chill for 8 hours, or overnight."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C). Remove baking dish from the refrigerator and uncover."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until puffed and set, 40 to 45 minutes. Remove from the oven and let sit at room temperature for at least 15 minutes."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT550M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8465380/overnight-matzo-bake/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/236/us-recipes/",
+"name": "U.S. Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/15965/us-recipes/jewish/",
+"name": "Jewish"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8465380/overnight-matzo-bake/",
+"name": "Overnight Matzo Bake"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

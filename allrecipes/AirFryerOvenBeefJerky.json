@@ -1,0 +1,120 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Air Fryer Oven Beef Jerky"
+,"datePublished": "2020-03-30T23:38:12.000-04:00"
+,"dateModified": "2020-03-30T23:38:12.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Soup Loving Nicole"
+,"url": "https://www.allrecipes.com/cook/souplovingnicole"
+}
+]
+,"description": "All it takes is a few ingredients and some patience to whip up a big batch of homemade beef jerky in an air fryer."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/934A6X3jcOID1mI-EeDw5pzXfac=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7827111-fa019a8d82ce4ac9a0a292e8657c2e93.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Air Fryer Oven Beef Jerky"
+,"cookTime": "PT180M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "133 kcal"
+,"carbohydrateContent": "1 g"
+,"cholesterolContent": "36 mg"
+,"proteinContent": "13 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "1397 mg"
+,"sugarContent": "0 g"
+,"fatContent": "8 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"4 pounds London broil, thinly sliced and fat removed",
+"2 tablespoons jerky seasoning",
+"2 tablespoons cure",
+"2 teaspoons cure" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place beef, jerky seasoning, and 2 tablespoons plus 2 teaspoons cure in a large bowl. Massage beef with your hands until evenly combined. Cover and refrigerate, 8 hours to overnight."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the air fryer to 160 degrees F (70 degrees C). Place beef slices on the rack, making sure none are overlapping."
+} ,{
+"@type": "HowToStep"
+,"text": "Air fry for 3 hours. Open the air fryer and let beef sit for 1 hour for final drying and cooling. Store in an airtight container."
+} ]
+,"recipeYield": ["16"]
+,"totalTime": "PT730M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/279345/air-fryer-oven-beef-jerky/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/107/appetizers-and-snacks/meat-and-poultry/",
+"name": "Meat and Poultry"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17041/appetizers-and-snacks/meat-and-poultry/jerky/",
+"name": "Jerky Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/279345/air-fryer-oven-beef-jerky/",
+"name": "Air Fryer Oven Beef Jerky"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

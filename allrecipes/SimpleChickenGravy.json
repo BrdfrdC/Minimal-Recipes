@@ -1,0 +1,1413 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Simple Chicken Gravy"
+,"datePublished": "1999-06-18T20:40:52.000-04:00"
+,"dateModified": "2022-07-14T16:30:44.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "John"
+,"url": "https://www.allrecipes.com/cook/24324530"
+}
+]
+,"description": "Make chicken gravy from drippings with this simple recipe using flour and water combined with pan drippings from roasted chicken for a basic gravy."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/K8WG9LXEfONj78jlflKCV1jXglM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/380141-21d21f09ae2042228cada8c6e931fba1.jpg",
+"height": 250,
+"width": 250
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Simple Chicken Gravy"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.2",
+"ratingCount": "141"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "65 kcal"
+,"carbohydrateContent": "8 g"
+,"cholesterolContent": "1 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "8 g"
+,"saturatedFatContent": "0 g"
+,"sodiumContent": "111 mg"
+,"fatContent": "0 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"0.5 cup all-purpose flour",
+"1 cup water",
+"0.5 cup drippings from a roast chicken",
+"salt and ground black pepper to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place flour in a medium bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine water and roast chicken drippings in a liquid measuring cup. Pour 2 to 3 tablespoons into the flour and whisk until combined and thick, but not pasty."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer both liquid and flour mixtures to a roasting pan set over a burner on the stove. Whisk to combine and turn heat to medium. Cook, stirring constantly, until gravy is thickened and bubbly. Season with salt and pepper."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT15M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "\"Thick but not pasty\"-not sure if that's thicker than paste or thinner. I used a generous amt. of liquid anyway but still totally lumpy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I did find 1/2 a cup a lot of flour, I might reduce it next time to 1/3 or 1/4. I use herbs de Provence on my roast chicken, under the skin, over the skin, over the taters just everywhere, then generous with the salt on the bird the taters. So there's loads of seasoning in my drippings. I liked this gravy. It is the right way to make a sauce. It is quite easy to adjust to your taste, just mix flour and water out of the pot then add it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "The process was clear, but like the other reviewers, I added much more turkey stock than the recipe called for. When I did that to taste, it came out really well. Next time, I'm reducing the amount of flour too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "gozerthecarpathian"
+},
+"reviewBody": "Simple and delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Dana Cuff"
+},
+"reviewBody": "Very Bland.\nI consider the gravy to be an acquired taste.\nNo matter what spices I used I could not produce a good flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SheBeMe"
+},
+"reviewBody": "Delicious! First time I've made gravy without lumps, too. All other reviews want me dribbling it in while the liquid is bubbling along. Stained it every time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dina Voutour"
+},
+"reviewBody": "Wow this is awesome gravy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jon Goulding"
+},
+"reviewBody": "Good stuff! I brought home a rotisserie chicken from Sam’s along with premade mashed potatoes and Boom! in less than 30 minutes I had dinner on the table.? Note - i did 1.5c water and .5c flour in sauce pan heated and then pour broth from chicken in measuring cup with additional water to get to another 1.5c then added to sauce pan. Added salt and pepper and it was great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kashmira"
+},
+"reviewBody": "Used chicken broth instead of water . Added sage, thyme and garlic powder salt and pepper. Very yummy !"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "mbolan77"
+},
+"reviewBody": "Like everyone else says, it’s good stuff. Like many others mention, agree 1/4 cup flour is more appropriate here. Thx for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Cassie Lingley"
+},
+"reviewBody": "Way way too much flour. It. Literally looked like a thick paste. I added probably another cup of chicken stock at least."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Amanda Sheren"
+},
+"reviewBody": "I have NO CLUE why this recipe has such a high rating. I made the mistake of just making the recipe without reading any of the reviews (and also not trusting my own knowledge that 1/2 cup of flour is WAAAAAY too much for just 1 1/2 cups of liquid). Here is a photo of how incredibly THICK the \"gravy\". It was ridiculous. I salvaged it by taking half a cup of this (almost playdough thickness) mixture out and then adding about a half quart of chicken stock to my pan in order to thin it out."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "apronqueen"
+},
+"reviewBody": "This gravy was very simple to make, tasted great, and was thick enough for once. I strained the juices first."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Drakon"
+},
+"reviewBody": "almost too simply. I made extra to save for future meals."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Julianne McDowell"
+},
+"reviewBody": "Turned out great! I made a big batch from leftover chicken drippings and will freeze in baggies to heat up with future dinners."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stacy Maust"
+},
+"reviewBody": "I made it was absolutely delicious was simple and easy to make"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anna Amador"
+},
+"reviewBody": "First off I wish to say I did it wrong lol but it still turned out wonderful with excellent flavor. I put 1 1/2 cups chicken droppings, mixed 1 cup flour with water tell mixed thin. Then mixed water/flour mixture with the droppings. And cooked over medium heat tell thick. Added salt and pepper to taste. It's a recipe I'll be keeping, thank you."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Candigirl1968"
+},
+"reviewBody": "My score is lower because I basically had to rewrite the recipe. This needs half as much flour if not less. I also needed twice as much liquid. Chicken broth certainly is better, but water will do. If you use water, you may have to amplify the seasoning,"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Elyse Brandt"
+},
+"reviewBody": "perfect"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "HouseofChains"
+},
+"reviewBody": "Followed the directions exactly and I found you had to add more water or else it was just too thick."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Theresa Grantland"
+},
+"reviewBody": "Not bad. Easy and fairly good. But not outstanding or anything."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Layton V."
+},
+"reviewBody": "I made this gravy for a quick chicken dinner &amp; it turned out PERFECT! I took half a cup of flour, poured the water in, whisked it together, THEN added it to the pan drippings. I will be honest and say I did NOT use the whole half cup of water/flour mixture. I just eye balled it to see how much I needed. For the people saying it tastes like flour, the gravy is made from YOUR drippings which came from YOUR chicken! &amp; you can always season the gravy to taste as the recipe stated ?? This one is definitely a keeper, thank you for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "thea"
+},
+"reviewBody": "Followed the recipe and it was great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "tadpole"
+},
+"reviewBody": "I was in a hurry so I followed the instructions exactly. WOW! Way too much flour.\nI had to add another cup of water to thin it to gravy consistency.\nI wish I had had time to read reviews like I usually do. I agree with other reviewers\n that you need to cut the flour. \nOtherwise, it was a very easy recipe and I was happy with the final results."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "I'm Wasted"
+},
+"reviewBody": "A cook always makes changes based on one's palate. The method is nearly fool proof and I came out with a perfect gravy from scratch, adding flour a little at a time until it was a consistency I liked. Thanks for the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "aimeelynn"
+},
+"reviewBody": "Eyeballed it with pork drippings, yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "danelle"
+},
+"reviewBody": "Wow. I've always been intimidated when it comes to making gravy.... probably from having my grandma attempt to teach me and her making it sound like rocket science! This was so simple and it turned out delicious! I saved the drippings from the roasted chicken I made, put in fridge until the next evening. I wasn't sure how this would work but I just microwaved it to melt down the fat then but it on the stove and followed the recipe. I cut the flour to 1/4 C as others suggested but then cut the water down to 1/2 C as well. Ended up adding 1 tsp cornstarch (mixed in a little water first) to thicken it up. You definitely have to keep whisking this as it does separate bc of all the fat from the drippings. I did add a little poultry seasoning. Outstanding."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Robin Habeger"
+},
+"reviewBody": "Delish! We like lots of gravy, so I doubled the liquid to 3 cups total, but still used 1/2 cup of flour. I used the pan drippings and chicken broth. I also added some butter and a bit of chicken soup base. Best gravy, ever!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Leanna Zimmerman"
+},
+"reviewBody": "A good deal too much flour. A couple of tablespoons are sufficient or cornstarch even better. I also add a little salt, pepper, and poultry seasoning and use milk instead of water."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "sherie"
+},
+"reviewBody": "Wonderful"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Missy794"
+},
+"reviewBody": "Added chicken stock and a little cornstarch. The chicken was ovn fried. The drippings included olive oil and the other seasonings which made this gravy awesome. I really reccomend this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Just perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Karen"
+},
+"reviewBody": "I tried this thinking it would be a quick and easy way to make gravy; however, was somewhat disappointed. The trick to a really good gravy is to make a roux of equal parts butter and flour, cooking it while stirring constantly until it develops a carmel colour and has a nutty smell. When ready to make the gravy, whisk the four/butter mixture into broth/drippings. This will enhance the flavour (without the raw flour taste) and will thicken the gravy. Very rich!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "atcg1rl"
+},
+"reviewBody": "It was great. I transferred the drippings to another pot as opposed to using the baking pan. For the water, I used the water the giblets were boiling in for extra added flavor. I also agree with using less flour, approx 1/4 cup but otherwise delish!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Marielise"
+},
+"reviewBody": "A bit bland though I had cooked my chicken with butter, salt, pepper and a bit of dash."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bigmac0402"
+},
+"reviewBody": "It turned out great! I used two cups of chicken dripping instead of 1/1/2 cups. It was mouth watering. Yum!!! And yes the spices mean all the difference. Enjoy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tammy Jenkins"
+},
+"reviewBody": "I used a can of chicken broth instead of the water. I also used 1/3 cup all purpose gluten free flour. It was very good and my family loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kathrinenicole"
+},
+"reviewBody": "This was the easiest recipie for gravy I have ever seen, and it is absolutely delicious! I can't wait to try it with all my favorite dinners. I left some larger chicken pieces in the dripping to give the gravy a little bit extra. And it turned out perfect :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Marcie"
+},
+"reviewBody": "If you decide to use this recipe, use only 2 tablespoons of flour. This recipe calls for way too much."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Emilio"
+},
+"reviewBody": "I cut the flour to 1/4 cup and \"toasted\" it in the drippings (like when making a roux) before slowly stirring in chicken stock. I used a little more liquid than the recipe called for and salted/peppered to taste."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Debbie Maltais"
+},
+"reviewBody": "Very good! Thank you so much for submitting this very simple recipe. I loved it! (made it for \"Juicy Roasted Chicken\", which I also loved-and this gravy DID NOT DISAPPOINT!)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "luv2cook"
+},
+"reviewBody": "I made this recipe with the drippings from my roasted, organic chicken. I did use a slightly rounded 1/4 cup of flour and ended up adding a bit more water (with a bit of chicken broth granules) until it was the consistency I like. It was AMAZING!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "AnnieO60"
+},
+"reviewBody": "I made chicken in my crock pot for hot chicken sandwiches tonight. I cooked the chicken in broth, with some garlic, and onion powder. Also added some Bell's Seasoning for turkey. Poure the drippings from the crock pot into a small pot, and cooked it up on the stove. Used only about a 1/4 cup of flour. It turned out very good! Thanks John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "steelsunflower"
+},
+"reviewBody": "you HAVE to \"cook\" the flour or you will get the \"floury\" taste people are talking about. 1/4 to 1/3 cup of flour is all you need (unless you have a ton of drippings) but you need to whisk the flour over medium heat with the drippings for about 5 minutes...then whisk in your water or chicken stock (I use stock). I season it with crushed rosemary, savory and sage as well as salt and pepper as needed."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Roger"
+},
+"reviewBody": "This turned out great by accident. The instructions say to whisk flour with water (1 cup I assumed) until it becomes thick. Mine did not become thick at all, so I added more and more flour until it finally became thick but when i tasted it, it was awful. I started over and when it still wouldn't get thick at all with the 1/2 cup of flower, I went ahead and dumped it into the very hot chicken broth from the chicken, it thickened up perfectly and tasted great. I don't know if the instructions are unclear, but if you try this don't be surprised if the water and flour do not get thick at all until you mix it with the hot chicken broth."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "berrycreekgal"
+},
+"reviewBody": "Great! I didn't use as much flour and I had simmered the neck while chicken roasted and used that stock instead of water. Easy and tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Wendy Buck"
+},
+"reviewBody": "1 word, YUM! I'm making gravy from scratch for this thanksgiving (2 days away) and wanted to do a trial run as I had a couple bad results the few times I've made. Not only was it super easy but was very tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Amy Curley"
+},
+"reviewBody": "I'm sure it was something I did but mine tasted like pure flour. Blah. Consistency was great but the taste was unappealing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary"
+},
+"reviewBody": "Gravy was awesome and so easy! I took the advise of previous posters and only used 1/3 cup flour. I used the drippings from a roasted chicken that was seasoned with garlic, onion, celery, and butter. I added additional salt and pepper during the whisking process."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "jeffhast"
+},
+"reviewBody": "Way too much flour for the amount of drippings. The color and consistency was good, but flavor lacked the chicken flavor I was looking for. I added some butter to make it edible."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CookingInSeattle"
+},
+"reviewBody": "Turned out great, needed salt and thyme. Remember to wisk the flour with the cold water first. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Amanda Parus"
+},
+"reviewBody": "It most certainly has its issues, especially with reheat the next day it is a congealed mass but it has helped as a guide point to my ratios for gravy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Irene Brennan"
+},
+"reviewBody": "excellent"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ssanders"
+},
+"reviewBody": "I love this Chicken Gravy recipe... never knew how to make my own gravy but now I do!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "chrystal12321"
+},
+"reviewBody": "very good.. i did make a couple changes though.. instead of water i used poweder milk... and added some chicken seasoning... AWSOME RECIPE"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Erin"
+},
+"reviewBody": "This gravy was Great! I used chicken broth instead of water did not have to add anything else to it, the whole family loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bryronic"
+},
+"reviewBody": "Finally...FINALLY!!!!...a gravy that looks and tastes like the gravy my mom makes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cindyb"
+},
+"reviewBody": "easy peasy. used 1/4 c flour though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "STEPHENS_JL"
+},
+"reviewBody": "Yummy!!! Easy to make - I wish it would have made more."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "HeavenleeKid"
+},
+"reviewBody": "Very good, a bit too much flour, I didn't end up using it all because it was thick enough. Overall very tasty, and will be used many times in the future in our home! We all loved it, kids included!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Breckan Feltz"
+},
+"reviewBody": "Super easy, followed the recipe as stated. Now I don't need to purchase those powdery gravy packets anymore. Thanks for sharing this recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "RMSR"
+},
+"reviewBody": "This is great. Definitely use this recipe as a guideline- I added water and cornstarch (instead of flour) as necessary. My drippings were from \"Roast Sticky Chicken-Rotisserie Style\" (from AR). Depending on how you seasoned your chicken, you may need to add additional seasoning to the gravy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kate"
+},
+"reviewBody": "I do something similar but with potato flour (available at health food stores but also more frequently in the healthy section of regular markets). It makes a fool proof creamy gravy every time!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BEAKIEBEAN"
+},
+"reviewBody": "Awesome-I've never made chicken gravy before but just did a chicken and had all these beautiful drippings I couldn't bear to throw away. This recipe was quick, easy, and yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "meg86"
+},
+"reviewBody": "every time I make this, my husband loves it. This is awesome, especially when I cook my chicken with lots of spices- salt, pepper, cayenne, oregano, garlic powder, and cumin."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jenpete"
+},
+"reviewBody": "I had enough drippings to skip the water; I sifted the flour in to prevent clumps. Thank you; I didn't know making gravy was this simple. I trust it depends heavily on the quality of the drippings. I used another recipe for the chicken on this site (\"Juicy Roasted Chicken\") and it was OUTSTANDING."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "tenthbowl"
+},
+"reviewBody": "Way too much flour. As is the recipe was a thick gloppy mess. I had to add at least 1 cup more of water to thin it and by then the gravy was too diluted and lost alot of flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MissM."
+},
+"reviewBody": "Good recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "KitchenMama88"
+},
+"reviewBody": "With the 1/2 cup of flour, I had to use a little over 2 cups of chicken drippings to keep it from being too thick. And it still had too much of a floury taste even after that. It is an easy way to make a gravy, but I would recommend using corn starch instead of flour, to avoid that taste. All in all, I think I will keep searching for a different gravy recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "katherineann"
+},
+"reviewBody": "Wow! This is the first time I've ever managed to make a decent gravy from scratch. And it was so easy! Thank you for sharing this recipe!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allison Buckley"
+},
+"reviewBody": "Used half the flour and add 1/2 tsp Kitchen Bouquet OR Gravy Master to make this gravy perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "CookE86"
+},
+"reviewBody": "I gave this four stars because the flour measurement is very off. I always read reviews so I knew to change. I used about 1/4 cup and 1 tablespoon and it was still a little thicker than I like my gravy. Great flavor though and if you feel the gravy was too bland then it's because you didn't season your roast well. The gravy comes directly from your drippings!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MAYA53"
+},
+"reviewBody": "I cook by instinct too, am a verrry good cook but somehow have always been afraid of gravy...as tho there was some great mystery to it..this was soooo easy..sooo great...thanks...I will NEVER buy canned or jarred gravy again! BTW..went by eye...and instinct!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "julietee"
+},
+"reviewBody": "My boyfriend and I did not have luck with this. We didn't add very much flour in the beginning (about half) and it looked thick. It tasted greasy and flavorless. After adding even more flour and seasoning, it lightened in color, had an ok taste but still had the greasy aftertase."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "AMYJEANB"
+},
+"reviewBody": "Perfect! I had a larger chicken (6 pounds) so I used slightly more water, but not double and enough flour to thicken it (I ran out of flour and substituted corn starch for the rest) Seasoned with salt, pepper, and a pinch of red pepper and it came out perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Tasted exactly like my mom's thanksgiving gravy. My husband said it was the best he'd ever tasted!! I had about 1/2 cup of pan drippings and added an additional 1 cup of chicken stock. Used a little less than 1/2 cup of flour and about 1/2 cup of water to thicken. Tasted amazing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sheley"
+},
+"reviewBody": "Simple, basic gravy recipe. I followed everyone's advice and only added 1/3 cup of flour. It worked wonderful! Would use again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brooklyn Cook"
+},
+"reviewBody": "Excellent basic recipe. . . . .I followed the recommendations of other reviewers and used chicken broth instead of water, it turned out great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mickeyshel"
+},
+"reviewBody": "My husband loved it, tasted just \"like Mom's\""
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "fondukes"
+},
+"reviewBody": "I like the ease of this, but it needs a little work. I'm not a gravy expert, though... It seemed like too much flour, too much water, not enough seasoning, and I didn't understand the directions. I put the chicken drippings in a pot, mixed the water and flour in a separate container and then slowly added the flour mixture to the drippings over medium heat. I added garlic and onion powders, paprika, salt, pepper, hot sauce and a dash of soy sauce and it was still bland... so I added half a cube of beef bouillion and that made it better. I'll just have to play around with it some more until I get it right!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TTV78"
+},
+"reviewBody": "Perfectly done. This is the sure, simple, and quick way to make gravy that turns out delicious every time. The Hubster loves gravy and this is his favorite. It doesn't matter what seasonings you use on your chicken, as long as it's flavors that you love &amp; it is seasoned well. If you're just roasting a bland chicken, expect a bland gravy. Otherwise, you'll always get a perfect gravy by this method. I will usually boil the giblets separately while the chicken is roasting to make a stock to use for this gravy in place of the water. Use your instincts and add stock/water/flour as you need to get that perfect consistency for your gravy. I add a little sea salt &amp; ground white pepper and it's done. So easy! Thanks for the staple recipe! :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "missbexx"
+},
+"reviewBody": "I used this as a baseline for the gravy... it was twice as much flour as we should have used, i ended up having to add 1cup more water and some chicken oxo. But with our lemon pepper rotisserie chicken drippings it was a huge hit, and we'll use it on our poutine, thanks so much!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "freedumryde"
+},
+"reviewBody": "easy and tastes great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Cindy J"
+},
+"reviewBody": "The reason I make gravy is to pour it over mashed potatoes. So after my potatoes were boiled, I used leftover potato water for more flavor. I also add a tsp. of bouillon and a dash of poultry seasoning."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ROOSTERRED"
+},
+"reviewBody": "Simple could not explain any better how easy it is to make this gravy. Tweaked the recipe a little, added 2 chicken boullion cubes, a dash of poultry seasoning and salt and pepper. Did not measure the flour or water did it by eye and taste like my mom did. Thanks for a very easy delicious gravy. Will pass on to my daughter-in-law, my son will love it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jwalk"
+},
+"reviewBody": "This was delicious...very moist. I did make a few changes since I didn't have all of the ingredients. I put cut up celery inside the chicken along with tastefully simple's onion onion and garlic garlic as well as on top. I pierced the chicken all over before adding the bacon to the top and I also used rosemary instead of thyme. I would definately make this again and again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lindsey"
+},
+"reviewBody": "This is really easy and really good! I realized I didnt have any flour so I used cornstarch. I also used chicken broth for more flavor!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "MooseCookies"
+},
+"reviewBody": "Loved it. I used water at first, but it was too bland. I added the broth from Campbell's chicken noodle soup and a few pinches of Chicken Bouillon to taste. Turned out great! I'll definitely use it again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "JBOBIER"
+},
+"reviewBody": "Pretty plain. I spiced it up with some poultry seasoning."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Zoe"
+},
+"reviewBody": "I followed the recipe exactly after roasting a chicken today and it did not turn out well at all. It tasted of flour and not much else, and it felt like flour in my mouth. Next time, I will use 2 tbsp instead of 1/2 cup, and corn starch instead of flour. I will also use broth instead of water, and maybe a little cream if I feel so inclined."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jillian Marie"
+},
+"reviewBody": "This recipe worked perfect for me. I made gravy on thanksgiving with a random recipe I found online, but it was way too thick after it refrigerated, which means you added too much flour. I eyeballed a half cup of flour and just turned the kitchen faucet on low, continued to drizzle water in small increments, stirring in between, until it got to the not-supposed-to-be pasty texture, and then added just a smidgen more water at a time until it was still thick but no longer pasty. It was the perfect mixture. Also, for the water-to-chicken drippings ratio... I find it works best if you start out with about 2/3 cup to 1 cup of drippings for the amount of flour/water you're adding. AND, make sure you get LOADS of the seasoned bits from the chicken in with your gravy...I used sage, nutmeg and almonds to season my chicken, and stuffed it with this thick creamy mushroom mix I made (package mushrooms, can cream of mushroom, carrots, chili powder, 3 garlic cloves, salt and pepper) so I got remnants of the stuffing in with the gravy mix and it was sooooooooooooooooooo gooood!!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SLKLINGE"
+},
+"reviewBody": "This was really good. I usually botch homemade gravy since I always make it with cornstarch, so was looking for something new. From the drippings of two small roast chickens I added 1 cup of water. Note to reviewers - the roast chickens often go on sale at BJ'S for around 2 bucks a pop. I hadn't measured the drippings. I added about 1/4 cup of flour while whisking but it seemed really too thick. Had to add about 1/2 cup more of water to make it work. Had some red while, so added a coupla ounces of that too, lots of salt and pepper to taste. It made a nice rich gravy. Thanks for the basic instruction which is what many of us need! I am done with jarred gravy now that I can do this."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "blue-eyes"
+},
+"reviewBody": "This gravy is really good. I made exactly as written and didn't find the flour to be too much. My roasted chicken was seasoned very well, so I only need to add a little more salt and pepper after the gravy was done. If I have any leftover, I keep the leftover gravy to make a second meal out of it and the leftover chicken."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cheri"
+},
+"reviewBody": "Super easy, you definitely don't need all the flour about 1/4 cup will do and I drizzled it in till I was content with the thickness. The better seasoned your chicken is the better your gravy will be. I have followed a ton of gravy recipes and this one is a no fail recipe to follow. Bon Apetite !"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ddlb66"
+},
+"reviewBody": "Looks like great minds DO think alike! This is exactly how I make my gravy! The best part is that it works with any baked/roasted meat/poultry. As long as you can catch the drippings, you can make an awesome gravy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kimberlycancook"
+},
+"reviewBody": "Ok for people that are commenting that the gravy dont have any taste your chicken must not! This is a great recipe. This is what I do! melt a stick of butter. Brush it all over the chicken. Sprinkle chicken with garlic powder, italian seasoning and lawrys seasoned salt. ONLY A LITTLE OF THE SEASONING SALT! now that is how your gravy will have flavor! ENJOY!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Andrea"
+},
+"reviewBody": "Too much flour, try 1/4 c. But still delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kristin"
+},
+"reviewBody": "Great, easy recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Rae-in-CA"
+},
+"reviewBody": "I really really liked my gravy, for the first time! Because the seasoning from my chicken (just salt and poultry seasoning) had already flavored the drippings, I didn't have to add much -- just a little more salt and some pepper. Making the gravy in the roasting pan worked great, and if I can make gravy that's good absolutely anyone can. Thanks!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8804/simple-chicken-gravy/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17031/side-dish/sauces-and-condiments/",
+"name": "Sauces and Condiments"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/916/side-dish/sauces-and-condiments/gravy/",
+"name": "Gravy Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8804/simple-chicken-gravy/",
+"name": "Simple Chicken Gravy"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

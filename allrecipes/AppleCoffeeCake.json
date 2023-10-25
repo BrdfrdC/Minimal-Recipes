@@ -1,0 +1,1430 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Apple Coffee Cake"
+,"datePublished": "2020-03-05T00:10:15.000-05:00"
+,"dateModified": "2022-11-06T08:47:26.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Nancy Gibson"
+}
+]
+,"description": "This cinnamon-flavored apple coffee cake made with chunks of Granny Smith apple and topped with a sweet, buttery topping is perfect for brunch or dessert."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/XQ0mGhWa-PVLzyaGrngZ6pnuIEQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8345933-34e32d6cc66e411895cfc4e0a0cfc6f9.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Apple Coffee Cake"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "515"
+}
+,"cookTime": "PT35M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "275 kcal"
+,"carbohydrateContent": "41 g"
+,"cholesterolContent": "47 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "4 g"
+,"saturatedFatContent": "7 g"
+,"sodiumContent": "236 mg"
+,"sugarContent": "24 g"
+,"fatContent": "11 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1 cup all-purpose flour",
+"0.75 teaspoon ground cinnamon",
+"0.5 teaspoon baking soda",
+"0.25 teaspoon salt",
+"0.75 cup brown sugar",
+"0.25 cup unsalted butter, softened",
+"1 large egg",
+"0.25 cup sour cream",
+"0.25 cup vanilla yogurt",
+"1 teaspoon vanilla extract",
+"2 cups diced Granny Smith apple",
+"0.25 cup brown sugar",
+"0.25 cup all-purpose flour",
+"2 tablespoons unsalted butter, cut into small pieces",
+"0.5 teaspoon ground cinnamon" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C). Grease and generously flour an 8-inch square baking dish."
+} ,{
+"@type": "HowToStep"
+,"text": "Make the cake: Stir flour, cinnamon, baking soda, and salt together in a bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Beat brown sugar and butter with an electric mixer in a large bowl until light, fluffy, and noticeably lighter in color. Mix in egg, then mix in sour cream, yogurt, and vanilla until well incorporated. Gradually mix in flour mixture, then fold in apples. Pour batter into the prepared baking dish."
+} ,{
+"@type": "HowToStep"
+,"text": "Make the topping: Mix brown sugar, flour, butter, and cinnamon together in a bowl with a fork until crumbly. Sprinkle over batter."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until a toothpick inserted into the center comes out clean, 35 to 40 minutes. Remove from the oven and cool on a wire rack."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT55M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BONNIEBROWN"
+},
+"reviewBody": "Made this exactly as written. It was excellent."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Suzie"
+},
+"reviewBody": "Love this cake. It is very moist. Instead of sour cream I used all plain Greek yogurt which added a tanginess to the cake. The apples were cut early in the day, and I squeezed a lemon over them to prevent them from turning brown. And, I baked it about 50 minutes which helped keep the topping crunchy. Will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ruth Teeninga"
+},
+"reviewBody": "I’ve made this three or four times now. The only change I made is that I use plain Greek yoghurt and macintosh apples."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Beth"
+},
+"reviewBody": "Great coffee cake with nice flavor. I used double the sour cream and added a little extra vanilla because I didn't have yogurt but otherwise followed recipe. Used a combination of apples (Macintosh, Cortland mostly). A great way to use up extra apples!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MuscleMan"
+},
+"reviewBody": "Cake turned out very well and is delicious. I used double sour cream because I didn't have vanilla yogurt. Minor changes I made: used only 1/2 cup of brown sugar for the cake batter, added 1 cup of chopped walnuts, buttered and floured the baking dish instead of using cooking spray and baked it for 45 minutes. Like the balance between cinnamon and apple flavor. If you like a very strong cinnamon flavor, you could add an additional teaspoon to the batter. Recipe could easily be doubled for a 9\"x 13\" pan. Make sure butter is very soft/room temperature for it to blend easily with the other ingredients. If you are looking for an apple cake with a substantial layer of plain cake topped with apples, this is not it. This cake is the type where the apples are diced and mixed with the cake batter. However, the amount of cake batter is minimal - just enough to hold everything together, resulting in a lot of apple in every bite. Could be served with a dollop of whip cream. Topping might be better by substituting the flour with oats. Might try it next time. Another possibility would be instead of or in addition to adding walnuts, try adding 1/2 cup of raisins that have been soaked in water or rum. So many possibilities. This receipe is a definite keeper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Angie"
+},
+"reviewBody": "Made this cake and it's very yummy. I doubled the recipe and baked it in a bundt pan for 45 minutes. Moist cake with plenty of apples, Delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary"
+},
+"reviewBody": "I love this cake!! I baked it 15 minutes longer than the max of 40 listed in the recipe. The oven was well pre-heated too. Not really an issue. Just a comment. I added 1/4 cup of toasted pecan pieces into the batter. I’m really enjoying their crunch. I used all sour cream and added an extra 1/2 tsp of vanilla. I am a happy camper for sure!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "James Tuttle"
+},
+"reviewBody": "Delish! The Vanilla Yogurt really topped it off. Easy to prepare. Fast to disappear!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Very tasty. I also like a lot of apples. I sprinkled some walnuts on top. Nice and moist."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sheilamdt"
+},
+"reviewBody": "Adding more spice and using Cortland apples, it was the best coffee cake ever."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "pjama5582"
+},
+"reviewBody": "I've made this cake many times and it's beautiful! My husband's favourite."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kboniface"
+},
+"reviewBody": "Amazing recipe! Cut back the brown sugar to 1/2 c. and used 1/2 c. Greek yogurt in place of 1/4 sour cream and 1/4 c. yogurt. Added walnuts - because apples and walnuts go together! I doubled the recipe and put in an 8” square pan. Baked 40-45 min. Good with vanilla ice cream as a dessert."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CyrenaOdell"
+},
+"reviewBody": "Absolutely delicious!! Had one of my friends going back again and again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mimi90025"
+},
+"reviewBody": "Everyone at work raved\nSoft heavy chewy and Camry at the same time with a nice crunchy crust. Delicious and feels healthy. Follow recipe exactly and used Bundt pan. Added 10 min cooking time. Pics posted"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Darlene Patterson"
+},
+"reviewBody": "This cake is moist and totally delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kat_investor"
+},
+"reviewBody": "This was the best coffee cake I've ever tasted. Ever. I did make minor modifications. I had no sour cream or yogurt so I used an equal amount of Mexican crema and about 1 tablespoon of lemon juice. Also I doubled the crumble topping. The crumble topping was way too moist (almost like frosting) so I put in freezer for 5 minutes then added more sugar and flour. Still on the wet side. Regardless, cake came out perfect and literally better than any breakfast sweet I've ever eaten. I will make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kelli Weiss"
+},
+"reviewBody": "this cake though very small in size is just lovely! had a small taste b4 gifting it most away, but its very tender, moist, even w/o the crumb topping and recommend it highly, but probably doubled in a 13x9 pan so everyone can share! thx again:): kelli"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Diana L. Bush"
+},
+"reviewBody": "Made for Easter Breakfast 2021"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Megan Miller"
+},
+"reviewBody": "Absolutely delicious! I did not have any vanilla yogurt so we used cream cheese in the same amount. My 2year old is enjoying it and had a blast helping me make it! Will be making this for our youngest sons baptism."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laura"
+},
+"reviewBody": "This is very good, but I did things a little differently, because I didn’t have all of the ingredients in the house. First, I left out the sour cream and used whole fat plain yogurt. Next, I used three small Gala apples. As other reviewers suggested, I cut the brown sugar in the batter to 1/2 cup. The last thing was, as written, the topping was not crumbly at all, so I added 1/4 cup of finely chopped walnuts, and viola! Crumbly! Thanks for sharing! This will be breakfast, and if there’s any left, ala mode tonight for dessert!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mindy"
+},
+"reviewBody": "Delicious and easy to make. Made as written, no changes needed!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Katie Ellingson"
+},
+"reviewBody": "I didn’t have sour cream so I used plain Greek yogurt. Otherwise I followed the recipe and it was great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brandy"
+},
+"reviewBody": "Definitely one of the best desserts I’ve ever made. I received so many compliments on it. I did double the crumble topping recipe and put a layer on the bottom as well as the top. I also added oatmeal to the topping recipe, drizzled it caramel topping and served it warm with a scoop of vanilla bean ice cream."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "contentatbeach"
+},
+"reviewBody": "This is delicious but sweet. I used dark brown sugar because I prefer the flavor. I double and cooked in a 9x13 pan for a beach weekend getaway. The pan came back empty. I will make it again but cut back on sugar and add lemon to apples for some some brightness."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "maskys"
+},
+"reviewBody": "This recipe is incredible, just as it is, or if you don't have plain yogurt, double the sour cream for excellent results, as well. I've made several apple desserts this season, due to an abundance of apples; and this is, by far, the BEST one! Thank you so much for sharing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "MsSheSheBoom"
+},
+"reviewBody": "This was an easy recipe and my family absolutely loved it! Thank you for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Julie MacKenzie"
+},
+"reviewBody": "This was a favourite for all and I am making it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Karin"
+},
+"reviewBody": "Delicious recipe and very easy to make. The cake was very moist and the crumb topping really added to the flavor. One that I will definitely make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carol Marchak Silvius"
+},
+"reviewBody": "The best! So easy and so good! Moist, flavorful, don’t change a thing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bonnie Carter"
+},
+"reviewBody": "Tasty and simple, follow as written!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jewel115"
+},
+"reviewBody": "Excellent coffee cake!\nI stuck close to the recipe. I had no sour cream or regular vanilla yogurt on hand, so I replaced both with the plain greek whole milk yogurt I had, and doubled the vanilla extract. The batter was thicker due to the thick greek yogurt, but the result was wonderful. The cake itself was moist and mildly sweet with a melt-in-your-mouth texture and the crumb topping provided a sweet and crumbly contrast. My neighbor's comment when I shared a piece: \"We'll let you make that one again!\"\nMy 9\" pie pan was the right size for this recipe. When I try it again, I plan to use my 10\"x13\" pyrex baking pan and double the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Wayne Pelren"
+},
+"reviewBody": "A definite keeper"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "guythebacon"
+},
+"reviewBody": "Very good but a bit too sweet"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Deborah Terrill"
+},
+"reviewBody": "Quite tasty. Definitely use less brown sugar. I used 3/8 cup and it was just fine."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carla Kautz"
+},
+"reviewBody": "This apple cake is decadent! I used Bob\"s Mill 1:1 gluten free flour (we are a gluten free household) and all sour cream versus yogurt since I didn't have any yogurt. My husband and I are both impressed! My husband requested it as a keeper.:)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "rose"
+},
+"reviewBody": "Increase soda to 1 tsp\nAdd 2 tsp lemon juice\nAdd 1/8 tsp nutmeg\nOmit yogurt\nIncrease sour cream to 1/2 cup"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brenda Crow"
+},
+"reviewBody": "This was a big hit with my husband! I made it without the apples, because my husband was hungry for coffee cake, and this was the best recipe I could find, according to the ingredients. When I told him I omitted the apples, he said “mmm... I bet it delicious with apples”. Lol. So, next month I’ll make it with apples! Thanks for this wonderful recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lauren"
+},
+"reviewBody": "Definitely needs a ton more apples. The more, the better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sybil"
+},
+"reviewBody": "This is amazing! I never eat batter because I think it’s gross-but I could have eaten the whole bowl of this! The only substitutions I made were gala apples instead of Granny Smith and plain yogurt instead of vanilla-I cannot stress how amazing this cake is! Next time I will double it and add walnuts. Thank you for this amazing, easy recipe-even for a novice baker like me!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "RDIVER108"
+},
+"reviewBody": "This recipe is awesome !!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Elizabeth MacClain"
+},
+"reviewBody": "I only used yogurt since we didn't have sour cream and I thought it would be a bit lighter, as well. Used extra apples. Added a dash of salt to the topping (was not using salted butter). I think I would increase the topping by another half to make the top more crunchy, but I will definitively make it again! I like that it isn't too sweet. With additional apples, it was more apple than batter, and I liked that."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Vrishali Ghadge"
+},
+"reviewBody": "It was really yummy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jane Martyn"
+},
+"reviewBody": "The cake was great. I added about 2 more teaspoons of cinnamon. We love cinnamon. It could have been sweeter so I dusted it with powdered sugar after it cooled.\nNext time though I will make the topping more of a crumb cake topping."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kate Ford"
+},
+"reviewBody": "Very easy and yummy. Added a good pinch of all spice and a small pinch of salt, used all yogurt and a bit of extra vanilla. Baked in Bundt pan but didn’t double. Very moist. Great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "MissWagner"
+},
+"reviewBody": "Delicious, but still too sweet. I read the reviews and cut the brown sugar from 3/4 to 1/2 c, but should have also reduced the topping. Otherwise it has great flavor!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sheila LaLonde"
+},
+"reviewBody": "This is a very good coffee cake! I only had lemon yogurt which worked very well as a substitute for the vanilla yogurt! Thanks for sharing your recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Hughes"
+},
+"reviewBody": "This coffee cake is amazing! I followed the advice of Terese P and doubled this recipe, except used only 3/4c Brown sugar for the doubled recipe. I also added a little extra vanilla and cinnamon and chopped the apples very tiny as Terese had recommended. I put it in a Bundt pan and used the “topping” as a streusel layer in the middle of the Bundt cake. For a doubled recipe in a Bundt pan, 43 minutes in the oven was perfect. Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "olgaskitchen"
+},
+"reviewBody": "Delicious! Hubby scarfed it down and asked when I plan to make more!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "speedragu"
+},
+"reviewBody": "Don’t change a thing with the recipes. Turns out predict"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Steven Henry"
+},
+"reviewBody": "Very good! I would certainly make it again! \n\nI made one mistake by putting it in a glass dish instead of a metal pan. I had trouble getting it out of the dish. It still turned out great. \n\nI did not change the recipe at all."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "deb"
+},
+"reviewBody": "To make healthier I replaced eggs with egg whites and ½ of butter with applesauce. Very moist and taste great"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ekebaby"
+},
+"reviewBody": "Amazingly good!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laura Rankin"
+},
+"reviewBody": "This is so good! Awesome. I did cut the brown sugar down to a packed half cup. Will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Damon Fout"
+},
+"reviewBody": "Came out AMAZING!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tbanta"
+},
+"reviewBody": "Easy. and quite good! The buttermilk makes it rise... it's a keeper for me!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CatHatSteph"
+},
+"reviewBody": "It turned out awesome! I've never made a coffee cake before and it's so good! For once I didn't have yogurt in the fridge so I subbed it with the sour cream like the author said you could."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Deborah Beard"
+},
+"reviewBody": "Very good. Didn't have yogurt so added applesauce and cinnamon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jacq"
+},
+"reviewBody": "Easy and delicious. I added walnuts to the topping."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Doloris Evans"
+},
+"reviewBody": "I made it and it got a great review from my husband and my brother-in-law.\nThe second time I made it I added walnuts to the cake and to the topping.\nIt was so simple, and I discovered that apples can be frozen.\nThank you\nDoloris"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Susan Hosford"
+},
+"reviewBody": "I’ve made this about every other day since I found the recipe. My husband and I both love it. I’ve made it both with all sour cream and with sour cream/yogurt. I prefer the all sour cream version, but that’s just personal taste. It’s just as good the second day."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nancy"
+},
+"reviewBody": "This coffee cake is so good! I get asked for the recipe every time I make it. I did bake it about 5 minutes longer because of how wet it seemed with all the apples."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tami"
+},
+"reviewBody": "Very yummy! Used Splenda brown sugar to make it more diabetic friendly."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jckunik"
+},
+"reviewBody": "The Granny Smith apples are the perfect taste for this coffee cake- did not change any part of the recipe and it came out terrific!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "gigi"
+},
+"reviewBody": "I followed the recipe exactly as written and it was delicious, so moist and flavorful, will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JEANW615"
+},
+"reviewBody": "This is fantastic. Moist and yummy. Added a little bit of cloves and allspice and substituted gala apples - amazing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Denise D"
+},
+"reviewBody": "A delicious and moist cake I make regularly now. I substituted butter for oil and added more cinnamon, nutmeg, and ginger."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jane"
+},
+"reviewBody": "I followed the recipe exactly and it came out great! Very moist and the crumb topping was delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sue Immel"
+},
+"reviewBody": "delicious moist cake love the apples in the cake"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Yvonne Cottell"
+},
+"reviewBody": "Very tasty. A bit dense in consistency but I'd make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Zaya"
+},
+"reviewBody": "Will be adding this gem into our regular rotation! Made exactly as outlined, with granny smith apples (took 2 medium sized ones, peeled &amp; cut into small cubes)... used full fat Greek yogurt along with 2 teaspoons vanilla extract, a bit more cinnamon than called for, added pumpkin spice and a little cardamom, also doubled crumb topping because we love that part. LOVE everything about the simplicity and the deliciousness of this cake. Made our entire house smell heavenly, too. Thank you so much for sharing, Nancy! :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rose Ann Gaeta Daly"
+},
+"reviewBody": "I made the cake to bring to the school where I teach. But my daughter took a whiff of it coming out of the oven and had to taste it. She loved it and promptly took it back to school with her. I made another one a half hour later and got rave reviews from teachers and staff."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marianne Rossi-Brown"
+},
+"reviewBody": "I made this for our Octoberfest celebration at work &amp; everyone loved it! I doubled the recipe &amp; used a 9 X 13 baking dish. I stayed with the crumble topping &amp; it turned out pretty good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "allanpl"
+},
+"reviewBody": "Great as is."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lorenzo Lewis"
+},
+"reviewBody": "Amazing!!!! First time that I made this. Addicting. The people I made it for loved it. The main change I made was to use only Greek yogurt and no sour cream. Served it with either milk or vanilla ice cream.\n\nWill definitely make it again!!!! Yummy in the tummy. \n\nThank you for sharing this recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Harry Bogle"
+},
+"reviewBody": "Excellent. I've made it twice so far. It's a keeper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dzm388"
+},
+"reviewBody": "This was excellent! The initial butter/brown sugar mixture never got light and fluffy though. I used 1/2 cup (sort of medium packed) to start, added about another 1/8 cup, but it stayed thick and dark. Eventually I gave up and just proceeded with the recipe. The batter was quite thick, more of a spread than a \"pour\" into the pan. However the resulting cake had a great texture and was delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kayko "
+},
+"reviewBody": "I made this recipe using Fuji apples and it was very good. Next time I'll use Granny Smith per the recipe because I prefer a more tart apple taste. I'll also make extra sugar topping. I used Chobani 0% milk fat Vanilla Greek Yogurt and full fat Daisy sour cream."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sandi"
+},
+"reviewBody": "This turned out excellent! Didn't change a thing and it turned out so nice and moist and flavorful. It was delicious still warm from the oven. I already made it a second time and I know that this will be my \"go to\" recipe for cinnamon apple coffee cake."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Davon Moore"
+},
+"reviewBody": "Delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gotrecipe?"
+},
+"reviewBody": "Really tasty, especially served with a scoop of ice cream on top! Made the house smell like 'sugar, spice and everything nice' while it was baking. It was hardly out of the oven before we dug into it!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathy"
+},
+"reviewBody": "So good! To save a couple of calories I used 1/2 cup of low-fat vanilla yogurt instead of sour cream and regular yogurt. It’s perfect. I could eat this every day!!! I’ve made it twice and used two different kinds of apples so no need to get Granny Smith’s specifically. Thank you for this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SleepyMouse"
+},
+"reviewBody": "This cake came out perfect. Very light and airy with a ton of apple mixed in."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "rozanne jhamb"
+},
+"reviewBody": "I prepared it exactly as directed, and everyone loved it! I would use slightly less sugar next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cathy K"
+},
+"reviewBody": "Made it as recipe listed. Loved it, The family too! Very moist. I made two at the same time, and froze one for later. Defrosted today, and just as delicious. Will definitely make again during apple picking season."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sheryl"
+},
+"reviewBody": "I converted the brown sugar to truvia brown sugar. Delicious!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kat"
+},
+"reviewBody": "Very good. I used Greek yogurt instead of vanilla as that’s what I had."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Charliemarylou"
+},
+"reviewBody": "Loved the apples but was interested to know if it would be just as good with other fruit."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kn1405"
+},
+"reviewBody": "This is SO GOOD !!\nOne of the best coffee cakes EVER. \nI doubled it, baked it in a 9x13 pan, and tweaked it a bit (added nutmeg and allspice, extra cinnamon, extra apples, extra butter in the topping and added chopped nuts to the topping.)\nI also used butter to grease the pan before I floured it, rather than a spray.\nI used 5 Granny Smith apples - diced up three of them into very small pieces and grated two of the apples. \nNot too sweet, despite what some of the reviewers said. \nReally excellent.\nI served it as a dessert - warm with vanilla ice cream.\nMy guests devoured it. \nI MIGHT add raisins to the batter next time. \nThat would be the only change I'd make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lillian Ratto"
+},
+"reviewBody": "I doubled the sour cream and halved the brown sugar as suggested by some reviewers. It was delicious! Will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jackie Marie Beyer"
+},
+"reviewBody": "Ive made it a few times lots of adjustments based on what’s in my fridge great every time"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KimJim Seguin"
+},
+"reviewBody": "I doubled the recipe, and added extra cinnamon and nutmeg to both the cake and the topping mix. I also added chopped pecans to the topping. The rest of the recipe was followed as written. I used a bundt pan and packed half the topping onto the bottom of the pan, poured in half the cake batter, then added the rest of the topping and the rest of the batter. I baked it at 350 for 55 minutes, but had to add an extra 15 minutes of baking time. It was delicious and I will be making this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jahoman"
+},
+"reviewBody": "Used all sour cream and Macintosh apples. Delicious, my book group loved it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dyonna Wilson"
+},
+"reviewBody": "I made this recipe and it was a huge hit. I used a mini bundt pan so that I could make individual cake for everyone, which turned out to be perfect portions. I will definitely make this again. FYI I used Matsu apple which are sweet and tart, not to mention my favorite apple because of the balance between the sweetness and tartness."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Karen K"
+},
+"reviewBody": "I doubled the recipe. It was good and I baked for 35 minutes. It was ok but not spectacular. Perhaps I used too many apples (4) cups and not enough crumble on top. I also should of added more brown sugar. I only used 3/4 cup for a double batch. I may try again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Debbie"
+},
+"reviewBody": "This coffee cake Is amazing! Super moist and flavorful"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bernice Dray"
+},
+"reviewBody": "This bread was so very good and easy to make. Family ate it p in one day."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Debbie Venus-Fenrich"
+},
+"reviewBody": "Wonderfully moist and delicious. Thanks for sharing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SousKelly"
+},
+"reviewBody": "This was a super easy recipe. I didn’t have brown sugar, so I substituted with granulated sugar and 1 T molasses. It turned out great, everyone loved it, but I think it would have been better with brown sugar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "RPerrin"
+},
+"reviewBody": "It was awesome!! Easy to make and sooo good. I did cut the brown sugar to 1/3 cup and it was still great!! I didn’t use Grant smith apples tho."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/231416/apple-coffee-cake/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/276/desserts/cakes/",
+"name": "Cakes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/15828/desserts/cakes/apple-cake/",
+"name": "Apple Cake Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/231416/apple-coffee-cake/",
+"name": "Apple Coffee Cake"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

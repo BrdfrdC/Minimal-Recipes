@@ -1,0 +1,319 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Easy Apple Cobbler"
+,"datePublished": "2005-10-25T02:23:30.000-04:00"
+,"dateModified": "2005-10-25T02:23:30.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Elaine"
+,"url": "https://www.allrecipes.com/cook/1570796"
+}
+]
+,"description": "This is a delicious apple cobbler recipe. Pantry staples and fresh apples combine in this quick and easy dessert that&#39;s ready in under an hour."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/AplE6084HFsYCIhiMZqH9LA3TmM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9402881-827c42f75932475fb553990c838ddf83.jpg",
+"height": 1000,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Easy Apple Cobbler"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "16"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "168 kcal"
+,"carbohydrateContent": "41 g"
+,"cholesterolContent": "16 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "2 g"
+,"saturatedFatContent": "0 g"
+,"sodiumContent": "48 mg"
+,"sugarContent": "31 g"
+,"fatContent": "1 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"3 tablespoons white sugar",
+"1 teaspoon ground cinnamon",
+"6 large Granny Smith apples - peeled, cored and sliced",
+"1 cup all-purpose flour",
+"1 cup white sugar",
+"1 large egg",
+"1 teaspoon baking powder",
+"0.25 cup water" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine 3 tablespoons sugar and cinnamon in a bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Layer apples in an ungreased 9x13-inch baking pan, sprinkling each layer with cinnamon-sugar mixture."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine flour, 1 cup sugar, egg, and baking powder with a fork. Sprinkle over apples in the baking pan. Lightly sprinkle water over top."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until topping is golden brown, about 30 minutes."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT40M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "skylerspoint"
+},
+"reviewBody": "I used frozen apples that I collected fresh last fall. I also grated some cold butter on the top and added some granulated sugar for the last 10 minutes or so. Made for a nice crunch topping. Very good and best of all no oatmeal in this!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Phyllis-Marie Wiggins, PhD"
+},
+"reviewBody": "I doctored this A LOT! I added spices to the batter. I added butter and vanilla. I added fresh lemon juice to each layer of my apples and baked it at 350 degrees for 45 minutes. It was delicious! I've made it 3 times and friends are now placing orders. I basically used an altered version of a Southern peach cobbler recipe. The one above was too plain for my tastes. I added more cinnamon, nutmeg, ginger, and 2 eggs to the batter. Maybe, I created a whole new recipe in the end but I give credit to this baker for the basic idea!! THANKS for a new holiday favorite. I made this for a friend who was grieving the loss of his wife. This was his first Thanksgiving without her. This recipe made it possible for me to cheer up his whole holiday! Thank you so much! Food heals! Happy holidays to all!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Judy J"
+},
+"reviewBody": "Tasted great"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Tomboy"
+},
+"reviewBody": "Thought the one to one ratio of flour to sugar made the topping too sweet. May try 1 1/2 cups flour to 1/2 cup sugar next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sandra Knapp"
+},
+"reviewBody": "Very quick and easy to make. After reading several comments, especially those that talked about raw flour on the top, I decided to mix my topping ingredients and ladle it on top, then gently spread it out. I also added pats of butter to the topping, I used a 7 x 11 x 3 casserole dish. To save on the cost of propane gas, I baked my cobbler in my NuWave oven, one 350º for 20 minutes, using the extender ring and setting the dish on a 1\" rack. I sneaked a little taste from the very corner of the dish, and it was amazing. Definitely a keeper. Sandie"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "oneof3js"
+},
+"reviewBody": "It is a keeper recipe!! Put some vanilla bean ice cream on it and perfectly yummy!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cyndi"
+},
+"reviewBody": "I make this once per week, now. Really easy and good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Someone else put butter on top (the final oven minutes) and so did I. Butter is always good. This is so moist, tasty and flavorful, easy. Perfect. My adult son who never comments much on food exclaimed that it was great, almost too good. He loves it and so do I. Very glad to have this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "zennibread"
+},
+"reviewBody": "Great recipe. Perfect amount of sweet and tart. At the last 5 minutes, I melted 4 tablespoons of butter and drizzled over the top. This made the crumbly crust perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jorge Ivan Berenguer"
+},
+"reviewBody": "Easy and fast. Great for a quick dessert."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laura in Bedford"
+},
+"reviewBody": "Very easy and really delicious. I think that the addition of the egg in the batter makes it so tasty. Also it doesn't have oats which so many recipes do and my son does not like. I used Cortland apples. This was so much easier than making an apple pie. I wanted something different than the Christmas cookies we have; picked up apples on the way home and at 5:00 p.m. put it together and into the oven for after dinner. I put squirt whipped cream on mine. Thanks, Elaine."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "A very comforting recipe! Will make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "lutzflcat"
+},
+"reviewBody": "9.28.21 If I make this again, I’ll split the sugar between white and brown sugar. I think what I was missing the most was a little butter. Even if you just dot the top of the flour with some small pieces of butter, it would brown up better. There’s really not enough water sprinkled over the top to moisten the flour, and what you end up with is a topping with splotches of white flour…not very appealing to the eye. I baked an extra 7 minutes and still didn’t get that golden brown color. I stopped there because I didn’t want to risk drying out the delicious juice from the apples. On the positive side, it really is extremely easy to make (particularly if you have an apple peeler and a wedger/slicer), and it does taste good. Thanks for sharing your recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Jax"
+},
+"reviewBody": "This recipe calls for Granny Smith apples. I used Fuji, since that's what I had on hand, and it's likely that this recipe is five stars with the tart apples. \n\nThe crust baked up beautifully, it was a wonderful texture the first night, if a little sparse. It wasn't overly tasty, which is what I think the tastier apples would have compensated for. By the next day, the crust was mushy, but the dessert was still enjoyed warm with a big scoop of ice cream on top."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/282982/easy-apple-cobbler/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/361/desserts/cobbler/",
+"name": "Cobblers"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/2021/desserts/cobbler/apple-cobbler/",
+"name": "Apple Cobbler Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/282982/easy-apple-cobbler/",
+"name": "Easy Apple Cobbler"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

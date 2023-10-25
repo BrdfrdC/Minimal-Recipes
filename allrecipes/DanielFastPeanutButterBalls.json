@@ -1,0 +1,165 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Daniel Fast Peanut Butter Balls"
+,"datePublished": "2015-01-16T18:41:38.000-05:00"
+,"dateModified": "2015-01-16T18:41:39.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "growingoodsons"
+,"url": "https://www.allrecipes.com/cook/6356866"
+}
+]
+,"description": "Peanut butter, oats, and coconut are formed into energy balls that are perfect for on-the-go snacking and fit into the Daniel Fast plan."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/iIQ9PsOue5HlzmPUjy25w8eH47I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3063528-905b33a0961b4e97892c7e8238a88ee7.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Daniel Fast Peanut Butter Balls"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "5"
+}
+,"cookTime": "PT300M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "217 kcal"
+,"carbohydrateContent": "24 g"
+,"fiberContent": "2 g"
+,"proteinContent": "5 g"
+,"saturatedFatContent": "6 g"
+,"sodiumContent": "35 mg"
+,"sugarContent": "14 g"
+,"fatContent": "12 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"0.75 cup brown rice syrup",
+"0.5 cup coconut oil",
+"1 cup natural peanut butter",
+"1 teaspoon vanilla extract",
+"3 cups oats, or more to taste",
+"1 cup raisins",
+"0.5 cup unsweetened flaked coconut" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine brown rice syrup and coconut oil together in a saucepan over medium heat; cook and stir until melted and boiling, 3 to 4 minutes. Remove saucepan from heat."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix peanut butter and vanilla extract into syrup mixture until smooth. Add oats, raisins, and coconut to peanut butter mixture and mix well. Refrigerate mixture until cool, at least 30 minutes. Form mixture into balls and freeze until set, at least 1 hour."
+} ]
+,"recipeYield": ["24"]
+,"totalTime": "PT405M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Harwood-Stamper Burns"
+},
+"reviewBody": "If you are doing a Daniel Fast, note that brown rice syrup is not allowed. Also, some people do not use vanilla extract on the fast as it contains alcohol. That being said, I made this recipe without the brown rice syrup, but with vanilla extract and a little almond extract. I also used dried cranberries instead of raisins. Both my husband and I found it very tasty!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Erin M"
+},
+"reviewBody": "Very delicious and very rich!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Angela"
+},
+"reviewBody": "I added chia seeds, hemp hearts, ground almond and toasted cocoanut and switched to real maple syrup. Also added another 20gms protein powder for the extra bang and I really like the taste of them!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/240867/daniel-fast-peanut-butter-balls/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17146/appetizers-and-snacks/snacks/",
+"name": "Snacks"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/15327/appetizers-and-snacks/snacks/granola-bars/",
+"name": "Granola Bar Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/240867/daniel-fast-peanut-butter-balls/",
+"name": "Daniel Fast Peanut Butter Balls"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

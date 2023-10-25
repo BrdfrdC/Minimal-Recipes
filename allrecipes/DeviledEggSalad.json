@@ -1,0 +1,423 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Deviled Egg Salad"
+,"datePublished": "2018-06-08T10:20:13.000-04:00"
+,"dateModified": "2018-06-08T10:20:13.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Angela"
+,"url": "https://www.allrecipes.com/cook/1936302"
+}
+]
+,"description": "Egg salad meets deviled eggs in this recipe for the best egg salad, whether alone, on greens, or in a sandwich."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/E08xsbgBsGATEvcBChlpNjYdhmE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2176415-b9788099246a4aaab3ac1dd2c96f1f38.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Deviled Egg Salad"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "28"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "146 kcal"
+,"carbohydrateContent": "1 g"
+,"cholesterolContent": "216 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "7 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "217 mg"
+,"sugarContent": "1 g"
+,"fatContent": "13 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"0.25 cup mayonnaise",
+"0.25 cup finely chopped green onion",
+"0.5 teaspoon prepared yellow mustard",
+"0.25 teaspoon salt",
+"0.25 teaspoon garlic powder",
+"0.25 teaspoon paprika",
+"0.125 teaspoon ground black pepper",
+"6 hard-boiled eggs, peeled and chopped" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Stir mayonnaise, green onion, mustard, salt, garlic powder, paprika, and black pepper together in a bowl until smooth; add eggs and gently mix to coat in the mayonnaise mixture."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT10M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "carlymca"
+},
+"reviewBody": "I agree that it needs more 'devilish' ingredients. More mustard and cayenne or red pepper flakes or hot sauce. Also, I have recently discovered that steaming eggs is the best way to hard-cook them. I let the eggs sit out for an hour or more, or I put the eggs into warm water to take the chill off. Then I steam them for 12-13 minutes immediately put them into cold water for a few minutes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Susan"
+},
+"reviewBody": "I mixed all ingredients except the eggs in a food processor. After mixing this into the chopped eggs, it needed something. So I added more mustard. Perfect! Thanks for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This was DELICIOUS! In researching egg salads in general, one hint I can pass along is to use eggs close to the expiration date (so buy them well ahead of time) because \"fresh\" eggs are harder to peel. I'm not saying to use spoiled eggs! Just make sure they sink to the bottom when you put them in the water. Bad eggs will float to the top. Good eggs will sink to the bottom of the pot."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Joyce"
+},
+"reviewBody": "This recipe needs some cayenne pepper to make it really deviled which means hot and spicy. I also added extra hot paprika and old bay,"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Charles"
+},
+"reviewBody": "Great recipe. Good for an hors d' oeuvre."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cake1"
+},
+"reviewBody": "The only change is that I added chopped celery, one rib."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "scoodle"
+},
+"reviewBody": "I made it, but found it better to add another heaping tablespoon of mayo to make the mixture a bit more creamy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kristinowens"
+},
+"reviewBody": "An excellent way to spice up traditional egg salad! I added a bit more mayo and salt since my eggs were very large."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sherry"
+},
+"reviewBody": "This is a very good recipe. I added a stalk if sliced celery for crunch."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bowie Lauzon"
+},
+"reviewBody": "I used a smidge more mayo and smoked paprika. Perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lesa Kay Smith"
+},
+"reviewBody": "We liked it. I even added chicken once and then macaroni for another time. Its great n very simple."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Somer"
+},
+"reviewBody": "I didn't add any salt or pepper. The recipe was easy and delicious. I would definitely make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Miranda Rowley"
+},
+"reviewBody": "love it! super tasty"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "My Hot Southern Mess"
+},
+"reviewBody": "I made this as written with the exception of the green onion. It was ok, my son liked it but for myself I thought it needed more mustard."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Treasa"
+},
+"reviewBody": "I just made this with a few changes. I made it with rotini pasta. I added celery, diced green olives, white onion, diced red peppers and cheddar cheese. Everyone asked for the recipe. was GREAT. EVERYONE LOVED IT!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Monica Yoder"
+},
+"reviewBody": "Delicious and easy! Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tina"
+},
+"reviewBody": "Deff will be making this one again! I didn't use green onion, I just used yellow onion, it's what I had on hand, and I added some chopped celery, and sweet and dill relish, and a bit of Mircle Whip along with my Mayo, and i tripled the recipe, got to, to feed these 3 men, It Was A HIT!!! They LOVED it!!! Deff A Keeper!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sollenbum"
+},
+"reviewBody": "This is a really tasty egg salad! I substituted the garlic powder for real garlic which gave it a lift, though. Probably added more salt and pepper as well. Was very easy to make and definitely much better than store-bought versions."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "nico"
+},
+"reviewBody": "Made this for a picnic and it was a huge hit. Just double-ished the paprika for a bit more flavor"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "nikot"
+},
+"reviewBody": "Followed the recipe as printed and it was delicious! Wouldn't change a thing!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "lutzflcat"
+},
+"reviewBody": "Not to say this wasn't good, but it pretty much tasted like the egg salad that I just throw together. Good, but nothing really to differentiate it from most other egg salad recipes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jacks girl"
+},
+"reviewBody": "Love love love this so simple yet so tasty!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Roz Simms"
+},
+"reviewBody": "It was just ok, I added a little cayenne, old bay, celery and dill relish. I'll stick to the deviled eggs. Maybe I'll like it better once the seasoning goes through it tomorrow."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/241672/deviled-egg-salad/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/96/salad/",
+"name": "Salad"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1986/salad/egg-salad/",
+"name": "Egg Salad Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/241672/deviled-egg-salad/",
+"name": "Deviled Egg Salad"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

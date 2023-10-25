@@ -1,0 +1,268 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Healthy Pasta Primavera"
+,"datePublished": "2019-11-15T00:14:21.000-05:00"
+,"dateModified": "2022-06-21T19:14:39.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Jill Andersen"
+,"url": "https://www.allrecipes.com/cook/23655998"
+}
+]
+,"description": "For pasta primavera made easy, try this recipe packed with vegetables including asparagus, mushrooms, yellow squash, and cherry tomatoes."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/5aEjwP-NdQ9_0D6wgshW-KyEBSo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6702624-a7e2140b30c24178b22b0edb93cf6e51.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Healthy Pasta Primavera"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "10"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "281 kcal"
+,"carbohydrateContent": "42 g"
+,"cholesterolContent": "9 mg"
+,"fiberContent": "8 g"
+,"proteinContent": "16 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "338 mg"
+,"sugarContent": "5 g"
+,"fatContent": "8 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"2 cups whole grain penne pasta",
+"1 tablespoon olive oil",
+"0.5 cup chopped onion",
+"1 pound fresh asparagus, trimmed and cut into 2-inch pieces",
+"2 cups sliced fresh mushrooms",
+"1 small yellow summer squash, halved lengthwise and sliced",
+"2 cups cherry tomatoes, halved",
+"0.5 cup shredded carrot",
+"2 cloves garlic, minced",
+"1 tablespoon chopped fresh oregano",
+"0.5 teaspoon ground black pepper",
+"0.25 teaspoon salt",
+"0.125 teaspoon red pepper flakes",
+"0.5 cup freshly grated Parmesan cheese",
+"Lemon wedges" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Bring a large pot of lightly salted water to a boil. Add penne and cook, stirring occasionally, until tender yet firm to the bite, about 11 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, heat oil in an extra-large skillet over medium-high heat. Add onion; cook until softened, 2 to 3 minutes. Add asparagus, mushrooms, and squash; cook until just tender, about 5 minutes. Add tomatoes, carrot, garlic, oregano, black pepper, salt, and red pepper flakes; cook until tomatoes begin to soften, about 1 minute."
+} ,{
+"@type": "HowToStep"
+,"text": "Drain penne; stir into vegetable mixture along with 1/4 cup Parmesan cheese. Top servings with remaining cheese and serve with lemon wedges."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT40M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "umasslax"
+},
+"reviewBody": "I made this for dinner last night. I substituted broccoli for mushrooms (forgot to buy mushrooms at store) and it came out Great. I also used gluten free pasta. Wine was Pinot Gris from Aldi. My wife and I both loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Regan"
+},
+"reviewBody": "I call this \"refrigerator pasta\" because I use whatever is in the fridge. Tonight's was spaghetti noodles with broccoli, carrots, tomatoes, black olives,and basil simmered in a sauce of butter, olive oil, chicken broth, onions, garlic and grated Parmesan. Seasoned with salt and lemon pepper. Spaghetti didn't hold the sauce well (penne is better), but it all tasted great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laura Hanson"
+},
+"reviewBody": "I will definitely make this again. It has a light fresh taste without any heavy sauce. I did add 1/2 cup of the pasta water to it as suggested by another reviewer. That made a light sauce which was great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jackie"
+},
+"reviewBody": "This is a very simple and delicious recipe. I added extra parmesan cheese and zucchini."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "hawaiihi"
+},
+"reviewBody": "This was very easy and fast! I didn't have any asparagus or carrots, but I added peas at the very end and it was delicious.\n\nI also reserved 1/2 cup of pasta water when draining to add to the pasta, helping the parmesan to emulsify into a great sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "christie923"
+},
+"reviewBody": "Made this tonight and loved it. It's very versatile, I omitted the oregano/mushrooms and added broccoli. The touch of lemon at the end really makes the flavor pop...don't skip it! I made a whole bunch so I could have it for lunch tomorrow too!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Howard"
+},
+"reviewBody": "We saw this in AR Magazine thought we give it a go. The recipe was easy to follow, prep was a cinch and a pasta primavera that didn't weigh me down with a cream sauce was exactly what I was looking for! The meal was delicious and filling, we will be making this often during the summer months!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Judy Thompson Parkey"
+},
+"reviewBody": "Very easy and quick. I've made it twice now and the second time I subbed fresh green beans for the asparagus and mini-bell peppers for the squash. I think I liked it that way better. Only negative: too much penne - and, that's an easy fix."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kristen Howe"
+},
+"reviewBody": "This was delicious and a good treat. I've made some minor tweaks to the meal: instead of yellow squash, I've used zucchini since I didn't have the squash. I don't like asparagus and passed on it. Since I didn't have carrots, I've used red peppers. It came out all right. I would make it again with the yellow squash, but I did have leftovers for another night."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lorri"
+},
+"reviewBody": "My teenage son couldn't stop eating this. It was delicious and I will definitely make it again"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/270838/healthy-pasta-primavera/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17245/main-dish/pasta/",
+"name": "Pasta"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17020/main-dish/pasta/pasta-primavera/",
+"name": "Pasta Primavera Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/270838/healthy-pasta-primavera/",
+"name": "Healthy Pasta Primavera"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

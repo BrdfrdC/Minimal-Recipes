@@ -1,0 +1,736 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Angel Food Cake II"
+,"datePublished": "1998-06-04T13:57:55.000-04:00"
+,"dateModified": "2022-08-22T14:31:16.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Carol"
+,"url": "https://www.allrecipes.com/cook/Carol"
+}
+]
+,"description": "Some people like to make an angel food cake as a birthday cake. I have made this one before, and it was great. I made a butter icing, and just tinted the color I wanted. I put in those little dragees you see in the store inside the batter."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/mmXhsDeig8g16igEr7ZfZFuYivg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18147-1a3da37fae4e4997bf1220fbc77326cd.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Angel Food Cake II"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "52"
+}
+,"cookTime": "PT60M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "239 kcal"
+,"carbohydrateContent": "46 g"
+,"cholesterolContent": "13 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "4 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "110 mg"
+,"sugarContent": "38 g"
+,"fatContent": "5 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"1 cup sifted cake flour",
+"0.75 cup confectioners' sugar",
+"1.5 cups egg whites",
+"0.25 teaspoon salt",
+"1.5 teaspoons cream of tartar",
+"1 teaspoon vanilla extract",
+"0.25 teaspoon almond extract",
+"1 cup white sugar",
+"2 cups confectioners' sugar",
+"0.25 cup butter, softened",
+"3 tablespoons cream",
+"1 teaspoon vanilla extract" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat oven to 375 degrees F (190 degrees C). Wash angel food tube pan in hot soapy water to ensure it is totally grease free. Let dry completely. Sift flour and 3/4 cup confectioners&#39; sugar together three times; set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "In mixing bowl, beat egg whites and salt on high speed until foamy. Add cream of tartar, 1 teaspoon vanilla, and almond flavoring; beat until soft peaks form. Peaks should be soft enough so they bend over slightly at the tips. Gradually add 1 cup white sugar, continuing to beat until stiff peaks form. Sift about 1/4 of the flour mixture over the egg whites, and using flat spatula, quickly but gently fold into egg whites. Repeat using 1/4 of the flour mixture each time. Pour batter into clean tube pan. Gently cut through batter with knife to remove air pockets."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake for about 30 to 35 minutes, until an inserted wooden pick comes out clean. Invert pan onto a wire rack to cool for 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Beat 2 cups confectioners&#39; sugar, butter, cream, and 1 teaspoon vanilla together until smooth. Add more cream or confectioners&#39; sugar as needed. Frost the cooled cake."
+} ]
+,"recipeYield": ["14"]
+,"totalTime": "PT90M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hopeful"
+},
+"reviewBody": "It light and airy, taste great! Love this recipe!\nI will be making this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tracy Goodman"
+},
+"reviewBody": "This recipe is not new, i have been using it for 40 years"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SaidnoZs"
+},
+"reviewBody": "No, I didn't make any changes--left it as is--and it's been a great angel food cake--every time I've made it--since 2014! I haven't made it so far for anyone's birthday yet."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Roxana Maciejeski"
+},
+"reviewBody": "Delicious and easy to make. I never had this cake and it was the first time making one also. I put more cream to the frosting and whip cream on top"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "aliday7"
+},
+"reviewBody": "I make angel food cake every year for my husband's birthday per his request, and I've used this recipe the last three years. It always turns out perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Vicki"
+},
+"reviewBody": "Made this cake for my grandson's 10th birthday (without the frosting). He has a dairy allergy and is unable to eat most cakes, so it was a perfect choice and he loved it. Several people said it was the best angel food cake they've ever had. It was moist with a great flavor. Quite easy to make. Served it with strawberries, blueberries, and raspberries and Simple Strawberry Syrup (recipe on this site), with whipped cream on the side (for those without a dairy allergy). Lots of compliments received. I will definitely be making this again, because my hubby is crazy about angel food cake. Thank you for this great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sandi Langman-Corboy"
+},
+"reviewBody": "My first time making an Angel Food cake and this turned out perfect! Watched the Allrecipe's video before I started, which gave me some great tips and away I went. Perfect results. Made a butter cream vanilla glaze. Will be making this often when I figure some great recipes to use up all the egg yolks that are left over."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kym's Kitchen"
+},
+"reviewBody": "I changed 3/4 cup of confectioner's sugar to 1 cup of confectioner's sugar. I also added 2 cups mini chocolate chips to the batter just prior to pouring it into the pan. The cake turned out well. I chose not to frost it but dusted it with sifted confectioner's sugar instead."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "buckin_fananas"
+},
+"reviewBody": "Great recipe! Easy to follow and turned out great. I'd recommend a different icing, though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "cluelessdramacook"
+},
+"reviewBody": "REALLY GOOD ICING!!!!!!!!!But too sweet less sugar but all in all VERY good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "daphne"
+},
+"reviewBody": "awesome recipe!!!!! not a one complaint"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anna Karrer"
+},
+"reviewBody": "I don't like Angel Food Cake and this was also my first try making it. It was a hit as my Grandma's 90th Birthday Cake. It was completely demolished. Easy to follow, simple recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "AnnaBanana"
+},
+"reviewBody": "Awesome angel food cake recipe! I was so afraid I was going to do something wrong and mess up the recipe, but I followed the directions exactly and it came out beautifully! Thank you so much for the recipe, I will never look for another!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "landyjo"
+},
+"reviewBody": "Wow. I didnt think people actually make angel food cake. I thought you just bought it at the store. (well, i guess some one had to make it.) But I DID IT. I was way scared to try but i did it and it was awesome!!! I am so proud. I didnt make the icing, i just used strawberries. But it was so light and airy. I dont Have one compliant. Definitely will make again!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BusyBeeTami"
+},
+"reviewBody": "As someone who never made an angel food before, this was scary! I decided to try this in muffin tins, so I had to judge the baking time. They were done in about 13 minutes, and didnt really look done, but the toothpick test doesnt lie. I am so proud, perfection! Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "lilamonster"
+},
+"reviewBody": "This was a really great, simple recipe. I have always thought I couldn't make an angel food cake, but we enjoyed this! I didn't use the cream of tartar (didn't have it) and it still came out nice. Thanks for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "KitchenWitch"
+},
+"reviewBody": "I think the baking time and temp may be off on this. It just didn't seem to bake right I guess, seemed too wet... I think it may benefit from a lower oven temp and a longer baking time. Anyway, I added 1/2 cup of red, white, and blue sprinkles to the batter because I made it for the 4th of July. I froze the cake, then after it was frozen I wrapped it in plastic wrap and kept it frozen for a couple days until I was ready to frost it. I had to triple the frosting recipe to get the coverage and decor I needed. Then I added blueberries and sliced strawberries for decoration. Turned out very pretty, tasted good too. The mystery of the sogginess evades me, but I'll try it again sometime."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "pitvet"
+},
+"reviewBody": "I love this recipe - it is easy to do, but the almond extract and cream of tartar really make it excellent. The only thing I change is that I cut the white sugar down to 3/4 cup. I don't like things super sweet and this makes it perfect. I also don't use the frosting. I just whip some cream with a little powdered sugar and slice fresh strawberries. Delish! It's dangerous to keep on the counter. I am always grabbing chunks as I walk by."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Basia"
+},
+"reviewBody": "I made this for a very special baby shower. Everyone loved it and said it was sooo much better than store bought or from a boxed mix. I added lemon juice and lemon zest to the mix with the vanilla. For the \"frosting\", made a lemon glaze for the top and just a little drizzled down over the side and decorated it with whole strawberries. It looks better if the strawberries are fresh so that the taste is optimum and the green tops look better. Definately will make again!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "angelcookr"
+},
+"reviewBody": "wow delish in a dish corny but true"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Leah J"
+},
+"reviewBody": "I think I may have used the wrong pan, but it came out a bit heavy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathy D."
+},
+"reviewBody": "This is my first angel food cake and this recipe is fabulous! Light yet rich and so sweet and fragrant. I will definately make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JP"
+},
+"reviewBody": "My first cake from scratch and it was unbelievable. Pipe a mix of 8oz Neufchatel cheese, 3 cups conf sugar, 1 tsp van extract sparingly across it and sprinkle with strawberries, blueberries, and raspberries. It made a wonderful summertime birthday cake."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ms. Chef Esh"
+},
+"reviewBody": "Wonderful angel food cake recipe! I made this for my daughter's 15th birthday, she loves angel food cake. She wanted a \"funfetti\" cake, so I added in about a half of cup or so of sprinkles and it was so adorable!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Patricia"
+},
+"reviewBody": "I use a 9x13 greased pan and bake for 25 minutes. With no fat in the cake and only 1/4 cup butter in the frosting, I make this cake every week. My husband and I can't get enough. I made it for a family party today and two of my sisters wanted the recipe. It's the best."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "rollmeup"
+},
+"reviewBody": "sweet. it kept fresh for a long time. spongy texture, but fun to eat. yum."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Babygurlboop2"
+},
+"reviewBody": "personally for my taste this recipe was a big dissapointment....i thought maybe this would be a different and better take on the angel food cake recipe but it wasn't"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "alicemaria"
+},
+"reviewBody": "The best Angel Food Cake I have ever tasted, and great icing! I love this cake."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Frank"
+},
+"reviewBody": "I hadn't made an angel food cake from scratch for a long time. This recipe was heavenly and unfortunately I ate the whole cake in a few days. The powdered sugar makes all the difference. I wish all recipes were this good!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LVANDERVORT"
+},
+"reviewBody": "I'm not much on sweet frostings these days - but this cake is perfect - and I served it with mascerated strawberry/blueberry mixture. Very much like my gran's angel food cake recipe. The powdered sugar in the flour makes a difference! Be sure to FOLD in the flour to maintain the light fluffy texture. Almond extract is oh-too good - and just like Grandma's!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "*Lisa*"
+},
+"reviewBody": "This was very tasty. I added a cup of blueberries to the batter and sprinkled a few on the top of the icing. Very good. I also used half splenda for the cake part."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "BOLOTY"
+},
+"reviewBody": "I make 3-4 angle food cakes a month .Followed the recipe exactly. It did not rise much and there was not much taste which is odd considering I even put in acouple extra drops of almond extract. I will not make this recipe again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "BARNKITTY"
+},
+"reviewBody": "Well, this was my first attempt at angel food cake and I have to say I'm pleased. Didn't have cake flour, so just went a little light on the all-purpose. No vanilla, so used a little more almond. No cream for the frosting, so used a little milk. In spite of all that, it still was tasty! It was a little dense, but that could have been from the flour. Still moist, springy, and melt in your mouth good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This cake was really tastey.It was easy to make. I don't think it rose quite as much as it should have. I think I will try a different frosting next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I am a real cooking novice, and this was the first time I made angel food cake (for my husband's birthday) and it was yummy. But it was kind of hard! I had some trouble getting the cake to come out of the pan and I had to scrape it out a little bit; I wonder if it's from not letting it cool long enough? Or cooking it too long? Also, I think I may have"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BBFITZ"
+},
+"reviewBody": "Boy was this good, I usually buy Angel Food cake at my local grocery store, but no more. Very easy and came out perfect. Thanks Carol for sharing this GREAT recipe!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This cake was divine. It came out beautifully. I skipped the icing and served with strawberries adn fresh whipped cream. It was delicious. So much better than store-bought and not too difficult to make. Highly recommend!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This was soooo easy to make! I put the cake in large muffin tins to cook quicker (reduce cooking time so watch 'em). I made a custard sauce with half the yolks, 1/4 cup sugar, 1 1/2 cup milk and 1 tbl vanila over a double boiler and I had a wonderful quick dessert that took all of 30 minutes to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Excellent texture, easy to make, but a little tasteless."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This cake is delicious and the texture is perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "KRYSTAG"
+},
+"reviewBody": "Very sweet and good. Practice your folding first! Impressed with my first attempt at angel food cake - something that people say is difficult to make. Husband and daughter loved it. Will definitely make again, and I plan on trying the sprinkles in the batter!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This was my first attempt to use my new Kitchen Aid Mixer &amp; this cake turned out just wonderful! Beautiful texture &amp; flavor. I made a chocolate glaze for the top. I will make this again &amp; again. I didn't know homemade angel foods were SO easy! Thanks!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Thanks for the icing recipe! It tastes great and was quick and easy to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jeffyjs"
+},
+"reviewBody": "This is a great recipe. The cake was very moist. My husband loved it! The icing was a little too sweet so I served it with fresh berries. I will definitely use this one again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "We have our own eggs and I often make angel food cake when I get too many. This recipe was great-much better than the one I usually make. I will use it from now on."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I made this for my daughter's birthday over the weekend because she loves angel food cakes. I never had made one from scratch. This was so good that I will never make a box one again. Her boyfriend wants me to make another one for tomorrow which is her exact birthday because they loved it so much!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/7751/angel-food-cake-ii/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/276/desserts/cakes/",
+"name": "Cakes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1531/desserts/cakes/birthday-cake/",
+"name": "Birthday Cake Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/7751/angel-food-cake-ii/",
+"name": "Angel Food Cake II"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

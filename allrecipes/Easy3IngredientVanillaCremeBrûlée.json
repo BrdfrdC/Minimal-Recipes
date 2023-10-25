@@ -1,0 +1,151 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Easy 3-Ingredient Vanilla Creme Brûlée"
+,"datePublished": "2021-03-25T09:00:08.000-04:00"
+,"dateModified": "2021-03-25T09:00:08.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Annie Campbell"
+,"url": "https://www.allrecipes.com/author/annie-campbell/"
+}
+]
+,"description": "Smooth, creamy, restaurant-quality creme brûlée only requires 3 ingredients! Make them a few hours or even days before you&#39;re planning to serve. Chances are, you won&#39;t even need to make a grocery run."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/EEkDM9bsfPaOZchmj_HKbJKQLFE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simple-Creme-Brulee-3cd4073d7e9b43f789a2973275f94c70.jpg",
+"height": 960,
+"width": 960
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=6243181965001",
+"description": "You can make creme brulee with just 3 ingredients and save it in the fridge for a few days. Annie tries making this super easy recipe, and the result is amazing.",
+"duration": "PT3M40S",
+"name": "We Tried Smooth & Creamy 3-Ingredient Creme Brulee | We Tried It | Allrecipes.com",
+"thumbnailUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/2f875835-be72-41e4-8783-21e242e3afa1/de1230fa-5fd2-4c59-958b-33455213733b/1280x720/match/image.jpg",
+"uploadDate": "2021-03-26T16:59:53.078-04:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Easy 3-Ingredient Vanilla Creme Brûlée"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4",
+"ratingCount": "2"
+}
+,"recipeIngredient": [
+"1 cup Frozen desserts, ice cream, vanilla",
+"2 large egg yolks",
+"2 tablespoons Sugars, granulated" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 325°F. In a microwave-safe bowl, heat the ice cream in 20 second intervals, stirring between, until melted. Let the ice cream cool for 5 minutes. Whisk in egg yolks one at a time until the mixture is smooth and consistent. Pour evenly into 2 oven-safe ramekins."
+} ,{
+"@type": "HowToStep"
+,"text": "Move the ramekins to a baking dish with a high rim. Pour boiling water into the baking dish until half-way up each ramekin. Bake for 40-50 minutes or until set but still jiggly in the center. Allow to cool completely, then wrap with plastic wrap and transfer to the fridge for 2 hours or up to 3 days."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/EEkDM9bsfPaOZchmj_HKbJKQLFE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Simple-Creme-Brulee-3cd4073d7e9b43f789a2973275f94c70.jpg"
+}
+]
+,"text": "When ready to serve, let the ramekins come to room temperature for 30 minutes, then sprinkle 1 tablespoon of sugar over each creme brulee. If you have a kitchen blow torch, torch the sugar until golden and bubbly. If you don&#39;t, broil on the top rack of the oven at 500°F for 2-3 minutes, watching to make sure they don&#39;t burn. Serve immediately."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT225M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "TERIJH"
+},
+"reviewBody": "This was far eggier than I would have preferred. It was incredibly quick and easy to prepare. I wouldn't serve it to guests. I probably wouldn't make it again, unless I had some weird need. I tried using the broiler part of my toaster oven to finish the sugar topping but that NEVER worked. It did work in my oven, but it took a while."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "pervier"
+},
+"reviewBody": "Made this with 4-year-old grandchild today, it turned out great, even though we skipped the broiled sugar, so it was really only 2-ingredients."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8211182/easy-3-ingredient-vanilla-creme-brulee/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/363/desserts/custards-and-puddings/",
+"name": "Custards and Puddings"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/14444/desserts/custards-and-puddings/creme-brulee/",
+"name": "Creme Brulee Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8211182/easy-3-ingredient-vanilla-creme-brulee/",
+"name": "Easy 3-Ingredient Vanilla Creme Brûlée"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

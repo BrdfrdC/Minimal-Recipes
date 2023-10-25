@@ -1,0 +1,382 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Memphis BBQ Pork Totchos"
+,"datePublished": "2015-12-15T15:28:41.000-05:00"
+,"dateModified": "2015-12-15T15:28:41.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Leslie Kelly"
+,"url": "https://www.allrecipes.com/cook/lesliedines"
+}
+]
+,"description": "These BBQ pork totchos, Tater Tots® topped with cheese, barbeque sauce, and coleslaw, bring the southern flavor to a favorite bar food."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/aQP9HogKWTr72pP2I4K5qxOwFU0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4469100-b3465cdf42014438920bb3c82d66d52d.jpg",
+"height": 960,
+"width": 960
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=4920855211001",
+"description": "Take your nachos South for BBQ fun!",
+"duration": "PT1M9S",
+"name": "Memphis BBQ Pork Totchos",
+"thumbnailUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/93a13c91-82b4-4802-ab51-a3cd787f6084/61b9206b-2827-45e6-ac6b-f12d3bb0efb5/640x360/match/image.jpg",
+"uploadDate": "2020-11-17T22:04:45.486-05:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Memphis BBQ Pork Totchos"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "22"
+}
+,"cookTime": "PT45M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "619 kcal"
+,"carbohydrateContent": "57 g"
+,"cholesterolContent": "105 mg"
+,"fiberContent": "5 g"
+,"proteinContent": "32 g"
+,"saturatedFatContent": "12 g"
+,"sodiumContent": "1675 mg"
+,"sugarContent": "8 g"
+,"fatContent": "32 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 (28 ounce) package frozen bite-size potato nuggets (such as Extra Crispy Tater Tots®)",
+"2 cups shredded pepperjack cheese",
+"2 cups cooked pulled pork",
+"0.5 cup chopped white onion",
+"0.25 cup chopped pickled jalapeno peppers",
+"0.5 cup barbeque sauce (such as Cattlemen's®)",
+"1 cup prepared coleslaw",
+"1 bunch green onions, sliced" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat oven to 425 degrees F (220 degrees C). Arrange potato nuggets in a single layer on a baking sheet."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven for 20 minutes. Shake baking sheet and continue baking until potato nuggets are extra crispy, 20 to 24 minutes longer. Remove baking sheet from oven and turn on oven&#39;s broiler."
+} ,{
+"@type": "HowToStep"
+,"text": "Top potato nuggets with pepperjack cheese, pulled pork, onion, and jalapeno peppers. Drizzle barbeque sauce over &#34;totchos&#34;."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/aQP9HogKWTr72pP2I4K5qxOwFU0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4469100-b3465cdf42014438920bb3c82d66d52d.jpg"
+}
+]
+,"text": "Broil in the preheated oven until cheese starts to bubble, 5 to 7 minutes. Top &#34;totchos&#34; with coleslaw and green onions."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT60M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Corinna Wright"
+},
+"reviewBody": "They look 👀 and smell so good!! They taste even better"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "It was so good! The only thing I'd change would be to bake the tater tots separately so all of them are still crispy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "brice51112"
+},
+"reviewBody": "i made this generically. i used frozen pulled pork added seasonings,bbq sauce, and chopped onions. i simmered in pan on stove top while tots were pre-cooking and then i followed the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Donna Meyer Hafner"
+},
+"reviewBody": "I made this without the coleslaw because I didn’t have any. It was delicious! Now I want to try it with the coleslaw."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laura C"
+},
+"reviewBody": "Lovely - added cooked bacon to the topping as well"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Bddymom"
+},
+"reviewBody": "My husband loved it and wants it again. I used pulled chicken and did a smaller recipe. My only concern is the amount of fat and sodium, which is probably what makes it taste so good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chef Dave"
+},
+"reviewBody": "Excellent way to enjoy the pulled pork without the bun. Fun !"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "pennelopepea"
+},
+"reviewBody": "I do not eat pork, so I took the shredded beef I had on hand and added 2/3 bbq, 1/3 wing sauce. Mixed together and put on top the already cooked, crispy tots. I put the shredded jalapeños jack cheese on top and broiled for 7 mins. I put sliced avocado on top with lime juice and some sour cream. It was soooo delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brushjl"
+},
+"reviewBody": "thanks for this! I had leftover pulled pork and Cole slaw and a bag of tater tots I bought with a coupon. talk about a cheap but delicious meal!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "abbyz2000"
+},
+"reviewBody": "This was so easy! I really liked it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carin"
+},
+"reviewBody": "We had 6 people give it two thumbs up! We made the tots extra crispy! Will definitely be making again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lynne O"
+},
+"reviewBody": "I made this for my husband and me for the Super Bowl. (Just the two of us.) He loved it! I didn't really measure, but used the basic recipe. I made the tots in two 9\" cake pans, then we built our own. His had more tots, a lot of pulled pork, lots of jalapeno slices, hot bbq sauce, and the pepperjack cheese. (He likes a lot of heat!) Mine had less tots, a moderate amount of pork, no jalapeno slices, mild bbq sauce, and cheddar cheese. (Yeah, I'm a wimp.) We were both extremely happy with our efforts. Just the way we wanted! Will definitely make it again!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "PPK"
+},
+"reviewBody": "Different but intriguing. Can be made also with shredded chicken. I think just hamburger, taco seasoning, the pepper jack cheese, coleslaw etc minus the BBQ sauce would be good also. I used tiny tater tots so they'd be sure to be extra crispy like the recipe called for. Ore Ida potato crowns would work also for the extra crispy tots. Will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Yancando"
+},
+"reviewBody": "I used the following \"cheats\" to make this recipe faster and easier. Bought coleslaw from the deli, and used two bowls of Curly's BBQ pulled pork instead of making my own. 30 minutes in a 425 convection oven was long enough for the tots to be nice and crisp. While I'm sure homemade coleslaw, pulled pork and BBQ sauce would be even better, I've got to say this short cut way was super delicious! I'd serve this to company any day!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Laura Swanson"
+},
+"reviewBody": "This was very good. We've made pulled BBQ pork on baked potatoes before, and this was a delightful variation on that. Loved the addition of jalapenos to spice it up and the coleslaw was an interesting flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rebby Becky"
+},
+"reviewBody": "I put some pork tenderloin in the slow cooker with broth to get a head start on this recipe. It was very delicious and everyone in my family ate it, including my son who is very picky!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bakermaria"
+},
+"reviewBody": "This is a great idea. Husband made a pork shoulder yesterday to serve at a super bowl party and found this recipe on here. We had to go buy the ingredients to make this so he could try it. He used his pulled pork, home made bbq sauce that our daughter makes , bread and butter jalapenos and he added some ghost pepper salsa, and I made a lime cilantro cole slaw, other than that he followed the recipe exactly and it was awesome. We are serving this today for our super bowl party. He would give this more than 5 stars if it was possible."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Soup Loving Nicole"
+},
+"reviewBody": "Loved this! I finished the pork off on the grill pan as the submitter mentioned in the footnotes and this raised the recipe to a whole new level. 5 stars all the way!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/245719/memphis-bbq-pork-totchos/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/104/appetizers-and-snacks/cheese/",
+"name": "Cheese"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1228/appetizers-and-snacks/cheese/nachos/",
+"name": "Nachos Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/245719/memphis-bbq-pork-totchos/",
+"name": "Memphis BBQ Pork Totchos"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

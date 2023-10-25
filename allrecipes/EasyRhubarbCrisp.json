@@ -1,0 +1,760 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Easy Rhubarb Crisp"
+,"datePublished": "2020-06-19T00:02:59.000-04:00"
+,"dateModified": "2022-08-16T16:24:38.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Baking Girl"
+,"url": "https://www.allrecipes.com/cook/12769944"
+}
+]
+,"description": "In this rhubarb crisp recipe, tart rhubarb is layered between a buttery oat crust and oat crumble topping — a great way to use extra rhubarb in the spring."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/bwjtf8nlA5UWKq9L0FkFDB_9-C4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Easy-Rhubarb-Crisp-Lisa-2000-f94a7cea40604c18ac1b4e9276ae0c9d.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Easy Rhubarb Crisp"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "60"
+}
+,"cookTime": "PT65M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "329 kcal"
+,"carbohydrateContent": "59 g"
+,"cholesterolContent": "24 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "6 g"
+,"sodiumContent": "75 mg"
+,"sugarContent": "42 g"
+,"fatContent": "10 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1 cup all-purpose flour",
+"1 cup brown sugar",
+"0.75 cup oats",
+"0.5 cup melted butter",
+"1 teaspoon ground cinnamon",
+"4 cups diced rhubarb",
+"1 cup white sugar",
+"1 cup water",
+"2 tablespoons cornstarch",
+"1 teaspoon vanilla extract" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C). Grease a 9x13-inch baking dish."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix flour, brown sugar, oats, butter, and cinnamon together in a bowl until crumbly. Press 1/2 of the oat mixture into the bottom of prepared baking dish. Sprinkle rhubarb over oat mixture."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine white sugar, water, cornstarch, and vanilla in a saucepan over medium heat; cook and stir until thick and clear, about 5 minutes. Pour sugar mixture over rhubarb. Sprinkle remaining oat mixture over rhubarb."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until the crisp is lightly brown and bubbling, about 1 hour."
+} ]
+,"recipeYield": ["10"]
+,"totalTime": "PT85M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I made this with Cherry &amp; Rhubarb!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa"
+},
+"reviewBody": "I just added a little less rhubarb and sprinkled some Saskatoons on top, then the oatmeal topping. Sooo yummy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I added chopped pecans on half. I used instant oats but think it would’ve been better with regular oats. Nevertheless, I’m still getting high praise from everyone consuming it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Emily23"
+},
+"reviewBody": "Turned out wonderful~Will make again using this recipe for sure~"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sadie red Merle mom"
+},
+"reviewBody": "I read the reviews about being too sweet, so I made two pans to test side by side. The full sugar version is quite good. I reduced both the brown and white sugar to 3/4 cup of each. The reduced sugar version has more of the tart rhubarb-style taste I love. I will make the reduced version again. I will consider upping the topping. To get a good enough base you use about 3/4 of the batch, leaving the topping a little thin. One note, it took much longer than 5 mins to get the sauce thick and clear. Also, the corn starch clumped up the first time I made it. So the second I pre-slurried it before adding it into the pot. This is for sure a way for me to contend with my bounty of rhubarb! Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "So good even though I only had margarine, not butter. I put down a light pecan crumble on the bottom and yummmmm"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jessica H"
+},
+"reviewBody": "We loved it. I doubled the crumb mix and used old fashioned oats. I also cooked the rhubarb a little in the sauce before pouring over the crust."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cari Edler Najera"
+},
+"reviewBody": "I made this today for my husband's birthday because he loves rhubarb and he says it is awesome. He said just the right amount of sweetness and the crisp part is really good too. This recipe will be my go to for rhubarb!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Julia Ann Rasmussen"
+},
+"reviewBody": "I adjusted the ingrediants down to 4 servings. I did not have enough rhubarb, so I did 2/3 strawberries, 1/3 rhubarb.\nI placed the sugar, fruit mixture into 4 custard cups, then topped with the crumble mixture. It turned out good. I plan to make again. I think I will cut back a bit on the white sugar next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JamieMcSki"
+},
+"reviewBody": "Turned out great, I used 3/4 cup of sugar,and 3/4 cup of water but added the juice of half a lemon to my water before mixing. Was perfectly balanced and I ate more than I should have. Great, easy recipe, will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Juanita Ellis Davis"
+},
+"reviewBody": "Delicious!!!!\nMy hubby and grandz just loved this and so easy to make!\nI sprinkled some strawberry jello powder on the top to add some strawberry flavour.\n \nThank you for sharing your recipe !!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hot tea"
+},
+"reviewBody": "This was simple and so tasty! I had half the rhubarb needed, so I used half strawberries and added a squeeze on lemon for zing. I did 75% the brown and while sugar and it was plenty sweet. I also doubled the crumb topping /crust. The proportions with the doubled crumbles were so good, but pretty hearty. I may try to make the standard recipe for a lighter dessert."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sue Calvert Hallman"
+},
+"reviewBody": "Very easy to make! I am still waiting for it to come out of the oven!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Mabel F"
+},
+"reviewBody": "Full of sugar! Tasted very good but was sloppy and too sweet."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Debbie"
+},
+"reviewBody": "increased oats slightly and baked in 8-1/2X11 pan"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cindy "
+},
+"reviewBody": "Excellent Recipe! Will make it again:)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Letitia Tappa"
+},
+"reviewBody": "It's good, but I had to make some changes for our dietary restriction--gluten free. I substituted a gf granola for the oats. \n\nAlso, I used orange juice instead of water (it helps sort of neutralize the rhubarb).\n\nI might make it with a bit less sugar next time.\nBut it was really good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lynnette Leger"
+},
+"reviewBody": "Very easy and very good! Only complaint it don’t last!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rachel"
+},
+"reviewBody": "Because we have an older type of rhubarb that is very sour this recipe works perfectly for it. I had some trouble with my first batch of cornstarch syrup not thickening--I must have done something wrong because I made a second batch and it thickened just fine. Added a pint of canned sour cherries because I prefer more filling but otherwise made it as described. Very good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Rebecca"
+},
+"reviewBody": "I love all things rhubarb and this was pretty tasty. My main complaint is that there wasn't enough \"crisp\" on it. I even doubled the crisp when I made it and still felt like it needed more. I prepared it at home and cooked it at my mom's house while we were BBQing. Once it came out of the oven we topped it off with some vanilla bean ice cream. YUM-O"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rex Urban"
+},
+"reviewBody": "Very easy. I like the crunch on the bottom and the top."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "steve h"
+},
+"reviewBody": "Made this several times this year! Best recipe yet!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "antiquealleygirl"
+},
+"reviewBody": "It turned out fantastic! Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Char H"
+},
+"reviewBody": "The sugar cornstarch made a huge difference. Very good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Dick Fitze"
+},
+"reviewBody": "next time I will use half the sugar called for....this was way too sweet"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Angela Helms"
+},
+"reviewBody": "Made this with fresh rhubarb and frozen crab apples from last fall. It truly was an Alaskan dessert."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Angie Reese Murray"
+},
+"reviewBody": "Don't recommend this recipe. Mixture super sticky hard to work with. Cooked sugar mixture more than 5 minutes never thickened or got clear."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MJ Curry"
+},
+"reviewBody": "I did half rhubarb and half strawberries. Delish!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "April"
+},
+"reviewBody": "One of the best rhubarb crisp recipes! Sweet (but not too sweet), and the crisp is actually crispy and not gooey! Love it, and it will become my 'go to' recipe again!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "cetuo67"
+},
+"reviewBody": "Bottom stuck so next time I will not put in the bottom layer; otherwise it was easy to put together &amp; good flavor. I doubled the rhubarb amount too since I find all recipes for crisp short on it &amp; it makes it a little more tart."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Leann Langfitt"
+},
+"reviewBody": "Wonderful!! The best Rhubarb Crisp that I have ever eaten..Excellent warm with ice cream!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LaVonne"
+},
+"reviewBody": "I used frozen fresh rhubarb, utilizing the juice strained off as the water. I also made 1/2 again as much “crust” as we like more available to sprinkle on top ??"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bird"
+},
+"reviewBody": "I added a little salt to the topping and used 1/2 strawberries, since I didn't have enough rhubarb. Everyone loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "mwhited"
+},
+"reviewBody": "Don’t repeat. Too heavy w streusel on bottom and top. Corn starch makes fruit too gummy. Try Emily Luchetti’s crisp from her cookbook, Stars Desserts...excellent, light and fruit flavors shine through."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Angie Taylor"
+},
+"reviewBody": "Easy peasy recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "elizabeth"
+},
+"reviewBody": "Too sweet. Only made it once and would either use 1/2 the sugar or choose another recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sharon Bryson Campbell"
+},
+"reviewBody": "Very delicious and I do not like rhubarb"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Greta"
+},
+"reviewBody": "Tasted stupendous, BUT i recommend making more crumble so it is more crunchy and not just goo. Here is how i cut it in halves :D\n1/2C flour\n3/8 oats\n3/8 brown sugar OR 1/2 sugar if you didn't cut\n1/4C melted butter\n1/2 teaspoon cinnamon"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Louise Orsetti Leck"
+},
+"reviewBody": "I made this exactly as written, but instead used Splenda products for the sugars listed. Enjoyed it. The cooked sweetened mixture was much like making a lemon pie. I squeezed half of a lemon's juice over the rhubarb before putting the topping on. It is a reliable recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Dee"
+},
+"reviewBody": "Could not get it out of the pan. The syrup that you coat over the crumbs just all stuck together. Will not make it again. So disappointed."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Trimbo Mary"
+},
+"reviewBody": "Easy to make, I've made it twice &amp; my sister used same recipe &amp; like a lot too"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kitchen Carol"
+},
+"reviewBody": "I put all the crumble mixture on top. Loved it with half and half. Fresh cream would be divine"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Paige"
+},
+"reviewBody": "Pretty sweet, would cut down on the sugar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "lani"
+},
+"reviewBody": "It was just ok not enough rhubarb and two much sugar so it was way to sweet."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "joelharvo"
+},
+"reviewBody": "My 12 year-old kid made this all by their self. They used 3/4 cup of white sugar, instead of 1 cup. We all loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Dana Weisheit"
+},
+"reviewBody": "My 10 yr old made this while using rhubarb for the first time. We were impressed. I thought it was a little too sweet, so I would consider cutting down on the sugar. She served it with whipped topping. The creamy topping was a great combination with the sweet and tart."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "HollyD"
+},
+"reviewBody": "This was my first time cooking with rhubarb. I wasn't sure how many stalks to equal the correct amount so I ended up having to cut the recipe in half. It was one of the best desserts I've ever tasted! I will attempt the full recipe very soon. I bought 9 stalks of rhubarb this time instead of 4."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Phoebe"
+},
+"reviewBody": "4.5, used less white sugar in the syrup as sweet enough already, very nice!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/242191/easy-rhubarb-crisp/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/15840/desserts/crisps-and-crumbles/",
+"name": "Crisps and Crumbles Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16556/desserts/crisps-and-crumbles/rhubarb-crisps-and-crumbles/",
+"name": "Rhubarb Crisps and Crumbles Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/242191/easy-rhubarb-crisp/",
+"name": "Easy Rhubarb Crisp"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

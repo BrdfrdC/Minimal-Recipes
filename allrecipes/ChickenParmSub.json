@@ -1,0 +1,149 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Chicken Parm Sub"
+,"datePublished": "2022-09-22T20:03:00.000-04:00"
+,"dateModified": "2022-09-22T20:03:00.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Bibi"
+,"url": "https://www.allrecipes.com/cook/bibi"
+}
+]
+,"description": "These homemade chicken parm take minimal effort and are quick and easy to make."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/vu_gePLsRUsGpgO85GbdOvtLDyc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Chicken-Parm-Sub-4x3-1-dcbb0d4cc82f492f992a05393a9431cc.jpg",
+"height": 960,
+"width": 1280
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Chicken Parm Sub"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "1"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "691 kcal"
+,"carbohydrateContent": "61 g"
+,"cholesterolContent": "43 mg"
+,"fiberContent": "8 g"
+,"proteinContent": "31 g"
+,"saturatedFatContent": "11 g"
+,"sodiumContent": "1543 mg"
+,"fatContent": "37 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"cooking spray",
+"4 frozen breaded chicken breast fillets",
+"0.5 cup freshly grated Parmesan cheese",
+"1 (16 ounce) package frozen garlic bread, thawed",
+"1 cup tomato sauce or marinara sauce",
+"4 slices provolone cheese",
+"12 fresh basil leaves, or to taste",
+"aluminum foil" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 425 degrees F (220 degrees C). Spray a baking pan with vegetable oil spray."
+} ,{
+"@type": "HowToStep"
+,"text": "Place frozen chicken fillets on the prepared pan and bake for 10 to 12 minutes. Turn chicken, sprinkle 2 tablespoons Parmesan cheese on each fillet, and bake until crispy, an additional 10 to 12 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Slice garlic bread into 4 equal portions. Open each portion and place garlic side up on a baking sheet. Warm garlic bread in the oven about 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "To assemble the sandwiches, place a chicken fillet on a piece of garlic bread, spoon 1/4 cup tomato sauce or marinara sauce on top of the chicken, and lay a slice of provolone on top of the sauce. Place 3 basil leaves, or more to taste, on each sandwich, and top with the other half."
+} ,{
+"@type": "HowToStep"
+,"text": "Wrap each sandwich in foil and return to the oven until the cheese is melted, 5 to 8 minutes. Unwrap and serve warm."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT35M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Roy Munson"
+},
+"reviewBody": "Place cheese on the parm about a minute before removing from oven. Lightly toast bread before assembly and eating. Fresh fried green beans and a tossed salad on the side!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8465709/chicken-parm-sub/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/251/main-dish/sandwiches/",
+"name": "Sandwich Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1032/main-dish/sandwiches/chicken/",
+"name": "Chicken"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8465709/chicken-parm-sub/",
+"name": "Chicken Parm Sub"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

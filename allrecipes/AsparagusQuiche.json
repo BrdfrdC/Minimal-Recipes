@@ -1,0 +1,1442 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Asparagus Quiche"
+,"datePublished": "2000-06-09T00:31:14.000-04:00"
+,"dateModified": "2022-08-23T12:12:46.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Michele O'Sullivan"
+,"url": "https://www.allrecipes.com/cook/10642"
+}
+]
+,"description": "This asparagus quiche is packed with fresh asparagus, crisp bacon, and Swiss cheese in a buttery, flaky pie crust for a delicious breakfast or brunch."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/uSEd2S8IVPUhzyqWX82lPlBeRb4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-146-779cfd5c279b4a059e7b8d9dec0b880b.jpg",
+"height": 720,
+"width": 1280
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=6249110993001",
+"description": "A delectable combination of ingredients that result in a tasty quiche dish.",
+"duration": "PT1M19S",
+"name": "How to Make Asparagus Quiche",
+"thumbnailUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/472674a1-32cd-49d0-a45a-3705d75cd7d7/6b061118-0cb1-4e1b-91cf-0d7d29cab0e8/1280x720/match/image.jpg",
+"uploadDate": "2022-05-17T15:41:37.528-04:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Asparagus Quiche"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "510"
+}
+,"cookTime": "PT50M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "334 kcal"
+,"carbohydrateContent": "12 g"
+,"cholesterolContent": "106 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "12 g"
+,"saturatedFatContent": "10 g"
+,"sodiumContent": "383 mg"
+,"sugarContent": "1 g"
+,"fatContent": "26 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1 pound fresh asparagus, trimmed and cut into 1/2 inch pieces",
+"10 slices bacon",
+"2 (8 inch) unbaked pie shells",
+"1 egg white, lightly beaten",
+"2 cups shredded Swiss cheese",
+"4 large eggs",
+"1.5 cups half-and-half cream",
+"0.25 teaspoon ground nutmeg",
+"salt and pepper to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 400 degrees F (200 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Place asparagus in a steamer over 1 inch boiling water. Cover and cook until tender but still firm, 2 to 6 minutes. Drain and cool."
+} ,{
+"@type": "HowToStep"
+,"text": "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain bacon slices on paper towels. Crumble and set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Brush pie shells with beaten egg white. Sprinkle crumbled bacon and steamed asparagus into pie shells. Sprinkle Swiss cheese over bacon and asparagus."
+} ,{
+"@type": "HowToStep"
+,"text": "Beat eggs, half-and-half, nutmeg, salt, and pepper in a bowl until well combined. Pour egg mixture on top of cheese."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/uSEd2S8IVPUhzyqWX82lPlBeRb4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-146-779cfd5c279b4a059e7b8d9dec0b880b.jpg"
+}
+]
+,"text": "Bake uncovered in the preheated oven until filling is set, 35 to 40 minutes. Let cool to room temperature before serving."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT70M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Susan"
+},
+"reviewBody": "It was wonderful . Added some roasted red bell peppers because I love the taste and the color they add."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Huge hit at our house! I always make 2 because my Littles like this, and my Big's, hubby, and I like it with a lot more flavor, a lot of extra veggies, and extra meats! Just add an extra egg, cubed ham and/or sausage *I use the brown and serve after frying them with the bacon. I add in broccoli, onions, peppers, mushrooms, and cheddar cheese. There are never any left overs and its very filling!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jan Girven"
+},
+"reviewBody": "This is a go to good meal. Lots of flavor and you always want more."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mary718"
+},
+"reviewBody": "Followed another review and used 1 lb asparagus, 5 slices of bacon, 4 eggs, 3/4 cup cream, 1/4 nutmeg, and 1 cup cheese. Easy and delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "GYPSY_DANCER"
+},
+"reviewBody": "I liked it and thought it was even better the next day. I used an extra egg because mine were not large sized. I swapped Swiss for provolone. I used a frozen puff pastry sheet instead of the pie crust shell. The asparagus was not overpowering, but I did use only the top half of very young asparagus."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "adriennewest71"
+},
+"reviewBody": "Fun to make and fun to eat! I added scallions to this recipe. Do it. You'll love it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Liz H"
+},
+"reviewBody": "I halved the recipe to make one. Subbed finely chopped sage pork sausage for bacon, and cheddar instead of bacon. It's in the oven. I'll change rating if I don't like the way it tastes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JAR63"
+},
+"reviewBody": "Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DaveWill"
+},
+"reviewBody": "Use diced ham and beat the yolk of the 5th egg with the other 4 and 3/4 milk and 3/4 heavy cream - delicious. Great just baked, leftovers OK for breakfast with cherry toms from the garden."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "pkoch"
+},
+"reviewBody": "I happened to have Nueske’s Applewood Smoked bacon already cooked and in freezer and leftover asparagus. I also cut recipe in half sort of-used three eggs and before beating eggs dipped pastry brush in whites to prep crust."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sue Santiago"
+},
+"reviewBody": "Excellent variety of delicious quiche. \nAlways with the greatest recipes. \nThanks. \nSue Santiago"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mark's Recipes"
+},
+"reviewBody": "Easy and came out great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Resort Lady"
+},
+"reviewBody": "Have made with &amp; without a crust. Easy &amp; delicious. Don't need to change a thing. This will be on our Easter breakfast menu."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mel"
+},
+"reviewBody": "Excellent! I roasted the asparagus, some red onion and garlic with olive oil-rather than just steaming the asparagus. (Someone else’s suggestion.)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lane Butler McKay"
+},
+"reviewBody": "delish! added a layer of sliced mushroom. Everyone loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cynthia Ross"
+},
+"reviewBody": "Used store bought pie crust. Shame on ME! But time is short. Used diced ham instead of bacon. Added diced red pepper for color. Very nice"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Memaat"
+},
+"reviewBody": "Delicious! Even my son who says “real men don’t eat quiche” loved it. The only problem is that it’s time-consuming. Next time I will prep the cheese, bacon, &amp; asparagus the day before so it doesn’t take so long"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda"
+},
+"reviewBody": "I also used fried onion and put a little garlic salt in it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Judie Cat"
+},
+"reviewBody": "I didn't like the nutmeg. I also baked the crust for 7 minutes which prevented sogginess. I agree that roasting the asparagus would have added more flavor. Definitely needs onions."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jessica Wright"
+},
+"reviewBody": "Super easy, and delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Knisley"
+},
+"reviewBody": "I made this with a pre-made gluten free crust. Was so good.. even as leftovers for the next several days. We will definitely make this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Maestro Robert Nance"
+},
+"reviewBody": "I used two additional eggs and 2 cups of cream. And since there wasn’t any asparagus in the house, I used broccoli. Turned out great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "valerie"
+},
+"reviewBody": "Love it! Shared the spare with a neighbor. They also gave it a thumbs up."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kim Bernhardt"
+},
+"reviewBody": "I chose this recipe because I had all the ingredients on hand, and it didn't require pre-baking of the pie shells. I did have to alter and add two more eggs and one more cup of milk (had run out of half and half) in order to fill the pies to my liking (one of the extra eggs was the yolk and left over egg white after I brushed the unbaked pie shells). I found that baking for 35 minutes was a tad too long for my oven, but the end result was a golden, delicious quiche that my whole family enjoyed. I will make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Em Eff"
+},
+"reviewBody": "It is very good and quite easy. I will save this anytime I want a quiche recipe that has a crust. I used steamed frozen broccoli and turkey bacon. I thought it needed about half the bacon that it calls for. It's a very good recipe and very versatile. Everyone at my gathering loved it. I added 1/4 tsp salt and 1/4 tsp pepper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Croatian Bear"
+},
+"reviewBody": "Followed exactly except for adding some cubed ham and it was delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "CaliforniaPatricia"
+},
+"reviewBody": "1) Do not add salt to the eggs &amp; cream! There's plenty of salt in the crust, bacon, and cheese already.\n2) Chopped pancetta works better than bacon.\n3) Of course, a handmade crust is far better than a packaged crust."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "gilR"
+},
+"reviewBody": "I did not use a pie crush, just oiled my pan well. \nDid not use bacon either. Not sure how you would taste the nutmeg if I had.\nI used thawed asparagus spears. I should sponge dry them and should have cut them. Hard to cut after it cooked.\nVery tasty. Loved the nutmeg taste."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Katherine Knapp"
+},
+"reviewBody": "It's gone! Can't even take a picture. Great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gr8singer"
+},
+"reviewBody": "I used leftover asparagus, ham from Easter, added mushrooms, onion, cheddar. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Nadine Glomboski"
+},
+"reviewBody": "did not like the asparagus. Next time using spinach."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Keena Burt"
+},
+"reviewBody": "I made this last night, and it’s pretty good. Personally, I like firm asparagus. For that reason, I didn’t bother pre-cooking my asparagus whatsoever, and it came out just the way I like it. The only change I’d make in the future would be to switch out the cheese type. Swiss is cool and all, but I thought this quiche could benefit from a nice Gruyere and more pepper (my fault). Like some of the other reviewers, I kept 4 or 5 asparagus spears intact for decoration on the top. Having those bigger chunks of veg really helped this dish, and I’d suggest y’all do that with your quiche. ??"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "kbd"
+},
+"reviewBody": "Pros: fluffy quiche - the eggs were delicious! \nCons: a little bland. The asparagus did not have much flavor. I wish I had read earlier reviews and sauteed an onion or shallot to add - I think that would have pepped it up a bit. Good basic recipe that I will tweak the next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Craig"
+},
+"reviewBody": "Use half the ingredients listed for one quiche. Add a few slices of red onion."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Annis"
+},
+"reviewBody": "Everyone enjoyed it and it makes a nice presentation."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "froggirl7"
+},
+"reviewBody": "Love it! I had some ground beef I needed to use or freeze and although I prefer the ham I used last time, this still turned out great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Teresa Chester"
+},
+"reviewBody": "Have made this many, many times. Everyone in the family loves it and if we are vacationing in a spot where we have a kitchen it’s always requested. Simple to make and great taste just like it is. Sometimes I’ll add mushrooms but only if I’ve got them handy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sandy"
+},
+"reviewBody": "It was delicious!! I added scallions which added another level of flavor. I will definitely be making it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Barb"
+},
+"reviewBody": "I made this with homemade crust and we liked it a lot. For 2 pies it seems like it may need another couple of eggs. I like the ideas others shared to roast asparagus, add onion or shallot, etc.. Also, I'd like to try it with ham instead of bacon. Good recipe as is though. Thanks for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lewis Skiles"
+},
+"reviewBody": "I made two of these one for Sweet Wife and myself and one for a \"Pie of the Month\" I bake. We very much enjoyed ours, but if I made it again I would add some onion and/or peppers to the filling."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BJH"
+},
+"reviewBody": "I made this for s brunch for the ladies working on getting our new hospital functional. It was an amazing hit with them !"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Judy"
+},
+"reviewBody": "We enjoyed this for our Father’s Day brunch! I made it exactly as the recipe stated and everyone enjoyed it. Thanks for sharing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Betsi Hansen Helgesen"
+},
+"reviewBody": "added 1/4 c flour, precooked shell 8 min, baked 25 at 350. used cheddar only and 1/2 tsp horseradish"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa"
+},
+"reviewBody": "I used 5 eggs and a blend of whole milk and half and half, but otherwise left as is...it was delicious! Will make this one a lot!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa"
+},
+"reviewBody": "I used 5 eggs and a blend of whole milk and half and half, but otherwise left as is...it was delicious! Will make this one a lot!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jnnpppnk"
+},
+"reviewBody": "Reviewer Cyndi roasted the asparagus in olive oil &amp; fine-chop shallot in her toaster oven @ 500 / 15 mins. She says the asparagus has GREAT flavour that way. Let cool before making the quiche. To eliminate soggy bottoms, partially pre-cook two 9\" frozen shells for about 10 mins. And, Cyndi used 2 cups half&amp;half and five eggs (says she didn't beat an egg white)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sunamita Leming"
+},
+"reviewBody": "So delicious! Made this almost exactly as is, the only difference being that I added the yolk (from the egg white) to my egg mixture. My boys had seconds, and one had thirds! Served with a crunchy salad and fresh sliced strawberries."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TammyV"
+},
+"reviewBody": "Made this for Easter brunch and it was a great hit!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Douglas Babbitt"
+},
+"reviewBody": "This is a great recipe! I had 9” pie shells, used 5 eggs and 1.75 cups of 1/2 and 1/2. Came out great!. My new go to quiche recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DebH"
+},
+"reviewBody": "Did what one person did and sautéed the asparagus until tender in a little bacon grease. Didn't have half and half so used mostly pure cream. Absolutely delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda Mott"
+},
+"reviewBody": "Only made one, it was delicious and pretty too! Used 1/2 2% milk And 1/2 half &amp; half. Yes I will make it again!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bonnie K"
+},
+"reviewBody": "I will make this again. It was great just as it was."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Miranda Sanchez"
+},
+"reviewBody": "I love this recipe. I made it for Valentine's and tonight I'm making it again because my husband and I LOVE it! Will definitely add it into my recipes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Suzan Ringlen"
+},
+"reviewBody": "Made this four a small get together. The change I made is that I used frozen asparagus that was left out to thaw. This was done because I didn't care for the fresh which were either shoe string or huge and I felt would effect the consistency. The frozen worked great and saved me work since they came precut. It was a hit!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rodney"
+},
+"reviewBody": "I used this recipe as a base, which means I have to give it five stars or it just isn't fair! I substituted the bacon for 1 cup of canned duck confit (just the meat - the rest will be used used for other decadent purposes), and the Swiss cheese for a Boursin cream cheese that I needed to use. I used two store bought crusts, overlapped a bit in a glass pie plate to make one crust. I baked the egg-white brushed crust for 10 minutes at 450, then allowed it to cool for 10 minutes. The ingredients for the recipe made one perfect deep-dish quiche, filled to the brim but not overflowing. Simple but yummy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ro59"
+},
+"reviewBody": "Perfect! Taste and texture were great. I didn't need to add a thing except a salad to go with it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Auso"
+},
+"reviewBody": "This was excellent. I had one frozen pie crust, so I only made half a recipe. I used 8 pretty large stalks of asparagus. I drizzled it with olive oil and roasted it for a few minutes in the oven, before putting it in the pie shell. I baked the frozen pie crust for just a few minutes before adding the filling. I didn't bother with brushing it with egg white. I used 2 extra large eggs and 3/4 cup half and half. Next time, I might use three eggs to fill the shell a little more."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Barbara Stone"
+},
+"reviewBody": "I love this recipe! It was super simple to make and came out great! I did make one change that another of the reviewers recommended; I sauteed the asparagus in the bacon grease rather than steaming. I also used Wright's Bourbon Barrel Bacon which gave it a little different flavor. Next time I make it, I don't plan on adding the salt before cooking it; with the bacon in there, it was super salty. I will definitely make it again though!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tina Wiggins"
+},
+"reviewBody": "Made according to recipe. It was easy and delicious. Used pet ritz pie shells, but didn't use the deep ones. Like the crust to filling ratio of the shorter, original ones."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lsbfun"
+},
+"reviewBody": "I used mushrooms instead of bacon. Also whole milk instead of cream. Didn't bother using egg white on bottom of crust. Finished product was a little watery next time I will cook mushrooms in pan till tender to remove some water. Flavor was great. Everyone loved it. Will make again with the mentioned change. Yummy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Richard Bement"
+},
+"reviewBody": "The only modification I would suggest is perhaps using a stronger cheese."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Andie"
+},
+"reviewBody": "Added 2 cloves of garlic using garlic press in the \"batter\" mixed it well, and added bavarian smoked cheddar instead of swiss, deliciousness!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "moira"
+},
+"reviewBody": "Loved this recipe - made it per recipe. Wonderful!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carol Nolan Olmstead"
+},
+"reviewBody": "Asparagus is our favorite vegetable. This dish is absolutely SUBLIME!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Larry Neipp"
+},
+"reviewBody": "I have never had a quiche I liked before. I liked this one. I did however roast the asparagus in olive oil and some garlic."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda Essed"
+},
+"reviewBody": "The first time I made this according to recipe instructions and it was good. Tonight I made it again but made some changes. Added 5 eggs &amp; 1/2 c. of milk to the half and half to make it a full 2 cups. In the same skillet that I fried the bacon in after pouring off some of the drippings, I sauteed some onion, along with the asparagus and a clove of minced garlic. One quiche I added a small can of mushrooms the other I didn't as my son doesn't like mushrooms but the rest of us do. They were both delicious. A lot more flavor than steaming the asparagus. The recipe made 2 beautiful &amp; delicious quiches."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Clarissa Spehl"
+},
+"reviewBody": "This is my go to quiche recipe but I can never figure out how much salt and pepper to put in it. Those two ingredients are pretty important in a quiche and I totally get that different people like different amounts but asking someone to \"salt to taste\" in a baked egg recipe is very frustrating for the cook. I cook a LOT and I still sometimes get it wrong. I can't imagine being an amateur cook with that kind of direction."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathy G"
+},
+"reviewBody": "I made this tonight exactly as written and it was AWESOME. I don't get the folks who can't seem to follow directions and then complain about how it turned out. Recipe clearly calls for TWO pie shells. Thanks for a great dinner!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Scottie"
+},
+"reviewBody": "For vegetarian readers: this recipe leans heavily on the bacon for flavor. So, you need to compensate for its omission. In my case, I used half Swiss and half smoked Gouda. I also added some garlic powder, onion powder, spicy mustard and cayenne pepper to the egg mixture. I was short on egg mixture, and had to beat two extra. Perhaps I had small eggs? Whatever the case, excellent base recipe; you can easily swap out ingredients for new quiches."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Donna"
+},
+"reviewBody": "Loved this recipe! Did not use bacon as we do not eat meat. Roasted the asparagus with red onion and garlic (per a review on here) for extra flavor to compensate for the lack of bacon. It was delicious. I also substituted about half of the half and half with milk. Thanks for a great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Rosemary"
+},
+"reviewBody": "I halved the recipe for one quiche, used half and half instead of cream and only used 1/2 cup rather than 3/4 cup. I had freshly picked asparagus with lots of water content, so I cut the liquid a bit. Delicious and beautiful!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "VKARLSBROTEN"
+},
+"reviewBody": "Excellent! I put ham in instead of bacon since that is what I had. Turned out fine. I chopped it up and fried it a bit while the asparagus was cooking and while I was putting the crust in the quiche pan. I also cut the recipe in half...only wanted one quiche. Will definitely make again when fresh asparagus is in season."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "EricO"
+},
+"reviewBody": "Fantastic. I used a puff pastry, microvave bacon and shredded monterey jack cheese. Cut the prep time in half. Quick and easy supper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ima4n6grl"
+},
+"reviewBody": "Doubled the eggs and added a half cup of milk as did not seem to fill the crusts. Used shredded colby jack cheese and omitted brushing crust with egg white. Good recipe! Kids loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "wdrake10"
+},
+"reviewBody": "It was easy to make, but I wasn't a huge fan."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chef Steph"
+},
+"reviewBody": "Delish! I substituted the asparagus for edamame, and the cheese with 1 cup mexican cheese blend, 1 cup blend of parmesan, asiago, fontina and provolone. I also added a little dill weed. My boys couldn't get enough!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "polloscaliente"
+},
+"reviewBody": "This was great, I made it for French class, and it's pretty good! I didn't think it was gonna work at first with the amount of milk, but hey what do you know a perfect quiche appears like majic. I didn't think my cooking was that good even if I followed a recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SH0NI"
+},
+"reviewBody": "This is very good! Instead of steaming the asparagus I sautéed it with some garlic in the bacon grease after I fried the bacon. Also, I am vegetarian so I split everything (except bacon, I halved that) and I made the second one with mushrooms that I sautéed in garlic butter with the remaining asparagus. I add tarragon to all egg dishes and a bit of cayenne. Only had lactose-free whole milk but it worked fine! Would probably be better with the half-half, though!\nThank you for a wonderful Sunday brunch!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "kim"
+},
+"reviewBody": "Very good; I saute the asparagus with some garlic in EVOO instead of steaming but thats just taste preference. Switched out swiss for old cheddar as well, again taste preference"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Scott M."
+},
+"reviewBody": "Delicious. Like others, used the bacon grease to sauté the asparagus and also sautéed garlic and onions."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lynn Edick"
+},
+"reviewBody": "Excellent! I added a bit more of nutmeg, but great dish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tara"
+},
+"reviewBody": "Made this dish exactly as the recipe called for. Looks beautiful and is fantastic!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathleen"
+},
+"reviewBody": "YUM!! And so easy! I have to confess to cheating - used 2 cans of drained asparagus (short on steaming time and I've not had much luck with fresh asparagus - comes out tough and chewy, despite extending the steaming time.) Not normally a fan of swiss cheese, but it goes great in this quiche. Did not do the egg white brush (again - short on time) but this was divine tasting!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ana"
+},
+"reviewBody": "My boyfriend made this recipe for brunch. He is inexperienced in the kitchen and the quiche turned out delicious- I definitely recommend it. He used two 9 inch pie crusts and it turned out just fine."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tanya"
+},
+"reviewBody": "Didn't use a crust, but everything else was the same. Raves at the family brunch"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Blkrebs"
+},
+"reviewBody": "Wonderful and very easy. Like a lot of people, I made some adjustments. First I roasted the asparagus, a quarter of an onion, clove of garlic and half of a tomato. I cut everything after the roasting process and, sans the tomato, put it in the bottom of the pan prior to adding the egg mixture - in accordance with the recipe. I added the roasted tomato, cut into good sized chunks, on the top the last 5-10 minutes of baking. Also, did not have any bacon on hand so I substituted with prosciutto. Finally, I added just a touch of dried thyme to the egg mixture. Awesome!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sharon ssf"
+},
+"reviewBody": "Did a few things 'my' way but loved the recipe! First: we are doing low carb around here so I went crustless :) second: we always cook our bacon in the oven at 400 degrees for 15-20 minutes so since we love roasted asparagus and the oven was heated up already I roasted the asparagus for 5 minutes instead of steaming and then cut it into 1/2 inch pieces. Also, as much as I like cream and half 'n half all I had in the house was 2% milk and truly, that worked just fine, evaporated milk would be okay too I bet. Next time I make this I will saute and add finely chopped onions. My daughter would like to see some ham added in with the bacon! Also, I did the whole thing in a pyrex casserole dish instead of pie plates for 38 minutes. Really tasty. Thank you Michele!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Bren"
+},
+"reviewBody": "I did not use bacon, but added mushrooms and a bit of spinach. I sauteed the asparagus, mushrooms and spinach in olive oil the night before. I also put it all together in a 9 x 13 glass pan that I lined with 2 pie crusts. I baked it for 25 minutes covered in foil and then baked it another 10 minutes without the foil. It was a hit!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Katie Arnold"
+},
+"reviewBody": "I used sharp cheddar cheese instead of Swiss as I don't like Swiss, and it was delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gagacol"
+},
+"reviewBody": "Because my husband is a vegetarian, I substituted halved grape tomatoes for the bacon - delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "kcscout44"
+},
+"reviewBody": "I liked this recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cindy Elton"
+},
+"reviewBody": "My whole family loves it! I use the already prepared bacon pieces. I also add a small can of chopped mushrooms and some a very small chopped onion or green onions."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "KAC2"
+},
+"reviewBody": "This was a good recipe but a homemade pie crust would be better. I also added leeks to the filling (sauteed in the bacon grease and drained). I halved the recipe to make one quiche and used 3 eggs."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Patti Perry Mandaro"
+},
+"reviewBody": "OMG, what an excellent quiche! Looked just like the picture and so yummy! I added a little sautéed mushrooms/onions as others suggested, and used a mix of Swiss and Jack/Cheddar blend.\nDefinitely a keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "barb"
+},
+"reviewBody": "This is a great recipe just as it is. It also leaves plenty of room to play with - using different ingredients, etc. I never made a quiche before I made it last night for supper. It went over real big, and this morning there is only one piece left. I didn't have enough Swiss cheese so I finished off with mild brick. Next time I'll be sure to use all sharper Swiss. I also didn't have bacon for it, and I think it would have been better yet with it. I used whole milk because I didn't have half and half (can you tell I didn't plan to make this?). I might have put too many eggs in it - I put 5 eggs plus the yolk from the egg white. I can see not making it with the crust because I really wasn't noticing the crust. Be careful - I think I cooked it too long - about 40 minutes. I really didn't make changes - I modified to keep from going to the store:) Great recipe, and thanks so much for sharing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nyxen Monroe "
+},
+"reviewBody": "This is the ONLY quiche recipe I use. It's SO good. Sometimes I switch out the filling/cheese with other things, but as long as you keep the egg/half&amp;half ratio the same, it will turn out every time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Carla Haake Gutkowski"
+},
+"reviewBody": "I only wanted to make ONE quiche, not the 2 that this recipe calls for... so i divided the ingredients in half, and when i went to fill the shells with the liquid (eggs and cream) it was not enough - by FAR. I ended up adding 4 more eggs. I re-read the recipe multiple times thinking i was the one in error, but i really don't think that 2 eggs for one pie shell is nearly enough."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "auklets"
+},
+"reviewBody": "aah.. all I have to say is.. I can't cook and I made Christmas magic with this recipe! I was sceptical of the nutmeg. not a problem it was lovely. I was sceptical of the amount of eggs, 4 really? not an issue, I was sceptical of it making two, and viola! it was awesome! I used extra bacon, but what does that hurt? just your cholesterol! exactly... it was my first quiche, and not my last thanks to this recipe! I made it as per instructions and it turned out perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah"
+},
+"reviewBody": "I made this without bacon, since I had other egg casseroles that contained meat for my Christmas Eve brunch. Easy to prepare and delicious to eat! I will definitely make this again and again. Thank you!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/20498/asparagus-quiche/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/148/breakfast-and-brunch/eggs/",
+"name": "Eggs"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/153/breakfast-and-brunch/eggs/quiche/",
+"name": "Quiche"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/20498/asparagus-quiche/",
+"name": "Asparagus Quiche"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

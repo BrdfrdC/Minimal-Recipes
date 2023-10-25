@@ -1,0 +1,149 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Ground Pork Tacos with Pineapple Salsa"
+,"datePublished": "2022-10-26T21:52:11.000-04:00"
+,"dateModified": "2022-10-26T21:52:11.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "France C"
+,"url": "https://www.allrecipes.com/cook/francecevallos"
+}
+]
+,"description": "These ground pork tacos are reminiscent of tacos al pastor and topped with pineapple salsa."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/MnJpIBhqo18S2FgT7yaBrwzd11c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Ground-Pork-Tacos-with-Pineapple-Salsa-France-C.-2000-6ae51481747949e28e913916a0ec1fd2.jpg",
+"height": 1000,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Ground Pork Tacos with Pineapple Salsa"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "1"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "166 kcal"
+,"carbohydrateContent": "4 g"
+,"cholesterolContent": "41 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "10 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "47 mg"
+,"fatContent": "12 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"1 pound ground pork",
+"1 tablespoon soy-based liquid seasoning (such as Maggi® Jugo)",
+"0.5 teaspoon chipotle powder",
+"1 clove garlic, minced",
+"1 cup diced fresh pineapple",
+"0.25 cup minced red onion",
+"1 small jalapeno pepper, seeded and minced",
+"2 tablespoons minced fresh cilantro",
+"0.5 lime, juiced",
+"salt to taste",
+"8 (6 inch) corn tortillas" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine ground pork, liquid seasoning, ground chipotle powder, and garlic in a bowl. Set aside for flavors to meld."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine pineapple, red onion, jalapeno, cilantro, lime juice, and salt in a bowl. Set pineapple salsa aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat a large skillet over high heat. Crumble ground pork into the hot skillet. Cook and stir until pork is completely browned and edges begin to crisp, 7 to 10 minutes. Drain any excess grease. Place pork in a bowl and keep warm. Wipe out skillet."
+} ,{
+"@type": "HowToStep"
+,"text": "Warm tortillas in skillet over medium-low heat, about 20 seconds per side. Divide meat mixture between tortillas and top with pineapple salsa"
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT40M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bibi"
+},
+"reviewBody": "Oo, these were tasty, and I can see that pineapple salsa in my future on grilled chicken or pork chops! The fellas chowed down, and Hubby said, \"These are great! Next time could you add a bit more heat?\" Oh, sure, Honey, I can add more heat, and double that salsa, too, so we can be r-e-a-l-l-y generous! That's my only wish, that I had made more salsa. Thanks for the recipe!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8500479/ground-pork-tacos-with-pineapple-salsa/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+"name": "Main Dishes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17874/main-dish/tacos/",
+"name": "Taco Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8500479/ground-pork-tacos-with-pineapple-salsa/",
+"name": "Ground Pork Tacos with Pineapple Salsa"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,136 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe"]
+,"headline": "Bison Sausage, Apple and Sage Strata"
+,"datePublished": "2013-08-08T14:59:15.000-04:00"
+,"dateModified": "2021-02-01T14:30:12.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "The Bison Council"
+,"url": "https://www.allrecipes.com/cook/thebisoncouncil"
+}
+]
+,"description": "Autumn flavors of apple and sage are baked with bison breakfast sausage, eggs, and bread cubes in this delicious brunch strata."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Gcc6vbaSCJ4ExeQkCvr7_X9CZgs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1125155-3483283590be47268481487ac670d6c0.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Bison Sausage, Apple and Sage Strata"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "1"
+}
+,"cookTime": "PT42M"
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"Nonstick cooking spray",
+"1 pound bison breakfast sausage",
+"1 medium onion, chopped",
+"2 tart cooking apples, cored and chopped",
+"8 eggs",
+"2 cups milk",
+"1 tablespoon chopped fresh sage leaves",
+"0.25 teaspoon black pepper",
+"1 (12 ounce) loaf firm-textured French or Italian bread, cut into 1-inch cubes",
+"1 cup shredded provolone cheese" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat oven to 350 degrees F. Coat a 3-quart rectangular baking dish with cooking spray; set aside. Cook bison sausage and onion over medium heat in an extra-large skillet until bison sausage is brown. Add apple and cook for 5 more minutes. Drain off fat."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk eggs, milk, sage, and pepper in a large bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Place bread cubes in prepared baking dish. Top with bison sausage mixture and the cheese. Gently mix to evenly distribute ingredients. Pour egg mixture over bread mixture."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake, uncovered, for 40 to 45 minutes or until a knife inserted near the center comes out clean. Let stand for 10 minutes before serving."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT82M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda T"
+},
+"reviewBody": "This was tasty. I was unable to find bison sausage, so I used ground bison and added some spices. Next time I will add more.. unless I can find the sausage"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/233869/bison-sausage-apple-and-sage-strata/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/",
+"name": "Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1642/everyday-cooking/",
+"name": "Everyday Cooking"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/233869/bison-sausage-apple-and-sage-strata/",
+"name": "Bison Sausage, Apple and Sage Strata"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

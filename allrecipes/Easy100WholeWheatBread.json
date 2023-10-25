@@ -1,0 +1,416 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Easy 100% Whole Wheat Bread"
+,"datePublished": "2019-04-04T00:17:08.000-04:00"
+,"dateModified": "2022-01-04T08:09:59.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Mme Rocha"
+,"url": "https://www.allrecipes.com/cook/lacuisinedemmerocha"
+}
+]
+,"description": "This is a foolproof, beginner&#39;s, 100% whole wheat bread recipe featuring honey and olive oil, that is easy to prepare with a stand mixer and is perfect for toast or sandwiches."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/a2R_3c2Kyt8oO3P7uvtCGnafElY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8712292-10d3397258c64a7084ccfb6f632cf017.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Easy 100% Whole Wheat Bread"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.4",
+"ratingCount": "24"
+}
+,"cookTime": "PT35M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "140 kcal"
+,"carbohydrateContent": "28 g"
+,"fiberContent": "4 g"
+,"proteinContent": "5 g"
+,"saturatedFatContent": "0 g"
+,"sodiumContent": "150 mg"
+,"sugarContent": "3 g"
+,"fatContent": "2 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT40M"
+,"recipeIngredient": [
+"1.75 cups warm water",
+"2 tablespoons honey",
+"0.75 teaspoon active dry yeast",
+"3.5 cups whole wheat flour, or more as needed, divided",
+"1 tablespoon olive oil",
+"1 teaspoon sea salt" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Mix the warm water, honey, and yeast in a stand-mixer bowl until mixture becomes foamy, about 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Add half the whole wheat flour, olive oil, and salt to the mixture. Mix with a spatula or wooden spoon until incorporated. Let sit for 1 to 2 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix with a dough hook attachment on low speed, slowly adding the remaining whole wheat flour, increasing the speed to high. Mix on high until the batter is combined and not sticking to the sides of the bowl, about 7 minutes. Cover the bowl with a towel and let rest for 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, prepare a 9x5-inch loaf pan with parchment paper. Flour a surface to work the dough."
+} ,{
+"@type": "HowToStep"
+,"text": "Place the dough onto the floured work surface and shape into a loaf. Use more flour if necessary. Place into the prepared loaf pan."
+} ,{
+"@type": "HowToStep"
+,"text": "Let shaped dough sit in a warm place until it has risen over the top of the pan, about 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, preheat the oven to 350 degrees F (175 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until top of the loaf sounds hollow when tapped, about 35 minutes. Remove from the oven and let cool for 15 to 20 minutes before removing from the pan and transferring to a wire rack. Let cool an additional hour before slicing; otherwise it will feel doughy."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT230M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I double the yeast and allow to rise two hours. We make this at least two times per month, slice it, and freeze it for sandwich bread for the week. It has come out great every time since I started doubling the yeast."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Shar C"
+},
+"reviewBody": "My bread didn’t turn out at all and I followed the recipe to a tee. It was extremely dense and didn’t rise at all (despite resting in a warm oven for 2 hours). I’m at a loss and will likely have to compost it because it’s heavy as a brick!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jeff Dowd"
+},
+"reviewBody": "I like it a lot. I used maple syrup and it was great. I'll make it more."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "SP"
+},
+"reviewBody": "Really easy recipe with few ingredients. I did by hand as I don’t have a stand mixer. Took 3 hrs. for loaf to rise to top of loaf pan, even though it was in a warm area of the kitchen. Will increase yeast to a full tsp to see if that makes a difference. Other than that, it was a yummy loaf and will definitely make again. I used the King Arthur whole wheat flour."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Diane Wilson"
+},
+"reviewBody": "I agree with Terijh's review. The amount of yeast was totally inadequate, and the mixture was more of a batter than a dough! It didn't rise much, and it didn't have much flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "catknap57"
+},
+"reviewBody": "Came out fantastic and easy. Didn't use oil, forgot about it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "juanitavbhatia"
+},
+"reviewBody": "This recipe is good and everything works perfectly except the prove time the author has provided. At first, I proved my bread for 1 hour as they had stated but the bread didn't rise at all. I checked my yeast and the temperature of the water (between 105 and 110°F) and it was all perfect. I kept my bread for an additional 1 hour and it rose to the top but still not beyond the bread mold. Also greasing the pan with butter works perfectly fine if you don't want to put parchment paper. These are the changes that I made. Otherwise it was perfect and tasted awesome!\nP.S: I recommend shrink wrapping the bread for proving."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lisemckenney"
+},
+"reviewBody": "Quick and easy, I love how simple it was. Tastes great too!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "innschristopher"
+},
+"reviewBody": "Really good basic recipe. I tried using half Almond Milk and half water and that worked great also. Easiest WW Bread recipe ever."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JMC"
+},
+"reviewBody": "This is a go to favorite in our house. I always have to double the recipe, or there won't be any for the next day! It's fluffy enough to be good on its own, but dense enough to hold up to sandwiches and spreads. Not grainy like a lot of whole wheat breads either. \nTwo minor adjustments that I make: I use corse sea salt and double the amount, and I usually do an hour rise before shaping it and letting it rise in the pan."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gaye"
+},
+"reviewBody": "Nice loaf. Mine was slow to rise so I set the oven at the lowest temp with a pan of water in it, then shut the oven off and let it rise in there. One woman I know who lives on a farm only bakes bread on laundry day so she can let her loaves rise in the dryer lol!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "TERIJH"
+},
+"reviewBody": "I've made hundreds of loaves of bread in my life. I've never had one fail so miserably. 3/4 t. of yeast? Does that really work? Mine didn't proof until I added an additional T to it. I also wonder how the bread was measured, because when I did it as the bakers do, it was more of a batter than a dough. I had to add an additional 1/2 C of flour to make it work. And it's fairly flavorless. In all of my years of baking bread, this was my first fail."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Whitney Kreiling"
+},
+"reviewBody": "I have made this bread 5 times. It turns out best with honey and a little more salt than called for. King Arthur whole wheat flour works best. It’s easy and delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Colleen Mucci"
+},
+"reviewBody": "Made it by hand. Swapped the honey with white sugar no problem. Absolutely will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Doug"
+},
+"reviewBody": "Super easy recipe. Excellent flavor, Doesn't take all day with different risings, and it's a small recipe which is good for a single person who doesn't need 5 loaves of bread like some of the other recipes will leave you with"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Valerie"
+},
+"reviewBody": "I couldn't find frozen wheat bread this year for Thanksgiving, so I decided to try this easy recipe. It was so easy and good, that I just made some more. It has a great texture and the flavor was so good that I'll never buy wheat bread from the store again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cherrylee"
+},
+"reviewBody": "I made this by hand and I didn't have honey so I used 2 tblsp of of coconut sugar and added 2 tblsp of water. it turned out wonderfully :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Patrick E Gilman"
+},
+"reviewBody": "This is by go to whole wheat bread recipe. I've made it in mini loaf pans and it takes like bread served at some restaurants. Simple ingredient lists helps as well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Vicki Alexander"
+},
+"reviewBody": "My bread didn't rise, extending time on top of warm oven."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rossana Rocchini"
+},
+"reviewBody": "When it’s cold and humid outside, it’s better to let it rise for two or more hours"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Fumphco"
+},
+"reviewBody": "Followed the recipe, the bread has a nice texture and is tasty. We might try adding a little more salt or some molasses next time."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/272420/easy-100-whole-wheat-bread/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/344/bread/yeast-bread/whole-grain-bread/",
+"name": "Whole Grain Bread Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/15509/bread/yeast-bread/whole-grain-bread/wheat-bread/",
+"name": "Wheat Bread"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/272420/easy-100-whole-wheat-bread/",
+"name": "Easy 100% Whole Wheat Bread"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

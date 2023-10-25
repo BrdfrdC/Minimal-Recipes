@@ -1,0 +1,995 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "ABC Pudding - Avocado, Banana, Chocolate Delight"
+,"datePublished": "2017-06-21T09:02:10.000-04:00"
+,"dateModified": "2022-12-24T01:28:37.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Beyker"
+,"url": "https://www.allrecipes.com/cook/3418522"
+}
+]
+,"description": "This raw and vegan pudding is made with avocado, banana, and cocoa powder pureed for a creamy and refreshing treat."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/4CAl-Ix_7p4JiNuVUKjeIPu5WEI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1043272-abc-pudding-avocado-banana-chocolate-delight-Melissa-Goff-4x3-1-e7a44fdc5f3b453298a95872d9fd53fd.jpg",
+"height": 720,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "ABC Pudding - Avocado, Banana, Chocolate Delight"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.3",
+"ratingCount": "75"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "132 kcal"
+,"carbohydrateContent": "23 g"
+,"fiberContent": "6 g"
+,"proteinContent": "2 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "4 mg"
+,"sugarContent": "10 g"
+,"fatContent": "6 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 ripe avocado, peeled and pitted",
+"4 very ripe bananas",
+"0.25 cup unsweetened cocoa powder, plus more for garnish" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place avocados, bananas, and cocoa powder in a blender; puree until smooth."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour pudding into serving bowls and sprinkle additional cocoa powder on top for garnish."
+} ,{
+"@type": "HowToStep"
+,"text": "Chill in refrigerator for texture and flavor to develop, at least 1 hour."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT70M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kar"
+},
+"reviewBody": "This pudding was delightful. The banana flavor was stronger than I'd like and I did use small bananas. So after taste testing, I increased the cocoa powder to 1.5. times the suggest amount and added a 1/4 tsp vanilla which helped to reduce the banana flavor. But I should have doubled the cocoa. I really appreciate that this is a no sugar added pudding with lots of minerals and vitamins; so I will definitely be making it again. Next time I will double the cocoa powder and taste test it. If the consistency is too thick I'll add a splash of almond milk. Thanks for this unique recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Megan Goodwin"
+},
+"reviewBody": "The texture is good, but banana flavor is overwhelming. I doubled the amount of cocoa powder to compensate"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathy Sands"
+},
+"reviewBody": "Very good recipe. the only thing I changed was I added a couple strawberries. was very good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Illona Santillan"
+},
+"reviewBody": "Made this by adding peanut butter, dark chocolate syrup, and dark chocolate chips.\n\nDark chocolate makes it satisfying, unlike milk chocolate."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sara Hopkins"
+},
+"reviewBody": "Though not low-calorie, this pudding is a great way to get a chocolate fix and a whole serving of fruit and vegetables at the same time! It does taste like bananas, but you can't taste the avocado at all."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rania Helou"
+},
+"reviewBody": "Really loved it, and loved mostly the guilt-free pleasure of eating it. The only comment is that it was only 4 servings, not 6, but I guess it depends on the bananas and avocado sizes used. But all in all, really good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ben Foster"
+},
+"reviewBody": "Less creamy than typical pudding and obviously less sweet due to the lack of added sugars, but still a tasty, healthier alternative that’s quick and easy to make. Makes a nice post-exercise snack. Being a single guy, I don’t need six servings, so I used half an avocado, two bananas and two tablespoons of cocoa powder to make a three-serving batch, and refrigerated the leftover pudding for later."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Emma Oberg"
+},
+"reviewBody": "I made a quarter-batch for a single serving. \n-Used frozen bananas. \n-I ended up adding about 3 tablespoons of cocoa powder to get the flavor I wanted! \n- I put in freezer for 5 mins as suggested and sprinkled rock salt on top. \nDelicious! Perfect snack to satisfy my sweet craving :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Wendy"
+},
+"reviewBody": "Holy moly I’m shocked how good this is! Better than dairy for sure imo!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Carsenle"
+},
+"reviewBody": "I couldn't get anything to blend, so I ended up adding a small amount of milk to get it moving. I only made a quarter of the recipe in my Vitamix 8-oz bowl. It was ok. I wasn't going to sit there all day waiting for it to blend, so I ended up eating it, little chunks and all. The flavor was ok. I highly recommend not having anything to eat beforehand because I ate the pudding, semi-enjoying it, then sipped some carrot soup, and then when I went back to the pudding, the pudding tasted so sweet or sour that it made me cringe. I've never had that reaction with a pudding... Maybe I'll try making this again. It just didn't do it for me. Quite a bummer. I like chiaseed pudding better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lynda S"
+},
+"reviewBody": "Very good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Hildamae"
+},
+"reviewBody": "We really enjoyed this recipe. I would have given it a five except we compared it to the spicy chocolate version (that recipe also found on AllRecipes.com). The spicy recipe uses coconut milk and eliminates the banana and peanut butter.\n\nHaving said that, comparing the two recipes is going to boil down to personal taste preferences. We like that little after burn of heat that follows the chocolate in the spicy version. If spicy heat is not your thing, then go with this recipe and you will love it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "I love food"
+},
+"reviewBody": "Amazing! I added just a little more cocoa powder."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Areeba Razzaq"
+},
+"reviewBody": "With minor changes, this pudding is delicious! I added another 1.5 tbsp cocoa powder, 1 tsp vanilla essence, and 1 tsp honey. The bananas gave it a different but not unpleasant texture. Everyone in my family loved it! I'm definitely making it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "NoxxBoxx"
+},
+"reviewBody": "Followed the suggestion of adding a splash of vanilla extract and honey. Also topped it with fresh strawberries! Might add a pinch of nutmeg or sea salt next time, too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Valerie Androus Laam"
+},
+"reviewBody": "Best vegan chocolate pudding out there!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cheryl Swartz"
+},
+"reviewBody": "Oh my goodness. Never cared much for puddings. Had to try this so simple recipe to use avocado, banana, and chocolate. \nDid not change a thing. It does need a lot of patience blending and tasting, blending and tasting but that is not a bad thing. My Ninja that I use for smoothies still required several trials to get the time down. I didn't want any green to show nor a banana taste so I blended then added banana until it tasted just right. This made 4 generous servings even with my ample samplings and I scraped the blender well just to satisfy myself so I could get the serving bowls into the refrigerator without getting into them. Will definitely make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "oggers"
+},
+"reviewBody": "Nice and creamy. Tasted the banana, and like a previous note was a bit bland. I added 1/2 tsp salt, 1tsp vanilla extract, 1 Tbs honey and 1 Tbs creamy peanut butter...like peanut butter cup pudding!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "robert turner"
+},
+"reviewBody": "Next time, cut the recipe in half and use less coco"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Victoria Overton"
+},
+"reviewBody": "Great recipe! It's a light creamy somewhat thick \"pudding.\" I only had frozen bananas on hand and it turned out nice and cold. No need to refrigerate before serving :-) I also followed other suggestions and added 1tsp salt, 1tsp vanilla, 1tbsp honey, and slightly more than 5tbsp unsweetened cocoa. Both my 4 year old and I LOVED it. Thanks for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Raspberree"
+},
+"reviewBody": "This recipe is awesome...definitely one of my favorites! It is so easy and delicious. I gave up \"added sugar\" in my diet and this was perfect. The bananas add sweetness and satisfy any craving I might have. Just make sure that the bananas and avocado are very ripe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kimberly Spurgeon"
+},
+"reviewBody": "This pudding was unbelievable. I thought it would be good, but not *this* good. I will definitely be making this again (and again.)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Krochetenvy Lundy"
+},
+"reviewBody": "It was delish"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cookiecookieyum!"
+},
+"reviewBody": "This recipe was great! My brother HATES avocado, but he liked this pudding. Also, it was really easy to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sheilae"
+},
+"reviewBody": "This ABC Pudding was amazing! I used cacao(fat removed from cocoa), instead of cocoa and added a little agave for a little more sweetness. My husband and I could not tell the difference between this pudding and the store bought ones. Could not taste the avacado and it was so creamy, no lumps at all. I will make this again and I already shared this recipe with a friend!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brooke Laurel"
+},
+"reviewBody": "I love this pudding &amp; have made it 4 times since my first try. The only change I make is to add about 1/4 cup of coconut milk to the mixture (given that my old blender doesn't work through ingredients without a bit of liquid!). The pudding was still silky and chocolate-y, and I find this adds another aspect to the flavour. Thanks for posting a great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "April Norman"
+},
+"reviewBody": "I made this a few years ago and it is FABULOUS! I surprised my guests with the ingredients AFTER they ate it and they all said it was the best chocolate pudding they had ever had. Best of all, it is so simple to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Tannis Stickley"
+},
+"reviewBody": "I love this healthy version of a chocolate pudding. I only had 3 bananas.. And it turned out just fine. I also added a touch of vanilla and cinnamon. YUM!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rebecca Beltran"
+},
+"reviewBody": "I was a little skeptical about making this recipe, but I wanted a chocolate pudding that was dairy free, so I gave it a try. On the first bite I wasn't convinced that I liked it, but a couple bites later, I thought it was pretty darn good. My six year old helped me make it and she loved it from the first bite!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Hara Maderich"
+},
+"reviewBody": "I added a little cinnamon to raise the cocoa profile. Eat it cold!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Geni"
+},
+"reviewBody": "Although this is hasn't had time to rest in the fridge, I have to say that I've struggled with the flavor. I find it slightly bitter, and \"strange\" tasting. I love avocados and I like bananas but I still used every suggestion given by other reviewers as I went along and ended up adding 1 tsp of vanilla, a bit of almond milk, a bit more cocoa powder, approx 2 tsp of sugar, a few drops of stevia, a couple of tablespoons of 1/2 and 1/2 and, finally, 2 T of peanut butter as a last resort. I hope it tastes better in a couple of hours or it will end up in the trash!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ShaynStar"
+},
+"reviewBody": "Delicious! I added a teaspoon of vanilla extract."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chocolate fanatic"
+},
+"reviewBody": "This is the first recipe on here that I saw for vegan pudding. My best friend is vegan, and this was such a simple healthy recipe. But I was overly curious about the other recipes using avocado and bananas. After reading plenty of reviews I considered combining peoples' different suggestions on improving it. So I kept everything the same but left out one banana and added 2 tablespoons of peanut butter, 1 teaspoon of vanilla extract, 1 cup of unsweetened almond milk, about 1 tbs of honey, and a few drops of vanilla Stevia. I also chopped up dairy free chocolate chips to garnish the top of the pudding instead of cocoa powder. Absolutely delicious, with or without whipped cream. I highly recommend, and the taste only gets better the longer it's in the fridge."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Chef Mom"
+},
+"reviewBody": "I was slightly afraid to try this, but it was good! As written, the recipe has too much banana for my tastes, but with some modifications, I'll be making this again. I just mixed it up with a fork, and I actually liked the slightly chunky texture. I did add 1 tsp vanilla after a taste test told me it needed some tweaking, and that made a big difference. I couldn't get rid of the slightly powdery taste from the cocoa powder, so I think next time I'll try dissolving it in a little milk first and see if that works."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Brilliant! Made a Popsicle with that and tasted awesome!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Tammy Lynn"
+},
+"reviewBody": "This pudding looked smooth and creamy and was the right \"pudding\" texture after sitting in the fridge for an hour. However, I didn't like the taste and my toddler didn't like it either. I had even added a Tbsp of sugar, but it didn't help the flavor much, and my bananas were very ripe. I only made a half a batch of this, and put the remainder in the freezer to use as a smoothie base some other time. Thanks anyway, but I'll stick with Chocolate Avocado Pudding from this site, which I liked a lot."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "carolvare"
+},
+"reviewBody": "Delicious and healthy! I used cacao powder instead o"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Seattle2Sydney"
+},
+"reviewBody": "I guess it depends on what type of unsweetened cocoa you use and how big the bananas were. Mine definitely wasn't bland. It was quite strong and a bit bitter. Ended up needing a bit of extra sweetening. With more banana it could have been better. I would probably only rate three stars, except I think that it could have been better if I'd made it differently."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shelly Steinmetz McKnight"
+},
+"reviewBody": "so yummy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda"
+},
+"reviewBody": "Delicious and healthy! Added 1tsp vanilla, 1/2 tsp salt, and 1T honey to make it even better. Thank you for a quick, nutritious dessert!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Molly Curtis"
+},
+"reviewBody": "I am not Vegan so my initial reaction was too tangy, but I licked the spatula one more time and I got hooked. it's texture is better than any box mix or cornstarch variety. I needed a little sugar but this is new favorite way to use up avocados!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "FluffyDucklings"
+},
+"reviewBody": "All I could taste was banana and it was horrible, I couldn't taste anything else."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Wednesday Evans"
+},
+"reviewBody": "Healthy and pretty good, I guess, but also rather bland; I added 1tsp salt, 1tsp vanilla, 1tbs honey, and 5tbs cocoa (instead of 4), which did the trick really nicely and made a wonderfully rich-tasting but still quite light pudding."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "TwiztidPrincess"
+},
+"reviewBody": "Pretty tasty but could be better. Will play with the recipe. I'm thinking pudding pops."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "RachelleBrazil"
+},
+"reviewBody": "Because the size of avocados and bananas vary so much, I found the quantities rather misleading. One avocado here gave me almost 4 cups once blended, and our bananas our smaller, so I lost count of how many I put in after discarding bruises and dividing pieces amongst the kids. I poured in cocoa powder to taste, and sweetened condensed milk for extra sweetness. We aren't vegans. Turned out great for our family with these changes"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DAISYTAZZY"
+},
+"reviewBody": "This was great! Husband rated it five stars! I'm rating it 5 stars as well for taste and ease of preparation and cleanup! Will be one of our go to recipes when we need a chocolate fix and is a LOT healthier! Thanks for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "L. Schmitt"
+},
+"reviewBody": "wow! this was amazing. I used two frozen bananas and one regular. I also added a couple dollops of plain yogurt which helped for smooth texture.... or maybe I was just impatient! family gobbled it up."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "The Bunny Chef"
+},
+"reviewBody": "I made this exactly as directed, but added a teaspoon of vanilla extract. It turned out very good and the vanilla was a good addition. We couldn't taste the avocado at all, but love avocados and wouldn't have been disturbed even if we could taste it. I'm not a big fan of bananas, but really liked it anyway. Will definitely make this again, what a nice treat that even non-vegans like us enjoy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "DIZ&#9829;"
+},
+"reviewBody": "Curiosity! I just had to try this recipe to see if it really works. And, it does! It's very creamy and has a perfectly smooth, pudding consistency. On the flavor front, if you are expecting chocolate pudding, think again. It is all banana! What chocolate flavor you do get is very, very bitter. Probably not something I would make again, but it was fun to try."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jessie0021"
+},
+"reviewBody": "This recipe was amazing...I did find it a bit bitter so I added 2 Tbsp of sugar and an extra avocado!! Turned out wonderful!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sheryl Grunert"
+},
+"reviewBody": "Tried this recipe, &amp; really liked it, but to reduce the sweetness a tiny bit, I'm going to try using 2 avocados &amp; 2 bananas.\n\nSheryl G."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Kierst"
+},
+"reviewBody": "I thought this looked interesting and healthy. Since I love using frozen bananas as a base for a chocolate shake, I thought I would like this. I did not like it at all. It was strange tasting and bitter. I added some agave nectar in hopes that it just needed a little sweetener. Unfortunately I was wrong. It didn't change the the fact that this pudding is just not good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Melissa Goff"
+},
+"reviewBody": "My kids really liked this recipe. I waited until they were completely done to tell one of the kids, they were eating avocados...seeing how they don't like them! Easy peasey nice and healthy! TY was a great afternoon snack for my kiddos."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bjacobs"
+},
+"reviewBody": "Absolutely delish! I only had 3 bananas but they were so ripe that it was plenty sweet. It came out so creamy and chocolately. Best chocolate pudding I've ever had."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lindsey Eustace"
+},
+"reviewBody": "I was very surprised on how delicious this was. I am not vegan, nor am I particularly healthy, but I am trying to be a bit healthier and lose some baby weight I cannot seem to lose. This recipe was great. I did however feel it was missing something, so I added a splash or 2 of vanilla. I will be making this again for my family. Great consistency as well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Finn"
+},
+"reviewBody": "Yup, this was super good! As others have mentioned, the avocado and banana might need some liquid (milk, water) to loosen it up in the blender. I like that you can leave it as is or add some type of sweetener if the bananas don't give it enough sweetening (sugar, syrup, stevia)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cynthia51825"
+},
+"reviewBody": "This was very good. I'm not vegan, just had a few ripe bananas! I used 3 ripe bananas, 3/4 of a Florida (larger, ligher colored) avocado, the same cocoa, then also added the splash of almond milk to help with pureeing... very good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jodiebakker"
+},
+"reviewBody": "AMAZING!!!! I love this recipe. I only used two bananas though!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kellyc55"
+},
+"reviewBody": "Used frozen bananas and added a splash of almond milk - delish!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jo Zinnecker"
+},
+"reviewBody": "I always have a freezer full of overripe bananas. Finally something healthy, quick &amp; delicious to do with them. My daughter and I just whipped this up in our magic bullet. We both loved it. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "grainfreegirl96"
+},
+"reviewBody": "Love this pudding!! The only change I make is to reduce the amount of bananas to two. I normally use over-ripe bananas for extra sweetness. The avocado makes the consistency of this pudding very creamy. So good!! My food processor works perfect for this recipe. Extremely nutritious and delicious:) Thanks for sharing!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jillr"
+},
+"reviewBody": "Delicious and simple ingredients. I will make again. My 5 yr old and I loved it. It was so thick it didn't mix well in the blender so I added a little maple syrup and water."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nora"
+},
+"reviewBody": "This is such a delicious treat. Sometimes I put a \"dollop\" of all natural peanut butter to give it a different flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ChefScharny"
+},
+"reviewBody": "I saw this recipe and I just had to try it because it was so unique I never would have though of combining those three ingredients... As it chills it really does develop a flavor all its own you can definitely taste the banana but really it develops its own chocolaty flavor.. I did have to add a little milk to get it to blend in my tiny blender but the consistency was still perfect.. and the best part is it is there is no added sugar or anything.. all natural ingredients... thanks for the idea"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Linda T"
+},
+"reviewBody": "I was intrigued by the ingredients. You mostly taste banana and then chocolate. If you really look for it, you can taste a tiny bit of avocado. I topped mine with a little fat free whipped cream.. not vegan but tasty. This is a nice recipe that I'll make again sometme"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Zangwow"
+},
+"reviewBody": "I was impressed by the pudding consistency. The taste was a little bland, but the fact that it was so healthy made up for it."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/220827/abc-pudding-avocado-banana-chocolate-delight/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17140/desserts/fruit-desserts/",
+"name": "Fruit Desserts"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17527/desserts/fruit-desserts/banana-desserts/",
+"name": "Banana Dessert Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/220827/abc-pudding-avocado-banana-chocolate-delight/",
+"name": "ABC Pudding - Avocado, Banana, Chocolate Delight"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

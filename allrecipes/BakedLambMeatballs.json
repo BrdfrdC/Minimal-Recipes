@@ -1,0 +1,172 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Baked Lamb Meatballs"
+,"datePublished": "2018-09-27T20:56:20.000-04:00"
+,"dateModified": "2022-01-14T01:24:55.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Spiderwoman77"
+,"url": "https://www.allrecipes.com/cook/1544858"
+}
+]
+,"description": "Yogurt, raisins, cilantro, and dried herbs jazz up these easy-to-make lamb meatballs; just mix everything together and bake!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/p_APFZFiDYJwmHbnM76RFRy0YfE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8200367-829b17e5b8214631bc41e8158c164908.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Baked Lamb Meatballs"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.3",
+"ratingCount": "3"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "298 kcal"
+,"carbohydrateContent": "16 g"
+,"cholesterolContent": "77 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "22 g"
+,"saturatedFatContent": "7 g"
+,"sodiumContent": "235 mg"
+,"sugarContent": "8 g"
+,"fatContent": "16 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 pound ground lamb",
+"2 slices bread, torn into small pieces",
+"0.25 cup yogurt",
+"0.25 cup raisins",
+"0.25 cup fresh cilantro",
+"1 clove garlic, minced",
+"0.25 teaspoon dried oregano",
+"0.25 teaspoon dried basil",
+"0.125 teaspoon salt",
+"0.125 teaspoon ground black pepper" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 375 degrees F (190 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix lamb, bread, yogurt, raisins, cilantro, garlic, oregano, basil, salt, and pepper together in a bowl. Shape into 1-inch balls and place on a greased baking sheet."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until meatballs are browned on the outsides and only slightly pink in the centers, about 20 minutes."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT35M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sharon Hoffman"
+},
+"reviewBody": "This is great. I didn't have any mint so I opened up a mint tea tea bag...I baked them on parchment paper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Chef Mo"
+},
+"reviewBody": "Great meatball! I loved the moist pockets of flavor from the raisins. I used fresh basil I had on hand. Loved these as a change from a traditional meatball."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Pat"
+},
+"reviewBody": "Used basic but used currants for half (I guessed correctly that my husband would like the sweetness, the smaller size of currants more evenly distributed the sweet) also used a small amount of shallots and parsley lightly sauteed."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/268252/baked-lamb-meatballs/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/203/meat-and-poultry/lamb/",
+"name": "Lamb"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17299/meat-and-poultry/lamb/ground/",
+"name": "Ground"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/268252/baked-lamb-meatballs/",
+"name": "Baked Lamb Meatballs"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

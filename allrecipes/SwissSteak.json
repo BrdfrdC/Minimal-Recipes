@@ -1,0 +1,587 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Swiss Steak"
+,"datePublished": "2019-04-03T23:54:03.000-04:00"
+,"dateModified": "2022-10-11T11:57:31.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Chuck Schmahl"
+}
+]
+,"description": "Simmer round steak with tomatoes, green bell pepper, and onion on the stove top for a tender main dish."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/gR3g7ueXm-RbYtnzMUqtt5JDnnE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1052666-swiss-steak-mommyluvs2cook-4x3-1-956786b5f2ca4727a8d197f741d598ae.jpg",
+"height": 720,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Swiss Steak"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "45"
+}
+,"cookTime": "PT105M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "387 kcal"
+,"carbohydrateContent": "10 g"
+,"cholesterolContent": "95 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "32 g"
+,"saturatedFatContent": "9 g"
+,"sodiumContent": "330 mg"
+,"sugarContent": "3 g"
+,"fatContent": "24 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"0.25 cup all-purpose flour",
+"0.5 teaspoon salt",
+"0.25 teaspoon ground black pepper",
+"1 (2 pound) beef round steak, 1 inch thick",
+"2 tablespoons vegetable shortening",
+"0.25 cup water, or as needed",
+"1 (8 ounce) can diced tomatoes",
+"1 onion, minced",
+"0.5 green bell pepper, chopped",
+"salt and ground black pepper to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Mix flour, 1/2 teaspoon salt, and 1/4 teaspoon black pepper together in a bowl. Sprinkle half the flour mixture on one side of round steak pieces; pound steak until coating is absorbed. Flip steak and coat with remaining flour mixture; pound steak until coating is absorbed. Cut steak into 6 pieces."
+} ,{
+"@type": "HowToStep"
+,"text": "Melt shortening in a large skillet over medium heat; place steak pieces in the hot shortening. Cook until browned, 7 to 10 minutes per side. Cover and simmer until tender, about 1 hour, adding water as needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Turn steak pieces over and add tomatoes, onion, and green bell pepper to the skillet. Season with salt and black pepper. Simmer until vegetables are tender, about 30 more minutes."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT120M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Arlene M"
+},
+"reviewBody": "Ingredients I used that I had on hand: thin sliced round steak, red and orange bell peppers/1 each, onions sliced instead of chopped, 3T shortening + 2T vegetable oil when needed, browned sliced meat few at a time, 14.5 oz fire roasted tomatoes and added 1T worchestershire sauce. Very good recipe, everyone loved it, will make again. Served over rice infused with (better than bouillon) beef bouillon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cdpavina"
+},
+"reviewBody": "The recipe seemed interesting as it is not the traditional Swiss Steak recipe. I did modify it for the taste of my wife as she likes things with sauce, I added a 14.5oz can of tomatoes and a 10oz can of tomatoes with green chilies and served it over white rice. It was delicious and my wife wants me to make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "LibbyH"
+},
+"reviewBody": "This was a waste of two hours of my time. Although tender, the steak had no flavor. I didn’t like the bell peppers either. I made pasta as a side and ended up just eating the pasta."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kazimmerman"
+},
+"reviewBody": "I simmered sliced onions with the meat (1.5 h), which added a nice flavor. I omitted green pepper as I think it’s bitter. At an hour into the cooking, the meat was still tough, so I cut it into smaller pieces, which may have helped the final product. I cooked it in a Dutch oven on top of the stove. Husband loved it. Cooked mushrooms and potato piroghies as sides along with salad."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mona Jones"
+},
+"reviewBody": "Excellent recipe! This is my first time making Swiss Steak. I was, admittedly apprehensive about it. After reading lots of reviews, I decided to brown the meat with vegetable shortening (more shortening is needed than called for in the recipe) after mixing different seasonings (I did not measure) in flour in a ziplock bag. If spicy taste is wanted, add cayenne pepper (we like spicy foods). Shake meat in seasoned flour to coat, add to oil. Add browned meat to 9X13 casserole dish and top with bell pepper, onions and celery. Cover with aluminum foil and bake at 350 degrees for approximately 1 1/2 or until meat is tender. I served with white buttered rice and mixed vegetables. DELICIOUS!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MATENNIS"
+},
+"reviewBody": "The only changes I made were to cut the recipe in half for my husband and me and to add seasoned diced tomatoes. Pretty easy and it has a nice flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "eurocarole"
+},
+"reviewBody": "I love Swiss steak it reminds of my childhood it was my moms go to recipe w beef. The only change I made to delete the bell peppers"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Michael Flaherty"
+},
+"reviewBody": "Pretty good basic recipe. Could use some additional seasoning. I added stewed tomatoes and fire roasted peppers and onion. I seasoned the flour with smoked paprika. I also braised the steak with beef broth. The family loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Brenda H"
+},
+"reviewBody": "I liked it, my guy loved it. He ate it right up and scraped the plate clean."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "John D"
+},
+"reviewBody": "I had used some chuck steak cubes I wanted to use up. It was good. I will probably make it again in the future."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stephen"
+},
+"reviewBody": "Made it with beefy French onion, wife and I ate it and loved it with garlic mashed potatoes green beens, great comfort food'"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathy"
+},
+"reviewBody": "I made this tonight. It was really good. I did make a couple changes. I added a bottle of beer instead of water and used tomatoes with jalapeños. I also simmered it for a couple hours."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "jules"
+},
+"reviewBody": "Thought I would try this and I'm glad I did, we liked it served over egg noodles. I did use home canned tomatoes and more of them than recipe states. I also added a bit of celery. I will make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "David A Douglas"
+},
+"reviewBody": "Same as others. Had to add abbot more flour. Either than that it turned out excellent."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nita"
+},
+"reviewBody": "I made it per the recipe and it was delicious. My husband requested a slice of American cheese to be melted on his serving and he said it was delicious! I will be making this often??"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "CeMeCookin"
+},
+"reviewBody": "Turned out great. Nice flavor. I did double coat the flour mixture. The sauce was perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jim Nethercott"
+},
+"reviewBody": "I love how tender these steaks are every time I make this dish!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Patrick"
+},
+"reviewBody": "I used on deer meat and a whole onion minced."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kellygirl"
+},
+"reviewBody": "My grandma use to make something like this and never got the recipe (really wasn't one), then i found this recipe it was sooo much like hers, so gave it a shot!!! After a few minor changes it was just like hers!!!!! I used olive oil instead of shortening and a bit more then it called for, I put the flour and salt, pepper &amp; meat in Ziploc bag, then shook it off as I added to the oil browned the meat threw in veggies and canned diced tomatoes 14 oz. Instead of 8 a few splashes of Worcestershire sauce and a cup or so of tomato juice and salt and pepper and let'r simmer for about 2 hrs."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tammi"
+},
+"reviewBody": "It was delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Betty Heim"
+},
+"reviewBody": "Added mushrooms. Fantastic meal. Will be making this often"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cindymom"
+},
+"reviewBody": "I made this tonight for the first time in many years. It's the exact same recipe I used to make from a cookbook that was a wedding gift--40 years ago! I rarely fry things (to mess up the stove) but it was worth the effort. My husband went back for seconds! Since my Swiss steak was 2 1/2 pounds, I used a 15 ounce can of petite diced tomatoes and a little extra water with a dissolved bouillon cube. I did put it in a 9x13 dish after browning (so I could go ahead and clean the kitchen) and baked covered with foil. Frozen chopped bell peppers worked fine. I will not wait so long to make this again. Very yummy and tender, was good served with rice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christian Schwab"
+},
+"reviewBody": "Yummy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jamie R"
+},
+"reviewBody": "Great recipe! I placed in slow cooker after browning and added celery and mushrooms along with more tomatoes. Did add beef bouillon cubes also for more flavor with the water. Cooked for 5 1/2 hours on low. Meat was so tender! Will definitely make again. .so easy and delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "J.I. M."
+},
+"reviewBody": "This was OK for me. Thanks for recipe it's always fun to try new recipes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laurie Wiederhold"
+},
+"reviewBody": "Used red and yellow bell pepper and seasoned with garlic powder and seasoning salt. Family really liked it. It always feels good when they comment that my food is the best out of everyone's they have had. Thanks to Allrecipes for that achievement!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Norman Thomas"
+},
+"reviewBody": "Very good...a little time consuming, but well worth it! Finally a recipe that makes chuck steak taste really good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brian"
+},
+"reviewBody": "Everyone in the house loved it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Psciarini"
+},
+"reviewBody": "I have made this recipe several times. The first time as written, the next time I substituted boneless pork chops. Great flavor and my husband loves it. Will make again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "carylwaite"
+},
+"reviewBody": "This was great! I also baked it and added about a cup of beef broth and a tsp of Worcestershire sauce. Will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bl0ndie"
+},
+"reviewBody": "I had never made Swiss steak and came upon this recipe, now i make it at least once a month for myself and my husband and we love it. I never do anything different, except I use chicken stock in place of water. Also, I sometimes use tenderizer on an inexpensive cut of beef, but as long as the beef is pounded out and cooked for the time stated, it really isn't necessary, it is nice and tender. We eat ours with steamed jasmine rice, yummy! Thanks for this great recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "mommyluvs2cook"
+},
+"reviewBody": "I did this in the crockpot for about 5 1/2 hrs. I tasted at the end and definitely thought it need more sauce and seasoning...so I added in about a cup more water, a bouillon cube and some garlic powder...also added a flour water slurry to thicken it up a bit. Served it over egg noodles, topped with some chopped fresh parsley, and it was devoured!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tress"
+},
+"reviewBody": "Added a few steps - chicken-fried the steak (had better luck with the coating) put in a 9x13 baking pan, added the peppers, tomatoes and onion, covered and baked at 350 for approximately one hour. Tender!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hayley Leeper"
+},
+"reviewBody": "used red and yellow peppers,and used fresh tomato's out of the garden.the whole family loved it.....(-:.."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "macleod82"
+},
+"reviewBody": "Had to double flour mixture and added celery on last step. Came out great, very tender and wife and I ate til we were catatonic."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/229988/swiss-steak/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/446/main-dish/beef/",
+"name": "Beef"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17320/main-dish/beef/swiss-steak/",
+"name": "Swiss Steak Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/229988/swiss-steak/",
+"name": "Swiss Steak"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<script src="script.js"></script>
+    <body>
+                <div class="recipe-info">
+            <div class="recipe-title">
+                <h1>{{%TITLE%}}</h1>
+            </div>
+            <div class="recipe-times">
+                <p>Prep Time: {{%PREPTIME%}} {{%PTUNIT%}}</p>
+                <p>Cook Time: {{%COOKTIME%}} {{%CTUNIT%}}</p>
+                <p>Total Time: {{%TOTALTIME%}} {{%TTUNIT%}}</p>
+                <p>{{%SERVINGS%}} Servings</p>
+            </div>
+            <div id="ingredients-list">
+                Ingredients:
+                <ul class="ingredients">
+                    {{%INGREDIENTS LIST%}}
+                </ul>
+            </div>
+            <div class="instructions-list">
+                Instructions:
+                <ol class="instructions">
+                    {{%INSTRUCTIONS%}}
+                </ol>
+            </div>
+        </div>
+    </body>
+</html>

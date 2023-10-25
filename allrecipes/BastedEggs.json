@@ -1,0 +1,192 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Basted Eggs"
+,"datePublished": "2022-09-14T11:39:01.000-04:00"
+,"dateModified": "2023-02-13T14:42:17.206-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Marianne Williams"
+}
+]
+,"description": "This quick and easy basted egg recipe results in set whites and creamy, runny yolks, perfect for breakfast, brunch, or a snack."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/qiO1jnc8bfjU6pAe3Xiix5cYkRg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/basted-eggs-mfs-4x3-80-1-2000-ee0e8767f2c44494980b349c39a116cd.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Basted Eggs"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "4"
+}
+,"cookTime": "PT5M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "296 kcal"
+,"carbohydrateContent": "1 g"
+,"cholesterolContent": "418 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "13 g"
+,"saturatedFatContent": "14 g"
+,"sodiumContent": "583 mg"
+,"fatContent": "27 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+, "recipeCategory": ["Breakfast"]
+,"recipeCuisine": ["American"]
+,"recipeIngredient": [
+"1.5 tablespoons salted butter",
+"2 large eggs",
+"1 tablespoon water",
+"0.125 teaspoon freshly ground black pepper",
+"1 pinch flaky sea salt, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/YEA2Gv6V8NZu2FO7U768DjIRdp4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/basted-eggs-mfs-step-2-60-b166b97a549b40c0880bd5717ee3d1fc.jpg"
+}
+]
+,"text": "Melt butter in a medium nonstick skillet over medium heat. Carefully crack eggs into the skillet and let cook until whites have almost set, about 1 minute."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/aLJiUxvLZdO_aa52qzgZb7TX7vc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/basted-eggs-mfs-step-3-62-d029509c5f344c42bdb9fe39f5639517.jpg"
+}
+]
+,"text": "Add water, cover skillet with a lid or cookie sheet, reduce heat to medium-low."
+} ,{
+"@type": "HowToStep"
+,"text": "Let cook until whites have set, yolks are still runny, and some of white has set over yolk, 1 to 2 more minutes. Remove lid and transfer eggs to a serving plate. Garnish with pepper and flaky salt, if desired. Serve immediately."
+} ]
+,"recipeYield": ["1"]
+,"totalTime": "PT10M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cindy"
+},
+"reviewBody": "This is the only way I make \"fried\" eggs now. One of the highlights is that I've never, ever broken one once they're in the pan."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "NIMASU"
+},
+"reviewBody": "I've been making basted eggs for years (I'm 84), and I learned it from my dad. Instead of water, I add a splash (or 2) of Dry Vermouth. Gives just a bit of nicer flavor. Of course, after plating the eggs, spice it up any way you prefer. I like to add worchestershire sauce, or complete the dish by adding green and red salsa verde over each egg. Mexican restaurants call this \"Divorced Eggs\"."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jeffhorner58"
+},
+"reviewBody": "The first time I made this and it was terrific. I added oranges and spinach as side dishes. Will add this to my list of breakfast choices."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "shewolff"
+},
+"reviewBody": "LOL - I grew up thinking these were fried eggs. This is how my grandmother made them and always plenty of delicious yummy liquid yolk to dip your toast into. If the best part of the egg is the dipping of the toast into the yolk, then this is the version for you!!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8465544/basted-eggs/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/78/breakfast-and-brunch/",
+"name": "Breakfast and Brunch"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/148/breakfast-and-brunch/eggs/",
+"name": "Eggs"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8465544/basted-eggs/",
+"name": "Basted Eggs"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

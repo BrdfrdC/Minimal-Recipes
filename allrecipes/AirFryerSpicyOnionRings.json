@@ -1,0 +1,136 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Air Fryer Spicy Onion Rings"
+,"datePublished": "2022-09-01T10:31:14.000-04:00"
+,"dateModified": "2022-09-01T10:31:14.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "lutzflcat"
+,"url": "https://www.allrecipes.com/cook/lutzflcat"
+}
+]
+,"description": "These onion rings get a nice spicy flavor from adobo and chili and lime seasonings. Cooking them in the air fryer is much healthier than deep frying."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/2JbKuoKGyBJDpljmvtKj8uhiwmY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Air-Fryer-Spicy-Onion-Rings-lutzflcat-4x3-1-fb4d2343a0e34da9b78c9acff3dc7512.jpeg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Air Fryer Spicy Onion Rings"
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "230 kcal"
+,"carbohydrateContent": "53 g"
+,"cholesterolContent": "48 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "10 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "1093 mg"
+,"fatContent": "4 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"2 large sweet onions, sliced 1/2 inch thick",
+"0.67 cup buttermilk",
+"1 egg",
+"0.25 cup all-purpose flour",
+"1 teaspoon RedHot Chile and Lime Seasoning Blend (such as Frank's®)",
+"0.5 teaspoon adobo all-purpose seasoning (such as Goya®)",
+"2 cups panko bread crumbs",
+"1 teaspoon adobo all-purpose seasoning (such as Goya®)",
+"0.5 teaspoon RedHot Chile and Lime Seasoning Blend (such as Frank's®)",
+"olive oil cooking spray",
+"1 teaspoon kosher salt, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Whisk together buttermilk, egg, flour, chile and lime seasoning, and adobo seasoning for the batter in a shallow bowl. Cover and refrigerate for 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine panko, adobo seasoning, and chile and lime seasoning in a shallow dish; mix well. Remove batter from the fridge. Dip onion rings first into the batter, then into bread crumb mixture, turning to coat, and gently shake off excess crumbs. Lightly spritz the onion rings with cooking spray on both sides."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the air fryer to 340 degrees F (170 degrees C). Line the air fryer basket with a parchment liner or lightly spray with oil."
+} ,{
+"@type": "HowToStep"
+,"text": "Place the breaded onion rings into the fryer basket in an even layer, leaving about 1/2-inch space between the slices."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook until crisp and lightly browned, flipping halfway through, 10 to 12 minutes. You may have to cook in batches, and cooking time may vary depending on the size and brand of your air fryer."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove from the air fryer, transfer to a baking sheet, sprinkle with kosher salt, and place in a 250 degrees F (120 degrees C) oven to keep warm."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT60M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8465728/air-fryer-spicy-onion-rings/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/225/side-dish/vegetables/",
+"name": "Vegetables"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16882/side-dish/vegetables/onion/",
+"name": "Onion"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8465728/air-fryer-spicy-onion-rings/",
+"name": "Air Fryer Spicy Onion Rings"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,164 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Baked Spinach-Artichoke Dip without Mayo"
+,"datePublished": "2017-12-30T01:27:24.000-05:00"
+,"dateModified": "2017-12-30T01:27:24.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Lovley Food"
+,"url": "https://www.allrecipes.com/cook/10786781"
+}
+]
+,"description": "This cheesy spinach-artichoke dip is made without mayo — it still delivers that classic taste and exceptionally creamy texture."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Sv2Y4QCs7c5BFRk6nNyM1skixGM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/282806-baked-spinach-artichoke-dip-without-mayo-CookingWithShelia-4x3-1-2e3d1feca2fa4d2ca4345f947cf743d3.jpg",
+"height": 900,
+"width": 1200
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Baked Spinach-Artichoke Dip without Mayo"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "2"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "121 kcal"
+,"carbohydrateContent": "4 g"
+,"cholesterolContent": "27 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "5 g"
+,"saturatedFatContent": "6 g"
+,"sodiumContent": "347 mg"
+,"sugarContent": "0 g"
+,"fatContent": "10 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"olive oil cooking spray",
+"1 (10 ounce) package frozen chopped spinach, thawed",
+"1 (8 ounce) package cream cheese, softened",
+"1 cup sour cream",
+"1 teaspoon onion powder",
+"0.5 teaspoon salt",
+"0.5 teaspoon ground black pepper",
+"2 tablespoons green hot pepper sauce",
+"1 teaspoon chopped garlic",
+"1 (14 ounce) can artichoke hearts, drained and chopped",
+"1 cup shredded mozzarella cheese, or more to taste",
+"0.25 cup shredded Parmesan cheese, or more to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C). Spray a baking dish with cooking spray."
+} ,{
+"@type": "HowToStep"
+,"text": "Place thawed spinach in a kitchen towel; wrap tightly to squeeze out excess water until spinach is just damp. Set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix cream cheese, sour cream, onion powder, salt, and pepper together in a large bowl until smooth and creamy. Add artichoke hearts, drained spinach, hot sauce, and garlic; mix well. Add 1 cup mozzarella cheese and 1/4 cup Parmesan cheese; mix well. Pour into the prepared baking dish and sprinkle with extra cheese if you like a crispy, bubbly cheese layer on top."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until bubbly and slightly browned on top, about 30 minutes."
+} ]
+,"recipeYield": ["16"]
+,"totalTime": "PT50M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Danielle K."
+},
+"reviewBody": "Amazing dip! You can use this for so many things. My husband actually added some to an omelette. So yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CookingWithShelia"
+},
+"reviewBody": "My family and I loved this dip. I altered the recipe a little by using fresh spinach instead of frozen, I only used 1/2 cup Mozzarella and I baked it for about 45 minutes."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/282806/baked-spinach-artichoke-dip-without-mayo/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/105/appetizers-and-snacks/dips-and-spreads/",
+"name": "Dips and Spreads Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1242/appetizers-and-snacks/dips-and-spreads/spinach-dips/",
+"name": "Spinach Dip Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/282806/baked-spinach-artichoke-dip-without-mayo/",
+"name": "Baked Spinach-Artichoke Dip without Mayo"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

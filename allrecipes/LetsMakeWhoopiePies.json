@@ -1,0 +1,141 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Let&#39;s Make Whoopie Pies"
+,"datePublished": "2018-12-05T23:39:56.000-05:00"
+,"dateModified": "2020-03-05T00:18:58.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Reynolds KitchensR"
+,"url": "https://www.allrecipes.com/cook/reynolds"
+}
+]
+,"description": "These chocolate whoopie pies filled with pink vanilla marshmallow cream are made easy with Reynolds KITCHENS® parchment paper."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/cw-Y_8iTH3fR5kUKzmM9OfURWRg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6138453-94880917d9624327971ed7c2862f30ff.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Let&#39;s Make Whoopie Pies"
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "331 kcal"
+,"carbohydrateContent": "57 g"
+,"cholesterolContent": "39 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "7 g"
+,"sodiumContent": "196 mg"
+,"sugarContent": "36 g"
+,"fatContent": "11 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"Reynolds KITCHENS® Parchment Paper with SmartGrid®",
+"2 cups all-purpose flour",
+"0.66666668653488 cup unsweetened cocoa powder",
+"1.5 teaspoons baking soda",
+"1 stick butter, softened",
+"1 cup firmly packed light brown sugar",
+"1 large egg",
+"1 teaspoon vanilla",
+"1 cup buttermilk",
+"White crystal sugar",
+"0.75 stick unsalted butter, softened",
+"2 cups powdered sugar",
+"1 (7.5 ounce) jar marshmallow cream (such as Marshmallow Fluff®)",
+"2 teaspoons vanilla",
+"Reynolds KITCHENS® Quick Cut™ Plastic Wrap" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat oven to 350 degrees F. Line 2 large baking sheets with parchment paper."
+} ,{
+"@type": "HowToStep"
+,"text": "In medium bowl, combine flour, cocoa, and baking soda. In large bowl, with mixer on high speed, beat together butter and sugar until light and fluffy, about 3 minutes. Add egg and vanilla, and beat to combine. Alternate adding flour mixture and buttermilk in small batches, beginning and ending with flour mixture."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix until smooth, occasionally scraping sides of bowl. With a tablespoon, spoon mounds of batter 2 inches apart onto baking sheets and form into football shapes. SmartGrid® lines represent 1 inch squares to help you with precise spacing."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake 15 minutes or until tops are puffed and cakes spring back when touched. Transfer to a rack and cool completely."
+} ,{
+"@type": "HowToStep"
+,"text": "In medium bowl, with mixer on high speed, beat together butter, powdered sugar, marshmallow cream, and vanilla until smooth, about 3 minutes. Makes about 1 1/2 cups of filling. Spread a rounded tablespoon of filling on flat sides of half the cakes. Top with other cakes."
+} ,{
+"@type": "HowToStep"
+,"text": "To decorate your whoopie pies to look like footballs, cut two pieces of Reynolds KITCHENS® Plastic Wrap about 15 inches wide and criss-cross them over each other to form a large X. In the center of the X, scoop all of your remaining filling and then gather the sides to push the filling down into a ball. Very carefully poke a small hole into the bottom of this ball so that you can pipe the football laces onto your whoopie pies. The thickness of your laces will depend on how big of a hole you poke into the plastic wrap."
+} ]
+,"recipeYield": ["16"]
+,"totalTime": "PT45M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/269481/lets-make-whoopie-pies/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/",
+"name": "Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/79/desserts/",
+"name": "Desserts"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/269481/lets-make-whoopie-pies/",
+"name": "Let&#39;s Make Whoopie Pies"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

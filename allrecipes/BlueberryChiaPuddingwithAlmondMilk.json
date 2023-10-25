@@ -1,0 +1,214 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Blueberry Chia Pudding with Almond Milk"
+,"datePublished": "2018-03-26T23:11:40.000-04:00"
+,"dateModified": "2021-09-15T14:40:53.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "VAL_51"
+}
+]
+,"description": "This chia pudding recipe with almond milk makes a light vegan dessert or breakfast on the go and can be served plain or with toppings of your choice."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/kdiQEo-8k66vq-Uvc4smnnZOnW0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8315042-3d627465106246ed8310661c8c0a3f9d.jpg",
+"height": 1280,
+"width": 1280
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Blueberry Chia Pudding with Almond Milk"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "8"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "146 kcal"
+,"carbohydrateContent": "19 g"
+,"fiberContent": "7 g"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "110 mg"
+,"sugarContent": "11 g"
+,"fatContent": "7 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"2 cups almond milk",
+"6 tablespoons chia seeds, or more to taste",
+"0.33333334326744 cup fresh blueberries",
+"1 tablespoon maple syrup, or more to taste",
+"0.5 teaspoon vanilla extract",
+"1 pinch ground cinnamon" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine almond milk, chia seeds, blueberries, maple syrup, vanilla extract, and cinnamon in a blender; blend until smooth. Pour into 3 ramekins or glasses."
+} ,{
+"@type": "HowToStep"
+,"text": "Chill until set, 8 hours to overnight. Serve chilled."
+} ]
+,"recipeYield": ["3"]
+,"totalTime": "PT490M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "TerriC"
+},
+"reviewBody": "Made according to recipe using 1/2 Cup chia seeds. Tastes ok, did not set up. Disappointing. Pudding is a thick and creamy desert that you eat with a spoon, this is more like a thinner milkshake that you drink. Won’t make again, don’t want to play around with how much chia seeds are necessary to thicken it up."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "805lkhoward24"
+},
+"reviewBody": "For my wife's pudding, I followed the recipe as given using Erythritol for the sweetener to keep it low carb . She loved it, especially the creamy consistency and coconut-cinnamon topping. I used maple syrup to sweeten the pudding, and instead of blending all the ingredients together, I added the chia seeds last and just gave the blender a quick tap to stir in the chia seeds rather than grinding them up. My batch took all night in the fridge to set up and the pudding had more of a tapioca pudding type of consistency. And I topped it off with toasted pecan pieces."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christin York"
+},
+"reviewBody": "Delicious!! but it did not set"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Diane Paul"
+},
+"reviewBody": "made this with fresh blueberries and lemon zest. delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tessisamomof3"
+},
+"reviewBody": "I added a sprinkle of cocoa powder! Yumm!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Liz Fisher"
+},
+"reviewBody": "I’m a fan of pudding and appreciate healthy alternatives! I did replace the Almond Milk with Rice Milk due to allergies and frozen blueberries instead of fresh, which were a tad chewy but I’m not picky."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stephanie Sagheb"
+},
+"reviewBody": "So easy and delicious! I garnished mine with extra berries and ground flaxseed for a nice nutty flavor."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/263457/blueberry-chia-pudding-with-almond-milk/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/363/desserts/custards-and-puddings/",
+"name": "Custards and Puddings"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/8249385/desserts/custards-and-puddings/chia-pudding/",
+"name": "Chia Pudding"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/263457/blueberry-chia-pudding-with-almond-milk/",
+"name": "Blueberry Chia Pudding with Almond Milk"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

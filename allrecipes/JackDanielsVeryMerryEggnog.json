@@ -1,0 +1,160 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Jack Daniel&#39;s Very Merry Eggnog"
+,"datePublished": "2020-06-19T00:21:40.000-04:00"
+,"dateModified": "2022-09-24T20:53:10.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "JACK BERGGREN"
+,"url": "https://www.allrecipes.com/cook/9434656"
+}
+]
+,"description": "Don&#39;t wait for December to enjoy this Jack Daniel&#39;s eggnog! Make Thanksgiving festive with this deliciously potent, quick and easy, homemade eggnog recipe."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/W_ERKG80D2cBJ4dDljSCkpxygdk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4588089-6302837092e84de7b0402163aeb0ef0c.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Jack Daniel&#39;s Very Merry Eggnog"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "3"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "335 kcal"
+,"carbohydrateContent": "17 g"
+,"cholesterolContent": "102 mg"
+,"proteinContent": "4 g"
+,"saturatedFatContent": "10 g"
+,"sodiumContent": "58 mg"
+,"sugarContent": "14 g"
+,"fatContent": "17 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1.25 cups white sugar",
+"1 cup dark rum",
+"1 cup bourbon",
+"1 cup brandy",
+"1 teaspoon vanilla extract",
+"1 pinch ground nutmeg, or to taste",
+"1 pinch salt",
+"1 quart half-and-half",
+"1 pint heavy whipping cream",
+"5 large eggs" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Mix sugar, rum, bourbon, brandy, vanilla, nutmeg, and salt in a blender on medium speed until combined. Transfer to a large bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour half-and-half, cream, and eggs into the blender; mix on low speed until combined. Carefully pour into the liquor mixture and stir to combine."
+} ,{
+"@type": "HowToStep"
+,"text": "Ladle combined mixture back into the blender in batches; blend on low speed. Transfer blended eggnog to a punch bowl or pitcher."
+} ,{
+"@type": "HowToStep"
+,"text": "Refrigerate eggnog until cold, 1 to 2 hours, before serving."
+} ]
+,"recipeYield": ["18"]
+,"totalTime": "PT70M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Great EXCELLENT"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Soup Loving Nicole"
+},
+"reviewBody": "This was some kind of special! Talk about packing a punch. This was super simple and down right delicious. Go easy because this will sneak up on you and kick you in the booty!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/258474/jack-daniels-very-merry-eggnog/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/77/drinks/",
+"name": "Drinks Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/141/drinks/eggnog/",
+"name": "Eggnog Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/258474/jack-daniels-very-merry-eggnog/",
+"name": "Jack Daniel&#39;s Very Merry Eggnog"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

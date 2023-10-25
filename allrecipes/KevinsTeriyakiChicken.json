@@ -1,0 +1,847 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Kevin&#39;s Teriyaki Chicken"
+,"datePublished": "2018-03-21T12:30:06.000-04:00"
+,"dateModified": "2022-08-08T11:37:17.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "amyjohnson101"
+,"url": "https://www.allrecipes.com/cook/24320897"
+}
+]
+,"description": "A quick and easy chicken marinade with pineapple, soy sauce, and garlic. Ready in minutes, with the flavor of cooking all day!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/AuG4yjWG6XHT_6T4NqxMBBZ40PE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/245771-96b894f6ea86443b91ca5090ae4c0dc7.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Kevin&#39;s Teriyaki Chicken"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.3",
+"ratingCount": "92"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "257 kcal"
+,"carbohydrateContent": "15 g"
+,"cholesterolContent": "99 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "42 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "1917 mg"
+,"sugarContent": "10 g"
+,"fatContent": "2 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1.5 cups pineapple juice",
+"0.5 cup soy sauce",
+"1 teaspoon ground ginger",
+"0.5 teaspoon garlic powder",
+"0.25 teaspoon white pepper",
+"4 (6 ounce) skinless, boneless chicken breast halves" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "In a large bowl, mix together the pineapple juice, soy sauce, ginger, garlic powder, and white pepper. Reserve a small amount of the marinade separately for dipping later."
+} ,{
+"@type": "HowToStep"
+,"text": "Place chicken in marinade, and add enough water to cover. Cover, and refrigerate for 24 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat an outdoor grill for medium-high heat."
+} ,{
+"@type": "HowToStep"
+,"text": "Brush grate lightly with oil. Grill chicken 5 to 7 minutes per side, depending on thickness. Chicken is done when inside is no longer pink and juices run clear."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT1465M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Lucrecia Skellenger"
+},
+"reviewBody": "I am not sure if I did something wrong, but I did follow the recipe to a T and the chicken turned up really blend. I definitely will not make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Maria Mulaniff"
+},
+"reviewBody": "My family loved it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "AMP"
+},
+"reviewBody": "This recipe did not turn out for me. The soy was overwhelming and I have never had chicken do this before. I am not sure if it was from the pineapple or what but it was almost gummy after grilling. I was very disappointed. :("
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Charla"
+},
+"reviewBody": "This is some good marinade. And so easy to make with only 5 ingredients, besides the chicken. The chicken I was afraid was going to be dry, but i couldn't have been more wrong. It was moist and flavorful. I finished the meal with chicken fried rice and sliced tomatoes. What a great and easy meal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Charla"
+},
+"reviewBody": "This is some good marinade. And so easy to make with only 5 ingredients, besides the chicken. The chicken I was afraid was going to be dry, but i couldn't have been more wrong. It was moist and flavorful. I finished the meal with chicken fried rice and sliced tomatoes. What a great and easy meal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "pnr"
+},
+"reviewBody": "I made this recipe exactly as written. My wife and thought it was ok. Not something that I will make again, but it might be better over a salad or something like that."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Melissa Ann"
+},
+"reviewBody": "I made it as instructed, marinated for 24 hours and found it to be completely bland. Will not make this again!."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "La Wera Díaz "
+},
+"reviewBody": "I made it with pork and turned out awesome ! I live in Yucatán Mexico and I'm craving some home style foods and because we are low on ingredients this was awesome !and the review's helped mi a tone thanks !"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Debbie M"
+},
+"reviewBody": "I made this recipe exactly as is. It was sooo good. It's definitely a keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary Egsieker"
+},
+"reviewBody": "All I have to say is:\nMY KIDS ATE IT.\nDelicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lindsayobrien84"
+},
+"reviewBody": "I've made it as written, but I prefer to cut up the chicken and made a stir fry with the same sauce, green and red bell pepper, and white onion.. plus some of the pineapple chunks at the end. YUM! Serve over brown rice! I thicken the sauce with corn starch as someone else suggested."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "kate"
+},
+"reviewBody": "Pretty good, nothing spectacular"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Erica Petrucci"
+},
+"reviewBody": "A great flavor for most any palette. Keeps the chicken tender and juicy too!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "ShttrBugin"
+},
+"reviewBody": "This was a half-win in our home. Half liked, half not. I'm on the fence. I will say that it stayed mostly soft and tender. I'm a killer of chicken...almost always dry it out. I marinated all day, and made enough to cover chicken fully rather than add water. Flavor was mild, not very strong. Probably won't make again; but thank you for the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "merlion"
+},
+"reviewBody": "I found this a little too salty... And the flavours weren't very pronounced. Maybe it was the pineapple juice I used... Not sure..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marie"
+},
+"reviewBody": "Wonderful! Made the recipe as is and it was absolutely delicious. We made extra so we'd have leftovers for salads, etc.. and even put 2 pork chops in the marinade. Hubby liked them equally as much. I'll have to try mine later because I couldn't stop eating the chicken! Oh, and I only was able to marinade mine for 5 hours - still great! Please make sure you use fresh ground ginger... the spice from a jar won't work nicely in my opinion.\r\n\r\nDefinitely a keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "AMerHart"
+},
+"reviewBody": "Super Easy!! We doubled the marinade and added red onion, red bell pepper, orange bell pepper, and fresh pineapple to the chicken. We did not need to add any water to the marinade for it to cover all of the ingredients. \nThis made the best kabobs!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "beezerbrit"
+},
+"reviewBody": "This was REALLY good, I never would have thought to use pineapple juice, but it was great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stephanie"
+},
+"reviewBody": "This is my new \"go-to\" recipe. This marinade is good baked or grilled. I keep the ingredients on hand at all times now, and I don't change a thing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "AcaCandy"
+},
+"reviewBody": "I added some fresh pineapple to the marinade, grilled the pineapple slices at the same time, saved the marinade and boiled it for a side sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bob Kelley"
+},
+"reviewBody": "Perfect as listed. Great taste and as moist as I have ever had."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Linda Grein"
+},
+"reviewBody": "This recipe wasn't as good as I thought it would be, but thank you for the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kristyl Lee"
+},
+"reviewBody": "Absolutely love this recipe!!! My husband even learned to make it when I'm away."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kelly, Addison & Caitlyn"
+},
+"reviewBody": "Great taste!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Delicious!! The only thing I did different is I poured the sauce in the dish that the chicken was baking in and the chicken was EXCELLENT!! We made rice and put the chicken on top of the rice and added some of the sauce that the chicken had cooked in! Highly recommended and super easy!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tina B"
+},
+"reviewBody": "this recipe is great. The chicken was so tender, even the next day warmed in the microwave. Everyone loved it, even my ten-year-old who hates chicken breast. I took the advice of others and used cornstarch to make a dipping sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dariqueen"
+},
+"reviewBody": "This has become my default teriyaki sauce recipe. So good for summer cookouts!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "PercyPea"
+},
+"reviewBody": "This was fantastic! I cut the chicken into smaller pieces, cooked it a bit in a skillet then threw in a bag of Asian style frozen veggies and some leftover rice. Then I put some of the sauce on and some corn-starch to thicken. Delicious :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Amanda B."
+},
+"reviewBody": "Wish I could give it 3.5 stars. This was ok - no fireworks, but husband said it tasted good (but no request to make it again). I would suggest you serve it with some pineapple fried rice - that may compliment this recipe in a way that I didn't."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Christy"
+},
+"reviewBody": "The chicken was tender and my family liked it okay but all I could taste was soy sauce. This makes a tremendous amount of marinade. Probably won't make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "lisa92778"
+},
+"reviewBody": "loved it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shannon"
+},
+"reviewBody": "Very tasty chicken....my entire family just loved it. I hope everyone tries this recipe. I don't think you will regret it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Neeley"
+},
+"reviewBody": "I made this exactly as is and my boyfriend thought it was ok but I thought it was one of the most bland chickens I have ever had and I even used extra ground ginger. Sorry but I will not be making this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "alliebaba"
+},
+"reviewBody": "did i do something wrong? it was really salty and not as sweet as i hoped."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "stephanie"
+},
+"reviewBody": "This was not bad. The flavor was mild and not too sweet. I was not able to grill so I browned on the stove then finished in the oven. I will try again when I am able to grill."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "srchen"
+},
+"reviewBody": "So Good! I have used this on all cuts of chicken, pork and even breakfast beef steaks. I use fresh ground ginger root! My 11 year old doesn't like oriental foods, but he loves it too!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Shalaine_1"
+},
+"reviewBody": "The pineapple juice gave it a sweet after taste. Very moist, juicy chicken. It was good but I wouldn't make it for company. I used fresh garlic and ginger."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Emily d'Entremont"
+},
+"reviewBody": "Why bother buy the sauce in the store when you can make this? Liked it very much. Only change was fresh garlic, since I didn't have powder."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "AZ"
+},
+"reviewBody": "I made this with crushed pineapple instead of pineapple juice, because I had some that I needed to use up, and it was wonderful. Not too salty, not too sweet. I'll make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SarahBeez"
+},
+"reviewBody": "Great marinade. I added a little sesame oil because we love the flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "KiwiOz0708"
+},
+"reviewBody": "Delicious and super easy!!Made this with grilled pineapple on the side. My super picky sister even loved it!! The only thing i did change was using low sodium soy sauce as well as ginger root instead because i didnt have ground ginger on hand."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "lisa"
+},
+"reviewBody": "I am so glad I found this. A friend gave me this years ago and I lost it. I make kabobs with it using pinapple chunks,green pepper and onion. I marinate all of it in the juice. So good and easy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "bluebutterfly0606"
+},
+"reviewBody": "This was good. I think next time I will try to skewer them and add pinapple and bell peppers."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lorie"
+},
+"reviewBody": "This was great! The marinade smells wonderful when you mix it together. I marinaded and cooked extra chicken and saved the leftovers for next night and used in a stir fry...I think it was better than most restaurants! And, I used real fresh garlic instead."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stacy Biertzer"
+},
+"reviewBody": "Thank you so much for this recipe. Perfect. I only had 2 hours to marinade and it was still awesome. The kids asked for seconds. Thanks."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Joelene Young"
+},
+"reviewBody": "easy and delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "michaelsgal85"
+},
+"reviewBody": "Absolutely incredible I am making it again today but I do not have any chicken so I am using small pork roasts and I think it is gonna be just a yummy TY"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cookingfor8"
+},
+"reviewBody": "Awesome! Used a grill pan because of rain and it was still great. Nice on a salad the next day if you have leftovers."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "LINDA MCLEAN"
+},
+"reviewBody": "The chicken was moist, tender and absolutely delicious. I saved the marinade, brought it to a boil, simmered and then added cornstarch which made a really nice sauce. Thank you Amy!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Linda T"
+},
+"reviewBody": "This was indeed very moist and tender but I couldn't really taste the marinade very strongly. I'll try some of the other posters tricks next time to see if I can get more traste out of it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Chiweenie Mom"
+},
+"reviewBody": "To us it was okay, easy but nothing special. Even so, I would recommend giving it a try. We won't be doing this one again, but it was an okay dinner."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JennyJen2009"
+},
+"reviewBody": "Very tasty and very easy. I poked holes in the chicken with a fork before marinating. I only had time to marinate it for 6 hours and it was still really moist."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "foodaholic"
+},
+"reviewBody": "I absentmindedly marinated my chicken for two days and thought it might not be so great. IT WAS! Tender and juicy. I think this would be great for taking on a camping trip."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Thomas Leinaar"
+},
+"reviewBody": "Recipe was quick and easy, I found butterflying the chicken helped shorten cooking time and left it more moist."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "PLAYGROUPMOM"
+},
+"reviewBody": "This was so easy and the chicken was SO tender. Now I get requests to make this at family gatherings!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/52446/kevins-teriyaki-chicken/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16954/main-dish/chicken/",
+"name": "Chicken"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/15938/main-dish/chicken/chicken-teriyaki/",
+"name": "Chicken Teriyaki Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/52446/kevins-teriyaki-chicken/",
+"name": "Kevin&#39;s Teriyaki Chicken"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

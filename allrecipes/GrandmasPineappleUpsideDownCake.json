@@ -1,0 +1,701 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Grandma&#39;s Pineapple Upside-Down Cake"
+,"datePublished": "2020-06-19T00:18:07.000-04:00"
+,"dateModified": "2023-02-13T19:04:16.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "C N."
+,"url": "https://www.allrecipes.com/cook/1685328"
+}
+]
+,"description": "Ready in under 1 hour, this classic upside-down cake is made with pineapple rings and pecans to create a quick and easy crowd-pleasing treat."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/7j8oPO8yUau6F_SbYfS2X2zPXTE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6374147-grandmas-pineapple-upside-down-cake-Julia-D.-4x3-1-7739f11de32d410086c51f19be878f3a.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Grandma&#39;s Pineapple Upside-Down Cake"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.4",
+"ratingCount": "50"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "319 kcal"
+,"carbohydrateContent": "55 g"
+,"cholesterolContent": "67 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "215 mg"
+,"sugarContent": "42 g"
+,"fatContent": "10 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"0.33333334326744 cup butter",
+"0.5 cup brown sugar, packed",
+"8 pineapple rings",
+"8 pecan halves",
+"1 cup all-purpose flour",
+"1 teaspoon baking powder",
+"0.25 teaspoon salt",
+"0.66666668653488 cup white sugar",
+"2 eggs",
+"0.25 cup pineapple juice" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Melt butter in a 9-inch cast iron skillet over medium heat. Stir in brown sugar; heat until bubbly. Remove from heat. Arrange pineapple rings and pecans on top."
+} ,{
+"@type": "HowToStep"
+,"text": "Sift flour, baking powder, and salt together in a bowl; repeat sifting twice more."
+} ,{
+"@type": "HowToStep"
+,"text": "Beat white sugar and eggs together in a bowl with an electric mixer until light and fluffy."
+} ,{
+"@type": "HowToStep"
+,"text": "Alternate folding flour mixture and pineapple juice into egg mixture in 3 batches, beginning and ending with flour mixture. Pour over pineapple slices."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until a toothpick inserted into center comes out clean, 30 to 35 minutes. Let cool in the skillet for 5 minutes. Invert carefully onto a serving platter."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT45M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dragonlady927"
+},
+"reviewBody": "Didn't put in the pecans or cherries, but the cake is light and fluffy! Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "My first time ever using a cast iron skillet for baking. I follow the directions exactly as written. The cake turned out very good. However I will omit the pecans next time. They didn't go well with other family members. Overall was very good for a first time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JustBarb"
+},
+"reviewBody": "Excellent cake! I get rave reviews every time I serve it. I have substituted peaches for pineapples which is also delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rebecca Palomino"
+},
+"reviewBody": "Had to adjust due to allergies! Haven't cut into it yet though. I cant wait. Smells delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "C Sue Simpson"
+},
+"reviewBody": "My husband really liked this recipe. The cake crumb is a little dense for me though. Recipe is easy enough for a quick dessert. I left out the pecans &amp; it worked out just fine."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sandi Ragan"
+},
+"reviewBody": "Best pineapple upside down cake ever! Definitely will keep the receipt! Had to add cooking time and foil over it for the last 15 minutes. Came out so yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "FireTigerCrimson888"
+},
+"reviewBody": "I thought that this was supper hard but that's old fashioned for you but over all it was delicious I never thought that I would like a cake almost as much as I like triple chocolate cake. Especially this though I do really like cherry's and pineapple recomended."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sheryle Harris"
+},
+"reviewBody": "Made this tonight for the first time. Used a glass cake dish b/c I didn’t have an iron skillet at my vacation home. Came out fabulous! Substituted maraschino cherries for pecans b/c my mother did when I was a kid. Great dessert after a great meal. Will definitely make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tracy Turnbull Stewart"
+},
+"reviewBody": "I found this to be quite an easy cake to make, and that's saying something as I'm not much of a baker! I used a 10.5\" cast iron frying pan and baked it for 25 minutes. Very tasty!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rebecca Ann"
+},
+"reviewBody": "Use this recipe at work in assisted living and the residents love it!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cecilia Flowers"
+},
+"reviewBody": "Following the recipe and hitting a home run!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "shaeg"
+},
+"reviewBody": "It was easy to follow. I put a 1/2 teaspoon of vanilla and used walnuts."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "clotus"
+},
+"reviewBody": "BEST EVER CAKE!!... I was looking for a recipe that didn’t say to use a cake mix... this is awesome it’s very easy and the cake has just the right amount of sponge the texture is awesome and flavor is fantastic"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JoAnne"
+},
+"reviewBody": "I followed directions exactly. Very enjoyable."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jayme Edon"
+},
+"reviewBody": "Super easy to make- I was surprised! It didn’t take very long either. Delicious. Will save recipe to make again some day."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Mari"
+},
+"reviewBody": "Worst cake ever, overflowed all over. BEWARE"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa A"
+},
+"reviewBody": "Very yummy. My neighbor liked it too!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Donovin Tulley"
+},
+"reviewBody": "I split the batter in half for two 12 in round cast iron skillet cakes. The first one was burnt . The second cake I baked at 350 degrees for 22 minutes and it turned out great. Very tasty. Sweet. But yummy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "David Assaf"
+},
+"reviewBody": "I’ve made this a few times now - it’s one of my mom’s favourites. I’ve used half a cup more flour and 1/4 cup shredded coconut and added more juice to make up for the extra dry ingredients. And the cast iron skillet works perfectly!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Margaret Latham"
+},
+"reviewBody": "I love it so did my friend and family"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "utahoosier"
+},
+"reviewBody": "I was short on pineapple rings, so I had to use chunks and I used maraschino cherries in place of the pecans, but other than that, no changes. This recipe is perfect just the way it is!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Madeeha Asad"
+},
+"reviewBody": "Loved it, it’s quite simple"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Evie Marie Lambert"
+},
+"reviewBody": "I was so easy and tasted heavenly."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Nowelle"
+},
+"reviewBody": "This was delicious. The cake part was a little flat and tasted a bit funny but perhaps it was because I didn't fluff the eggs enough. Overall very sweet and tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ranknfyle"
+},
+"reviewBody": "What a fabulous dessert we enjoyed this evening. A blast to our past. 1950’s, where are you? I read the reviews that suggested increasing the the batter by 1/2. Good idea.I used maraschino cherries and a few broken walnuts. Might try some orange peel next time. Oh yea, there’ll be a next time. We loved the texture of the cake. Still too much brown sugar and butter. Fun recipe to make in a 10” iron skillet. Be sure to cool on a rack for 10 minutes before flipping."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Deanna Michelson"
+},
+"reviewBody": "Simply put \"Awesome\""
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Beverly Miki Poodiack"
+},
+"reviewBody": "Not a fan."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "piddypatt"
+},
+"reviewBody": "I had to sneak the pineapple into the house so that my husband wouldn't guess what I was making! He couldn't believe that I cooked it in the skillet!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Scooter"
+},
+"reviewBody": "I added dried orange peel. It was a great hit!!!! Thank you for this light, homemade cake base. The pineapple juice added the right flavor. .yummmmmmm"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary"
+},
+"reviewBody": "So delicious! Just like my Moms recipe. We eat gluten free, so I used King Arthur All Purpose measure for measure flour and it is excellent!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Melissa in MI"
+},
+"reviewBody": "I used a 10\" cast iron pan so I increased the recipe by 1/2. I also added some fresh mulberries and rhubarb pieces around the pineapple which gave it a delightful unexpected twist on flavor and presentation. Was very good! Would give 5 stars if there were some type of oil incorporated into the cake batter, because although mine was not dry - you can tell from the texture it will not be forgiving if over baked."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "suelynn"
+},
+"reviewBody": "made it with no changes. Was very good... like grandma"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Made no changes. Cake was very dry. Embarrassed to serve to guests. We had to literally dip in coffee to even eat it. Would definitely NOT recommend this recipe. Waste of time and ingredients."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "semodad"
+},
+"reviewBody": "Made no changes. Cake was very dry. Embarrassed to serve to guests. We had to literally dip in coffee to even eat it. Would definitely NOT recommend this recipe. Waste of time and ingredients."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joy"
+},
+"reviewBody": "It was a hit at my dinner table. I made no changes to the recipe. Will be making it again soon!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Derek Niehaus"
+},
+"reviewBody": "I just finished baking this and added a photo. I haven't tried it, it's for a party tomorrow but I will update after the tasting.\n\nThe baking...\nPretty easy recipe. However, while making the sugar butter I turned my back for a sec to start the dry ingredients and burned it, so I dumped it, cleaned my skillet and started over. The second go, I stirred constantly, but I think I let it cook a bit too long, as the butter and sugar kind of split and darkened. It looked perfect moments before but I was waiting for the sugar to melt a little more. I used it anyway. Smells like some yummy browned butter!\n\nEverything else in the recipe went well. When I put the batter in the skillet it didn't look like it was going to be enough to cover it, but after spreading, it was just enough. However, if the cake is delicious, I may add a half or double the batter next time as the cake isn't as thick as I envisioned. Like another reviewer, I chose to use fresh cherries instead of pecans (and used fresh pineapple too).\n\nTo be continued..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "RKardos"
+},
+"reviewBody": "Very tasty and beautiful!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Angie Eldam"
+},
+"reviewBody": "My husband's favorite cake! This was so light and it didn't make me feel too full. It was perfect for something sweet after dinner. Great with a cup of coffee, or tall glass of ice cold milk. I added a handful of pecans to the topping for added crunch.."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": " THE CHEF"
+},
+"reviewBody": "This is an amazing recipe I love it. Great for parties and reunions."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Elsiejay"
+},
+"reviewBody": "I teach English classes in Guatemala, and students asked to make a cake. Because we have access to fresh, local and sweet pineapple, we tried this, mainly because it doesn't take a boxed cake mix. They cut fresh pineapple, made the sugar butter sauce, decorated the bottom of the cake, and we baked it. They were very impressed by the beautiful presentation, and ate it still warm. \n\nI will make this again, but with some changes. I think it was too sweet and the amount of butter was too much, I think. It was very good, but I will make 1/2 more batter, and use less sugar and butter so that it is more cakey."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Patti Rice"
+},
+"reviewBody": "Absolutely delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Dan Roland"
+},
+"reviewBody": "this is the first time I have filled with a cast iron skillet and I am pretty happy with the results."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "pomplemousse"
+},
+"reviewBody": "It's been so long since I've eaten pineapple upside down cake that I don't quite remember how it tastes, but this seems a bit too spongy in texture for me. Incredibly easy, but bland as well. I think I'll try a different recipe since I'd like a bit more flavor and a less spongy texture. Not bad, though, and would likely be good with strawberries and cream instead of pineapple. I didn't notice until I started making it that this called for nuts instead of the usual cherries. Since I didn't have what was called for and did have cherries, I just used those. Thank you for the recipe."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/255251/grandmas-pineapple-upside-down-cake/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17140/desserts/fruit-desserts/",
+"name": "Fruit Desserts"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17531/desserts/fruit-desserts/pineapple-desserts/",
+"name": "Pineapple Dessert Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/255251/grandmas-pineapple-upside-down-cake/",
+"name": "Grandma&#39;s Pineapple Upside-Down Cake"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

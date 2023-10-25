@@ -1,0 +1,153 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Duck Jalapeño Poppers"
+,"datePublished": "2019-04-04T00:10:47.000-04:00"
+,"dateModified": "2022-05-17T07:44:32.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "jbird16"
+,"url": "https://www.allrecipes.com/cook/5883794"
+}
+]
+,"description": "Perfect for entertaining, these unique jalapeño poppers are stuffed with pepper Jack cheese and wrapped in bacon and chipotle-marinated duck."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Ps0-Bp2Dv5L_S-J79YqcvCbKH38=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9035706-25f3ce9567474fb2b975d5daa9712d14.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Duck Jalapeño Poppers"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "1"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "164 kcal"
+,"carbohydrateContent": "2 g"
+,"cholesterolContent": "51 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "9 g"
+,"saturatedFatContent": "7 g"
+,"sodiumContent": "1207 mg"
+,"sugarContent": "1 g"
+,"fatContent": "13 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"2 duck breast halves",
+"2 cups water",
+"2 tablespoons salt",
+"1 tablespoon ground chipotle pepper (such as Mrs. Dash Southwest Chipotle Seasoning Blend®)",
+"0.25 cup apple cider vinegar",
+"2 tablespoons Worcestershire sauce",
+"1 teaspoon monosodium glutamate (such as Ac'cent®)",
+"1 teaspoon garlic powder",
+"5 drops hot pepper sauce",
+"8 jalapeno peppers - stemmed, seeded, and halved lengthwise, or to taste",
+"1 (8 ounce) package pepper Jack cheese, sliced, or to taste",
+"1 (8 ounce) package cream cheese",
+"8 thick slices bacon, or to taste",
+"toothpicks" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Clean and rinse duck breasts thoroughly in cold water. Cut into 1/4-inch slices and place in a resealable plastic bag with water and salt. Refrigerate for 2 to 3 hours. Remove from bag and rinse again under cold running water."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine duck, ground chipotle pepper, vinegar, Worcestershire sauce, monosodium glutamate, garlic powder, and hot pepper sauce in a resealable plastic bag. Refrigerate until well marinated, 2 to 3 hours more."
+} ,{
+"@type": "HowToStep"
+,"text": "Fill jalapenos with pepper Jack cheese and cream cheese. Top with marinated duck. Cut bacon strips in half and wrap each stuffed pepper with a bacon strip. Secure with a toothpick."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat an outdoor grill for 400 degrees F (204 degrees C) and lightly oil the grate. Cook jalapeno peppers, flipping once or twice, until bacon is browned, about 15 minutes."
+} ]
+,"recipeYield": ["16"]
+,"totalTime": "PT165M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Soup Loving Nicole"
+},
+"reviewBody": "Made as written and this was one of the better wild duck recipes I have made. It's time consuming but worth it so plan ahead. Anyone that cooks wild duck knows you have to keep it pretty rare if you don't want it taking on a liver taste. I was really worried about the cook time on this one and was preparing for the worst. Turns out, there was barley if any liver taste at all. Excellent recipe!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/261982/duck-jalapeno-poppers/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/109/appetizers-and-snacks/vegetable/",
+"name": "Vegetable"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1241/appetizers-and-snacks/vegetable/jalapeno-poppers/",
+"name": "Jalapeno Popper Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/261982/duck-jalapeno-poppers/",
+"name": "Duck Jalapeño Poppers"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

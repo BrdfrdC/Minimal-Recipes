@@ -1,0 +1,268 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Prosciutto and Provolone Panini Sandwiches"
+,"datePublished": "2013-03-13T02:04:14.000-04:00"
+,"dateModified": "2022-01-14T11:59:07.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Carapelli Olive Oil"
+,"url": "https://www.allrecipes.com/cook/carapellioliveoil"
+}
+]
+,"description": "The perfect flavor combo--prosciutto, Provolone, pesto, and roasted bell peppers--on rustic bread and toasted in a panini press makes a great lunch or a quick, light dinner."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/L_qCpmJKVs5t5An2Xj-HO9mHbSc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/983891-6f1d50a194b24575ba745d2f301db126.jpg",
+"height": 250,
+"width": 250
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Prosciutto and Provolone Panini Sandwiches"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "15"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "799 kcal"
+,"carbohydrateContent": "27 g"
+,"cholesterolContent": "76 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "31 g"
+,"saturatedFatContent": "22 g"
+,"sodiumContent": "1754 mg"
+,"sugarContent": "3 g"
+,"fatContent": "64 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"0.5 cup CARAPELLI® Extra Virgin Olive Oil",
+"8 slices rustic Italian or sourdough bread",
+"0.25 cup prepared basil pesto",
+"16 thin slices Provolone cheese",
+"12 thin slices prosciutto",
+"4 whole, well-drained bottled roasted red peppers, cut into strips" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat a panini grill or waffle iron. Brush oil over bread slices. Turn 4 slices over; spread pesto evenly over bread. Top with half of the cheese, tearing to fit if necessary, all of the prosciutto and pepper strips and remaining cheese. Close sandwiches with remaining bread oiled sides up."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook (in batches) in panini maker* or waffle iron 3 to 4 minutes or until golden brown and cheese is melted."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT19M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "brenda"
+},
+"reviewBody": "I only put pesto on one slice of bread, very flavorful without being over powered."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Nicole Belanger"
+},
+"reviewBody": "it was definitely tasty. I'm new to making paninis so I probably need to try out some different breads. My husband commented it was very salty, which is to be expected given this meat."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Leslie1907"
+},
+"reviewBody": "very flavorable!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "grayjabe"
+},
+"reviewBody": "Excellent. I should.have used crusted bread instead of French bread."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Beer Can Dan"
+},
+"reviewBody": "No changes, loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Tberkley"
+},
+"reviewBody": "Good recipe! I fire roasted fresh peppers instead of using jarred ones, otherwise no change. Next time I'll take the advice of another reviewer to cut peppers and prosciutto into smaller pieces. My husband thought some spicy peppers would improve it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brandy"
+},
+"reviewBody": "Made this for my husband to take to work...he loved it! He said the ingredients blended very well together!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cher"
+},
+"reviewBody": "Had these for dinner tonight using a salami/prosciutto blend but otherwise followed recipe exactly. EXCELLENT!! Only complaint is the meat tended to come out all at once when you bit into the sandwich. Not sure what to do about that except let them cool off a bit before serving. But the taste of the sandwich was awesome and will be doing this and variations of this recipe again. Thanks for posting."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Raquel Teixeira"
+},
+"reviewBody": "Amazing! I jazzed it up a tiny bit more because I like a hearty panini, so I sauteed spinach, red onions and garlic in olive oil and added that to the mix. Everyone loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rex Hutcheson"
+},
+"reviewBody": "A very good recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lucky13"
+},
+"reviewBody": "Loved these! Added advice; tear prosciutto into pieces and cut the peppers into smaller slices, so when you eat the sandwich, the whole pieces do not come out...YUM! I think I'll have it for lunch today! Can't wait!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/220914/prosciutto-and-provolone-panini-sandwiches/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/",
+"name": "Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1642/everyday-cooking/",
+"name": "Everyday Cooking"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/220914/prosciutto-and-provolone-panini-sandwiches/",
+"name": "Prosciutto and Provolone Panini Sandwiches"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

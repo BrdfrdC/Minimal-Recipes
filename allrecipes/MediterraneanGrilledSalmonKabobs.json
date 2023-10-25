@@ -1,0 +1,134 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Mediterranean Grilled Salmon Kabobs"
+,"datePublished": "2022-11-08T15:34:27.000-05:00"
+,"dateModified": "2022-11-08T15:34:27.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Chef Mo"
+,"url": "https://www.allrecipes.com/cook/chefmo"
+}
+]
+,"description": "Salmon marinated in tzatziki sauce is combined with tomatoes, peppers, and red onion for these Mediterranean-inspired grilled salmon kabobs."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/1uNVp3kONKAviNMYkO3iVR8YWxw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1667828907salmon-6b6b1c64d05a4cae81e759be30b6e9e3.jpg",
+"height": 1124,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Mediterranean Grilled Salmon Kabobs"
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "174 kcal"
+,"carbohydrateContent": "6 g"
+,"cholesterolContent": "41 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "14 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "139 mg"
+,"fatContent": "22 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"0.5 cup tzatziki sauce",
+"1 lemon, zested",
+"1 tablespoon lemon juice",
+"1 pound salmon fillets, cut into 1 inch cubes",
+"2 cloves garlic, minced",
+"1 tablespoon olive oil",
+"1 tablespoon dried oregano",
+"2 medium green bell peppers, cut into 2 inch pieces",
+"1 pint grape tomatoes",
+"0.5 red onion, cut into wedges",
+"0.25 cup feta cheese",
+"more tzatziki sauce for serving" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine tzatziki sauce, lemon juice, and lemon zest in a bowl. Add salmon, toss to coat, and marinate in the refrigerator for 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat an outdoor grill for medium heat and lightly oil the grate."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine garlic, oregano, and olive oil in a bowl. Add green peppers, red onions, and grape tomatoes."
+} ,{
+"@type": "HowToStep"
+,"text": "Beginning and ending with salmon, thread salmon, grape tomatoes, red onions, and green peppers onto 8 skewers."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook salmon skewers on the hot grill until fish is opaque in color, turning every 5 minutes, about 15 minutes total. Top with feta cheese and extra tzatziki sauce."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT60M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8505567/mediterranean-grilled-salmon-kabobs/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/126/bbq-grilling/seafood/",
+"name": "Seafood"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17241/bbq-grilling/seafood/skewers-and-kabobs/",
+"name": "Skewers and Kabobs"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8505567/mediterranean-grilled-salmon-kabobs/",
+"name": "Mediterranean Grilled Salmon Kabobs"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

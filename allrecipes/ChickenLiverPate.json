@@ -1,0 +1,881 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Chicken Liver Pate"
+,"datePublished": "2018-06-08T09:17:16.000-04:00"
+,"dateModified": "2022-07-14T15:46:15.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "MISS AMY"
+,"url": "https://www.allrecipes.com/cook/124008"
+}
+]
+,"description": "Spread this delicious pate on assorted crackers at your next gathering!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/xuFJwQLqAAnlWbudHBWQN_K9yvg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2610597-6fec72ca1f4143cdaf17c0045b77a980.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Chicken Liver Pate"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "71"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "66 kcal"
+,"carbohydrateContent": "1 g"
+,"cholesterolContent": "63 mg"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "70 mg"
+,"sugarContent": "0 g"
+,"fatContent": "5 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1 tablespoon butter",
+"1 clove garlic, peeled and chopped",
+"1 tablespoon chopped onion",
+"0.25 pound chicken livers, trimmed and chopped",
+"2 tablespoons dry sherry",
+"0.33000001311302 (8 ounce) package cream cheese, softened",
+"hot sauce to taste",
+"salt and pepper to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Melt butter in a medium saucepan over medium heat. Stir in garlic, onion and chicken livers. Reduce heat to low, and simmer approximately 10 minutes, until chicken livers are tender and no longer pink."
+} ,{
+"@type": "HowToStep"
+,"text": "Place chicken liver mixture in a blender with dry sherry, cream cheese, hot sauce, salt and pepper. Blend until smooth. Transfer to a medium bowl, cover and chill in the refrigerator approximately 2 hours before serving."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT35M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Leone Henn"
+},
+"reviewBody": "I don't usually give reviews of recipes that I try but this was THE BEST Chicken Liver Pate that I have ever made! I increased the ingredients about 5 times (cooked for a crowd), except for the sherry. It was smooth, creamy and delicious. I added a whole stick of butter so it set up beautifully. Even my guests who were skeptical about eating liver loved it..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lorraine"
+},
+"reviewBody": "Wow is this good! I had slightly over 1 lb of chicken livers, so I quadrupled everything except I used:\n 1 brick of cream cheese; \n About half of the sherry called for;\n Added a couple of splashes of worcestershire sauce.\nAfter sauteing, I chilled the liver mixture until the butter set, then put it all in the blender. After a couple of hours it was pretty good. But the next day, IT WAS GREAT! My thanks to Miss Amy for a nice easy pate recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jen Lee"
+},
+"reviewBody": "I doubled it but didn't double the cream cheese. Even at 1 package, it mellowed out the liver taste. Next time I will use even less cream cheese. I used more butter too...French butter as suggested by other reviewers. So when I make it again, I will use less cream cheese and more butter for sure."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary Hansen Lowe"
+},
+"reviewBody": "I had never made pate before but this was extremely easy and delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Amber MacArthur"
+},
+"reviewBody": "Initially the taste was still a bit.. metallic. I balenced it out by adding a bit of parmesian cheese, a couple of drops of truffle oil, and a bit more garlic. \nI was suprised that my teen daughter, normally a very picky eater Liked it a LOT."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Jeff Ross"
+},
+"reviewBody": "I triple the recipe the only changes that I made was I omitted the Sherry and cream cheese and I strained the livers from the juice and added the juice to the processor 1 tablespoon at a time. Even with tripling the recipe I used only 3tablespoonsof juice, anymore liquid and I would have had a pate shake"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "gcontrol"
+},
+"reviewBody": "This is better than pate from the store. I will not buy it anymore...why should I? Loved it thanks for posting it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JosieLCPC"
+},
+"reviewBody": "This was delicious. I sauteed the liver in a bit of broth along with chopped onion until no longer pink, then used a slotted spoon to transfer the liver and onion to my food processor. The recipe definitely benefited from the tablespoon of bacon fat I added, both for taste and consistency. It set up nicely within about 45 minutes. Yum! Will make again for sure."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kam"
+},
+"reviewBody": "Super easy. I added less sherry. didn't change anything else."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dt24"
+},
+"reviewBody": "Easy, soooo easy- and its good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "wildsongs"
+},
+"reviewBody": "Wonderful taste! I left out the hot sauce and used a sweet white wine instead of sherry. Amazing texture and flavor. I have made it many times now and have never been disappointed. Definitely my \"go to\" recipe for pate! TIP: I learned this from a little bistro that serves chicken liver pate - pour a little melted butter on the top and put it in the refrigerator. The butter will harden. Keeps the pate flavor in and the butter can be used to spread on bread as you are eating the pate."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Theresa Russell"
+},
+"reviewBody": "This is a lovely liver pate! After reading other reviews about too much liquid I remembered another recipe that had you drain and dry the livers before sautéing and so I did. I also added the sherry to the pan during the last 2 minutes, removed the livers and reduced it done another 3-5 min. Otherwise I followed the recipe. The pate is smooth, silky and subtly sweet."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ros Coltman"
+},
+"reviewBody": "I have just made this recipe and it is very tasty. The texture is great and I loved the look of it. it is extremely easy to make and made a good amount as I tripled the recipe but used just over 1lb of chicken livers. It wasnt runny at all and set very quickly as it cooled."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "WVRedCookin'"
+},
+"reviewBody": "Turned out great! I added some parsley and green onion into the mix."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mixit"
+},
+"reviewBody": "I didn't use sherry in this only because I was out. But this was a very decent tasting pate. My family requested a repeat of it soon. It's better the next day after the flavors mingle. Try sprinkling minced , multi-colored bell peppers when serving. Adds a bit of freshness, crunch and flavor not to mention the beautiful colors. Also I used the food processor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "FOODIEJOE"
+},
+"reviewBody": "The flavor of this paté is AMAZING! I like a little bite to my patés but not quite as dense as a country paté. I add whole peppercorns as well as chopped pistachios, parsley &amp; thyme. The only thing I leave out of this recipe is the salt."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Barbara Dams"
+},
+"reviewBody": "Awesome pate', looked at all the reviews before I started making it to see what everyone's opinions of it were. I cooled the liver after I sauteed it, drained the liquid off, but kept it to add to food processor, I added tsp of Worcester sauce, extra clove of garlic ( we love garlic). Cooked the wine with the butter &amp; garlic, &amp; onion.. Now it's chilling in the fridge, &amp; it's the right spreading consistency already, the flavor was great...thank you!??"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Reddiwip junkie"
+},
+"reviewBody": "Very easy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ruth Velazquez"
+},
+"reviewBody": "I did cheat. Instead of using regular cream cheese, I used garlic and herb spreadable cheese. Gave it extra flavor without so much work. Other ingredients as listed."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sethandtabs"
+},
+"reviewBody": "Never made pate... Was a lil freaked out at container of fresh chick livers at deli... Uummm... Believe it or not, I needed this as an INGREDIENT for beef wellington. So, it was good. The Wellington was outstanding :). Really retro 60's cocktail party :). Thanks!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "NNChick"
+},
+"reviewBody": "I didn't have sherry and didn't want to buy any so I used 2 tablespoons of Moscato wine (that's a sweet wine) that I always have for a friend who comes over often and likes it. I also used unsalted real butter because that was handy too, and Tabasco pepper sauce rather than your average hot sauce because I like the taste of Tabasco better. Oh yeah.. I used a lovely shallot instead of regular onion and I chopped it extra fine.. All these alterations were because I used what I had rather than buy more stuff! \nAt first it looked like I had over-liquified it in the blender, but I let it all set for a few hours and tried it... I could taste my sub wine and thought I messed up.... HOWEVER, the next day it was the perfect consistency and delicious. Light livery taste with a kick from the hot sauce! Outstanding! So - I think this should be made the day before and let it sit overnight to serve to guests so it's cold and firm. Also, I tried it with crackers and light rye toast and the rye toast won hands-down. But the cracker version wasn't too shabby either. I'll make this for liver-loving friends anytime! Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kristen Larcom Feeney"
+},
+"reviewBody": "I loved the flavor but was disappointed that they didn't add some unflavored gelatin or some type of thickener to it as it hasn't quite set yet in my fridge :=( Some people mention draining the juices from the chicken liver mixture after cooking/prior to putting in the food processor/blender, but it seems to me that the juices are too flavorful to just throw away. Next time I'll figure out some type of thickener so it sets better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joyisme"
+},
+"reviewBody": "Excellent base recipe. My first try at homemade pate and it came out beautifully. I tweaked a tad bit(eat pate often from gourmet markets in hood) -- I added a teaspoon of Worchester sauce (tang was missing) and used plenty (8-10 grinds) of fresh ground pepper to get the specks of black, let liver cool off about 10 minutes in freezer before blending so mixture does not liquefy when cream cheese is added, and finally when blending in cream cheese also blend in an extra pat of butter (French way)that makes it very creamy and gives more form to the cooled product. Enjoy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Christy Cooks"
+},
+"reviewBody": "This was an alright pate. Missing something. Not sure what though. I usually just wing it...and am happier with the results."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "kcoots89"
+},
+"reviewBody": "This is the first time I've tried liver. Since the other reviews are so positive, I assume that I must just hate liver because that was the most disgusting thing I've ever put in my mouth. But I'm glad that it must have been a good recipe so I know it was the liver itself."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "HungryMan"
+},
+"reviewBody": "Wow amazing. Was looking for ingredients to use up some cream cheese and stumbled upon this recipe. I love vietnamese sandwiches but don't live anywhere I can purchase, so I've been working on duplicating the recipe. Wow cream cheese made such a huge difference in taste and made my existing recipe 90% closer. This is probably a 5 star recipe but I gave just 4 because didn't make the chicken liver, bought braunschweiger instead and then starting adding the other ingredients to taste. WOW! Awesome pate for my sandwich."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Auriam"
+},
+"reviewBody": "Delicious. I used chinese rice cooking wine instead of cooking sherry, but it's quite similar - and I put in about 1/3 less of the wine, seeing others' comments about it being too liquid. It came out pretty syrupy, but after a couple of hours in the fridge it got a nice buttery texture and is perfect for spreading. And it tastes great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sara Musseid"
+},
+"reviewBody": "This is a delicious recipe BUT with a few minor tweaks needed (IMO). I like garlic so I sautéed two medium sized cloves in the butter till fragrant then discarded before following the recipe as written....for the most part. I followed EJ's wise advise and drained the livers but reserved the liquid to add a small portion to the food processor until the mixture reached a consistency I liked. Sorry folks, I did not measure, just eyeballed it. Instead of regular salt I used a combination of regular salt and My Familys Seasonings...end result was fantastic! It reminds me of the liverwurst that Hickory farms used to sell. Family and friends loved it, as it was eaten up pretty fast =)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "fscottb"
+},
+"reviewBody": "We eat a lot of store bought pâté and thought we would look for a recipe to prepare at home with our children. We found this recipe to have a very unusual taste, and to be very watery for much longer than the few hours recommended for setting time. It did, however, set to a firm consistency after about a day in the refrigerator. \nThe cream cheese is a peculiar addition, and I found the uncooked sherry to overpower the rest of the dish. I will certainly keep looking for pâté recipes and will not prepare this again. If you are looking for something comparable to the pâté you can purchase in the grocery store, I would start with a different recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "shanz1"
+},
+"reviewBody": "I couldn't find chicken livers so I used beef and it was a total flop. Whenever I can find chicken livers I will try it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kbatra"
+},
+"reviewBody": "This is memorable. I felt like I was a chef at a 5 star restaurant when I was eating this. Really delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "roadtripper"
+},
+"reviewBody": "This is a keeper! I had 1.25 lbs of chix livers, so I quintupled it. I took the advice of NOT draining and did not overpuree it in the blender, and the consistency was good. I had no sherry, so I used chardonnay, but not 5X--much less. It was delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "clamb"
+},
+"reviewBody": "Great recipe. In a word outstanding!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bekky T."
+},
+"reviewBody": "Very good recipe. One suggestion though: when the liver is ready, before putting it in a blender you need to drain it thoroughly. Otherwise it will be too thin and watery."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JoyLee"
+},
+"reviewBody": "Loved it. Closest I've gotten to a \"parfait\" type pate. Thank you. :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "bsulaski"
+},
+"reviewBody": "Not bad. However I first soaked the meat in milk,then i pureed all the other ingredients then cooked it all together minus the cream cheese of course.That has to be mixed last after blending the whole mixture first and dont forget to drain after cooking first before mixing cheese,then refrigerate for about 2 hours then enjoy. Oh yeah.I did add fresh rosemary one twig and thyme 2 twigs to the puree which was for a pound of meat."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Smokin w/ Wood"
+},
+"reviewBody": "My Hat off to Miss Amy! Very Good Results .. (Used Food Processer for Onion &amp; Garlic...and again for mixing in final ingr. &amp; Cream Cheese ... Tripled recipe. PreBoiled Livers with Chicken Boulion added (1/2 cooked/Pink in middle) Cut up in pieces &amp; added to Sauting Onions &amp; Garlic 1 TBSP LESS Butter Substituted with 2 TBSP Hot Bacon Grease with garlic &amp; Onion...mixed in Sherry, Salt, Pepper &amp; Hot Sauce while mashing livers and stirring frequently for about 6 minutes on med heat.. 1 1/2 hours later chilled...SLAMMIN!! Choose Crackers Wisely!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jason Campbell"
+},
+"reviewBody": "This is an excellent recipe. I make it regularly for a francophone club party at my university."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lynnje"
+},
+"reviewBody": "Excellent! I make mine in my food processer and didn't process to long, just pulsed it several times. Delish!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jean"
+},
+"reviewBody": "Based on previous reviewers comments I tripled the recipe so that it would be easier to mix in the food processor. I figured I could freeze some of it. I used more onion than the recipe calls for and to deglaze the pan I used low sodium soy sauce. I probably could have used regular soy sauce because I needed to add more salt at the end. I'm sure it would have been great with the dry sherry but I didn't want to use it since I'm pregnant. I also added some bacon to give it some extra flavor. It's good but I think I'll play with the flavoring more before serving it to others."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Neal M."
+},
+"reviewBody": "I upped the recipe to use a whole pound of chicken livers. I did the recipe as written but there was too much liquid after cooking the livers. The pate would never thicken up even after several hours in the fridge. I made it again everything the same but drained the livers before blending and it worked great. Just the right consistancy. I also added more garlic and onion but that's just me. I will definitely do this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Nikki"
+},
+"reviewBody": "A good, tasty, and simple recipe. I used the liver from my 22 lb Thanksgiving turkey, which was just over 1/4 lb, so I kept all the other quantities as listed. I think using a smaller amount of liver helped allow the moisture to evaporate from the pan when being sauteed, because there was very little liquid in the pan when the liver was cooked. If anything, there wasn't enough liquid, and it was rather hard to puree the small amount of thick stuff in my food processor. (Note: I first tried the blender, but the mixture was waaaay to thick for the blender to work effectively.) Also, to avoid having an overpowering sherry flavor that other reviewers mentioned (which I attribute to the alcohol in the sherry), I added the sherry to the garlic, onion, and liver at the end of the sauteing time to deglaze the pan and evaporate some of the alcohol. The sherry definitely didn't overwhelm the other flavors. Overall, a good recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Barbara Tantrum"
+},
+"reviewBody": "This was a very good recipe, it is easy and tasty. But if there are any pate snobs out there (I'm sort of one), I would rate this as a pate spread rather than a more formal pate. The cream cheese was an interesting base, but it worked. I did not use sherry (I didn't have any), and mine turned out quite thick."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "FASTCOOKIN44"
+},
+"reviewBody": "I have never made pate before and this was super easy and really good. I did make a few changes based on items I had available in my kitchen - I used our leftover chicken livers that were wrapped in bacon, I didn't use the sherry because I didn't have any and I added an extra clove of garlic. It was very good and even my kids liked it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Danno"
+},
+"reviewBody": "I quadrupled this to use a pound of livers, added some extra onion and garlic (well, 7 cloves, sliced) while sauteing the livers, and used a fraction of the sherry called for, and it was amazing. I've tried it with the amount of sherry suggested, but that seemed to overpower everything else. \n\nAs for draining the livers, I didn't - a fair bit of that liquid is melted butter, which sets up nicely when chilled. The blender does seem to liquefy ingredients easier than my food processor does. I'd suggest letting the livers cool considerably before mashing, then add that liquid as seems called for.\n\nTotally delicious when served on garlic toast rounds."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MichYar"
+},
+"reviewBody": "This recipe is easy, and tastes great!!I get rave reviews everytime I make it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CRISTOFERO"
+},
+"reviewBody": "I put in way to much liver, burnt the garlic black, did not strain as some one suggested, but I must say I made some fine pate, and this is coming from someone who does not make make this sort of thing!! It is chilling in the fridge now so we will see if it is really pate tomorrow at lunch! I thing that with some practice I can make some fab pate! But I must say cutting chicken livers is not for the faint hearted! I really gave my livers a good scrub after cutting!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Emily Henderson"
+},
+"reviewBody": "First of all, let me say that the flavor of this mixture was fantastic. However, there were too many variables left to chance. Yes, well all have different \"to taste\" measurements, but please give a median amount as a starting point; three \"to taste\" ingredients is too many. I followed the directions, converting the ingredients to match 1 lb of chicken livers. There's no pretty way of saying that what I ended up with was a liver shake, or a very runny liver mousse. It was unappetizing to the extreme in appearance, and still has not set up after six hours in the refrigerator. Because the flavors are so fabulous, I may yet try to salvage this by using some unflavored gelatin. Just a word to the wise: even tho the recipe does not say to do so, DRAIN your livers after simmering, and add liquid as needed only. Next time, I will also use a food processor or a hand-grinder rather than a blender for more control of the texture. Flavor -- five-star, appearance -- BLECHH."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "MrsTrips"
+},
+"reviewBody": "I think this recipe is good, but its not great. It seems to be missing 'something'. I mean no disrespect to the author, however, it does need a little fine tuning."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rhonda Brock Fuller"
+},
+"reviewBody": "I love this. As did all adults at our Party. The kids werent crazy about it, but the adults raved..The only thing I did differently was I used grape juice instead of sherry, as I hardly ever have alcohol on hand...Super thanks.."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marcelle Malillo Maggio"
+},
+"reviewBody": "It was tasty but I seemed to be the only one eating it. You need a sophisticated crowd for this one. I will make it again but maybe a touch less sherry. Nice consistancy though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shoegirl"
+},
+"reviewBody": "Awesome even if chicken livers gross you out like they do me! Guests tried it, raved about it, THEN asked what it was. You'll have many converts, I promise. It's amazing!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "JANEMARY38"
+},
+"reviewBody": "I made this pate over the holidays and served it at a couple different gatherings. Overall, it was liked by all those who tried it. The sherry is a nice touch. I don't know if I would make this recipe again, I know I've had better pate. I will probably keep searching for a pate recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "GAYL*MI"
+},
+"reviewBody": "This is wonderful. The only suggestion I have is, I added more cream cheese and I also added some cream since it ended up so thick when it was chilled that it was hard to spread."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Left the remainder at a party and the hosts had it for breakfast the next day. I tripled the other amounts but used a little over a whole lb of livers. It was great for a party of 24."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I made this for a Holiday Party and it was the favorite appetizer. Guests were looking for left overs to take home with them."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "very good if you like pate"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This is a very simple, yet tasty, recipe. Preparation was quick and the results were very satisfying. The sherry adds a subtle sweetness to the pate."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/26737/chicken-liver-pate/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/105/appetizers-and-snacks/dips-and-spreads/",
+"name": "Dips and Spreads Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/435/appetizers-and-snacks/dips-and-spreads/pate/",
+"name": "Pate Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/26737/chicken-liver-pate/",
+"name": "Chicken Liver Pate"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

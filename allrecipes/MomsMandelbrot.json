@@ -1,0 +1,469 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Mom&#39;s Mandelbrot"
+,"datePublished": "2020-06-18T23:13:49.000-04:00"
+,"dateModified": "2022-10-07T14:06:22.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "susan yale"
+}
+]
+,"description": "These sliced chocolate and almond cookies are the Jewish equivalent to biscotti. It was handed down through three generations. I added the mini chocolate chips. The cookies are twice baked, first in logs and then in slices."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Vhw_Cks4cWCHO-uSv0KADkPV2O0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4015647-a8f1c93836d1445dbeed557b1f1afa2f.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Mom&#39;s Mandelbrot"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "32"
+}
+,"cookTime": "PT35M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "151 kcal"
+,"carbohydrateContent": "17 g"
+,"cholesterolContent": "16 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "36 mg"
+,"sugarContent": "8 g"
+,"fatContent": "9 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"3 eggs",
+"0.75 cup vegetable oil",
+"1 cup sugar",
+"1 teaspoon vanilla extract",
+"3 cups all-purpose flour",
+"0.25 teaspoon salt",
+"1 teaspoon baking powder",
+"1 cup mini semisweet chocolate chips",
+"1 cup coarsely chopped almonds" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a cookie sheet."
+} ,{
+"@type": "HowToStep"
+,"text": "Beat together the eggs, oil, sugar, and vanilla extract until well blended. Sift together the flour, salt, and baking powder; and stir into the egg mixture until well mixed. Fold in the chocolate chips and almonds. Form two logs, three inches in diameter, and place onto the baking sheets."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in preheated oven for 25 minutes, then remove from the oven and cut into 1 inch diagonal slices. Lay the slices on their sides on the cookie sheet and return to the oven for 10 minutes. Remove to cool on a wire rack."
+} ]
+,"recipeYield": ["36"]
+,"totalTime": "PT55M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jackie Bollen"
+},
+"reviewBody": "I used half the amount of chocolate chips, and used 1 1/2 tsp vanilla and 1 1/2 tsp almond extract. Could have actually used 2 tsp of each. Also liberally dusted with cinnamon sugar before baking. Very tender and easy to slice before second baking. Next time I may use cinnamon in the mix since I feel that flavor is lacking in the above recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kerry Lynn"
+},
+"reviewBody": "This is my very first try making a biscotti. I'll definitely do it again. Thanks for sharing"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Holly Frank"
+},
+"reviewBody": "Delicious! I didn’t have almonds but did have walnuts so I used those and added some cinnamon. Very good ??"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "MarciaCOOKS"
+},
+"reviewBody": "Not like my mom's but \"nice\" and plain. Needs something but I am not sure what."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nancy Intermill"
+},
+"reviewBody": "These were just like I remembered my mother making. I did not put in the chocolate chips--more authentic with just the nuts. After the 10 minutes of toasting, I turned off the oven and let them sit in the cooling oven, just to crisp up a little more. \n\nYum! Comfort food!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SBC1023"
+},
+"reviewBody": "This went together quickly for me. I used slivered almonds, didn't chop them any further, chocolate chips and a little less than a half cup of shredded coconut that was looking for a home. From past experience with biscotti, I wet my hands before shaping and shaped them on a parchment-covered baking sheet. Use a serrated knife to slice, but don't saw. You can also use the flat side of the blade of the knife to help flip the slices on their sides. I sprinkled on a little vanilla sugar before the second baking. Very tasty!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Adamsturt"
+},
+"reviewBody": "I use a ribbon of strawberry or raspberry jam inside instead of chips \nThis is the way my grandmother made them"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ADLEVINE"
+},
+"reviewBody": "Loved this Mandelbrot. Will absolutely make it again. I followed recipe exactly, but I did change a few of the directions. I often make Biscotti for my family, so I used some of those methods and applied them to this recipe. 1. I mix the chocolate chips and slivered almonds in with the flour. This assures an even distribution in the finished cookie. 2. After mixing all the ingredients, I refrigerate the dough for 30 minutes. This makes it not so \"sticky\", and easier to work with. 3. I dump the dough onto a floured bread board and then form it into two logs. Be sure to flour the bread board. I then transfer the logs to a baking sheet, lined with parchment paper. I always use parchment paper. Use a pastry brush to brush off any excess flour from the top of your logs. 4. I bake my logs in a preheated 350 degree oven for 30 minutes, to get some color on the logs. 5. I remove the logs from the oven and let them rest for 15 minutes so they are easy to handle. Leave your oven on at 350 degrees while the logs are cooling. 6. Slice the logs at an angle, so you get longer slices. Return the slices to the baking sheet, standing them on their bottoms, not laying on their sides. 7. Return the sliced logs to the oven for 15 more minutes. Cool. Enjoy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tricia Cronin"
+},
+"reviewBody": "These are fantastic! I didn't have any almonds so I used a cup of almond meal Instead. They came out great and the dough was not sticky. I also added half a teaspoon of almond extract in addition to the vanilla extract. I baked on both sides for 10 minutes each."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sunshinelady5"
+},
+"reviewBody": "I like this recipe a lot...much like the one from my mother-in-law that I've made for almost 50 years. Just a few suggestions: Use slivered almonds. Sometimes I use walnuts instead and leave the chocolate chips out. When I bake them for the second time, I sprinkle a cinnamon-sugar mix over them. I also dip them in melted chocolate sometimes either on one side or just one end. They are a favorite at our house for sure."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lee B"
+},
+"reviewBody": "Dough was very loose and difficult to form into the logs. Not sure how to fix that. \nI did add a 1/2 cup flour but it was still very difficult to form. I greased my hands and that did help.\nThat said this recipe is easy and delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rachel Pires"
+},
+"reviewBody": "easily the best Mandelbrot I've ever had"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Charlotte Quenneville"
+},
+"reviewBody": "I leave out the almonds because I don't care for them. I also sprinkle cinnamon sugar on one of the loaves before cutting and baking longer. I split the baking time in half flipping the pieces after 5 minutes. A few did break but who minds a broken cookie."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jodi Bogen"
+},
+"reviewBody": "I substituted half all purpose and half whole wheat. Only use 3/4 of the amount for the whole wheat. In the recipe for 36 that would be 1.5 cups all purpose and 1 1/8 cups whole wheat. \n\nEveryone loved this. I also ruled in cinnamon/sugar mixture after slicing to back second time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "mruth4"
+},
+"reviewBody": "This was a good recipe but seemed like it was missing something. I made it a second time and sprinkled a generous amount of cinnamon-sugar mixture along the top before baking. Yep! It was missing cinnamon! The dough is very sticky so you kind of have to slap it on the pan and can't really shape it. Don't worry, once it's baked, you can't tell it looked like that at one point!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jrltiff"
+},
+"reviewBody": "By far the easiest alternative to biscotti recipe but I wish I had chopped sliced almond instead of coarsely chopping whole almonds because the nuts and chocolate chips made it hard to form the loaf. Overall a nice addition to my hot coffee and tea drinks in the morning."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "shev"
+},
+"reviewBody": "Very good and very easy to make!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Numina"
+},
+"reviewBody": "Excellent recipe. Easy to make and follow. The first time I made these I kept to the recipe. Now (a year later) I use 1 cup almond, 1/2 cup 73% bittersweet chocolate. The almonds get chopped in a Bullet so I get a mix of almond dust, and chunks that help reduce the stickiness. This has become a family favorite."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jordan"
+},
+"reviewBody": "Very good mandelbrot! I was glad that this recipe did not have a crumbly consistency, like many of the other mandelbrot and biscotti recipes I have tried. I will make this again, soon \n:-)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "~Krazy KK~"
+},
+"reviewBody": "These were very good. To add a nice touch and some more flavor:\n\nIn the top of a double boiler, melt 12oz chocolate chips with 2 tablespoons\nshortening, stirring frequently.\n\nDip half of each biscotti stick in chocolate and then let cool."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "bugbiteme"
+},
+"reviewBody": "I found that I needed to add more flour since the batter seemed a bit runny (from all the oil). \n\n\nOther than that, they were great. Like biscotti."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Robyn"
+},
+"reviewBody": "Not at all what I expected. It had a weird texture, not crunchy like biscotti. I even let it cool and rebaked it, thinking that it might make it crunchier."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "yummalicious"
+},
+"reviewBody": "This was pretty easy to make, except I found the dough a little sticky to work with. I also used 1/2 Cup semi-sweet chocolate chips and 1/2 Cup cherry chips instead of the nuts and mini-chips. This recipe is DELICIOUS! Not as rock hard as biscotti. Family and friends raved on this. Will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KatieMac"
+},
+"reviewBody": "Great texture and easy to make--I didn't have almonds so used a little bit extra mini chocolate chips--great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TALLYLOO"
+},
+"reviewBody": "These were sooo tasty! My husband loved them! very,very easy to make... in fact Im starting my 2nd batch right now!\nThanks for sharing a yummy recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cynthia B"
+},
+"reviewBody": "delicious recipe! not too sweet and not too dry! i recommend a combination of coarse chopped and finely chopped almonds for a nice texture. Dough is sticky so i recommend wetting your hands a bit while shaping the logs. will definitely make again and again!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/109894/moms-mandelbrot/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/362/desserts/cookies/",
+"name": "Cookies"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/837/desserts/cookies/biscotti/",
+"name": "Biscotti Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/109894/moms-mandelbrot/",
+"name": "Mom&#39;s Mandelbrot"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

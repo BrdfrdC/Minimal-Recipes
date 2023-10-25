@@ -1,0 +1,147 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Margarita Jell-O® Shots"
+,"datePublished": "2019-04-04T00:12:11.000-04:00"
+,"dateModified": "2022-04-28T13:55:56.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "VICKYPAK"
+,"url": "https://www.allrecipes.com/cook/1139201"
+}
+]
+,"description": "If you love margaritas and want a fun happy hour treat, try these Jell-O® shots flavored with real tequila and triple sec."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/hzPyRz4vTE3scTtHYdXqju6FF9s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/622352-67d143eaa06d44a38b90780c19b0c6f4.jpg",
+"height": 250,
+"width": 250
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Margarita Jell-O® Shots"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "3"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "52 kcal"
+,"carbohydrateContent": "7 g"
+,"proteinContent": "1 g"
+,"sodiumContent": "27 mg"
+,"sugarContent": "7 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"1 cup boiling water",
+"1 (3 ounce) package lime-flavored gelatin mix (such as Jell-O®)",
+"0.33333334326744 cup tequila",
+"0.33333334326744 cup triple sec",
+"0.33333334326744 cup water",
+"15 plastic shot glasses, or as needed" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine boiling water and gelatin mix in a bowl. Stir to dissolve. Add tequila, triple sec, and water. Stir again."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour mixture into shot glasses. Refrigerate until set, about 5 hours."
+} ]
+,"recipeYield": ["15"]
+,"totalTime": "PT305M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bullfretwell"
+},
+"reviewBody": "These are great! I made them for my cousin's birthday party and everyone loved them."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sherri Mincey"
+},
+"reviewBody": "I made a double batch and it turned out great. Super quick and easy too."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/264533/margarita-jell-o-shots/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16421/drinks/shots/",
+"name": "Shot Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16832/drinks/shots/jell-o-shots/",
+"name": "Jell-O® Shots"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/264533/margarita-jell-o-shots/",
+"name": "Margarita Jell-O® Shots"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

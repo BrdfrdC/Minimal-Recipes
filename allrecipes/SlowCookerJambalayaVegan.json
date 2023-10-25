@@ -1,0 +1,472 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Slow Cooker Jambalaya (Vegan)"
+,"datePublished": "2020-03-09T22:52:13.000-04:00"
+,"dateModified": "2020-03-09T22:52:13.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Maggie Huffman"
+,"url": "https://www.allrecipes.com/cook/4624723"
+}
+]
+,"description": "Simply throw seitan and vegan sausage in a slow cooker with celery, onion, bell pepper, and Cajun seasoning to make this easy weeknight jambalaya."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/MlinLQbY6Ppk89aQsZ8bwTU_q3M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1829481-c6b9b227755f424090c47b26b974a5dd.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Slow Cooker Jambalaya (Vegan)"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "32"
+}
+,"cookTime": "PT270M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "334 kcal"
+,"carbohydrateContent": "41 g"
+,"fiberContent": "4 g"
+,"proteinContent": "20 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "965 mg"
+,"sugarContent": "5 g"
+,"fatContent": "10 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT25M"
+,"recipeIngredient": [
+"1 tablespoon olive oil, or to taste",
+"1 (28 ounce) can diced tomatoes with juice",
+"8 ounces seitan, cut into cubes",
+"8 ounces smoked vegan sausage, cut into 2-inch slices",
+"0.5 large onion, chopped",
+"0.5 large green bell pepper, seeded and chopped",
+"3 stalks celery, chopped",
+"1 cup vegetable broth",
+"2 cloves garlic, minced",
+"1 tablespoon miso paste",
+"1.5 teaspoons Cajun seasoning",
+"0.5 teaspoon dried thyme",
+"0.5 teaspoon dried oregano",
+"1 cup rice",
+"1 tablespoon chopped fresh parsley, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Drizzle the bottom of a 4-quart slow cooker crock with olive oil. Stir tomatoes with juice, seitan, sausage, onion, green bell pepper, celery, vegetable broth, garlic, miso paste, Cajun seasoning, thyme, and oregano into crock."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook on Low for 4 hours. Add rice to the crock and cook on High until rice is cooked through, about 30 minutes more. Garnish with parsley."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT295M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tonya Graham"
+},
+"reviewBody": "It came out great. I didn’t take a lick of the final product because I didn’t think the 1 cup of rice I used would have been so much. Next time I’ll use less so I can have more of the broth left, BUT IT WAS STILL a hit. 🙌🏽🙌🏽🙌🏽"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Marie"
+},
+"reviewBody": "I used andouille sausage (not vegan), Rotel fire-roasted tomatoes, red &amp; yellow peppers, and creole seasoning (2 tsp) along with 4 cups of broth. I also used brown rice, so it had to cook longer. The spice was nice. I will cook the rice separately in the future. I only gave four stars because I did have to adjust and without the spicy sausage and fire-roasted tomatoes it would have been a bit bland."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "timkat2000"
+},
+"reviewBody": "I made this with beyond sausage and soy crumbles. Well liked by all!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "VDoan"
+},
+"reviewBody": "It was okay. Didn’t have much flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "robfuzz"
+},
+"reviewBody": "Tasty and easy recipe. I didn't precook the rice though based on someone's review and it didn't fully cook in time so I recommend precooking."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jenkinsas72"
+},
+"reviewBody": "NO changes... it was good. Almost like the real thing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nathan"
+},
+"reviewBody": "Made this for the fam. I ommitted the miso paste (didn't have it on hand) and I substituted vegan chicken strips for the seitan. Only problem is we wanyed more!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "She22"
+},
+"reviewBody": "One of my favourite recipes. I use spicy vegan sausage and omitted the rice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sbb"
+},
+"reviewBody": "Excellent! Limited groceries so I substituted Miso Soup for paste, balancing with vegetable broth, and had to skip seitan. Family loved it - it has become a repeat favorite!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Virginia Lee Kanzler"
+},
+"reviewBody": "Loved this recipe. Was in a hurry, so made it as is without reading reviews first. We love spicy food, so in the future I would add more Cajun spice plus red pepper flakes. I cooked the rice separately, rather than in the crock pot. Had home made seitan on hand which held up fine after four hours in the crock pot. Easy recipe and easy to customize to your own preferences."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Aria Celiece"
+},
+"reviewBody": "Great recipe. I cut the tomato sugesstion in half and substituted brown rice. I also added three diced jalapenos. The parsley garnish adds tons of flavor and compliments everything."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Julie York"
+},
+"reviewBody": "Kind of meh. Did not really enjoy the textures or the overall flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Laci Bauer"
+},
+"reviewBody": "If you do not saute the onion first this will be unpalatable. Rule #1 with soup making: ALWAYS saute the onions otherwise you will have a bitter and very overpowering oniony flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Love fitness"
+},
+"reviewBody": "This is a very tasty recipe. I could get hold of some of the ingredients so used Quorn for both the sausages and chunks and it was gorgeous. I added the rice to the dish as per the instructions but would add a little more liquid next time. I would definitely make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Laura"
+},
+"reviewBody": "Not sure if I did something wrong, but my family &amp; I did not like this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sanae"
+},
+"reviewBody": "This was DELICIOUS with a few revisions. I used vegan spicy chorizo and chicken strips instead of the seitan and sausage. Also chose fire-roasted diced tomatoes, and subbed the bok choy for celery as someone suggested (but think both would work fine). Finally, I also cooked the rice for close to an hour. YUM!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jmfrease"
+},
+"reviewBody": "excellent flavor and super easy. has quickly become a vegan favorite in our home."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Robin"
+},
+"reviewBody": "Nice meal for the winter. It's not very spicy, though. Add more seasoning and some red pepper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Eclarner"
+},
+"reviewBody": "Great recipe for the slow cooker! I followed everything as exact except I used homemade seitan sausages and added it near the end. I used brown rice, but it needed well over 1 1/2 hours to cook. I imagine it might take somewhat longer than 30 minutes with white rice (if that's what the recipe is implying)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sd8192"
+},
+"reviewBody": "I accidentally used spicy vegan sausage the first time - VERY spicy results I added diced apple to sweeten and help with the heat. But it was so good I made it a second time and loved the results using a milder smoked vegan sausage."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carla Avellino Hoffman"
+},
+"reviewBody": "This was so easy and delicious! I wouldn't change a thing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "veggiegal"
+},
+"reviewBody": "Will certainly make this again! Did not have Seitan so I used a full pack of veggie Italian Sausages. Very yummy dish!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "unicornrainbowfarts"
+},
+"reviewBody": "Super good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "5Tami2"
+},
+"reviewBody": "I made this with vegan (Trader Joe's) Chorizo. I was out of the sausage and the seitan. I also only had diced tomatoes with basil, garlic and oregano. I added the dry rice with two cups broth because it looked like the rice would use up all the juices if not. Otherwise everything was the same. It was fabulous. My husband and I ate the whole recipe as our dinner! Thanks for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Patty Wiley"
+},
+"reviewBody": "Substituted tempeh for seitan. Used harissa oil. Very good and will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda T"
+},
+"reviewBody": "wonderful and easy. Used some homemade seitan and veggie sausages from Trader Joe's. I am not vegan nor vegetarian and I loved this.. will definitely make again"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/238662/slow-cooker-jambalaya-vegan/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/183/soups-stews-and-chili/stews/",
+"name": "Stews"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1428/soups-stews-and-chili/stews/jambalaya/",
+"name": "Jambalaya Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/238662/slow-cooker-jambalaya-vegan/",
+"name": "Slow Cooker Jambalaya (Vegan)"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

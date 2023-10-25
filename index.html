@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+    <script src="app.js"></script>
+    <title>Minimal Recipes</title>
+    <head>
+        <link href="/css/style.css" rel="stylesheet" type="text/css">
+    </head>
+    <body>
+        <div class="search-wrapper">
+            <form method="POST">
+                <label for="recipe"></label>
+                <input autocomplete="on" id="search" type="text" name="searchinput" placeholder="Search..."/>
+            </form>
+        </div>
+        <div id="search-results">
+            <span id="search_result"></span>
+        </div>
+        <div class="recipe-content" id="content">
+            {{%CONTENT%}}
+        </div>
+    </body>
+</html>

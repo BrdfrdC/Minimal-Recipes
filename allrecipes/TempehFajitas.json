@@ -1,0 +1,662 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Tempeh Fajitas"
+,"datePublished": "2018-10-04T09:01:04.000-04:00"
+,"dateModified": "2022-01-14T11:59:39.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "KALISA"
+,"url": "https://www.allrecipes.com/cook/16255"
+}
+]
+,"description": "Tempeh is sauteed with soy sauce, lime juice and lots of veggies including green bell peppers and spinach. Chopped green chile peppers and cilantro add a fresh kick. Serve with tortillas, refried beans and rice."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/1KTf8a6l077nMnaK__h8gp-ZXiM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1099470-921bb99204cc4fcab587e0f7bbab2885.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Tempeh Fajitas"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.2",
+"ratingCount": "56"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "207 kcal"
+,"carbohydrateContent": "13 g"
+,"fiberContent": "3 g"
+,"proteinContent": "13 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "606 mg"
+,"sugarContent": "3 g"
+,"fatContent": "13 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"2 tablespoons corn oil",
+"1 (8 ounce) package tempeh, broken into bite-sized pieces",
+"2 tablespoons soy sauce",
+"1 tablespoon lime juice",
+"1.5 cups chopped green bell pepper",
+"1 (4.5 ounce) can sliced mushrooms, drained",
+"0.5 cup frozen chopped spinach, thawed and drained",
+"1 tablespoon chopped green chile peppers",
+"1 tablespoon chopped fresh cilantro",
+"1 tablespoon dried minced onion" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat oil in a large skillet over medium heat. Saute tempeh with soy sauce and lime juice until tempeh browns. Stir in bell peppers, mushrooms, spinach, chile peppers, cilantro and dried onion."
+} ,{
+"@type": "HowToStep"
+,"text": "Increase heat to medium-high and cook until fluids have reduced, stirring occasionally."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT25M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "vege mom"
+},
+"reviewBody": "It was just OK in my opinion. Mixture itself tasted OK but I didn’t really like it in the wraps. I didn’t make any changes other than no mushrooms because I didn’t have any. I did marinate it and double the sauce as others have suggested. I’m going to try it tomorrow on its own or as a dip with tortilla chips. Don’t think I’ll make it again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "905beachgirl"
+},
+"reviewBody": "Marinated tempeh in Soy Sauce, Lime Juice and Garlic. Sautéed the peppers then added the tempeh, mushrooms and fresh spinach. Served over lettuce. Very yummy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chasen Seymore"
+},
+"reviewBody": "Fantastic dish that was fairly quick to prep and make! I've become a huge fan of tempeh-based dishes and this just nails it for its versatility"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sutton"
+},
+"reviewBody": "Beautiful combination of flavors. I used twice the lime suggested for plenty of zing"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tim Lynch"
+},
+"reviewBody": "I didn't have mushrooms or green chili's, so I substituted real chopped onions and jalapeno. It was pretty tasty, I'll definitely be back for this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "EricaD"
+},
+"reviewBody": "We loved this. Used all fresh ingredients, though. Yum."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "GV"
+},
+"reviewBody": "easy and quick used the Wok"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ashley Bolling"
+},
+"reviewBody": "Double the juice/soy &amp; marinate tempeh!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Susie Powa"
+},
+"reviewBody": "Very good! Used lettuce wraps instead of tortillas and also marinated the tempeh while prepping everything else. Very refreshing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "usadinner"
+},
+"reviewBody": "This is my first time eating Trader Joes tempeh. Thought I would make it for myself before serving it to my bf. Had to add more spices and ate it with rice and kimchi. It was good but I'd say I'm not a big fan of tempeh."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LindaJM"
+},
+"reviewBody": "Excellent dinner! My best tempeh recipe yet! I will use it again. I used fresh mushrooms, so required a bit more soy/lime/oil for them. Instead of soy sauce I used liquid aminos (non-GMO soy). The rest was the same. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Fink"
+},
+"reviewBody": "Result was good but not as flavorful as I had hoped. Happy to eat these but probably wouldn't make again (then again, I'm not a huge fajita fan to begin with)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mrlstar"
+},
+"reviewBody": "You should DEFINITELY marinate the tempeh. you might also want to add more garlic. this is really a delicious meal, and filling and healthy to boot!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Plasticine"
+},
+"reviewBody": "Really great! I served mine on top of rice with black beans, sort of like a burrito bowl. Love all the flavors together, will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Tenleyp"
+},
+"reviewBody": "I used Seitan instead of Tempeh and it was very good. I also marinated the \"meat\" in the soy/lime juice for about 30 min. I put mushrooms, onions, and green pepper in my mix and had lettuce, tomatoes, cheese, avocado, salsa and yogurt as toppings. Can't wait to make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KattyCaddy"
+},
+"reviewBody": "Delicious! Didn't have mushrooms, cilantro or chile peppers. \nI too marinated it in soy sauce/lime/minced garlic and other seasonings (chicken wing marinade, rosemary, pepper, cayenne, crushed red pep and red pep flakes etc) for about 45 min and stirred it up whenever I thought about it.\nWord to the wise, I had to make at LEAST twice the amount of sauce this recipe required, I like it juicy. I marinated it in soy/lime/garlic and then made a totally different batch of the soy concoction and used that to add to the pan when I was ready for the tempeh. I put the spinach in last by letting it wilt on top of the food in the pan, then stirred. Came out suprisingly good, when I taste tested the sauce I was afraid it would come out too salty, but it had the right amount of heat and salt. Great! I did add a bit of water before I added the spinach. People talked about it being dry and I don't like dry fajitas.\nI just ate one. DELICIOUS. About to get another!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "sarathenerd"
+},
+"reviewBody": "A good basic dish, but I definitely made some modifications. As many recommended, I marinated the tempeh beforehand, which made it very flavorful. Instead of using green bell peppers (neither my significant other nor I are fans), I used red and yellow bell peppers, nixed the mushrooms and spinach, and used 1 clove of garlic and 3/4 of a white onion instead of using onion powder. Since I didn't have corn oil on hand, I used canola oil, which worked out wonderfully. I added the cilantro after cooking the dish (since I think raw cilantro looks prettier and imparts a more distinct flavor than cooked cilantro) along with a scallion that I had in the fridge. I served the dish with sliced avocado atop, fresh salsa, Mexican rice, and corn tortillas. My boyfriend said it was better than our favorite local Mexican restaurant's fajitas!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jessica Gillespy Hughson"
+},
+"reviewBody": "Made these fajitas and thought they tasted OK. Used the leftover tempeh filling the next day to make quesadillas and they were fantastic! I used fresh corn tortillas and cheddar cheese along with the tempeh mix and had a great quick lunch."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "daisygirl27"
+},
+"reviewBody": "Awesome recipe!! The flavors blend really well together to create a delicious fajita flavor. My one and a half daughter absolutely loves this, and she's my toughest critic :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Anna Bates"
+},
+"reviewBody": "Quick and easy weeknight meal. We served it with a dollop of sour cream and some sharp cheddar in the tortillas."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "susieq1001"
+},
+"reviewBody": "First time trying tempeh. These were good, but didn't absorb all of the flavors like I thought they would. At times it tasted like I was eating a veggie burger. Will try again though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dee Clouse"
+},
+"reviewBody": "Best fajitas ever! I loved this. I was worried about cooking the tempeh in soy sauce because I didn't think the sauce would taste good with fajitas, but it was actually really good. I cooked the veggies in olive oil instead of corn oil and I took some of the other people's advice and let the tempeh sit in vegetable broth to keep the tempeh moist while I prepared the rest of the food. I made my own guacuamole and I added jalapenos to the stir fried vegetables for added spice. I eliminated the mushrooms and spinach because I didn't have any. I also added raw corn and salsa and wrapped everthing up in a homestyle tortilla. It was awesome. I will definately make this again in the future. Thanks for the great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dontdoitjenna"
+},
+"reviewBody": "So good. I marinated the tempeh with the soy sauce/lime juice while I was chopping everything else up. I omitted the mushrooms and spinach since I didn't have them handy and used a jalepeno instead of the chile. I used bottled lime juice for the marinade and a few squirts of fresh cut lime into the frying pan...it was delicious and zesty. As a side I made some red beans and rice. It was a wonderful dinner."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Loralee"
+},
+"reviewBody": "This was excellent!! I also marinated the tempeh with the soy sauce and lime juice. I substituted broccoli slaw for the spinach, used fresh onions, prepared salsa, and about 1/3 package of dry taco seasoning mix. My husband &amp; I ate it over rice, and our daughter ate it on tortilla chips with shredded cheese, like nachos. I will definitely make this again, and will probably throw in some black beans and some sliced olives."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Becky Chamberlain"
+},
+"reviewBody": "This was awful, it didn't taste anything like fajitas. My family did not enjoy this at all. I have no problems with the tofu receipes I give them, but this one was a total bust!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Bethany Anson Jensen"
+},
+"reviewBody": "Not really good. Roasted veggie fajitas or even just avocado and salsa ones would have been better...."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Justine"
+},
+"reviewBody": "Great recipe! I marinated the temphe in the soy sauce and lime juice while I preped all the other veggies. I made a couple of changes - I used a yellow pepper, fresh mushrooms, replaced the chilies with jalapenos and ommitted the spinach. I added a little bit of vegetable broth while I was cooking everything together to keep it juicy! This is a quick, easy recipe that will be great for a quick week-night dinner! THANKS!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Bequita84"
+},
+"reviewBody": "Marinated it in the soy/lime mixture first, and sauteed with onion, bell pepper, minced garlic, jalapenos, cilantro, and fresh mushrooms. Added vegetable broth to keep it moist and a little chipotle for flavor. 'Twas quite yummy in a tortilla with lettuce and tomato. This was my first time trying tempeh, and I will definitely make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "auralei"
+},
+"reviewBody": "I used a clove of garlic (crushed) instead of the minced onion, used frozen pepper strips, and threw in some leftover rice. Then topped with salsa and rolled like a burrito. This recipe is so versatile and very yummy. I had never tried sauteeing tempeh with the soy sauce and lime juice combo. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "raeanne"
+},
+"reviewBody": "My husband and I loved this recipe! I also marinated the tempeh while prepping the other ingredients, and I used fresh instead of frozen spinach. We also used jalapenos instead of chiles. Served in a tortilla with a dollop of sour cream - delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Corinne"
+},
+"reviewBody": "To make this, I marinated the tempeh in the lime/soy sauce mixture before sauteeing. It turned out really well - not too salty, and not too acidic. We had this with blue corn chips and guacamole. Thanks for the recipe! :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "RESIDENTOFQ13"
+},
+"reviewBody": "Loved this recipe! As suggested by other reviewers I marinated the tempeh in the soy sauce, lime juice, and a clove of minced garlic(cause my roomie loves it!) first. Only as long as it took me to prep the other ingredients. The only other changes I made were in using Italian parsley instead of cilantro, since I hate the stuff and adding water as it cooked to keep everything from drying out too much. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "So good and so easy! I didn't have spinach or mushrooms so I used fresh corn and black beans instead. I also used fresh garlic and chopped onion rather than the onion flakes. I will certainly make this again. (o:"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ruby"
+},
+"reviewBody": "This was darned good, and easy to make. I made a few substitutions, and my partner added salsa to heat it up to taste. I'll definitely make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Very tasty. I had to cut the recipe in half, so it may not have produced as much fluid as it should have at the full serving size. As a result, the lime, although meant to be subtle, did not come through as much and it was a little dry. Otherwise, an excellent recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sara"
+},
+"reviewBody": "I let the tempeh marinate a little while in the soy sauce and lime juice with a little garlic powder to add flavour. Also, to prevent dryness, I kept most of the water from the spinach and the mushrooms &amp; kept a careful eye on the moisture level while cooking. Very juicy and delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "CRUZANSUSAN"
+},
+"reviewBody": "I thought this was very dry, and tasted just okay. I probably will not make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "MICHELLESALINAS"
+},
+"reviewBody": "i thought this was terrible very dry maybe\r\n i made it wrong"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "i make this recipe all the time. i serve it over rice...not as fajitas...delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I am not a vegetarian but this looked good so I thought I'd try it. This being a fajita recipe, I decided to prepare this with Zatarain's Spanish Rice, and the combination just made this a definite keeper and it may even become a staple for us. Thanks for the recipe Karen :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "We tossed in some grilled hot peppers and had an incredible dinner. Quick and easy, a must try."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/25910/tempeh-fajitas/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17504/world-cuisine/latin-american/mexican/main-dishes/",
+"name": "Main Dishes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1220/world-cuisine/latin-american/mexican/main-dishes/fajitas/",
+"name": "Fajita Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/25910/tempeh-fajitas/",
+"name": "Tempeh Fajitas"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

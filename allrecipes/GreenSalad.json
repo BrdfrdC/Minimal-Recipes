@@ -1,0 +1,267 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Green Salad"
+,"datePublished": "1999-09-25T12:35:19.000-04:00"
+,"dateModified": "2023-02-01T17:39:31.324-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "anonymous"
+,"url": "https://www.allrecipes.com/cook/24321168"
+}
+]
+,"description": "This green salad is hearty, vibrant, and easy to make. With assorted greens, veggies, and deli meat — this versatile salad is a meal in itself!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/k0Yugx575taH6eaSpD51xIC3s-4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-14452-GreenSalad-0025-4x3-527a1d42f2c042c9bcaf1a68223d34e5.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Green Salad"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "18"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "47 kcal"
+,"carbohydrateContent": "5 g"
+,"cholesterolContent": "3 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "0 g"
+,"sodiumContent": "163 mg"
+,"sugarContent": "2 g"
+,"fatContent": "2 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"0.5 cup chopped onion",
+"0.5 cup chopped green bell pepper",
+"2 (10 ounce) packages mixed salad greens",
+"4 thinly sliced chicken deli meat, chopped",
+"1 tomato, chopped",
+"0.25 teaspoon onion powder",
+"3 dashes garlic powder",
+"2 pinches salt and ground black pepper to taste",
+"3 tablespoons balsamic vinaigrette salad dressing" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/B8kB4qTqZgtdKNHDqKUQ3PTQqXg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-14452-GreenSalad-Step-1-0015-5fb7d8d9746b41b3a1f580bc27104993.jpg"
+}
+]
+,"text": "Place onion and bell pepper in a microwave-safe bowl; heat in microwave on high until soft, about 1 to 2 minutes. Set aside to cool."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/-GVdxC5Eca-y8y3XtAn9GrpSLdU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-14452-GreenSalad-Step-2-0016-2df0be43fba64f79b28dfe5add90aa90.jpg"
+}
+]
+,"text": "Combine onion, bell pepper, salad greens, deli meat, and tomato in a large salad bowl. Sprinkle with onion powder, garlic powder, salt, and black pepper; toss well to mix."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/W-QlhJpWyPupMXKfjHpeh7-HZF0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AR-14452-GreenSalad-Step-3-0018-fc276c9baaa7441d8ab0790b9419e0d1.jpg"
+}
+]
+,"text": "Pour on salad dressing; toss well and serve."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT30M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Heather Church Miner"
+},
+"reviewBody": "I only used the dressing on red leaf lettuce with croutons. It was delicious! I used a high end white balsamic as the base, added the spices, and lightly dressed the lettuce leaves. Yummmm!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Davey"
+},
+"reviewBody": "Just an awesome healthy salad"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cynthia Ross"
+},
+"reviewBody": "Simple... but SOOO good! Fresh veggies are in season. It’s the perfect summer salad. Substituted shredded carrot for the deli meat. Great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Analise Duncan"
+},
+"reviewBody": "YYYYYUUUUUUMMMMMMM"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "manella"
+},
+"reviewBody": "A great basic salad you can add to. I put in Avocado, egg,celery, cuke,tomatoe, green onion, spinach, ice burg lettuce and chicken. Tossed with EEOV and white vinegar, little pepper but no salt. I also added cubes of Goat Cheese."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kellieann"
+},
+"reviewBody": "This was very good. I left out the onion and bell pepper and used fresh garlic instead of garlic powder."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Holly J Chadwick"
+},
+"reviewBody": "I added boiled egg and cheese...YUM!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Osider760"
+},
+"reviewBody": "Salads are great. I mean I put in onion,grape tomatoes, shredded carrots, celery,tuna and crutons along with the lettuce and dressing. You can add or subtract. I like to go thru the fridge and see what might be close to going bad and then use it in a salad. You can add fruit and nuts. Anything that you think you might like to use, but i warn you to try it by makin a little bit first to see if you will like it so you dont waste a lot of time and ingredients on something that does not do well with something else. The possibilities are endless."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Heaven"
+},
+"reviewBody": "I ommitted the onions and added feta cheese, cucumbers and roasted chicken that I had from leftovers. I also used red pepper instead of green. This was a pretty good salad."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/14452/green-salad/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/213/salad/green-salads/",
+"name": "Green Salad Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16351/salad/green-salads/mixed-greens-salad/",
+"name": "Mixed Greens Salad Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/14452/green-salad/",
+"name": "Green Salad"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

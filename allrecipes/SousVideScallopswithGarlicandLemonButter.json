@@ -1,0 +1,207 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Sous Vide Scallops with Garlic and Lemon Butter"
+,"datePublished": "2019-07-10T03:13:25.000-04:00"
+,"dateModified": "2022-07-27T11:07:33.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Bren"
+,"url": "https://www.allrecipes.com/cook/9292325"
+}
+]
+,"description": "Scallops are prepared sous vide at first and then quickly seared in a skillet for extra flavor. Serve with a quick garlic, lemon, and butter sauce and lots of crusty bread."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/X7VodOi0rL0tX8jMtF0TqX1ZlQE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6480767-sous-vide-scallops-with-garlic-and-lemon-butter-Bren-4x3-1-e31f0fd64818499ca8dbb44d169591e9.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Sous Vide Scallops with Garlic and Lemon Butter"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.4",
+"ratingCount": "7"
+}
+,"cookTime": "PT40M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "305 kcal"
+,"carbohydrateContent": "9 g"
+,"cholesterolContent": "71 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "12 g"
+,"saturatedFatContent": "10 g"
+,"sodiumContent": "548 mg"
+,"sugarContent": "1 g"
+,"fatContent": "22 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"6 sea scallops",
+"salt and ground black pepper to taste",
+"0.5 tablespoon olive oil",
+"1 teaspoon garlic, finely minced",
+"0.25 cup dry white wine",
+"2 tablespoons lemon juice",
+"2 tablespoons butter",
+"0.5 teaspoon dried parsley",
+"1 pinch Cajun seasoning",
+"1 tablespoon finely chopped green onion tops" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Fill a medium pot with warm water, attach the sous vide and set temperature to 123 degrees F (51 degrees C) and timer to 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove the tough muscle from the side of the scallops, if present, and lightly season with salt and pepper. Transfer scallops in a resealable plastic bag and remove all the air using the water immersion method."
+} ,{
+"@type": "HowToStep"
+,"text": "Place the scallops in the pot when the temperature has reached 123 degrees F (51 degrees C). Cook until timer goes off."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove scallops from the bag and pat dry; if scallops are wet, they will not sear well."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat oil in a small skillet over medium-high heat until it shimmers. Add scallops and sear until lightly brown, about 2 minutes. Turn and cook for 1 more minute. Remove from skillet and move to a warmed dish."
+} ,{
+"@type": "HowToStep"
+,"text": "Add garlic to skillet and cook until fragrant, about 30 seconds. Deglaze skillet with white wine and lemon, scraping up any browned bits. Mix in parsley and Cajun seasoning; simmer sauce for 2 minutes. Stir in butter until just melted. Spoon sauce over scallops, sprinkle with green onion tops, and serve."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT50M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "James"
+},
+"reviewBody": "I only cooked them in the pot until the scallops turned white and then seared them the rest of way in a pan on the stove. I don't like overcooked scallops myself and I'm used to searing them in a pan. Other than that, the flavors were great, and I would do this again using same ingredients."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "emjayare"
+},
+"reviewBody": "Served these with homemade fettucine. Fantastic! I did make extra of the garlic and lemon butter sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Seth"
+},
+"reviewBody": "Scallops came out fine, but more overdone than when I sear them on the stove."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nfreud"
+},
+"reviewBody": "This has a great flavor! I served it with a grain bowl and seared kale. The mixture of flavors was terrific."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Andy Orons"
+},
+"reviewBody": "Sous vide is the perfect way to prepare scallops. Never raw in the center and never rubbery."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/272409/sous-vide-scallops-with-garlic-and-lemon-butter/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/412/seafood/shellfish/",
+"name": "Shellfish"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/438/seafood/shellfish/scallops/",
+"name": "Scallops"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/272409/sous-vide-scallops-with-garlic-and-lemon-butter/",
+"name": "Sous Vide Scallops with Garlic and Lemon Butter"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

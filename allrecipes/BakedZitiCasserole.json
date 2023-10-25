@@ -1,0 +1,710 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Baked Ziti Casserole"
+,"datePublished": "2018-06-08T10:04:25.000-04:00"
+,"dateModified": "2018-06-08T10:04:25.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "skentals"
+,"url": "https://www.allrecipes.com/cook/4547000"
+}
+]
+,"description": "Baked ziti is a favorite dish for many for good reason. Try your hand at the classic pasta dish using this recipe."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/cRQvCTFS5zTeL16LnYT8XQzLtOo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/891954-45e40b7d2c5c499db09837d9932551c9.jpg",
+"height": 250,
+"width": 250
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Baked Ziti Casserole"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "63"
+}
+,"cookTime": "PT45M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "415 kcal"
+,"carbohydrateContent": "53 g"
+,"cholesterolContent": "60 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "24 g"
+,"saturatedFatContent": "6 g"
+,"sodiumContent": "1141 mg"
+,"sugarContent": "6 g"
+,"fatContent": "12 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 (16 ounce) package ziti",
+"1 (15 ounce) container ricotta cheese",
+"1.5 cups tomato sauce",
+"1 (8 ounce) package shredded mozzarella cheese",
+"1 egg, slightly beaten",
+"1 teaspoon salt, or to taste",
+"0.5 teaspoon ground black pepper, or to taste",
+"2 cups tomato sauce, divided",
+"0.25 cup grated Parmesan cheese" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Bring a large pot of lightly salted water to a boil. Cook ziti in boiling water until cooked through but firm to the bite, about 13 minutes; drain. Rinse ziti with cold water until cool; drain."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat oven to 375 degrees F (190 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix ziti, ricotta cheese, 1 1/2 cups tomato sauce, mozzarella cheese, egg, salt, and pepper in a large bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Spread 1/2 cup tomato sauce into the bottom of a 2 1/2-quart shallow baking dish. Pour ziti mixture into the dish. Top with remaining 1 1/2 cup tomato sauce and Parmesan cheese."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in preheated oven until sauce and cheese layer is bubbly and lightly browned, about 30 minutes. Let cool 10 minutes before serving."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT70M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I had to add about 1 extra cup of sauce and a tad more ricotta, but it was delightful! I also added fresh diced garlic."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Paul Dalkiewicz"
+},
+"reviewBody": "I added a layer of ground beef and some Italian seasoning."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stevie Ray Soper"
+},
+"reviewBody": "loved it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cindy"
+},
+"reviewBody": "Yummy. I didn't make any changes. Will make again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kayla Schneider"
+},
+"reviewBody": "I doubted myself while making this dish, but so far, this is the best thing I’ve ever made!!! My family and I loved it!!! It is an easy recipe that makes many servings and will be eaten by even the pickiest of children!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jan Sinnock"
+},
+"reviewBody": "My husband took up cooking when he retired at the end of 2020. He made this and it was excellent!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rebecca from LA"
+},
+"reviewBody": "This was great! I made it as written except added garlic powder, onion powder, and Italian seasoning to the ricotta mixture. Also topped it with a mix of Parmesan and mozzarella cheeses. Will make again! Thanks for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "McFly"
+},
+"reviewBody": "Was easy and delicious. My daughter loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Desiree"
+},
+"reviewBody": "Left out the egg and made a Sicilian sauce to use instead of the plain tomato sauce. Came out really good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "KAE2"
+},
+"reviewBody": "I used four cheese sauce in place of tomato sauce and added a layer of mozarella on top."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amber Nicole Collins"
+},
+"reviewBody": "I made this with ground sausage, ground beef, garlic, onion, diced tomatoes, Italian seasoning, mushroom spaghetti sauce, mozzarella and cheddar cheese. It’s so much better than the actual recipe!! Love it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Diana Ditty"
+},
+"reviewBody": "The recipe tastes fine but is a bit on the bland side, it could use more seasoning, perhaps some garlic or onion powder and Italian seasoning."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "laurahen"
+},
+"reviewBody": "This was absolutely amazing. No contesto."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Debra Dearmore"
+},
+"reviewBody": "It turned out soft and soupy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sandy Uttley Smith"
+},
+"reviewBody": "My family loves this dish! I made it using a jar of Rao’s Arrabiatta Sauce (and 1 small can of Hunt’s sauce to make the measurements equal the recipe amounts). The arrabiatta sauce added lots of flavor to the dish. I have made several times, using various shapes of pasta, and they all worked out fine. The cheese, sauce and pasta combo make for a wonderful comfort food casserole!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "claudia p"
+},
+"reviewBody": "had to adjust the recipe base on what was at home. There was no Ziti at home, so I substituted medium/large shells. Also had no mozzarella but used a shredded Italian cheese mixture that had combination mozzarella, Parmesan, Asiago and provolone.\nI also sauteed 1/2# ground beef in olive oil along with 1/4 tsp minced garlic ( 1/2 clove), 1/3 cup minced onion and 1/2 tsp Italian seasoning ( oregano/ basil). Once browned I added to sauce/ cheese mixture.."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle Balside"
+},
+"reviewBody": "I am the laziest cook ever, so this was perfect for me! I browned 1.5 lbs of hamburger and 1 lb. of hot sausage, dumped everything together, added garlic powder, dry onion flakes, Italian seasoning and mixed it thoroughly, then dumped in my casserole pan. Cooked for 30 minutes, topped with pizza blend cheese, baked another 10 minutes to melt/brown it, then called it done!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary Kay Tharp"
+},
+"reviewBody": "So easy and such a hit with the entire family, I used pasta sauce instead of tomato sauce, only change. This is a keeper, thank you for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Greek Princess"
+},
+"reviewBody": "This was very good, however, it was very dry. I used Jarred spaghetti sauce instead of just plain tomato sauce. Much better in my opinion. Next time, I would double the sauce. Otherwise, it was delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Diane fosnocht"
+},
+"reviewBody": "I took everyone’s suggestions and added more seasoning, sauce , and cheese. I used Krafts new extra creamy mozzarella cheese that has a hint of cream cheese and it was delicious. I’d make it again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Casandra Owen"
+},
+"reviewBody": "It’s pretty good but needs modifications. 1/2 the ricotta, 1/2 cup additional marinara, bake for 40 instead of 30."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kim King Long"
+},
+"reviewBody": "I have used this receipe for many dinners where I have cooked for 250 people. I use store bought spaghetti sauce instead of tomato sauce in it. Always well received. Love it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Anna Harris"
+},
+"reviewBody": "family liked it a lot, very cheesy great with garlic bread!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Wanbo Wang"
+},
+"reviewBody": "I did not make any changes but I will make it again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "g_rock96"
+},
+"reviewBody": "Delicious! I did not have ricotta so i just substituted with parmesan and sour cream. I will definitely be making it again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amber"
+},
+"reviewBody": "This is great recipe! Easy and delicious. My 3 year old loved it and he's generally a pretty picky eater so it made me very happy to see I'm enjoying it so much and asking for seconds!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah Folse"
+},
+"reviewBody": "Turned out amazing!!! All kids and hubby loved it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Paul"
+},
+"reviewBody": "Made a more flavorful pasta sauce. you know, sauteed onion, garlic, carrot, added dried basil, oregano and thyme, maybe 1/2 tsp sugar to some high quality organic canned crushed tomatoes. Then followed the recipe. very good and satisfying"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "bertsgal"
+},
+"reviewBody": "As others suggested, I added Italian seasoning and garlic powder to the tomato sauce. I also swapped marinara sauce for the 2 1/2 cup portion. I doubled the mozzarella in the ricotta mixture, and sprinkled more on the top before the Parmesan. We love this dish and how quickly it comes together."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "dmckeen"
+},
+"reviewBody": "Way too much ricotta. The noodles were great but we didn’t like the consistency — too mushy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tanya Hales"
+},
+"reviewBody": "Very good, even my pickiest children gobbled it up! I mixed 1lb of seasoned, browned ground beef into the sauce, and added fresh chopped parsley to the ricotta mixture."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Skip Staton"
+},
+"reviewBody": "I made this with just a couple of changes. (I know, I know.)\n\nI used a jar of Emeril Garlic pasta sauce and 1 8 oz can of tomato sauce, 1.5 pounds of ground beef, and a can of mushrooms. I left everything else the same. Recipe was easy and got rave reviews from my bible study group. Will make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Randi R."
+},
+"reviewBody": "I added more mozzarella on top over the Parmesan cheese. Baked for 30 minutes but could have gone to 35, probably because of the extra cheese on top. Easy to make. I would make again. Classic hit!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lee Lee"
+},
+"reviewBody": "This is super quick and easy to make. As \"tomato sauce,\" I used bottled spaghetti sauce (Francesco Rinaldi) seasoned with garlic and onions. My picky son ate it up!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dustbuster"
+},
+"reviewBody": "Love this easy ziti recipe.\nMade some changes , added some extra Ricotta, used our own sauce, added no egg-salt-or pepper, (already in our sauce).\nBaked at 350 for 30 min in a 3 gt dish.\nFantastic. Almost forgot, used an extra couple ounces Ziti."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Willow Buscemi"
+},
+"reviewBody": "This is my favorite baked ziti and stood out amongst many other baked ziti dishes at an event. I use Rao's sauce and it makes a world of difference. Totally perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ShaniH"
+},
+"reviewBody": "I think this is a great base recipe that leaves a lot of room for your own twists and preferences. I used Rao's jarred marinara sauce, Sargentos 6 cheese blend instead of mozzarella and a tsp of my own Italian seasoning blend...along with a pinch of red pepper for a bit of heat. I found it very helpful to slightly undercook the pasta a bit, because it will continue to cook in the oven and I didn't want it to turn to mush. I added both the cheese blend and Parmesan cheese on top, as we like a lot of cheese in our baked pasta dishes. I didn't bother to measure the cheese on top - I just kept adding until it was covered to my liking. I baked it until the dish was bubbly and the top slightly browned (we like a good crust). \n. Everyone in my family loved it, and my sons actually went back for thirds! I will definitely be making this again...easy, fun and delicious!! Thanks for a great recipe. :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "RIELLA"
+},
+"reviewBody": "Liked it. Would use much less mozzarella in the cheese mixture and save it for on the top. Mine needed more sauce in the pan."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rain"
+},
+"reviewBody": "Love this dish, very flavorful, and quick. I would love to add ground turkey, and a little spice next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Samantha Hansen"
+},
+"reviewBody": "ABSOLUTELY yummy and easy! I just added more mozzarella because I just love the cheesey goodness!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Colleen Krauss Muench"
+},
+"reviewBody": "I used light ricotta and minced garlic. Yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "jtleiva"
+},
+"reviewBody": "This was a good base but I tweaked things. I added salt pepper garlic powder oregano and basil to the tomato sauce and ziti mixture. It was tasty but came out \"watery\". I also used part skim ricotta cheese."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Christina Webb"
+},
+"reviewBody": "I made this exactly how it stated. It was ok. It was bland, could have used some good seasonings. I think with some garlic, onion powder, a little more salt, and Italian herbs, this could be really good. I would have also added more cheese (it's a little dry). My kids and hubby thought it was pretty bland compared to other Italian dishes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda Morris Smidt"
+},
+"reviewBody": "This was so good and will definitely be added to our regular dinner rotation. I did make a few changes based on personal preferences and what I had available. I added some oregano, basil and garlic powder to the cheese mixture because that's what I do when I make my lasagna filling. I made a few substitutions: penne instead of ziti; mixed grated Italian blend cheese for the mozzarella and used jar spaghetti sauce instead of plain tomato sauce. Lastly I sprinked a combo of freshly grated parmesan, asiago and romano cheese on top instead of just parmesan.\n\nNext time I going to bake in a 9x13\" baking dish because it was just a bit much for a 2.5 quart and it took about 10 minutes longer to bake but I think a larger baking dish would eliminate the extra baking time.\n\nThanks for sharing your recipe!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/228411/baked-ziti-casserole/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/231/world-cuisine/european/",
+"name": "European"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/723/world-cuisine/european/italian/",
+"name": "Italian"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/228411/baked-ziti-casserole/",
+"name": "Baked Ziti Casserole"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,696 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Raspberry Jam without Pectin"
+,"datePublished": "2020-06-19T00:27:42.000-04:00"
+,"dateModified": "2022-07-08T11:43:31.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Francine Lizotte Club Foody"
+}
+]
+,"description": "Canning raspberry jam doesn&#39;t get easier than this beginner-friendly, 3-ingredient recipe that skips the pectin and yields a huge batch of tasty jam."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/NlXugQZtun_6LvXUZUa7H78ccgI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2284975-raspberry-jam-without-pectin-Francine-Lizotte-Club-Foody-4x3-1-733dd0f543dc45129b6f7f604be8e88c.jpg",
+"height": 720,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Raspberry Jam without Pectin"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "53"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "60 kcal"
+,"carbohydrateContent": "15 g"
+,"fiberContent": "1 g"
+,"proteinContent": "0 g"
+,"sugarContent": "15 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"4 cups mashed raspberries",
+"4 cups white sugar",
+"1 tablespoon freshly squeezed lemon juice" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Bring raspberries to a boil in a very large pot. Cook for 4 minutes. Add sugar and lemon juice; stir well. Bring back to a boil, stirring constantly. Cook for another 4 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove pot from heat and divide jam into sterilized jars, leaving 1/4-inch of space at the top."
+} ,{
+"@type": "HowToStep"
+,"text": "Seal and transfer jars into a boiling water bath. Make sure jars are covered with at least 1 inch of water; let sit for 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Lift jars and let them cool in a draft-free place without touching, 8 hours to overnight."
+} ]
+,"recipeYield": ["56"]
+,"totalTime": "PT510M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Peter"
+},
+"reviewBody": "I made it and it was excellent. Next time I may cut the sugar by two cups for 4 lbs of baerries. THe lemon juice was great but I used arrowroot too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Darina Boucher DeForest"
+},
+"reviewBody": "Loved it!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I made this recipe exactly as written, and it turned out absolutely perfect! I am amazed! I wonder if I can use this method for other fruit jams as well?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Delicious, will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Came out pure runny! ☹️"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Didn't change a thing and LOVED it! So simple and delicious, and you can easily adjust recipe to accommodate more or less raspberries. Four cups of berries made four small mason jars of jam."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "pjsarecomfy"
+},
+"reviewBody": "Great start however I made the following changes: A) cut the sugar by about half B) I cooked it for about 15 min on high stirring constantly It hardened beautifully and tastes amazing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lynski46157"
+},
+"reviewBody": "Easy to make and delicious! The recipe only makes 4.5 8 oz jars, not 7. I will make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Barb M"
+},
+"reviewBody": "My bread machine has a jam setting, so I made this recipe in it. I made two batches, the first 1C raspberry, 1 C sugar and 1tsp lemon juice. It thickened too much and was too sweet, but still very good. The second batch, I used half the sugar and what an explosion of flavour! Raspberry jam is my favourite. Homemade raspberry jam is the only kind I'll eat from now on. So easy in the machine too! This was the first time I'd ever made jam and can't believe how easy it is. Thanks for forgetting the pectin and giving us this great recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mermaidt58"
+},
+"reviewBody": "Great recipe just had to cook it longer. Could be it needed to be at the foaming rolling boil stage."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Denise"
+},
+"reviewBody": "This is amazing! I used a gallon size ziploc full of raspberries ( not sure how many actual cups it was). Added only 2 cups of sugar and cooked for 20 minutes. It made 7 pints of jam. I’ll definitely make this again and will try this with other fruit such as blueberries, blackberries and peaches. Yummy!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Han"
+},
+"reviewBody": "Really good, used it for a BakeWell Tart. Great find :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cambridgechloe"
+},
+"reviewBody": "I mistakenly dumped all three ingredients into the pot at the same time but it didn’t seem to matter to the end result. ?? I used the juice of half a lemon. Like others, I needed to boil longer. I boiled until 220degrees to ensure it jelled. I don’t find it too sweet at all. Perfect and so easy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Suzanne"
+},
+"reviewBody": "I followed directions with my own additions. I made sure the preserves reached 225 degrees, I added the sugar before bringing to boil, the fresh lemon and the whole rinds left from juicing I added after reaching the boiling stage. I remove rinds before putting preserves in jars. Water bath to boiling and cool as per instructions. Delicious and worked great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kelly Rusk"
+},
+"reviewBody": "Excellent recipe! I used a little less sugar (maybe 3.5 cups) because I ran out but it was just fine. I boiled it a little longer-maybe 20 min as other reviewers said it came out thin. It came out absolutely perfect and delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "eno"
+},
+"reviewBody": "Really good I made with wild raspberries picked from our woods. Probably going to be seedy. I used recipe as a guide but didn't follow exactly. Used 5 c smashed berries, less than 4 c sugar and 2 T lemon. Thought extra seeds would give more pectin and thicken faster..not the case kept at 220 fo at least 20 min. Boiled down to 7 8oz jars. Very Good as jam or icecream topping."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Diane"
+},
+"reviewBody": "Just took out of water bath. Will check back tomorrow with results."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lucy"
+},
+"reviewBody": "Followed recipe except used 1 cup less sugar. After adding sugar I cooked at a rolling boil for about 5 minutes. Jam was still liquid when I placed in jars and I was pretty sure at that point I didn’t cook it long enough. However , the next morning I checked the cooled jars and it had turned to jam. Very easy recipe, jam turned out delicious and sweet enough with 3 cups of sugar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Dave M from NJ"
+},
+"reviewBody": "I followed the recipe, but reduced the sugar by 25%. After reading the reviews, I was skeptical about the cooking time, but once it reached boiling, four minutes at a rolling boil was all it took. By the time I was pouring the last jar, it was already gelling in the pan."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "tkienitz1"
+},
+"reviewBody": "I followed the recipe except I made it 1 1/2 so I could get 12 jars. I am new to the homemade jam game and didn't know that with more fruit you need it to boil even longer. I should have taken the advise of others and let it boil for at least 20 minutes instead of the 7 minutes I used. This is sauce now. Good thing there's still so many things that it will be delicious with!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Claire"
+},
+"reviewBody": "Thank you for an easy and great tasting raspberry recipe. I had been given a whole bunch of raspberries and knew we wouldnt eat them all. Your recipe worked perfectly. I used less sugar and it still tasted perfect. Thanks again for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rachel Martinez"
+},
+"reviewBody": "Very easy and delicious. Like some of the others, I strained some of the seeds out. Will make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Angela Giannetti Snyder"
+},
+"reviewBody": "I am very new to canning, and have never made a jam before. First, let me say, that this came out delicious! I may never buy raspberry jam in the store again. I may cut back on the sugar next time just to get a little more of the raspberry flavor, but it really is good as written as well. However, I did have to cook it longer. At 4 minutes, it was just saucy and I started looking at my box of pectin, wondering if I should try to add it. But, I stuck with it, and cooked for about 24 minutes. Being new, I wasn't sure exactly what I was looking for, but it may be just a tad too thick now that it's cooled. I would probably do 20 minutes next time. Thank you for this delicious recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ginger Dunham"
+},
+"reviewBody": "followed recipe exactly and it is cooling now. So easy !"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Grandma"
+},
+"reviewBody": "We have wild red raspberries and they are very good but pretty seedy. I made the recipe twice and it turned out great each time. I did cut back on the sugar by 1/2 cup. I was concerned that the jam would be too seedy, but it was fine."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Donnamarie Freeman"
+},
+"reviewBody": "With the exception of the cooking time, I made this recipe as is, and this turned out great! \n\n8-10 minutes worked out very well; everything began to thicken perfectly, and without scorching. Gave these the traditional 24 hour setting time, and ended up with a vibrantly colored, delicious and well-set jam."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Flora Bruno"
+},
+"reviewBody": "This recipe needs modifications. It won’t jam up under these conditions. I let boil for 25 minutes. Also added 1/2 tablespoon of cornstarch to help it thicken. Used the frozen plate method to check (freeze a glass plate in the freezer 10 mins. When jam is ready put a spoonful on. Freeze for 1 minute and if you can run a finger through without it running back together, it’s ready. Can add corn starch or lemon juice boil for 3 mins and try again until it jams up after a minute in the freezer)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "AKSue"
+},
+"reviewBody": "I really like this recipe. I strained out the seeds before I measured my 4 cups of raspberries. It made a little over 4 1/2 pint jars. Glad it didn’t use pectin. All the stores are out right now. Jars are hard to find too. Great raspberry year so everyone is making jam."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carol F"
+},
+"reviewBody": "Still in the water bath. Easy to make. I took some out before the jam stage so I will have a raspberry sauce for tomorrow. Easy to make. Tasty. I cut back a little on the sugar - personal taste."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Annie Rose"
+},
+"reviewBody": "I like the simplicity of this jam. Very easy to make, with minimum added ingredients. Although I find this jam on the sweet side, I still love it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Katherine"
+},
+"reviewBody": "I made this using a sugar substitute..Truvia, which is safe to can with...This recipe made two to 3 pints for me. I strained half the mixture to get the seeds out and left half with the seeds. The jars sealed themselves after filling with the hot mixture. I opened on recently. It was very good. I think just a touch too sweet so I may cut further down on the sugar. My berries were really ripe. It spreads perfectly and the amount of seeds in the jam is just fine. The original mixture was just chock full of seeds. So I am glad I strained half the seeds out."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary Louise Snider"
+},
+"reviewBody": "PERFECT!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "paul shari"
+},
+"reviewBody": "It was excellent!\nI chose to throw all my jars in the freezer, rather than processing, but the jam turned out excellent!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Vicki Stein"
+},
+"reviewBody": "I reduced the recipe by half and used it to top chicken marinated in lemon and herbs. It was perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Heather Campbell Fife"
+},
+"reviewBody": "I tried it just as per the instructions and it came out raspberry sauce. I was skeptical because I had made strawberry jam without pectin the night before and had to keep it at a boil for about 25 minutes until it reached 220°. Strawberry came out perfect, the raspberry never gelled."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nana"
+},
+"reviewBody": "It was an awesome recipe. Easy to do, would definitely make it again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cooking Mom"
+},
+"reviewBody": "Perfect recipe! I only had 1.5 cups of raspberries so I used 1.5 cups of sugar and a little more than 1 tsp of freshly squeezed lemon juice and it came out perfectly!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Candace Jones Bond"
+},
+"reviewBody": "Followed recipe and it turned out perfect. Super easy also. I will make this recipe again and also try it with my blackberries."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "denise1247"
+},
+"reviewBody": "I followed the recipe closely but I wish I had paid attention to the comments of the others. The cinnamon and all spice additions leave an after taste that is off putting. Next time I'll rely on the berries' flavor. Otherwise an easy successful recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Enessa"
+},
+"reviewBody": "it was great my family loved it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "NanaBanana48"
+},
+"reviewBody": "Wow! What a great way to use up a small or odd amount of raspberries! Just mash 'em up, mix with an equal amount of sugar, a proportional amount of lemon juice, and boil till thickened. Came out fabulous!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BOSE"
+},
+"reviewBody": "I love it! Super easy to make and super raspberry flavor! I will make this again and again..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Maggie"
+},
+"reviewBody": "what terrific raspberry flavor - way better than the standard jams. I cut the sugar a little ( I like tart) and it still worked out great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "goodcooker"
+},
+"reviewBody": "I/2 pint of raspberries, 1/2 cup sugar, 2 teaspoons lemon juice, cook for 12 min stirring often. Ready when can run spoon through and see bottom of pan for 1 second. Yield 3/4 of small jam jar."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/263781/raspberry-jam-without-pectin/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/15930/side-dish/sauces-and-condiments/canning-and-preserving/",
+"name": "Canning and Preserving Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1961/side-dish/sauces-and-condiments/canning-and-preserving/jams-and-jellies/",
+"name": "Jams and Jellies Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/263781/raspberry-jam-without-pectin/",
+"name": "Raspberry Jam without Pectin"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

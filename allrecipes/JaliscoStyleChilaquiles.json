@@ -1,0 +1,132 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Jalisco-Style Chilaquiles"
+,"datePublished": "2020-06-23T17:52:36.000-04:00"
+,"dateModified": "2020-06-23T17:52:36.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Cyber Pana"
+,"url": "https://www.allrecipes.com/cook/2427508"
+}
+]
+,"description": "These chilaquiles made without eggs, Jalisco-style, feature tortilla chips in a spicy tomato-chile sauce topped with fresh cheese and freshly chopped onion."
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Jalisco-Style Chilaquiles"
+,"cookTime": "PT25M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "407 kcal"
+,"carbohydrateContent": "60 g"
+,"cholesterolContent": "5 mg"
+,"fiberContent": "12 g"
+,"proteinContent": "10 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "133 mg"
+,"sugarContent": "4 g"
+,"fatContent": "17 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"6 cups water, divided",
+"3 medium tomatoes, halved",
+"10 dried red chile peppers, or more to taste",
+"2 pasilla chile peppers - stems, seeds, and veins removed",
+"salt to taste",
+"15 corn tortillas",
+"2 cups vegetable oil for frying",
+"0.5 onion, finely chopped",
+"0.25 cup crumbled queso fresco, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine 3 cups water, tomatoes, and chile peppers in a saucepan and bring to a boil. Reduce heat and simmer until softened, about 8 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat remaining 3 cups water in a separate saucepan."
+} ,{
+"@type": "HowToStep"
+,"text": "Drain tomato-pepper mixture and transfer to a blender. Blend until sauce is smooth, adding about 1/2 cup hot water if needed. Season with salt."
+} ,{
+"@type": "HowToStep"
+,"text": "Cut tortillas into medium chip-sized pieces using kitchen shears."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat oil in a heavy-bottomed pot over medium-high heat. Fry tortilla chips in batches until firm and crispy, about 1 minute per batch. Drain on paper towels and let cool."
+} ,{
+"@type": "HowToStep"
+,"text": "Spread about 1 teaspoon of the hot oil in a large pan. Carefully pour in tomato-pepper sauce. Add 2 1/2 cups hot water and bring to a simmer. Stir in tortilla chips and reduce heat to medium-low. Stir gently until chips are bright orange but still somewhat crunchy, about 1 minute."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer to serving plates and garnish with onion and queso fresco."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT40M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/264532/jalisco-style-chilaquiles/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/",
+"name": "Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1642/everyday-cooking/",
+"name": "Everyday Cooking"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/264532/jalisco-style-chilaquiles/",
+"name": "Jalisco-Style Chilaquiles"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

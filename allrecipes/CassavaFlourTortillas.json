@@ -1,0 +1,169 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Cassava Flour Tortillas"
+,"datePublished": "2019-04-04T00:16:51.000-04:00"
+,"dateModified": "2022-10-20T00:18:07.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Buckwheat Queen"
+}
+]
+,"description": "Soft and pliable, these easy-to-make cassava flour tortillas taste similar to a whole wheat tortilla but are naturally gluten free and hold up really well."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/oycavoZKb3bWKtB151z-dCf4Np0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6439252-cassava-flour-tortillas-Buckwheat-Queen-4x3-1-a556e1f939624cab9fcbc283ccd9f391.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Cassava Flour Tortillas"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "3"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "221 kcal"
+,"carbohydrateContent": "35 g"
+,"fiberContent": "1 g"
+,"proteinContent": "0 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "151 mg"
+,"fatContent": "9 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"0.5 cup lukewarm water",
+"0.25 teaspoon salt",
+"1 cup cassava flour",
+"2.5 tablespoons vegetable oil" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Prepare a tortilla press with 2 pieces of parchment paper. Set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour warm water into a bowl and stir in salt until it dissolves."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine flour, salt water, and oil in a bowl and mix with your hands until a smooth dough forms. Move dough to a smooth surface and lightly knead until dough feels compact and does not crumble. Separate into 4 equal pieces and roll them into balls."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat a griddle over medium-high heat. Press one dough ball between 2 pieces of parchment paper in the tortilla press. Press down. Open press and carefully peel off the top piece of parchment paper. Flip tortilla onto your hand and carefully peel off the 2nd piece of paper. Return paper back onto tortilla press. Immediately cook the pressed tortilla on the hot griddle. Cook until bubbles form, flip over, and cook on the other side until browned. Do not flip the tortilla before bubbles form or the tortilla will break. Repeat with remaining dough balls."
+} ,{
+"@type": "HowToStep"
+,"text": "Serve immediately or cover with a cloth and reheat in the microwave for 30 seconds at 600W."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT30M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Wicksy"
+},
+"reviewBody": "I made these only with good quality evoo. I read a little trick somewhere to leave the top piece of parchment on, then flip the tortilla onto the pan. Let it cook for about 30 seconds and the top parchment easily comes off :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Roig"
+},
+"reviewBody": "I used palm oil instead of vegetable oil. I just got a kitchenaide stand up mixer and I add the flour and oil until it gets crumbly then add the water. Dont add it all at once some altitudes will require more some will require less. Best tortillas ever!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "A B"
+},
+"reviewBody": "These are so good! I make them all the time now. I don’t have a tortilla press, so I jut use a heavy pot to press them between parchment. Sometimes I make them thicker and use them like pizza crust. They also make really good crackers."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/271093/cassava-flour-tortillas/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/360/bread/quick-bread/",
+"name": "Quick Bread Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/15855/bread/quick-bread/tortillas/",
+"name": "Tortilla Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/271093/cassava-flour-tortillas/",
+"name": "Cassava Flour Tortillas"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

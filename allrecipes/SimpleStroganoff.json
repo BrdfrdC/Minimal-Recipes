@@ -1,0 +1,445 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Simple Stroganoff"
+,"datePublished": "2019-04-02T03:01:53.000-04:00"
+,"dateModified": "2022-11-02T09:11:02.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Richard Daggett"
+,"url": "https://www.allrecipes.com/cook/4710443"
+}
+]
+,"description": "This simple stroganoff recipe combines ground beef, mushrooms, sour cream, and Greek seasoning for a deliciously savory topping for egg noodles."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/77tmCvfTHUYdBJ-P26C_b1qT6C8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1074687-85715f1400dc4de99aac057725aa6e0c.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Simple Stroganoff"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.1",
+"ratingCount": "32"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "810 kcal"
+,"carbohydrateContent": "69 g"
+,"cholesterolContent": "192 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "38 g"
+,"saturatedFatContent": "22 g"
+,"sodiumContent": "268 mg"
+,"sugarContent": "4 g"
+,"fatContent": "43 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 (12 ounce) package egg noodles",
+"1 pound ground beef",
+"1 teaspoon Greek seasoning (such as Cavender's®)",
+"salt and ground black pepper to taste",
+"1 teaspoon vegetable oil",
+"1 (16 ounce) package sliced fresh mushrooms",
+"1 pint sour cream" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Fill a large pot with lightly salted water and bring to a rapid boil. Cook egg noodles at a boil until tender yet firm to the bite, 7 to 9 minutes; drain."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, heat a large skillet over medium-high heat. Add ground beef; cook and stir until browned and crumbly, 5 to 7 minutes. Drain and discard grease. Season beef with Greek seasoning, salt, and pepper."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat vegetable oil in a separate skillet over medium heat. Add mushrooms; cook and stir until tender, about 5 minutes; add to ground beef."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir sour cream into ground beef mixture; cook and stir until hot, about 5 minutes. Serve over egg noodles."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT30M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Amanda Waltz"
+},
+"reviewBody": "I used some garlic and saved some pasta water and mixed in some LB Jamison’s soup base for extra beef flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marian "
+},
+"reviewBody": "Neeeds more flavor"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JenniferSimpson"
+},
+"reviewBody": "I loved it. So quick, so easy. Thank you."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Amy E"
+},
+"reviewBody": "I think next time I’d add some Worcestershire Sauce and a little sherry. It was a little bland."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Angelina"
+},
+"reviewBody": "I anticipated that it need more flavor, so I added more seasonings &amp; herbs. There was no need to make this in a crock pot, since you're already browning the beef in a skillet. I made this in a large skillet, and it work just fine."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Fionaturrorealtor Turro"
+},
+"reviewBody": "This is a budget freindly recipe for sure, but not very tasty. I did it a tad differently with my cooking method, so I didnt have to use more pans (Im lazy) I sauteed the mushrooms in 2TBS of butter, removed from pan then sauteed the meat with some dice onions and garlic, just for more flavor. I had to look up greek seasonings, as it isnt something I've ever had on hand. While the meat was browning I started the egg noodles, since they cook quickly. The rest was the same. Pretty good, but I like mine better, lol. Sorry. Still cheap but a different method with less clean up."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "coloradocarol"
+},
+"reviewBody": "I pretty much followed the recipe, except I cooked it for eight hours in a crockpot. I browned the onion before putting it in. I added a few sliced carrots and a bay leaf. At the end, it was a bit too runny, so I added some instant potato flakes to thicken it. So, I didn't follow the recipe exactly, but pretty darned close. Very tasty soup that I will make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Curt McLey"
+},
+"reviewBody": "I had some leftovers in the refrigerator that I wanted to use up, and this great recipe inspired me to use what I had available, including some grilled sirloin steak, which I sliced and diced and used in place of the hamburger (I can't wait to try this with hamburger). We also had some left over mushrooms sauteed in butter, which I combined with a couple of additional small cans of mushrooms. I used spaghetti, which was my last pasta choice, but is all I had in our pantry. I used everything else as called for, and sprinkled some Parmesan cheese on at the end, and this was a killer supper. Thanks for the incredible idea, Richard. It's a winner."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Madelaine"
+},
+"reviewBody": "I liked it and easy to do for a quick supper"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Carly Daniels"
+},
+"reviewBody": "Love that Richard shared making this dinner for 6 kids. I have a large family to feed and this recipe saved time! Thank you."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Dessert Diva"
+},
+"reviewBody": "I liked it. Unfortunately hubby did not. No accounting for taste! ??"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Saena"
+},
+"reviewBody": "Great staple item for when you need a relatively quick, filling, tasty meal. I didn't think the seasoning would be enough, but it tastes rich and delicious. And it's cheap, so if you want to eat well and are on a limited income, this is a great recipe for you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ann Elizabeth Huizenga"
+},
+"reviewBody": "Very good. The only thing I would do different was not use a whole package of egg noodles. It was way too much."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Monica Forero"
+},
+"reviewBody": "Used a pound of noodles and 2 of beef. Had to add a little less than a pint of sour cream tho. Once added, the meat tends to lose its original flavor so be careful with that. Also, I used italian seasoning instead of greek, it turned out to be very good, and had to add more salt, pepper, onion and garlic after the sour cream for the same reason mentioned above. Overall a good dish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "bjones6612"
+},
+"reviewBody": "quick and easy but lacking in flavor. I made it as written, but it needs something to enhance the taste."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dorette Mccracken"
+},
+"reviewBody": "Loved this!! I didn't have enough sour cream, so I substituted some half and half to make up for it. It gave it a nice, creamy texture and the sauce to go over the noodles. I added 1/2 a teaspoon more seasoning than the recipe called for as my family likes a lot of spice. I didn't have any brand name Greek seasoning blend so I used one I made from here: http://allrecipes.com/recipe/231228/greek-seasoning-blend/ \nIt turned out great too!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Eliz"
+},
+"reviewBody": "Great recipe. I added a bit of garlic, a couple tablespoons of milk, slow simmered, and added the onions close to the end because I like my onions on the crunchy side for a bit more texture. Thanks for sharing! We loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Julie Pangilinan"
+},
+"reviewBody": "Easy to make but not that flavor full"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Brent W"
+},
+"reviewBody": "Average flavour profile, but a good quick and easy meal. I actually added a teaspoon of McCormick Mild Curry Spice. It gave it a wonderful savory depth. Nice crisp peppers and steamed green beans complimented the dish nicely."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kerrie"
+},
+"reviewBody": "I made this without the noodles, so basically just the beef... also added sauteed eggplant. It's a simple recipe but delicious, and easy to make with little ingredients. I changed a bit, but the idea was the same and I appreciate the inspiration. Thanks for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Phoebe"
+},
+"reviewBody": "Nice change with the Greek Seasoning. As the recipe did not call for frying onions or garlic, I resisted and did not sauté the mushrooms in oil. Microwaved the mushrooms, poured off the water produced and added them to the beef so there was no problem with too much liquid."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Joy Gilton"
+},
+"reviewBody": "Very good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "lutzflcat"
+},
+"reviewBody": "I've seen many recipes for \"ground beef\" stroganoff over the years, but this is the first time I've made one. The one thing that I didn't like was that the sour cream totally liquified once combined with the meat. The dish had zero eye appeal because of the watery texture. The Greek seasoning was a nice addition, but overall, this stroganoff was a disappointment. In all fairness, it could be that I wouldn't like any ground beef stroganoff, so moving forward, I'll stick with the real deal version. Sorry olderguy for the less than favorable review."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah Jo"
+},
+"reviewBody": "I did add one large onion and a tablespoon of worchestershire sauce. This was a little thick, I did add a little canned milk to thin it out just a touch. Very rich, very good. NO LEFTOVERS. This reminds me of something similar Mom made for me when I was growing up."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/234799/poor-mans-stroganoff/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/95/pasta-and-noodles/",
+"name": "Pasta and Noodles"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/530/pasta-and-noodles/noodles/",
+"name": "Noodle Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/234799/poor-mans-stroganoff/",
+"name": "Simple Stroganoff"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

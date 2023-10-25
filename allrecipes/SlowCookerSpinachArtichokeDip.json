@@ -1,0 +1,244 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Slow Cooker Spinach-Artichoke Dip"
+,"datePublished": "2019-11-01T09:14:38.000-04:00"
+,"dateModified": "2022-01-03T09:53:11.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "HnyBear"
+,"url": "https://www.allrecipes.com/cook/7483836"
+}
+]
+,"description": "Easy to prepare using a slow cooker, this spinach-artichoke dip is creamy, cheesy, and perfect for entertaining."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/hnMnZ2sGsHk6RuVxPyUtuzOj_b4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8837192-385b2df763fe497ba24126a1882160fb.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Slow Cooker Spinach-Artichoke Dip"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.2",
+"ratingCount": "13"
+}
+,"cookTime": "PT120M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "233 kcal"
+,"carbohydrateContent": "8 g"
+,"cholesterolContent": "56 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "12 g"
+,"saturatedFatContent": "11 g"
+,"sodiumContent": "615 mg"
+,"sugarContent": "1 g"
+,"fatContent": "18 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"1 (14 ounce) can artichoke hearts, drained and chopped",
+"1 (9 ounce) package frozen spinach",
+"1 (8 ounce) package cream cheese",
+"0.75 cup shredded mozzarella cheese",
+"0.5 cup shredded Parmesan cheese",
+"0.25 cup milk",
+"salt and ground black pepper to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine artichokes, spinach, cream cheese, mozzarella cheese, Parmesan cheese, milk, salt, and pepper in the bottom of a slow cooker."
+} ,{
+"@type": "HowToStep"
+,"text": "Cover and cook on High, stirring occasionally to combine, for 2 hours."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT125M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "DREGINEK"
+},
+"reviewBody": "A basic but GOOD take on spinach artichoke dip for a crockpot. Few ingredients with good results and minimal prep! This was exactly what I was looking for when hosting but have a full oven! Served with crackers and crostini. Would make again! Thanks HnyBear!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Elisabeth Marie Cuadros"
+},
+"reviewBody": "Good simple dip. Artichoke lovers will want to add a bit more artichoke and definitely more cheese. Still a great no nonsense recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I added garlic which I believe was the \"missing\" ingredient and didn't have the Mozzarella, so I used Pepper-jack cheese instead which provided a little heat and zip. Oh, I also used half-and-half rather than milk, we don't drink milk around here. Overall it is a good recipe and if you add your own extras you can make it a five-star recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "The secret missing ingredient is garlic. Enjoy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Chef Drinksalot"
+},
+"reviewBody": "Overall it was very good. I'd add some extra parmigiana cheese and probably use heavy cream instead of milk. Also, it needs an element of garlic and onions. Maybe use garlic salt instead of regular salt or actually saute some onions and garlic and add that to the rest of the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Soup Loving Nicole"
+},
+"reviewBody": "Made this exactly as written except I cooked it on low 2 hours instead of high to avoid scorching of the cream cheese and other cheese. It worked perfectly on low. I added 30 minutes to cook time just to be on the safe side but I don't think it was necessary. This was good but I think it could have used something. Crushed red pepper maybe? Regardless, this was simple and one I will make again. Stir often!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lahar"
+},
+"reviewBody": "Halved the recipe for two people and used a mini slow cooker. Used 1.5 string cheese sticks because I didn't have shredded cheese."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "pcorb"
+},
+"reviewBody": "super easy to make, but was missing something that none of us could put our finger on. probably will not make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Topher"
+},
+"reviewBody": "Very easy to make and delicious. Only reason is not 5 stars is that there's no secret ingredient, but it's hard to think that this could be much better. Did put some Swiss cheese strips on the top and some canned Alfredo instead of milk, which makes it a 5 star."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/276776/slow-cooker-spinach-artichoke-dip/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/105/appetizers-and-snacks/dips-and-spreads/",
+"name": "Dips and Spreads Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1242/appetizers-and-snacks/dips-and-spreads/spinach-dips/",
+"name": "Spinach Dip Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/276776/slow-cooker-spinach-artichoke-dip/",
+"name": "Slow Cooker Spinach-Artichoke Dip"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

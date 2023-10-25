@@ -1,0 +1,228 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Strawberry Blintzes"
+,"datePublished": "2020-06-19T00:06:22.000-04:00"
+,"dateModified": "2020-06-19T00:06:22.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Morgan"
+,"url": "https://www.allrecipes.com/cook/11574045"
+}
+]
+,"description": "A sweet cottage and cream cheese filling is rolled up into homemade blintzes and topped with strawberries in this tasty breakfast recipe."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/s1zWaA2OrrhCMW1rQ9jjfobjTCk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4561866-5edfd49d342f4b97bbee5b270796b18a.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Strawberry Blintzes"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "8"
+}
+,"cookTime": "PT1M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "201 kcal"
+,"carbohydrateContent": "20 g"
+,"cholesterolContent": "82 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "8 g"
+,"saturatedFatContent": "6 g"
+,"sodiumContent": "297 mg"
+,"sugarContent": "12 g"
+,"fatContent": "10 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"3 eggs",
+"0.66666668653488 cup all-purpose flour",
+"0.5 teaspoon salt",
+"1.5 cups milk",
+"1.5 tablespoons butter, melted",
+"1 (8 ounce) container cottage cheese",
+"1 (3 ounce) package cream cheese, softened",
+"0.25 cup white sugar",
+"0.5 teaspoon vanilla extract",
+"2 tablespoons butter, or as needed",
+"1 (10 ounce) package frozen sweetened strawberries, thawed, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Beat eggs, flour, and salt together in a large bowl until smooth. Mix in milk and 1 1/2 tablespoon butter gradually. Cover with plastic wrap and let batter rest in the refrigerator, at least 2 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine cottage cheese, cream cheese, sugar, and vanilla extract in a blender; blend until filling is smooth."
+} ,{
+"@type": "HowToStep"
+,"text": "Melt a bit of butter in a large skillet or crepe pan over medium heat. Ladle in a small amount of batter and swirl skillet to spread batter in a thin layer. Cook until set, about 30 seconds. Flip and continue cooking until second side is cooked, about 10 seconds. Transfer to a plate to cool. Repeat with remaining butter and batter."
+} ,{
+"@type": "HowToStep"
+,"text": "Spoon filling onto blintzes and fold. Top with strawberries."
+} ]
+,"recipeYield": ["10"]
+,"totalTime": "PT136M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Skeet"
+},
+"reviewBody": "Worked great for me . I halved the recipe. The wife and I loved them so I'm going to try it again on my son and his family. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Leanne Ward"
+},
+"reviewBody": "I really liked them. They worked well with gluten free flour too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lady Mettle"
+},
+"reviewBody": "They were delicious! This is now my go-to cheese blintz recipe. My first crepe fell apart because I added too much melted butter to the pan and I didn't let it cook long enough. After I fixed my mistakes the crepes came out great. There are several tricks to keep the crepes in one piece. I used a long fish spatula to turn the crepes over. It gives the crepes more support. I used a 10 inch non-stick fry pan but a crepe pan is better to use. I used a small amount of melted butter in the pan for each crepe. I let my crepes cook on the first side long enough that parts of the cooking side of the crepe was browned. I loosened all the edges of the crepe with the spatula, gently shook the pan to loosen the crepe, then I put my spatula under the edge of the crepe and gently shook the pan a little so I could move my fish spatula under the crepe and gently flip it over to cook the other side of it and when it was done I used my fish spatula to help ease it off the fry pan and onto the plate."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kenny"
+},
+"reviewBody": "Also I meant to say--a crepe pan is a must or the blintz sticks and falls apart. Thankfully we have one and it worked great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "zilly0285"
+},
+"reviewBody": "Left each side longer than recommended and then it wasn’t to hard to flip using a copper pan. Tasted great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah Shinaberry"
+},
+"reviewBody": "my mom makes this recipient too! it's a family favorite. you have to be a good cook to get the consistency and make them right in the pan. They are so yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Jonah Businger"
+},
+"reviewBody": "I did not like this recipe. whenever I flipped the blintz, It got destroyed. I only got 1 or 2 correct ones. But for those who don't care about looks, it was scrumptious!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/246832/strawberry-blintzes/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/78/breakfast-and-brunch/",
+"name": "Breakfast and Brunch"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/147/breakfast-and-brunch/crepes/",
+"name": "Crepes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/246832/strawberry-blintzes/",
+"name": "Strawberry Blintzes"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

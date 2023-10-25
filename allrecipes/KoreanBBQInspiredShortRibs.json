@@ -1,0 +1,164 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Korean BBQ-Inspired Short Ribs"
+,"datePublished": "2020-03-05T00:13:18.000-05:00"
+,"dateModified": "2020-03-05T00:13:18.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "ZedFightsGanon"
+,"url": "https://www.allrecipes.com/cook/15254074"
+}
+]
+,"description": "Korean BBQ ribs are incredibly easy to make and are a tasty filling in lettuce wraps with sticky white rice, perfect for parties and barbeques."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/VbGJRtkAP2MG1c0SNudGO6_Tgio=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5745625-48aa2d06db854a1aa0d2e8cb476e0454.jpg",
+"height": 844,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Korean BBQ-Inspired Short Ribs"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "3.5",
+"ratingCount": "2"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "619 kcal"
+,"carbohydrateContent": "20 g"
+,"cholesterolContent": "93 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "23 g"
+,"saturatedFatContent": "19 g"
+,"sodiumContent": "1593 mg"
+,"sugarContent": "14 g"
+,"fatContent": "50 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"0.25 cup rice wine vinegar",
+"0.25 cup soy sauce",
+"0.25 cup sriracha hot sauce, or to taste",
+"2 tablespoons olive oil",
+"0.25 cup brown sugar",
+"2 green onions, chopped",
+"3 cloves garlic, minced, or more to taste",
+"1 tablespoon ground black pepper",
+"1 tablespoon toasted sesame seeds",
+"1 tablespoon minced fresh ginger",
+"1 pinch Chinese five-spice powder",
+"2 pounds beef short ribs, cut 1/3-inch-thick across the bones" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Whisk vinegar, soy sauce, sriracha hot sauce, and olive oil together in a large bowl; add brown sugar and stir until dissolved. Mix green onions, garlic, black pepper, sesame seeds, ginger, and five-spice powder into vinegar mixture until marinade is evenly combined."
+} ,{
+"@type": "HowToStep"
+,"text": "Place short ribs in a large reseable bag and pour marinade over ribs; coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for at least 3 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat grill for medium heat and lightly oil the grate."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove ribs from marinade and place on the grill; cook for 6 to 7 minutes. Flip ribs and spoon marinade over second side; cook until meat is no longer pink, 6 to 7 minutes more. Turn grill heat to high and cook ribs for 1 minute more per side. Remove ribs from heat and place on a plate; let rest for 5 minutes."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT210M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Kevin Heitsman"
+},
+"reviewBody": "Cook time is way off on a Treager, I understand everything varies with different methods of cooking but everyone else was done eating while I was still waiting for ribs to be done. Will never do again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Janet Henderson"
+},
+"reviewBody": "Very Good! I loved the flavors of sweet and spicy. . I already went to the store and bought more short ribs so I can make it again. I added a Serrano chili to it. Other than that I made as stated. I might try this in my instapot next time."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/242286/korean-bbq-inspired-short-ribs/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/227/world-cuisine/asian/",
+"name": "Asian"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/700/world-cuisine/asian/korean/",
+"name": "Korean"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/242286/korean-bbq-inspired-short-ribs/",
+"name": "Korean BBQ-Inspired Short Ribs"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

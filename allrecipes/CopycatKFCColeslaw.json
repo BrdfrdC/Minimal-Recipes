@@ -1,0 +1,190 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Copycat KFC Coleslaw"
+,"datePublished": "2023-02-15T14:00:00.000-05:00"
+,"dateModified": "2023-02-15T14:00:00.000-05:00"
+,"author": [ {"@type": "Person"
+,"name": "Sarah Brekke" }
+]
+,"description": "It&#39;s easy to make KFC coleslaw at home with this yummy copycat recipe."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/y8BABzWWkrdP3obStNlSZc-fM_U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8536918-Copycat-KFC-Coleslaw-4x3-1-b55263f8b2514c4a9c5c6cf16637964c.jpg",
+"height": 516,
+"width": 689
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Copycat KFC Coleslaw"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "3.4",
+"ratingCount": "5"
+}
+,"cookTime": "PT120M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "167 kcal"
+,"carbohydrateContent": "14 g"
+,"cholesterolContent": "10 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "1 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "217 mg"
+,"fatContent": "12 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 (14 ounce) package coleslaw mix",
+"0.25 cup finely chopped yellow onion",
+"0.5 cup mayonnaise",
+"0.25 cup sugar",
+"2 tablespoons milk",
+"2 tablespoons buttermilk",
+"2 tablespoons white wine vinegar",
+"0.5 teaspoon salt",
+"0.125 teaspoon black pepper" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Stir together coleslaw mix and onion in a large bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk together mayonnaise, sugar, milk, buttermilk, vinegar, salt, and pepper in a second bowl until smooth. Pour dressing over slaw; stir well and chill at least 2 hours or up to overnight."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT135M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Yoly"
+},
+"reviewBody": "This is nowhere near KFC coleslaw! It was just ok but not what I expected. I was actually pretty disappointed."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Paula"
+},
+"reviewBody": "This coleslaw did not taste at all like KFC’s, but it was ok. I found it to be too sweet."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lela"
+},
+"reviewBody": "We loved the coleslaw. My family was so hungry that we didn't wait 2 hours to eat the coleslaw. It was still great! I wouldn't change a thing! The slaw doesn't taste quite like KFC; however, the slaw was still great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "lutzflcat"
+},
+"reviewBody": "I’ve made a lot of coleslaw, and after mixing up the dressing, I knew it was too runny. I added more mayo, whisked again, and that took care of the dressing consistency. I didn’t use the packaged slaw, just chopped up some cabbage and shredded some carrot. This turned out OK and, honestly, I can’t really say whether or not it tastes like KFC coleslaw, but I know it was too sweet for our taste. Thanks for sharing your recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "pudgysmom"
+},
+"reviewBody": "It was okay, but not KFC. I am almost sure KFC has horseradish in their dressing. Not much, just a bit to give it its unique flavor. I can't imagine KFC putting wine in their dressing. Too expensive!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8536918/copycat-kfc-coleslaw/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/96/salad/",
+"name": "Salad"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/218/salad/coleslaw/",
+"name": "Coleslaw Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8536918/copycat-kfc-coleslaw/",
+"name": "Copycat KFC Coleslaw"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

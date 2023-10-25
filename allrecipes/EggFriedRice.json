@@ -1,0 +1,1419 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Egg Fried Rice"
+,"datePublished": "2000-10-27T13:28:29.000-04:00"
+,"dateModified": "2023-01-19T12:30:23.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Krista B"
+,"url": "https://www.allrecipes.com/cook/24325327"
+}
+]
+,"description": "The ingredients in this egg fried rice are basic pantry staples like instant rice, onion, green beans, and soy sauce, all cooked together in a wok."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/WAaJX7ghFAiGjU3WGRmRC424exA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6751001-egg-fried-rice-Mariya-Tkachenko-4x3-1-0a5504e18cea49c2bf4419799bd50ad9.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Egg Fried Rice"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.1",
+"ratingCount": "238"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "145 kcal"
+,"carbohydrateContent": "25 g"
+,"cholesterolContent": "47 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "5 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "848 mg"
+,"sugarContent": "2 g"
+,"fatContent": "3 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"1 cup water",
+"2 tablespoons soy sauce",
+"0.5 teaspoon salt",
+"1 cup uncooked instant rice",
+"1 teaspoon vegetable oil",
+"0.5 onion, finely chopped",
+"0.5 cup green beans",
+"1 large egg, lightly beaten",
+"0.25 teaspoon ground black pepper" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Bring water, soy sauce, and salt to a boil in a medium saucepan. Stir in rice and remove from heat. Cover and let stand for 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat oil in a medium skillet or wok over medium heat. Sauté onions and green beans in hot oil for 2 to 3 minutes. Pour in beaten egg and fry for 2 minutes, scrambling egg while it cooks."
+} ,{
+"@type": "HowToStep"
+,"text": "Add cooked rice to egg mixture; mix well. Season with pepper."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT20M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Nathan King"
+},
+"reviewBody": "Needs more soy sauce. Also, a little fish sauce would help; and definitely needs garlic sauteed with the onion. I also substituted quinoa for the rice, which worked very well. I added left over grilled shrimp and added another egg."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "All I changed was the amount of items I used I made more just doubled what was said to do and for all they loved it happy family"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "zeebeth"
+},
+"reviewBody": "Pretty good! I replaced the green beans with diced baby carrots and added chicken breast to this, cooking the chicken before adding the carrots and onion to sauté. It’s not as good as you would get at most restaurants, but I wasn’t expecting it to be. A good substitute that’s fairly quick, cheap, and easy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mariya Tkachenko"
+},
+"reviewBody": "This turned out so good! The only changes that i made were taking out the onions and green beans (i'm not a fan) and replacing them with peas and carrots!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kristin Kirabo"
+},
+"reviewBody": "I used rice from the previous night's meal instead of freshly cooked rice but it still turned out great.\nI would definitely make it again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "DeCynt"
+},
+"reviewBody": "Easy and tasty"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marty A Schaefer"
+},
+"reviewBody": "I'm literally eating it right now, and it's the perfect quick meal. Took me literally less than 25 minutes, and now I'm sitting and enjoying some great rice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Amherstsusan"
+},
+"reviewBody": "The rice was mushy. Next time I’ll do cold leftover rice"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ritababyseattle"
+},
+"reviewBody": "I used cooked brown rice instead and added left over roasted broccoli and cauliflower- yum! Thank you!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Nicole"
+},
+"reviewBody": "It was very good. Since my family does not eat peas, I just made it without them. Yum."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "MommaBear76"
+},
+"reviewBody": "Cured a craving! I had some cold precooked white rice so I used that for this dish - lots of wiggle room on veggie variation *thumbs up* Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rosaleen Swami"
+},
+"reviewBody": "Very good. And also yummy allrecipes is a great place to see recipes"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Sara Smith"
+},
+"reviewBody": "Very flavourable but not necessarily in a complimentary way."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Parker Miner"
+},
+"reviewBody": "it was a little too salty"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jackie Summers"
+},
+"reviewBody": "Only slight change I made was using carrots instead of onions, I'll be using this recipe again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Abbas Jafri"
+},
+"reviewBody": "I made this dish in the morning , It was really delicious. But there were some changes that I made. I added sausages and while serving I added some nado's peri peri sause."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Benjamin Trolio"
+},
+"reviewBody": "This recipe isn't great. It gives you no directions for how long to cook the rice. Following the vague instructions, makes your rice come out crunchy and undone."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "KellyWL"
+},
+"reviewBody": "Used Frozen Rice with Veggies to save time, and added fresh green onion, chopped garlic, and a little less soy sauce. (And of course the egg) It was delish!!!! We've made it twice! And didn't have any leftovers either, it was that yummy!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laura Barnes"
+},
+"reviewBody": "Super simple and delicious, though I used sesame oil instead of vegetable oil for added taste. I also added some diced chicken I baked the night before and about a tablespoon of onion powder. A favorite at my house now!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "foodisgood101"
+},
+"reviewBody": "I cooked this today and like it a lot. I put white sauce and chicken in mine but the next time I cook it I'm gonna use less soy sauce"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Becky Rogers"
+},
+"reviewBody": "We like to make this recipe to serve under sweet and sour stir fry chicken. I cook the onion and some sugar snap peas together first, then add the rice and egg. Yummy :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kristin DeYoung Bolt"
+},
+"reviewBody": "Easy to make and so good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chrissy Samson"
+},
+"reviewBody": "This dish was a hit by my husband and 10 year old step son. I modified it slightly by using lower sodium soy sauce, no onion, and a clove of minced garlic. I will definitely make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Paulina Pelaez"
+},
+"reviewBody": "Just made this because I didn't really have many things to eat for lunch. I did have white rice, carrots, onions and garlic! I rinsed the white rice so I could get rid of some of the starch that makes it clump up. Followed the instructions to the letter (sans rice) and added a bit more soy sauce while it was cooking. I let it sit for a while (about 15 minutes) stirring it a bit every 3 minutes. Came out crispy and delicious, I mean, even the egg tastes really nice and I'm not a fan of egg yolks. I doubled up on egg, rice, onions, garlic and carrots because I was really hungry.\n\nIt's a great recipe with the ingredients it has. Not many people have sesame oil lying around, or oyster sauce. I had veggie oil and basic vegetables, so I went with it, and it was good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Cooking-review-55"
+},
+"reviewBody": "Great recipe ! Just made it for lunch and was great !\nI added in some chopped ham which was delicious. The only issue was that I needed to return the rice to the stove as it wasn't cooked enough. Quick and easy and will be made again !"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "asjr8"
+},
+"reviewBody": "Good recipe! \n\nDREGNIK!\n\nNext time you make this try adding 1 teaspoon of sesame oil....\n\nShould taste better!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sarahlovestocook!"
+},
+"reviewBody": "Quick and easy fried rice recipe! I added garlic, peas, and carrots to the mix and it was delicious! THanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CAROLYNJUNE"
+},
+"reviewBody": "This was quick, easy and delicious. I added a bit of leftover chicken and some garlic, and left out the salt and papper. It is so good I had a hard time NOT finishing off what was left at the end of the meal! Oh, and I used instant brown rice because I didn't have any white rice. I will use brown rice the next time, too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "bobby1588"
+},
+"reviewBody": "Rice turned out well, soaked the rice in a cold bath for 30 minutes. Then sauteed in salted butter and vegetable oil. Cooled in fridge for 1 hour. Followed by sauteing green onions in vegetable oil, adding rice and 2 eggs, 2 table spoons of soy sauce. Even tho this isnt the recipe, i looked at this when i made it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sara Rose"
+},
+"reviewBody": "This is how I made it. I sauted frozen peas and carrots a 12oz bag with half a white onion. Then I added cubbed ham about 1/2 cup and put that with the vegetables. Then I added the egg and scrambled it for 2mins and put 3 cups of cooked white rice in with soy sauce oh my goodness it was heaven"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Cupcake87"
+},
+"reviewBody": "Bland. For those who are complaining that one cup of water isn't enough to cook the rice, you need to read your recipe better. This recipe calls for INSTANT RICE. The ratio of water to regular rice is 1:2. However the ratio of water to INSTANT RICE is 1:1."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "kellieann"
+},
+"reviewBody": "I didn't care for the green beans in this, they were too crunchy. It also needed garlic."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "NinjaKix"
+},
+"reviewBody": "I notice a lot of the reviewers were saying it seemed like something was missing. Try Adding a TSP of Sesame Oil into the rice as it's frying."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Jekka"
+},
+"reviewBody": "The one cup of water to cook rice alone is hilarious. Use two cups of water to a boil, add rice and then STEAM your rice. Nonetheless I followed the recipe and the rice was hard as predicted and the recipe was bland. I added some garlic and spicy stir fry sauce and it seemed to help somewhat."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Rachel"
+},
+"reviewBody": "I was not impressed by this recipe. It needed something more to it. Oh well... can't win with em all."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kelley Poche' Wells"
+},
+"reviewBody": "This is a great recipe. I substituted green beans with half a bag of frozen peas and carrots. I added bean sprouts and sliced green onions. Also, once all in the same pan, add sesame oil and stir at high heat for maximum flavor before serving."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "psloan6681"
+},
+"reviewBody": "Best fried rice I have ever made! It was quick and easy and my husband loved it! I will certainly be making this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Buttercream Mama"
+},
+"reviewBody": "So easy and delicious- cooked brown rice in a rice cooker then added the soy to it after- fried up edamame, shredded carrot and fresh corn with the onion then added the egg then added the rice and fried it up for a couple of minutes- this is a great recipe for kids!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Natalieyum"
+},
+"reviewBody": "So good! I used carrots and chive instead of beans and Adobo instead of soy sauce, small amount of salt and it tastes so good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Katie"
+},
+"reviewBody": "Yum! I added chicken and used peas instead of green beans. I also added about a 1/2 tsp. or so of garlic powder. 4 stars as written and five with the changes. Thanks Krista B.!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "jem75"
+},
+"reviewBody": "1 cup water is not enough to even cook the rice!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "stonercy"
+},
+"reviewBody": "I made this with brown rice and it was great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sallymd06"
+},
+"reviewBody": "This was the first time for me to make home made fried rice and it couldn't have been easier, or tastier. I did add carrots and garlic instead of onions and green beans, but that is because that was all I had. I will be making this again. Also I read another review and I agree, 2 eggs is better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "CuppaTeaGirl"
+},
+"reviewBody": "This should really be 2.5 stars. I made the following changes to the recipe: sesame oil instead of veggie oil; 1 cup mixed frozen (thawed out) veggies instead of onion and green beans. I also used low sodium soy sauce. The rice came out pretty tasty for homemade Chinese food, but it was a bit too salty for my palate. I might decrease the salt next time to 1/4 tsp since soy sauce has a good amount of salt in it to begin with. I also feel like the taste is \"missing something,\" though I have no idea what. I will look to reviewers' comments next time to make improvements. Will try this again and play with it a bit."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Dan"
+},
+"reviewBody": "Quite good... better than most asian restaurants"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "CIRCUSGEEK"
+},
+"reviewBody": "Very tasty. I used brown rice and cooked it in low sodium chicken broth and soy sauce. I let it cool in the fridge for a few hours and then sauteed onion, garlic, peas, green pepper and spam (all finely diced) and added two eggs to that. The original recipe was a great jumping off point."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "eo123"
+},
+"reviewBody": "1) You must use cold rice to make proper egg fried rice. If you are really in a pinch, spread it out on a pan and broil it under low heat, stirring frequently, to get some of the moisture out. This isn't ideal and the texture will still be effected, but it is much better than using rice fresh out of the pan. 2) Oil makes it taste..well, oily. Use butter instead. 3) I just add the soy sauce once the rice is in the pan."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Sonadorra"
+},
+"reviewBody": "I guess we are to spoiled with the restaurant style fried rice in our area. We didn't care for this at all. Very bland. The reviewer that said something was missing was right. I even tired adding more soy sauce, garlic, and onion powder. Still flavorless. Bummer!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jess"
+},
+"reviewBody": "My whole family enjoyed this recipe. We will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "M. Stoffel"
+},
+"reviewBody": "I wouldn't make this if I had a craving for amazing fried rice, but as a quick flexible side it was very good. I used chicken broth instead of water, and with the soy it gave me a nicely flavored base. The egg was delicious and filling, I might add two next time. Thanks for sharing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kathy914"
+},
+"reviewBody": "This is a great basic fried rice recipe. I love the taste of the soy sauce added to the water...could have just eaten that by itself."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SHEREEB"
+},
+"reviewBody": "very good added sweet peas...that is what i had....came out good thanks"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "brytning"
+},
+"reviewBody": "Fresh green beans make this recipe. I too added ginger and extra garlic."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Rida"
+},
+"reviewBody": "I just cooked this Fried Egg Rice Recipe. However, after reading the reviews I didn't add soy sauce and I didn't make it with beans. I added my own twist in it by adding Chilli peppers sauce and yellow Capicum. It tastes great and spice adds to the flavour. Other then that the recipe is OK."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "DN"
+},
+"reviewBody": "I'm also sorry to say that this is the worst fried rice recipe ever. Had I read the reviews I would have known...I followed the recipe and added less soy sauce and it was still extremely salty! WOW! I was disappointed! : ( If anyone uses this recipe OMIT the salt and ADD garlic and ginger to flavor it some more. Use chilled cooked rice for the best results as the glucose won't be as high when it's cold-meaning less stickiness in the end."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Peter Bartosch"
+},
+"reviewBody": "The dish as-is is only average, but it gives a nice base to build on by adding other ingredients. I've added ground beef, sliced chicken and different spices (cumin, coriander and cayenne being the top three) at various times to turn this into a recipe worth making again and again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "awesomesauce45"
+},
+"reviewBody": "This was great and super easy, which is great for me. I also managed to make it really cheap. Of course, I added things. This time around I did Turkey Meat Balls and was a little heavy on the Soy Sauce. It was delicious though. Even my finicky mother enjoyed it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Mr H"
+},
+"reviewBody": "Good, easy, quick recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rosy"
+},
+"reviewBody": "I love this! I added sesame sauce to the water, and onion and garlic powder also! This is my new fav quick meal!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "cpfc"
+},
+"reviewBody": "This was a good recipe. I added oyster sauce, prawns and I didn't use any vegetables except sliced green peppers. It turned out delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "BritishWife"
+},
+"reviewBody": "Very easy and straight forward, great as a small side dish or a bed for a meal!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nichole"
+},
+"reviewBody": "What a tasty, cheap, and simple recipe. I made the Egg Fried Rice and it is a great low-fat vegetarian alternative to Chinese To-Go. Thanks!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "CELIECANCOOK"
+},
+"reviewBody": "I used green onions, sliced mushrooms and peas and left out the green beans.\n\nQuick, easy and pleasing! I served the rice with the \"Sweet &amp; Sour Chicken I\" from this site. A delicious meal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Baricat"
+},
+"reviewBody": "Very good. It can be made much better with a few substitutions. I used short grain Asian rice for a more authentic result. Cooked the rice in chicken stock (1 part rice to 2 parts stock) laced with the soy sauce. Great touch for even flavor penetration - much more effective than sprinkling on the soy sauce at the end and stirring in. Added a tsp of very finely chopped ginger which lent a lovely fragrance and taste. Stir fried everything using a touch of sesame oil. Minced scallions were subbed for the onion. Skipped the green beans and subbed baby peas. Some water chestnuts adds a nice crunch. All of these \"subs\" were pretty simple and gave a deeper, more authentic Asian flavor. This recipe is, however, an excellent basic spring board for countless variations."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kirsty"
+},
+"reviewBody": "I made some changes to this recipe which contribute to the 5-star rating. I thought I would share those changes for any who may be interested. We don't care for minute rice and we had some leftover rice that we wanted to use (particularly considering the rice shortage these days) so I used that instead. I followed the directions to saute the onions and green beans, but added some carrots and peas in addition. I used 2 eggs instead of one. Then I put in my rice. It needed some moisture in reheating and so I used 1 cup of chicken bouillon (to add more flavor). Everything else I did the same. My husband loved it and that really does say a lot for this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "StevenandMaggie McClain"
+},
+"reviewBody": "I paired this recipe with Sweet and Sour Chicken 1 from this site and had sauteed pineapple and bell peppers as another side. It made for an amazing dinner, much better than any Chinese restaurant that I've ever eaten in and for a fraction of the cost. This is a very simple recipe, easy to make and has a great flavor. I didn't have to go out and buy anthing to do it, the only change I made was that I added steamed peas instead of green beans and it turned out great. Also I didn't add any extra salt that it called for because Soy tends to be so salty anyway."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "MALEIGH99"
+},
+"reviewBody": "I only had regular rice so I added more water and a bit more soy sauce and increased the cooking time. I didn't have green beans so I used soybeans instead. Really liked the recipe. Will definately make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "anniecate"
+},
+"reviewBody": "Delicious! I didn't have peas so I used chopped fresh spinach in addition to the carrots and onion. I added a bit of garlic and 2 TBS of soy sauce. Will make this again and again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "timeerkat"
+},
+"reviewBody": "Wow - this is really good. i've been looking for a good fried rice recipe. i had to double it due to our rice cooker, but hey, just means more for later. i did half soy and half teriyaki sauce and substituted peas and corn for green beans, would probably throw some carrot in too next time. it came out a *little* dry, probably due to sitting in the rice cooker, but nothing a little more teriyaki couldn't fix. definitely a repeat recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jassamyn"
+},
+"reviewBody": "Great recipe. We added green, yellow and orange chopped peppers for extra taste. Also added an extra egg."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "jharris"
+},
+"reviewBody": "Very good basic recipe. I substitued peas for string beans. I doubled the recipe for a family of 3. This is a great recipe b/c it's a good base recipe and you can do all sorts of variations off of this one."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chef_S"
+},
+"reviewBody": "Loved this recipe. Very easy and very tasty. Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "the cookie babe"
+},
+"reviewBody": "This was a good solid side dish. Nothing spectacular, hence only four stars. But still very tasty and so easy to make. I will definitely make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "danielle"
+},
+"reviewBody": "This recipe is super easy, and quick! I substituted peas for the green beans, and it still tasted fantastic! :D"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Crystal"
+},
+"reviewBody": "Good. I will make again because it was quick and easy. I like a lot of egg in my fried rice, so I added another egg and some green onion for color instead of the green beans. Hubby liked it so it will definitely make it back on our to make list."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Cathy T."
+},
+"reviewBody": "it was ok quick and my daughter liked it My husband and I were not as impresed. Next time I will use less soy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Dragngirle"
+},
+"reviewBody": "Used canned green beans. Added some red pepper flakes &amp; garlic powder. Served along with Ginger Veggie Stir-Fry &amp; Pork Tenderloin (both from this site) along with an Asian inspired fruit salad made with bananas, mangos, apples, oranges, strawberries, topped with almonds."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "JUMAHA"
+},
+"reviewBody": "Pretty good for how fast and easy it is. I prefer peas in fried rice so I used them instead of the green beans."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Heidi B"
+},
+"reviewBody": "Great taste &amp; so easy. We loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kap2"
+},
+"reviewBody": "fabulous! I used regular rice and just added an extra cup of water and cooked it like normal. I also used frozen peas and carrots for the veggies and i just used a bit of cooking spray instead of the oil. I'll definitly be making it again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Crystal"
+},
+"reviewBody": "This recipe turned out great! I did tweak it a little. I started with the rice like the recipe says and let it sit. I used olive oil and fried the fresh onion and frozen peas and frozen corn on medium heat. I let it take it's time, added some salt. Then I added two eggs instead of one, let that fry for some time, still on medium heat, added a little more salt. I then added the rice and fried it some more on medium heat. My hubby loved it and so did I. I would like to try adding some meat next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "teresa_loves_mark"
+},
+"reviewBody": "We loved this. I made it for my extended family and my sister-in-law had to have the recipe. Instead of using green beans, I use a small can of peas &amp; carrots, which is makes it more like the fried rice that we are used to eating."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sonjab."
+},
+"reviewBody": "I loved this recipe!!! My 20 month old son ate 3 bowls of it! I used some mixed veggies and used a little more soy sauce. and it was sooo yummy!! I will be making this again!! I also left out the onions. Next time I plan to use the bean sprouts in it. Thanks!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sarahwyo"
+},
+"reviewBody": "This recipie was great. I added two extra eggs cause I love them and I added cayenne pepper and saffron for a special kick. Also I used a veggie stir fry mix finely chopped instead of the veggies listed on the recipie. This was my first time making this dish and it turned out great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Momof2"
+},
+"reviewBody": "After I started making this I realized I was out of green beans....so instead of adding the regular onion I decided to use green onion for the color factor. It turned out ok. Not my favorite recipe, but I liked it. Thanks for the post."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jessica Zouvas"
+},
+"reviewBody": "almost the taste i was looking for... not bad at all!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carmela McCleary"
+},
+"reviewBody": "Great recipe for on-hand ingredients and really tasty! i only had 2 soy sauce packets but three would have been optimal, and i used 1/2 box of frozen mixed veggies."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jacob"
+},
+"reviewBody": "I often make this dish, and it is always great, try it with edamame for more protein and heart healthy soy power!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "DeBiE DooDleS"
+},
+"reviewBody": "very fast and easy to make, I added some carrots and corn.. and Added 2 more beaten eggs after I had the rice in and kept stirring.. I made it for a food day at work and everyone loved it !!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "SPEARFISHER"
+},
+"reviewBody": "For the time and energy you put into making this, it can't be beat. I added a little extra egg and also had some shrimp to toss in to it. Very good. Thanks."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Leslie"
+},
+"reviewBody": "This is the easiest fried rice ever. No need to precook and chill the rice, so it can be made with very little advanced planning. I substituted frozen peas for the green beans--it was a huge hit and so quick to make!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "OTTOS2"
+},
+"reviewBody": "Very good. I like a little more egg in mine, so I'd probably put in 1 additional egg. Also, made a nice amount that was eaten up in one meal--no leftovers! Which is great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ljmarsden"
+},
+"reviewBody": "This recipe not only taste great, it is also very easy. I make it exactly as written."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LEAH1976"
+},
+"reviewBody": "Really good!! I used fresh \"snap\" pea green beans. I doubled this recipe and it was the perfect amount for a family of four. Great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "RIVIR"
+},
+"reviewBody": "A very awesome and easy and fast recipe! Thanks so much. I tried it twice, once with mushrooms because I ran out of green beans. It was equally good. Probably any kind of vegetables would be good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "karisma2006"
+},
+"reviewBody": "This rice was wonderful! Instead of beans I used peas and carrots. Everthing else was by the book and perfect. I will definitely make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I like this Recipe better with out beans and bits of chicken instead"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JusRae'sMom"
+},
+"reviewBody": "me and my family just love it we make it so much now it was a great recipe so quick and easy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mandy L"
+},
+"reviewBody": "This was very tasty. I added ginger and used peas instead of green beans. Next time I will omit the extra salt, because this was a bit salty but as it sits it gets a good flavor. Thank you for sharing!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/23298/egg-fried-rice/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17743/main-dish/rice/",
+"name": "Rice"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/14363/main-dish/rice/fried-rice/",
+"name": "Fried Rice Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/23298/egg-fried-rice/",
+"name": "Egg Fried Rice"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

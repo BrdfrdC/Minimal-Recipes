@@ -1,0 +1,144 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Beer Cheese Corn Chowder"
+,"datePublished": "2022-08-30T00:34:43.000-04:00"
+,"dateModified": "2022-08-30T00:34:43.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "thehungryscientist"
+,"url": "https://www.allrecipes.com/cook/11182667"
+}
+]
+,"description": "This beer cheese and corn chowder is easy to prepare, and provides comforting flavor that&#39;s great for cold nights."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/lv9y0i6mipFJiI286J02R5pBqNU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4Beer-Cheese-Corn-Chowder-a9c62a83fb684b87b4378cbcebf0eca5.jpg",
+"height": 801,
+"width": 1067
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Beer Cheese Corn Chowder"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4",
+"ratingCount": "1"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "595 kcal"
+,"carbohydrateContent": "28 g"
+,"cholesterolContent": "141 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "22 g"
+,"saturatedFatContent": "26 g"
+,"sodiumContent": "688 mg"
+,"fatContent": "44 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1.5 cups shredded sharp Cheddar cheese",
+"1.25 cups shredded white Cheddar cheese",
+"0.25 cup butter",
+"0.5 cup finely chopped onion",
+"0.5 cup finely chopped red bell pepper",
+"0.25 cup thinly sliced green onions",
+"2 cloves garlic, minced",
+"0.5 cup flour",
+"0.5 teaspoon dry mustard",
+"4 cups low-sodium chicken broth",
+"1 (12 ounce) bottle beer, preferably lager",
+"1.5 cups heavy cream",
+"2 cups frozen corn kernels",
+"2 cups frozen diced hash brown potatoes",
+"6 slices crisp cooked bacon, crumbled",
+"0.33 cup grated Parmesan cheese",
+"0.5 teaspoon hot pepper sauce" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Allow sharp and white Cheddar cheeses to stand at room temperature for 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, melt butter in a 4-quart Dutch oven over medium heat. Add onion, bell pepper, green onion, and garlic. Cook mixture, stirring occasionally, until vegetables are tender, 8 to 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir in flour and dry mustard. Cook for 1 minute (mixture will be thick). Add broth all at once. Cook and stir until bubbly. Add beer and cream. Stir in corn and potatoes. Bring to a boil. Reduce heat and simmer, uncovered, 5 minutes, stirring occasionally."
+} ,{
+"@type": "HowToStep"
+,"text": "Gradually add sharp and white Cheddar cheeses, stirring after each addition until cheeses are melted. Stir in bacon, Parmesan, and hot pepper sauce. Heat through. Remove from heat and let stand 10 minutes before serving."
+} ,{
+"@type": "HowToStep"
+,"text": "If you like, top with additional green onion and bacon. Serve with additional hot pepper sauce."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT55M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8459974/beer-cheese-corn-chowder/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/174/soups-stews-and-chili/chowders/",
+"name": "Chowders"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/14770/soups-stews-and-chili/chowders/corn-chowder/",
+"name": "Corn Chowder Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8459974/beer-cheese-corn-chowder/",
+"name": "Beer Cheese Corn Chowder"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,1440 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Greek Salad"
+,"datePublished": "1999-08-30T15:28:27.000-04:00"
+,"dateModified": "2023-03-01T15:37:32.065-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Meesh"
+,"url": "https://www.allrecipes.com/cook/668"
+}
+]
+,"description": "This refreshing Greek salad recipe features an easy oregano and olive oil dressing with a dash of lemon to make it a standout summer salad!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/kSFihcnJOWtlf88hpx6temOIAr0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14373-Greeksaladi-mfs-Step4-0336-61d813193dd947bab3b3d8055b9c09ec.jpg",
+"height": 1125,
+"width": 1500
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=3884754485001",
+"description": "Summer vegetables dressed in a tangy, refreshing vinaigrette.",
+"duration": "PT1M45S",
+"name": "Greek Salad I",
+"thumbnailUrl": "https://static.onecms.io/wp-content/uploads/sites/43/2023/01/06/14373-GreekSaladi-mfs-4X3-0354.jpg",
+"uploadDate": "2021-06-23T10:40:06.786-04:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Greek Salad"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "271"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "265 kcal"
+,"carbohydrateContent": "14 g"
+,"cholesterolContent": "22 mg"
+,"fiberContent": "5 g"
+,"proteinContent": "6 g"
+,"saturatedFatContent": "6 g"
+,"sodiumContent": "538 mg"
+,"sugarContent": "6 g"
+,"fatContent": "22 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+, "recipeCategory": ["Appetizer"]
+,"recipeCuisine": ["Greek"]
+,"recipeIngredient": [
+"1 head romaine lettuce- rinsed, dried and chopped",
+"1 cucumber, sliced",
+"2 large tomatoes, chopped",
+"1 (6 ounce) can pitted black olives",
+"1 green bell pepper, chopped",
+"1 red bell pepper, chopped",
+"1 red onion, thinly sliced",
+"1 cup crumbled feta cheese",
+"6 tablespoons olive oil",
+"1 lemon, juiced",
+"1 teaspoon dried oregano",
+"ground black pepper to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/W2WoLPfWylUdmeTkqKMZ7KbNY-A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14373-Greeksaladi-mfs-Step3-0333-009c07e6594645a4a178658d0b5bbf33.jpg"
+}
+]
+,"text": "Combine romaine, cucumber, tomatoes, olives, bell peppers, and red onion in a large bowl; sprinkle with feta cheese."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/kSFihcnJOWtlf88hpx6temOIAr0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14373-Greeksaladi-mfs-Step4-0336-61d813193dd947bab3b3d8055b9c09ec.jpg"
+}
+]
+,"text": "Whisk olive oil, lemon juice, oregano, and black pepper together in a small bowl. Pour dressing over salad, toss well to combine, and serve."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT20M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Donna Rose"
+},
+"reviewBody": "Absolutely delicious 😋 the best salad I've had in a very long time"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "bagonzol"
+},
+"reviewBody": "Light and refreshing. The fresh dressing makes the veggie taste pop. Yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "SOlsen71"
+},
+"reviewBody": "I love the salad and think you can add/subtract veggies you want to but then it wouldn't be an official Greek salad. I do wish the dressing had a bit more zip."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kytchyn Wytch"
+},
+"reviewBody": "Omitted green pepper due to allergies and added more cucumber. Doubled the recipe, ate it without the lettuce and it was amazing! Will definitely make this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BWT"
+},
+"reviewBody": "It is great. Quick and lots of great vegies."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brushjl"
+},
+"reviewBody": "Great salad, can also be called Balkan salad or shepherds salad. I served tomatoes on the side (just me) and substitute banana peppers for olives but would have added olives too if I had them. Good to invest in quality feta."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "daniellebortolotti"
+},
+"reviewBody": "Very good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jennifer Van Ryckeghem"
+},
+"reviewBody": "First time making a greek salad. Followed the other reviews and added 2 TBSP of red wine vinegar and garlic - it was perfect, Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathleen Hand"
+},
+"reviewBody": "Love this salad! Going into our rotation of salads. Who knew that such a simple dressing would be so good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lee"
+},
+"reviewBody": "Fabulous"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Love2cook32"
+},
+"reviewBody": "This was so good!! I made for some friends that came over for dinner and it was a big hit. I will for sure make this often . It would be great for a light lunch."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "karen"
+},
+"reviewBody": "This is niw my go-to for Greek Salad. Easy and delicioous!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Debbie Beasley"
+},
+"reviewBody": "oh my this is a great summer salad. We love garlic so I added 2 cloves to the dressing and it was perfect for us! Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ruth Wayne"
+},
+"reviewBody": "Very good, even though I didn't have any olives."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cathy Cairns"
+},
+"reviewBody": "Yummy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Christy K"
+},
+"reviewBody": "Delicious! Made a few changes after reading others reviews. Added 2 T red wine vinegar, 3 tsps of sugar, garlic powder to taste. Perfection!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "toosxz4me"
+},
+"reviewBody": "I made this salad as a late night snack and was very pleased with the texture and flavor. Light, filling, crunchy and it cured all my cravings with a bit of sweet from the raisins. It was wonderful. Will definitely be adding it to my collection. i did have to tweek the salad dressing though, it was too bland. I simply added a tablespoon of rice vinegar with a 1/4 tsp of pepper. I think you have to definitely do the dressing to your own liking. But other than that I was satisfied. The feta cheese adds the perfect blend of flavor against the raisins. Thanks for the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JackieC"
+},
+"reviewBody": "Excellent. Added artichokes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "adriana"
+},
+"reviewBody": "It was good, but I felt like it didn't have much flavor, but maybe greek salad just doesn't have a strong flavor. I did add 2T of sugar, some garlic powder and some salt. I didn't have Red wine vinegar on hand which several people recommended. That probably would have helped. Also it's a huge salad, I will definitely half it next time I make it for my family and use only 1/2 of the onion."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "turnmill"
+},
+"reviewBody": "i added red wine vinegar to the dressing and added garlic salt turned out good next time i will soak the red onions in the dressing for a while"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "smile223"
+},
+"reviewBody": "I made this salad for a ham dinner. everyone loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Richard Thompson"
+},
+"reviewBody": "Excellent salad. Used Greek olives and more than called for.\nUsed Grape tomatoes\nUsed Brochette seasoning instead of Oregano."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary McNeal"
+},
+"reviewBody": "Added a little salt, Will absolutely make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "clowens9144"
+},
+"reviewBody": "Used bottled Greek dressing for ease but otherwise followed the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rocio"
+},
+"reviewBody": "Great Salad. I will be making more often."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marcia Brown"
+},
+"reviewBody": "I love Greek food, and especially a good Greek Salad. And, this is it. We don't really care for feta so we eliminate it. That was the only change I made."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Meg "
+},
+"reviewBody": "I made this weekly and leave in the fridge for a quick, healthy snack. The salad only gets better with age."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Big Mac"
+},
+"reviewBody": "I made this even though I know it's not a true \"Greek Salad\". Real Greek salad does NOT have lettuce. Sure you might have gone to a little restaurant and they gave you lettuce, but again, it's not a real Greek salad. I wanted to give this a try to see if it was good even though it's not what I'm used to. The lettuce didn't work for me. It seem too ...out of place with the other textures and tastes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "dsulkin"
+},
+"reviewBody": "The salad itself was great. I added Greek peperocini. But the dressing was not good. Was pretty much just olive oil. I added balsamic which helped. A day later it was much better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Wanda Mayes Belknap"
+},
+"reviewBody": "Truly a flavorful salad. My favorite!!!!\nI used both sliced black olives and pitted kalamata olives which I halved and Motsos Greek Dressings."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "David Dagenais"
+},
+"reviewBody": "The only difference I made was to add chunks of chicken breast. The salad went over very very well"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ron Lloyd"
+},
+"reviewBody": "Simple and Excellent!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Quintina Garrett"
+},
+"reviewBody": "I Absolutely love this recipe I added chicken breast in Pita bread to it and it taste so wonderful thank you"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "niv2006"
+},
+"reviewBody": "Followed the recipe. I didn't have olives but it was still the best Greek salad I have had till date. This recipe will be my go to recipe whenever we crave for this salad. Thank you for the recipe :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah"
+},
+"reviewBody": "I made this for a dinner with friends and they all said they liked it but I think they were just being polite. It probably would have been good with the garlic added."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Randy Garrison"
+},
+"reviewBody": "I really liked it, easy to make , very favorable"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sbt"
+},
+"reviewBody": "Followed recipe &amp; DH said it was a keeper! He likes Greek salad &amp; rated this one as equal to anything you'd get at a restaurant, if not better!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Houssem Eddine Missaoui"
+},
+"reviewBody": "Exactly the right proportions, adding a little bit of vinegar, and the whole thing turn out to be DELICIOUS !"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michael Minikel"
+},
+"reviewBody": "Only thing I did not do was make my own dressing due to time, the salad was quick and easy to make, I used real greek olives instead of black, black olives are too bland. The olives were a bit pricey, but good friends are worth a little extra, they loved it. They never had a greek salad"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KIMICOLE"
+},
+"reviewBody": "Dressing great for marinating pork! Try goat cheese"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sandman5756"
+},
+"reviewBody": "Quite a good salad! The kalamata olives really give it flavor. I wanted a bit more umph from the salad dressing but it as better than store bought Greek dressing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "CatieA"
+},
+"reviewBody": "Top with some canned tuna - my favourite lunch/light dinner! I bought sheep's milk feta once and now I will never go back... even though it's a little bit more expensive, I think it makes it so much more flavourful and authentic."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marycha Padilla Ochoa"
+},
+"reviewBody": "great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "basg101"
+},
+"reviewBody": "This salad was very good. The addition of peppers to the classic Greek Salad ingredients made for an interesting twist. The dressing is a bit bland - like others I jazzed it up. I added 3 T. wine vinegar, a dash of sugar, some crushed garlic, 1 tsp. each of salt, oregano, and basil."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "rjones71"
+},
+"reviewBody": "Great"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ally"
+},
+"reviewBody": "Tried this recipe and the whole family LOVED it!!! I made no changes and it was amazing! saved to recipe and I will definitely make it again, and again!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Ginny Blesener"
+},
+"reviewBody": "I thought the dressing did nothing for this salad. It definitely needs some red wine vinegar, which I was out of. Probably won't make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "stephanied"
+},
+"reviewBody": "Went on the DDP yoga diet plan this week and all these fresh ingredients fit right in, even feta cheese! Less red onion, added spinach and my non-vegetarian hubby added lean chicken breast for a meal. Best Greek salad I've ever had - thanks for posting!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "naples34102"
+},
+"reviewBody": "Now THIS is salad and just the way I like it, with simple, classic Mediterranean ingredients and a refreshing, understated, light vinaigrette. I detest heavy salad dressings, or those vinaigrettes heavy in vinegar. This is perfect, and one I'll be making routinely. I thought I had a cuke in the fridge but it turned out to be a zucchini, which worked out beautifully anyway. I used Kalamata olives rather than black, but I'm sure the black olives would have been just as delicious. I like a 3:1 ratio of oil/acid in my vinaigrettes, so I used 6 T. of olive oil and 2 T. of lemon juice. \"Cold and crunchy\" foods are generally not my thing, but this is simply outstanding!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Iyeah"
+},
+"reviewBody": "I followed this recipe exactly. Good salad, but not memorable on its own. I was expecting the \"restaurant style\" Greek salad, but this is not it. It seems to be missing something. I think for next time I will add a splash of vinegar as another reviewer suggested."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Renee Z"
+},
+"reviewBody": "Good salad. I also added chiken."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "It's really a tasty and nutricius salad!! TRY IT!!\nThe most important in this salad is the olive oil.\nTry to use extra virgin olive oil.\nAlso in Greece we add some greek rusks. Cretan rusks are the best! FINALLY don't miss to dive some bread in the remaining oil in the plate."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "NANNOUSE"
+},
+"reviewBody": "Wonderful salad, loved it, I read one reviewer's suggestion of adding red wine vinegar and sugar to the dress and it just made it PERFECT. I'd definitely recommend using kalamata olives, they make a big difference."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I love this recipe! I've looked for a good, easy and not boring salad recipe. This is it! The dressing is great. I could eat it every day."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Padigar"
+},
+"reviewBody": "Made this for the first time last night and was a huge hit"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jona Giammalva"
+},
+"reviewBody": "Just made it tonight and loved it! The lemon juice made it taste so fresh but not overly-tart. Great balance with all the other ingredients. I used Calamata olives (pitted). Went together very quickly too!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rock_lobster"
+},
+"reviewBody": "Greek Salad I Haiku: \"Bright &amp; colorful. The dressing was amazing! (Changed it just a bit.)\" Scaled it back to 2 servings, but used all the same ratio and type of ingredients (beautiful salad!) I followed another review's suggestion about adding red wine vinegar and a bit of sugar to the dressing and that brought the SHAZAM to this salad. I will definitely make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dinaalassaad"
+},
+"reviewBody": "i remember trying this recipe on new year's eve,considering am the daughter,everybody supposed my mom's salad would beat mine (not a competition though),yet the bowl ended up with not a single piece left in it ! everybody extremely loved it !"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Barb"
+},
+"reviewBody": "This is a true Greek salad. You may prefer red wine vinegar or balsamic for your taste and that is great, but I have been to Greece and have good Greek friends and they would definately use the lemon juice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BMW2750"
+},
+"reviewBody": "This salad is good as it is. Have had some in a restaurant that were not as good. The people that change it need to realize they are NOT rating this recipe but one of their own instead."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "kellieann"
+},
+"reviewBody": "Dressing was really bland, won't make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "amanda489"
+},
+"reviewBody": "This is great...i just made one modification to it, and that being...adding mini pepperonis...it was great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "JENDANIELLE"
+},
+"reviewBody": "great salad! my 6 year old daughter had 3 servings!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "koko"
+},
+"reviewBody": "There were alot of Greek salads to choose from.I'm glad I tryed this one,it was so good.We had it with lemon roasted potatoes and souvlakia,a total Greek meal.This will be a favorite.Thanks for sharing!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kangaroo495"
+},
+"reviewBody": "There's something oddly good about tihs recipe. I make this salad every single week to have on weeknights or for lunch at work (without the fetta usually though to save on calories). The recipe simply has the perfect ratio of ingredients. Each ingredient plays a role and creates a delicious combination. I put some balsamic vinegar on it too. Brilliant stuff."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sulivan"
+},
+"reviewBody": "This is a staple at my house. I don't really measure anything, I just use a head of lettuce and add as much of the other ingredients as I like."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "theerd"
+},
+"reviewBody": "wonderful recipe - very tasty. I only changed portion sizes since halving the recipe makes a perfect salad for a family of 4 or 5. Also, I doubled the dressing amounts, for the entire salad, added salt and made the feta amount (to taste). I also prefer the Greek practice of serving a slice of feta on each salad rather than crumbling it into the entire salad."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Viv"
+},
+"reviewBody": "excellent. followed it to a T and my boyfriend raved about it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Recipe Hound"
+},
+"reviewBody": "I have a similar recipe passed on from a friend in Saskatoon, Saskatchewan. His recipe calls for some fresh sliced mushrooms, half of a red onion and half of a white onion (for some kick). As well, the dressing is a little different... 6 TBSP olive oil, 3 TBSP red wine vinegar, 1 TBSP Italian seasoning and 2 cloves of garlic mashed with a TSP of salt. Black pepper to taste."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "collegechef08"
+},
+"reviewBody": "I made this salad exactly as written and enjoyed it very much. All the flavors went well together and the dressing was nice and light. I keep a lot of these ingredients on hand so I'll be making this often; maybe next time I make it I'll try some of the other suggestions such as adding red wine vinegar and a touch of sugar. Thanks for the great salad recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "isdege"
+},
+"reviewBody": "Simple and so refreshing! FIVE stars for sure!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "mrsmarti"
+},
+"reviewBody": "Made this and it was pretty good. Did as others suggested: add more oregano, bit of garlic, red wine vinegar, increased the feta, and a bit of salt. Made the mistake of adding sugar. It no longer tasted authentic. If you do add sugar, keep it under 1/2 tsp."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Dapherz"
+},
+"reviewBody": "Too much lemon, lettuce goes soggy :("
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Ingrid"
+},
+"reviewBody": "do not make again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ADZELL"
+},
+"reviewBody": "This turned out pretty good. I made the following changes: 1) added garlic powder, an extra tsp of oregano, 1 tsp of sugar(to cut the acidity from the lemon), and 2 TBS red wine vingear to the dressing. 2) Subbed chickpeas for the olives due to personal taste. 3) Only used 1/2 of the red onion because it seemed like plenty. 4) Let my dressing sit for a few hours before adding it to the salad so the ingredients could \"get to know each other\" a little better. I appreciate how HEALTHY the salad is, and that it was very quick &amp; easy to make. Thanks for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Donna Lopez"
+},
+"reviewBody": "I made this salad for a family event. EveryOne LOVED it. I added the T of sugar as \"Susy\" suggested. I also used the jar of kalamata olives. It completly made a difference. Everyone was asking for the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Amber"
+},
+"reviewBody": "we did not like the green peppers but otherwise it was fantastic!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "searmid"
+},
+"reviewBody": "This recipe was great. We added more vegetables (an additional pepper and more olives). The dressing made more than we needed so next time we will increase the veggie content and leave the dressing on the side so we can have fresh Greek salad the next day."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Excellent salad!!! ey to prepare. i added some red wine vinegar some someextra flavor!! but otherthan that thi is as prfect it can get to a greek salad!!! thanx"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kel belle"
+},
+"reviewBody": "Awesome recipe. Only thing I changed was I used Kalamata olives. Yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "alana"
+},
+"reviewBody": "i served the dressing on the side. some of the vegetables seemed a little much (i only used one tomato), but to each his own. very fresh and tasty!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kyjacobi"
+},
+"reviewBody": "I didn't have red onion, used green onion from the garden. Yum! Even my picky husband said this salad's a keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "sweets"
+},
+"reviewBody": "also good without the romaine~~because afterall, a Greek traditional salad is without any kind of lettuce:)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tammy Joy"
+},
+"reviewBody": "AWESOME!!!!!!!!!!! I loved this salad I made the same changes in the dressing that Suzy made and it was a wonderful I dont like oil dressings but I loved this it went well with this salad. I WILL MAKE THIS AGAIN!! It is a must try!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Paula"
+},
+"reviewBody": "This was really good and healthy, and I intend to make it all summer long. I halved the recipe and made a few small changes. Threw in 1/2 t. garlic, a chopped leaf of fresh basil, 1 t. sugar, 1 t. dijon mustard, 1/2 jar artichoke hearts, and 1 T. balsamic."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LashGal"
+},
+"reviewBody": "Can't go wrong with a traditional Greek salad! I am never disappointed :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Can't go wrong with a traditional Greek salad! I am never disappointed :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Carrie Rose"
+},
+"reviewBody": "This was good, but for some reason it didn't seem like a cohesive recipe. It didn't feel like a lettuce salad to me, and yet the primary ingredient was lettuce. I wish I could pinpoint what I'd like to change, because I'd love to tinker with this and make it again, but I'm not sure what changes to make. I'm actually thinking of making it into a pasta salad. That said, this was still a tasty dish, and I made the following changes: added a few tablespoons of red wine vinegar and some sugar to the dressing, reduced the olive oil by about a tablespoon, reduced the onion a little, and used kalamata olives instead of black (a great substitution if you don't mind the extra cost). The amount of dressing didn't look like enough, but it was just right.\nUPDATE: I made this with orzo pasta instead of lettuce and I really liked it. Lettuce is healthier, of course, but I'll make it again with the pasta substitution."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chantel2612"
+},
+"reviewBody": "This salad was awesome! It tasted exactly like my favorite restaurant Greek salad. I followed the advice of other reviews and added some sugar to the dressing. I also added a few capers, banana peppers, roma tomatoes, cucumbers, etc. It was so filling with all the veggies -- they were awesome in this dressing. Is a definite make-again recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "LINDA MCLEAN"
+},
+"reviewBody": "My daughter came home from school for the weekend and had a hankering for Greek salad. I found this recipe, ran to the store to buy the ingredients and surprise her. We all loved yum salad and Tyler said it really hit the spot! Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Heidi Habeck-Johnson"
+},
+"reviewBody": "I was looking for a Greek salad recipe and I thought this salad has a nice mix of ingredients. One thing I noticed was that the tomato and cucumber made the salad a bit too much liquid. Next time I will try it with small cherry tomatoes and leave the cucumber out. Also, I used a store bought balsamic vinaigrette dressing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "k"
+},
+"reviewBody": "yum! I used only olive oil, salt, pepper, and thyme for the dressing, but I still loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "tkd"
+},
+"reviewBody": "makes a ton - but very good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shez"
+},
+"reviewBody": "Of 19 recipes, this is the only greek salad with lettuce. This is what I remember eating at Bertucci's when I was a kid on Cape Cod! It was so excellent. I left out the oil and lemon juice and used the Greek Souvlaki Dressing recipe instead. Soooo yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lindsay"
+},
+"reviewBody": "Very good salad. I made exactly as recipe states. Next time I will add salt to the dressing. Do not add the dressing until ready to serve the salad."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Rama"
+},
+"reviewBody": "I thought the dressing was a bit bland. I added a 4 tablespoons of red wine vinegar to the mix and it was more flavorful"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joyce Roosz"
+},
+"reviewBody": "Love this salad, and the way the olive oil makes all the ingredients harmonize. Added some red wine vinegar and salt to the dressing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Sue Baker"
+},
+"reviewBody": "This was ok but just did not have any zing to it. I followed other people's advice and did add some sugar and a little red wine vinegar to the recipe. It wasn't a disaster, but not something I will make again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jessica Paternoster"
+},
+"reviewBody": "Great salad, nice and light dressing. My whole family ate it we will make this anytime we need a side with our gyros or it can be a meal in itself."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/14373/greek-salad-i/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/213/salad/green-salads/",
+"name": "Green Salad Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16350/salad/green-salads/romaine-lettuce-salad/",
+"name": "Romaine Lettuce Salad Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/14373/greek-salad-i/",
+"name": "Greek Salad"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

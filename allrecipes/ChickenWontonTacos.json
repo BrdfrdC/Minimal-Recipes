@@ -1,0 +1,784 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Chicken Wonton Tacos"
+,"datePublished": "2019-06-07T21:01:14.000-04:00"
+,"dateModified": "2023-02-22T12:20:06.579-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "OdaMae"
+,"url": "https://www.allrecipes.com/cook/8398216"
+}
+]
+,"description": "Ground chicken is topped with homemade coleslaw in these clever chicken wonton tacos for a fun Asian- and Mexican-inspired meal."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/qZrVncYLnAFMjGdf29Vm0tJmVe0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/245253-chicken-wonton-tacos-step-6-0401-4x3-18b3ae3693aa47f2ba360f6c8bd11f3e.jpg",
+"height": 1125,
+"width": 1500
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=4909869718001",
+"description": "Wonton tacos for maximum crunch!",
+"duration": "PT1M3S",
+"name": "Chicken Wonton Tacos",
+"thumbnailUrl": "https://static.onecms.io/wp-content/uploads/sites/43/2022/12/06/245253-chicken-wonton-tacos-4x3-0419.jpg",
+"uploadDate": "2021-06-29T04:33:15.120-04:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Chicken Wonton Tacos"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.2",
+"ratingCount": "60"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "245 kcal"
+,"carbohydrateContent": "21 g"
+,"cholesterolContent": "44 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "18 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "755 mg"
+,"sugarContent": "7 g"
+,"fatContent": "10 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+, "recipeCategory": ["Dinner","Appetizer"]
+,"recipeCuisine": ["Mexican","Asian"]
+,"recipeIngredient": [
+"0.33333334326744 head red cabbage, sliced and chopped",
+"4 small carrots, peeled and grated",
+"0.25 cup coleslaw dressing",
+"0.25 cup red wine vinegar",
+"2 tablespoons soy sauce",
+"2 tablespoons teriyaki sauce",
+"2 tablespoons sesame oil",
+"1 pound ground chicken",
+"0.25 cup stir-fry sauce",
+"14 wonton wrappers" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/fF-dJ8tiA2Qf_7Z9cku-nKPQ1wo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/245253-chicken-wonton-tacos-step-1-0394-4x3-e9ff9df3fb0e433a8439e5c0ceb3b42f.jpg"
+}
+]
+,"text": "Mix cabbage, carrots, coleslaw dressing, vinegar, soy sauce, and teriyaki together in a bowl; refrigerate until flavors blend, 1 hour to overnight."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/9PpcYhSdIFetDjM0exJa9rzxqGw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/245253-chicken-wonton-tacos-step-3-0397-4x3-30968e7f1fa748c6a5d61de95bdf1965.jpg"
+}
+]
+,"text": "Heat sesame oil in a skillet over medium heat. Cook and stir ground chicken in the hot skillet until browned and crumbly, 5 to 7 minutes. Add stir-fry sauce, cover skillet, reduce heat to low, and simmer."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/3mUAwwW3F3O3Av1sdpiXihUeTmo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/245253-chicken-wonton-tacos-step-4-0398-4x3-85bff30fd9cd4f65b9802bade6c1034c.jpg"
+}
+]
+,"text": "Form wonton wrappers into taco shapes and arrange between the cups of an inverted muffin tin."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/qZrVncYLnAFMjGdf29Vm0tJmVe0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/245253-chicken-wonton-tacos-step-6-0401-4x3-18b3ae3693aa47f2ba360f6c8bd11f3e.jpg"
+}
+]
+,"text": "Bake in the preheated oven until firm and lightly browned, 4 to 5 minutes. Spoon 2 to 3 tablespoons chicken mixture into each wonton taco shell and top with slaw."
+} ]
+,"recipeYield": ["7"]
+,"totalTime": "PT90M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Next time just a little less red wine vinegar but overall tasted really good. Life hack put the wonton wrappers in the muffin cups to hold juices without as big of a mess!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Victoria Harvis"
+},
+"reviewBody": "I used chicken thighs and cut them up in small pieces. Added the teriyaki sauce to the chicken while it cooked."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "SMJBDW112"
+},
+"reviewBody": "I would never make this as is again. The flavors were in the wrong place and just wrong. next time, out with the ground chicken, and no to mixing so much vinegar with the cole slaw mix. I'll make cole slaw as usual, and maybe add the teriyaki to the chicken while cooking, and eliminate the red vinegar and soy sauce completely."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "JMCFARLING"
+},
+"reviewBody": "I couldn't get the wonton wrappers to crisp up without caving in on themselves. It made a mess and I won't bother trying again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jackie"
+},
+"reviewBody": "LOVE THESE!! I make these for dinner they're so tasty and filling. only used 1 tbsp of ginger and you really must fry the won tons soooo good!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah"
+},
+"reviewBody": "I love this recipe. It is the closest I have found to Applebees'. \nLike another commented, I usually buy a preshredded bag of coleslaw vegetables to save time. I also cut the vinegar amount in half, just because of personal taste preference. Mmmm, now I want to make these for supper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Diane Delgado"
+},
+"reviewBody": "It was great and my family loved them!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Spot on recipe!! If I could give it more stars I would!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cswann226"
+},
+"reviewBody": "Spot on recipe!! If I could give it more stars I would!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Magy Taylor"
+},
+"reviewBody": "These were absolutely delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Trinity Ellis"
+},
+"reviewBody": "It was sooooo good. Will definitely be making again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Celina Ann Kuitkowski"
+},
+"reviewBody": "This is easy to make and the whole family loved it. P"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "priyabella"
+},
+"reviewBody": "Omitted the coleslaw dressing (mixed rice vinegar, soy sauce, and sesame oil instead) because I loathe mayo, but I'm sure would be 5 stars with it. Followed the rest of the recipe as written. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MKay Kirk"
+},
+"reviewBody": "Was totally delicious. It was a crowd favorite. I will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Taylor Nicole Triplett"
+},
+"reviewBody": "I added sweet Asian chilli sauce, drizzled over the top and it was great. I fried our wontons though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "danacathryne"
+},
+"reviewBody": "This recipe is absolute . 0 stars. Spent all this time and money on it. Absolutely disappointed."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Becky Richter"
+},
+"reviewBody": "Made this to tonight and really liked it! I would probably use less of the ‘sauce’ for the slaw mixture as it was a bit soupy but I thought the taste was great. I wish I had fresh cilantro and fresh lime which would really make this perfect! Definitely will"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "meeerylou"
+},
+"reviewBody": "Only difference is that the shell is not fried. Loved it anyway!!\nI used pre-made, store-bought slaw mix, (cabbage and shredded carrots)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Chris Perry"
+},
+"reviewBody": "Not as good as it looks or sounds."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stephanie Nelson Shurtleff"
+},
+"reviewBody": "Very easy and really good. My whole family loves them!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jay H"
+},
+"reviewBody": "Delish. My family wasn't too impressed but I liked the flavor and mingling of everything. They will not eat this next time, haha."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stacy Probst"
+},
+"reviewBody": "made it with cut up chicken and my husband said i put him in food coma."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CoachJen"
+},
+"reviewBody": "Okay, this is a keeper recipe! I took other reviewers’ advice and omitted the teriyaki sauce. I used pre-shredded cabbage and just kept adding to match the amount of sauce... seemed like more sauce than the amount of cabbage called for. Everyone absolutely loved them. Crunchy, saucy, so flavourful. Oh and I also added sesame seeds."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Jesi Evans"
+},
+"reviewBody": "Followed the suggestion of other reviewers and it came out very well, but it's not an exact replica of Applebee's wonton tacos if that's what you are looking for. It's decent, something different. The coleslaw is, in my opinion, the best coleslaw recipe I've ever had. Very tart and sweet. will be making it for family gathering over the summer. \n\nNote: I did use tortilla shells when unable to find wonton wrappers"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jill"
+},
+"reviewBody": "These were fantastic. I failed at making the “taco” shape, so we just crumbled the wontons and created a salad. It was delicious. Tasted just like Applebee’s"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TiffanyM"
+},
+"reviewBody": "One word - yum!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Charles Pickett"
+},
+"reviewBody": "deep fry the wantons and make the slaw just prior to serving the tacos otherwise the slaw get soggy and wilted"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Peggy McKay"
+},
+"reviewBody": "Will make again though I used shredded chicken that I made from chicken legs cooked in a broth of thai flavors and sweet chili sauce.... used a bag of mixed coleslaw made the dressing with mayo, terryaki sauce, vinegar and sugar.... I baked some shells and fried the others liked them equally"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "aw2"
+},
+"reviewBody": "Was good and easy to make. I bought a bag of rainbow slaw (carrots, broccoli, red cabbage) which made prep much easier. Slaw sauce was too vinegary for my taste. Also, while the wontons look fun as taco shapes, would have been easier to eat and fill if we put the wontons IN the muffins and made muffin shell shapes instead. Will try again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Debbie"
+},
+"reviewBody": "This is incredible but I did make some changes based on others reviews. 1/2 of the red wine vinegar in the coleslaw mix and I used the pre bagged mix with Marie's coleslaw dressing. I also used soft taco shells instead of the wonton's as I was making this as the meal and wanted a larger wrap. I used General Tsao's stir fry sauce and added some cayenne to add some heat. Yum! Can't wait to eat leftovers tomorrow. I know I shouldn't rate 5 stars since I made changes but I think this is an awesome place to start and make changes to personal taste."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jewel"
+},
+"reviewBody": "Definitely because a weekend snack/lunch. So flavorful!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Carrie Stiles Sample"
+},
+"reviewBody": "I made this recipe as stated with no alterations. Very tasty. My husband noted that the vinegar in the slaw dressing could be reduced but he didn’t dislike it.\n\nNext time I may try baking the wonton wrappers flat for more of a 'tostada'. My wontons would flip over while baking making it hard to fill the 'tacos'. \n\nVery tasty and a good for something different in the dinner routine. Served with ginger-soy glazed edamame, egg rolls and a salad."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle"
+},
+"reviewBody": "These are absolutely delicious and a perfect appetizer. The only problem is finding a better way of making the wonton tacos shapes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jdunn"
+},
+"reviewBody": "Even my three boys like this (10, 8, 3)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Donna Graham Arata"
+},
+"reviewBody": "These are delicious. I used Olive Oil instead of Sesame Oil. I also, use cookie pan sides to form the shells."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Andy Bryan"
+},
+"reviewBody": "These are very good. I used egg roll wrappers for larger tacos."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Yvonne Novak"
+},
+"reviewBody": "Really spicy but excellent flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Tina N"
+},
+"reviewBody": "I followed the recipe.\nDid not care for it. \nToo much vinegar in the slaw. \nThe red cabbage was not appealing to me for some reason. next time I'd use the regular white cabbage or even the Cole slaw mixture bag they have at the grocery store.\nI used a little bit less sesame oil being that from experience with this and if you use too much it's overpowering in taste. 2TB is way too much. I'll try some of the other recommendations next time I make this."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rhonda"
+},
+"reviewBody": "Very tasty and fun to make. My family and friends loved them! I followed the recipe exactly. Perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "laureal0950"
+},
+"reviewBody": "I thought this was very good. I only used 2 tsp of sesame oil and 1 Tbls of teriyaki because 2 Tbls of each would overpower the taste. The slaw turned out fantastic. I sprayed the wontons with canola spray and baked as suggested on the back side of a muffin tin. Sounded like a great idea but they were way too hard and crunchy. I ended up throwing them away and just used warm flour tortillas and guess what? They ended up tasting pretty close to Applebee's Oriental Chicken roll-up! Yummy. I may try the fried version of the wontons next time. Thank you for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer Coffey Ruth"
+},
+"reviewBody": "The chicken and the slaw were delicious but the won ton was bad, if you bake it it comes out with no taste and really crispy. I wet each wrap and put two together so they were more pliable and fried them in a little olive oil. This seemed to help but no way near Applebee's."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joanne"
+},
+"reviewBody": "One word....AWESOME! Did NOT eliminate anything but did cut back approximately 1/2 of all liquid seasoning. Added some ginger because i like it ?? and fried the wrappers in a little OO. Also for convenience used a bag of cole slaw mix. Rave reviews from my house!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Glenda"
+},
+"reviewBody": "The baked wonton skins don't even come close to the fried version and look nothing like the picture. Disappointed."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Stephaney McQueen"
+},
+"reviewBody": "Made this for my hubby since he absolutely LOVES Applebee's version. Too much vinegar in slaw, would recommend white cabbage and 1/2 the red wine vinegar. Also, the chicken was good but needed more stir-fry sauce. Definite tips for next time! It was pretty good :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "lalokirch"
+},
+"reviewBody": "This is a great recipe with some tweaking.\nI followed the instructions that Kankan669 mentioned, I cut the teriyaki from the slaw and used half the vinegar and the slaw was PERFECT! My husband even loved it and he doesn't like slaw.\n\nWe only used 2 teaspoons of the seasame oil and that was plenty, and added a hair more stir fry sauce. \n\nI really wanted to bake the wontons so I sprayed the back of a muffin tin with a coconut oil spray, layed out the wontons as \"tacos\" and then sprayed the shells one more time before baking them, that gave them the nice golden crispness without the frying (it might take a bit longer than the 4-5 min, just watch them).\n\nOtherwise you'll love this recipe. 3 tacos is equivalent to 272 calories. (small portions but a tasty \"treat\" if you still want to have a healthy small meal.)\n\nEnjoy!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Devin"
+},
+"reviewBody": "This is a great recipe. My wife and I love the chicken wonton tacos at applebees and this is the closest to it. I added some Sriracha hot chili sauce to it after simmering the chicken, great flavor with a little kick."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "KanKan669"
+},
+"reviewBody": "I made this for dinner last night, though I ended up deviating from the recipe quite a bit. I used egg roll wraps because my local grocery store was out of wonton wraps. I fried them in a skillet with some olive oil to achieve that nice blistery crunch that isn't obtainable by baking. The recipe suggests frying them for 1 minute per side, but that just burns them to a crisp. I would say 20 seconds per side is plenty. Two tablespoons of sesame oil for the ground chicken was too much. That is all you will taste. I modified it to two teaspoons and it was perfect. I also added some ground ginger and white pepper for extra flavor. The cole slaw mixture as written is a mess! I'd say half the vinegar and take out the teriyaki completely. Our cole slaw was very soupy and honestly not really tangy at all because the teriyaki really overpowers everything else. This recipe was okay, but it needed some modifying to get there."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/245253/chicken-wonton-tacos/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/107/appetizers-and-snacks/meat-and-poultry/",
+"name": "Meat and Poultry"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1234/appetizers-and-snacks/meat-and-poultry/chicken/",
+"name": "Chicken"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/245253/chicken-wonton-tacos/",
+"name": "Chicken Wonton Tacos"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

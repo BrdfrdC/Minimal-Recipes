@@ -1,0 +1,539 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "The Perfect Margarita"
+,"datePublished": "2018-05-12T09:02:50.000-04:00"
+,"dateModified": "2023-03-07T09:05:14.278-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Chef John"
+,"url": "https://www.allrecipes.com/cook/foodwisheswithchefjohn"
+}
+]
+,"description": "This margarita recipe uses fresh limes, white tequila, and high-quality triple sec. With the right ratios, you can easily make the perfect margarita!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/g7PYdrYdBRwxf2TiIFUjhFzd5t8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/264606-ThePerfectMargarita-Step3-0333-18249dfcd0ab444ca920fbc27134d80d.jpg",
+"height": 1125,
+"width": 1500
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=5783318470001",
+"description": "",
+"duration": "PT6M36S",
+"name": "The Perfect Margarita",
+"thumbnailUrl": "https://static.onecms.io/wp-content/uploads/sites/43/2022/05/12/264606-ThePerfectMargarita-2X3-0340.jpg",
+"uploadDate": "2021-07-14T03:48:44.935-04:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "The Perfect Margarita"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "37"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "321 kcal"
+,"carbohydrateContent": "30 g"
+,"fiberContent": "2 g"
+,"proteinContent": "1 g"
+,"sodiumContent": "331 mg"
+,"sugarContent": "20 g"
+,"fatContent": "0 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+, "recipeCategory": ["Cocktail"]
+,"recipeCuisine": ["Mexican"]
+,"recipeIngredient": [
+"1 wedge lime",
+"1 teaspoon coarse sea salt, or as needed",
+"1 large ice cube",
+"1 cup ice cubes, or as needed",
+"2 fluid ounces white tequila",
+"1.5 fluid ounces triple sec",
+"1 fluid ounce freshly squeezed lime juice",
+"1 slice lime" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/R8IRiI8cqP48hnud5ncjnI0-V9Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/264606-ThePerfectMargarita-Step1-0329-fdfff3d4b6f345229d65acd181a7d24f.jpg"
+}
+]
+,"text": "Gather all ingredients."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/_Z2qjJX7r337eKVo0HXjefy50F4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/264606-ThePerfectMargarita-Step2-0332-cea48762f5f24674a75a161cf7695d4e.jpg"
+}
+]
+,"text": "Moisten the rim of a glass with a lime wedge. Sprinkle salt onto a plate. Lightly dip the moistened rim into the salt."
+} ,{
+"@type": "HowToStep"
+,"text": "Place a large ice cube in the glass and freeze the prepared glass until ready to serve."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/g7PYdrYdBRwxf2TiIFUjhFzd5t8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/264606-ThePerfectMargarita-Step3-0333-18249dfcd0ab444ca920fbc27134d80d.jpg"
+}
+]
+,"text": "Fill a cocktail shaker with fresh ice. Add tequila, triple sec, and lime juice. Cover and shake vigorously until the outside of the shaker has frosted."
+} ,{
+"@type": "HowToStep"
+,"text": "Strain margarita into the chilled glass and garnish with a slice of lime."
+} ]
+,"recipeYield": ["1"]
+,"totalTime": "PT10M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I used the same ratios, but modified the ingredients…used Espolon Reposado and 3/4 oz Grand Marnier and 3/4 oz Patron Citronge as the spirits…and added a bar spoon and a half of agave syrup…and of course, kept the same ratio of fresh lime juice. Filled the large shaker tin with ice and did a good 20 second shake, poured over a large chunk of ice in a double rocks glass; garnished with a charred lime wheel. The cocktail was tequila forward…as I drank it and the ice slowly melted, it balanced out nicely."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Karen B"
+},
+"reviewBody": "Another great recipe from Chef John.♥️"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I didn't have fresh lime juice but I ALWAYS have a jar of freshly-squeezed lemon juice, so I substituted. It was delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sweetcookie21"
+},
+"reviewBody": "Very strong but delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Not quite sweet enough for a 'rita. Like others' suggestions of agave nectar addition. Pretty strong drink, so not sure if I could handle this without a salted rim. Remarkable flavor profile! Rounded out this concoction with a little Chartreuse. Perfect complementary beverage to my chicken salsa verde. Salud!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tim LaChance"
+},
+"reviewBody": "What a delicious margarita!! I had this ready one night when my wife got home. We both loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cgerber"
+},
+"reviewBody": "I made it as directed. It is very good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "RNQUILTR"
+},
+"reviewBody": "This was very good! Loved the sour flavor with fresh limes, very refreshing! We preferred this one over using the sweet-sour mix that some recipes offer. Thanks Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Sam White"
+},
+"reviewBody": "Way too much triple sec. I would go with 1/2 ounce of triple sec\n\ndidn’t enjoy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Nicholas Grayson"
+},
+"reviewBody": "Just a good strong margarita recipe. I had 2 limes, cut and drained them. Ended up with 4oz and from there added 6 oz triple sec and 8 of tequila. I didn't realize how much alcohol is actually in just your dekuypers triple sec, so this will be a fun night. Would recommend doing what i did for more than one, may do it to watch the fight this weekend with the boys."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BrewCrew"
+},
+"reviewBody": "Classic"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Carol Mikula"
+},
+"reviewBody": "I made this but was very strong.. I had to tweek it with some mixer and and more lime After I tweeked it was really good. but using this recipe way to strong"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ezduzit"
+},
+"reviewBody": "Made it as is. It was perfect!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Julie W Ernest"
+},
+"reviewBody": "The chef’s personal recommendation for 4-3-2 was perfect. \n\nThe Triple Sec I used was recommended to me. Produced in France, Drillaud Orange Triple Sec has bitter orange peel flavor and sweet orange combined. Really great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anita Unger Hummer"
+},
+"reviewBody": "I made no changes. It was great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MissBell"
+},
+"reviewBody": "Simple yet Perfect"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "spanky"
+},
+"reviewBody": "Strong, very strong but tasty"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Elizabeth"
+},
+"reviewBody": "perfect Margarita....will make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Si Xie Wang"
+},
+"reviewBody": "Simple recipe but turns out amazing. My go to margarita recipe. Now I just eyeball the ratios and it still turns out wonderful."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Njchung"
+},
+"reviewBody": "It is sour as written. I added about 1/2 ounce of Agave Syrup to this recipe and it was a big hit!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "BobFritz"
+},
+"reviewBody": "Not a to bad"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jack "
+},
+"reviewBody": "This is now my go to margarita recipe. I highly recommend it just as it is listed here."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Azure"
+},
+"reviewBody": "He mentions in the video that the classic proportions are 3 oz tequila, 2 oz triple-sec, 1 oz lime juice. So I want to try that against this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "good eats"
+},
+"reviewBody": "Perfection in a glass."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Matthew Gustafson"
+},
+"reviewBody": "Didn't have access to high end tequila or triple sec but still very good(well......I did add a little more salt to lessen the bite)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rob Brobst"
+},
+"reviewBody": "Perfect with a squirt of agave nectar!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "YKISH"
+},
+"reviewBody": "I skipped salting and freezing the glass. \nWill do that next time. Used Cointreau and gold tequila because I didn't have white tequila. Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "NancyP"
+},
+"reviewBody": "I've had a lot of margaritas using various ingredients but this is easy and very tasty. Highly recommend."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ekbrook"
+},
+"reviewBody": "Good proportions! I like it!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/264606/the-perfect-margarita/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/133/drinks/cocktails/",
+"name": "Cocktail Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/14933/drinks/cocktails/margaritas/",
+"name": "Margarita Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/264606/the-perfect-margarita/",
+"name": "The Perfect Margarita"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

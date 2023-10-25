@@ -1,0 +1,403 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Gyros"
+,"datePublished": "2019-07-09T21:50:13.000-04:00"
+,"dateModified": "2023-01-27T09:39:20.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Lan Sutton"
+,"url": "https://www.allrecipes.com/cook/5497221"
+}
+]
+,"description": "Homemade gyros start with this delicious gyros meat recipe; serve on pitas with lettuce, tomatoes, tzatziki sauce, and feta for a gorgeous Greek meal."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/jN4LSX0H4FT5OQ9d16jxNL3jgvg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Lamb-and-Beef-Gyros-2000-c57b4aefefc8494fb97581cad8e72bd2.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Gyros"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "31"
+}
+,"cookTime": "PT75M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "224 kcal"
+,"carbohydrateContent": "1 g"
+,"cholesterolContent": "80 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "22 g"
+,"saturatedFatContent": "6 g"
+,"sodiumContent": "538 mg"
+,"sugarContent": "0 g"
+,"fatContent": "14 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"0.25 cup chopped red onion",
+"1 tablespoon minced garlic",
+"1 tablespoon dried marjoram",
+"1 tablespoon ground dried rosemary",
+"2 teaspoons kosher salt",
+"0.5 teaspoon freshly ground black pepper",
+"1 pound 93%-lean ground beef",
+"1 pound ground lamb" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat oven to 350 degrees F (175 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Process red onion in a food processor until finely minced. Scoop onion into a piece of cheesecloth and squeeze it to release as much moisture as possible."
+} ,{
+"@type": "HowToStep"
+,"text": "Return onion to the food processor. Add garlic and process until the garlic is well integrated. Blend in marjoram, rosemary, salt, and pepper."
+} ,{
+"@type": "HowToStep"
+,"text": "Gradually blend ground beef and ground lamb with the onion and seasoning mixture by alternately adding small amounts of each meat to the mixture and processing until well incorporated before adding the next batch."
+} ,{
+"@type": "HowToStep"
+,"text": "Firmly pack the meat mixture into a 9x5-inch loaf pan, assuring no air pockets are trapped in the meat."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until no longer pink in the center, about 1 hour 15 minutes. An instant-read thermometer inserted into the center should read at least 175 degrees F (80 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Drain grease and slice thinly to serve."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT95M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kathyknopf"
+},
+"reviewBody": "I used turkey sausage and ground turkey instead of the lamb and beef and used oregano instead of majoram and 1 teaspoon of salt and baked it for 55 minutes. It turned out great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laura Parkinson Klaine"
+},
+"reviewBody": "Delicious! Went well with the Tzatziki sauce!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ken Simpson"
+},
+"reviewBody": "Very flavorful, close to what i would get in chicago when home."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "missdevoted"
+},
+"reviewBody": "Love my ninja... threw everything in put on high for a couple min, everything was blended puréed and perfectly combined, I cooked a little longer, draining all the fat off at the 60 min mark and it was amazing!! My husband said I am totally in trouble now as there is no reason to go out for gyros anymore! Def a great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "spoonfox"
+},
+"reviewBody": "delicious! I do recommend using a leave in thermometer, as it only took my loaf 65 minutes to cook."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "jjmm"
+},
+"reviewBody": "I substituted ground lamb with pork and turkey. (1lbs each) I added more seasoning a little at time until I thought it was good (just double the seasoning). Once baked, I let it set for about 20 minutes then sliced it and fried it! It was requested again before the end of the week."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Marie May-Kadaraitis"
+},
+"reviewBody": "I didn’t have access to lamb so I used premium ground pork. Definitely not as tender as the first time. I’m definitely making this again it is a favorite."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mara Collazos"
+},
+"reviewBody": "Had this for dinner the other night and it was great! Since my husband is not a fan of onions I only added a little bit of dehydrated onion (maybe a tbsp). I believe it would have been better had I kept in the onion but it still tasted great. Leftover meat was great for a few days as well!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "MichelleJoy"
+},
+"reviewBody": "Loved making this meat. I added 1 tsp Cumin, and only used a tsp of the other ingredients. I cooked it for an hour, let it sit for an hour, then, drum tool please, sliced it and placed it in a cast iron skillet to give it a little bit of browning. OMG!! My boys loved it. Of course I made fries and tzatziki sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "marcy"
+},
+"reviewBody": "Good flavor. Hit the spot. However next time I use this recipe, after chilling it in the fridge I think I’ll slice it and cook the slices in a pan to give them more crunch."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ssumner"
+},
+"reviewBody": "very good couldn't blend it super well cause I couldn't find my food processor but it hit the gyro crave spot for sure. little dry but that could of been my Fault and nothing extra tzatziki couldn't fix."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "shibish4"
+},
+"reviewBody": "Excellent meat texture for slicing!\nThe loaf did not crumble while it was sliced for sandwiches. Will make it again, adding a bit more of the herbs and maybe oregano for a bigger savory taste. Gyros for a weeknight dinner. Then I made a lunch salad with leftovers the next day."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Beth Tunnell"
+},
+"reviewBody": "Delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Patricia Weaver"
+},
+"reviewBody": "Easy and delicious. it reminded me of the gyros I remember from high school."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anne Ludlow"
+},
+"reviewBody": "Excellent recipe! I couldn’t find lamb at my local store, so I just used two pounds of beef. I also needed it to cook faster (I overslept my nap!), so I cooked it in a 9 x 13 pan instead with a meat thermometer to tell me when it was ready. My whole family loved it! No leftovers! That’s extremely rare at my house!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Patrick"
+},
+"reviewBody": "Incredible! Way too fun and easy to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "justin"
+},
+"reviewBody": "Made it tonight for dinner. Kids and wife loved it. Very easy to make. I will be making this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kookaduk"
+},
+"reviewBody": "awesome!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "blondy885"
+},
+"reviewBody": "It was a little salty, but over all I give it a 5. It's really easy to make and it tastes really good. It's not the same stuff you'd get from a real Greek Restaurant, or a Gyro stand, so don't expect it to taste 100% authentic. I serve it with red onion, feta, tomato, cucumber and dill dressing on warm flat bread. I can almost smell the Mediterranean sea...mmmmmm"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lutzflcat"
+},
+"reviewBody": "For make-at-home gyro meat, this is pretty darn tasty. This may not be as good as my favorite Greek restaurant's gyro, but it's as good (or better) than most gyros that you find at restaurants. I served with a tzatziki sauce from this site, as well. I was amazed at how easy this was to make. Definitely will be making again. Thanks ltsutton for sharing your recipe!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/233230/gyros/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/251/main-dish/sandwiches/",
+"name": "Sandwich Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16770/main-dish/sandwiches/gyros/",
+"name": "Gyro Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/233230/gyros/",
+"name": "Gyros"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

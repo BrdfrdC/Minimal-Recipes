@@ -1,0 +1,561 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Baked Bacon Jalapeno Wraps"
+,"datePublished": "2015-07-10T02:00:31.000-04:00"
+,"dateModified": "2022-01-14T01:25:45.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Esmee Williams"
+,"url": "https://www.allrecipes.com/cook/esmee"
+}
+]
+,"description": "Jalapenos are stuffed with cream cheese, wrapped with bacon, baked, and then finished on the grill."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Y1los8bIRFBKXsqdnBa9mOv2ZjI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3668001-20eeed42ce6f4d8e8f4109134f29e325.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Baked Bacon Jalapeno Wraps"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.4",
+"ratingCount": "40"
+}
+,"cookTime": "PT25M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "94 kcal"
+,"carbohydrateContent": "1 g"
+,"cholesterolContent": "26 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "161 mg"
+,"sugarContent": "1 g"
+,"fatContent": "9 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 (8 ounce) package cream cheese",
+"12 fresh jalapeno peppers, halved lengthwise and seeded",
+"6 slices bacon, cut into halves" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat oven to 425 degrees F (220 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Spread cream cheese into jalapeno pepper halves; wrap each with a piece of bacon. Secure the bacon with toothpicks to prevent unraveling while baking. Arrange wrapped jalapeno peppers onto a baking sheet with cream cheese side facing down."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat an outdoor grill for high heat, and lightly oil the grate."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in preheated oven for 10 minutes, turn, and continue cooking until the bacon is completely browned, about 10 minutes more."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer jalapeno wraps to preheated grill; cook until the bacon is crisp, 2 to 3 minutes per side."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT35M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I never got to taste it. Made the recipe several times and every time cream cheese fell out. They were soggy and messy. Bacon was crispy per my liking. Recipe says turn it cream cheese side down first 10 minutes that doesn't work second time no face down a tad better. However still issues. Tried just on grill nope as well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Cheryl Blanchette"
+},
+"reviewBody": "My husband made these. They were okay however, not my go to although they had good flavor. I would imagine someone else will love them. My husband said the bacon I bought was to thick. This could be the issue but I won't be making them again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Rebecca Joy Mahoney"
+},
+"reviewBody": "So good! The taste was a five, but I took off a start because it took closer to 45 minutes to cook, not 20. I'll plan ahead next time. . . but there will be a next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Taylor Spencer"
+},
+"reviewBody": "Easy to make. Didn't have grill so I just cooked a little longer in oven. Turned out great"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Meghan"
+},
+"reviewBody": "I made these except I bakes them for about 10 to 15 minutes on a baking sheet. I did not use a grill thing. They were really good and I would definitely make them again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Annette Fabozzi"
+},
+"reviewBody": "Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Loretta"
+},
+"reviewBody": "these aren't very good with just the cream cheese... what a mess! My family does this with a little smokie and cream cheese. There are never any leftovers!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Debbie Lopez"
+},
+"reviewBody": "I’m not sure but some one was having too many shots of tequila when posting this recipe. It was big fat mess. Can’t turn peppers if toothpicks are inside and are lying face down. Second not enough bacon to wrap either. Timing is incorrect. But. They did smell wonderful!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lidia Mora"
+},
+"reviewBody": "I saw some of the reviews and added a bit of salt and pepper after I wrapped it. I also used a disposable aluminum container, poker holes on it and place that on top of another aluminum container using balls of aluminum to raise it so that the grease dripped down a bit. With two minutes left on the timer, I uncovered it, added Monterrey Jack cheese on top and placed it on the top shelf with the broiler set on 550 for ten minutes. It came out perfectly delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary Lou Hoyt"
+},
+"reviewBody": "I used Jimmy dean's sausage hot for it and 1 tablespoon of taco season yum"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TallPraireeChik"
+},
+"reviewBody": "Added fresh pineapple to the cream cheese before wrapping in bacon. Lined a broiler pan with foil, then baked at 425 degrees for about 25 minutes until the bacon was crispy. No leftovers!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stephaney McQueen"
+},
+"reviewBody": "This was my first time attempting anything jalapeño related... made it for my hubby and he absolutely LOVES them!!! I’ll definitely be making them more often!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cdavis"
+},
+"reviewBody": "I changed it up and baked in oven only. Triple cheddar and cream cheese with a thin slice of Parmesan on top then wrap in bacon top with more shredded cheddar bake 20 minutes. And keep filling facing up cook on rack to drain grease"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rich Reyes"
+},
+"reviewBody": "everyone loved it!! The more you shave the inside of the jalepeno, the less heat. I used more cream cheese because I wanted it to go right up to the rim of the pepper. Also, I used a whole strip of bacon wrap but bought the package that was 13 ounces so the strips were smaller but perfect!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carol"
+},
+"reviewBody": "Turned out great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ramona Knapp"
+},
+"reviewBody": "These were great! I baked in the oven as directed but did not have time for the grill. After taking out of the oven, wrapped them in foil for about 30 minutes (time it took to get to my sister's house). This allowed the peppers to soften."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer H."
+},
+"reviewBody": "Great! Although, most of the time I sprinkle with seasoning salt right before I wrap them with the bacon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "elmtaz"
+},
+"reviewBody": "Absolutely love these. Baked them in oven with cream cheese side up!! Didn't use the grill."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Connie Gutierrez-Juarez"
+},
+"reviewBody": "family loved them"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "LovefoodinPA"
+},
+"reviewBody": "Everyone liked them, but I wanted everyone to LOVE them. That was my fault. I added a lot of shredded Mexican blend cheese and 2 cloves of fresh garlic to the cream cheese mixture. It did NOT need the garlic and less shredded would have been better. I used a WHOLE SLICE OF PEPPER BACON per half jalapeno. The bacon shrinks up when cooking and pulls away from the pepper. I baked them at 430 degrees on a cooling rack set inside of a cookie sheet for about 22 minutes. The bacon crisped up in the oven without having to turn them and no need for the extra step of adding to the grill."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bosparamedic"
+},
+"reviewBody": "Great recipe. I replaced the grill with broiler for same time and they came out wonderful."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lynnie Bishop Chard"
+},
+"reviewBody": "I have these in the oven right now. I use a whole slice of bacon (big peppers) per popper and I only set the oven at 275 or 300 degrees. They take an hour or more to make sure the bacon and the pepper are both done. If you cook them on too high a temperature, the cheese WILL ooze out!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dori Kaarlsen"
+},
+"reviewBody": "Delicious, they are a lot less messy if you mix the cream cheese with 3/4 cup of cheddar. I also use a teaspoon of cajun seasoning to the cream cheese mixture before wrapping with bacon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "chiefnut"
+},
+"reviewBody": "These were great. We've been blessed by a large amt. of Jalapeno's from our garden. I made these on the 4th and everybody loved them. I was lucky enough to get two before they were gone. I will make these again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Aimyloo"
+},
+"reviewBody": "These were a horrible, drippy mess when the bacon shrunk up in oven. What cream cheese didn't ooze out in oven, fell out on the grill. I tried these 2 different times to be sure with the same result. The peppers themselves lost all flavor and tasted like a soggy green pepper with NO kick. Sorry, I really tried, and even being super careful, they weren't good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "justmyopinion"
+},
+"reviewBody": "I made these for my husband; he LOVES them. (They are really filling though. After having 2 of these as an \"appetizer\", he didn't have room for dinner.) For the first time, I made the filling exactly as the recipe states. I was surprised the cream cheese filling didn't melt and drip all over the oven, especially because you place them cheese-side-down on the sheet. I didn't have jalapeños in the garden (they were not ready yet), so I used Big Jim and Anaheim peppers, and they worked wonderfully. Will use the jalapeño next time for friends who like that extra \"zing\" in their food. (Note: others have added different kinds of cheeses; I can see where a real sharp cheddar would be a great addition, especially if you use a more mild pepper.)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Robbie68"
+},
+"reviewBody": "Really easy and good. Better then wraps I have had when we eat out."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "gwen"
+},
+"reviewBody": "Easy and good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "christlieb"
+},
+"reviewBody": "I just used this recipe for the first time, everyone loved it. For the filling I added 1 tbsp garlic powder, 1 tbsp Tony's Creole Seasoning and 1/2 cup shredded pepper jack cheese. I was running late so instead of baking I used the broiler, about 10 min then flip and 10 min more. It worked out, I just had to watch it like a hawk to make sure they didn't burn. I would highly recommend baking or grilling instead! I would also recommend using gloves while cutting and cleaning the peppers, you don't even realize that juice is on your hands until your eye itches and it is too late."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "SunnyDaysNora"
+},
+"reviewBody": "These were enjoyable and easy to make, added about 1/4 c of shredded cheddar to the cream cheese. The only problem I encountered is that the amount of bacon listed is incorrect. 12 jalapenos cut in half makes 24 jalapeno halves but the 6 pieces of bacon sliced in half the recipe calls for only give you 12 half-pieces of bacon to wrap them in. I didn't notice this when buying ingredients and wound up having to cut a few pieces of bacon into smaller pieces to finish the recipe up."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ari"
+},
+"reviewBody": "Mmmm, good. I made them as is and like LaVerde recommended with the added cheese, both are 5 star. I dropped my jalapenos in hot water for 30 second and rinses them to precook them. I tried these on a hinged top grill like a George Forman, I don't recommend it, it oozed out everywhere, but a grill pan works great also thick cut bacon tastes great, but the slices do not wrap well and I recommend keeping with normal bacon slices. I dip them in warmed raspberry jam."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "LaVerde78"
+},
+"reviewBody": "I add 1/2 cup shredded cheddar cheese in with the cream cheese before I stuff them! Makes a few more jalapenos (16-18) Family love these!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Figueroa4"
+},
+"reviewBody": "Our family makes this quite often (but we just go straight to the grill, no oven). We've also stuffed the peppers with ground sausage instead of cream cheese then wrap with bacon."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/228679/baked-bacon-jalapeno-wraps/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/109/appetizers-and-snacks/vegetable/",
+"name": "Vegetable"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1241/appetizers-and-snacks/vegetable/jalapeno-poppers/",
+"name": "Jalapeno Popper Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/228679/baked-bacon-jalapeno-wraps/",
+"name": "Baked Bacon Jalapeno Wraps"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

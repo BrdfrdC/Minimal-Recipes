@@ -1,0 +1,196 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Sous Vide Lemon-Butter Shrimp"
+,"datePublished": "2019-03-26T23:24:29.000-04:00"
+,"dateModified": "2022-09-01T23:19:09.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "France C"
+,"url": "https://www.allrecipes.com/cook/francecevallos"
+}
+]
+,"description": "These tender and juicy sous vide shrimp are infused with the wonderful flavors of thyme, lemon, and Creole seasoning. They are so easy to make, they practically cook themselves!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/uMkkNvUVBt_9ouEA2Uqt0CeSi8w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6472956-sous-vide-lemon-butter-shrimp-France-C-4x3-1-9d9e5ca9b75d4bbf9d3bf45885f9ae41.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Sous Vide Lemon-Butter Shrimp"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "7"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "212 kcal"
+,"carbohydrateContent": "6 g"
+,"cholesterolContent": "203 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "20 g"
+,"saturatedFatContent": "8 g"
+,"sodiumContent": "340 mg"
+,"sugarContent": "0 g"
+,"fatContent": "13 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 pound large shrimp, peeled and deveined",
+"0.5 teaspoon Creole seasoning (such as Tony Chachere's®), or more to taste",
+"8 1/2-inch wide strips lemon zest",
+"3 sprigs fresh thyme",
+"2 ounces chilled butter, cut into 4 to 6 slices" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Set up a large pot or water bath and place your sous vide cooker into the water. Set temperature to 135 degrees F (57 degrees C) according to manufacturer&#39;s directions."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine shrimp and Creole seasoning in a bowl and toss to coat. Place shrimp in a single layer inside a large vacuum bag. Place lemon peel, thyme, and butter evenly on top. Seal the bag using a vacuum sealer."
+} ,{
+"@type": "HowToStep"
+,"text": "Place bag into the water and set timer for 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove cooked shrimp from bag and serve. Sprinkle additional Creole seasoning on top, if desired."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT40M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ScoutCR"
+},
+"reviewBody": "I made this as listed and it was great, but I thought I may trying a few different ideas. I raised the temp to 140 for 30 minutes and the shrimp were even more tender. Being from MD I put in butter and old bay instead of the lemon and that was a great more traditional flavor for me. I also made a variation with butter and Franks Red Hot sauce and I had Buffalo Shrimp! I did leave the Buffalo Shrimp cook for 45 minutes, but anytime from 30 min to 1 Hr works fine with the shrimp. Sous Vide all the way!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "WhizKid21"
+},
+"reviewBody": "This was so easy and so delicious. Just what I was looking for. Thanks to the creator who shared it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Andrew Bulgin"
+},
+"reviewBody": "Amazing recipe. I’m from Maryland and have always steamed my shrimp but the recipe takes the cake, which goes against every MD bone in my body."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sherry Suk"
+},
+"reviewBody": "Sous vide is the Best way to cook seafood!! Delicate shrimp flavor highlighted by lemon and flavourings..\nAl dente texture shrimp with no labor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Karen Randall"
+},
+"reviewBody": "Mmmmmm"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/272403/sous-vide-lemon-butter-shrimp/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/412/seafood/shellfish/",
+"name": "Shellfish"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/430/seafood/shellfish/shrimp/",
+"name": "Shrimp"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/272403/sous-vide-lemon-butter-shrimp/",
+"name": "Sous Vide Lemon-Butter Shrimp"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

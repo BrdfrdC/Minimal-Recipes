@@ -1,0 +1,219 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Quick and Easy Kimchi Salad"
+,"datePublished": "2020-06-19T00:05:45.000-04:00"
+,"dateModified": "2022-01-07T13:58:50.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Heather Johnson Carpenter"
+,"url": "https://www.allrecipes.com/cook/3040306"
+}
+]
+,"description": "Cabbage and carrots get a quick brine, then a dressing of sesame, vinegar, cayenne, and sugar for great kimchi flavor without the wait."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/KnSzSbeeo6G2qRvarkDAhxjd1to=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3339472-9f8e24ca75924b0e84b99f25279034ec.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Quick and Easy Kimchi Salad"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.3",
+"ratingCount": "8"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "92 kcal"
+,"carbohydrateContent": "10 g"
+,"fiberContent": "3 g"
+,"proteinContent": "2 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "4736 mg"
+,"sugarContent": "6 g"
+,"fatContent": "6 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 small head cabbage, shredded",
+"0.25 cup rock salt",
+"1 small carrot, cut into thin strips",
+"3 tablespoons vinegar",
+"2 tablespoons vegetable oil",
+"1 tablespoon white sugar, or to taste",
+"1 teaspoon sesame oil",
+"1 teaspoon toasted sesame seeds, ground",
+"0.5 teaspoon cayenne pepper, or to taste",
+"0.25 teaspoon salt" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine cabbage and rock salt together in a bowl. Let stand 15 minutes, stirring often. Rinse lightly and drain."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix cabbage, carrot, vinegar, vegetable oil, sugar, sesame oil, sesame seeds, cayenne pepper, and salt together in a bowl. Refrigerate until chilled, at least 30 minutes."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT55M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kim"
+},
+"reviewBody": "I made this to go on some Kalbi-style beef cheek tacos and it was delicious. I used half a head of cabbage and one julienned cucumber (along with the carrot). I made it spicier by adding red pepper flakes, chili powder, black pepper, extra cayenne, and some Tiger Sauce. And left out the extra salt in the \"sauce\" and used rice wine vinegar. In the future, I will attempt to locate some true Korean chilis or chili paste because I think that will really up the kimchi flavor. I also rinsed everything off after I salted it; and then put all the veggies into a paper towel and wrung out all the extra moisture. This worked really well and it wasn't too salty at all. I'm definitely going to make this again ."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "joanie4c"
+},
+"reviewBody": "We love this! Changes I make are less vegetable oil, using rice vinegar, and lots more spice (fresh peppers if I have some around otherwise frozen or dried)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Liz Dalton 'Lizzie'"
+},
+"reviewBody": "This was pretty good. I omitted the first step because I don't like anything too salty. It definitely has a kick to it and seemed spicier the next day!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "stephanie whitmire"
+},
+"reviewBody": "I'm not a fan of Asian food but I am trying to open my self to new things and this was actually pretty good. Great spice and not to overpowering"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "A.C."
+},
+"reviewBody": "So easy and delicious! Took me all of five minutes to make this (not counting the 15 minutes of waiting for the salted cabbage to \"wilt\"). Other reviewers found it too salty, but I didn't. Perhaps they didn't see the directions to rinse the salt off? Not sure, but my salt level is just right. I'm not sure what rock salt is, but I used kosher salt. I also didn't have sesame seeds, but the sesame oil adds delicious flavor. I didn't have cayenne pepper, so I used some Frank's RedHot sauce instead (which is made from cayenne pepper). Perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Buckwheat Queen"
+},
+"reviewBody": "This is a tasty cole slaw but I needed to adjust the salt. I halved the initial soaking salt and completely left out the salt at the end. I used tahini for the ground sesame seeds. I wouldn't call it Kimchi due that it lacks that fermented taste which is kimchi. I ended up adding some Korean spicy, fermented soybean paste at the end and let it set a bit to help get the unique taste of the original and we enjoyed it even more. Thank you for the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Christina"
+},
+"reviewBody": "This was good, but we all agreed that it was too salty! Next time, I will def cut back on the rock salt. Other than that, this was tasty, but it doesn't taste like kimchi. I would probably make this again using less salt. Thanks for sharing. :)"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/246247/quick-and-easy-kimchi-salad/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/225/side-dish/vegetables/",
+"name": "Vegetables"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/922/side-dish/vegetables/carrots/",
+"name": "Carrots"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/246247/quick-and-easy-kimchi-salad/",
+"name": "Quick and Easy Kimchi Salad"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

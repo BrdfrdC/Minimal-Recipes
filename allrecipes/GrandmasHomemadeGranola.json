@@ -1,0 +1,245 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Grandma&#39;s Homemade Granola"
+,"datePublished": "2020-03-05T00:20:34.000-05:00"
+,"dateModified": "2022-09-30T09:56:57.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "MadC"
+,"url": "https://www.allrecipes.com/cook/15886002"
+}
+]
+,"description": "Oats, nuts, and coconut flakes are tossed in a sweet mixture and baked until golden in this homemade granola recipe that&#39;s great for breakfast or snacking."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/JVMVWbv18YxnUoBPYVz_GoJTXso=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2528425-402806546cd647fb810ba4d9cac347d5.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Grandma&#39;s Homemade Granola"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "9"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "347 kcal"
+,"carbohydrateContent": "41 g"
+,"fiberContent": "5 g"
+,"proteinContent": "5 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "113 mg"
+,"sugarContent": "23 g"
+,"fatContent": "20 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"nonstick cooking spray",
+"4 cups old-fashioned oats",
+"1.5 cups chopped pecans",
+"1.5 cups slivered almonds",
+"1 cup coconut flakes",
+"0.5 cup vegetable oil",
+"0.33333334326744 cup packed brown sugar",
+"0.33333334326744 cup honey",
+"0.25 cup maple syrup",
+"2 teaspoons ground cinnamon",
+"2 teaspoons vanilla extract",
+"0.75 teaspoon salt",
+"2 cups dried cranberries" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 325 degrees F (165 degrees C). Line a baking sheet with aluminum foil and coat with nonstick cooking spray."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix together oats, pecans, almonds, and coconut in a large bowl. Set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine oil, brown sugar, honey, maple syrup, cinnamon, vanilla, and salt in a medium saucepan over medium heat. Stir gently until mixture begins to boil; remove from heat. Pour over oat mixture and fold together until dry ingredients are well coated. Spread granola onto the prepared baking sheet."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven for 20 minutes. Stir and continue to bake on the top rack until golden, about 5 minutes more. Remove from the oven and let cool for 20 to 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Toss cooled granola with cranberries. Store in an airtight container."
+} ]
+,"recipeYield": ["18"]
+,"totalTime": "PT60M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marcia Vander Stoep Smith"
+},
+"reviewBody": "I had only 1 cup of pecans so I added 1/2 cup raw pumpkin seeds. Also didn't have any cranberries so I used chopped dates. Fabulous, tasty and crunchy. We love it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Substitute vegetable oil (unhealthy) with coconut oil (none flavored one) and didn't bake as long being I don't like it so dark &amp; hard it can brake a tooth. :) otherwise a good recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Vineet Prasad"
+},
+"reviewBody": "Easy to cook"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kelly Laher"
+},
+"reviewBody": "I have made this 4 times! It is a great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kulery"
+},
+"reviewBody": "My favorite! I sometimes add a cup of pepitas or 1/4 cup chia seeds. I can’t get enough of this."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Cat"
+},
+"reviewBody": "Cooking time too long. Good recipe but comes out too dark with 20 / 5 minutes in the oven. 12 minutes then stir and 5 more worked great"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lori Schreiner"
+},
+"reviewBody": "My husband and I loved it. Will be making this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "julie"
+},
+"reviewBody": "This ones a keeper! Yummy! Makes my yogurt a special treat."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/275749/grandmas-homemade-granola/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/145/breakfast-and-brunch/cereals/",
+"name": "Cereals"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1311/breakfast-and-brunch/cereals/granola/",
+"name": "Granola Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/275749/grandmas-homemade-granola/",
+"name": "Grandma&#39;s Homemade Granola"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

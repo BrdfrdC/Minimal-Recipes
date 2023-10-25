@@ -1,0 +1,117 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe"]
+,"headline": "Tomatillo-Kiwi Salsa"
+,"datePublished": "2023-03-16T10:11:57.428-04:00"
+,"dateModified": "2023-03-16T10:11:57.428-04:00"
+,"author": [ {"@type": "Person"
+,"name": "Dinehaus" }
+]
+,"description": "This bright green salsa with tomatillos and kiwi is fruity and refreshing. Serve with tortilla chips."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/-66GJkfmEwt-keMgR5ChiLQu5v0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/TomatilloKiwiSalsa4x3-6082a06dd5aa4703985cee435fdfbf10.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Tomatillo-Kiwi Salsa"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "43 kcal"
+,"carbohydrateContent": "10 g"
+,"cholesterolContent": "0 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "1 g"
+,"saturatedFatContent": "0 g"
+,"sodiumContent": "67 mg"
+,"sugarContent": "6 g"
+,"fatContent": "1 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+, "recipeCategory": ["Appetizer"]
+,"recipeCuisine": ["Mexican"]
+,"recipeIngredient": [
+"1 cup chopped husked tomatillos",
+"1 cup diced peeled kiwis",
+"1/4 cup sliced green onions ",
+"3 tablespoons lime juice",
+"1 tablespoon chopped fresh cilantro (or to taste)",
+"1 to 2 teaspoons minced jalapeño",
+"1/8 teaspoons salt",
+"1/8 teaspoons black pepper" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Stir together tomatillos, kiwi, green onions, lime juice, cilantro, jalapeño, salt, and pepper in a bowl. Serve immediately or chill, covered, up to 2 hours."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT15M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/tomatillo-kiwi-salsa-recipe-7255584"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/105/appetizers-and-snacks/dips-and-spreads/",
+"name": "Dips and Spreads Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/436/appetizers-and-snacks/dips-and-spreads/salsa/",
+"name": "Salsa Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/tomatillo-kiwi-salsa-recipe-7255584",
+"name": "Tomatillo-Kiwi Salsa"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

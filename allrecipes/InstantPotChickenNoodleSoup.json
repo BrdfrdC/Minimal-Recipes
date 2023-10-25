@@ -1,0 +1,365 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Instant Pot® Chicken Noodle Soup"
+,"datePublished": "2020-04-27T22:25:42.000-04:00"
+,"dateModified": "2022-01-07T16:36:13.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Tim"
+,"url": "https://www.allrecipes.com/cook/3012122"
+}
+]
+,"description": "Made with either fresh of frozen chicken, this Instant Pot® chicken noodle soup is an easy recipe when you&#39;re short on time."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/99fed91SIOTkxzdHGTkh2AN78cU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9117932-95ef21494e36493a98be0e8203c6f499.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Instant Pot® Chicken Noodle Soup"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "20"
+}
+,"cookTime": "PT40M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "300 kcal"
+,"carbohydrateContent": "35 g"
+,"cholesterolContent": "85 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "22 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "2046 mg"
+,"sugarContent": "4 g"
+,"fatContent": "8 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT25M"
+,"recipeIngredient": [
+"2 tablespoons salted butter",
+"3 carrots, or more to taste, peeled and sliced",
+"3 stalks celery, or more to taste, chopped",
+"1 medium onion, chopped",
+"1 teaspoon ground thyme",
+"1 teaspoon dried oregano",
+"1 teaspoon salt, or to taste",
+"0.5 teaspoon ground black pepper, or to taste",
+"4 cups chicken broth",
+"4 cups water",
+"4 cubes chicken bouillon",
+"2 bay leaves",
+"1 pound frozen skinless, boneless chicken breast halves",
+"1 (8 ounce) package thin egg noodles",
+"1 tablespoon dried parsley" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Turn on a multi-functional pressure cooker (such as Instant Pot®), select Saute function, and add butter. Add carrots, celery, and onion to the melted butter; saute until soft, 3 to 5 minutes. Stir in thyme, oregano, salt, and pepper. Cancel Saute function."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir in chicken broth, water, bouillon cubes, and bay leaves. Add frozen chicken breasts. Close and lock the lid. Select high pressure according to manufacturer&#39;s instructions; set timer for 12 minutes. Allow 10 to 15 minutes for pressure to build."
+} ,{
+"@type": "HowToStep"
+,"text": "Release pressure using the natural-release method according to manufacturer&#39;s instructions, 10 minutes. Switch to the quick-release method according to manufacturer&#39;s instructions, about 5 minutes. Unlock and remove the lid."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove chicken from the pot. Carefully chop or shred the meat, and add back to the pot."
+} ,{
+"@type": "HowToStep"
+,"text": "Select Saute function and add egg noodles. Cook until noodles are tender yet firm to the bite, 8 to 10 minutes. Stir in dried parsley and serve."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT80M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kristen"
+},
+"reviewBody": "This is a great soup. My son is feeling under the weather and chicken noodle soup is always his request when unwell. I had to make a few substitutions. I used fresh chicken breasts, and I didn't have wide noodles on hands so subbed linguine broke into 1-inch pieces. I also left out the bouillon and basically halved the recipe. I think it was plenty flavorful for us. If I would have had it, I would have used all the broth instead of part water. My picky son was happy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "robmyhre"
+},
+"reviewBody": "Easy to make. Overall flavor good - but I would cut the thyme way back."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Oregano is a brilliant addition to this soup."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "brian h."
+},
+"reviewBody": "The original version is great but I made another batch using chicken thighs (I stripped the meat from the bones) and it raised it to another level. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mark Dow"
+},
+"reviewBody": "The best chicken noodle soup I have had! \nAwesome flavor and hit the spot in the cold winter. The only modification I made was I used a full Costco rotisserie chicken. I removed the meat and diced it up and added."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lois Wheeler"
+},
+"reviewBody": "Overall excellent recipe. Only thing for me and it may be personal, but it was a bit bland so I would add more seasoning, but I will definitely make it again!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lisa"
+},
+"reviewBody": "It is really good. I didn’t have bouillon and used like other 8 cups of broth. Used Italian seasoning as did not have oregano and thyme. Kids love it. And was fast!!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "pmnbcb8qv7"
+},
+"reviewBody": "Absolutely delicious exactly as written. The spices were perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "It was everything promised...quick, easy and DELICIOUS!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Eisenhuh"
+},
+"reviewBody": "My super picky kids and the rest of the family loved it! \n\nI did not have chicken broth so I used 8 cups water, 5 cubes buillion. (The cubes I use cal for 1 cube per 2 cups water, so I put in one extra) \n\nI used chicken thighs. \n\nI did a quick release instead of natural. \n\nEverything else was the same and it was perfect! So flavorful and perfect for fall/ winter."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Best chicken noodle soup ever!! Did ours with Raman noodles just for a different texture in the noodles."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Erin Boucher"
+},
+"reviewBody": "Fantastic and easy to make. I added a little turmeric and poultry seasoning and subbed in Better Than Bullion for the cubes but otherwise I followed the recipe precisely. This is my new go-to chicken soup recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bethann"
+},
+"reviewBody": "Fabulous! The advantage of preparing the soup in the Instant Pot is that you can add the chicken frozen. \n\nInstead of chicken broth and bouillon cubes, I used 2 tablespoons of Better Than Bouillon. I think it makes a much better broth base."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rex Urban"
+},
+"reviewBody": "This is a great recipe. It is my go to chicken soup, pot pie filling, noodle soup, rice soup. Just by modifying the amount of thickening and ingredients. I can use this basic recipe and go from dumplings to Shepard's pie."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ahaberl"
+},
+"reviewBody": "Loved this recipe! The seasonings were perfect for my taste. I didn’t have fresh veggies so used mixed frozen veggies &amp; skipped the first sauté step. I also didn’t have bouillon cubes so replaced with 4 cups additional broth (didn’t add any water, just 8 cups of broth). It was delicious!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Keith h"
+},
+"reviewBody": "I just finished making &amp; eating this and it was a great, easy recipe with modest seasoning, which I appreciated— I used skinless boneless thigh meat and put in frozen &amp; it came out great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Soup Loving Nicole"
+},
+"reviewBody": "This turned out pretty good and was simple to make. I would probably change it up next time and use more broth instead of the cubes but overall this was a good recipe and one I would make again. Also, I would recommend using the quick release over natural so that the veggies do not get overcooked."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/278823/instant-pot-chicken-noodle-soup/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1246/soups-stews-and-chili/soup/chicken-soup/",
+"name": "Chicken Soup Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/14722/soups-stews-and-chili/soup/chicken-soup/chicken-noodle-soup/",
+"name": "Chicken Noodle Soup Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/278823/instant-pot-chicken-noodle-soup/",
+"name": "Instant Pot® Chicken Noodle Soup"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

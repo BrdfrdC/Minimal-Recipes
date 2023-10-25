@@ -1,0 +1,973 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Spicy Dorito® Taco Salad"
+,"datePublished": "2020-06-18T23:50:02.000-04:00"
+,"dateModified": "2020-06-18T23:50:02.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Lora R"
+,"url": "https://www.allrecipes.com/cook/1094978"
+}
+]
+,"description": "A slightly spicy taco salad combines lettuce with ground seasoned beef, cheese, beans, and tortilla chips, all tossed with a tangy homemade dressing."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/6OhTu3bglO4n9E3V1gIPe4pkFr4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2387124-f775ef83360d43c38ce2f4721ef300e9.jpg",
+"height": 960,
+"width": 960
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=5279956573001",
+"description": "Tasty, tangy, quick taco salad!",
+"duration": "PT58S",
+"name": "Spicy Dorito® Taco Salad",
+"thumbnailUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/d84c6ec3-62fc-4389-919e-c761212262f5/3ff7543a-fb08-4005-a9a5-4ec23bdfe148/1280x720/match/image.jpg",
+"uploadDate": "2021-07-18T03:03:57.094-04:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Spicy Dorito® Taco Salad"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "87"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "561 kcal"
+,"carbohydrateContent": "34 g"
+,"cholesterolContent": "54 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "18 g"
+,"saturatedFatContent": "12 g"
+,"sodiumContent": "844 mg"
+,"sugarContent": "16 g"
+,"fatContent": "40 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT25M"
+,"recipeIngredient": [
+"1 pound ground beef",
+"0.5 teaspoon garlic powder",
+"0.5 teaspoon chili powder",
+"0.25 teaspoon ground black pepper",
+"1 head lettuce, chopped",
+"5 cups crushed nacho cheese-flavored tortilla chips",
+"2 cups shredded Colby-Jack cheese",
+"1 (15 ounce) can dark red kidney beans, drained and rinsed",
+"1 tomato, diced",
+"0.33333334326744 cup chopped onion",
+"0.25 cup pickled jalapeno peppers, chopped",
+"1 cup vegetable oil",
+"0.5 cup white sugar",
+"0.5 cup ketchup",
+"1 envelope taco seasoning mix",
+"2 tablespoons cider vinegar",
+"1 tablespoon Worcestershire sauce" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Cook ground beef, garlic powder, chili powder, and black pepper together in a skillet over medium heat until meat is brown and crumbly, about 10 minutes, breaking the meat up into chunks as it cooks. Drain excess grease, remove from heat, and let the meat cool."
+} ,{
+"@type": "HowToStep"
+,"text": "Toss lettuce, tortilla chips, Colby-Jack cheese, kidney beans, tomato, onion, and pickled jalapeno peppers in a large salad bowl; mix in the beef."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/6OhTu3bglO4n9E3V1gIPe4pkFr4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2387124-f775ef83360d43c38ce2f4721ef300e9.jpg"
+}
+]
+,"text": "Whisk vegetable oil, sugar, ketchup, taco seasoning, cider vinegar, and Worcestershire sauce together in a bowl until sugar has dissolved; pour dressing over the salad and toss again."
+} ]
+,"recipeYield": ["10"]
+,"totalTime": "PT35M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joshua Prendergast"
+},
+"reviewBody": "I don't know what all the comments about \"too sweet\" are about. I doubled the dressing and thought it was perfectly fine. Great dish!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "storythecorgi"
+},
+"reviewBody": "Not a fan. The dressing was way too sweet."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Shanks Clark"
+},
+"reviewBody": "I followed the recipe except I put the beans on the side. Some of my family do not like beans."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Doug"
+},
+"reviewBody": "We found this to be a very good salad, which like most salads, can be tweaked to fit one's own tastes. I made this exactly as directed, with the exception of using only 2T of sugar like several others recommended. I'm glad I did. It was plenty!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Vince"
+},
+"reviewBody": "Yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Pandamom"
+},
+"reviewBody": "Family approved salad! Full of yummy flavor and crunchiness. I added an extra tomato and diced up an avocado. I made the dressing with 1 tbsp of sugar and it was still delicious. Next time I want to try to make it with less oil, 1 cup is a lot!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Mark K. Sinn"
+},
+"reviewBody": "you can put chips or lettuce on the bottom of single dish to serve."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "eppt"
+},
+"reviewBody": "Quick and easy; fun and flavorful!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Egle40"
+},
+"reviewBody": "Need to try it with hotter seasoning. I used mild and it was too sweet"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "MBD"
+},
+"reviewBody": "I was excited to try this but I didn’t care for it. It tastes like French dressing on taco salad. I prefer taco salad that is more savory/spicy. The only change I did was cut back on the sugar because I could tell it was already going to be on the sweeter side. My boyfriend didn’t like it either."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "amcc"
+},
+"reviewBody": "This was so tasty. I followed others suggestions and cut the sugar in half. I also omitted the jalapenos because of personal preference. I just sprinkled the crushed chips on top of each serving and used way less than the recipe called for. I used taco cheese only because that is what I had on hand. This is going I to the dinner rotation for sure."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "zlookingglass"
+},
+"reviewBody": "This is a good, simple taco salad. But my goodness I didn't use near the amount of sugar it called for (half a cup?!) I assume that was a typo, I only used about a tablespoon, and I question why THAT was even necessary. EDIT: also only used 1/4 cup ketchup"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Annie Oakley"
+},
+"reviewBody": "This is soooo good and I did reduce the sugar by 1/2."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "historical"
+},
+"reviewBody": "Tasty! But I didn't add the sugar or vinegar. We just put salsa on our salads."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Silver Buffalo"
+},
+"reviewBody": "I served the leftovers on Tortilla Chips. Just as good as the first day"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "S.E."
+},
+"reviewBody": "I used less sugar and oil in the dressing and it was pretty good, but I like using ranch and salsa better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Megan"
+},
+"reviewBody": "I’ve made this many times, and my family loves it! We prefer the dressing with half the sugar. As easy as it is, a great hack is to pick up some fresh pick de Gallo from your grocery produce section instead of chopping the veggies."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Clifford Willier"
+},
+"reviewBody": "I will absolutely make this again, I used a six bean combo,as I do in my chili,and also used hot ketchup...I also had to have the salad taken away from me before I hurt myself trying to finish it all. it was amazing,great recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Luke Fischer"
+},
+"reviewBody": "This taco salad was very nice. I think with all the ingredients, including the sugar, it was pretty good. I enjoyed the combination of tastes, along with the meat and beans. Now, I’ve heard critics say that they didn’t like the amount of sugar in there, but I don’t have a problem. 5 stars, because it’s Mexican, and delicious. Plus, it’s very healthy. Definitely try it. You’ll really fall in love with it, to the point you’ll want to marry it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Amy Litster"
+},
+"reviewBody": "Excellent! I will definitely make this again. Even my salad-fearing kids ate it, although they both preferred it warmed up. Unfortunately, I didn't like the dressing at all. Way too sweet and vinegary for me. I had my second helping with salsa instead and liked it that way much better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pamila"
+},
+"reviewBody": "Delicious. I like using chips instead of a big taco bowl. So much better. Plus , if you put the chips on the bottom of each serving plate, if there are any leftovers for the refrigerator you can add fresh chips and they won’t be soggy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "mara"
+},
+"reviewBody": "I made this I know there is an annoyance changing the recipe and the commenting on it which I agree with however sometimes you have to because the store does not have what you need. So with that said I change the recipe I made taco bowels to put these in it was really good much more fulling the store was out of Colby so I used Mexican blend cheese it worked perfect. I also cooked the kidney bean with the beef adding them in about 3 min in cooking the beef and left some kidney uncooked. cooked with the beef tasted better too us. made the dressing too sweet I also had ranch dressing and salsa on hand just in case we liked those options better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Don Ingersoll"
+},
+"reviewBody": "Very good taco salad recipe. We tuned it down for the kids, but it was easy to add a kick to the adult plates!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kelly Johnson Frydenlund"
+},
+"reviewBody": "Very good and my family loved it. Would add chips separately."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lynnb"
+},
+"reviewBody": "This is easy to make and tastes great. Makes a lot and would be a good dish to take to a group event."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathy Stewart"
+},
+"reviewBody": "None"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jason Platts"
+},
+"reviewBody": "I do not like ketchup or Worcestershire sauce (since it contains anchovy paste, which i do not think people are aware of) so i had to omit those. It was very good, its pretty much how i make my taco salads except when making my own (not hers)for the dressing i mix ranch dressing with salsa and it is to die for as a dressing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Staci Leighann"
+},
+"reviewBody": "This has become one of my all time favorites!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sandy Holcomb-Davis"
+},
+"reviewBody": "i omit the garlic, pepper and jalapenos, and use taco seasoning after draining the beef, add a little water and taco seasoning and cook it down. then let cool. i even put it in a bowl and put that in a bowl of ice water to make it really cold for the salad so it doesn't melt the cheese. i also omit from the oil down and use Kraft Catalina dressing. This is how we always made it, for 27 yrs now. I'm sure this recipe is great, hence my 5 star rating, but my way is just easier. Try both!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Gloria Covert"
+},
+"reviewBody": "Turned out good great taste."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shirley Coulson"
+},
+"reviewBody": "I made this salad for dinner a few nights ago as the main dish. The recipe makes a big salad but, would be better as a side dish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marla Wietrzykowski"
+},
+"reviewBody": "Easy to make. We held off stirring in the wet ingredients until just before serving it so that it would stay crisp."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "lindadoubledoo"
+},
+"reviewBody": "Really good! Completely omitted the sugar, it was not needed - the ketchup adds enough sweetness. I will definitely make this again, but rather than playing it safe with the mild taco seasoning, I will use the spicy. Also, might cut back on the oil and up the vinegar a little."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Invidiaxii"
+},
+"reviewBody": "I've tried a ton of new recipes this year and this one might be my favorite. It was so tasty. I used less sugar, just adding it to taste."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Betty W Stone"
+},
+"reviewBody": "very nice balance of flavors. I did reduce the sugar to suit our taste, and left out the jalapenos, by necessity. still very good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Matt Bridges"
+},
+"reviewBody": "Honestly, I don't know what the author was thinking with some of this recipe. Half a cup of sugar? Seriously? I put in half a tablespoon and was told it was to sweet. I didn't hate it, but the recipe definitely needs to cut the sugar and focus more on spicy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "PetieMouse"
+},
+"reviewBody": "This was so good, a little to sweet so next time I will cut the sugar in half but it was very good love the taste of it ! Thank you for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "msmaureen"
+},
+"reviewBody": "I made this exactly as the recipe said and we all loved it. Will definitely make it again and will not need to look for any other taco salad recipes!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shadha Ali"
+},
+"reviewBody": "Great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michael Franklin"
+},
+"reviewBody": "It was simple to make and used the spicy Doritos to give it that extra kick, and my guests loved it..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Lori Baran"
+},
+"reviewBody": "Made by recipe... Salad is good, but dressing is WAY TOO SWEET. maybe a tablespoon of sugar instead of 1/2 cup would be better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stacie"
+},
+"reviewBody": "Crazy that people continuously rate recipes and change everything about the recipe when they make it. ALWAYS make it AS IS first, then change the recipe to suit your tastes. But, please do the world a favor and don't rate somebody's recipe based you YOUR own changes!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bmatheson"
+},
+"reviewBody": "Yummy. I used ground pork and it was delicious. Next time, however, I'll use half of the ingredients other than the pork and kidney beans. There was WAY too much. More than 10 servings."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Judy"
+},
+"reviewBody": "This is my new favorite Taco Salad! The dressing is amazing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "vocabqueen"
+},
+"reviewBody": "I made this exactly as recommended. I wasn't feeling very well that day, so I didn't eat very much of it. My Husband wasn't a fan of it though. I need to try it again and maybe change an ingredient or two."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cassandra Kimbler"
+},
+"reviewBody": "OMG this is amazing. I do suggest to add about 1 tsp of garlic powder &amp; 1 tsp of minced (dried) onion to the dressing, and make it ahead of time so all the flavors get a chance to mingle together cohesively."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DiamondLil"
+},
+"reviewBody": "We have been making this for 38 years. Our recipe calls for Taco Flavored Doritos and Taco FLAVORED grated cheese (must say flavored, it is different from Taco Cheese) and bottled Creamy Italian salad dressing (the creamy whitish kind) Kroger Brand is what we use. We also use an envelope of taco seasoning and make make the taco meat according to package directions. Hint- Do not add hot meat to the salad, let it cool first. Mix the taco chips and dressing write before serving or it gets soggy. I omit the jalapeno peppers. Not everyone likes it hot.\nEvery party we go to, we are asked to make this. I know some people use Western or Catalina Dressing, but that is too sweet. The tart Creamy Italian is the key ingredient to this salad."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Molly"
+},
+"reviewBody": "My family really enjoys a good taco salad, and this one is good! I really enjoyed the dressing with the taco seasoning in it rather than on the meat. It was different and a method I would use again. I did only use a 1/4 cup of sugar and had 2 smalls ears of leftover corn-on-the-cob that I threw in the salad. Also added a garnish of avocado slices. The Doritos® were added right before eating so that they would remain crispy. My DS and DH both commented during dinner how good the salad tasted and it hit the spot. It was a very nice evening tonight, so we had dinner on the patio which made the meal even more enjoyable. Thanks Lora R, for sharing your recipe. It is a keeper in our house."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Frank Barnett"
+},
+"reviewBody": "This is one of those meals you wish you had more room in your tummy. I've had many taco salads, but none to equal this one. The only change I made was cut the sugar in half."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "suzybel57"
+},
+"reviewBody": "I have made Taco Salad many times, with or without meat, Italian dressing, Catalina dressing, with salsa, sour cream, you name it. This is my all time fave meal, you can't do it wrong. Will try the homemade dressing, sounds good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jenn Tibbit"
+},
+"reviewBody": "Perfect! The whole family loved this recipe and wants more of it another night. Love this"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "shurl"
+},
+"reviewBody": "Every time I make this salad for picnics, I can't stop eating it and its always gone! Very tasty and the doritos really make it tasty"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michi Ilundaria"
+},
+"reviewBody": "This is sooo tasty and awesome :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stephanie Zaczkowski"
+},
+"reviewBody": "I have made this taco salad several times now and everyone who has eaten it raves about it. I made a mistake one time and added taco seasoning to the meat and the dressing and it was doubly good. I add some sliced black olives."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MattOlay V-H"
+},
+"reviewBody": "I made these for myself. I never had taco salad with dressing before and I enjoyed these. I made the dressing as is and although, I didn't mind it being sweet, I wanted a tangier taste so I added a little more vinegar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Dutchgirl"
+},
+"reviewBody": "This is an old-fashioned taco salad - I remember eating this as a very young teen. This is good although we would prefer a bit more heat. Adding the chips at serving is definitely the way to go to avoid sogginess. The dressing is good - but way too sweet. I cut the sugar in half and it was still too sweet for our tastes. But overall it's a very good recipe for those who don't care for much heat but still enjoy the taco flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kim S."
+},
+"reviewBody": "Everyone in my household loved this. Very easy and very good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lass2004"
+},
+"reviewBody": "Very good!! Will make again. I did as others suggested and used less sugar. I didn't even use half the amount required and it was still sweet. I used Cool Ranch Doritos instead..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Summer Wood"
+},
+"reviewBody": "Loved the dressing. Everyone raved about it and asked for the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alicia1212"
+},
+"reviewBody": "The dressing was great! The only changes that I made were to use ground turkey instead of beef and I cooked the onion with the meat instead of using them raw. I left out the jalapenos and I put the dressing on the side. Everything else I followed the recipe. Very good taco salad. I would serve this at a potluck."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Danielle Smith"
+},
+"reviewBody": "I really liked this salad. I have had it before and it was served with Catalina dressing BUT,, I think the dressing in this recepie is far better,,,I only changed the cheese because I had a taco blend on hand but I think any shredded cheese would be good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah Jo"
+},
+"reviewBody": "I used ground turkey instead of ground beef, Cool Ranch Doritoes, organic black beans and I doubled the amount of tomato. The pickled jalapeno peppers I used were homemade. The dressing was very unique. For us, it was VERY sweet. I would like to try it again but cut back on the sugar by at least half. Fun quick dinner recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christina"
+},
+"reviewBody": "YUM! This is the BEST Dorito salad that I've had, and I think the secret is in the dressing! Made exactly as written, and thought it was perfect as is...I mixed everything but the dressing (which I made earlier in the day and let it set) and the Doritos, then just mixed those in right before serving. This is a keeper and one that I will be making often! Thanks for sharing. :)"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/223010/spicy-dorito-taco-salad/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/96/salad/",
+"name": "Salad"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17534/salad/taco-salad/",
+"name": "Taco Salad Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/223010/spicy-dorito-taco-salad/",
+"name": "Spicy Dorito® Taco Salad"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

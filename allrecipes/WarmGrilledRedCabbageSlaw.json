@@ -1,0 +1,127 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Warm Grilled Red Cabbage Slaw"
+,"datePublished": "2023-01-10T17:37:00.000-05:00"
+,"dateModified": "2023-01-10T17:37:00.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Chef Mo"
+,"url": "https://www.allrecipes.com/cook/chefmo"
+}
+]
+,"description": "This red cabbage slaw is made on the grill and flavored with apples, maple syrup, and apple cider vinegar."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/FS6NmHsaIoXi1doVs-tuJOpeTwg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1671715617cabbage-c222dc0d2a14418e99f343539ca2c81c.jpg",
+"height": 1124,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Warm Grilled Red Cabbage Slaw"
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "160 kcal"
+,"carbohydrateContent": "27 g"
+,"fiberContent": "5 g"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "51 mg"
+,"fatContent": "6 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1 medium white onion, thinly sliced",
+"2 tablespoons olive oil",
+"1 Granny Smith apple - peeled, cored and chopped",
+"3 tablespoons maple syrup",
+"3 tablespoons apple cider vinegar",
+"1.5 teaspoons garlic powder",
+"1.5 teaspoons onion powder",
+"1 head red cabbage, shredded",
+"0.33 cup chopped fresh parsley" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat grill to medium high heat to 375 degrees F (190 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour olive oil into a grill pan and sauté onion for 2 minutes. Add chopped apples, maple syrup, apple cider vinegar, garlic powder, and onion powder to the grill pan and stir until mixed."
+} ,{
+"@type": "HowToStep"
+,"text": "Reduce heat to low at 300 degrees F (150 degrees C). Add red cabbage to the grill pan and cook until cabbage is wilted and lightly tender, about 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove from heat and add parsley. Enjoy warm."
+} ]
+,"recipeYield": ["5"]
+,"totalTime": "PT35M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8524012/warm-grilled-red-cabbage-slaw/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/2437/fruits-and-vegetables/vegetables/cabbage/",
+"name": "Cabbage"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16323/fruits-and-vegetables/vegetables/cabbage/red-cabbage/",
+"name": "Red Cabbage"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8524012/warm-grilled-red-cabbage-slaw/",
+"name": "Warm Grilled Red Cabbage Slaw"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

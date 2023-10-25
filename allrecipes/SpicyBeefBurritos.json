@@ -1,0 +1,440 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Spicy Beef Burritos"
+,"datePublished": "2019-04-03T02:32:22.000-04:00"
+,"dateModified": "2022-08-28T10:45:12.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Luke"
+,"url": "https://www.allrecipes.com/cook/10036560"
+}
+]
+,"description": "Warm tortillas are topped with refried beans, seasoned ground beef, and a delicious mix of peppers in these bold and spicy homemade burritos."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/UmYWPxacnHIK4fPDWIUSW9DI2NY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4413389-spicy-beef-burritos-Buckwheat-Queen-4x3-1-147f33e9324444568a8f15d8e6599aac.jpg",
+"height": 720,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Spicy Beef Burritos"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "29"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "723 kcal"
+,"carbohydrateContent": "60 g"
+,"cholesterolContent": "108 mg"
+,"fiberContent": "9 g"
+,"proteinContent": "34 g"
+,"saturatedFatContent": "19 g"
+,"sodiumContent": "2043 mg"
+,"sugarContent": "7 g"
+,"fatContent": "39 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"6 ounces sliced jalapeno peppers",
+"1 tomato, diced",
+"1 (4 ounce) can chopped green chile peppers",
+"1 green bell pepper, diced",
+"1 red bell pepper, diced",
+"1 onion, diced",
+"1.5 tablespoons hot sauce",
+"0.25 teaspoon ground cayenne pepper",
+"1 pound ground beef",
+"1 (1 ounce) package burrito seasoning",
+"1 (14 ounce) can refried beans",
+"6 (10 inch) flour tortillas",
+"1 (10 ounce) bag shredded lettuce",
+"1 (8 ounce) container sour cream",
+"1 (8 ounce) package shredded sharp Cheddar cheese" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Mix jalapeno peppers, tomato, green chile peppers, green bell pepper, red bell pepper, onion, hot sauce, and cayenne pepper together in a large bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook beef in a large skillet over medium-high heat, stirring to break up clumps, about 5 minutes. Drain excess grease. Add jalapeno pepper mixture and burrito seasoning; cook, covered, stirring occasionally, until flavors combine, about 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour refried beans into a saucepan over medium-low heat. Cook and stir until heated through, about 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Warm each tortilla in the microwave until soft, 15 to 20 seconds. Spread a layer of refried beans on top. Divide beef mixture among tortillas. Top with lettuce, sour cream, and Cheddar cheese. Fold in opposing edges of each tortilla and roll up into a burrito."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT50M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Puah Levin"
+},
+"reviewBody": "Wonderful. Made exactly as written but didn't add lettuce. Added some more hot sauce and some Rus el Hanut. Will defiantly make it again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Irmie"
+},
+"reviewBody": "YUMMOLA ! Made exactly as written but didn't add lettuce, added a little extra cheese too (taco cheese) then baked 15 minutes at 350. Put guacamole, lettuce, tomato and mixed some sour cream (mixed with taco seasoning) on table. Again YUMMOLA ! Gotta make for a party except afraid guests will not want to leave after this. LOL"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Fred Crane"
+},
+"reviewBody": "Perfect and perfectly easy to prepare. We made it with slight variations each time, substituting spinach, red bell pepper, red salsa, more cheese, etc. Amazing for leftovers, too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Reader54321"
+},
+"reviewBody": "Very good. Did not add beans as I don't like them. Used 2 jalapenos.. just had with wrap and no cheese, lettuce, sour cream, will make again as good change from tacos"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michael Jones"
+},
+"reviewBody": "This was a wonderful recipe, which is going into my favorites. I did add a small can of chopped tomatoes with chili peppers, and did not include the refried beans."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tim Priddy"
+},
+"reviewBody": "Very tasty as prepared (I stuck to this recipe). I was worried about the amount of Jalapeno, but it cooked down perfectly with a great spicy kick, but not overly so. Easy to make as well. I couldn't find a burrito spice packet, but used mild taco seasoning instead. VERY TASTY!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Vicki R"
+},
+"reviewBody": "cook this dish with the beef enchiladas with spicy red sauce, make up a batch of Spanish rice and the crowd will go wild!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "hellowlin"
+},
+"reviewBody": "My boyfriend like very spicy Mexican food and he was very happy with this recipe. I will be making it a part of our regular menu!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bluebutterfly"
+},
+"reviewBody": "Wonderful. Didn't have burrito seasoning. Easy to do with what I had."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mental Gourmet"
+},
+"reviewBody": "omitted Jalapenos. used Lea Perrins Tobasco for the Hot sauce. Used MCormick Burrito mix. Turned out excellent."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Goomba"
+},
+"reviewBody": "I made these last week and they were definitely a hit in my home. I have already been asked to make more. I haven't I would like my grown kids to learn how to make their own ha ha ha. What would I change? Nothing the heat was perfect to my liking and the texture was great. Very Good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sherry"
+},
+"reviewBody": "I also added cheese inside burrito and baked for 20 minutes at 350 degrees. After tasting just the meat mixture, I thought these would be way to hot for us. One all assembled with added cheese and sour cream on top, they were perfect. Delicious flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "redeyeskilletslayer"
+},
+"reviewBody": "Made it as written. Fantastic. Kids Cleared there plates and thumbs up all around.Simple and easy to make. Thanks"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jenny"
+},
+"reviewBody": "This was very good and super simple. I used some homemade taco seasoning since that's what I had on hand. Otherwise, followed the directions as written. I also added a cubanelle to the peppers, because I had some. Everyone enjoyed the burritos! Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "blueclaw"
+},
+"reviewBody": "This is delicious! I used two 10 oz. cans of Rotel (diced tomatoes with green chilies) instead of 1 tomato and 2 lbs of ground beef. The rest of the ingredients I did not change. It was just right for my families tastes. This is a keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "canukgirl"
+},
+"reviewBody": "So awesome, my whole family loved these (even my little guy who does not care for beans at all). The only change that I made was to omit the cayenne to take down the heat, and omit the green pepper because they're my least favourite food."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "doed"
+},
+"reviewBody": "My family went crazy over these burritos! I would not change anything. I made the recipe exact as called for. Perfect for our Cinco de Mayo party with All Recipes Mexican Rice ll recipe and Chicken Quesadilla recipe. Totally YUMMY dinner!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jackie"
+},
+"reviewBody": "Excellent!! Very Good! I didn't however add the jalapenos, cayenne, hot sauce, but everything else I used. You could always make it half hot and half not depending on who is eating with you with the heat they like or not. When I placed the meat on the tortilla, I added a little cheddar cheese then rolled them up (it rolled 6). After placing them in my dish then I topped it off with Hatch Valley 505 Green Chile Sauce, I sprinkled cheese on top and in the over at 350 for 10 - 15 min. After over, I then dished one on a plate topped with lettuce, cheese, tomato, sour cream and avocado! Deeelicious!! Excellent!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Maria Miller"
+},
+"reviewBody": "this recipe is amazing of you like spice !!! I also didn't add lettuce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rrhood"
+},
+"reviewBody": "Made this with no changes. My husband found it spicy but it was good for me. Love this recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "FrackFamily5 CA—>CT"
+},
+"reviewBody": "These were great! Made as written except I left out the lettuce and baked for 10 minutes once rolled. Super yummy. Will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Buckwheat Queen"
+},
+"reviewBody": "Delicious! I love the green chili and beef combination. Thank you for the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "dukster"
+},
+"reviewBody": "almost the way i like my burritos.Ecept i like some ground beef and rice in mine. But very good and i would gladly make them again."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/255276/spicy-beef-burritos/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/",
+"name": "Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1642/everyday-cooking/",
+"name": "Everyday Cooking"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/255276/spicy-beef-burritos/",
+"name": "Spicy Beef Burritos"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

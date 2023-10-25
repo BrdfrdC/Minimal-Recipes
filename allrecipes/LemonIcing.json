@@ -1,0 +1,1406 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Lemon Icing"
+,"datePublished": "1998-06-04T14:00:16.000-04:00"
+,"dateModified": "2022-08-22T14:31:16.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Carol"
+,"url": "https://www.allrecipes.com/cook/Carol"
+}
+]
+,"description": "This superb lemon frosting comes together in one quick and easy step. It is a tasty icing perfect for baked goods like cake, cupcakes, and cookies."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/ZQiBMoN7SLQFR1Lobe2q-8Zf-Ic=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9152419-lemon-icing-Nishall-4x3-1-99babf88c6144fb18a41ea2013f4aa7e.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Lemon Icing"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "376"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "191 kcal"
+,"carbohydrateContent": "32 g"
+,"cholesterolContent": "20 mg"
+,"proteinContent": "0 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "55 mg"
+,"sugarContent": "31 g"
+,"fatContent": "8 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"0.5 cup unsalted butter, at room temperature",
+"2 tablespoons lemon juice",
+"0.5 teaspoon vanilla extract",
+"3 cups confectioners' sugar" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine butter, lemon juice, vanilla, and confectioners&#39; sugar in a large mixing bowl and beat until light and fluffy. Add more confectioners&#39; sugar, or lemon juice to adjust the consistency as needed."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT5M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Addie"
+},
+"reviewBody": "It was delicious. We added 3 lemons and 1 TBSP of milk."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I added 4 ounces of cream cheese, it was very good without but I was looking for a heavier consistency. It is definitely a keeper. A*****"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "BSF"
+},
+"reviewBody": "I needed to add more lemon juice so it wasn't so stiff. It was hard to spread. It was really good I will be adding even more next time so it spreads easier and is maybe a bit less sweet and hopefully adds more lemon flavour."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jackieamethyst"
+},
+"reviewBody": "This was totally delicious and it made the perfect amount to frost a two layer cake. The only change I made was to add a couple teaspoons of lemon zest and a few drops of yellow food coloring. Yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Holly"
+},
+"reviewBody": "Sooooo good!!! I used a whole lemon juiced in it and added a table spoon of milk to make it thinner. I was also able to divide into 3 portions because it's so sweet. I put straw holes in the cake and poured the coat the cake."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "So good!! I used a entire lemon, zested it the pealed it and puréed the whole thing until no pulp! Put the zest on top!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "A very simple and delicious recipe for an amazing lemon icing for my vanilla cake. Thank you for adding this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tony Bartolo"
+},
+"reviewBody": "I love it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "basil4211"
+},
+"reviewBody": "Made this icing to go on yellow cake cupcakes. It was delicious! I squeezed one large lemon, it was just over two Tablespoons worth. I had to add a little more then the two Tablespoons of lemon juice to get the icing consistency right. I added lemon zest to give it a little pop."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Pam L"
+},
+"reviewBody": "I made this recipe and put onto of a lemon and coconut slice. It was really delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ruth Bell"
+},
+"reviewBody": "I love lemon and I really love this lemon icing!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Melinda Peters"
+},
+"reviewBody": "Nice flavor! I read the reviews and took some of their suggestions, like adding a bit of milk to loosen it up, and also added a small amount of lemon extract. When you taste it alone, I thought it was too sweet, but it works great with my cake I made! Easy to make as well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sherry"
+},
+"reviewBody": "No way this recipe would frost a whole two layer cake. Doubled the recipe and added extra teaspoon of lemon juice. Frosted white cake. Delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Puffy Cloud Baking"
+},
+"reviewBody": "this recipe is great but....it does not make much at all!!! other than that, this recipe is DELISH"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "sandralmb"
+},
+"reviewBody": "I made the recipe to a T (almost)...after I added 2 1/2 cups of icing sugar...and tasted it...I just couldn't add the remaining 1/2 cup of icing sugar...This is without a doubt the SWEETEST icing I have ever tried....way over the top....will NOT MAKE AGAIN..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Adrienne Sandrin"
+},
+"reviewBody": "This is awesome. I used the alteration Ms. Chakas suggested in her review to use Baileys Irish Cream in place of the lemon juice. It was a little sweet for me so I add some sour cream to soften and cut the sweetness worked like a charm! Great icing recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Paul M. Young"
+},
+"reviewBody": "Great recipe... I just made it a few minutes ago to top off some crescent rolls. I should have adjusted the recipe for 8 rolls! I did make a few changes due to lack of ingredients: (1) I used lemon extract (half of what it would have been in lemon juice) and (2) cut the butter amount in half but added the amount back in cream cheese. I can't wait to put this on other desserts!! Fantastic!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ceridwyn Howard"
+},
+"reviewBody": "My son &amp; I made this recipe (teaching him how to cook) &amp; it was just lovely! It was smooth, creamy &amp; not too buttery, we even used a piping tool to make nice patterns with it. I did use lemon juice from a bottle, (no fresh lemons around) &amp; just needed to add a bit extra of the lemon juice to make it the perfect lemony taste. Remember to put the icing in the fridge if you are going to use a piping tool with it, (10-15 minutes)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Emily"
+},
+"reviewBody": "Amazing recipe!! I used more lemon juice then the recipe called for. I added the powered sugar into my mixer."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "kinzie"
+},
+"reviewBody": "This is a good base recipe to add your own flavor too. After making the base, I added half a block of cream cheese &amp; then flavored to taste with more lemon flavoring. I’m not a fan of buttercream icings so had to add cream cheese."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shan"
+},
+"reviewBody": "This icing was quick and easy. It was one of the best tasting icings I've ever tasted!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Willa Benton"
+},
+"reviewBody": "I made it for some sugar cookies I made and it tasted horrible. It tasted like how cleaning spray smells. Do not make this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CHATTYTAM"
+},
+"reviewBody": "Definitely use real lemon juice"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Laura Kirklin Draper"
+},
+"reviewBody": "Very good, but very sweet. I would cut the sugar by a bit and add some more liquid next time to make it more spreadable. If you like vey thick and very sweet make it as is."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "cinda"
+},
+"reviewBody": "I made the frosting with only 2 1/2 cups of confectioners sugar and it was WAY too sweet. I microwaved it for 10 seconds (without melting) and added salt to taste. It tastes alright...could have been much better. I hope this helps"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lovebugsmamma"
+},
+"reviewBody": "Delicious and so easy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bits with Mits"
+},
+"reviewBody": "This really taste like how I wanted it to!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "labeyer"
+},
+"reviewBody": "Excellent! Per the recommendation of others, I added extra lemon and vanilla. I also used zest on top. But this was so easy and yummy! Thank you for the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "FrackFamily5 CA—>CT"
+},
+"reviewBody": "Wow. I thought the recipe said 3 TBS of lemon juice (the kind in a bottle); so I made that mistake. And.... I added a 1/2 tsp lemon extract and did add a bit of milk to the bowl as others have suggested to loosen the frosting. And of course I added some yellow food coloring. Very lemon-y. Very good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Baker@Heart"
+},
+"reviewBody": "Delicious! I made this icing recipe exactly as written &amp; it is simply delicious. I then made a second batch so I could have enough to frost a 3-layer 6-inch cake."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lisa woo"
+},
+"reviewBody": "This is the best lemon frosting recipe I’ve tried! It’s easy to make and the perfect balance of sweet / tart."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Meredith Wong Hughes"
+},
+"reviewBody": "So good! I did add a couple more TBSPs of lemon juice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Regi"
+},
+"reviewBody": "This is a delicious light lemon frosting. I added a rep of lemon extract in addition to fresh lemon juice. I was able to frost 24 cupcakes with us recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "marion"
+},
+"reviewBody": "added alittle more lemon juice This is so delicious and easy to make!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Patricia J"
+},
+"reviewBody": "Great frosting and very easy to make. It really made a difference on the cake I made"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Hazel"
+},
+"reviewBody": "I loved it and didn't make any changes. Will definitely make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hilda Sanchez"
+},
+"reviewBody": "It was divine! I had to melt some of the butter as it was just sticking to my mixer and that fixed it. I did add a bit more lemon and vanilla but only if you want a bold taste otherwise it was great as is. Came out super fluffy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sharon Whitley"
+},
+"reviewBody": "It was fantastic! Simple and tasty. It is also versatile. I used orange juice instead of lemon juice and received the same tasty results."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "John D Evans"
+},
+"reviewBody": "This was only my second time making my own icing, but the first time using this recipe. THIS ICING IS OUTSTANDING!!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tara Lynn Ward"
+},
+"reviewBody": "I added a little bit extra powdered sugar, I added too much lemon juice, to get the consistency I needed. Amazing lemon taste and silky smooth! Even my7 year old who does not care for lemon thought this was great! Will use again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Revol19 Max"
+},
+"reviewBody": "My 7 year old helped and it turned out great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "ac4703"
+},
+"reviewBody": "Needs more lemon juice and the consistency wasn't very appealing. Easy enough though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Charlotte Sepulveda"
+},
+"reviewBody": "Best lemon frosting ever."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lonni Fitzgerald"
+},
+"reviewBody": "This frosting is the best frosting ever. I think that the problem people are having with it being too thick is that they're not measuring the powdered sugar right you can't pack the powered sugar you first have to fluff it up and then measure it out. When you pack your powdered sugar you get too much sugar in your recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kristy"
+},
+"reviewBody": "We didn't change a thing and it turned out perfectly. Thank you for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marsha J."
+},
+"reviewBody": "Excellent, easy recipe. Used it n a boxed lemon cake mix. Wonderful!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Fleabite"
+},
+"reviewBody": "This recipe is a really good basic recipe. Room temperature butter is critical to it not being too stiff. I needed to make frosting for two bundt cakes with the intent to frost the top only. The cakes are for a summer fund raiser and will need to withstand an overly warm room. The frosting will either stay put of attractively slip down the cake a little. Hopefully :) Keeping proportions of ingredients roughly the same as the recipe, I used one bag of confectioners sugar and the juice of two lemons. That was more than the 4 tablespoons that would have been called for. I balanced to spreading consistency by adding more butter. I also threw in 1/2 tsp of lemon zest for kick and appearance. Whip the daylights out of it and it should be fine. It was very smooth and absolutely no curdling appearance with good body for frosting."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kelly"
+},
+"reviewBody": "I put lemon peel in mine."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Mike Jefferson"
+},
+"reviewBody": "Awesome! Lovely lemony flavour."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mmett"
+},
+"reviewBody": "Icing was a little hard. I added more lemon juice as well as a little milk. It turned out perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "nikkeev"
+},
+"reviewBody": "I was looking for a lemon buttercream icing and it seemed this recipe would do the trick, however 1) it wasn’t enough to ice an 8 Inch cake 2) it was WAY sweet without any depth to it. I made the original recipe, as mentioned, way too sweet. I might use salted butter next time to cut the sweetness. I added more lemon choose and a pinch or two of salt and this helped the flavor a bit, however it wasn’t enough to cut the sweetness. Ended up having to soften 8 ounces of cream cheese and whipping it in, as well as add about 1/2 C to 1 C more sugar, jest to have enough to ice a 2 layer 8 inch cake."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nicole Mullnix"
+},
+"reviewBody": "This frosting tastes amazing. I used 1 large lemon (2 Tbsp) and real butter with salt."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dee Dee Patterson"
+},
+"reviewBody": "Super quick and easy, light, fluffy frosting. Paired perfectly on my 5yo’s lemon poppy seed muffin creation that he baked, frosted, and topped with a fresh strawberry! Thank you for an easy and good recipe! ??"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tammey"
+},
+"reviewBody": "Great Lemon flavor. Very easy to make. I added lemon zest right into the frosting instead of on top. Even my 2 yo granddaughter loved it. Will definitely make again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jaalle"
+},
+"reviewBody": "Very tasty! Had to add extra lemon juice and that just enhanced the flavor"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rae Wright"
+},
+"reviewBody": "It was so fun to make it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Kim Williams"
+},
+"reviewBody": "Kinda wish I had used lemon extract instead of actual lemon juice. Has a bit of an unpleasant sour taste when combined with the other ingredients. Maybe the cake will neutralize the icing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "burned dinner again "
+},
+"reviewBody": "This turned out very odd looking, and tastes odd, too. It's much too cloyingly sweet, it's missing something but I don't know what. Thank you for sharing the recipe it just didn't work out for me."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "corina"
+},
+"reviewBody": "I also added a bit of lemon extract. used it on my lemon cake. awesome! will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Paula Downs"
+},
+"reviewBody": "I will make it again. I added a bit more lemon juice to the compilation and it was perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda"
+},
+"reviewBody": "Yummy! Easy to adjust for your desired consistency and lemon flavor. I highly recommend this frosting/icing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Audrey Towle"
+},
+"reviewBody": "Quick and easy lemon frosting!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pris Cilla"
+},
+"reviewBody": "Easy to make and very versatile. I added the sugar little by little until I got the consistency I wanted. I ended up using the exact quantities stated in the recipe. I put sime mashed banana to make it a lemon-banana icing like someone suggested it n the comments. Thank you for the suggestion. It was great in my banana cake."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "jateena richards"
+},
+"reviewBody": "I need to add a little bit more lemon flavouring"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Myra"
+},
+"reviewBody": "This is a good easy recipe but if I make it again I will add some salt to balance out the sweetness."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "arlo"
+},
+"reviewBody": "i added more lemon juice and water once i mixed because it was too thick. increased the lemon taste but not the consistency. enjoyed it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Holly"
+},
+"reviewBody": "This is an excellent recipe! WOW!!! I think some people who didn't like it may not have mixed it well enough. It can be hard to mix if your butter isn't completely soft. I thought it was going to be too dry, but I kept mixing. I turned out so yummy. Your guest will be impressed!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kelly Cooper Root"
+},
+"reviewBody": "Excellent. Not too sweet and you can taste the hint of lemon. I think next time, I would add some lemon zest for appeal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I loved it! It was just the consistency and flavor I was looking for."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Becky Bennett"
+},
+"reviewBody": "I loved it! It was just the consistency and flavor I was looking for."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "shirl"
+},
+"reviewBody": "I added some milk as seems too stiff but really added to,my cake"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "magictpa"
+},
+"reviewBody": "Easy to make, fluffy icing with fresh lemon notes.\nDries fast, and remains fluffy for days."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Emma"
+},
+"reviewBody": "Great recipe, I added about a 1 1/2 more teaspoons of lemon juice. It really just depends how much you like lemon. Defenitly will make again!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "annel spurgers"
+},
+"reviewBody": "Tasted really good, but it was runy, had to add more lemon because I couldn't taste it at all.... Maybe that's why it was runy.... Aside from that, tasted really good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jane Skogkatt"
+},
+"reviewBody": "Added about 2 tablespoons more of lemon juice to suit my taste. Success!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JAKE THE HOME COOK"
+},
+"reviewBody": "great"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Althea Spence"
+},
+"reviewBody": "This recipe was simple and awesome. Everyone who tasted enjoyed. Went perfect with lemon cake. Thank you for this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JayJay"
+},
+"reviewBody": "I'll definitely use this icing recipe again.\nI had one fresh lemon and used the juice, but still added a little bottled juice and it didn't alter the taste at all.\nJust right tartness."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "hotchef1"
+},
+"reviewBody": "Made it for a layer cake with lemon pudding between the layers. Almost tasted like a cream cheese frosting but lemony."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dee Friesen"
+},
+"reviewBody": "Fabulous and easy. I followed the recipe precisely, and used a stand mixer to beat it to the proper consistence. It's so good you can almost eat it with a spoon, and it's easy to spread."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "NDivide"
+},
+"reviewBody": "This icing is good, though a bit lumpy....\nOther than that the icing was good.... though a little sweet.\nBut I honestly WOULD recommend this."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Faith Kruse"
+},
+"reviewBody": "The icing tasted alright, it was the texture that put me off. I added an extra teaspoon of white sugar and an eighth of a teaspoon of water, along with one extra tablespoon of vanilla extract. Mine turned out very grainy, and when I attempted to spread it onto the cake I made, it ran down the sides and collected more as a watery glaze. I don't know what I did wrong, but I will not be using this recipe again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "darcielewis"
+},
+"reviewBody": "I halved this recipe, I found it a little to think as well and just put a tab more lemon juice and a splash of milk made it perfect on my blue berry crumb bars!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "EsongAbirdM"
+},
+"reviewBody": "Went great. Used bottled lemon juice. Did have to add about 1 Tbsp milk extra to frost and forgot to add the vanilla but still was a nice mild lemon to frost a cake w a raspberry filling. Lots of compliments."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer Todd"
+},
+"reviewBody": "This is pretty good. Next time I will use a tiny bit less lemon juice"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "lisa jane"
+},
+"reviewBody": "Had to add a fair bit of water and extra icing sugar as was too thick and strong !"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Maria C"
+},
+"reviewBody": "I loved everything about this icing! I made it according to the original recipe and added about a tablespoon of milk to soften it up--perfect! I will use this over &amp; over!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nancyshere2"
+},
+"reviewBody": "I didn't measure the lemon juice. I just added drops, mixed and added more to my taste. What a great taste!! I didn't get the buttery taste others mentioned, but then I like lemon so I probably added more than anyone else. Next time I'm going to add lemon zest as well! Consistency is regulated by how much sugar you add. I needed mine to be real thick as I'm using it in between cake layers, so I'd say what I used was closer to 4 cups. This is a wonderful, fast, and easy icing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stugroupie"
+},
+"reviewBody": "Very tasty and easy to make. My ten year old daughter and her friend made white cupcakes from a box mix but wanted to use homemade frosting. This icing made their plain Jane cupcakes into something special! The consistency was a bit thick, so they added a bit of milk. Everyone loves them!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "momof3boys"
+},
+"reviewBody": "This is a very good lemon frosting. I made the recipe exactly as written. It was too thick, so I added a little milk as suggested by previous reviewers. Really good..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Julie Dombrowski"
+},
+"reviewBody": "I made this buttercream and it was fabulous. I added some lemon zest into it as well and it was so good. Love it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cheryl Jarvis"
+},
+"reviewBody": "Wow! The best, fluffiest, most delicious lemon frosting ever!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah Merrifield"
+},
+"reviewBody": "Good base recipe, but 2 tbsp of lemon juice just isn't enough. I squeezed the juice of 2 lemons and it was glorious! Also, needed to add about 1/4 cup of milk to the icing sugar and butter because it was really dry. It's now 5 stars :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "hawaiilynn"
+},
+"reviewBody": "This turned out to be the best icing I've ever had- anywhere! Thanks for this recipe!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KRANEY"
+},
+"reviewBody": "Loved this!! I would call it lemon buttercream frosting. I needed 3-4 Tbl. lemon juice instead of 2. Was perfect on a box lemon cake. Thanks for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Megan Burt"
+},
+"reviewBody": "This is perfect I added lemon zest into frosting Thank you for recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sylvia"
+},
+"reviewBody": "Excellent icing. All I did was what others have suggested. In addition to the lemon juice, I added 1/2 teaspoon of lemon extract and 1-2 tablespoons of milk (to get consistency of what I was looking for). My family LOVED this refreshing icing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Yummy"
+},
+"reviewBody": "This even made my dry cupcakes taste delicious! Fantastic flavor!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "nicole"
+},
+"reviewBody": "Good, not special."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/7770/lemon-icing/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17100/desserts/frostings-and-icings/",
+"name": "Frostings and Icings"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/2422/desserts/frostings-and-icings/lemon/",
+"name": "Lemon"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/7770/lemon-icing/",
+"name": "Lemon Icing"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

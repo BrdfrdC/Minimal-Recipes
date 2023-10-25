@@ -1,0 +1,233 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Keto Air Fryer Jalapeno Poppers"
+,"datePublished": "2019-11-22T18:05:25.000-05:00"
+,"dateModified": "2019-11-22T18:05:25.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "France C"
+,"url": "https://www.allrecipes.com/cook/francecevallos"
+}
+]
+,"description": "An air fryer, 3 ingredients, and 10 minutes are all you need to make these delicious, keto-friendly, bacon-wrapped jalapeno poppers."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/d7egUOCqBM6g0YnrP8en8lj8UYo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7309771-a27507ae57284bb9b9d1f475fd044286.jpg",
+"height": 1000,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Keto Air Fryer Jalapeno Poppers"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "10"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "160 kcal"
+,"carbohydrateContent": "4 g"
+,"cholesterolContent": "38 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "5 g"
+,"saturatedFatContent": "8 g"
+,"sodiumContent": "424 mg"
+,"sugarContent": "2 g"
+,"fatContent": "13 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"6 jalapeno peppers, halved and seeded",
+"7.5 ounces garden vegetable cream cheese (such as Philadelphia®)",
+"6 bacon strips, halved lengthwise" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the air fryer to 390 degrees F (200 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Fill each jalapeno half with cream cheese and wrap with a halved bacon strip. Tuck in bacon ends or use toothpicks to secure."
+} ,{
+"@type": "HowToStep"
+,"text": "Place jalapeno poppers inside the air fryer basket, working in batches to avoid overcrowding, if necessary."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook in the preheated air fryer until bacon is done to your liking, 10 to 12 minutes."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT30M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "The recipe is great, but 10 minutes is too long in the air fryer. I would check them at 8 minutes and go from there."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "trryn9"
+},
+"reviewBody": "Great recipe, fast and easy. I didn't have veggie cream cheese so used herb and garlic. Also added a bit of shredded cheese to the mix. Hubby and I thought they were very tasty! Used the peppers I had picked from my garden"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ashley Rossetto"
+},
+"reviewBody": "These are so simple, and so absolutely delicious! I did 390 degrees at 12 minutes, and it was perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ja9"
+},
+"reviewBody": "I followed the recipe exactly and these turned out delicious. I never would have believed I could make something like this. It was super easy. I wore plastic disposable gloves while working with the jalapeños. Thank you for sharing this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Biscotti"
+},
+"reviewBody": "I did use thick bacon. I cooked them at 370 for 15 minutes. Turned out great, with crispy bacon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tara"
+},
+"reviewBody": "Did not change a single thing, and they were the best poppers we have ever had. Other recipes will have you cook bacon first, crumble and then mix in cream cheese mixture..... I will never do that again. So much more flavorful this way. Perfect, we loved them!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Benito Sifuentes"
+},
+"reviewBody": "Brother and I just made these and got to say they were great! Definitely a great snack to make!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "James Foley"
+},
+"reviewBody": "I went out and bought a new air fryer just to make this. Absotively posolutely scrumptious. I bought 4 peppers and made them. I also made some bacon wrapped tater tots to munch with the peppers. I used ranch and honey mustard dips. YUMMY! Next time I will make more of each to share."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/277358/keto-air-fryer-jalapeno-poppers/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/109/appetizers-and-snacks/vegetable/",
+"name": "Vegetable"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1241/appetizers-and-snacks/vegetable/jalapeno-poppers/",
+"name": "Jalapeno Popper Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/277358/keto-air-fryer-jalapeno-poppers/",
+"name": "Keto Air Fryer Jalapeno Poppers"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

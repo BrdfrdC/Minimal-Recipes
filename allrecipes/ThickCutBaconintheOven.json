@@ -1,0 +1,292 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Thick-Cut Bacon in the Oven"
+,"datePublished": "2020-07-15T18:32:07.000-04:00"
+,"dateModified": "2020-07-15T18:32:07.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "WCFranck"
+,"url": "https://www.allrecipes.com/cook/wcfranck"
+}
+]
+,"description": "Cook thick-cut bacon in the oven — there&#39;s no spattering grease and messy cleanup, and you still get crispy results. You might never fry bacon again!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/TWGQcWYaKiacGZ5BYDosQuv4xZU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8343789-4ea2ecd5ccc14cea960ae8e512b94a91.jpg",
+"height": 960,
+"width": 960
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=6319504410112",
+"description": "",
+"duration": "PT22S",
+"name": " How to Make Thick Cut Bacon in the Oven",
+"thumbnailUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/50717a81-c6b9-465b-a52d-f8caed528813/6f163ae0-e6a4-4a87-9049-55e4137d8289/1280x720/match/image.jpg",
+"uploadDate": "2023-02-05T11:34:52.648-05:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Thick-Cut Bacon in the Oven"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "13"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "99 kcal"
+,"carbohydrateContent": "0 g"
+,"cholesterolContent": "20 mg"
+,"proteinContent": "7 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "425 mg"
+,"fatContent": "8 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"16 slices thick-cut bacon" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 400 degrees F (200 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Line a rimmed baking sheet with aluminum foil and place a baking rack on top. Arrange bacon strips on the baking rack."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/TWGQcWYaKiacGZ5BYDosQuv4xZU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8343789-4ea2ecd5ccc14cea960ae8e512b94a91.jpg"
+}
+]
+,"text": "Bake in the preheated oven until crispy, 15 to 20 minutes."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT20M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Heidi"
+},
+"reviewBody": "Always works out great with no mess in the kitchen!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jonathan travan"
+},
+"reviewBody": "Hands down the best way to cook bacon. Been doing this for years. I used a rimmed cookie sheet lined with foil for ez cleanup and a sheet of parchment over the foil so the bacon doesn't stick. 405F in my gas oven, 20 min thick cut bacon is perfect every time. (Every oven is different so your cooking times may vary depending how accurate your oven holds temp.)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Veronica M"
+},
+"reviewBody": "15 minutes was the perfect time for me! The perfect balance of crispy and chewy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pat Hill"
+},
+"reviewBody": "Awesome, crispy and not at all, greasy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Larry Berardino"
+},
+"reviewBody": "Always cook my bacon this way! Doesn't curl, NO splatter and nice clean bacon fat for cooking. Also I use non-stick spray the rack first, it helps with the clean-up."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mswiggy610"
+},
+"reviewBody": "I have been cooking bacon this way for years in fact my mom did as well and I am 60 something maybe because we had a very large family the first batch takes a little longer depending on how hot your oven gets I cook it at 400F I find flipping it have way through helps me out with cooking it What I like you can prep everything for breakfast while bacon cooking and you do not need to watch it and clean up the grease off the stove and counters I bring BLT sliders for parties and everyone raves about how good the bacon is"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BobsYourUncle"
+},
+"reviewBody": "I have been oven cooking my bacon like this for years but without the baking rack. One benefit of cooking bacon this way is they will always lie flat and won’t curl like in a frying pan."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I did cook it for 25mins instead of 20 because some of them were still chewy. I cooked it on a cooling rack with a pan under so it wasn't sitting in grease cooking."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I mean, it works- eventually... But there is zero chance your bacon cooks in 15 minutes. Pictured is our bacon after 20 minutes. It's an easy 30+ minute cook time at 400°"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Stormy"
+},
+"reviewBody": "I really wanted to love it but... I have tried this about 4 times now and I can't get the bacon to cook in 20 minutes. I would bake it 30 minutes then put it in my skillet which was totally the opposite of my goal. I finally just kept baking it for another 5 and another 5 until it got done and I'm not a real crispy bacon lover. I've tried with the rack and without. I had more luck without the rack. But I got a lot more fat splashing. But I'm going to try it again. When I got it baked I loved the uniform shape and the consistency in the cooking. So wish me luck... here I go again. Delicious but it took me 35 minutes to cook it then it came out perfect. So much easier than frying but I don't leave the stove after 20 minutes and check on it every 5 minutes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathy Wolfe Rogan"
+},
+"reviewBody": "It was a lot easier than standing there frying it. Came out perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "papaclifford56"
+},
+"reviewBody": "Bacon grease smokes at 325. Keep this in mind."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/281936/thick-cut-bacon-in-the-oven/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/150/breakfast-and-brunch/meat-and-seafood/",
+"name": "Meat and Seafood"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/14854/breakfast-and-brunch/meat-and-seafood/bacon/",
+"name": "Bacon"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/281936/thick-cut-bacon-in-the-oven/",
+"name": "Thick-Cut Bacon in the Oven"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

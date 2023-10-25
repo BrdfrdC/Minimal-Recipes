@@ -1,0 +1,176 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Cucumber Gazpacho"
+,"datePublished": "2021-02-09T18:02:43.000-05:00"
+,"dateModified": "2021-07-12T08:11:10.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Elizabeth Mervosh"
+,"url": "https://www.allrecipes.com/cook/elizabethm"
+}
+]
+,"description": "This summer-ready gazpacho tastes cucumber-forward with an underlying sweetness from the honeydew and honey, and the sherry vinegar sharpens those flavors."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/W9my5J6O8ZuyIX5CibL807Fc5qw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9025253-92cc03150f1d4ec98564b7a07f600bd8.jpg",
+"height": 2000,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Cucumber Gazpacho"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "3"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "270 kcal"
+,"carbohydrateContent": "26 g"
+,"cholesterolContent": "14 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "5 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "1359 mg"
+,"sugarContent": "17 g"
+,"fatContent": "18 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"2 large English cucumbers",
+"3 cups chopped honeydew melon",
+"1 cup cubed crustless day-old white bread",
+"0.25 cup olive oil, plus extra for drizzling",
+"1 tablespoon sherry vinegar",
+"2.25 teaspoons kosher salt, plus more to taste",
+"0.25 cup crumbled feta cheese",
+"2 tablespoons chopped fresh mint",
+"2 teaspoons honey" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Thinly slice one of the cucumbers to equal 1/3 cup. Transfer cucumber slices to a small bowl; cover and chill until ready to use."
+} ,{
+"@type": "HowToStep"
+,"text": "Coarsely chop remaining cucumbers and transfer to a blender. Add honeydew, bread cubes, 1/4 cup oil, vinegar, and 2 1/4 teaspoons kosher salt. Process on low speed, gradually increasing speed to high, until cucumber mixture is very smooth and creamy, about 90 seconds."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour gazpacho into a medium bowl. Cover and chill until cold, about 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Right before serving, toss together reserved cucumber slices, feta cheese, mint, honey, and a pinch of salt in a small bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir and ladle gazpacho into 4 shallow bowls. Top evenly with cucumber-feta mixture and drizzle with olive oil."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT80M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anne Fracht"
+},
+"reviewBody": "I love this , a few drops of honey makes it taste so good! but try not to use supermarket honey, use organic or from a specialty shop!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "yannai"
+},
+"reviewBody": "LOVED it! Had a honeydew which was not really sweet and used that. Added some garlic and skipped the honey. Amazing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda Morgan"
+},
+"reviewBody": "It was really great! The first time I made it, I did not have any honey, but found it sweet enough. Used two large English cucumbers and a half of a honey Dew Mellon, plus I used a little more mint. The second time I made it, still no honey, used two tablespoons Amaretto, even better! Next time maybe Creame de Mint?"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/283309/cucumber-gazpacho/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/184/soups-stews-and-chili/soup/vegetable-soup/",
+"name": "Vegetable Soup Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/14767/soups-stews-and-chili/soup/vegetable-soup/gazpacho/",
+"name": "Gazpacho Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/283309/cucumber-gazpacho/",
+"name": "Cucumber Gazpacho"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

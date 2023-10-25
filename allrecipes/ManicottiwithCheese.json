@@ -1,0 +1,990 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Manicotti with Cheese"
+,"datePublished": "1999-11-21T20:06:57.000-05:00"
+,"dateModified": "2022-07-14T17:31:48.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Mary"
+,"url": "https://www.allrecipes.com/cook/24326467"
+}
+]
+,"description": "Stuff hearty tubes of cooked manicotti with a fabulously rich blend of ricotta, mozzarella, Parmesan and parsley. Blanket with spaghetti sauce and bake to perfection for a tummy-pleasing dish."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/IDAjlz-q8238xUoCvdGylh3PPjE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/891814-3741c191054f4a5f99b75178ad65ad1c.jpg",
+"height": 250,
+"width": 250
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Manicotti with Cheese"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "97"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "736 kcal"
+,"carbohydrateContent": "88 g"
+,"cholesterolContent": "73 mg"
+,"fiberContent": "13 g"
+,"proteinContent": "28 g"
+,"saturatedFatContent": "14 g"
+,"sodiumContent": "2309 mg"
+,"sugarContent": "41 g"
+,"fatContent": "30 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"recipeIngredient": [
+"1 (8 ounce) package manicotti pasta",
+"2 cups whole milk ricotta cheese",
+"2 cups shredded mozzarella cheese",
+"0.25 cup grated Parmesan cheese",
+"2 tablespoons chopped fresh parsley",
+"0.5 teaspoon salt",
+"0.25 teaspoon ground black pepper",
+"3.5 (32 ounce) jars spaghetti sauce" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente; drain and cool on waxed paper or aluminum foil to prevent the noodles from sticking together."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat oven to 350 degrees F (175 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "In a medium bowl, combine ricotta cheese, mozzarella cheese, Parmesan cheese, parsley, salt and pepper; fill manicotti with cheese mixture."
+} ,{
+"@type": "HowToStep"
+,"text": "In a 9x13 inch baking dish, spread a thin layer of spaghetti sauce on the bottom and arrange manicotti in a single layer; cover with remaining sauce. Cover dish with aluminum foil and bake in preheated oven for 40 minutes. Remove foil and bake for 15 minutes longer; serve."
+} ]
+,"recipeYield": ["7"]
+,"totalTime": "PT0M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Peggy Flanery"
+},
+"reviewBody": "Used my own sauce with mozz parm and provolone on top"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "312donahue"
+},
+"reviewBody": "Terrific recipe, I deviated slightly and added 2.5 cups of fresh chopped spinach, there wasn’t any left overs!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "NurseCarol1974"
+},
+"reviewBody": "I liked how these turned out. I did sprinkle mozzarella cheese on the top before baking. Thanks for the recipe :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Meredith DeLorenzo"
+},
+"reviewBody": "This was a very good recipe. Worth the time stuffing the manicotti. This was my first time making manicotti and was delighted how well it came out."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Janine"
+},
+"reviewBody": "Made this for Easter dinner and it was a huge hit, I used my own homemade sauce and prepared it all the day before so that I only had to pop it in the oven. Will definitely make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "chefPamela"
+},
+"reviewBody": "Made this and it was excellent. Made a few minor changes. Used pre-cooked lasagna sheets and rolled them, used Italian style tomatoes and paste rather than jarred sauce and the tomatoes added a nice texture and taste to the sauce. I also added one cup of spinach to the cheese mixture. Covered the top with both mozzarella and Parmesan cheese. Will definitely make this again. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Susan-from-Georgia"
+},
+"reviewBody": "This was good. I have made it several times. This time, I did use an Italian blend cheese in place of the mozzarella (which has mozzarella, provolone, parmesan ,fontina, romano and Asiago in it), One reviewer suggested adding garlic and Italian seasoning to the mixture, so I added that. I have made it without precooking the manicotti, and it works well either way. You just have to bake it longer if the manicotti is not precooked."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Janine Page"
+},
+"reviewBody": "This recipe was delicious and very easy to make. I read the original recipe and all the reviews. I did not boil the manicotti and it was easy to stuff the filling inside. I added Italian seasoning, parsley, oregano, and garlic powder. Because I did not boil shells first I added lots of sauce; crushed tomatoes and tomato sauce. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LADYPMGMT"
+},
+"reviewBody": "This was an awesome recipe that you really can alter to your taste. I read the reviews, and kinda did my own thing.. I used shells instead of manicotti, a three cheese shredded blend with the ricotta cheese, parsley, mixed it together with a blender, and I definitely added love to my sauce.. It was my first time making or even tasting this dish and it is AMAZING!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Chef Cosmo"
+},
+"reviewBody": "Added a hint of nutmeg to the cheese mixture."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jlovekats"
+},
+"reviewBody": "We made and we loved it, we added a bit more mozzarella cheese on top and it was awesome, we will plan on making it again for sure!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "AmandaD"
+},
+"reviewBody": "As is, I give it four stars, however I think it's a fantastic base recipe. I added a bit of garlic salt and Italian seasoning (about 1/2 tsp each) and used 2 tsp dry parsley instead of fresh. I also only used one jar of Classico spaghetti sauce, and for our tastes, it was enough. I only seemed to have enough filling for 10 shells though, and had 4 leftover, from a 250g box. Would make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "esthermalkac"
+},
+"reviewBody": "Delicious recipe, and very easy! Took very little time to prepare (not much more than a little mixing and stuffing) but it tasted like it took longer :)\n\nI added some garlic powder &amp; substituted chopped scallions (which many recipes use) for the parsley, which worked very well for the flavor, I would definitely recommend it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "crf0610"
+},
+"reviewBody": "Made it exactly according to recipe minus the parsley. I didnt have a problem with the noodles breaking. It helped laying them out on wax paper. It was super delicious. Made it for my moms birthday and she said it was like eating out!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Dalyn"
+},
+"reviewBody": "Good basic recipe but I changed it up little bit. First 3 1/2 jars of spaghetti sauce is TOO MUCH!! It would become soup. I only used one jar and there was plenty of sauce for it. I added Italian spices (about 2 Tbl.) to the cheese mixture. There was so much cheese mixture that I almost had enough for 2 of these dishes. Again TOO MUCH!!! I don't have anything to pipe the cheese mixture in so I actually cut the cooked noodle up the back spoon in the cheese mixture and roll it back up. I place it cut side down of course. Works great that way. I then poured the sauce on top and then added mozzarella to the top. It came out perfect. The spices I added really helped with the blandness of the original recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennie"
+},
+"reviewBody": "Absolutely delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer74"
+},
+"reviewBody": "I made this recipe, as written, for the actual manicotti filling. And it was AMAZING. The ONLY thing that I changed was that instead of using canned sauce, I made my own sauce. I really love red sauce, and always make my own. I did also add more cheese to the top of the dish during that last 15 minutes of cooking. But really, this dish is awesome; nothing needs to be added/omitted. The amount of cheeses and seasoning in the filling is perfect!!! The only feedback I ever get from my picky, hard to impress boyfriend is a simple and polite \"That was good, thank you.\" After making this dish, he felt the need to tell me how good it was like 5 times, using words like \"F****** Amazing\" Yummylicious\" and \"seriously, that was soooo good!\" LOL (And he was born in Italy, so I trust his judgment on this!!) I will definitely make this again!!! Thank you!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kailey"
+},
+"reviewBody": "I followed this recipe exactly, except I added shredded mozzarella and Parmesan to the top when I put it back in the oven for the last 15 minutes. Great addition! \n\nAlso, I don't know if the package I used had too many noodles (although it said 8oz) or if I used too much filling for each one, but I was about three manicotti short on filling. This was my first time making it, so I think it was just my fault. \n\nNo need for the egg suggestion at all, just make sure everything is well-mixed and that you use a quality zip-loc bag with a corner snipped off or piping bag to fill after cooked. Also make sure not to over-cook the manicotti when you're boiling them or you'll have some with giant rips. I boiled mine for 9 minutes (package said 8-10) and had a lot that tore just from stirring them in the pot. Used Great Value brand from Walmart, so maybe that had something to do with it. Will try just boiling for 7 next time.\n\nOverall very yummy and will definitely make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sesha Farina"
+},
+"reviewBody": "Yummy and easy. Added spinach."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tracey"
+},
+"reviewBody": "I added ground beef,onions and garlic with the cheeses but had no parmesan but it was really good...then on top of the sauce I added more mozzeralla.Will be making this again...A keeper"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jadedgurl"
+},
+"reviewBody": "These were really good! The only thing I did differently was use my own leftover sauce, and add a couple of slices of Provolone on top with the mozzarella. No leftovers!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer Ryan Frye"
+},
+"reviewBody": "Cheesy goodness. I sprinkled with fresh basil when out of the oven. Perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brad Bond"
+},
+"reviewBody": "Excellant dish!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dina"
+},
+"reviewBody": "Very quick and easy. I'd like to know the easiest technique to fill the shells if anyone has an opinion. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mistyboring"
+},
+"reviewBody": "My children that never eat anything, loved this!!!! Asking me too fix it once a week, best thing it doesn't cost that much too fix!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "msolomon1"
+},
+"reviewBody": "This is a great base recipe, you can add anything you like to the filling per your taste. If your worried about the egg, leave it out it will be fine. A easy trick to filling this pasta take a plastic storage freezer bag and put the filling inside, then snip the tip off and use like you would a pastry bag. You can toss it when your done and almost everyone has these on hand. Very simple recipe thank you for it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Chocolate"
+},
+"reviewBody": "It was very delicious, but there was too much parsley. It would be better with out the parsley."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "MOLLE888"
+},
+"reviewBody": "Very good! I left out the parsely and added fresh basil to the cheese mixture. I only boiled the noodles for 6 minutes so that they would stand up to being stuffed. They were perfectly cooked by the end of baking. I didn't have enough mixture to stuff all of the pasta, though. I had 4 tubes left over. I didn't use whole milk ricotta or mozz... I used part skim to save a few calories. Finally, 3 and a half 32-ounce jars of pasta sauce is entirely too much! I used 2 26-ounce jars of pasta sauce and it was still too much... and I like my pasta saucey! All in all this was a nice change from lasagna or spaghetti. I added ground beef and zucchini to the sauce to make it a little more hearty. Thanks for posting!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "f.crystal88"
+},
+"reviewBody": "Excellent and easy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "katniels"
+},
+"reviewBody": "loved it! Simple and delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer Dailey Hager"
+},
+"reviewBody": "Quick easy and everyone in the family love it. My kids don't care for pasta to much, however, with all the cheese and sauce, it was a winner."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nicole & Ray"
+},
+"reviewBody": "Followed exact recipe! Excellent! Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "teachermomof2"
+},
+"reviewBody": "I found that the cheeses didn't bind well together, so I added 2 eggs to the mix. I also used homemade spaghetti sauce. It was the best manicotti I've ever made."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Natalie Colagreco"
+},
+"reviewBody": "really good and really easy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lil'MadSavy"
+},
+"reviewBody": "This is really excellent. I added basil to the cheese mixture and I omit the egg. I also only boil the shell for 5mins. This is a super easy recipe and kid approved."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Schneider"
+},
+"reviewBody": "Waaaaay too much sauce. Very good but I suggest cutting the amount back."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "HrCreuzi"
+},
+"reviewBody": "This was pretty good. Very heavy on the cheese. We'd make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "chvonne"
+},
+"reviewBody": "ummm yummy!This is a fast and easy recipe that tastes great.I will leave out the salt next time and add chopped spinach to the cheese mixture.Maybe even try it with cheese and the time after that.Very solid recipe, thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jill and Scott"
+},
+"reviewBody": "Great recipe!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "icare"
+},
+"reviewBody": "I made it for a fund-raiser dinner and it got great reviews! I really appreciated the comment someone added about stuffing them before they were cooked. I used a one of my frosting decorating bags and it was easy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Peachcake"
+},
+"reviewBody": "Perfect! Loved this one."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Coletto1"
+},
+"reviewBody": "I made this and it was very good. I took someone else's advice and used a sandwich bag to fill the manicotti noodles by cutting a corner and squeezing it into the noodles. Just be sure to use a good quality sandwich bag, otherwise it doesn't work too well. I did find that I had more filling left over than I had manicotti noodles, so I would say to boil a few more noodles than the recipie calls for."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cherry Blossom"
+},
+"reviewBody": "Excellent! I used my homemade sauce instead of the jar. We loved it! I was pretty simple to make as well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "YAKIMICKI"
+},
+"reviewBody": "I've been making this same recipe for about 12 years now and haven't really found anything I like better. The simplicity is a key factor, but the flavor is spot-on as well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "James Jackman"
+},
+"reviewBody": "Loved it. Was out standing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kimberley Reed"
+},
+"reviewBody": "Delicious! The only thing I added was to the red sauce: 1 teaspoon of sugar and red pepper flakes. This recipe was easy to make and my husband and I loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "karataronno"
+},
+"reviewBody": "The only thing I changed was to use my home made pasta sauce instead of one out of a jar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ALLwayz_hungry"
+},
+"reviewBody": "Great tasting, and an easy recipe!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Becky"
+},
+"reviewBody": "This is the best recipe I have ever gotten from allrecipes. I loved it and my family has told me to make part of our regular menu. I have made it several times since. The recipe is perfect the way it is so you dont need to make any changes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I just made this today and it was very easy to make and I think it came out great and next time I make it, I would add some stuff to it, as others have done. I also agree that there is No need to add the egg."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "KENDRA_07"
+},
+"reviewBody": "This was an average recipe. Nothing bad, but nothing spectacular. It seemed like it was missing something. I probably won't make it again, and I'll keep looking for another manicotti recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I liked this recipe, but I think I will just buy the pre-made product in the store instead. It tastes the same but is not as much work."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KRST"
+},
+"reviewBody": "Wonderful!\r\nI made this with Jumbo Shells instead of manicotti &amp; added a little garlic to the mixture (but only 'cause we are garlic lovers). Fantastic &amp; easy recipe, thanks! \r\nOh, I agree with the other reviewer... no need to add an egg -- It is creamy &amp; delicious as is!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alisha Winters"
+},
+"reviewBody": "Sean hated the Cilantro, Alisha loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LEAHROSITA"
+},
+"reviewBody": "Yummmm. I added fresh garlic, spinach, oregano and basil to the cheese mixture and used cottage cheese instead of ricotta. It was the best manicotti I've ever had."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ATOMICLUSH"
+},
+"reviewBody": "Wow, this manicotti is super! I did not boil the manicotti because it breaks too easily. Filling them while they are raw is fine...just make sure the manicotti \"rests\" in the sauce for at least a few hours before cooking so it absorbs some of the moisture from the sauce. I followed ingredients almost exactly, except I added a large can of crushed tomatoes in addition to the spaghetti sauce and I added a teaspoon of garlic salt and a dash of italian seasoning to the cheese mixture. Adding a can of crushed tomatoes gives it more of a homemade taste and more moisture because Prego / Ragu tends to tast a little processed. Adding the garlic salt and italian seasoning gave the cheese more flavor. Anyway, it came out great! Very creamy and flavorful. I also made sure to use good quality fresh grated Parmesan...none of that green can stuff! Definitely a keeper! P.S. I would NOT recommend adding an egg to the mixture...unless you want ricotta cheese that has scrambled egg consistancy! This mixture stays together fine without it, so don't add it!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I fixed this recipe and my whole family loved it. It is now the Sunday dinner."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "srussell"
+},
+"reviewBody": "I added a tbsp of basil to it. This is a basil household so it was great"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ICEPIRATE"
+},
+"reviewBody": "I am a beginner cook and this recipe was both easy to follow and quite tasty. I read the other reviews and can't wait to make it again using some of the suggested add-ins such as crushed garlic, onion salt, and an egg."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chrissy DeCosmo Fessler"
+},
+"reviewBody": "My hubby volunteered me to make manicotti for the potluck lunch at his job during the holidays. He assumed because I am part Italian I knew how to make it even though in the 13 years we've been together never once had I made it for him. Thank the lord for this recipe. It was easy to follow although stuffing the shells can be very tricky! LOL!! Everyone at my hubby's work raved about these and I have passed the recipe on! Thanx so much for saving me! LOL!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "NTHUZASM"
+},
+"reviewBody": "I made half a batch and added two crushed cloves of garlic and onion salt instead of regular salt. Garnished with more parmesan and parsley, my picky husband says \"very good\". (and I used one jar of Prego sauce!)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "LINDA MCLEAN"
+},
+"reviewBody": "With the additions of an egg, garlic and onion powders, the filling was very tastey. Made this with homemade crepes for a special dinner for my daughter and she was thrilled. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "To take the bland out forget the egg and add garlic cloves that have been oven roasted (makes a big difference) crushed and blended well with cheese mixture. Also replace the parsley with double the amount of fresh spinish and place slices of Itialian sausage around the pasta than cover with sauce and bake as instructed."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This is VERY bland. I would not make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "this is great but I found that addind an egg makes it even better!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "you have the easyest yet for all age's.\r\nit was very easy to read and understand.\r\nit is fast can could also be a last min. dish \r\nfor those pepole you was not look for."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/15407/manicotti-with-cheese/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/231/world-cuisine/european/",
+"name": "European"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/723/world-cuisine/european/italian/",
+"name": "Italian"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/15407/manicotti-with-cheese/",
+"name": "Manicotti with Cheese"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,210 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Air Fryer French Toast"
+,"datePublished": "2021-01-22T23:55:06.000-05:00"
+,"dateModified": "2021-01-22T23:55:06.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Yoly"
+}
+]
+,"description": "French toast can be made quickly and easily in the air fryer. Change up the flavors by using different milks or extracts."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/M0Pt9LnSlTXF-l1V8iW9El0WukI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8970663-931bdc4b3778479c89d77a6279a50b7b.jpg",
+"height": 1943,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Air Fryer French Toast"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.2",
+"ratingCount": "9"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "145 kcal"
+,"carbohydrateContent": "15 g"
+,"cholesterolContent": "102 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "6 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "234 mg"
+,"sugarContent": "3 g"
+,"fatContent": "7 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"2 large eggs",
+"0.33333334326744 cup milk",
+"1 tablespoon salted butter, melted",
+"1 teaspoon vanilla extract",
+"1 teaspoon ground cinnamon",
+"4 slices day-old bread",
+"cooking spray",
+"1 teaspoon confectioners' sugar, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Mix eggs, milk, butter, vanilla extract, and cinnamon together in a bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Line an air fryer basket with parchment paper and spray with nonstick cooking spray. Dip each slice of bread into the milk mixture and place in the basket. Make sure they are not touching; work in batches if necessary."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the air fryer to 370 degrees F (190 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Add basket and air fry French toast for 4 to 6 minutes; flip and cook for 2 to 3 minutes more. Sprinkle with confectioners&#39; sugar."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT15M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Yum! I think I prefer doing French toast the traditional way, but this was a nice change and means I don’t have to slave over a pan to watch it cook. Will make again, though won’t cook for quite as long on the first side (got a bit crispy in some places)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "We absolutely loved this recipe. I’m a newbie to cooking and it was super easy to follow. I added a tbsp of sugar as well. I had made bacon in the air fryer right before so I cooked the French toast in the bacon grease and it was sooo good. I highly recommend this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Was all good until the parchment paper caught on fire in the air fryer... Took the parchment paper out and cooked the French toast without it and it tasted awesome"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Devin Householder"
+},
+"reviewBody": "Good base recipe. Can tweak it as desired."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Domo"
+},
+"reviewBody": "Overall it was a good recipe and a nice twist on French toast. It has a nice crisp to the outside but the inside was a little mushy for my taste. I did leave it in for a couple minutes longer and that helped. Don't skip the parchment paper because this is what helps give it the crispy outside."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cathy Talley"
+},
+"reviewBody": "This recipe was absolutely delicious! It must in your mouth. Will make this often."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/283136/air-fryer-french-toast/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/78/breakfast-and-brunch/",
+"name": "Breakfast and Brunch"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/149/breakfast-and-brunch/french-toast/",
+"name": "French Toast Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/283136/air-fryer-french-toast/",
+"name": "Air Fryer French Toast"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

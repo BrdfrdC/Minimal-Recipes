@@ -1,0 +1,410 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "French Toast Pancakes"
+,"datePublished": "2020-06-19T00:00:37.000-04:00"
+,"dateModified": "2023-03-14T11:43:31.398-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "JinxieKC"
+,"url": "https://www.allrecipes.com/cook/3143740"
+}
+]
+,"description": "French toast pancakes are made with a cinnamon-nutmeg pancake batter to create a perfect fusion of breakfast favorites for a family-pleasing brunch."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/iGlGOtLU3IlkpfiLEa0pAY4PhbU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/239236french-toast-pancakeslutzflcat4x3-b6cbab7294bc4c28aacc2b3141f548b0.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "French Toast Pancakes"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.3",
+"ratingCount": "24"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "115 kcal"
+,"carbohydrateContent": "14 g"
+,"cholesterolContent": "23 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "208 mg"
+,"sugarContent": "3 g"
+,"fatContent": "5 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+, "recipeCategory": ["Breakfast"]
+,"recipeCuisine": ["American"]
+,"recipeIngredient": [
+"2 teaspoons vegetable oil",
+"1 cup all-purpose flour",
+"1 tablespoon white sugar",
+"1 teaspoon baking powder",
+"0.5 teaspoon baking soda",
+"0.25 teaspoon salt",
+"1 pinch ground nutmeg, or to taste",
+"1 pinch ground cinnamon, or to taste",
+"1 cup milk",
+"1 egg",
+"2 tablespoons vegetable oil",
+"1 dash vanilla extract, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat 2 teaspoons oil in a griddle or skillet over medium-high heat."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk flour, sugar, baking powder, baking soda, salt, nutmeg, and cinnamon together in a bowl; make a well in the center. Beat milk, egg, 2 tablespoons oil, and vanilla extract together in a separate bowl; pour into the well in the flour mixture and stir until batter is smooth."
+} ,{
+"@type": "HowToStep"
+,"text": "Drop about 1/4 cup batter per pancake onto the griddle and cook until bubbles form and the edges are dry, 3 to 4 minutes. Flip and cook until browned on the other side, 2 to 3 minutes. Repeat with remaining batter."
+} ]
+,"recipeYield": ["9"]
+,"totalTime": "PT25M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MaryLou"
+},
+"reviewBody": "This pancake recipe was really good! I definitely got the French toast vibe. After reading reviews I used 1tsp cinnamon, 1/2 tsp nutmeg, and 1 tsp vanilla. Long ago I found what I considered my favorite pancake recipe and this is definitely up there with it. I did have to use gluten free flour due to an allergy. These are worth trying and we'll be making them again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lindsay"
+},
+"reviewBody": "Ok, So I loved these. However, they did not taste anything like french toast except the syrup. I followed directions to get a sense of the recipe even though many reviewers said to up vanilla and spices. The pancakes were so light and fluffy with a great taste. Will now use this as my go to pancake recipe, but not expect a french toast experience."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lela"
+},
+"reviewBody": "My family liked the pancakes. I used a 1/4 cup to dip the batter. I ended up with 9 small pancakes. The size was just right for my grandkids. I cooked the pancakes on medium low. Next time, I will add 1-2 teaspoons of vanilla, 1 teaspoon of cinnamon and 1/2 teaspoon of nutmeg because we love more intense flavors. The pancakes were great; however, the only drawback is my family wants me to make French Toast now."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Thelovelycleo"
+},
+"reviewBody": "These French toast pancakes have a good texture and are moist. My kid (9 years old) said they were the best she's had in a long time. The spices you need more then just a pinch for the flavor to come through and about 2 tsp to a tblsp of vanilla. The sweetness was good with just the tablespoon of sugar they taste like pancakes and not cake. Which is great if you like to add syrup or whipped cream. I'll hold onto this recipe and make it again for my family. Maybe next time taste it using different spices like cardamom."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "lutzflcat"
+},
+"reviewBody": "These pancakes were OK, but I felt they were lacking in flavor and could find no similarity at all to french toast. In looking at the reviews, it appears as if many tweaked the recipe, and that might account for the submitter’s comment that they would be darker in color. The color on mine was exactly the same as any other pancake I’ve ever made. Doubtful I’ll make again, but if I did, I definitely would add more than a “pinch” of nutmeg and cinnamon and a “dash” of vanilla, as they were simply lost. I followed this recipe to the letter and ended up with 7 pancakes, so keep that in mind when you see the number of servings listed. However, I will say that the texture was spot on."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Josh"
+},
+"reviewBody": "I thought that this recipe was too long but very delicious. I had all ingredients for it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer "
+},
+"reviewBody": "I added more sugar, cinnamon, and vanilla extract. I didn't measure them out just what I thought would be good. They were darker but the flavor was wonderful."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Reese"
+},
+"reviewBody": "Great pancakes. Really good flavor with the added spices. Nothing like French toast except for the flavor. Still searching for the perfect pancake recipe. This one is very close. Texture is great but not perfect"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Courtney Malcolm"
+},
+"reviewBody": "These were delicious, I added an extra 1/2 tablespoon of castor sugar, we had no white, and a tablespoon of brown sugar as well as extra nutmeg and cinnamon (didn't measure just added till it looked good) served with whipped cream and maple syrup it was awesome! Definitely will be making this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Emily Archer"
+},
+"reviewBody": "i have made several times!!!! just follow the recipe as is!!! its very good! i have put 2 maybe 3 (i love vanilla!!!) teaspoons of vanilla!! FORGET THE DASH!!! FOREGT THE PINCH!!! do either 1 teaspoon of nutmeg and 1 teaspoon of cinnamon. OR you can do 1/2 teasp of cinn and 1/2 teasp of nutmeg. depending on your taste of those spices! thee you go!!!! and you can ALSO put this batter in the waffle iron!!!!!! whoooot hooot!!! awsome!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Domenica Hager"
+},
+"reviewBody": "I've been looking for this for YEARS, when I was a child a pancake house had these and never could find it again. I tweaked a little I used 1 tablespoon of baking soda for fluffier pancakes, doubled cinnamon and added a few splashes of vanilla extract. when I wanted them thinner again I added 2 tablespoons of cold water and cooked on a medium-low heat so they didn't look burnt."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "LaurenAnne"
+},
+"reviewBody": "I love French toast and I love pancakes! I was very excited when I found this recipe. Very good! Something could be better about it but I'm not quite sure what it is yet. Will try tweaking it just a little bit next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stacy McGinnis"
+},
+"reviewBody": "This is my fav pancake recipe so far. The test is Devine and texture is on point. If you remove the \"French Toast\" spices you have a nice pancake. It's now the only recipe I follow. With or without the spices. Two thumbs up!! ????????"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Camilla"
+},
+"reviewBody": "My family loves this recipe! Has a true French Toast flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Vanessa Huggins"
+},
+"reviewBody": "It was super simple and taste great!!! Must make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jokkerswild"
+},
+"reviewBody": "I tweaked the recipe a little and thE whOle famity lover it. My wife is gluten free, so I used gluten free flour as well as utilizing more of it then asked. I also used a bit more cinnamon and nutmeg. It was a bit to watery at the start and the added flour thickened it up nice. The flavor was great. Like others stated, they came out a little flat. But hit the spot nicely. Well done."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "basg101"
+},
+"reviewBody": "This didn't do it for us. The spices were a cute twist, but the very low sugar content made the pancaked almost savory. They also came out very flat, although the texture was nice. Not bad, but not particularly good either."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nadine"
+},
+"reviewBody": "This is a great recipe. I double the recipe so that I could have some to pop into a toaster. Only change was use 2/4 cup of 35% milk and 1 1/14 cup 2% milk as I did not have enough 2% in the house. Worked great will be making again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "the4taals"
+},
+"reviewBody": "I doubled the recipe which yielded 14 pancakes with my #50 scoop. I omitted the salt and used melted butter for the oil in the batter, I used a non stick griddle so I just lightly sprayed with Pam. My kids enjoyed these but I found the aftertaste a bit odd, can\\t put my finger on what it is."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jillian"
+},
+"reviewBody": "Nice little recipe - and since I'm a fan of both pancakes and french toast, I had to give this a try. And, while I did up the amount of vanilla, cinnamon, and nutmeg overall these turned out really good. This is definitely a nice twist on two classic breakfast dishes. Great topped with butter and real maple syrup and served with some OJ and fresh fruit."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "lovestohost"
+},
+"reviewBody": "I have to admit, I was a bit skeptical as I read this recipe as to how it would taste like french toast with a \"dash' of cinnamon and vanilla. While it's a bit of a stretch, there were definitely bites reminiscent of french toast (though, I did add a health \"dash\" of both cinnamon and vanilla and skipped the nutmeg). They had a nice cinnamon-y taste. This made 2 large pancakes and 2 medium sized pancakes. For my second pancake, I added some chocolate chips as I'm a big cinnamon/chocolate fan. That was nice, too. THANKS for the recipe!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/239236/french-toast-pancakes/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/78/breakfast-and-brunch/",
+"name": "Breakfast and Brunch"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/151/breakfast-and-brunch/pancakes/",
+"name": "Pancake Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/239236/french-toast-pancakes/",
+"name": "French Toast Pancakes"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

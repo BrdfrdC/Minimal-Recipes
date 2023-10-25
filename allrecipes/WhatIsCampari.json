@@ -1,0 +1,89 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["NewsArticle"]
+,"headline": "What Is Campari?"
+,"datePublished": "2022-11-16T16:15:54.000-05:00"
+,"dateModified": "2022-11-16T16:15:54.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Maddy Sweitzer-Lammé"
+,"url": "https://www.allrecipes.com/author/maddy-sweitzer-lamme/"
+}
+]
+,"description": "Campari is a bright red, citrus-forward liqueur that&#39;s considered one of Italy&#39;s most popular aperitifs. It&#39;s also a staple ingredient in classic cocktails such as the negroni."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/a4agOaJogEP3evbL3ZCci-gZPS0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/negroni-cocktail-photo-by-getty-images-469e2a1481214953a8ed755064e47d0d.jpg",
+"height": 1350,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"articleSection": "Kitchen Tips"
+,"keywords": ["How To","Cocktail Hour","Cocktail Recipes","All About Ingredients","Drinks"]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/article/what-is-campari/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/kitchen-tips/how-to/",
+"name": "How To"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/kitchen-tips/how-to/cocktail-hour/",
+"name": "Cocktail Hour"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/article/what-is-campari/",
+"name": "What Is Campari?"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

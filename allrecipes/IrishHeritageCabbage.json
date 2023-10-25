@@ -1,0 +1,500 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Irish Heritage Cabbage"
+,"datePublished": "2019-04-03T23:31:15.000-04:00"
+,"dateModified": "2023-01-27T08:22:59.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "JOELSGIRL"
+,"url": "https://www.allrecipes.com/cook/516203"
+}
+]
+,"description": "This recipe for Irish cabbage with bacon, flavored with melted butter, nutmeg, and red wine vinegar makes a deliciously hearty winter side dish."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/UxumktV7EBiPn6RRwzhwdncu88E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/804782-3a0c56bd7c4746278d8f9418244c690c.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Irish Heritage Cabbage"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.3",
+"ratingCount": "31"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "139 kcal"
+,"carbohydrateContent": "14 g"
+,"cholesterolContent": "20 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "5 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "672 mg"
+,"sugarContent": "6 g"
+,"fatContent": "8 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"1 medium head cabbage, cored and cut into wedges",
+"2 slices Irish bacon, diced",
+"2 tablespoons melted butter",
+"2 teaspoons ground nutmeg",
+"2 cups water",
+"salt and pepper to taste",
+"0.5 cup red wine vinegar" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place cabbage into a large pot. Add water and bring to a boil. Simmer over low heat until tender, about 10 to 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 8 minutes. Drain bacon slices on paper towels, crumble and set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Set an oven rack about 6 inches from the heat source and preheat the oven&#39;s broiler."
+} ,{
+"@type": "HowToStep"
+,"text": "Drain cabbage and transfer to a baking dish; drizzle with melted butter and sprinkle with crumbled bacon and nutmeg."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook under the preheated broiler until the top layer is lightly browned, about 5 minutes. Serve with salt, pepper, and vinegar as desired."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT25M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I must have done something wrong. It tasted like turpentine. Had to throw it away😢"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "WW"
+},
+"reviewBody": "Really good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "SouthernCook"
+},
+"reviewBody": "Made it according to the recipe and used fresh ground nutmeg (do not use too much, though, as you want nutmeg to be barely noticeable in the background); I used applewood bacon and was out of wine vinegar so omitted the vinegar. It was a new, and welcome, taste for us. We will be cooking this often and experimenting with little tweaks to the recipe (which seems almost perfect as it is). By the way, Irish bacon is very close to Canadian bacon, very lean."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kristianne Schultz"
+},
+"reviewBody": "Excellent accompaniment to our corned beef!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Margaret"
+},
+"reviewBody": "Added vinegar before eating."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Khimmy"
+},
+"reviewBody": "Boiled cabbage can be boring, but this dish, with the broiled top at the end, was tasty and perfect as a side dish. I made it low fat by omitting the butter and bacon, and just added some extra virgin olive oil to the cabbage after draining it. I also eyeballed the nutmeg, just a few sprinkles here and there and then stirring it in, with sea salt and pepper. I served it with corned beef and potato champs for a St. Patty’s Day dinner. But my son didn’t like the nutmeg flavor, though the rest of my family loved it. So next time I think I’ll just leave his side unnutmegged."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KSmith"
+},
+"reviewBody": "I made this but left out the nutmeg. It was really good. I will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Debi"
+},
+"reviewBody": "very easy to make and it turned out delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Very tasty and crunchy. I boiled the cabage with vegetable stock to give it extra flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Julie Sailor"
+},
+"reviewBody": "I liked this! I like that the cabbage is just tender, not boiled to death, liked the bacon flavor. I added about 5 strips of American bacon, in baking dish I salt and peppered it and tossed about 1 Tbsp. of sugar on it to caramelize the top. The result was really good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Yodes"
+},
+"reviewBody": "This was delicious! I shared this recipe with a friend in my cooking club. She made it and the flavors were blended so well. There was only one serving left and the hostess kept it for her husband. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JarrodL"
+},
+"reviewBody": "I've been searching for a way to deconstruct Corn Beef and Cabbage for this St. Paddy's Day. We taste tested this recipe tonight and the family loves it. I tried it both with and without the vinegar. The vinegar stays by unanimous consensus. I liked it so much I created an account on here so I could write my first review! Thanks ChristinaBunny for the idea of adding garlic to the butter. I did that just before melting and I really like the results. Thank you Joelsgirl!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Holiday Baker"
+},
+"reviewBody": "This was excellent! I was making the recipe from the UK Allrecipes site, and noticed it was on here to. Please note: I did change it up, to taste, a bit. I made 1/2 recipe, as I only needed 2 servings. I cooked some Smithfield thick cut bacon, in the microwave, in a covered bacon cooker. That was very easy to do. I halved the recipe but kept the water and bacon the same. I left out the nutmeg because I do not like it. I didn't notice the vinegar, in the recipe, but it was good without it. I liked cutting the cabbage into wedges instead of shredding it, like most other recipes with cabbage. I boiled the cabbage at about 8 and then simmered it at 3 for the 15 minutes. I did not see a reason to broil the cabbage and possibly burn it at the end. Sorry, for all of the changes, but it was really good anyway."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rae"
+},
+"reviewBody": "I love cabbage and this recipe was pretty good. I don't think I used the full 2 teaspoons of nutmeg, I just lightly grated nutmeg over the cabbage. Was a nice addition."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sabrina"
+},
+"reviewBody": "Great way to add some flavor to cabbage!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Nancy Miller Price"
+},
+"reviewBody": "really did not care for this. Too much nutmeg. I might try again with less nutmeg, more bacon and maybe some onion as I do like cabbage and always looking for ways to prepare it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "auntiekake"
+},
+"reviewBody": "This was a big hit at our St. Patrick's day dinner this year. Most people said they didn't really like cabbage but really enjoyed this."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "DG"
+},
+"reviewBody": "While very easy to make, I just wasn't a fan of the flavor of this. I think it was the nutmeg. I will try the basic recipe again, but change the seasoning."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "India520"
+},
+"reviewBody": "This recipe was really tasty and easy to put together. I love that I'm able to enjoy it as I low-carb diet. I add extra bacon (because I love the stuff) and omit the nutmeg (strictly personal preference) and it was still yummy. I'll be making this on St. Patty's day with potatoes and corned beef. Thank you for a great tasting and easy recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah Webster"
+},
+"reviewBody": "I found it greasy.\nI would recommend reducing the butter used."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ERock"
+},
+"reviewBody": "This was a very good recipe - something a little different than what you typically see. Worth making again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ChristinaBunny"
+},
+"reviewBody": "The first time I ever liked Cabbage! I made this easy recipie for St. Pattys day with a couple small modifications: I added an eighth of a teaspoon of garlic to the melted butter and I used diced Turkey Ham instead of bacon. It was delicious! Everyone enjoyed it and I liked it so much that I am saving the recipie to incorporate into our regular diet and to modify for future dishes (going to see if the same recipie works well with brussle sprouts...could be fun!)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Ron"
+},
+"reviewBody": "Had at least one cabbage lover but even they were not that impressed. Even so, it was certainly better than standard boiled cabbage."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TINAMC28"
+},
+"reviewBody": "A great \"mild\" cabbage dish, with just the right amount of zing from the red wine vinegar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KATHRYNF1"
+},
+"reviewBody": "Easy and great tasting. I love cabbage and this was terrific! I made it as a side dish for an Irish-themed dinner. Used regular bacon, a little less nutmeg and a little more butter."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Aspiring Chef Rita"
+},
+"reviewBody": "I can't rate this one. I would never want to try this again and my guy thought it was excellent! We are both lovers of cabbage and we liked the ingredients in it - it rarely happens that we are so divided but it happened with this dish. Thanks submitter!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Deirdre Lawlor"
+},
+"reviewBody": "alright! this was VERY tasty! I am Irish (born there) so am missing cabbage and had to try this on today St. Patricks Day ;) I altered the recipe some by just shredding the cabbage and boiling it. I fried oh maybe 6 slices of American bacon and totally trimmed the fat, added some slivers of yellow onion fried crisply and tossed these both on the drained cabbage. I added salt and pepper (NO vinegar) and some melted IRISH butter (Kerry gold) and then broiled as recommended. It was absolutely delicious! I served with roast chciken and yellow rice! Definitely will make agaiN!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Karen Van Lawick- Stenicka"
+},
+"reviewBody": "I've struggled in finding 'good' cabbage recipies. This was REALLY great - was not too overdone, and the presentation is nice with the wedges and the nutmeg sprinkled on top. (I've always put nutmeg on my cabbage) I served with Herb-Ox Red-Skinned Garlic Mashed Potatoes and Melody's Glazed Corned Beef - it was a hit with the family!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/54728/irish-heritage-cabbage/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+"name": "Side Dish"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/225/side-dish/vegetables/",
+"name": "Vegetables"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/54728/irish-heritage-cabbage/",
+"name": "Irish Heritage Cabbage"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

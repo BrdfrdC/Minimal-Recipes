@@ -1,0 +1,153 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Ground Beef and Potato Tostadas"
+,"datePublished": "2020-07-19T22:17:41.000-04:00"
+,"dateModified": "2020-07-19T22:17:41.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Soup Loving Nicole"
+,"url": "https://www.allrecipes.com/cook/souplovingnicole"
+}
+]
+,"description": "Tostadas are a great quick meal for the whole family. Adding potato to ground beef makes the tostadas more filling."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/UUNKItrJk5SJXgmyILsINZBRXhQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8347142-d81c0b3e2b0a418c8b4adae6f927545c.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Ground Beef and Potato Tostadas"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "2"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "334 kcal"
+,"carbohydrateContent": "18 g"
+,"cholesterolContent": "69 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "19 g"
+,"saturatedFatContent": "9 g"
+,"sodiumContent": "829 mg"
+,"sugarContent": "2 g"
+,"fatContent": "20 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 pound ground beef",
+"1 small russet potato, peeled and diced",
+"1 (1.25 ounce) package taco seasoning mix",
+"1.5 cups shredded lettuce",
+"1 (3.25 ounce) can sliced black olives, drained",
+"1 cup shredded Mexican cheese blend",
+"6 crispy tostada shells" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Crumble beef in a large skillet and cook over medium-high heat until the fat has started to render, about 2 minutes. Stir in potatoes and cook for 10 minutes. Stir in taco seasoning and cook for 2 minutes more."
+} ,{
+"@type": "HowToStep"
+,"text": "Divide beef mixture, lettuce, olives, and Mexican cheese blend among the tostada shells."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT30M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ryan"
+},
+"reviewBody": "Family loved it. Topped with salsa, sour cream, white onions, cilantro, hot sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Barbara J"
+},
+"reviewBody": "Easy to make... excellent. Everyone can top their taco to their own taste."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/280975/ground-beef-and-potato-tostadas/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/237/world-cuisine/latin-american/",
+"name": "Latin American"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/728/world-cuisine/latin-american/mexican/",
+"name": "Mexican"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/280975/ground-beef-and-potato-tostadas/",
+"name": "Ground Beef and Potato Tostadas"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

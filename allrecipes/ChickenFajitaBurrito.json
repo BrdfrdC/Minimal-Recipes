@@ -1,0 +1,134 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Chicken Fajita Burrito"
+,"datePublished": "2023-02-12T13:00:00.000-05:00"
+,"dateModified": "2023-02-12T13:00:00.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "thedailygourmet"
+,"url": "https://www.allrecipes.com/cook/thedailygourmet"
+}
+]
+,"description": "This burrito adds zesty fajita-seasoned chicken and peppers to your favorite burrito fillings, bringing the best of two dishes together."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/CPJoUnS5ERZF94BH6YsmjTZHr3M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8538304_Chicken-Fajita-Burrito_thedailygourmet_4x3-d381424d6949448596ef3dc66ce5712b.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Chicken Fajita Burrito"
+,"cookTime": "PT25M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "792 kcal"
+,"carbohydrateContent": "95 g"
+,"cholesterolContent": "72 mg"
+,"fiberContent": "9 g"
+,"proteinContent": "37 g"
+,"saturatedFatContent": "10 g"
+,"sodiumContent": "1318 mg"
+,"fatContent": "29 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"10 ounces skinless, boneless chicken breasts, cut into thin strips",
+"0.5 onion, cut into strips",
+"5 ounces multi-colored bell pepper strips",
+"2 tablespoons vegetable oil",
+"0.5 lime, juiced",
+"2 tablespoons fajita seasoning",
+"4 (12 inch) flour tortillas",
+"1 cup refried beans, warmed",
+"0.67 cup shredded Cheddar cheese",
+"1.5 cups cooked Mexican rice",
+"0.25 cup sour cream",
+"0.33 cup guacamole" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place chicken, onion, bell pepper, oil, lime juice, and fajita seasoning in a resealable plastic bag. Seal the bag and squeeze to ensure all ingredients are combined and well-coated; place in the refrigerator to marinate for 2 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 400 degrees F (200 degrees C). Line a sheet pan with foil. Spread fajita mixture onto sheet pan in a single layer."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until chicken juices run clear, about 25 minutes. An instant-read thermometer inserted into the chicken strips should read 165 degrees F (74 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Wrap tortillas in a damp paper towel, and warm in the microwave until soft and pliable, about 30 seconds. To assemble burritos, spread 1/4 of each of the refried beans, cheese, rice, fajita mixture, sour cream, and guacamole in a line across the middle of each tortilla."
+} ,{
+"@type": "HowToStep"
+,"text": "Fold opposing sides of the tortilla in, overlapping the filling. Roll the bottom edge up tightly around the filling, then roll the burrito away from you, keeping the sides folded in."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT160M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8538304/chicken-fajita-burrito/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17504/world-cuisine/latin-american/mexican/main-dishes/",
+"name": "Main Dishes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1216/world-cuisine/latin-american/mexican/main-dishes/burritos/",
+"name": "Burrito Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8538304/chicken-fajita-burrito/",
+"name": "Chicken Fajita Burrito"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

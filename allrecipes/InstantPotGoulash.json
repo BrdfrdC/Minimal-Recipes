@@ -1,0 +1,759 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Instant Pot Goulash"
+,"datePublished": "2019-04-04T00:12:04.000-04:00"
+,"dateModified": "2023-02-15T11:39:18.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Brook"
+,"url": "https://www.allrecipes.com/cook/brooknadine"
+}
+]
+,"description": "Use your Instant Pot to make this fuss-free goulash including noodles, ground beef, canned tomatoes, soy sauce, and mushrooms."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/EmYGLT5h8PwETRTWHQQmGRg2wOo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5789077-10f24009e1f24ad285523cdec5898374.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Instant Pot Goulash"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "61"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "278 kcal"
+,"carbohydrateContent": "27 g"
+,"cholesterolContent": "58 mg"
+,"fiberContent": "5 g"
+,"proteinContent": "20 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "1486 mg"
+,"sugarContent": "11 g"
+,"fatContent": "10 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 pound ground beef",
+"1 pint sliced mushrooms",
+"0.5 onion, chopped",
+"3 cloves garlic",
+"salt and ground black pepper to taste",
+"2 (15 ounce) cans tomato sauce",
+"2 (15 ounce) cans diced tomatoes",
+"2.5 cups water",
+"2 cups noodles",
+"3 tablespoons soy sauce",
+"2 tablespoons Italian seasoning",
+"3 bay leaves" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Turn on a multi-functional pressure cooker (such as Instant Pot) and select Saute function. Add beef, mushrooms, onion, garlic, salt, and pepper. Cook and stir until browned and crumbly, 5 to 7 minutes. Drain and discard fat."
+} ,{
+"@type": "HowToStep"
+,"text": "Add tomato sauce, diced tomatoes, water, dry noodles, soy sauce, Italian seasoning, and bay leaves. Close and lock the lid. Select high pressure according to manufacturer&#39;s instructions; set timer for 4 minutes. Allow 10 to 15 minutes for pressure to build."
+} ,{
+"@type": "HowToStep"
+,"text": "Release pressure carefully using the quick-release method according to manufacturer&#39;s instructions, about 5 minutes. Unlock and remove the lid. Remove bay leaves before serving."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT40M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mom’s Secret Chef"
+},
+"reviewBody": "Sooo Delicous! Tried it and It was a MASTERPIECE!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lori"
+},
+"reviewBody": "Not fair to review it with all my changes but I used 1 can beef broth in place of water, cut to 1 15 oz can of diced tomatoes and an 8 oz can tomato sauce, eliminated soy sauce, added 1/2 cup shredded cheddar. Ridiculously good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "debatisor"
+},
+"reviewBody": "It’s a quick and easy dump in the pot recipe. Tastes like spaghetti and meatballs."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Barnes Clark"
+},
+"reviewBody": "Loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Family loved it I did tweek it just a little though and I used 2lbs of ground beef, worchestshire sauce unmeasured, crushed tomatoes, Rotel and macaroni noodles I also used my own seasonings of choice rather than just simple black pepper and salt"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Wil"
+},
+"reviewBody": "Sorry, but it was ok. Overwhelming tomato presence for the amount of ground meat. Starting with this recipe I would eliminate the tomato sauce and just use a 28oz can of crushed or whole tomatoes and keep everything else as is. I ended up adding more ground meat and pasta to balance it out. I do like American style goulash even though I grew up in a Czech house where it was made in its true form."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Liks2Cook"
+},
+"reviewBody": "I selected this recipe for the Instant Pot directions BUT...I wanted Hungarian Goulash so I added the appropriate spices as seen in other recipes: Caraway seeds, tons of Hungarian Sweet Paprika (about 1/4 cup...yep, that much!), a few tablespoons of tomato paste (for richness) and the whole onion. I also added Umami to enhance the flavors. I did not drain the meat etc because I wanted the flavors and it was NOT greasy. I used a glass liquid measure cup to measure Broad Egg Noodles and threw in a 3rd cup...I LOVE egg noodles! Brother taster and I HAD to go back for seconds is was so creamy and delicious I even dreamed about it!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Martin Gearns"
+},
+"reviewBody": "I went with turkey chopped meat. But it was still good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Naomi Weisz"
+},
+"reviewBody": "I made this using ground turkey, substituting Worcestershire sauce for soy sauce, and omitting the bay leaves and it was still delicious! We had so many leftovers we couldn't finish them though. Either way, plan to make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Nick W-O"
+},
+"reviewBody": "Substitute Worcestershire for Soy Sauce. Use 2 cans of Ro-Tel (not drained) instead of diced tomatoes. Use 1 pound (1 box) of pasta."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "GACKeller"
+},
+"reviewBody": "This came out delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tony Scales"
+},
+"reviewBody": "I added twice the pasta but it is delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SkittleKittie"
+},
+"reviewBody": "Omitted the onions and subbed Worchester sauce for the soy sauce, and lessened the cooking time a bit. Did an instant release over a natural one. Overall delicious, reminded me of having it as a kid. Cooking for two we had leftovers for a while which is a bonus!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "james"
+},
+"reviewBody": "This was so easy to make and turned out great.. I did not use the mushrooms and added two tsp of Everglades seasoning and red crushed peppers and POW...."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Janice Peiffer"
+},
+"reviewBody": "Very good. Made it and even my picky eater asked me to save the recipe so I could make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "bruce"
+},
+"reviewBody": "recipie was good. i used tomato pieces instead of crushed tomatoes. turned out very good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Phillip Hollon"
+},
+"reviewBody": "I followed the recipe and it was great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Paul Southern"
+},
+"reviewBody": "I thought this goulash came out excellent. I will make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "michelledezz"
+},
+"reviewBody": "Upon reading the reviews, I reduced the liquid to 1 1/2 cups and used beef broth instead of water And that was plenty. I also used Worcestershire sauce instead of soy. Used 1/2 tsp salt &amp; 1 tsp pepper. After 4 minutes, the macaroni was still pretty firm, and all I can taste is canned tomatoes. Sadly, this recipe isn’t any better than most of the goulash recipes I’ve tried."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Blambert"
+},
+"reviewBody": "This was good. I deleted a can of tomatoes and added a can of kidney beans. Very flavorful!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Diana"
+},
+"reviewBody": "made it it was easy and fast. Family loved it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Autumn"
+},
+"reviewBody": "I made this for dinner and it came out so delicious! The only two things I changed were that I omitted mushrooms and used only one and a half cups of water."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Claire Putnam"
+},
+"reviewBody": "My husband was crazy about it and is excited I am cooking more."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "gigi"
+},
+"reviewBody": "Very good and easy goulash. I added a can of diced tomatoes and chili for a little bit of spicy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tim gedler Gedler"
+},
+"reviewBody": "Darn good recipe! Didn't change a thing except added a spoonful of plain yogurt to my bowl before embellishing. Thanks Brook!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "TWD1"
+},
+"reviewBody": "This is very good but it isn't goulash, it's Pasta Bolognese. It's a very good Pasta Bolognese. I may try making it without the pasta and less water as simply Bolognese sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Adam Landon"
+},
+"reviewBody": "I left out the mushrooms because my wife doesn't like them."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Barry Watson"
+},
+"reviewBody": "I just made this for dinner tonight. It was amazing! I loved it! I used 4 cloves of garlic instead of 3 because... garlic.... For the diced tomatoes, I used the Italian flavored cans. For mushrooms, I used baby bellas (portabelllas). Everything else was the same. I LOVED it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ray Hammond"
+},
+"reviewBody": "Made this last night in our instant pot. Added can of green beans and corn, 12oz of gluten-free rigatoni, only 1 can of diced tomatoes and 2C water. Wife likes her pasta soft, so we added more cook time (about 5 min) on the back end to be sure they were done. This was a mistake. The pasta was really mushy and there was no liquid. It still had good flavor and if we make again, will not skimp on liquid or adjust cook time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "judy2304"
+},
+"reviewBody": "I made this tonight for dinner, and my family loved it. I did make some changes, but some were for ingredients I didn't have. Instead of the pint of fresh mushrooms, I used 2 cans of sliced mushrooms. Instead of the 2 1/2 cups of water, I used 1 1/2 cups of beef broth since other reviews suggested the 2 1/2 cups of water in the recipe was too much. I had only 2 8 ounce cans of tomato sauce on hand, so I reconstituted 2 small cans of tomato paste with 1 can of water. I also used Worcestershire sauce instead of soy sauce as other reviewer did since the soy sauce would add too much salt. I did all of the cutting and chopping ahead of time and had everything ready to go into the pot as needed. By doing this, preparing this meal was incredibly fast. The results were very good and the consistency of the goulash was perfect. For 3 of us, this recipe made enough for tonight's meal and one meal to freeze for later. I will definitely be making this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Edna M Heck"
+},
+"reviewBody": "Delicious the best"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda Howe"
+},
+"reviewBody": "Didn't have an instant pot so I made this on the stovetop, I followed directions &amp; it came out great. I've been making this exact recipe for around 5 years now &amp; it pleases everyone who eats it. The only thing I changed was I used 1 can of diced tomatoes with green chilies. This is a great dish like when there were no instant pots, cell phones, smart tv's, just like my Mom made when I was growing up!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brandie Sieffert"
+},
+"reviewBody": "Only thing isn't to cook as long noodles were softer then I like"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jim"
+},
+"reviewBody": "The only changes I made was to use worchester sauce in place of the soy and I reduced the water to 2 C. Absolutely fantastic. Just as I remember from my youth."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "shewatt"
+},
+"reviewBody": "I cut back to can diced tomato's. turned out great"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "LGilroy"
+},
+"reviewBody": "Recommend reducing water by 1/2 cup"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jhb1954"
+},
+"reviewBody": "My very first experience with the Instant Pot... It was like it was 1958 and my Mother cooked this Goulash... (No higher praise can be given) Both taste and consistency was spot on... Better than a trip to Wal Mart..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mike Fry"
+},
+"reviewBody": "Will definitely make again. Left out the mushrooms since the person I shared it with does not like them Used Worcestershire sauce instead of soy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Mark Dufresne"
+},
+"reviewBody": "Doubled all ingredients except Soy and water and sauce. 4 tbls Soy. 1 Cup of water and 1 Cup of tomato juice strained from diced tomatoes. Substituted Green Pepper for the mushroom. Added some Lowry's garlic seasoning and used elbow macaroni with the spines. Used to 2 regular cans of campbell's tomato soup (no water added) and 15oz of hunts tomato sauce. 4mins was the perfect pressure cook time. Came out excellent."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "John Humphrey"
+},
+"reviewBody": "This was very good. Will make it again. Here is where I deviated from the published recipe: used Worchestershire instead of soy sauce, used 12 oz of penne, used 8 oz of chopped mushrooms (a bit more than a pint), 2 cups of water, and because my diced tomatoes were Italian style, used only 1 tbl of Italian seasoning. When finished, it still had more liquid than I wanted, so put it on \"low saute\" for ten minutes. The end result was the consistency I wanted. Next time, I will use only 1.5 cups of water."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Debbie"
+},
+"reviewBody": "Having read some reviews, I left the mushrooms out because my husband and don't care for them. I used worchestershire sauce instead of soy sauce , used less water and less tomato sauce and added more shell pasta. It still came out a little more like soup but this was only my second recipe using the Instant Pot. Yes, I'll try it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "My Hot Southern Mess"
+},
+"reviewBody": "I made this omitting mushrooms (because my family would rather go hungry than eat a mushroom) and subbing Worcestershire sauce for soy sauce (per reviews). Based on some reviews I upped the pasta to a 12oz box. I used gluten free rotini for noodles, I grew up with macaroni in my goulash though. It was a pretty tasty and there weren't too many complaints about dinner from my family. Just a daughter complaining about tomato chunks but she still ate it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anne Uber"
+},
+"reviewBody": "We enjoyed this tonight, but made it with only one can each of tomato sauce and diced tomatoes. It was thick and very tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "MC Chatt"
+},
+"reviewBody": "I left out the mushrooms. I will try it again, but will change up a few things for next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "mtnmike"
+},
+"reviewBody": "I'll make it again but with more pasta added or less water, it was a little thin."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "JGH"
+},
+"reviewBody": "Overall a solid, very quick, fairly healthy, and low calorie meal. If anyone was wondering, this recipe yields about 10 cups. \n\nThere was extra liquid when it first finished cooking, like someone else was saying - and that's despite the extra onions, mushrooms, meat, and noodles I added. I would recommend adding only 1.5-2 cups of water instead of 2.5, adding corn, and using 3-3.5 cups of noodles (shell noodles in particular)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kelley LaRock"
+},
+"reviewBody": "Substituted Worcestershire Sauce for the Soy Sauce and used 8 oz. gluten free 100% corn penne rigate pasta. Served with red hot pepper flakes to taste. DELICIOUS!!! No problem with too much liquid..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Sues"
+},
+"reviewBody": "Flavor is very good, but it had WAY too much liquid and not enough noodles. Would probably make a decent soup."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/264297/instant-pot-goulash/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/183/soups-stews-and-chili/stews/",
+"name": "Stews"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17046/soups-stews-and-chili/stews/goulash/",
+"name": "Goulash Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/264297/instant-pot-goulash/",
+"name": "Instant Pot Goulash"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

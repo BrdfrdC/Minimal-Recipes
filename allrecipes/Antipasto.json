@@ -1,0 +1,404 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Antipasto"
+,"datePublished": "2000-10-27T09:56:29.000-04:00"
+,"dateModified": "2022-07-14T17:08:30.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Karen"
+,"url": "https://www.allrecipes.com/cook/24324909"
+}
+]
+,"description": "This recipe makes a huge amount. I can it and give it away as Christmas gifts. We usually make this as a group project to cut down on prep time and cost. The ingredient amounts may be altered proportionally as needed."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/CVHY0TiFLPLamMOgG19nxWA0E8I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/865800-4a1d6be95b1848d997016df50959d2c3.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Antipasto"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "26"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "101 kcal"
+,"carbohydrateContent": "5 g"
+,"cholesterolContent": "1 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "2 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "167 mg"
+,"sugarContent": "2 g"
+,"fatContent": "9 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT60M"
+,"recipeIngredient": [
+"4 cups chopped cauliflower",
+"4 cups pearl onions",
+"2 cups chopped red bell peppers",
+"2 cups chopped green bell peppers",
+"2 cups chopped celery",
+"2 cucumbers - peeled, seeded and chopped",
+"2 cups carrots, chopped",
+"2 cups vegetable oil",
+"2 cups distilled white vinegar",
+"1 (6 ounce) can tomato paste",
+"1 tablespoon pickling spice, wrapped in cheesecloth",
+"1 cup black olives",
+"1 cup pitted green olives",
+"4 cups canned mushrooms",
+"1.5 (5 ounce) cans tuna, drained and flaked" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "In a large bowl with enough lightly salted water to cover, place the cauliflower, pearl onions, red bell peppers, green bell peppers, celery and cucumbers. Soak 8 to 12 hours, or overnight."
+} ,{
+"@type": "HowToStep"
+,"text": "In a small bowl with enough lightly salted water to cover, place the carrots. Soak 8 to 12 hours, or overnight."
+} ,{
+"@type": "HowToStep"
+,"text": "In a large saucepan, place the vegetable oil, vinegar, tomato paste and pickling spice. Bring the mixture to a boil. Drain and rinse the carrots, and place them in the mixture. Boil 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Drain and rinse the vegetables in the cauliflower mixture. Place them into the saucepan. Cook 10 minutes, or until the cauliflower is tender but crisp."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir black olives, green olives, mushrooms and tuna into the mixture. Remove the mixture from heat. Discard the wrapped pickling spice. While still hot, transfer to sterile containers and refrigerate."
+} ]
+,"recipeYield": ["56"]
+,"totalTime": "PT570M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sara H"
+},
+"reviewBody": "I'm not sure how the 6 photos shown here possibly came from this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lynne McKinnon"
+},
+"reviewBody": "I just made this recipe, after reading reviews I added 1 cup of ketchup and 1/4 sugar, as the reviews said too much vinegar. It turned out great! I will make this again. I got 10 pints out of it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "shopkhoedep"
+},
+"reviewBody": "come here"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "redginger36"
+},
+"reviewBody": "It was labor intensive but in the end good to serve"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Haris Catur Nugroho"
+},
+"reviewBody": "Delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bo"
+},
+"reviewBody": "My husband requested antipasto (I've never eaten antipasto before) I made this recipe and he loved it. Five stars!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "PattiR"
+},
+"reviewBody": "Absolutely ... the BEST Antipasto recipe I have ever made. I substituted canned shrimp for the Tuna."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "RedRocker07"
+},
+"reviewBody": "This was my first time making anti pasto, I followed other reviews on halfing the amount of vinegar and oil. Next time I would add a second can of tuna as my boyfriend said there wasn't enough. This does make a huge amount - I even had to go buy a bigger pot to cook it in- but I just put it into jars and they sealed from the heat. It turned out well, the flavor definitely increases over time so it's nice to let the jar sit for a week or two."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ClaireJemima"
+},
+"reviewBody": "So delicious! I made a half serving of this, and it was still a huge amount of antipasto, i gave some away and froze some for later. I used 4* cans of tomato paste instead of one, cut out the mushrooms (i dont' like them), and instead put in 2* cups of capers and upped the amount of olives to 2* cups each. I also used pickled pearl onions, and after the whole concoction was cooled, I briefly put it in the food processor to give it a great consistency for crackers :) definitely will make again. *adjusted to fit the original recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brenda Laface"
+},
+"reviewBody": "Thank heavens for you all. I had my antipasto recipe in my hand today and poof! I lost it but it was very close to the one posted here so . . . thanks !"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "AEN"
+},
+"reviewBody": "I agree--too much vinegar and too much oil. I cut the vinegar to 1/2 cup and oil to 1/2 cup. I used 2 cups chicken broth. Next time I would add another 6 oz can of tomato paste. I would eliminate the pickling spice and add Italian spices directly to the tomato sauce. I put my canning jars in the dishwasher, wash them and dry with heat. When they are done, I put the hot antipasto in them and put the seals/caps on. I just heard two seal. No need to put in water bath if you start with hot jars."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Claudia Andrade"
+},
+"reviewBody": "The best....I just add 1 can of tomate paste"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sherripf"
+},
+"reviewBody": "This is a very good recipe but keep stirring the boiling pot. The first batch I made I burned the vinegar/tomato paste stock.I had to start over but it really wasn't a big deal. I added pepperoncini to the batch but make sure you cut the bottom of each pepper to allow some of the vinegar to drain out or your antipasto with have a HUGE zing to it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "heatherlirette"
+},
+"reviewBody": "I also found this recipe to have too much vinegar at first. But I remedied this by adding a half cup of ketchup, a quarter cup of white sugar and another small can of tomato paste. That fixed it. I also have to note that once canned in my pressure canner, this recipe takes on a rich, fuller taste and the texture is also improved. This stuff turned out to be so good that I immediately made another batch. I will be proud to give some away as Christmas gifts, but not too much as I want most of it for myself. Thanks for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "whatscookin"
+},
+"reviewBody": "Antipasto and old Italian family fav. Although my family has a 'wartime' variation on this that doesn't require any cooking, lot's of jars and cans...\nMezzetta Giardiniera is a mix of carrots, celery, cauliflower already pickled and jarred. Marinated artichoke hearts, marinated mushrooms (drained,) pickled pearl onions, pimento stuffed green olives, pepperoncinni, black olives, tomato sauce, and tuna.\nDrain all the jars and cans, mix it up and chill in the fridge. If you don't like vinegar you'll hate this..lol."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gabyota"
+},
+"reviewBody": "This is a variation from one of my mother's most popular recipes. With some minor changes (I steamed the cauliflower and the carrots instead, used stuffed green olives and added some capers)the ingredients are pretty much the same. This is a GREAT dish, perfect to keep in the fridge and just eat with some crackers during a hot summer day."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Culinary Cat"
+},
+"reviewBody": "When I was in college, my best-friend's mother provide us with jars of antipasto for our fall camping trips along the California coast-this must be her secret recipe! Other than it being a little too oily, this was great! My family enjoyed it with San Francisco sourdough french bread and a bottle of Sangiovese."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "A friend made this recipe and I can't wait to make it at home to try it again. She added some capers and it came out perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "very easy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Thank you for posting this recipe. My mother used to make this and\r\nover the years I've lost the recipe. I m very happy to have it again. \r\nThis is wonderful to eat on crackers and well worth the effort.\r\n\r\nThanks again."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/23401/antipasto/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/76/appetizers-and-snacks/",
+"name": "Appetizers and Snacks"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/102/appetizers-and-snacks/antipasto/",
+"name": "Antipasto Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/23401/antipasto/",
+"name": "Antipasto"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

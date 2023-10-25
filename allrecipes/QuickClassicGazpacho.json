@@ -1,0 +1,882 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Quick Classic Gazpacho"
+,"datePublished": "2019-04-03T23:32:57.000-04:00"
+,"dateModified": "2022-10-07T14:06:50.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "USA WEEKEND columnist Pam Anderson"
+}
+]
+,"description": "This gazpacho with canned tomatoes, cucumber, and jalapeño is a fine substitute for any version made with fresh, vine-ripened tomatoes."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/eFGej4hmVt3yORP_HgU7YAB5ZuI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2143574-ce9794f600864921a0e8cd0d7955c200.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Quick Classic Gazpacho"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "74"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "85 kcal"
+,"carbohydrateContent": "8 g"
+,"fiberContent": "2 g"
+,"proteinContent": "2 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "215 mg"
+,"sugarContent": "5 g"
+,"fatContent": "5 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"2 (14.5 ounce) cans diced tomatoes (I use Hunt's Petite Diced)",
+"0.5 cup water",
+"2 tablespoons extra-virgin olive oil",
+"1 medium seedless cucumber, cut into 1/4-inch dice",
+"1 small yellow bell pepper, seeded and cut into 1/4-inch dice",
+"1 small onion, cut into 1/4-inch dice",
+"1 small jalapeno pepper, seeded and minced",
+"2 medium garlic cloves, minced",
+"2 tablespoons sherry vinegar",
+"2 tablespoons chopped fresh parsley, basil or cilantro",
+"salt and ground black pepper to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Pour 1/2 cup diced tomatoes into a food processor. Add water and oil to the food processor; blend until puréed. Pour into a medium bowl and add remaining diced tomatoes."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir in cucumber, bell pepper, onion, jalapeño, garlic, vinegar, and parsley; season with salt and pepper. Cover and refrigerate for at least 2 hours before serving."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT140M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle Hamilton Ulmer"
+},
+"reviewBody": "It’s a basic recipe. You will need to add spices to your taste. I add cumin, oregano, lime juice, adobo. This should be made well ahead of time so the flavors can blend. Personally, I like to process all of the soup for a smoother texture."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Donna"
+},
+"reviewBody": "Loved this recipe! I used fresh, heirloom tomatoes. I did not add any water and I am glad that I didn't because it would have been too much. I did need to use white wine vinegar in place of the sherry vinegar as I could not find that anywhere. I choose to use fresh basil as the herb. This definitely tasted best after having time to chill and time to let the flavors come together. We served with some fresh limes to squeeze over the soup and some sliced avocado on the side."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Julia Dake"
+},
+"reviewBody": "Five stars for EASY! After years of making this delicious soup from FRESH tomatoes, I find this is just as delicious with much less work and time. Topped with fresh-made croutons, this quick and easy gazpacho was a hit!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sam Bullock"
+},
+"reviewBody": "So easy and so delicious! Follow the recipe exactly and you won't be disappointed!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Diane Allen-Harkins"
+},
+"reviewBody": "Made the recipe exactly as written, and it was delicious. Simple, fast and fresh tasting."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Martha Jane Patton"
+},
+"reviewBody": "This is a good, quick recipe, and I’ll add it to my summer regular fare. I used canned crushed tomatoes rather than diced, because that’s what I had on hand. Could have done without the jalapeño."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "FurnFeather Mom"
+},
+"reviewBody": "I substituted the sherry vinegar with lemon juice. I really liked the taste and how quick it was to make. Of course I'll try a different recipe next time because all the recipes look so good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Teacup_S3L"
+},
+"reviewBody": "I left out the jalapeños, and salt and pepper; it didn't need them. Like other reviewers I used lime juice (bottled) rather than the sherry; however the soup was missing something so I added one Tblspn of (apple cider) vinegar (it was the vinegar in the front of the cabinet). Then the mix was right; sweet with a tang. I also put 2/3 of the mixture through the processor on chop to make more of a broth."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "timmyah"
+},
+"reviewBody": "I have made this 6-7 times and its so good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Blown out of the water by how quality this easy soup tastes! I got a craving for gazpacho, but I didn't want to invest the time in preparing it from fresh tomatoes. This is an excellent adaptation of the classic recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Labme"
+},
+"reviewBody": "My husband and I really enjoyed this gazpacho. Refreshing and delicious. We wanted more of a soup consistency than tomato chunks so I pureed both cans of chopped tomatoes and it was thick and creamy. I substituted balsamic vinegar for the sherry wine vinegar (gave it some sweetness), used 1/4 tsp Cayenne pepper instead of Jalapenos (try 1/8 tsp first then work your way up), squeezed in some fresh lime juice and added some sliced avocado on top of the soup once it was in the bowl and it made a great garnish. Enjoy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MARCIESPENCE"
+},
+"reviewBody": "I made this almost exactly the way it is posted and it is delicious!! I just omitted the jalapenos because I don't like them. I love that the recipe calls for canned tomatoes since I can't grow anything to save my life. I will be making this again soon!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Timmall"
+},
+"reviewBody": "I have made this wonderful Gazpacho several times over the past 3 years and if I could give it ten stars, I would. The past few times I've made it I have used spicy V-8 instead of water to give it a little more kick."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "hoolan01"
+},
+"reviewBody": "Very tasty for quick gazpacho. Could probably use more spice but it was very good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "SSwisher"
+},
+"reviewBody": "We had this tonight and like most reviewers, I changed it up a bit. Use a high quality canned tomato is key to this recipe. I made half a batch and used lime juice because we're not fans of sherry vinegar. Since I added lime juice, I used cilantro as the fresh herb. After sitting in the refrigerator for 5 hours, I thought it needed something and added about half a teaspoon of ground cumin. After sitting for another couple of hours, we had it with a bit of diced avocado along with lemon pepper salmon II from this site. The flavors paired very well together and we'll definitely have again. Great base recipe and very easy to change for your family's tastes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary Ann Waite"
+},
+"reviewBody": "Made this soup in the morning following the recipe exactly and choosing cilantro as the green herb. I tasted it and thought it was just ok. By 5 pm when it was 90 degrees outside I tasted it again and WOW what a difference. The flavors were wonderful. Truly the best gazpacho I ever made- better than using fresh tomatoes!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "hraefn"
+},
+"reviewBody": "Excellent! Flavor is still great even if all ingredients get chopped in a blender. I used half of a large white onion, and substituted dried parsley (1 tsp dry = 1 tbsp fresh), with great results. I think a green onion or two would work well instead of the white. Without the jalapeno pepper, some Tabasco or Red Hot would work."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sprator"
+},
+"reviewBody": "I had a lot of fresh ripe tomatoes. So I smoked the tomatoes onions and peppers, this was delicious, and we ate it all."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Domine"
+},
+"reviewBody": "Wonderful recipe. My dad has fallen in love with this and I have to make it almost every week (sometimes twice a week when it's really hot). I've made some adjustments as I've been making it, using Diced Rotels with Green Chiles instead of jalepeno and lime juice in place of sherry vinegar (thanks to DebLeg for that suggestion!) and 6-8 chopped green onions instead of white/yellow. I also removed the water and instead of processing the tomatoes into puree, I add 1-2 drinking glasses of V-8 Spicy Hot for the liquid base... saves on preparation time and clean-up (just have to wash cutting board and knife)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "chicaD"
+},
+"reviewBody": "Too much raw garlic."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "wisweetp"
+},
+"reviewBody": "With temps in the triple digits, I really wanted to make a nice, refreshing gazpacho. But it's not fresh tomato season yet. I decided to give this a try with a couple of changes due to pantry limitations, and it turned out surprisingly well. I used a 14 oz can of fire roasted crushed tomatoes and finished the rest with part of a bottle of strained tomatoes as I had no regular diced tomatoes. And I just blended all the tomatoes. I also didn't have a seedless cucumber, so I used a freshly-picked pickling cucumber that I de-seeded. It's very important, I think, to use high quality canned tomatoes. Muir Glen is my favorite brand."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SwissMiss"
+},
+"reviewBody": "Perfect just as written! Only add the jalapeno pepper if you like it really spicy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "janet"
+},
+"reviewBody": "Used exact ingredients and measurements, but the end result was slightly watery and lacked robustness of flavor. I might try adding tomato juice to the base."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Peachy"
+},
+"reviewBody": "I prepared this as written but used 2 TBS of lime juice instead of sherry and added: 1 TSP cumin, 1 TSP of chile powder and 1/2 TSP of Lawry's Season Salt. Perfect for my gazpacho craving. I didn't mind the canned tomatoes at all."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "morgy"
+},
+"reviewBody": "I loved this recipe. In addition to the vegetables listed, I added some kale and carrots and pureed it all in the blender. I also used some bloody mary spice (mix also works) cumin, seasoning salt, cilantro used both lemon juice and red wine vinegar 5 small fresh Campari tomatoes, 2 cans of tex mex style tomatoes, and garnished w/basil. Delish!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jessica M"
+},
+"reviewBody": "I took the advice of other reviewers and substituted lime juice for the sherry. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Morgan Ravenwood"
+},
+"reviewBody": "Very good soup! I followed most of the recipe, but added some green onions and more herbs and spices to taste, because I like strong flavours."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mer12"
+},
+"reviewBody": "YUM! Great summer soup. I used fresh tomatoes from the farmers market and a little cilantro. The olive oil adds a nice richness to the soup."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "RIELLA"
+},
+"reviewBody": "Easy! Delicious! Great kick! Love the diced tomato base-made the soup so easy. I pureed the first can in the blender &amp; poured it into a large plastic bowl with lid. I used a regular farm cucumber minus the seeds and balsamic vinegar because that's what I had. Used cilantro as the herb chopped in the soup and more for garnish. The soup was so pretty with the yellow pepper &amp; green jalapeno. I think any peppers would be OK though. Will definitely make this again! Thanks!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "linda"
+},
+"reviewBody": "Very easy, very tasty! Easy to tweak...I pureed about 1.5 cups, after all the veggies were together. I also added a few small cans of tomatoe juice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Jackie Lucy"
+},
+"reviewBody": "Never use canned tomatoes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Julie Taylor"
+},
+"reviewBody": "YUMMY! Used fresh cilantro - had only balsamic vinegar, but it was still terrific! I may have used more fresh peppers than called for. I had baby red, yellow &amp; orange and I used them all. But this is a great basic recipe that can be changed easily. I plan to keep this chilled in the fridge most days in the summer. I don't have to geel guilty about eating it either, as it is a good, refreshig and heatlhy lunch, snack or soup for a summer dinner."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Moffetteer"
+},
+"reviewBody": "Exactly the way I remember it; perfect on a hot and humid summer day!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rita"
+},
+"reviewBody": "Excellent soup,the only thing I did different was to blend some of the vegetables into the tomatoes and then add the rest.I also used fresh cilantro from the garden and lime juice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "etcouch"
+},
+"reviewBody": "I just made this recipe and I really liked it. It is a perfect meal or snack for a warm summer day. I added a few things: cilantro, diced ortega chilies, lime juice, and chile powder for some spice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JOSEPHK"
+},
+"reviewBody": "This was delicious. I ended up blending together all of the tomatos and 1/2 of each of the other veggies, then leaving the rest chunky. I also added a can of V-8."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CLA"
+},
+"reviewBody": "My son needed to make gazpacho for Spanish class one day. We found this recipe and tried it. The teacher and students LOVED it, and the teacher said it was one of the best she's ever eaten (she's from Spain). I have had gazpacho at many different restaurants, and I have to agree that it's one of the best I've ever had!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "amandajo"
+},
+"reviewBody": "This was a good starter gazpacho, and was handy because I could use cucumber, tomato, garlic, cilantro, and jalapeno from my garden! I didn't bother adding water because it became soupy enough in the food processor. It could have used more garlic, and in general there was something missing- cumin and fresh lemon or lime would have done the trick."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hank and Steve Wilson"
+},
+"reviewBody": "Delicious, easy and rugged in the fridge."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rachel"
+},
+"reviewBody": "This gazpacho was a great hit with my guests. Made a huge batch for a party. The sherry vinegar was a little hard to find but it really woke up the flavors!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "clayanddust"
+},
+"reviewBody": "This was soo good! I added some chopped black olives (I saw it was called for in other recipes), and it was wonderful. Will do again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cynthia Yashinski"
+},
+"reviewBody": "Very good! Simple and fast and very healthy. Great for our hot and humid Baltimore summers!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michele White Hester"
+},
+"reviewBody": "I made this for an International Lunch for my son's 5th grade class. Most of the kids were leering of trying it, but those that did said that it was good. It was the adults who all wanted the recipe! This one is a keeper. Even my son liked it. We did only use one half of a jalapeno since we were making it for kids, but it tasted great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amber Godfrey"
+},
+"reviewBody": "Great recipe!! I did do a few different things to make it my own (which might be reflected in the picture I submitted?). I sided it with sliced avocado, stuffed crabs, and wheat crackers. I was not able to find seedless cucumbers at my market, so I used a regular cucumber, halved it, sliced it lengthwise, then scooped out the seeds with a melon baller. Changes I made:\n\n- Put half of everything in the blender to smooth it out, then added the other half of the tomatoes for a few seconds just to chop them down a bit.\n- Used lime juice instead of sherry vinegar.\n- Added about 1/2-1 cup V8 juice, and 1/2 tsp. each of cumin, curry, and cayenne pepper to give it a slight kick.\n- Used 2 serano peppers instead of 1 jalepeno (it's what I had on-hand) and used cilantro.\n\nMy husband LOVES this recipe, and he was looking forward to it again this summer!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BonnieB"
+},
+"reviewBody": "Made a huge batch of this and loved it! It's even better the second day... the peppers give it a kick and color and I've gotten requests for the recipe already!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer"
+},
+"reviewBody": "This is good, but why add herbs? That overpowers the taste of fresh veggies. I didn't use the jalepno, used fresh tomatoes and processed in blender differently. But all in all, good base recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "252BECKY"
+},
+"reviewBody": "I threw everything into the blender and it turned out great. Really healthy too!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MISSJACKIE"
+},
+"reviewBody": "Really good! I made it a little less chunky (and even easier to make) by putting all the ingredients (except half the tomatoes) into the food processor, letting it do the chopping of the garlic, onion, peppers, and cucumber. I also processed it a couple seconds after adding the other half of the tomato can."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Denise"
+},
+"reviewBody": "This was very good. I coulnt quit eating it. Thanks for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "yourmominavolvo"
+},
+"reviewBody": "I made this with fresh roma tomatoes instead of canned and it's awesome. Exactly what I was looking for in a gazpacho- I haven't had a decent one in about 12 years now. I htink next time I'll try the canned tomatoes though, just to save on time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DebLeg"
+},
+"reviewBody": "This is a terrific, refreshing soup. My only change in recipe was substituting sherry with LIME JUICE."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CAMILLE22"
+},
+"reviewBody": "Delicious! The end result was a little too chunky for me, so I placed half of the soup back in the blender til smooth and then incorporated with the rest of the soup..also used white wine vinegar! Love it!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Carol Shorter Hicks"
+},
+"reviewBody": "This is wonderfully fresh tasting and delicious. A very healthy and tasty way to get your veggies in! Followed the recipe exactly except that I added about 1 tsp cumin and used cilantro in it. Also used basalmic vinegar since I didn't have sherry vinegar. This is something that I'll make often! Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "P.B."
+},
+"reviewBody": "i was looking for a fast way to make gazpacho and this worked really well! i added another 1/2 cup of water to thin it out a little and threw in 1/2Tbsp of curry powder to spice it up- turned out fantastic!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "YoSoyPitufina"
+},
+"reviewBody": "This is delicious and very simple. I added cayenne pepper and extra garlic for a little kick."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ANNYBER"
+},
+"reviewBody": "This is a good base recipe. I adapted a bit for items I didn't have and items I wanted more of. I will continue to use this as abase though as it is simple and tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "APCOOKING"
+},
+"reviewBody": "I wish I could give this a 3.5 stars. This is a good, and useful recipe. It's quick, easy and fairly foolproof. I've used another recipe from this site that was better, and the main taste difference is the use of fresh versus canned tomatoes. That said, I specifically went looking for a recipe using canned b/c of the convenience. Considering this, this is a very good one. Taste is only marginally compromised by not using fresh tomatoes, and that's worth it when in a pinch. I'll make this again, I'm sure."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JanHomeCookin"
+},
+"reviewBody": "This was sooo good! Very refreshing and healthy to boot. I halved this recipe and made a few minor adjustments. It seemed too chunky and thick so I added a can of V8 (the hot&amp;spicy kind. Also, I didn't have sherry vinegar so I subbed lime juice. I served it with some lime wedges too. Thanks Pam, you've done it again!!!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/76922/quick-classic-gazpacho/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/184/soups-stews-and-chili/soup/vegetable-soup/",
+"name": "Vegetable Soup Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/14767/soups-stews-and-chili/soup/vegetable-soup/gazpacho/",
+"name": "Gazpacho Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/76922/quick-classic-gazpacho/",
+"name": "Quick Classic Gazpacho"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

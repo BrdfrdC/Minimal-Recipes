@@ -1,0 +1,179 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Air Fried Vegetarian &#34;Chicken Tenders&#34;"
+,"datePublished": "2020-04-15T21:57:00.000-04:00"
+,"dateModified": "2020-04-15T21:57:00.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Chef Wheeler del Torro"
+,"url": "https://www.allrecipes.com/cook/chef_wheeler"
+}
+]
+,"description": "Adapted for an air fryer, this vegetarian &#39;chicken tenders&#39; recipe made with imitation chicken breast is crispy without a lot of oil."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/u5QDV-nQwoUKqeF3EKlmQxlk7W4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7100013-a816f1d8a7474e6c83c5c7798037bc24.jpg",
+"height": 2000,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Air Fried Vegetarian &#34;Chicken Tenders&#34;"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "3"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "647 kcal"
+,"carbohydrateContent": "87 g"
+,"cholesterolContent": "123 mg"
+,"fiberContent": "9 g"
+,"proteinContent": "77 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "1172 mg"
+,"sugarContent": "1 g"
+,"fatContent": "6 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"1 cup all-purpose flour",
+"3 eggs, beaten",
+"2 cups panko bread crumbs",
+"1 teaspoon garlic powder",
+"0.75 teaspoon paprika",
+"0.5 teaspoon cayenne pepper",
+"0.5 teaspoon ground black pepper",
+"0.5 teaspoon chili powder",
+"0.25 teaspoon salt",
+"2 (16 ounce) packages imitation chicken breast halves (seitan), cut into 1-inch wide strips",
+"cooking spray" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Pour flour onto a large plate. Place eggs in a shallow bowl. Combine bread crumbs, garlic powder, paprika, cayenne pepper, black pepper, chili powder, and salt in another shallow bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Coat imitation chicken strips in flour, dip into eggs, then dredge in bread crumb mixture, and place on a plate."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat an air fryer to 500 degrees F (260 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Place a row of coated strips in the air fryer basket. Spray with a light coat of cooking spray."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook strips in the air fryer for 6 minutes. Open fryer to flip strips with tongs. Continue cooking until golden brown, 4 to 6 minutes more."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT40M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "lakegirl"
+},
+"reviewBody": "I made it with chicken breast"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lcatt236"
+},
+"reviewBody": "This was great! Nobody knew it wasn’t meat. This will be my go to for tacos and anything I would use ground meat for. The feel is that of meat unlike tofu."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JARRIE "
+},
+"reviewBody": "WIthout a doubt 5 stars. This was my 1st time ever eating seitan, and it was great! It was something of a cross between a hush puppy and a piece of fried chicken (not dry but not juicy either, plenty of heft in the chew, which I didn't expect). Varying the seasonings would give you a lot of options for flavors - last night hubby &amp; I discussed adding Old Bay for a fake seafood flavor! This was a lot of fun, and the kids loved it."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/267110/air-fried-vegetarian-chicken-tenders/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16778/everyday-cooking/vegetarian/protein/",
+"name": "Protein"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17624/everyday-cooking/vegetarian/protein/seitan/",
+"name": "Seitan"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/267110/air-fried-vegetarian-chicken-tenders/",
+"name": "Air Fried Vegetarian &#34;Chicken Tenders&#34;"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

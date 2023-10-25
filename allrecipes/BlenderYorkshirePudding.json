@@ -1,0 +1,491 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Blender Yorkshire Pudding"
+,"datePublished": "2018-06-08T10:06:08.000-04:00"
+,"dateModified": "2022-11-06T05:32:42.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Caitlin"
+,"url": "https://www.allrecipes.com/cook/2514774"
+}
+]
+,"description": "Impress your guests during the holiday season with Yorkshire pudding batter that is mixed in the blender and only requires five ingredients!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/5rx4PQccretpKjXN3yT_BVtdQbw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6173598-7755ee57b90342839300188f0872fc18.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Blender Yorkshire Pudding"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "33"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "123 kcal"
+,"carbohydrateContent": "14 g"
+,"cholesterolContent": "77 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "9 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "239 mg"
+,"sugarContent": "2 g"
+,"fatContent": "3 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"2 eggs",
+"0.75 cup all-purpose flour",
+"0.5 teaspoon salt",
+"1 cup milk, divided",
+"0.25 cup beef drippings, divided" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Blend eggs in a blender for 2 to 3 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Sift flour and salt together into a bowl. Add flour mixture and 1/4 cup milk to the blender; blend until smooth, about 1 minute. Scrape batter from the sides of the blender and pour in remaining 3/4 cup milk; blend until smooth, 2 to 3 more minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Refrigerate batter for 1 to 2 hours before cooking."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 450 degrees F (230 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Divide beef drippings among six muffin cups in a 12-cup muffin pan. Place the muffin pan into the preheating oven and heat until drippings are very hot."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove pan from the oven. Pour batter over hot beef drippings."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until puffed and slightly browned, 20 to 30 minutes."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT90M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Zoe"
+},
+"reviewBody": "The recipe turned out perfectly!\nI made it as the recipe directed, but mom taught me to have the ingredients at room temperature which I did. I would have thought the “fluffed up”eggs put in the frig\n would have fallen!\nZoe Carlson\nSunset SC"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "categray"
+},
+"reviewBody": "I made a traditional British dinner for Christmas Eve and this is the one thing that I wanted perfect. When I took them out of the oven, they were high and beautiful just like the picture, but then they dropped. Everyone thought they were delicious though. I have to figure out what I did wrong."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ted Kircher"
+},
+"reviewBody": "This recipe turned out wonderful. Yorkshire pudding is an old family favorite and was always complicated to get right. This was perfect and tasted as good as any I have had."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "James Gullett"
+},
+"reviewBody": "Phenomenal recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Denice Crawford Wilson"
+},
+"reviewBody": "OMG, these are awesome! I took the advice of using butter in place of drippings and served it with leftover ribeye topped with peas and gravy. Family was extremely happy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nici"
+},
+"reviewBody": "I have never made Yorkshire pudding before but I love them so I looked for a recipe and based on everyone's reviews, decided to give this one a try. I'm seriously impressed at how perfectly they came out. \n\nThe only thing the recipe doesn't mention is what the consistency of the batter should be so if you're a newbie like me and you're concerned you're doing it wrong; it should be like 'single cream' according to what I found online. \n\nThese are certainly going to become a regular addition to our Sunday roast!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jason Jackson"
+},
+"reviewBody": "Worked for me. Ideally you use cast iron pans for Yorkshires. The temperature of the fat is critical and with cheap thin pans the temperature starts to drop with every fill of a cup. By the time you get to the last cup the reaction has changed. Nonetheless it's still a recipe that works and doubles well. There are never enough of these to go around, that much is always guaranteed. And they are great the next day, stuffed with leftovers"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tim"
+},
+"reviewBody": "Easy recipe turns out every time"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Christy Mathatas"
+},
+"reviewBody": "These did not turn out for me. They totally stuck, I could not get them out! I probably overfilled because oil was leaking out onto the bottom of the oven and smoking. Flavor was good. I think they have the right amount of salt."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mark Cheshire"
+},
+"reviewBody": "I made it and it is very simple. How ever i will now only use 1 tsp of oil or drippings instead of 2. I use bacon fat."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Revs Mom"
+},
+"reviewBody": "Came out absolutely perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Dave Metzger"
+},
+"reviewBody": "It was simple and excellent. Never made or tasted Yorkshire Pudding but I’ll be making it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marnie Houston"
+},
+"reviewBody": "I used canola oil instead of beef drippings as I didn't have any. Turned out to be the best Yorkshire pudding I have ever made!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stan"
+},
+"reviewBody": "This is our go-to recipe when we have a beef roast! Tradition says you have to have Yorkshire Pudding."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MICHAELASMUM"
+},
+"reviewBody": "These were the best I’ve ever made. The recipe is so easy to put together, super happy with them. It made 6 large Yorkshire’s, which is perfect for us!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jovon Morsby"
+},
+"reviewBody": "i made these new years day to go with prime rib. I killed it. the recipe is great everyone loved my yorkshire pudding. Thanks"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Daniel Butterworth"
+},
+"reviewBody": "First time out - no changes to the recipe. However, I would use a muffin tin that had larger spaces (deeper) in order to get a higher \"puff\" on the pudding. \nThis is very similar to a Swedish recipe that I make in a large frying pan - great breakfast with syrup.\nI found these are wonderful with a bit of wild honey."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nichola Smith"
+},
+"reviewBody": "These are amazing, &amp; so very easy to make..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alicann"
+},
+"reviewBody": "I tripled the recipe and got 6 Texas muffin sized and 12 reg muffin sized Yorkshire puddings. Recommend just covering the bottom of the muffin cups with oil. They are delicious, easy to make and they're a big hit with the family."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Starmonkey"
+},
+"reviewBody": "I live in England (but from the USA) and have been using my MiL's recipe for 19 years and they've always been so-so. Made this recipe on Friday and they were fabulous! Nicely risen, crispy and delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shannon Porcellini"
+},
+"reviewBody": "Couldn't be simpler. Used olive oil, just to sizzling. Wonderfully easy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ms. T"
+},
+"reviewBody": "Fantastic, what a no fail recipe! I have struggled making Yorkshire (or hockey pucks as my Dad would call my previous attempts) and now it's a Sunday staple. Right after I put the Prime Rib in the oven, I whip this up in the blender and refrigerate. When the Prune Rib comes out, I put a muffin pan for 12 with 1/4 tsp of the drippings (try using lard or even bacon drippings if you didn't collect any from the roast - real fat makes a huge difference in flavor). Heat the muffin pan as you raise the temp. in the oven, then take the batter straight from the fridge and pour into the hot fat. Huge puffy Yorkshires come out 20 minutes later."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SRichardson"
+},
+"reviewBody": "Great recipe! They rise sky high, be sure to place some foil or cookie sheet underneath your muffin tin as they drippings spill over in your oven and cause smoke."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Richard Shupe"
+},
+"reviewBody": "I was very happy with this, but I will toss out this caution-- It's hard to estimate how much these things will rise, spilling the drippings to the bottom of your oven, making gobs of smoke. Maybe put some foil with the sides folded upward to catch the drippings."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "pefariet"
+},
+"reviewBody": "Excellent recipe. I make Hesse once a week, kids love them and they always turn out great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ladyl46"
+},
+"reviewBody": "If you don't have drippings, use real butter. My husband loves these with our Christmas Rib Roast dinner!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Baking Nana"
+},
+"reviewBody": "These were a hit. A bit different than the recipe I usually use but it worked really well. It made 9 yorkies instead of the six stated, might have been the size of my muffin tin though. I served these with a hearty beef stew what a perfect winter dinner."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/230167/blender-yorkshire-pudding/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/360/bread/quick-bread/",
+"name": "Quick Bread Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/14912/bread/quick-bread/popovers-and-yorkshire-pudding/",
+"name": "Popovers and Yorkshire Pudding Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/230167/blender-yorkshire-pudding/",
+"name": "Blender Yorkshire Pudding"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

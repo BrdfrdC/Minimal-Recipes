@@ -1,0 +1,178 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Easy Chilaquiles"
+,"datePublished": "2020-06-23T17:52:20.000-04:00"
+,"dateModified": "2022-01-07T13:59:05.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Christina Bleeker"
+,"url": "https://www.allrecipes.com/cook/402263"
+}
+]
+,"description": "Here&#39;s a quick and easy version of chilaquiles with tortilla pieces, whisked eggs, green taco sauce, and shredded Monterey Jack cheese."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/lwlU4xicADWr6O_k1LXdBbjlTuM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7683722-56e1241ce3ef480b83a77caab136382a.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Easy Chilaquiles"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "4"
+}
+,"cookTime": "PT9M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "505 kcal"
+,"carbohydrateContent": "26 g"
+,"cholesterolContent": "353 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "21 g"
+,"saturatedFatContent": "11 g"
+,"sodiumContent": "517 mg"
+,"sugarContent": "1 g"
+,"fatContent": "36 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"8 (6 inch) corn tortillas, cut into 2-inch pieces",
+"5 tablespoons vegetable oil",
+"8 eggs, beaten",
+"salt and ground black pepper to taste",
+"0.5 cup green taco sauce",
+"1 cup shredded Monterey Jack cheese" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat oil in a skillet over medium-high heat. Add tortilla pieces to oil and fry until crisp, about 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour beaten eggs over the tortilla pieces in the skillet. Season with salt and pepper. Cook, stirring occasionally, until eggs have set, about 4 minutes. Remove from heat. Top with taco sauce and Monterey Jack cheese."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT19M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dotandcats"
+},
+"reviewBody": "This is a nice change to scrambled eggs. I added green onions while cooking the tortillas. I’m not sure what kind of green sauce was intended, but I used the Tabasco green pepper sauce which has jalapeños (not green peppers), but not 1/2 cup. I just sprinkled it over the top once plated. I like the crunchy texture the tortillas add."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sonia Fabbri"
+},
+"reviewBody": "So quick, easy and YUMMY!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Becky Sinor"
+},
+"reviewBody": "delicious just as promised, I didn't have any queso so this is a cheese less try but it was delicious non the less made with homemade tomatillo salsa!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Buckwheat Queen"
+},
+"reviewBody": "Just as promised; easy and delicious- satisfying that craving for Mexican food without dirtying up the whole kitchen. Thank you for the recipe."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/257967/easy-chilaquiles/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/237/world-cuisine/latin-american/",
+"name": "Latin American"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/728/world-cuisine/latin-american/mexican/",
+"name": "Mexican"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/257967/easy-chilaquiles/",
+"name": "Easy Chilaquiles"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,151 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Tostadas de Salpicon (Shredded Beef)"
+,"datePublished": "2021-06-04T04:37:29.000-04:00"
+,"dateModified": "2021-06-04T04:37:29.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Yoly"
+}
+]
+,"description": "These tostadas de salpicon are made with shredded beef that is cooked in a savory broth with tomatoes, onion, lime juice, and serrano chiles."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/RdA6MEwFL6SKVe9mW-F8_tA626o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Tostadas-de-Salpicon-Shredded-Beef-4x3-1-f11a3bee267f49e995fc8fc0a3daec81.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Tostadas de Salpicon (Shredded Beef)"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4",
+"ratingCount": "2"
+}
+,"cookTime": "PT90M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "353 kcal"
+,"carbohydrateContent": "32 g"
+,"cholesterolContent": "60 mg"
+,"fiberContent": "8 g"
+,"proteinContent": "21 g"
+,"saturatedFatContent": "7 g"
+,"sodiumContent": "649 mg"
+,"sugarContent": "8 g"
+,"fatContent": "17 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 pound beef chuck roast",
+"2 cups beef broth",
+"4 medium Roma tomatoes, chopped",
+"1 medium onion, diced",
+"2 large bay leaves",
+"2 serrano chile peppers",
+"2 medium limes, juiced",
+"2 tablespoons white vinegar",
+"1 teaspoon dried Mexican oregano",
+"salt and freshly ground black pepper to taste",
+"1 cup refried beans, warmed",
+"8 fried tortillas",
+"1 cup shredded lettuce, or to taste",
+"2 medium tomatoes, chopped",
+"0.5 cup sour cream, or to taste",
+"0.5 cup salsa, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine chuck roast, broth, tomatoes, onion, bay leaves, serrano chiles, lime juice, vinegar, oregano, salt, and pepper in a large pot pot over medium-high heat. Bring to a boil, reduce heat to low, and simmer until meat is tender, about 1 1/2 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove roast from pot and shred meat with 2 forks."
+} ,{
+"@type": "HowToStep"
+,"text": "To assemble tostadas, spread a layer of refried beans on tortillas, layer shredded beef, lettuce, tomatoes, cheese, sour cream and salsa."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT105M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "K. Guth"
+},
+"reviewBody": "This was my first attempt at Mexican shredded beef. We thought it was ok. Maybe a little too much citrus and vinegar flavor for our liking. That being said, I may use this as starting point for later attempts."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/284666/tostadas-de-salpicon-shredded-beef/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17504/world-cuisine/latin-american/mexican/main-dishes/",
+"name": "Main Dishes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/23012/world-cuisine/latin-american/mexican/main-dishes/tostadas/",
+"name": "Tostada Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/284666/tostadas-de-salpicon-shredded-beef/",
+"name": "Tostadas de Salpicon (Shredded Beef)"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

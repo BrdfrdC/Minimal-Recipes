@@ -1,0 +1,123 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Guava Mojito"
+,"datePublished": "2020-06-19T00:06:59.000-04:00"
+,"dateModified": "2022-05-11T18:31:11.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Dave K"
+,"url": "https://www.allrecipes.com/cook/6894897"
+}
+]
+,"description": "Passion fruit rum and guava nectar bring a fruity flavor to traditional mojitos using this super simple recipe perfect for warm evenings."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/SpIWeU1Nyr_d--jNX8Wg8HlGImk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8491963-b9a7df0104554e0a8fcfa409ec287952.jpg",
+"height": 975,
+"width": 1463
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Guava Mojito"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "1"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "291 kcal"
+,"carbohydrateContent": "26 g"
+,"fiberContent": "1 g"
+,"proteinContent": "1 g"
+,"sodiumContent": "6 mg"
+,"sugarContent": "22 g"
+,"fatContent": "0 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"ice",
+"4 sprigs fresh mint, divided",
+"2 teaspoons white sugar",
+"3 fluid ounces passion fruit-flavored rum",
+"1 lime, juiced",
+"3 fluid ounces unsweetened guava nectar",
+"2 fluid ounces club soda, or as needed" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Fill a glass with ice."
+} ,{
+"@type": "HowToStep"
+,"text": "Muddle 3 sprigs mint and sugar together in a cocktail shaker; add ice, rum, lime juice, and guava nectar. Cover and shake 10 times. Strain drink into glass filled with ice; add club soda and garnish with 1 mint sprig."
+} ]
+,"recipeYield": ["1"]
+,"totalTime": "PT10M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/247296/guava-mojito/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/133/drinks/cocktails/",
+"name": "Cocktail Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1741/drinks/cocktails/rum-drinks/",
+"name": "Rum Drinks Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/247296/guava-mojito/",
+"name": "Guava Mojito"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

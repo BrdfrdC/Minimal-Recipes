@@ -1,0 +1,162 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Fresh Raspberry Mojito"
+,"datePublished": "2014-03-04T16:17:59.000-05:00"
+,"dateModified": "2016-03-24T20:39:29.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Home Happy Hour"
+,"url": "https://www.allrecipes.com/cook/homehappyhour"
+}
+]
+,"description": "Combine silver rum and raspberry vodka with fresh berries, lime juice, and mint leaves to make this raspberry mojito at your next home happy hour!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/NcsWrFQVXxZncbnVfZK-QEVu4Bw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3669567-cdc8f49514164bc5b74b6de9850978b2.jpg",
+"height": 960,
+"width": 960
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=3147489909001",
+"description": "A refreshing mojito with rum, raspberry vodka, fresh berries, and mint.",
+"duration": "PT1M57S",
+"name": "Raspberry Mojito",
+"thumbnailUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/5b6df8d8-5649-4ade-ae44-3cfd2e4ce9cb/ec0269d7-f8d1-4a66-b8c5-957bb0080b49/1280x720/match/image.jpg",
+"uploadDate": "2021-07-17T06:26:51.547-04:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Fresh Raspberry Mojito"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "5"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "174 kcal"
+,"carbohydrateContent": "12 g"
+,"fiberContent": "1 g"
+,"proteinContent": "0 g"
+,"sodiumContent": "7 mg"
+,"sugarContent": "1 g"
+,"fatContent": "0 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"4 fresh mint leaves",
+"4 fresh raspberries",
+"0.5 fluid ounce simple syrup",
+"0.5 fluid ounce lime juice",
+"ice",
+"1 fluid ounce raspberry-flavored vodka",
+"1 fluid ounce silver rum",
+"2 fluid ounces club soda" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/NcsWrFQVXxZncbnVfZK-QEVu4Bw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3669567-cdc8f49514164bc5b74b6de9850978b2.jpg"
+}
+]
+,"text": "Muddle mint leaves, raspberries, simple syrup, and lime juice together in a shaker. Fill the shaker with ice and add vodka and rum; cover and shake until chilled. Pour entire contents of shaker into a Collins glass and top with club soda."
+} ]
+,"recipeYield": ["1"]
+,"totalTime": "PT5M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cardiacolt"
+},
+"reviewBody": "If you want a darker color, throw in some blackberries with the raspberries. Perfect for the summer time or if you want something sweet with a kick!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Qhhunters"
+},
+"reviewBody": "Perfect Summer drink. Sweet raspberries, cool crisp mint."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/236887/fresh-raspberry-mojito/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/",
+"name": "Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/82/trusted-brands-recipes-and-tips/",
+"name": "Trusted Brands: Recipes and Tips"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/236887/fresh-raspberry-mojito/",
+"name": "Fresh Raspberry Mojito"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

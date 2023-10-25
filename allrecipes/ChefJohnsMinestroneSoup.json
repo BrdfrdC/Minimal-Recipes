@@ -1,0 +1,1450 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Chef John&#39;s Minestrone Soup"
+,"datePublished": "2012-06-06T16:21:10.000-04:00"
+,"dateModified": "2022-09-13T23:31:35.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Chef John"
+,"url": "https://www.allrecipes.com/cook/foodwisheswithchefjohn"
+}
+]
+,"description": "A great Italian soup that incorporates a wide variety of vegetables and is topped with flavorful Parmesan cheese."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/n8nVxbQiKAXbak3ooDGVDHT8mdI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4425236-3741bc8a72824bea93d3ef5a3fea1df6.jpg",
+"height": 960,
+"width": 960
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=1310917257001",
+"description": "See how to make classic, comforting minestrone soup.",
+"duration": "PT5M37S",
+"name": "Minestrone Soup",
+"thumbnailUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/f3023bc3-89f6-4ab1-9195-e718c5cbb790/11c2e8cc-6958-4103-9a96-db18bdfdb3bb/1280x720/match/image.jpg",
+"uploadDate": "2021-07-03T21:43:27.115-04:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Chef John&#39;s Minestrone Soup"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "364"
+}
+,"cookTime": "PT85M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "484 kcal"
+,"carbohydrateContent": "54 g"
+,"cholesterolContent": "16 mg"
+,"fiberContent": "14 g"
+,"proteinContent": "18 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "2020 mg"
+,"sugarContent": "8 g"
+,"fatContent": "23 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"2 tablespoons olive oil",
+"3 ounces chopped pancetta",
+"1 onion, diced",
+"1 cup diced celery",
+"4 cloves garlic, minced",
+"4 cups chicken broth",
+"2 cups water, plus more as needed",
+"1 (28 ounce) can plum tomatoes, crushed fine",
+"1 cup cranberry beans, shelled",
+"2 cups chopped cabbage, or more to taste",
+"1 (15 ounce) can garbanzo beans, drained",
+"1 teaspoon red pepper flakes, or to taste",
+"1 teaspoon Italian seasoning",
+"2 teaspoons salt",
+"1 bunch Swiss chard, chopped",
+"0.66666668653488 cup ditalini pasta",
+"salt and ground black pepper",
+"0.25 cup extra virgin olive oil, for drizzling",
+"0.25 cup finely grated Parmigiano-Reggiano cheese",
+"0.25 cup chopped fresh Italian flat-leaf parsley" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat 2 tablespoons olive oil in large stock pot over medium-high heat. Add pancetta; cook and stir until it begins to brown, 2 to 3 minutes. Stir in onions and celery; cook and stir until onions start to turn translucent, about 3 minutes. Stir in minced garlic and cook for another minute."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour chicken broth, water, and plum tomatoes into the pancetta and onion mixture. Bring to a simmer."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir cranberry beans, cabbage, garbanzo beans, red pepper flakes, Italian seasoning, and 2 teaspoons salt into broth mixture. Bring to a simmer and cook until cranberry beans are tender, adding more water as needed if the soup becomes too thick, about 45 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir in Swiss chard and simmer until softened, about 15 minutes. Season with salt and black pepper to taste."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/n8nVxbQiKAXbak3ooDGVDHT8mdI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4425236-3741bc8a72824bea93d3ef5a3fea1df6.jpg"
+}
+]
+,"text": "Stir in pasta and increase heat to medium-high and simmer until pasta is tender, about 15 minutes. Ladle into bowls and top with extra virgin olive oil, Parmigiano-Reggiano cheese, and Italian parsley."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT105M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sandy Farrar"
+},
+"reviewBody": "What can you say about a Chef John recipe except once again he nailed it. I made this soup last night and made it as written and it was so good. We both loved it. The only thing I did was to add more liquid as the cooking ended. Next time I will simply add it in the beginning because it really did need it but I will make this many times over again. It was just plain pefect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chris"
+},
+"reviewBody": "Best minestrone ever!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Tamara Lazarevic"
+},
+"reviewBody": "It was good! I couldnt find the right pasta shape and I'm not sure about my water and salt amounts, but other than that, pretty cool!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rod Quartararo"
+},
+"reviewBody": "I have made it a # of times. I was looking for something to fill the void left by the disappearance of Riviera Minestrone....and this more than took care of it. I vary it a little from time to time, I like adding pork to it and maybe some \"ghost peppers\" and vary the pasta. I really think it tastes best when refrigerated overnight and given the chance to thicken up......careful with the garlic, the flatulence is a killer :)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sue"
+},
+"reviewBody": "This is a very good, hearty soup, even with all my changes, which I made based on product availability and our particular preferences. I substituted a cup of diced ham for the pancetta, a handful of chopped baby spinach for the swiss chard, a 19 oz. can of kidney beans for the cranberry beans, 2 cups of packaged chopped cole slaw mix for the chopped cabbage, and freshly grated parmesan cheese for the cheese called for. I taste tested throughout the cooking process and added seasonings as needed. Unfortunately, my canned tomatoes were bitter and acidic so I had to add about 2 teaspoons of sugar and 1/4 teaspoon of baking soda about the end of the cook time to get rid of that taste. Oh, and I also cut back on the water and chicken broth by about one cup each because I prefer a thicker base. In spite of everything, it was pretty darned good, making enough soup for about 6 adult size servings. I did spend a lot of time hovering and stirring because it does thicken as it cooks. Served it with homemade dinner rolls, cole slaw, and fresh sliced pears. This soup is another All Recipes keeper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tina Carlstedt"
+},
+"reviewBody": "I have made this soup 5 times already and it is my favorite!!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Keith h"
+},
+"reviewBody": "Excellent as usual— chef John thank you- your recipes rule. You totally rock dude! And ur funny"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Andrea Thomas"
+},
+"reviewBody": "Wow. Just. Wow. I could not find cranberry beans so I used Cannelini beans. That's about the only change. OMG. Wonderful soup. My Italian friends were really impressed. Oh! I cooked the pasta separately and added to the bowls. I did not want the pasta to soak up the tasty broth. Double it! You won't be sorry!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathryn Matousek"
+},
+"reviewBody": "I just made this tonight-it is an EXCELLENT recipe. I made one modification: I was concerned about the salt content (my mother has hypertension) so I used 4 c. unsalted chicken broth AND 2 c. regular vegetable broth (slightly increased the amount of the other ingredients so the flavor did not get watered down)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Noeller67"
+},
+"reviewBody": "Delicious! Omitted pancetta and used veggie broth to make it vegetarian. Used a can of kidney beans for the cranberry beans and added about 1.5 cups of diced red potatoes. Used spinach instead of chard and cooked the pasta separate so the noodles don't get mushy. This is a keeper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Juan & Mary"
+},
+"reviewBody": "Absolutely gorgeous!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Minikey"
+},
+"reviewBody": "The noodles soaked up all the juice way to much soup my kids did not like it and me and my husband were stuck eating it for 2 weeks until it went bad. I do not recommend this recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LindaRH"
+},
+"reviewBody": "This is my favorite soup ever. I just love it. I am a vegetarian so I left out the pancetta and chicken broth. I used homemade vegetable stock instead. I also cook my pasta separately as not to soak up all thr beautiful broth. I make this wonderful soup more often than any other."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "imsm"
+},
+"reviewBody": "This is an excellent minestrone soup recipe. My parents, who told me they didn't like minestrone soup, changed their minds after tasting this one. We've made it twice now and it will join our regular recipe rotation. We did not change anything except for using cannellini beans instead of cranberry beans."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Teresa"
+},
+"reviewBody": "it was delicious, my family loved it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "north"
+},
+"reviewBody": "You should never mix tomatoes with raw beans during the cooking process if you wish the beans to become pliable. Tried with this recipe and still does not work."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pete Gothro"
+},
+"reviewBody": "Fabulous recipe! Made this on a cold rainy afternoon and it was just what the doctor ordered. Had a nice tangy sourdough bread and a glass of San Genovese to accompany it. I'll definitely make this one again. Thanks, Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alice Ramirez"
+},
+"reviewBody": "My family loved it, just like eating at a restaurant."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alice Scott"
+},
+"reviewBody": "I forgot to buy the pancetta for this recipe, so I defrosted couple of boneless pork chops and the whole thing turned out super delish. Pork [in its many forms] is simply tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "THERESA VANBIBBER"
+},
+"reviewBody": "very tasty"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marla Nardo"
+},
+"reviewBody": "I used 6 cups of chicken broth, 1 large can of crushed tomatoes, 5 garlic cloves, 2 bay leaves, 1 large zucchini, carrots, celery, large onion , oregano, thyme, salt and pepper, ditalini pasta, 1 can of garbanzo beans. Topped it with parmesan cheese and garlic bread for dipping. Hit the spot on a cold, snowy day. It turned out great! Definitely will make this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Tammie Carmean Grayson"
+},
+"reviewBody": "I didn’t like the Swiss chard or cranberry beans. Without those two ingredients I would have liked it better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jenny Riley"
+},
+"reviewBody": "It was absolutely wonderful! Used hot italian sausage and not bacon... Love you Chef John!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lolly"
+},
+"reviewBody": "Excellent Recipe. Loved it, perfect for a cold winter day. Followed recipe exactly with one exception: used veggie juice 1/2 c with the water."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rachel Odle Iversen"
+},
+"reviewBody": "This is an amazing recipe. The family loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Claudine"
+},
+"reviewBody": "My whole family loved it including 3 teenagers. I couldn't find Swiss chard so I used tuskan kale, used kidney beans instead of cranberry beans and only used 1 teaspoon of salt. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sonnie"
+},
+"reviewBody": "Like you Chef, I never make Minestrone the same way twice. It still always comes out delicious. I use different pasta and meat. I usually use ground beef and Italian sausage depending on what's on hand. A big bowl of soup and homemade bread, MMMMMM"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DSLord"
+},
+"reviewBody": "Best ever, left out the pasta, few less carbs."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Andie Sweets"
+},
+"reviewBody": "I’ve made this recipe several times and each time it’s just as good! The past few times I’ve added carrots, mushrooms, and spinach to the recipe. Really any vegetables? that I’ve had left over in my refrigerator.? I like to use boars head pancetta and better than bouillon chicken bouillon.?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda Jariz"
+},
+"reviewBody": "Yummy!! Made it without Swiss chard - still yummy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sunygirl1"
+},
+"reviewBody": "Italian sausage, followed the recipe on everything else. It’s my favorite minestrone recipe...chef John, amazing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "christian miller"
+},
+"reviewBody": "Thanks again to John for his awesome recipes and superlative teaching style. Since the rona started, he has become my hero and mentor. This was my first try and it was fantastic! I have no idea what proportions I used other than I added in a good bit more than the recipe here. I don't actually know what chard is but I threw in kale, which I swore I'd never eat, and it still came out awesome. I mean, I tried to screw this up--I used a ton of red cabbage and thought I'd ruined it but it all came together in the end. I did have to add more salt, pepper, and Italian seasoning than I'm used to in order to get the flavor right, but still acceptable given the immense batch that I produced. It's gotta be like 5 gallons and I don't think I have room in the fridge, though I read somewhere that it will freeze well. I'm gonna have to drink some beers to free up some space. He was spot on about getting the taste right before adding the pasta. This is seriously good. I'm going back for like my third bowl now."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dee J Burnett"
+},
+"reviewBody": "I really love all of Chef John's recipes. This is among my favorite of his. He is right, I have NEVER made it the same twice. I typically use whatever veggies I have on hand. I have put in carrots, rutabaga, zuchinni, bell peppers, etc., at different times. It always turns out amazing. I always serve with salad and sour dough bread. Sooooo yummy, no matter the season"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mdftexas"
+},
+"reviewBody": "The soup was very good and tasty. Loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jake"
+},
+"reviewBody": "Excellent recipe!! I added some spinach to mine. I will keep this one for sure."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Margaret"
+},
+"reviewBody": "Absolutely wonderful. I’ve tried many recipes for this soup and I’ll stop looking now. Takes a bit of time but worth all the effort. Thanks Chef John!! Another hit"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Char Black"
+},
+"reviewBody": "This is now our favorite minestrone soup. My substitutions were canned cannellini beans for the cranberry beans and thanks to a previous review, romaine lettuce for the chard. I also added spinach with the romaine."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SilVeeSpice"
+},
+"reviewBody": "This has become a favourite that I make year round. Absolutely awesome"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "txcook570"
+},
+"reviewBody": "Delicious soup! I substituted spinach for swiss chard and only put 1 can of kidney beans. I also added 2 Tbsp of pesto! I will definitely make this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "chb"
+},
+"reviewBody": "Delicious. My kids didn’t even complain about the cabbage."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cokie"
+},
+"reviewBody": "This is the best! I was never a fan of minestrone until this recipe. I added kidney beans, carrots, corn, &amp; peas. Used bok choy instead swiss chard. Tasted great. I've made it twice using the veggies I had on hand."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marcia P"
+},
+"reviewBody": "OMG! This is the best minestrone soup I have ever tasted! I couldn't find cranberry beans so I used red kidney beans. It turned out great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Patty2007"
+},
+"reviewBody": "Very good - easy to customize if you want to -- family raved!! I didn't have Chard, so I used spinach; I didn't have crushed tomatoes so I used 2 cans of Fire Roasted diced; I didn't have cranberry beans or Garbanzo, so I used pinto and Great Northern. It came out really well, and will keep this to remake a version with what I have in the future!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sandee"
+},
+"reviewBody": "Great soup! I had to sub out ham for pancetta and orzo."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "millie"
+},
+"reviewBody": "I have never used cranberry beans. I found them at my local grocery store with the other dried beans. I did not realize the recipe called for fresh cranberry beans. When I read the recipe the second time I thought the cooking time was not long enough for dried cranberry beans and that was when I figured out I purchased the beans in the wrong form. I soaked the cranberry beans overnight and precooked them the next day. The soup turned out very good and the beans were not crunchy. I used pancetta and the grated Parmigiano-Reggiano cheese. It was well worth the extra cost. We drizzled the top with olive but did not think it added any extra flavor to the soup. I will not drizzle it with olive oil again. Thank you Chef John for another great recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kate"
+},
+"reviewBody": "Hi - this soup is great. I used a can of kidney beans instead of cranberry beans, but no other changes. With all those vegetables seems very healthy. I will definitely make it again. D-lish!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nancy"
+},
+"reviewBody": "Awesome soup... I did not make any changes, everyone loved it...!!! A+++++\nI I oven toasted some kalamata olive bread with an olive oil, oregano, salt &amp;pepper and some crushed red pepper, spread topped with grated cheese."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "NG"
+},
+"reviewBody": "Fantastic!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Welch"
+},
+"reviewBody": "I made a vegetarian version, which is ridiculous I know, but it turned out great. I accidentally poured in a can of plain tomato sauce and then poured in a can of diced tomatoes in an attempted save and it was awesome!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "phallicymbal"
+},
+"reviewBody": "love it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nadir"
+},
+"reviewBody": "This was a huge hit, my kids loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "recipeDawg"
+},
+"reviewBody": "Chef John rocks and love many of his recipes but for me I didn't like it. My kids thought it was okay but not want it again. It had a real tomato taste to it like a tomato soup I suppose. I did follow the recipe to the letter. I don't know. We all agreed it was okay but not much of it was left when supper was over!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Debby O'Leary"
+},
+"reviewBody": "I made this recipe it was excellent! I made it with Savoy cabbage next time I will use basic green cabbage. The Savoy is a bit chewy. We loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lori Walker"
+},
+"reviewBody": "Using bacon the next time! Also keep some extra chicken broth on hand to add for leftover meals as the maccaroni soaks up the liquid. The crushed red pepper seems to heat up the mixture as it sits. You might want to use a bit less of the peppers, if you're sensitive to hot-spicy dishes. I doubled the batch to have for a few days. The family enjoyed it, saying it smelled like spaghetti or pizza!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ellie Bisulca"
+},
+"reviewBody": "This is an easily made soup with a rich flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jina Jaimes DeMeo"
+},
+"reviewBody": "Great recipe, only addition I made was to bump up the red pepper flakes and added 2 small diced zucchini. So yum!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lannette73"
+},
+"reviewBody": "Super delish!! The cranberry beans took a little longer to cook because I had the heat on low. Next time, I’ll crank it up. I did add more water, and approximately 1/2 cup more of crushed tomatoes. I followed the recipe to a T, except I used red chard. If you don’t mind the heat, leave the same amount of red pepper flakes, otherwise reduce it just a bit. I can’t wait to make it again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Rolled up, hot Italian sausage went well in this soup. So wonderfully filling. A toasted piece of sourdough bread, and Viola, Perfect!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anna Autullo"
+},
+"reviewBody": "Cold, wintry mix Saturday and a pot of this soup simmering on the stove=happiness! Taste tests are delicious! Added a Parmesan rind. Could not find cranberry beans nor Swiss chard at the grocery, substituted great northern beans and lacinto kale. Will try to find cranberry beans and Swiss chard for next time. Thank you for the yummy recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Richard Foster"
+},
+"reviewBody": "I made no changes. The soup is nice and hearty and adds a healthy addition to our dinners. I'd personally season a bit more. But, I admit I tend to 'season' by sight (without a measuring spoon)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cooking Daddy"
+},
+"reviewBody": "I loved this recipe. I can eat it every day. The one thing I would change is the meat. I liked it, but my wife and daughter prefer veggie only versions of the soup. I'm good with it. Bring on the meat. Haha!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Devon Price"
+},
+"reviewBody": "The soup was absolutely amazing without the meat and Cranberries I doubled the recipe and added some green beans and a little bit more chicken bouillon to flavor since we skipped on the meat . My seven-year-old loved this he says it was the best meal ever! Thank you so much John"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Emily"
+},
+"reviewBody": "Ah, Chef John! You continue to amaze my family with your fantastic recipes! This was incredible!!! I did make a few edits: I hate garbanzo beans and I couldn’t find cranberry beans so I substituted with 2 15 oz. cans of Navy beans. I’m not a fan of pancetta but I love bacon so I used bacon. I added no salt, because the bacon brings enough salt for my taste, and I cut the crushed red pepper in half. I also didn’t add the 4 cups of water, because I like my soups to be more like stews. I served with toasted ciabatta bread and my family devoured it!!! Chef John, you are my go-to guy! When I look up recipes I search “Chef John” and just scroll through your creations. Haven’t had a bad recipe yet!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rocks_67"
+},
+"reviewBody": "My go-to recipe every time. I only tweak the beans (use canned kidney and cannelloni) and add extra veggies like broccoli and zucchini when I have it. One of my and my family’s favorites!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lsinclair"
+},
+"reviewBody": "It is really awesome!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Liz Cox"
+},
+"reviewBody": "An outstanding base recipe, adaptable to whatever you have on hand. Chef John’s recipes are the most reliable on this site, bar none."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Debi Farnham"
+},
+"reviewBody": "This was such a good recipe. I used Ro -Tel diced canned tomatoes and it kicked it up."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Elissa San Juan"
+},
+"reviewBody": "I made this with whatever vegetables I had on hand. It was so good and easy. I was a little salty for my taste so next time I will not add any salt or use tomatoes and broth that have no salt."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jim Kata"
+},
+"reviewBody": "made very few changes"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Diane Rickert Gantt"
+},
+"reviewBody": "This is the best Minestrone soup ever!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Vero"
+},
+"reviewBody": "Delicious! Made my veggie version by skipping the pancetta and chicken broth. Used cannellini and garbanzo beans and spinach instead of chard. Great meal to welcome the fall season. Yum..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Roxanne Baker"
+},
+"reviewBody": "Very good! I did have to change a few things because I didn't have pancetta nor the Swiss Char. So I substituted Bacon for pancetta and spinach for Swiss Chard but it worked out fine. Thanks Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Julia Pierce"
+},
+"reviewBody": "We Loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hope"
+},
+"reviewBody": "Very good, will make again. Thank you."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "nanci31"
+},
+"reviewBody": "When I get kale from my CSA, this is always my go-to meal. I seem to add or delete veggies based on what’s in my fridge. The base recipe is awesome. Never disappoints!! Can’t wait to eat. ;)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Whitburn"
+},
+"reviewBody": "Very flavorful and easy to make. Didn't change a thing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Starbuckgrl76"
+},
+"reviewBody": "I’m soo happy at how amazing this recipe turned out!!! I am not a big fan of minestrone soup, I like more cream base soups. I made this for my mom and husband who love minestrone soup and they said it is even better than what they get at some of our local restaurants. I used kale instead of Swiss chard and followed other’s advice on using cannellini beans instead of cranberry beans. Absolutely a must for your personal recipe book!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kim P."
+},
+"reviewBody": "Use 8 c broth rather than 4 + 2 water. Still needed a bit more."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Janae Cox"
+},
+"reviewBody": "I've made this soup many times, the only change being that I substitute bacon for the pancetta and use more than called for. My kids love it, other family members love it, and even multiple people that \"don't like minestrone\" love this recipe. It's a winner. That being said, I love everything chef John does."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "pagansmom"
+},
+"reviewBody": "As everyone else seems to have done, I made a few changes...left out the meat and changed the types of beans. I also used kale instead of chard and it held up really well. It's definitely going into our regular rotation and deliciously fills one of our biweekly vegetarian nights."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chijamman"
+},
+"reviewBody": "Didn’t have any pancetta so sweated the veggies in bacon grease. Terrific recipe, terrific soup! Loaded with all kinds of healthy ingredients. Will definitely make it again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Debbie Venus-Fenrich"
+},
+"reviewBody": "No changes other than adding the rind of cheese as specified by another rater. So good, and perfect for late summer with the abundance of veggies. Thank you Chef John."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rrhaney"
+},
+"reviewBody": "I left out the garbanzos and substituted a can of cannelini beans and used ground turkey instead of pancetta. It came out great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "cdshall124"
+},
+"reviewBody": "Followed the recipe exactly minus the cranberry beans as I do not have access to them. I also made my own pasta. The soup was just okay, kinda boring."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laura C"
+},
+"reviewBody": "Lovely, used white kidney beans instead of cranberry beans, and omitted the chard"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Modified it a bit for my vegan wife: no pancetta or chicken broth. Substituted vegetable stock, leeks instead of onions, cannelloni and dark red kidney beans for garbanzos and cranberry beans, baby spinach for Swiss chard. Added merlot wine, fresh chopped oregano, thyme powder to listed ingredients. Turned out fantastic! Will try the chef’s recommendations next time. Just used what I had on hand this time around."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "katie"
+},
+"reviewBody": "This is the second time around for me, it turned out perfect each time this is definitely the go to minestrone soup for me. Absolutely excellent!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Judene Branigan-Behrens"
+},
+"reviewBody": "As always, Chef John knocks it out of the park with his amazing recipes. I could not find the cranberry beans, and we are not big fans of garbanzo beans, so, I added kidney beans instead. His little touches of olive oil for drizzling and garnish on the top make this Minestrone Soup a home run!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "BJS"
+},
+"reviewBody": "Would add more beans next time, but flavor was great and the family loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sheila"
+},
+"reviewBody": "I didn’t use the pancetta as one of my family members is vegetarian. Turned out great without it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa"
+},
+"reviewBody": "Great recipe, as are all recipes we’ve tried from Chef John. Made his beer"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "geniesue"
+},
+"reviewBody": "Another 5* recipe for Chef John. The base of the soup is perfect in my opinion. The additional vegetables, beans, and pasta are adaptive to what you have on hand. Frozen spinach, assorted fresh veggies, canned beans ( northern black, kidney, garbanzo ) all worked well. Family loves this, from 5 to 70 year olds!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Conti M Barrington"
+},
+"reviewBody": "Absolutely amazing. I added lean ground beef to make it a bit heartier and it was perfect! Tasted like something from a restaurant ... only so much better. Will be making this again for years to come."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "alma ridenour"
+},
+"reviewBody": "My local store did not have cranberry beans so I substituted pinto beans. In the future I would just use canned beans, it took way longer for the raw beans to cook. It’s a very flavorful and hearty soup. Thumbs up for sure!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BessieMarie"
+},
+"reviewBody": "If Chef John created this recipe, I knew it would be fantastic, and indeed, it was a Delicious soup. Substituted fresh spinach(had it in the fridge) for the chard, and finely chopped bacon for the pancetta. Added some veggies that I needed to use up... zucchini and yellow squash, bell pepper, and chopped fresh green beans. This minestrone recipe is a dependable starter recipe to create your personal soup of the day, while using assorted soup fixings from your refrigerator and freezer."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ryan Scarzella"
+},
+"reviewBody": "Made this recipe and followed the ingredient list for the most part (used pinto beans instead of cranberry). I was very impressed with flavor, the cost to make the meal and the amount of soup that was made. Also, You’ll need to add water no mater what. Making this again for sure!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jeanne Cain"
+},
+"reviewBody": "This soup recipe is the best! It tastes just like my mom made when I was a child. I used ham hocks instead of the pancetta. There is nothing like soup on a cold and wintry day.??"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sara Ledesma"
+},
+"reviewBody": "Absolutely fabulous! One of my new favorites! Changed a few things— only used 1.5 tsp salt, 3/4 tsp red pepper flakes, bacon instead of pancetta, spinach instead of Swiss chard (I have that in hand way more than Swiss chard), and I also added some leftover unseasoned beef from taco night! AMAZING!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sheryl"
+},
+"reviewBody": "I made this soup for dinner last nite and it was absolutely delicious! My husband is still raving about this soup and he is a very picky eater/food critic.! Will definitely make this again but will cut back on the pasta to 1/2 C. I passed this recipe along to my sister as well!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/223044/chef-johns-minestrone-soup/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/184/soups-stews-and-chili/soup/vegetable-soup/",
+"name": "Vegetable Soup Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17038/soups-stews-and-chili/soup/vegetable-soup/minestrone/",
+"name": "Minestrone"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/223044/chef-johns-minestrone-soup/",
+"name": "Chef John&#39;s Minestrone Soup"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

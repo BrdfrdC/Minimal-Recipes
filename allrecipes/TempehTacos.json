@@ -1,0 +1,283 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Tempeh Tacos"
+,"datePublished": "2020-03-09T22:52:03.000-04:00"
+,"dateModified": "2020-03-09T22:52:03.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Shauntea"
+,"url": "https://www.allrecipes.com/cook/2266831"
+}
+]
+,"description": "Spicy tempeh can be grated and simmered with onion and garlic to make a tasty meatless option for tacos, thanks to this recipe."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/VlEsGcoTcByBRZhpbj4Sah21iGA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1122774-855bc9c0b751463cb9e5b73fffcacdc9.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Tempeh Tacos"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "18"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "199 kcal"
+,"carbohydrateContent": "11 g"
+,"fiberContent": "1 g"
+,"proteinContent": "11 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "392 mg"
+,"sugarContent": "2 g"
+,"fatContent": "13 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"2 tablespoons extra virgin olive oil",
+"1 small onion, minced",
+"2 cloves garlic, minced",
+"1 (8 ounce) package spicy flavored tempeh, coarsely grated",
+"0.5 cup vegetable broth",
+"2 tablespoons taco seasoning mix",
+"1 teaspoon dried oregano",
+"0.5 teaspoon ground red pepper" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat oil in skillet on medium-high heat. Cook and stir onion in the hot oil until it begins to soften, about 5 minutes; add garlic and continue to cook until fragrant, 1 to 2 minutes. Stir grated tempeh into onion mixture; cook and stir until lightly browned, about 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour vegetable broth over the tempeh mixture and reduce heat to low; season with taco seasoning, oregano, and ground red pepper. Cook, stirring regularly, until most of the liquid has evaporated, about 5 minutes."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT30M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sara Fults"
+},
+"reviewBody": "Yum! I did not have spicy tempeh, so I sprinkled it with cumin and cayenne pepper. I am excited to make again. Easy and delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "heilbrn"
+},
+"reviewBody": "No changes made and I’d definitely make it again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ThanksgivingTwinsMom"
+},
+"reviewBody": "Pleasantly surprised with how well this turned out - at first when I sampled the filling it didn't seem like the tempeh \"worked\" with the taco seasoning but then after adding cheese, cilantro, and salsa, our whole family thoroughly enjoyed it. I used one of the taco seasoning recipes on this site, used regular tempeh (found that I can just sort of crumble it in the pan rather than shredding it). I also diced some Yukon Gold potatoes and sauteed them before adding the tempeh and seasonings."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Pleasantly surprised with how well this turned out - at first when I sampled the filling it didn't seem like the tempeh \"worked\" with the taco seasoning but then after adding cheese, cilantro, and salsa, our whole family thoroughly enjoyed it. I used one of the taco seasoning recipes on this site, used regular tempeh (found that I can just sort of crumble it in the pan rather than shredding it). I also diced some Yukon Gold potatoes and sauteed them before adding the tempeh and seasonings."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "evamar97"
+},
+"reviewBody": "This was my first try with tempeh, and I found it tasty. I used just one tablespoon of olive oil, found that to be plenty. Also used water instead of vegetable broth and chopped up a fresh jalapeño with the onion. I used a taco seasoning recipe from the website. I will make again for sure!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SHoward"
+},
+"reviewBody": "Wonderful recipe! I used non-seasoned tempeh and thought that there was plenty of flavor. For the taco seasoning, I used two tablespoons of the Taco Seasoning I recipe on this website. I also threw in an extra clove of garlic, which is par for the course with me. Topped with avocado, pico de gallo, and olives. Thank you for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "bcsunny"
+},
+"reviewBody": "I changed a lot of it. Used beef bouillon rather than veg broth, fajita seasoning rather than taco. Kept the onions and garlic but added avocado and greens rather than red pepper. I think you can really play around with this recipe to suit your taste."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lilly Frances"
+},
+"reviewBody": "Great recipe, simple and easy but healthful and tasty. I made a chipotle lime sauce with sour cream, lime juice and chipotle powder to go with it and served it with green onions and chopped grape tomatoes, and I used flour tortillas for serving but I think next time I'll use corn."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JMA"
+},
+"reviewBody": "I've made this a few times with several variations . I recommend steaming the tempeh for 10 minutes before cooking. This opens it up to absorb more favors. I add some tri color peppers and jalapeño and instead of taco season I do some chili powder, cumin, cayenne pepper and may throw some fresh green onions on top. It's fun to play with the spices and add fresh veggies to make it a more balanced meal. I definitely recommend topping with salsa and guac or avocado. Thanks for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kristina Lee"
+},
+"reviewBody": "Delicious! Filled corn tortillas with this tempeh mixture and homemade salsa...sooo good! Would have loved to top with guacamole if I had an avacado."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "halosandbagels"
+},
+"reviewBody": "This was the recipe I used the first time I ever attempted cooking tempeh. It came out looking exactly like ground beef! It was delicious and I'm really excited to try other tempeh recipes! Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jamie Justice Yost"
+},
+"reviewBody": "Absolutely LOVE these as a meatless alternative to tacos! I didn't have any taco seasoning (although I scoured my cabinets) so I used some cumin and other spices for a homemade seasoning. My grocery store only had plain tempeh, but I thought the flavor was great as-is. We topped ours with avocado, salsa, lettuce, and sour cream and ate them on whole wheat tortillas. This is already in our weeknight rotation as a go-to dinner. Super quick, the husband loves it, AND it makes just enough for him to take the leftovers to lunch the next day. LOVE!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/235349/tempeh-tacos/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/237/world-cuisine/latin-american/",
+"name": "Latin American"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/728/world-cuisine/latin-american/mexican/",
+"name": "Mexican"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/235349/tempeh-tacos/",
+"name": "Tempeh Tacos"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

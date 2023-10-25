@@ -1,0 +1,888 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Turkey Avocado Panini"
+,"datePublished": "2009-06-17T11:36:25.000-04:00"
+,"dateModified": "2017-06-21T09:01:27.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Amanda"
+,"url": "https://www.allrecipes.com/cook/1515764"
+}
+]
+,"description": "A panini sandwich with avocado mayonnaise is layered with smoked turkey, roasted red peppers, and provolone cheese, and pressed until the sandwich is crisp and toasted and the filling is melted."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/YvFmM779nyM7dyF1ekaej-S1aBM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5428404-5820c635c8c74ffb994140fc3d000fea.jpg",
+"height": 1000,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Turkey Avocado Panini"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "91"
+}
+,"cookTime": "PT8M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "723 kcal"
+,"carbohydrateContent": "42 g"
+,"cholesterolContent": "62 mg"
+,"fiberContent": "6 g"
+,"proteinContent": "25 g"
+,"saturatedFatContent": "13 g"
+,"sodiumContent": "1720 mg"
+,"sugarContent": "4 g"
+,"fatContent": "51 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT17M"
+,"recipeIngredient": [
+"0.5 ripe avocado",
+"0.25 cup mayonnaise",
+"2 ciabatta rolls",
+"1 tablespoon olive oil, divided",
+"2 slices provolone cheese",
+"1 cup whole fresh spinach leaves, divided",
+"0.25 pound thinly sliced mesquite smoked turkey breast",
+"2 roasted red peppers, sliced into strips" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Mash the avocado and the mayonnaise together in a bowl until thoroughly mixed."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat a panini sandwich press."
+} ,{
+"@type": "HowToStep"
+,"text": "To make the sandwiches, split the ciabatta rolls in half the flat way, and brush the bottom of each roll with olive oil. Place the bottoms of the rolls onto the panini press, olive oil side down. Place a provolone cheese slice, half the spinach leaves, half the sliced turkey breast, and a sliced roasted red pepper on each sandwich. Spread half of the avocado mixture on the cut surface of each top, and place the top of the roll on the sandwich. Brush the top of the roll with olive oil."
+} ,{
+"@type": "HowToStep"
+,"text": "Close the panini press and cook until the bun is toasted and crisp, with golden brown grill marks, and the cheese has melted, about 5 to 8 minutes."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT25M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Daniel Bixler"
+},
+"reviewBody": "Family LOVED these!\nBlended this recipe w/- Turkey and Bacon Panini with Chipotle Mayonnaise\nMayo+avocado+minced chipotle and adobo sauce \nstack- Swiss cheese,turkey,bacon, roasted red pepper\nGrill on panini press\nAdd alfalfa sprouts (in place of spinach)\nserved w/ Caesar salad and fruit yogurt ambrosia"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lisa"
+},
+"reviewBody": "did not have a press, just fried it in 2 T of olive oil at medium heat for 5 min each or util toasted"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cookie Momster"
+},
+"reviewBody": "This was my first time ever preparing/eating avocado. I'm trying to eat healthier and this was a good first stepping stone towards that. I put lots of red onion on it, super yummy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "nursechele"
+},
+"reviewBody": "Added a slice of ham, used sundried tomatoes instead of red pepper. Served with vegetable soup."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rob"
+},
+"reviewBody": "I substituted pepper jack cheese and romaine lettuce. I also added dill pickle. This sandwich was amazing! Will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "PPK"
+},
+"reviewBody": "Good, but you don't need all the mayo it calls for. We'll cut in half or just a smidgen if needed. With all the mayo in the avocado it was to runny &amp; messy. You couldn't taste the flavor of anything because of the messy mayo/avocado spread. Want to taste the mesquite smoked turkey &amp; avocado especially."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "fabeveryday"
+},
+"reviewBody": "This sandwich is so delicious and so versatile! You can use chicken as an alternative, or even make it into a grilled wrap if you don’t have ciabatta."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sheila LaLonde"
+},
+"reviewBody": "Very simple and delicious sandwich. I doubled the amount of avocado per personal taste, but otherwise followed the recipe! Thanks for sharing your recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Maria"
+},
+"reviewBody": "it was good. nothing spectacular though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "DoWhat??"
+},
+"reviewBody": "Easy to make and tastes great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kim's Cooking Now"
+},
+"reviewBody": "Really good sandwich! I don't have a panini press, so I just placed our 4 sandwiches on my cast iron griddle and placed my baking stone on top. Only took a couple of minutes to get some nice grill marks. The kids said I put too many peppers on them (note to myself for next time - go sparingly with the peppers)!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Racedogmom"
+},
+"reviewBody": "Easy vegetarian conversion. I just left out the turkey as my husband &amp; I do not eat meat. I did offer to substitute vegetarian \"turkey lunchmeat\", but hubby said not to bother. Great with swiss cheese, too. And a healthy sprinkle of cracked black pepper. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Luna_angel"
+},
+"reviewBody": "This was really good! I did not use spinach and I added turkey bacon to it was yummy :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Bey"
+},
+"reviewBody": "I ended up using sourdough bread instead and the family loved it tonight. They weren't quite sure how they felt about the avocado/mayonnaise combo. I think I might use the mayo seperate and use sliced avocado instead. But it is a definite keeper!!! Thank you for sharing :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Elvira Silva"
+},
+"reviewBody": "Awesome sandwiches! Doubled the recipe, no need to change anything!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle Morse-Wendt"
+},
+"reviewBody": "maybe serve with guac if saving some for next day. (did guac instead of just avocado)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle Wyse"
+},
+"reviewBody": "Wonderful little sandwich, and very flexible too. I've replaced the roasted red peppers with thinly slice tomato, and used homemade whole wheat onion buns with equal success. Thanks so much for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amy"
+},
+"reviewBody": "Easy - did notnhave chibatta but used regular bread and made it in a pan like grilled cheese. Delicious!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mommyluvs2cook"
+},
+"reviewBody": "This sandwich is exactly what I was looking for! Very yummy! :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kirklandcook"
+},
+"reviewBody": "Yummy Sandwich! Pretty much followed the recipe, but used sourdough bread and did not measure each ingredient--probably used more provolone for each sandwich. I also lightly spread butter on the outer slices of the bread instead of using olive oil."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Deb C"
+},
+"reviewBody": "This is an excellent Panini, full of flavor and healthy too. As a personal preference, I added extra slices of turkey and provolone, and used Tuscan bread. I smooshed it really well in my Panini press to cook it thoroughly. Yum."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LatinaCook"
+},
+"reviewBody": "Perfectly delicious! If you are tired of the same ol' sandwich, give this panini a try. I didn't press mine much because I prefer the vegetables raw. I did enough so that I got the pretty grill lines on my bread and the cheese melted just a tad. I served these with sweet potato fries."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lou"
+},
+"reviewBody": "We loved this! We aren't big mayo fans, so I substituted 2 spoonfuls of sour cream for the mayo, and actually used the whole avocado so it wouldn't go to waste. We used regular sub bread and just put everything on our forman grill (minus the spinach--put that on afterwards). We also used red onions instead of red peppers and it was wonderful! Just like a Panera Panini!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Heather"
+},
+"reviewBody": "WOW! What a great panini...thanks for sharing. Only change was fresh baked Italian bread instead of the Ciabatta rolls. Will make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "heathergus"
+},
+"reviewBody": "So yummy. Image this for lunch with girlfriends and they thought I ordered panera. I do however think I overdid the olive oil on the bread, bit besides that they were so good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LoveJoy"
+},
+"reviewBody": "I LOVE the avocado mayo dressing....I will surely use it on future sandwiches...awesome! I used extra-large sliced white bread instead of ciabatta, worked perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mamacook"
+},
+"reviewBody": "Even the kids LOVED it! Did add bacon and thinly sliced red onion, and had to use white american cheese. Also sprinkled with some season-all jus to add a little extra spice. WONDERFUL!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "christyjoy"
+},
+"reviewBody": "I made these last night and everyone loved them I did add whole canned chilis sliced to give them a kick"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sassylady"
+},
+"reviewBody": "I love this recipe and make it for my husband often!! I don't use the red peppers but substitute with sun dried tomatoes. I love it. Will have to try it with some onion and bacon next time too..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "chrisyb96"
+},
+"reviewBody": "I made this tonight and it was so easy and yummy. I used my George Formen grill to grill the panini's. I've made a few different kinds before and that grill works great for them. Love the avocado mayo."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christine W"
+},
+"reviewBody": "This is a super easysandwich that is really good. I made it as described, except I did not mix the avocado and mayo together, I just spread mayo and topped the sandwich with slices of avocado. The roasted red peppers were really good, and I topped my sadnwich with a splash of balsalmic vinegar before cooking it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "beckyp382"
+},
+"reviewBody": "Great sandwich, but the spinach was really out of place"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bibi"
+},
+"reviewBody": "Love this sandwich! Imaginative combination of flavors--we really enjoyed them. The avocado mayonnaise was delicious. I used a whole small avocado and olive oil based mayo. Really good--will do again. Thanks for posting this!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ricfera"
+},
+"reviewBody": "I made this 4 times this week already and everytime it comes out just as good as the last time. I used only a hint of mayonaise and slice the avocado.I did not have peppers but we did not miss them at all!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "kac2research"
+},
+"reviewBody": "Yummy! The only reason I didn't give this 5 stars is because I mde some slight modifications to the recipe. I didn't have spinach so I didn't use that and I used lorraine swiss instead of provolone. This was really good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jules"
+},
+"reviewBody": "This recipe is awesome! We replaced roasted peppers with sun dired tomoatoes simmered in red wine. Next time we will add baccon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "this is awesome"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Carri Villella Levitski"
+},
+"reviewBody": "I only gave this 3 out of 5 because the spinach wasn't good when cooked. The avocado mayo was great. The red peppers were great, we just didn't like the way the spinach tasted limp and warm. Next time we will put some red onion on instead and those wanting greens we'll put on afterward."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ericksonpad"
+},
+"reviewBody": "This recipe is a 5, mine was like a 3. I only had avocado, ciabatta, turkey, green peppers &amp; meunster. It was good, but red peppers would have really made it!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "B"
+},
+"reviewBody": "This was the best homemade panini I have ever had! I will be making this a lot in the future!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "speaktrue"
+},
+"reviewBody": "The recipe was outstanding! I did not have a panini press so i drizzled olive oil on tinfoil and wrapped the sandwich in the foil. Baked at 400 degrees 20 minutes. (I am at high elevation). Ciabatta bread had wonderful crisp bottom and top. The spinach was a great addition and did not get overcooked. May add red onion next time. Thanks for a great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Karin V"
+},
+"reviewBody": "The only thing we think the sandwich lacks is a little spice. It has a lot of bland flavors so next time I will add a little zing. I also used way less mayo. We did not miss that at all. But to have a great sandwich fast, this is excellent and we will have again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "CHARITYBOO"
+},
+"reviewBody": "add red onion and bacon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Haley Morgan"
+},
+"reviewBody": "I was out of avocado and Red Peppers but it was wonderful anyway. I never made my own Panini and I am proud I now have a recipe. Can't wait to try it again with the avocado and peppers. I am sure it will be even better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Rachel Staloch"
+},
+"reviewBody": "This was alright. I think a little less mayo would have made it better. Also, a few other good additions may be crispy bacon and thinly sliced red onion. It just seemed like it was missing something and I think these additions may improve the flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "love2cook"
+},
+"reviewBody": "Totally yummy...I use a whole avacado and fat-free mayo and it is rich and delicious! This is good with any kind of salad greens and also tomatoes. Also, using whole wheat or a grainy bread gives it more depth and texture! Just great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LEHEWA"
+},
+"reviewBody": "Restaurant quality. Fabulous. I could eat it every day. Only change I made was to use the whole (small) avocado and a small (maybe 1/8 cup) of mayo. Will definitely be a staple around my house. Even the almost 2 year old ate it up:)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DANIELLE BEATTY"
+},
+"reviewBody": "Absolutely delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Juliana Cloud"
+},
+"reviewBody": "Very good sandwich! Served with soup on the side...hit the spot on a cold winter day."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Deborahale"
+},
+"reviewBody": "Delicious as written. Stepped it up a notch by grilling turkey cutlets and using them in place of the sliced turkey breast."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "k861084"
+},
+"reviewBody": "This was very good! The only thing I did differently is that I changed the ratio of avocado to mayo so that it was more avocado-ey."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JUDY G"
+},
+"reviewBody": "Absolutely delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lisaboud"
+},
+"reviewBody": "My family and I loved this panini, very good. the avocado mayo was delicious!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kim R"
+},
+"reviewBody": "This sandwich was great! The recipe was very easy to follow and my husband who is a food critic loved it as well! As LOR9 said, it is very easy to change up the ingredients to your personal taste. Highly recommend!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LOR9"
+},
+"reviewBody": "Fantastic sandwich! I followed the recipe and have tried subtle changes numerous times now. This is a fantastic sandwich that you can make \"your own\" if you want to add or subtract. Very, very easy to make. Great sandwich to have over and over again. KUDOS! I highly recommend."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amanda"
+},
+"reviewBody": "I used 1 slice of turkey per sandwich, enough spinach leaves to cover the sandwich, and enough roasted red pepper pieces from a jar to cover the sandwich. I didn't use the whole 1/4 lb. turkey, or the whole cup of spinach leaves, nor did I roast 2 red peppers for two sandwiches. Hope this note clarifies a bit!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Meena Sarin"
+},
+"reviewBody": "Hey....would give it a higher rating based on taste but 4023 mg sodium???? (that's what the nutrition fact says...........)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mee-Maw"
+},
+"reviewBody": "Not sure how much turkey I used but, I did put a healthy portion of shaved turkey breast on the bread and enough spinach to make me happy. Love the spinach! I had about 1/2 a roasted red pepper left in the fridge and that was plenty for my sandwich. I do not have a panini press so used my cast iron grill pan and weighted it down to mash the sandwich and leave the bread nice and crispy and well marked. Great sandwich, a hearty and very filling meal. Love the addition of the avocado. Thanks Amanda."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/201117/turkey-avocado-panini/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/231/world-cuisine/european/",
+"name": "European"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/723/world-cuisine/european/italian/",
+"name": "Italian"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/201117/turkey-avocado-panini/",
+"name": "Turkey Avocado Panini"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

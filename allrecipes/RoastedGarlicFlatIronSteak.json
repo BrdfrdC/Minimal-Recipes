@@ -1,0 +1,800 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Roasted Garlic Flat Iron Steak"
+,"datePublished": "2020-02-05T22:50:02.000-05:00"
+,"dateModified": "2022-10-28T15:01:55.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "angelak06"
+,"url": "https://www.allrecipes.com/cook/1783262"
+}
+]
+,"description": "These steaks, seasoned with a delicious hunk of garlic, are guaranteed to melt in your mouth and have the family begging for more."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/9MINRF_RJZLTSNpXjeZyKn_8nqY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1016661-roasted-garlic-flat-iron-steak-Christina-4x3-1-a23a52da92c54762ae69752e999dcceb.jpg",
+"height": 750,
+"width": 1000
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Roasted Garlic Flat Iron Steak"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.4",
+"ratingCount": "61"
+}
+,"cookTime": "PT25M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "711 kcal"
+,"carbohydrateContent": "4 g"
+,"cholesterolContent": "155 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "47 g"
+,"saturatedFatContent": "14 g"
+,"sodiumContent": "148 mg"
+,"sugarContent": "0 g"
+,"fatContent": "57 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"15 cloves garlic",
+"1 tablespoon olive oil",
+"0.5 cup olive oil",
+"4 (8 ounce) flat iron steaks",
+"salt and ground black pepper to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat oven to 350 degrees F (175 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Arrange garlic cloves on a baking sheet. Drizzle 1 tablespoon olive oil over garlic."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake garlic in preheated oven until golden brown, 15 to 20 minutes, stirring once to prevent burning. Remove from oven and allow to cool."
+} ,{
+"@type": "HowToStep"
+,"text": "Place cooled garlic and 1/2 cup olive oil in a food processor; blend until mixture is a paste."
+} ,{
+"@type": "HowToStep"
+,"text": "Season steaks with salt and pepper. Rub garlic paste on both sides of each steak."
+} ,{
+"@type": "HowToStep"
+,"text": "Place a large skillet over medium heat. Cook the steaks until the internal temperature reaches 135 degrees to 140 degrees F (60 degrees C), about 5 minutes per side. Remove the whole pan from the heat and let stand until steaks reach an internal temperature of 145 degrees F (63 degrees C), or your desired degree of doneness."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT35M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Dick Tebaldi"
+},
+"reviewBody": "I like to cook my flat iron steaks in a marinade or just some beef broth after I've browned them. I find braising tough cuts really tenderizes them and they are tastier than lots of other cuts."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Patrick Conner"
+},
+"reviewBody": "The cut of meat I had took more than 5 min.per side to get to 135. Overall it was a tasty steak."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Martha Johnson"
+},
+"reviewBody": "I love garlic, so any recipe calling for 15 cloves automatically p has my attention. I do think that 1/2 c olive oil, however, is about twice as much as you need to make the rub. I'd make it again, but using 1/4 c oil"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SLaB"
+},
+"reviewBody": "This recipe was simply and didn't require a ton of ingredients. It was quick to prepare and cook. Finally even though it is a garlic recipe it wasn't over garlicky."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Helen Smith"
+},
+"reviewBody": "I have a suggestion. Purple garlic and other photos do not look appetizing. Whomever is sending these photo, hope you guys can do a better job with the camera. Great idea of roasting and then adding some fresh to the mixture!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cheryl"
+},
+"reviewBody": "Very simple and flavorful for garlic lovers, which we are. I did salt the flat iron steak overnight to tenderize it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Deb03"
+},
+"reviewBody": "This was fabulous! My family and I loved this and it was so easy...Will definitely be a repeat in our household. I did not make any substitutions as it was not necessary..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "SweetNov88"
+},
+"reviewBody": "This was okay. Didn't give it as much flavor as I had hoped for."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "working mom"
+},
+"reviewBody": "so easy and so good \r\nthanks"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Nancy Kay Thomas"
+},
+"reviewBody": "The garlic sauce was too thin . I think you could do it with a third cup of oil. Steaks were very good but too greasy. I will drop the oil content next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "augboilerdawes"
+},
+"reviewBody": "Good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christina"
+},
+"reviewBody": "DELICIOUS! This was a first time for me making flat iron steaks, and they turned out great! I did use more roasted garlic than called for. I seasoned my steaks w/ s&amp;p, slathered the roasted garlic mixture all over, covered and refrigerated it until I was ready to cook them, so they had time to get extra yummy and flavorful. Everyone loved this, and I will def be making this again! Thanks for sharing. :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "McDonna"
+},
+"reviewBody": "This recipe was fast, easy and delicious! Flatiron steak is not a very tender cut of meat, usually. But the way this turned out was amazing, and not even the tough bites of the steak diminished my enjoyment! I have some Smoked Spanish Paprika that I threw on the steak before putting the garlic spread. WOW - great way to ramp up a good thing even more! Definitely will make this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Leasa"
+},
+"reviewBody": "I used exact amounts and used only two flat iron steaks. First off 1/2 cup Extra Virgin Olive Oil was to much oil to make a paste--for me. I personally think it could have used more garlic due to the fact it did not really have much flavor-i only tasted a \"HINT\" of garlic. Not what I was expecting since i only used two steaks and 15 cloves (and cloves were not small). Husband said he would have liked it better with just flour, salt, pepper breading. \nI do like the fact that olive oil was used making it more healthier. I \"might\" make it again with some adjustments. Cutting the olive oil in the paste an adding some fresh crushed garlic to the paste to give it more of a garlic flavor. I think by roasting the garlic it does not have that \"zing\" of a garlic flavor I was looking forward to."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "FLYINGSCOT4"
+},
+"reviewBody": "The recipe is very good and I have been using it myself for some time. One thing that I wish to point out is that the flat iron steak is known to be the second-most tender cut of beef, following the tenderloin, but with better flavor (at least in my opinion). The garlic paste does not make the steak more tender (that is from the amount of fat in the meat), but it blends perfectly with the beefiness of the steak. Another name for the cut of meat is \"top blade chuck steak.\""
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sellrobert"
+},
+"reviewBody": "I have never used this cut of steak before, so I was worried about how it would taste. I looked this recipe up and decided to try it with garlic potato Pirogies. I must say, this is one of the best steaks I have cooked. Very tender and amazingly flavorful. Great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kay"
+},
+"reviewBody": "I love garlic and after reading how kids like this I will make this tonight! My daughter is picky when it comes to meat but I am sure she will like this one. \n\nThanks for the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Vic"
+},
+"reviewBody": "This is my families favorite steak recipe. It's easy, fast and delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alishia Marie Toth"
+},
+"reviewBody": "i made this for dinner on 3/22/11 then made this over and over again at least a good 11 times this is now my familes go to steak recipe thanks to you making it again for the 12th time on 7/6/2011 :\ni finally found a way to make a tender steak thank you so much i also added mrs. dash garlic and herb seasoning to the steak rub and yummy will do again and again because the steak was not tough at all the secret is the olive oil!!! :).......oh by the way you can do this a number of ways i have i used minced garlic in a jar works just fine to cut on time and good ol montreal steak seasoning also works too but you must and i do say must use the olive oil! another tip: can also add a bit of onion powder too. either way i still get a yummy steak with the mrs. dash or the montreal seasoning as long as i am using olive oil to marinate it. WONDERFUL GRILL RECIPE FOR A STEAK TOO!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sarah"
+},
+"reviewBody": "YUM!!! So easy and SO delicious! This is my go-to recipe for this type of steak, but it's great on chicken too! I added a few cloves of fresh garlic to the paste and cooked it on a George Foreman-type grill, and it couldn't be better. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Katy(:"
+},
+"reviewBody": "i am 13 year old teenager and me and my cousin (15) needed something easy and quick to make and this was perfect tasted great just needed a little more garlic other than that great"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "JEPPER"
+},
+"reviewBody": "Very good! Here's how to make it easier - YOU DO NOT NEED TO PEEL the garlic cloves, just separate from the bulb of garlic. Cook in a scrap of foil, and once cooled a bit, the garlic will squeeze right out of the skin. I also found the garlic will burn if cooking over a temp over medium."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "JustNora"
+},
+"reviewBody": "Not very flavorful."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "AdicaArethusa"
+},
+"reviewBody": "These were really good. I cut the recipe in half for two 8-oz steaks. I did end up adding a couple more cloves of garlic, though, from other reviews saying that there's not a lot of garlic flavor. I think next time I'll make the garlic paste ahead of time and marinate the steak in it for a few hours and add a couple of raw cloves along with the roasted ones. Next time I might try grilling it, too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Amy Timms"
+},
+"reviewBody": "The flavor on this steak was outstanding. We topped it off with a few blue cheese crumbles, and it made our mouth do a happy dance. I did use far less olive than stated to make it into a paste. I would suggest you just slowly pour the olive oil into the food processor until a paste forms. I followed the directions as written and came up with more of whirled olive oil with garlic smashed in it and it was not a paste like consistency."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "My4boys"
+},
+"reviewBody": "I really enjoyed this recipe. I have never cooked a flat iron steak on the stove top before. Next time I will need to cook mine more to bring the temp up as I do not like my meat rare. (which is what we ended up with)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "My4boys"
+},
+"reviewBody": "I really enjoyed this recipe. I have never cooked a flat iron steak on the stove top before. Next time I will need to cook mine more to bring the temp up as I do not like my meat rare. (which is what we ended up with)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SUSIE REDSOX"
+},
+"reviewBody": "Also a quick way to roast garlic is put olive oil in a piece of tin foil and the whole head of garlic. All I did was add red pepper flakes and Italian seasoning and mash it on top fabulous!!! Thanks for the the start to a great make again meal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sonya Marie M"
+},
+"reviewBody": "I really like this recipe. It is simple and everyone liked it. The only thing that i did differently was the garlic. Instead of using whole garlic cloves, I used the Garlic that already comes diced and prepd for you. Tastes just as good and cooks a lot faster!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kimberly Pipkin"
+},
+"reviewBody": "LOVED IT Extremely TENDER, no knife needed! The only thing I did different , I used meat tenderizer and a little bit of Italian dressing. I also added 2 more cloves of garlic, as I love garlic. Will become a regular at our house."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "PERTYGIRL"
+},
+"reviewBody": "Husband really liked this. He is amazed at how tender the meat is. We put it on corn tortillas with lettuce and cheese, very good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Prudence"
+},
+"reviewBody": "I should have added more salt. I have found roasted garlic in a jar that tastes similar to this, a lot less work."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ColoradoSnoflake"
+},
+"reviewBody": "I love roasted garlic and always make it and have it on hand. This was a great way to use it. I used another reviewer's technique of broiling it. Wonderful flavor, super juicy, and tender."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Karin"
+},
+"reviewBody": "This turned a very cheap cut of meat into a tender, flavorful meal. I took the advice of a previous reviewer and added a couple cloves of fresh garlic to the roasted garlic in the food processor. The resulting flavor was perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "heatherly"
+},
+"reviewBody": "Not quite enough garlic for me, but still moist and yummy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rae"
+},
+"reviewBody": "This was very good. I needed something quick to do with some steaks we were supposed to grill but it was to windy. This was perfect. I did use New York Strip Steaks because that was what I had. Thanks. Will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shauna"
+},
+"reviewBody": "So easy and so fabulous! I smothered one side of the steak with half the garlic mixture and put it under the broiler for 4-5 min, then flipped, smothered with the other half and broiled for 4-5 more min. I will do this again and again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LIBBITTA"
+},
+"reviewBody": "Excellent recipe. Really made the meat more tender than we've experienced with this cut. I didn't have time to deal with the food processor, but wisking together seemed to work fine. I also had to butterfly the steak since it was a thick cut, but it came out perfectly!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "LINDA MCLEAN"
+},
+"reviewBody": "I made eight flat iron steaks for Dad's Day this past weekend. I marinated half of them using a recipe a friend gave me and used this recipe for the other half. We grilled these outside and both were excellent. Thank you Angela!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Adam Chou"
+},
+"reviewBody": "This is a really inexpensive cut of meat yet is still very tender and tasty so that is great. Flavor wise though, the steak wasn't fantastic. It was good but not great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa"
+},
+"reviewBody": "I thought this was just okay. I didn't really taste the garlic even though I used a ton of it. I think these steaks would be better just marinated in a store bought marinade and then grilled."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Miss V"
+},
+"reviewBody": "Tried this this weekend and no one asked for steak sauce. Great hit at home. Thank you."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "aubreyp"
+},
+"reviewBody": "This was pretty good, but I think I got the wrong cut of meat. I wished it would've been more garlicky, but it surprisingly wasn't. But still good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ileen"
+},
+"reviewBody": "AWESOME!\nI made this for our anniversary and it was wonderful :-).\nMy husband LOVED it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Renee Padgitt"
+},
+"reviewBody": "very good! My garlic cloves were a little on the small side so the paste was very thin. I just brushed it on and followed the recipe. My kids loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carissa Vanco Bywaters"
+},
+"reviewBody": "Simple yet delicious recipe. It took no time to make and the flavor was tremendous. The steak was soft like butter and the flavor was excellent. I even used a very inexpensive cut of meat and it still came out extra tender. Will def make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tsanders56"
+},
+"reviewBody": "I normally like to grill steak, but due to bad weather I searched for a way to cook my flat iron steak indoors. This dish was absolutely superb. My wife and both children (11 year old bot and 13 year old girl) all raved about it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "NT"
+},
+"reviewBody": "This was a really easy way to fill up the two military men roommates I have!!! I am trying figure out what to serve with it. Garlic mashed potatoes or rice hmmm."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lani76"
+},
+"reviewBody": "It didn't have enough of a garlic kick for me and my family so I upped the garlic to 15 roasted garlic cloves and used 5 fresh garlic cloves. I used this same sauce recipe on cubed chicken baked in the oven also on baked scallops and pan-fried shrimp it is absolute delicious. My mother loves this sauce on her rice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Holly"
+},
+"reviewBody": "Not worth all the trouble, won't make this again unless I have an abundance of garlic!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathryn Eckblad Hoglund"
+},
+"reviewBody": "Simple and tasty. What more could you ask for?"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/150353/roasted-garlic-flat-iron-steak/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/475/meat-and-poultry/beef/steaks/",
+"name": "Steaks"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17641/meat-and-poultry/beef/steaks/flat-iron-steak/",
+"name": "Flat Iron Steak Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/150353/roasted-garlic-flat-iron-steak/",
+"name": "Roasted Garlic Flat Iron Steak"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

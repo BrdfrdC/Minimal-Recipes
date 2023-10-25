@@ -1,0 +1,127 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Dilly Bloody Mary"
+,"datePublished": "2019-04-20T02:50:34.000-04:00"
+,"dateModified": "2019-04-20T02:50:34.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "France C"
+,"url": "https://www.allrecipes.com/cook/francecevallos"
+}
+]
+,"description": "Kick up your Bloody Mary with this dill pickle twist on a classic cocktail favorite that&#39;s easy to make and perfect for a party."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/T5-Xca2oN9yGQKYlgUSLeiQxwt0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6549392-03a576880c594ffd899e1464a6103b44.jpg",
+"height": 1000,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Dilly Bloody Mary"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "258 kcal"
+,"carbohydrateContent": "45 g"
+,"fiberContent": "13 g"
+,"proteinContent": "5 g"
+,"saturatedFatContent": "0 g"
+,"sodiumContent": "1870 mg"
+,"sugarContent": "7 g"
+,"fatContent": "1 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"1 teaspoon chili-lime seasoning, such as Tajin®), or to taste",
+"3 lime wedges, divided",
+"2 cups ice cubes, or as needed, divided",
+"4 ounces bottled Bloody Mary mix (such as Zing Zang®)",
+"2 fluid ounces kosher pickle juice",
+"2 fluid ounces vodka",
+"4 dashes Worcestershire sauce",
+"2 dashes hot pepper sauce (such as Tabasco®), or to taste",
+"2 lemon wedges, divided",
+"2 sprigs fresh dill",
+"1 dill pickle spear",
+"1 lemon wedge" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Pour chili-lime seasoning onto a small plate. Rub the edge of a pint-sized jar with 1 lime wedge. Dip the edge of the jar into the seasoning. Fill jar with 1 cup ice and set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Fill a cocktail shaker with remaining cup of ice, Bloody Mary mix, pickle juice, vodka, Worcestershire, and hot sauce. Squeeze in 1 lime wedge and 1 lemon wedge."
+} ,{
+"@type": "HowToStep"
+,"text": "Roughly chop 1 fresh dill sprig and add to the shaker. Place lid on the shaker and shake for 10 seconds to combine. Strain into the prepared jar and garnish with pickle spear and remaining dill, lime, and lemon."
+} ]
+,"recipeYield": ["1"]
+,"totalTime": "PT5M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/272850/dilly-bloody-mary/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/133/drinks/cocktails/",
+"name": "Cocktail Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1743/drinks/cocktails/vodka-drinks/",
+"name": "Vodka Drinks Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/272850/dilly-bloody-mary/",
+"name": "Dilly Bloody Mary"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

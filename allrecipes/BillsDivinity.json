@@ -1,0 +1,679 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Bill&#39;s Divinity"
+,"datePublished": "1998-12-10T21:15:45.000-05:00"
+,"dateModified": "2022-08-04T11:40:24.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Christine L"
+,"url": "https://www.allrecipes.com/cook/24321070"
+}
+]
+,"description": "These divinity cookies are light and delicate no-bake cookies made with egg whites and corn syrup."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/pbzYreCcav_eQvi--W2ZQ059yVI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7471992-a513dcc3971f44749ff2fda9ae0ba21d.jpg",
+"height": 2000,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Bill&#39;s Divinity"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.2",
+"ratingCount": "53"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "611 kcal"
+,"carbohydrateContent": "157 g"
+,"proteinContent": "2 g"
+,"sodiumContent": "200 mg"
+,"sugarContent": "136 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"recipeIngredient": [
+"2.5 cups white sugar",
+"0.5 cup light corn syrup",
+"0.25 teaspoon salt",
+"0.5 cup water",
+"2 egg whites",
+"1 teaspoon vanilla extract" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "In a 2-quart saucepan, combine sugar, corn syrup, salt, and water. Cook to hard-ball stage (260 degrees F, or 125 degrees C), stirring only until sugar dissolves."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, beat egg whites to stiff peaks. Gradually pour syrup over egg whites, beating at high speed on electric mixer. Add vanilla and beat until candy holds its shape, about 4-5 minutes. Quickly drop from a teaspoon onto wax paper; cool."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT0M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Barbara"
+},
+"reviewBody": "Wonderful, I am so happy. Turned out perfect and Mother would be proud, I did it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dove"
+},
+"reviewBody": "I love this divinity, it is like the one my beloved father made when I was a child. I will use it every time we want divinity. I just had to beat it longer because the first spoonful's ran all over the waxed paper. but it is good, and brings back memories of my child hood."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Claudine Richardson"
+},
+"reviewBody": "I have made this for years turned out everytime thank you for this!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tracey Morris Deegear"
+},
+"reviewBody": "Easy to make. Came out perfect the first time. Candy thermometer and stand mixture are highly recommended. Also my 20 and 22yrs old sons had fun with the hard candy from the sugar/karo mixture. I'm adding pecans to my next batch!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Mommythechef"
+},
+"reviewBody": "it came out just right for me."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "AmityKay"
+},
+"reviewBody": "I live in the heart of Texas. I just tried this recipe and omitted 1TB of water due to our high humidity levels. This recipe came out wonderfully!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jvwagner"
+},
+"reviewBody": "I use 1/8 tsp of salt and 1/8 tsp of Cream of Tartar to the egg white mixture. The Cream of Tartar helps to stabilize the egg whites. I cook the sugar mixture on Medium heat to about 250 degrees (or when you can spin the sugar to hair thin on the spoon. Add the syrup slowly to egg whites. Continue to beat until the shine in the mixture is gone. After most of beating is done, I mix in nuts."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "doodle's mom"
+},
+"reviewBody": "This was my first attempt at making divinity and it turned out great! Very easy using a stand mixer and a candy thermometer. A couple of tips I followed from the reviews of several other recipes were to use egg whites that are room temperature and to add the syrup to the egg whites slowly, in a very thin stream. Definitely will be making this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Vicki3502"
+},
+"reviewBody": "Okay so I have been making this recipe for 30 or so years and I got it out of the Better Crocker Cookbook. Anyway I have added walnuts (this version takes longer to set) and crushed soft peppermint sticks to change the recipe. This year I am going to try cinnamon. I also upped the cooking temp to 265 it seems to help it set better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary"
+},
+"reviewBody": "I changed this recipe to 6 servings as I had 3 egg whites and it turned out great. I needed to beat it between 5-10 min. I discovered that you needed to wait until it kind of lost the gloss and started to look dry. It made 38 large (too large) pieces."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "msfittstein"
+},
+"reviewBody": "This was my first time making divinity . . . . I have always been scared to even try it based on horror stories I've heard! Followed the recipe and it was perfect - I think you do need a good candy thermometer though!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Tina66482"
+},
+"reviewBody": "Have made 2 batches using this recipe. They have both turned out like marshmellow cream. I lost my recipe that was my grandmothers. This was the closest one. Not impressed with it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Claudia M."
+},
+"reviewBody": "This was the first time I made divinity. Everything worked out just like the recipe and reviews said. I let it cook for 15 minutes and got to the hard ball stage, very good recipe, I will make it again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rebecca Scofield"
+},
+"reviewBody": "I chose this recipe because my dad was the one to make the divinity and his name was Bill too. My first attempt won his approval!! My only tip is to make sure you store this in an airtight very clean container. I kept it in a plastic container that evidently still had a bit of dishsoap film clinging to it and after a couple days the candy had absorbed the soap flavor"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "amandolynnd"
+},
+"reviewBody": "Even on a rainy day, this recipe was successful! (minus the tablespoon of water). Thanks, you have given me faith that I can make divinity! :D"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Annette Siegle Veiga"
+},
+"reviewBody": "Fabulous! It like the divinity i had when i was a kid and fell in love with! The only change I made was I added chopped walnuts and doubled the vanilla! My mouth is soooo happy! Thanks"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "amydoll"
+},
+"reviewBody": "This didn't set up for me. I let it cook until 260 degrees, and beat it for longer than the 5 minutes the recipe suggests. I know that divinity is ready to be spread when it loses its gloss, but this never did, and how long are you gonna run your Kitchenaid until you admit defeat? I did after about 10."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "kmwhipple"
+},
+"reviewBody": "This was wonderful and easy recipe to make, however on one of the reviews she had added peppermint extract instead of vanilla and red food coloring. I tried that however I would have only used 1/2 teaspoon extract instead of a full teaspoon. My husband says that it is like eating toothpaste. lol. I am going to try again tomorrow, it really is super easy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Inga Coy"
+},
+"reviewBody": "This was my first time making divinity and this recipe couldn't be easier. It turned out great and I made it for my daddy who hasn't had any since his mommy passed. So I thought that I would give it a shot. Turned out lovely. He loved it therefor made me happy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kris Beard"
+},
+"reviewBody": "This is a great recipe. It does take longer than five minutes to set but the wait is well worth it. Mine set up in about 20 minutes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DEBI EMILEE"
+},
+"reviewBody": "Made this today. It was perfect, but I almost over-whipped it, so be careful. You can tell when it's done if your watching. I added chopped pecans at the end, which we loved."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "dakota"
+},
+"reviewBody": "This seems to be a great recipe. It is the first time I have ever made it but i will be making it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cheryl Maw Tertipes Beach"
+},
+"reviewBody": "I have tried to make divinity in the past and it never turned out. I tried Bill's recipe and it turned out GREAT. My thumbs up to you Bill."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Patricia Omer"
+},
+"reviewBody": "Turned out perfect! It is almost gone because we could not keep our hands off of it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "mermaid"
+},
+"reviewBody": "I've been making divinity since I was nine years old. I'm now 65 and never had a failure with any recipe. This recipe is fine as written. Just don't ever make divinity on a rainy or humid day. It won't set up or at the least it will be difficult to get it to set up. As others have said apply ingredients in slow stream."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "rv8erdonna"
+},
+"reviewBody": "I have never been able to make a good batch of divinity. I tried this recipe twice to no avail. I finally gave up.."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "T. Tranum"
+},
+"reviewBody": "Good basic recipe. For those who are still frustrated trying to get this candy to behave, I found a fix for gooey divinity flops after 4 different attempts from various Divinity recipes. As said previously, it's vital to pour the cooked syrup very slowly in slim streams while beating with the eggs whites. Pouring too much at once will cook the egg whites. Then keep beating (in my case it took 15 minutes) until it starts to lose its gloss. But if it is still gooey, here's how to save it:\n\nReheat the mixture - microwave if you have a glass bowl or put metal pan in very hot water, so it gives your mixer a rest and makes the candy warmer and more pliable. Then start mixing again. If you still think it wont set up, add about 1/2 to 1 tsp of hot water to the mix then sprinkle in about 1/2 to 1 cup powdered sugar while mixing ON SLOW. It will start to set up much faster now and it changes the texture from a smooth, soft chewy candy to more a fudge-like texture, which I actually like better. I know this is just adding more sugar but some other recipes call for less sugar in the ingredients list. \n\nALSO: Try this for a new flavor twist.\nWhen it's time to add the Vanilla, instead add the following: \n 1/4 tsp. Peppermint Extract\n 1/4 tsp. Butter flavor Extract \n 1/2 tsp. Vanilla Extract\n(more or less peppermint or butter extract to taste)\n5 - 7 drops Yellow Food Coloring\n\nBUTTER MINT DIVINITY! You won't go back to plain."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "txgoddess972"
+},
+"reviewBody": "I make batches and batches of this every Christmas! Best recipe I've found. My tips? Make sure eggs are room temp or they won't peak and there is nary a cloud in the sky or it will never set."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "APRILSS"
+},
+"reviewBody": "These didn't work for me... I think because I added the sugar to the egg to quickly. They turned out like a nougat. HOWEVER, I made these turn out yummy by dunking them in chocolate! Sort of like homemade 3 Musketeer drops!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Popcorny"
+},
+"reviewBody": "My divinity turned out a little tough. I probably over beat it. This is a good recipe for divinity and I will be trying it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CATTYLL"
+},
+"reviewBody": "Wonderful recipe and very tasty... I made a double batch... it took me forever to mix it lol... My mom adores this candy and this recipe is the tops in her book."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sara B."
+},
+"reviewBody": "Really great recipe! Never made divinity myself, but loved it for years. Very easy - those who posted they ended up with a gooey mess probably didn't beat it long enough. I made one batch as advised and another substituting the vanilla for peppermint extract &amp; added just a few drops of red food coloring for a holiday twist. Cinnamon flavoring also good! Excellent - thank you for sharing Christine!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CINADKINS"
+},
+"reviewBody": "I just made this and it is the smoothest and tasty recipes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "THEBERGS"
+},
+"reviewBody": "I have been making bill's divinity now for three years, it's never been a problem, in fact it's very easy (with a candy thermometer) everyone loves it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BABSBUNNIE"
+},
+"reviewBody": "I just made this for the first time and it turned out wonderful. I live in humid Houston, TX and had no problem with it at all. My family loves it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer Hitt Staton"
+},
+"reviewBody": "This is the same recipe that my mom used for over 30 years and now I have used it for almost 10 years. It has been fail-proof for me. I live in the south with more humidity and I have to beat it at least 10 - 15 minutes. The trick is to keep beeting it until it works right. You should also use a stand mixer."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SHOWDOGGAL"
+},
+"reviewBody": "I have never made divinity before this turned out good. I even made it 2 different times. &amp; added nuts the 2nd time still great !!! I did use a candy thermometer &amp; a mixer on high speed!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Cool, I watched my stepdad mess up on divinity a few times and here I did it right on my first try. Yay, it works!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "shirley"
+},
+"reviewBody": "MY husband and I made this recipe with the help of a heavy duty Kitchenaid mixer. It is smooth and creamy and has a very good flavor. We will definately make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I tried this recipe twice and it wouldn't set up. It was just a gooey mess."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I also tried this recipe twice and it wouldn't set up. I wasted a lot of time and money on this one."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I really enjoyed making this Divinity..\r\nwas very good and easy to make..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "prissycat"
+},
+"reviewBody": "I've tried this recipe twice and it does not set up for me. Mine was a gooey, sticky mess. I've always seen divinity recipes that went to about 248 degrees for half the syrup, then about 272 for the other half."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/9348/bills-divinity/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/372/desserts/candy/",
+"name": "Candy Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/752/desserts/candy/divinity/",
+"name": "Divinity Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/9348/bills-divinity/",
+"name": "Bill&#39;s Divinity"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,118 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Pineapple Mojito"
+,"datePublished": "2020-09-13T03:11:07.000-04:00"
+,"dateModified": "2020-09-13T03:11:07.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Yoly"
+}
+]
+,"description": "If you love mojitos and pineapple, then this minty and refreshing cocktail is for you!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/z0huANPZMMKCBXuI5fG5ooJKNgU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8537940-6c271032ae4a40b6b5e4e72c04643b5d.jpg",
+"height": 2382,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Pineapple Mojito"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "310 kcal"
+,"carbohydrateContent": "45 g"
+,"fiberContent": "1 g"
+,"proteinContent": "1 g"
+,"sodiumContent": "6 mg"
+,"sugarContent": "38 g"
+,"fatContent": "0 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"10 fresh mint leaves, divided",
+"1 tablespoon white sugar",
+"1 tablespoon chopped fresh pineapple",
+"ice",
+"6 fluid ounces pineapple juice",
+"2 fluid ounces rum",
+"1 splash club soda",
+"1 wedge fresh pineapple" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Muddle mint leaves, sugar, and pineapple in a highball glass."
+} ,{
+"@type": "HowToStep"
+,"text": "Fill glass with ice cubes. Pour in pineapple juice and rum. Top with a splash of club soda. Garnish with pineapple wedge and remaining mint leaves."
+} ]
+,"recipeYield": ["1"]
+,"totalTime": "PT10M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/281583/pineapple-mojito/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/133/drinks/cocktails/",
+"name": "Cocktail Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1741/drinks/cocktails/rum-drinks/",
+"name": "Rum Drinks Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/281583/pineapple-mojito/",
+"name": "Pineapple Mojito"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

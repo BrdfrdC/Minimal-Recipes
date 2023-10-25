@@ -1,0 +1,135 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Easy Lamb Gyros"
+,"datePublished": "2020-02-29T21:39:12.000-05:00"
+,"dateModified": "2021-11-28T08:20:37.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Brian Genest"
+,"url": "https://www.allrecipes.com/cook/scratch"
+}
+]
+,"description": "Just because you don&#39;t own a vertical, rotating spit doesn&#39;t mean you can&#39;t make gyros at home. This recipe makes it easy to enjoy the popular Greek street food at any time!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/2Ehtor9DMpve7juBjLSWbvOF4hc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7772384-d3b63a06db7e4e2c80f793f024cebb49.jpg",
+"height": 2000,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Easy Lamb Gyros"
+,"cookTime": "PT120M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "402 kcal"
+,"carbohydrateContent": "34 g"
+,"cholesterolContent": "91 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "26 g"
+,"saturatedFatContent": "7 g"
+,"sodiumContent": "1292 mg"
+,"sugarContent": "3 g"
+,"fatContent": "25 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"cooking spray",
+"3 pounds ground lamb",
+"0.5 cup Greek seasoning",
+"1 large egg",
+"12 (6 inch) pita breads, warmed",
+"1 head iceberg lettuce, finely shredded",
+"5 medium Roma tomatoes, diced",
+"1 medium red onion, diced",
+"0.5 cup tzatziki sauce, or more to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 275 degrees F (135 degrees C). Spray a large loaf pan with cooking spray."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine lamb, Greek seasoning, and egg in a bowl. Mix until ingredients are very well combined (overmixing is preferable here.) Firmly press mixture into the prepared loaf pan, making sure there are no air pockets under the meat. Cover with foil."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook in the preheated oven until an instant-read thermometer inserted into the center reads at least 160 degrees F (70 degrees C), about 2 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove from the oven and let rest, covered, until all the grease on top is absorbed, 15 to 20 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove meat from the pan and cut into thin slices."
+} ,{
+"@type": "HowToStep"
+,"text": "Load meat into the center of warmed pitas. Top with lettuce, tomatoes, onion, and tzatziki sauce. Serve immediately."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT165M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/285839/easy-lamb-gyros/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/251/main-dish/sandwiches/",
+"name": "Sandwich Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16770/main-dish/sandwiches/gyros/",
+"name": "Gyro Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/285839/easy-lamb-gyros/",
+"name": "Easy Lamb Gyros"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

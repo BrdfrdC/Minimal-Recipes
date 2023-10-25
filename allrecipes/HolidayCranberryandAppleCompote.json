@@ -1,0 +1,121 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Holiday Cranberry and Apple Compote"
+,"datePublished": "2020-06-19T00:30:43.000-04:00"
+,"dateModified": "2022-09-27T14:15:11.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "M Goldman"
+,"url": "https://www.allrecipes.com/cook/4252988"
+}
+]
+,"description": "Fresh cranberries and apples simmer together in pumpkin-spiced orange juice to produce this thick compote that works with turkey, ham, or even pie."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/AeA5tnoLGUy3Ms8S7qXtA-8R2RI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/303111-c1ac17a783f940beb6cc16068bcd512f.jpg",
+"height": 250,
+"width": 250
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Holiday Cranberry and Apple Compote"
+,"cookTime": "PT25M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "78 kcal"
+,"carbohydrateContent": "18 g"
+,"cholesterolContent": "2 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "0 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "7 mg"
+,"sugarContent": "16 g"
+,"fatContent": "1 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"3 cups orange juice",
+"3 medium Fuji apples, peeled and finely chopped",
+"1 (12 ounce) package fresh cranberries",
+"1.5 cups white sugar",
+"0.5 cup brown sugar",
+"0.25 teaspoon pumpkin pie spice, or more to taste",
+"2 tablespoons butter, softened" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine orange juice, apples, cranberries, white sugar, brown sugar, and pumpkin pie spice in a saucepan over medium-high heat. Bring to a boil, reduce heat, and simmer until apples are tender and sauce has thickened slightly, 20 to 25 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer sauce to a dish; stir in softened butter and refrigerate for 1 to 2 hours. Sauce will continue to thicken."
+} ]
+,"recipeYield": ["32"]
+,"totalTime": "PT95M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/266329/holiday-cranberry-and-apple-compote/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1976/side-dish/sauces-and-condiments/sauces/",
+"name": "Sauces"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1260/side-dish/sauces-and-condiments/sauces/cranberry-sauce/",
+"name": "Cranberry Sauce Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/266329/holiday-cranberry-and-apple-compote/",
+"name": "Holiday Cranberry and Apple Compote"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

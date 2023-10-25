@@ -1,0 +1,169 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Brown Rice, Chicken, and Chorizo Paella"
+,"datePublished": "2018-11-14T17:57:42.000-05:00"
+,"dateModified": "2018-11-14T17:57:42.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Mariposa"
+,"url": "https://www.allrecipes.com/cook/5328163"
+}
+]
+,"description": "Paella is a classic Spanish dish flavored with saffron; this recipe includes apple cider vinegar for an authentic tang."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/ra3YjWPnUQDUMrbaqD8vp-7V2Ns=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6311685-4aa7a20a2d4f43db976d092d0acb623b.jpg",
+"height": 1061,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Brown Rice, Chicken, and Chorizo Paella"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4",
+"ratingCount": "2"
+}
+,"cookTime": "PT80M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "465 kcal"
+,"carbohydrateContent": "43 g"
+,"cholesterolContent": "63 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "22 g"
+,"saturatedFatContent": "6 g"
+,"sodiumContent": "1631 mg"
+,"sugarContent": "3 g"
+,"fatContent": "22 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT40M"
+,"recipeIngredient": [
+"2 teaspoons salt",
+"1 teaspoon Spanish smoked paprika",
+"1 teaspoon red pepper",
+"1 teaspoon ground turmeric",
+"0.5 teaspoon saffron",
+"2 tablespoons extra-virgin olive oil, or to taste",
+"4 boneless chicken thighs, cut into small pieces",
+"0.5 pound Spanish chorizo, cut into 1/4-inch slices",
+"1 large onion, chopped",
+"1 red bell pepper, chopped",
+"0.25 cup chopped parsley",
+"6 cloves garlic, chopped",
+"2 cups short-grain brown rice",
+"1 tomato, chopped",
+"1 (6 ounce) jar roasted red peppers, drained and chopped",
+"1 (32 ounce) carton chicken broth",
+"2 cups frozen peas and carrots, thawed",
+"2 tablespoons sliced black olives",
+"1 tablespoon capers",
+"1 teaspoon apple cider vinegar, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Measure salt, paprika, red pepper, turmeric, and saffron into a small bowl and set spice mixture aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat olive oil in paella pan or large pot over medium heat. Add chicken and chorizo and cook until browned, 5 to 10 minutes. Transfer meat to a platter. Add onion, bell pepper, parsley, and garlic to the pot. Cook, stirring occasionally, for 5 minutes. Add rice, tomato, and roasted red peppers. Cook until rice begins to brown, about 5 minutes more. Add spice mixture and broth. Return chicken and chorizo to the pot, burying them in the paella."
+} ,{
+"@type": "HowToStep"
+,"text": "Increase heat to high and bring the pot to a boil, stirring every 10 minutes. Reduce heat to medium and cook, uncovered, 50 to 55 minutes more. Add thawed peas and carrots, black olives, capers, and apple cider vinegar and stir. Cook until everything is heated through, 3 to 5 more minutes."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT120M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "carolyn goldsmith"
+},
+"reviewBody": "Great flavors! Even better the next day!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "SunnyDaysNora"
+},
+"reviewBody": "This recipe was very enjoyable- the second day. I'm currently eating it for lunch and it's much better than it was for dinner last night. Last night I was not impressed at all, but today the flavors seem to have developed. If I were to make this again I'd forgo the brown rice- it took longer to cook than called for in the recipe and I don't think that the texture works well in this one. Also, I think the recipe assumed that I was using a narrower link of chorizo than is offered at my grocery store and I ended up with rather large pieces, I wish I had diced it instead of slicing as called for."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/269005/brown-rice-chicken-and-chorizo-paella/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/231/world-cuisine/european/",
+"name": "European"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/726/world-cuisine/european/spanish/",
+"name": "Spanish"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/269005/brown-rice-chicken-and-chorizo-paella/",
+"name": "Brown Rice, Chicken, and Chorizo Paella"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

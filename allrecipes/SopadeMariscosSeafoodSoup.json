@@ -1,0 +1,143 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Sopa de Mariscos (Seafood Soup)"
+,"datePublished": "2019-03-26T21:22:02.000-04:00"
+,"dateModified": "2022-12-16T17:55:26.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Rob"
+,"url": "https://www.allrecipes.com/cook/robp"
+}
+]
+,"description": "This Tex-Mex inspired sopa de mariscos, or seafood soup, combines littleneck clams, mussels, shrimp, and cod flavored with tomatoes, corn, and spices."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/NZMJomG1Vy8Je3_jOz7QQSP9rmo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6443171-sopa-de-mariscos-seafood-soup-Rob-4x3-1-7ca9928bfd2b4a3ebb71d2b03cb2d83b.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Sopa de Mariscos (Seafood Soup)"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "2"
+}
+,"cookTime": "PT65M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "278 kcal"
+,"carbohydrateContent": "16 g"
+,"cholesterolContent": "112 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "33 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "925 mg"
+,"sugarContent": "2 g"
+,"fatContent": "10 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"2 tablespoons olive oil",
+"1 medium onion, chopped",
+"2 cloves garlic, minced",
+"3 medium carrots, diced",
+"1 ear fresh corn, kernels cut from cob",
+"1 stalk celery, halved and diced",
+"6 cups chicken stock (such as Swanson®)",
+"1 (10 ounce) can diced tomatoes with green chile peppers",
+"1 (10 ounce) can diced tomatoes with green chile peppers, lime, and cilantro (such as RO*TEL®)",
+"1 ancho chile pepper, diced",
+"1 tablespoon chili powder",
+"2 teaspoons ground cumin",
+"1 pound fresh littleneck clams",
+"1 pound fresh mussels",
+"1 pound fresh cod, cut into bite-sized pieces",
+"0.75 pound fresh shrimp, peeled and deveined",
+"0.25 cup fresh cilantro, chopped, or to taste",
+"1 avocado, peeled and sliced" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat olive oil in a stockpot over medium heat. Add onion and cook until translucent, 5 to 7 minutes. Add garlic and cook until fragrant, about 1 minute."
+} ,{
+"@type": "HowToStep"
+,"text": "Add carrots, corn, and celery and cook until softened, about 5 minutes. Add chicken stock, tomatoes, ancho chili, chili powder, and cumin and bring to a boil. Reduce heat, cover, and simmer for 45 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, place clams and mussels in a bowl of cold water to filter out sand."
+} ,{
+"@type": "HowToStep"
+,"text": "Drain clams and mussels; add to the soup. Stir in cod and shrimp. Cover and boil until cod is white and flaky, mussels and clams are open, and shrimp is pink, 5 to 10 minutes. Serve immediately, topped with cilantro and avocado."
+} ]
+,"recipeYield": ["10"]
+,"totalTime": "PT95M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/272207/sopa-de-mariscos-seafood-soup/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/180/soups-stews-and-chili/soup/seafood/",
+"name": "Seafood"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/910/soups-stews-and-chili/soup/seafood/shrimp-soup/",
+"name": "Shrimp Soup"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/272207/sopa-de-mariscos-seafood-soup/",
+"name": "Sopa de Mariscos (Seafood Soup)"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

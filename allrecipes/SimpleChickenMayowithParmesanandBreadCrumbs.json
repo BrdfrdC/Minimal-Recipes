@@ -1,0 +1,895 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Simple Chicken Mayo with Parmesan and Bread Crumbs"
+,"datePublished": "2016-09-09T00:11:01.000-04:00"
+,"dateModified": "2022-08-02T10:37:04.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "EmmieYum"
+,"url": "https://www.allrecipes.com/cook/11230907"
+}
+]
+,"description": "This chicken breast recipe with mayonnaise, Parmesan cheese, bread crumbs, and herbs is incredibly juicy and delicious, plus quick and easy to make!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/bWMXWsD2omTpyYyQXraGTtrwSqc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3969819-simple-chicken-mayo-with-parmesan-and-bread-crumbs-Marianne-4x3-1-78374452061544bb86d06c309b87c280.jpg",
+"height": 720,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Simple Chicken Mayo with Parmesan and Bread Crumbs"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "75"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "272 kcal"
+,"carbohydrateContent": "6 g"
+,"cholesterolContent": "72 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "26 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "273 mg"
+,"sugarContent": "1 g"
+,"fatContent": "16 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"2 skinless, boneless chicken breasts",
+"2.5 tablespoons grated Parmesan cheese",
+"2 tablespoons mayonnaise, or more to taste",
+"2 tablespoons bread crumbs, or more to taste",
+"1.5 teaspoons herbes de Provence" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 425 degrees F (220 degrees C). Place chicken breasts in a baking pan."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix Parmesan cheese and mayonnaise together in a bowl until well combined; spread evenly over chicken breasts. Coat with bread crumbs and sprinkle with herbes de Provence."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until chicken breasts are no longer pink in the center and the juices run clear, 20 to 25 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT30M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Elizabeth Currier"
+},
+"reviewBody": "While this recipe was very straightforward and quick to prepare, I found it rather lacking in flavor. The chicken wasn't bad, but did feel somewhat subpar to other breaded chicken recipes I have found in the past. I think it's rather bland but may be better for picky eaters or children."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amy Sloan"
+},
+"reviewBody": "Omg! This was beyond delicious and sooooo easy! You have to make this."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Missy Mazzeo"
+},
+"reviewBody": "Delicious and so juicy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "We love this delicious tasty dish. Easy to make but the rewards are endless."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Top One"
+},
+"reviewBody": "awesome !!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "We absolutely love it! So easy to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Pauline Jensen"
+},
+"reviewBody": "Overall, simple and good! *Used the shaky parm as I didn’t have shredded *maybe my chicken breasts were big but only had enough breading mixture for the tops- next time I’ll double it and to be honest I did not have the herb/spice that was listed-nor did I know what it was exactly so I just used Italian seasoning added some garlic powder (garlic goes in everything!) and pepper. Also, because my chicken was big I put them in about 5 mins longer but after about 20 mins I took them out and basically basted them with the oil from the pan- Lastly, right after taking them out, I topped them with a little bit of shredded parm (someone brought me it after the fact haha)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This is my favorite chicken recipe! The only thing different I did was I used my grandmother's iron skillet in the oven. The chicken turned out very moist and melted in my mouth. In the past when I would brown the chicken first before baking, it made the chicken tough. This way without browning first makes it much more enjoyable to enjoy! Thank you for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jeanette"
+},
+"reviewBody": "This was the easiest chicken recipe I have in my collection. My husband loved it. Leftovers were just as good the second night. Used a thermometer to make sure it wasn't overcooked. Moist and tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mikomine"
+},
+"reviewBody": "I do it a little differently by wiping the mayo all over the chicken and rolling in crumb mix (Italian bread crumbs with some park cheese added)and baking on a sheet pan with a little olive oil-flip once halfway through for a crispy crust. Do the same with pork chops. Family favorite"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary Bryant"
+},
+"reviewBody": "Simple and came out juicy and not dry!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "AMANeel"
+},
+"reviewBody": "Used Italian bread crumbs because that was all I had on hand. It is great, going to be a go to recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "momskitchen"
+},
+"reviewBody": "I make this often. It's my son's favorite. I have not used the herbs but will try!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "roxie"
+},
+"reviewBody": "enjoyed this very much..used to make this years ago for pot lucks at church..thanks for printing ...this will b a staple for us &gt;}_"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christine Graves"
+},
+"reviewBody": "I just used Italian seasoning &amp; had to cook it about 15 mins longer to get to 165degrees.\nBut it was a hit!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bambi"
+},
+"reviewBody": "It was delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rachael"
+},
+"reviewBody": "Utterly delicious. \nI used Tuscan seasoning &amp; kept the chicken in a little longer for extra crunch.\nHighly recommend this recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Karin"
+},
+"reviewBody": "This was an easy and delicious recipe. I seasoned the chicken with the spices we like before adding the Mayo/mustard to the chicken. It turned out moist and flavorful. I am going to keep this recipe for easy week night meals."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "MKC"
+},
+"reviewBody": "This was just ok. The combo of mayo and parmesan got thick like paste. Very difficult to spread on the chicken. Not sure I would make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Elizabeth"
+},
+"reviewBody": "Very good, most importantly it was not dry. I didn't have the spice it called for so I used Salt Free Garlic and Herb since I am on a low salt diet. Will make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jan"
+},
+"reviewBody": "Used air fryer at 380 for 15” one side, 10” after turning. Had split a large chicken breast in thirds. Cooking time way too long. Will try10 and 10 next timec checking temp midway."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lori W"
+},
+"reviewBody": "I followed this exactly except for the provence. Very pricey. I used italian seasoning and it came out great. I've used this with pork chops also super tender."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "RAISIN1"
+},
+"reviewBody": "Meh! Giving 3 stars only because it took 2 minutes to prep. Salted breasts and added some garlic powder. Baked boneless chicken breasts are usually pretty tasteless, nothing special here."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Eileen Gindin Spiegel"
+},
+"reviewBody": "Delicious. Easy to make too. My husband doesn’t lie"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Judy Tracy Williams"
+},
+"reviewBody": "Excellent dish. So yummy and moist! Did I mention easy! Only thing I added wad a slice of provolone cheese the last 10 mins. But it is not needed. I served it with veggie-rice stir fry."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "PAZ"
+},
+"reviewBody": "I have made this chicken 3 times in the last 2 months and tonight will be the 4th. It is easy and delicious. Reheats well too. You’ll love it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cookiecutter"
+},
+"reviewBody": "Delicious. I cut my chicken into thin filets because I like a greater crust to chicken ratio. The thin breasts cook pretty fast so keep an eye on them."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "elainemr"
+},
+"reviewBody": "I loved it! Delicious and very tender. I'll definitely recommend it, as well as make it again for myself."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Marion"
+},
+"reviewBody": "This recipe is full of flavor, but needs a few things to reach full potential. First, salt and pepper the chicken breasts, then sprinkle the breasts with herbs de provence (or whatever herbs you use) before brushing on the mayo. (If you sprinkle on the herbs after coating in panko, they get lost.) Add 1 tsp of dijon mustard and 1/4 tsp or so of garlic powder to the mayo/parm mixture. Finally, if making this for a few people, it's much better to cook it on the stove. Add a tbsp of olive oil to a nonstick skillet. Heat for a couple of min on medium. Add the breasts, cook for about 4 min depending on thickness, then turn and cook 4 min more until panko is nice and golden. Serve with lemon wedges. You will like it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "michelle"
+},
+"reviewBody": "Simple and delicious. In between pay day greatness. Looked fancier than what is was. Thank you for sharing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laura Abblett"
+},
+"reviewBody": "Good flavor! It turned out very moist aand very flavorful"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Barbara J"
+},
+"reviewBody": "I was skeptical about using mayonnaise, but I went with the recipe. I used thighs rather than breasts, because that was what I had. The chicken turned out moist and tender, as advertised."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "swissgirl"
+},
+"reviewBody": "Breast were small (not whole) so baked about 20 minutes at 400. Did not have herbs but delicious without them. So easy and good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa"
+},
+"reviewBody": "Absolutely delicious! This is my husband's favorite chicken dinner! The mayo keeps it moist and flavorful throughout."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Angela Palermo"
+},
+"reviewBody": "This has been a family favorite! Recently I've been buying chicken cutlets, which I roll with stuffing inside and prepare the topping per the recipe. 5 star recipe as is. So simple and comes out perfect every time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Sylvia"
+},
+"reviewBody": "I made this as per instructions. It needs added salt and the Parmesan mixture slid off the chicken into the baking pan. The chicken ended up flavorless. I think the chicken should be pounded out an even thickness to hold the mixture on top."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "rosey"
+},
+"reviewBody": "seasoned the mayo with spices garlic salt, black pepper ,smoked paprika , chicken seasoning . sprinkled with breadcrumbs extra cheese and sprinkled with olive oil half teaspoon. baked 20 mintues checked chicken. will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "S Barnes"
+},
+"reviewBody": "Turned out perfect. I used freshly grated parmesan, otherwise followed exact recipe. The chicken was very moist with a nice crispy coating. Will be making this again. Happy Granny"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ditto12"
+},
+"reviewBody": "I made it, but with bone in thick thighs. Very delicious! and Moist!!!~ thank you for who ever put this on All Recipes ;o )"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mama1993"
+},
+"reviewBody": "Was excellent!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amis"
+},
+"reviewBody": "Delicious!! Will make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Heather Lynn"
+},
+"reviewBody": "This was really delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ap"
+},
+"reviewBody": "good. need to try with fish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Veggiegirl"
+},
+"reviewBody": "I spread oil and some spices on the bottom of the Corningware, added some spices into the mayo(I used the olive oil type)/cheese mixture, as well the the bread crumbs. I added some ground flax seed 1 tbsp into the bread crumbs. Use a spatula to server and the crumbs will stay on. My spices were basil, oregano, thyme, pepper, garlic, onion powder."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allison Wright"
+},
+"reviewBody": "It was very good but I had some problems keeping the breadcrumbs on the chicken. The mayo sort of kept them on but could have been better. Overall good recipe though"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "momZof4"
+},
+"reviewBody": "Really good. Added garlic powder, salt, and pepper just because we're used to it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Heather"
+},
+"reviewBody": "This was fantastic! I did not have the herbs de provenance so i just used a bunch of my own seasonings and it came out fantastic!!! So glad to have this for a quick go to and seems like you can substitute in a pinch with great results."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Panhandle Beach Bum"
+},
+"reviewBody": "Very easy and tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Emily Rose Carver"
+},
+"reviewBody": "This was delicious! Very moist and easy to make. I didn't have the spices mentioned, but instead used a pinch of chili power, cayanne pepper, oregano, and garlic power. Will make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shirley Carter"
+},
+"reviewBody": "Easy and quick recipe that makes chicken breast turn out very moist and flavorful."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Junebug"
+},
+"reviewBody": "This was very easy to prepare. My husband really liked the flavor. I used panko bread crumbs to give it a little more crunch."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Cathy"
+},
+"reviewBody": "Very easy to make. I pound the chicken so it's the same thickness and added more mayo and cheese before topping with bread crumbs."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mmw"
+},
+"reviewBody": "Super simple; ingredients on hand; delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SUSADAISY"
+},
+"reviewBody": "I didn't have the herbes de Provence or the ingredients to make it myself. However, the rest of the instructions plus the herbs I added that I had on hand- garlic, poultry seasoning, salt/ pepper, etc- made this delicious. I highly recommend it and will try it soon with the herbes de Provence."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "katiemiss"
+},
+"reviewBody": "This was great! Easy, tasty, and toddler approved. I followed the directions but doubled the recipe to make 4 chicken breasts. I used thin cut breasts, so I did lower the bake temp to 400, which worked just right. My bread crumbs were Italian style. I think the herbs de Provence really work well with the recipe. But if you don't have it or don't like it, I'm pretty sure Italian seasoning would give you a good result too. Will be adding this to the meal rotation!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Cheryl Maurer"
+},
+"reviewBody": "Love the mayo!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Robert Malo"
+},
+"reviewBody": "This is easy and fast to make. I didn't have cornflakes but a package of Kraft Stove Top did the trick. I could've ground it down to a fine bread crumb consistancy but I wanted the crunch so I just emptied a package to pan and with the basted chicken of mayo, indicated spices (left out the cheese), badda-bing .... excellente' Definitely a keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "OMJayyy"
+},
+"reviewBody": "Added dried chopped onions, garlic salt, and onion powder. This was a hit!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marianne"
+},
+"reviewBody": "This is a quick and easy and very delicious dinner to prepare. I used a packet of Costco boneless skinless chicken breasts and followed the recipe. The bread crumbs I used were the Progresso Italian bread crumbs. I did make my own herbes de Provence using a recipe from this site. Timing was perfect and dinner was delicious. We will have this one again. You can't miss! Thank you so much, EmmieYum!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/255305/simple-chicken-mayo-with-parmesan-and-bread-crumbs/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/201/meat-and-poultry/chicken/",
+"name": "Chicken"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/659/meat-and-poultry/chicken/chicken-breasts/",
+"name": "Chicken Breast"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/255305/simple-chicken-mayo-with-parmesan-and-bread-crumbs/",
+"name": "Simple Chicken Mayo with Parmesan and Bread Crumbs"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

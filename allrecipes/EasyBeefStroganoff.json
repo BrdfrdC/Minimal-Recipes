@@ -1,0 +1,1433 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Easy Beef Stroganoff"
+,"datePublished": "1999-04-27T15:09:00.000-04:00"
+,"dateModified": "2022-12-30T13:16:11.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Colleen"
+,"url": "https://www.allrecipes.com/cook/24322310"
+}
+]
+,"description": "Make this easy recipe for a tart stroganoff sauce full of beef, mushrooms, and onions served over tender egg noodles. It&#39;s comfort food at its best!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/6CzhNk4QYE7vj763mfb_X9Gox2w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/453711-0317510cbc4f401e98279baa6be8ef8d.jpg",
+"height": 960,
+"width": 960
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=1858897705001",
+"description": "This rich, creamy stroganoff makes a tasty weeknight dinner.",
+"duration": "PT4M8S",
+"name": "Easy Beef Stroganoff",
+"thumbnailUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/c7636208-0067-4c27-ac70-820b2ce11df2/543bda39-f10e-462f-94f0-c1e94769a8c8/1280x720/match/image.jpg",
+"uploadDate": "2021-07-02T13:54:21.018-04:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Easy Beef Stroganoff"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.2",
+"ratingCount": "875"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "602 kcal"
+,"carbohydrateContent": "36 g"
+,"cholesterolContent": "148 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "29 g"
+,"saturatedFatContent": "17 g"
+,"sodiumContent": "633 mg"
+,"sugarContent": "2 g"
+,"fatContent": "37 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"4 tablespoons butter, divided",
+"6 ounces fresh mushrooms, sliced",
+"1 medium onion, chopped",
+"1 (12 ounce) package egg noodles",
+"2 pounds lean ground beef",
+"0.25 cup all-purpose flour",
+"2 cups beef broth",
+"1 cup sour cream",
+"salt and black pepper to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Melt 2 tablespoons butter in a large skillet over medium heat. Add mushrooms and onion; cook and stir until soft, about 5 minutes. Transfer to a bowl; do not clean the skillet."
+} ,{
+"@type": "HowToStep"
+,"text": "Fill a large pot with lightly salted water and bring to a rapid boil. Cook egg noodles at a boil until tender yet firm to the bite, 7 to 9 minutes. Drain."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/6CzhNk4QYE7vj763mfb_X9Gox2w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/453711-0317510cbc4f401e98279baa6be8ef8d.jpg"
+}
+]
+,"text": "While the noodles are cooking, melt remaining 2 tablespoons butter in the skillet over medium heat. Add ground beef and sauté until browned and crumbly, 7 to 9 minutes. Mix in flour and cook for 1 minute. Stir in broth and cook until slightly thickened, 2 to 4 minutes. Add mushroom mixture, then stir in sour cream, salt, and pepper. Cook, stirring occasionally until sauce is hot, 2 to 3 minutes; do not boil."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT25M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "It was easy to make and tasted good it reminded me of a homemade version of hamburger helper"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "easy and yummy. add flour before broth! Or you will get \"dumpling\" chunks"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Keisha Wilson Vaughn"
+},
+"reviewBody": "This was delicious!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Really quick &amp; easy, but so yummy it tastes like you spent hours on it, instead of 30 minutes. A household favorite."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Muffie"
+},
+"reviewBody": "Use Beef Consomme + 1/3 c white wine. Add garlic."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JoAnna Ranallo Bradley"
+},
+"reviewBody": "My favorite stroganoff recipe. I make it with whatever chunky meat I can find and it comes out delicious. My whole family (14yo, 10yo, 4yo, and husband) gobble it up."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cody Kwallek"
+},
+"reviewBody": "Great recipe, not overly difficult or time consuming."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Rebecca Goeke"
+},
+"reviewBody": "It's a little too heavy. Other wise it was pretty good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tanja Shelley"
+},
+"reviewBody": "Instead of fresh mushrooms I substituted them with cream of mushroom soup."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Todd"
+},
+"reviewBody": "Used a lot more mushrooms and onions. I didn't have beef broth, so I used chicken broth. It worked fine. My sons loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Stef Hamen"
+},
+"reviewBody": "It was good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jason Faith"
+},
+"reviewBody": "I’ve made this multiple times and it’s fine. I’m actually writing this review because I’m tired of seeing people go completely off"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Lori"
+},
+"reviewBody": "Made this tonight and we thought this was delicious. The broth was a little bit more runny than I would have liked and there needs to be seasoning of this at every level or it will be bland."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Gina Carle"
+},
+"reviewBody": "I added an 8oz of cream cheese and it made it so creamy and tasty"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Patrick"
+},
+"reviewBody": "A good basic Stroganoff meal as is and easily adjusted for personal palate."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mcooks"
+},
+"reviewBody": "Really good! Baby bella mushrooms add more flavor &amp; use FRESH HERBS"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mauibug"
+},
+"reviewBody": "This recipe was easy and delicious. I've only ever made stroganoff before using store-bought stroganoff seasoning in a packet. I was amazed how yummy and easy this recipe was to make. The only modification I made was to add worcestershire sauce. I will never need to buy the seasoning packets again! Thank you for sharing the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cory"
+},
+"reviewBody": "Great recipe, family loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Paula"
+},
+"reviewBody": "My husband and I loved this! I cut the recipe in half, but used all the onion and all the mushrooms called for in the original recipe. I put the mushrooms in the food processor and coarsely chopped them, so they looked like the ground beef (shhh, my husband hates mushrooms). I then cooked the onion and mushrooms along with the ground beef and added garlic cloves. Then I continued with the recipe as written. This is a very flavorful main dish and is worthy of serving to company."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Victoria McCombs"
+},
+"reviewBody": "Super easy and tasty! I used only 1.3 lbs of 10% ground beef and it was plenty. I also added carrots and peas into the pan with the mushrooms and onions. Before added the sour cream, it tastes a lot like sheppard's pie. Will make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ErikaMcKitterick"
+},
+"reviewBody": "I used pork sausage vs. ground beef because it's what I had defrosted. Was very flavorful!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Janet"
+},
+"reviewBody": "So delicious! My grandmother's recipe called for cream of mushroom soup.. not fresh like this one, and her's called for a couple tablespoons of shortening.. .reheating the next day wasn't always successful. This one is much easier and fresh ingredients. My only complaint would be...there was only a small bowl left the next day for leftovers because everyone had seconds and thirds.. ??"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sabrina Blackstone"
+},
+"reviewBody": "A little expensive for a homemade hamburger helper. But it tasted good. A little too greasy for me"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sarah boyd"
+},
+"reviewBody": "I made this with venison. It was amazing. Everyone enjoyed supper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pat Spencer"
+},
+"reviewBody": "The recipe is awesome! I didn’t have any ground beef on hand but used homemade frozen meatballs which I simmered in the gravy. Will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Chef Hunnah"
+},
+"reviewBody": "This is a great winter dish. Warm and comforting. I like the crock pot method."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Denise Desiree Capizzo Stewart"
+},
+"reviewBody": "Super Yummy!! Made this tonight for the first time! The family loved it! So easy and quick to make! Definitely going to make it again soon!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Noni"
+},
+"reviewBody": "It was good but I added a dollop of ptrobesco vinrgar to give it a bit more zing. It was perfect then."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tmangirl"
+},
+"reviewBody": "Was easy and fast ! Good too! I added some canned peas just for color and more nutrition"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Brad Karels"
+},
+"reviewBody": "Super simple to make and super delicious. Also, easy to half the recipe when there's only two of you."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Brad Karels"
+},
+"reviewBody": "Super simple to make and super delicious. Also, easy to half the recipe when there's only two of you."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Beth"
+},
+"reviewBody": "When it says season to taste, you're probably going to add a lot of pepper, and maybe salt. Not bad and easy enough to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Maya"
+},
+"reviewBody": "Amazing just like mom makes!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Heather Haslam"
+},
+"reviewBody": "This is one of our favourite meals. It’s so super easy and DELICIOUS!!!! I add a few shakes of Worchestershire sauce and we like lots of pepper. Sometimes I sub in Greek yogurt in place of the sour cream and it turns out just as yummy. Definitely a staple in our house!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Darren Lyall"
+},
+"reviewBody": "It was quick and easy. I had a couple of steaks left over so I made it with them. It was great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laura Alderson"
+},
+"reviewBody": "Substitutes: ground sausage for ground beef and plain greek yogurt for sour cream."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alicia Brown Jackson"
+},
+"reviewBody": "Will make again! Very easy, at first my son said he didn’t think he’d like it but ended up having 2 servings. The only thing I will change is next time I don’t think I’ll cook the meat in butter."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Skullie"
+},
+"reviewBody": "I made this for the first time (I had left over london broil instead of ground beef) and replaced butter with EVOO - added garlic and ran with it - it was amazing - will make this again for sure."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Roger Hooker"
+},
+"reviewBody": "Tasty and easy to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "shawn"
+},
+"reviewBody": "Made it with Deer Venison and converted it down to a 1 lb. recipe. Came out amazing"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ode2joy"
+},
+"reviewBody": "Like many others suggested, I added 2 cloves garlic and some Worcestershire, and it was a huge hit! I particularly enjoy how easy and fast it was, and didn't leave a huge mess with lots of dishes to clean up!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chefcookie1"
+},
+"reviewBody": "This recipe was a very great basic recipe! The only thing I added was fresh garlic and dry mustard. The key to this recipe is just using high quality ingredients such as grass-fed beef and sweet onion. It was what I was looking for and it did not disappoint! Also I garnished with fresh parsley"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "K. Short"
+},
+"reviewBody": "This is a very good and easy recipe. I went light on the salt, because I always do, and I think next time I'll add a bit back in. Delicious and very easy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DingoPaint"
+},
+"reviewBody": "This was a very good recipe. Easy yet tasty. I am gluten free, so I used corn starch instead of flour, and it was very good and thickened nicely."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gunnarsmom"
+},
+"reviewBody": "So good. My husband said he would eat this every night."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amber Rae"
+},
+"reviewBody": "Thank you for the receipt. My family enjoyed it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Community"
+},
+"reviewBody": "This was good but I made some changes. I used some tomato paste, about a tablespoon. I reduced the broth by half a cup, and I served it on potatoes. This is a really good recipe, that I would be proud to serve to people."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "John Soroka"
+},
+"reviewBody": "The Beef sauce was creamy and delicious. Goes great with Pasta."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Wendy Darling"
+},
+"reviewBody": "I made this as the recipe states with no changes except that I added peas. I thought that it needed more flavor. I may also really cut down the butter next time. Overall, it’s a heavy dish and the boys in the house liked it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Agkant"
+},
+"reviewBody": "Yummy and easy for this beginner cook. I only added garlic. New item for our family menu. Froze leftover sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jenni Wymer"
+},
+"reviewBody": "I made it and instead of Mushrooms use steamed California mixed veggies. My family loved it!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Merwin Haight Jr"
+},
+"reviewBody": "So good, I'm making it again !"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "McKenna"
+},
+"reviewBody": "It turned out good. I added cream of mushroom to the recipe and it tasted really good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jean"
+},
+"reviewBody": "Easy and tasty"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Simone Abelmann"
+},
+"reviewBody": "I added rosemary and parsley and a lot of pepper. It’s a keeper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joyce Denton"
+},
+"reviewBody": "Made it per recipe minus mushrooms and it was wonderful. SO easy and quick to make, I'm putting this one in our winter rotation."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ryan Griffin"
+},
+"reviewBody": "It was good as a basic beef stroganoff, not too complicated and tasty. Instead of the ground beef I used beef fondue meat. Next time I think I would add a little garlic and some red wine to give it a more full bodied taste. Also I think portobello mushrooms would give it a little extra oomph."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "PattiB"
+},
+"reviewBody": "Good easy recipe, will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Stephanie LeBlanc"
+},
+"reviewBody": "I doubled the meat on this recipe, then added a can of cream of mushroom and cream of onion soup. Using the broth, and cream soups made the perfect balance of creaminess."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Farida Rivera Schoenheide"
+},
+"reviewBody": "Made exactly as the reciepe called and think it is delicious. My picky kids loved it too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "missing_mish"
+},
+"reviewBody": "We did not like this. The sour cream flavor was overpowering. I think it would have been better with half the amount of sour cream and some milk to make the sauce. Hubby wouldn't finish his serving and that is extremely rare."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kris"
+},
+"reviewBody": "It was good and easy to do."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Robbie"
+},
+"reviewBody": "It made a lot and I usually \"share\" with my neighbor (shut-in) BUT, this was so good I ate it over a 3-day period! Of course, she won't be putting on the pounds that I will. :-) \nI was so excited that I had all the ingredients - which made it go smoothly. I used the Large Egg -no yoke -noodles for the first day and white rice later. Both were delicious! Oops! I forgot to take a picture - it was appetizing with noodles or rice.\nThanks so much for this recipe - it's a keeper. \nRobbie C. \nMeadows Place, TX"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Jess"
+},
+"reviewBody": "Made it the first time and followed the recipe exactly. I thought it was for 4 people and found I had made too much because the recipe did not adjust. I also thought it had way too much onion but was a bit on the bland side."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Debra Cline"
+},
+"reviewBody": "Made this today for Dinner, using the leftover chuck roast from the previous day...It was absolutely delicious. It taste so much better than the boxed kind (it taste like a cardboard box)... I will be making this again..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joni Lien"
+},
+"reviewBody": "Easy to make with wonderful flavor. Made it exactly as written."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "FATCHIC"
+},
+"reviewBody": "It was good and very easy! I had to substitute chicken broth (no beef at home), but I think it didn't detract from the taste. We both enjoyed it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jim Nash"
+},
+"reviewBody": "Turned out fantastic! I added extra mushrooms."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Linda"
+},
+"reviewBody": "I made it with a 14.5 oz. can of low sodium beef broth, omitted the flour and used a 10 oz. can of Cream of Mushroom soup, and cooked the onion and mushrooms with some minced garlic as another reviewer had done. I also added 1 tbsp. of Worstershire sauce to the beef as I was browning it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Barclay Clarke"
+},
+"reviewBody": "just finished making this. followed recipe as it is, but then found it extremely bland..even after adding salt and pepper. I then added Worcestershire sauce, based on other people's reviews. also added a touch of garlic powder. it seemed like I had to add a good amount of Worcestershire sauce to make a difference! the recipe really does require SOMETHING else. ended up fairly decent, but not as good as I was hoping. you would think the sour cream would provide that tang, but it's either not enough, or not the right thing! it IS easy to make, though..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carla loomis-allen"
+},
+"reviewBody": "I used gluten free elbow noodles and gluten free flour...still tasted great. Next time I'll either cut the amount of noodles down or increase the sauce, but I think that is because of the kind of noodles I had to use. Just wish gluten free egg noodles were easier to find."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laurel Ama"
+},
+"reviewBody": "Easy, delicious, quick... love this recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Susie Gute Wall"
+},
+"reviewBody": "I thought this was REALLY GOOD! I used 1 pound of ground cooked steak because I had it leftover. I should have cut the pieces instead of grind it. I also used broth from my leftover French Onion Soup recipe because that's all I had. I also added garlic. I think it gave it a great flavor. My family really liked it so I was thrilled."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "jackie"
+},
+"reviewBody": "Added green pepper to taste and drain ground beef"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ginger"
+},
+"reviewBody": "Fabulous! And it made enough for the freezer (without the noodles) and another meal one night soon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Rochelle"
+},
+"reviewBody": "Delish!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Tammy S Goins"
+},
+"reviewBody": "I made it. It was kinda bland. I added more beef broth, more butter, onion power, salt, pepper and prob could have used some garlic or cheese of some kind. I served with some diced raw onion and bread/butter. You will prob have to doctor it up more too. Hubby said it was good but he won't complain since he didn't cook unless it was really bad. It's a good base recipe to start with then add your special touches/flavors to your liking."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "tamileigh"
+},
+"reviewBody": "Hubby wasn’t thrilled with this"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Normita"
+},
+"reviewBody": "This may not qualify as a \"real\" review of the recipe, since I used it as a way to use up some left-over chuck roast I had. For the sauce, I used the liquid from the roast, along with one cup of beef bouillon. Other than that, I prepared the recipe as written, and it was tasty. I think fresh mushrooms would have been better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dee Reilman"
+},
+"reviewBody": "This was quick &amp; easy to make &amp; my BF LOVED IT!! Needless to say, this will be on the MENU ......I didn't have beef broth, so I dissolved a beef bullion cube .. tasted great!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ian Brooks"
+},
+"reviewBody": "This is a great recipe if you just want to make basic stroganoff that you can adjust easily. The only thing I didn't like was the ground beef. It seems like they actually wants you to keep the grease and thicken with flour, but not only is it horrible for you, it's going to make a very bland, greasy dish. I drained the beef, but didn't compensate for the liquid lost, so it came out thicker. Next time I will drain and add another cup of broth."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Dr Mom-Chef"
+},
+"reviewBody": "Traditional stroganoff calls for freshly ground nutmeg. ADD A BIT OF NUTMEG and you won't regret it! Nutmeg does have a strong flavor so don't use too much. I never really measure and grate right into the dish at the end and taste to liking. It's probably around half a teaspoon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kimberly Brown"
+},
+"reviewBody": "A big hit in this house! Fast and Easy and tastes great! I add Worcester sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Toni Bacchitta"
+},
+"reviewBody": "This was an AWESOME recipe. Like the other readers, I tweaked according to taste and what I had on hand. I sauteed everything in coconut oil(the unflavored/unscented variety) and used up leftovers in the fridge.....leftover steak and leftover rice, and added a couple of shakes of Worchestershire sauce. What a delicious dinner. My son loved it, as did I. Normally he won't touch mushrooms, but he gobbled this up. This one is a keeper for the next time we have uneaten cooked steak we need to use up. Great job, thanks for the recipe!!!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Yoly"
+},
+"reviewBody": "Made this exactly as written. Easy and quick."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "smarsten"
+},
+"reviewBody": "Made using elk bottom round steaks that I cut into thin strips. The only change I made was to toss some minced garlic in with the steak while I was browning it. Very easy and pretty dang good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "41melissa"
+},
+"reviewBody": "I was worried about my kids liking this. Guess what? It was a big hit!!! They absolutely loved it and asked for me to make sure I save this recipe. The only thing I did was add more mushrooms. Great taste and great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brian J"
+},
+"reviewBody": "I give it 5 star. I made and I loved it. Definitely one of my favorite dishes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Chefwannabe"
+},
+"reviewBody": "Used left over sliced steak. Did not use mushrooms I added 3/4 tsp. of white wine to the sauce. A very excellent addition to the flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Christina Dowing"
+},
+"reviewBody": "need more sour cream i add another 1/2 cup"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "james rogers"
+},
+"reviewBody": "Made as per directions with only one change: added about 1 tablespoon of corn starch near end to help thicken sauce. Other than that easy to make and tasted great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nancy"
+},
+"reviewBody": "Used zucchini instead of egg noodle. Sliced it on the mandolin and came out perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CathyP"
+},
+"reviewBody": "I made no changes and my husband and I loved it! The only thing I would do in future is strain some of the fat before adding flour. Otherwise, it was great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "hugheslink"
+},
+"reviewBody": "My husband and I thought this was delicious! I didn't use any butter though. I used about a tablespoon of coconut oil to saute the mushrooms and onions, then browned and drained the ground beef before proceeding with the recipe. I also used only about 1/2 cup of sour cream. Thanks for a great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "RaeAnne725"
+},
+"reviewBody": "I added a lot more spices, salt, pepper, garlic and onion powder, beef broth and eventually brown gravy mix to try to add some flavor. Turned out good, but took a lot of extra stuff that the recipe didn't call for."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "critdaniels"
+},
+"reviewBody": "This was so good my teenage son came home from school and devoured it before dinner unbeknownst to me! I had to make something else! Very simple recipe with great flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Diem"
+},
+"reviewBody": "You need to drain the fat from the meat and make sure to add generous amount of salt and pepper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "mike scans"
+},
+"reviewBody": "OK but a little bland. I am going to look at the other Beef Stroganoff recipes to see if there is a different spice set."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Elaine"
+},
+"reviewBody": "Followed the recipe exactly. It was terribly bland. My husband said \"lose the recipe\" and I agree."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/11880/easy-beef-stroganoff/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/95/pasta-and-noodles/",
+"name": "Pasta and Noodles"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/530/pasta-and-noodles/noodles/",
+"name": "Noodle Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/11880/easy-beef-stroganoff/",
+"name": "Easy Beef Stroganoff"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,178 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Honduran Tamales"
+,"datePublished": "2018-06-08T10:02:22.000-04:00"
+,"dateModified": "2022-10-19T11:15:20.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Sara Blackwood"
+,"url": "https://www.allrecipes.com/cook/830731"
+}
+]
+,"description": "Christmas family dinner just got more flavorful with these tamales Hondureños stuffed with flavor-packed masa batter, pork, rice, cilantro, and peas."
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Honduran Tamales"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "4"
+}
+,"cookTime": "PT70M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "552 kcal"
+,"carbohydrateContent": "59 g"
+,"cholesterolContent": "39 mg"
+,"fiberContent": "10 g"
+,"proteinContent": "22 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "191 mg"
+,"sugarContent": "2 g"
+,"fatContent": "27 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT90M"
+,"recipeIngredient": [
+"1 (4 pound) package masa harina (such as Maseca®), divided",
+"1 large tomato, chopped",
+"1 large green bell pepper, chopped",
+"1 large onion, chopped",
+"1 cup chopped fresh cilantro",
+"0.25 cup ground cumin",
+"2 cubes chicken bouillon",
+"salt to taste",
+"1 (6 ounce) can tomato paste",
+"3 cups vegetable oil, or to taste",
+"30 banana leaves",
+"3.5 pounds cubed cooked pork",
+"3 large potatoes, peeled and cubed",
+"2 cups cooked white rice",
+"1 (15 ounce) can peas, drained",
+"kitchen twine" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Pour about 3/4 of the masa harina into a large pot. Add water in batches, mixing until a moderately thin batter forms."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine tomato, bell pepper, onion, cilantro, cumin, and bouillon in a blender. Blend until smooth. Pour into the pot with the batter and season with salt. Pour about 5 cups of this combined mixture into a smaller pot; add tomato paste and stir until it is an even red color."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour 2 cups oil into the large pot of batter; pour remaining 1 cup oil into the smaller pot of red batter. Bring both pots to a boil, stirring continuously to prevent burning. Cook until flavors set, 3 to 5 minutes more. Remove from heat."
+} ,{
+"@type": "HowToStep"
+,"text": "Cut banana leaves into 12x15-inch rectangles. Spoon 1 cup regular batter and 1/4 cup red batter into the center of each leaf. Add small amounts of pork, potatoes, rice, and peas. Fold leaf over the filling several times; fold sides in. Wrap twine around tamale to hold in place."
+} ,{
+"@type": "HowToStep"
+,"text": "Place tamales in a large pot; cover halfway with water. Cover and cook over medium heat until filling has thickened, about 1 hour."
+} ]
+,"recipeYield": ["30"]
+,"totalTime": "PT160M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Hello, to make it more original, instead of tomato paste use Achiote paste for the \"red batter,\" called Recado. My mom also used to add raisins and Spanish olives."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "nvrbinkisd"
+},
+"reviewBody": "In my family we add more things like olives, raisins, roasted red bell peppers, we love making them in the holiday"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kelly Cox"
+},
+"reviewBody": "I made this for my friend from Honduras as a Christmas surprise, he has not been home in over 15 years. When he unwrapped the tamale the smile on his face was priceless. He said it smelled like home. Great recipe! (I omitted the bell pepper only because I forgot to get one at the grocery store, oops)."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/222496/honduran-tamales/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/92/meat-and-poultry/",
+"name": "Meat and Poultry"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/205/meat-and-poultry/pork/",
+"name": "Pork"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/222496/honduran-tamales/",
+"name": "Honduran Tamales"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

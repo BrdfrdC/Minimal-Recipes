@@ -1,0 +1,106 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["NewsArticle"]
+,"headline": "What Is Salisbury Steak?"
+,"datePublished": "2020-07-08T19:05:15.000-04:00"
+,"dateModified": "2020-07-09T17:29:30.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Carl Hanson"
+,"url": "https://www.allrecipes.com/author/carl-hanson/"
+}
+]
+,"description": "Find out what Salisbury steak is all about, including why it&#39;s called Salisbury steak, why it&#39;s different from meatloaf, and more."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/uIhAQglekgtv7LvxYaB4iMZ-Zqw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-19-2000-c3f8e7abd8594fbcae489d960d2fe4d7.jpg",
+"height": 1200,
+"width": 1500
+}
+,"video": [{
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=3861249891001",
+"description": "Watch how to make a classic Salisbury steak dinner.",
+"duration": "PT2M5S",
+"name": "Salisbury Steak with Mushrooms",
+"thumbnailUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/4df2d95c-b914-47c5-87f6-328bb354ec6e/bafc8d0c-1c87-4fd0-9629-a6a49801b0ef/1280x720/match/image.jpg",
+"uploadDate": "2021-06-22T17:05:26.736-04:00"},
+{
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=6271929083001",
+"description": "For those who grew up on school lunches, Salisbury steak day was the school lunch you looked forward to more than all others. this delicious meal is easy to make from scratch and Nicole is here to show you how to make the best Salisbury Steak.",
+"duration": "PT5M14S",
+"name": "How to Make Homemade Salisbury Steak with Creamy Mashed Potatoes | You Can Cook That | Allrecipes",
+"thumbnailUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/90d26c76-43c8-4eb0-8573-4303d5aa005d/57d14da9-816a-405b-bef4-66a64d576473/1280x720/match/image.jpg",
+"uploadDate": "2021-10-02T15:55:31.986-04:00"}
+]
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"articleSection": "Kitchen Tips"
+,"keywords": ["How To","Kitchen Tips","Salisbury Steak Recipes"]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/article/what-is-salisbury-steak/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/kitchen-tips/",
+"name": "Kitchen Tips"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/kitchen-tips/how-to/",
+"name": "How To"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/article/what-is-salisbury-steak/",
+"name": "What Is Salisbury Steak?"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,841 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Jollof Rice"
+,"datePublished": "2019-04-03T23:32:01.000-04:00"
+,"dateModified": "2022-11-07T22:07:06.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "EEANDOH"
+,"url": "https://www.allrecipes.com/cook/932567"
+}
+]
+,"description": "Popular and spicy West African chicken and rice dish - this is a one pot meal with chicken, rice, fresh green beans, onions, and carrots all stewed together with fresh rosemary, red pepper flakes, and nutmeg."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Po0b_9awfY4RmigzsTCI0SO4sKo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/67061-Jollof-Rice-Kim-4x3-1-81d36d6f6d7c4c3b883be209196b2288.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Jollof Rice"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4",
+"ratingCount": "66"
+}
+,"cookTime": "PT60M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "332 kcal"
+,"carbohydrateContent": "34 g"
+,"cholesterolContent": "46 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "20 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "713 mg"
+,"sugarContent": "7 g"
+,"fatContent": "13 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1 tablespoon olive oil",
+"1 large onion, sliced",
+"2 (14.5 ounce) cans stewed tomatoes",
+"0.5 (6 ounce) can tomato paste",
+"1 teaspoon salt",
+"0.25 teaspoon black pepper",
+"0.25 teaspoon cayenne pepper",
+"0.5 teaspoon red pepper flakes",
+"1 tablespoon Worcestershire sauce",
+"1 teaspoon chopped fresh rosemary",
+"2 cups water",
+"1 (3 pound) whole chicken, cut into 8 pieces",
+"1 cup uncooked white rice",
+"1 cup diced carrots",
+"0.5 pound fresh green beans, trimmed and snapped into 1 to 2 inch pieces",
+"0.25 teaspoon ground nutmeg" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Pour oil into large saucepan. Cook onion in oil over medium-low heat until translucent."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir in stewed tomatoes and tomato paste, and season with salt, black pepper, cayenne pepper, red pepper flakes, Worcestershire sauce and rosemary. Cover, and bring to a boil. Reduce heat, stir in water, and add chicken pieces. Simmer for 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir in rice, carrots, and green beans, and season with nutmeg. Bring to a boil, then reduce heat to low. Cover, and simmer until the chicken is fork-tender and the rice is cooked, 25 to 30 minutes."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT80M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kim"
+},
+"reviewBody": "I thought this dish turned out great. It was easy to make, and very flavorful. I used chicken thighs instead of a whole cut-up chicken, and used chicken broth instead of just water. Otherwise, I followed the recipe as written. I felt the spice level was perfect for my tastes. I also saw that other reviewers had issues with the recipe fitting into their pans, but I had no issues using a 12 inch skillet. Everything fit in there just fine. Thank you for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Paul de Boer"
+},
+"reviewBody": "too little rice, too little spice, too much tomato, green beans are weird."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Trixie Fishman"
+},
+"reviewBody": "I made this exactly as the recipe and it was amazing, flavorful with just a little spicy kick to it! One of our new favorite dishes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jeff2001"
+},
+"reviewBody": "Followed the recipe but used boneless, skinless, chicken thighs and added a tablespoon of yellow curry powder.\nIt needed salt at the table but was otherwise excellent!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Victoria Howard"
+},
+"reviewBody": "I was given a recipe originally from a nursing school classmate who was from Nigeria. This recipe tastes like I remember! Made it several times."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bub"
+},
+"reviewBody": "bell peppers instead of green beans"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "lorrie davis"
+},
+"reviewBody": "This was delicious. However, I will cook my rice (Mahatma Brown Rice) separate next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dangie"
+},
+"reviewBody": "I sometimes change up my spices, like using a little cinnamon or cardamon. So good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "har85"
+},
+"reviewBody": "This necessarily isn't your traditional African Jollof rice. It looks and tastes more like a jambalaya rice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "The Queen Bea"
+},
+"reviewBody": "A friend was in AFRICA when I made this recipe. I read all the reviews here and did the things they said would make it more \"authentic.\" I don't know about that, but I do know this--It was very good, very easy, and I will continue to make it. Thanks AR &amp; eeandoh"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JMSJMS"
+},
+"reviewBody": "they also use a bit of curry, of course this is the Americanized version, you can add or take away much of the heat of the spices as you want, the nutmeg also."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "mmsmom"
+},
+"reviewBody": "I did not care for this recipe. It is more like gumbo than anything else. It is not authentic at all. Subtle changes made to a recipe is ok but this is extreme. There should be no Nutmeg. Use Thyme instead. too many tomatoes make it taste like an extra rich pasta sauce. blend fresh tomatoes, red bell peppers, onions, and habenero pepper and loose the canned stuff."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "naijagrl"
+},
+"reviewBody": "This is a nice recipe, but its been \"westernized\". It will taste better if you use fresh ingredients and no canned stuff. It is best to exchange rosemary with thyme and remove the nutmeg. The carrots and peas are optional for jollof rice. And the chicken can be cooked seperately from the rice, and the broth added in with the tomatoes. the chicken can go in at the end."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KiraAKK"
+},
+"reviewBody": "Made this for a Safari Themed Party ~ it was a HUGE hit !!! I used boneless chicken tenders and thighs to make it easier with 60 people and it was fantastic. I will be making this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lynn Sims"
+},
+"reviewBody": "I made this for my family the other night and it was great! Thanks for sharing! :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KanadiaKatie"
+},
+"reviewBody": "Awesome blend of spices. I made some changes, as I was missing a couple of ingredients: Only had about 1/2 cup frozen green beans, so I used them and added a red bell pepper. Only had basmati rice, and I cooked it separately and added it at the end. To make up for the extra water not being used for the rice, I simmered uncovered for a little while. Delicious dish. Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "molly"
+},
+"reviewBody": "This turned out pretty good a little dry but delicious. I used chicken stock instead of water."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Jessica S."
+},
+"reviewBody": "While this recipe was pretty good...it's not exactly authentic. My husband is from West Africa, so I thought it would be fun to make him something that would remind him of home. While he did recognize the dish...he said there was something that just wasn't quite right about it. Overall, it tastes fine. But, if you're looking for the real thing...I'm sorry, but this just isn't it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Angela Ribarszky"
+},
+"reviewBody": "I made this dish for dinner tonight with brown rice and it turned out great. I cooked the brown rice separately and mixed in with the rest when everything was cooked. I also browned the chicken with the onions, but took it out and then followed the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rebecca Reece"
+},
+"reviewBody": "Very good. Made it for my sister's \"Around the World\" Themed Bridal shower and everyone loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Matthew Perrett"
+},
+"reviewBody": "Very good dish! It ended up being a sort of thick stew, which was great on a cold, rainy day. I doubled the rice (the listed amount was really not enough) and used red rice for a slightly healthier meal. Definitely a keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Dana B."
+},
+"reviewBody": "I chose this dish because my husband is West African and I thought it would be fun to give him a new take on Jollof rice. Unfortunately, this did not go over well. It didn't have the spice or rich flavor of Ghanaian jollof rice. The tomato flavor was overpowering, and it would have been better with bellpeppers than the green beans. If I were to make it again, I would double the cayenne pepper, half the tomatos (exclude the tomato paste or use fresh tomatos) and use more rice and water. I also fried 1/2 the chicken and served it on the side for hubby. I won't be making this again - I'll stick to the tried and true."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kenys \"B\""
+},
+"reviewBody": "Yummy!! My whole family love this, even the 5 year old. A tad spicy, but great. Will definately make this one again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Emma McFarland"
+},
+"reviewBody": "This was excellent. Makes lots, and tastes great. I had a bit more carrot, and a bit more rice than called for, and didn't have the problem of soupyness that some reviewers complained about, but I'm guessing that's because my extra rice soaked up the liquid."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pam G"
+},
+"reviewBody": "I made a double batch of this recipe for an International Potluck at my place of work as I was assigned to bring in an African dish. I chose this one as I saw it was a one-pot dish, meaning I could keep in warm in large crockpot for the potluck. Not a spoonful was left after the potluck - everyone loved it. \n I made the recipe just as the recipe calls for with regard to ingredients except I used chicken breasts cut into small pieces instead of the whole chicken and instead of dicing carrots, I bought precut raw crinkle cut carrots to save time. The mixture of spices gave it an wonderful flavor that got even better as it simmered in the crock for 3 hours at work. I did add about an extra 1/2 to 1 cup of water to the mixture after the initial cooking period as I knew it would be simmering quite a while in the crockpot and didn't want it to dry out. It was perfect for eating at noontime (I made it that morning at home.) If you like spicy, you could add a bit more crushed red pepper but then it might hide the flavor of the rosemary and nutmeg. I stuck to the recipe this first time. It actually was just right for my taste. \n As I said, I doubled the recipe and it more than filled a big crockpot. I even had a bit left that didnt' fit into the crock which I froze and ate later. It was just as good, maybe better, eating the leftovers. This is a recipe worth making again in my opinion."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "moose"
+},
+"reviewBody": "this is tasty recipe, only the rice came out too mushy. i would have added more cayenne as i like my food very spicy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ZACATECAS"
+},
+"reviewBody": "Good. I thought the spices would be weak but there was pleanty of spice. It was good but not wow- it does make a lot of food- use a big pot."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "linda"
+},
+"reviewBody": "Tasty and easy to make. I used 5 fresh tomatoes instead of canned and it turned out really good. The meat was very tender and just fell off the bones."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "HMSTONE"
+},
+"reviewBody": "This recipe made my husband loose all doubt in my cooking skills! It is very easy and loved all around. Leave out some of the cayenne if you are feeding small children as it is a little spicy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "skellyb2000"
+},
+"reviewBody": "Very nice recipe! It was kind of sweet, but I really enjoyed it! Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "MSROOTZ"
+},
+"reviewBody": "Family loved this. Next time though, I will brown the chicken first."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Javagoddess"
+},
+"reviewBody": "Wow--delicious! For those who question the authenticity I can only say that I've travelled through Africa, and the place is huge! If you don't get the same BBQ from one Southern town to another in the U.S., why would a West African recipe taste exactly like what you've had?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bitch'n kitchen"
+},
+"reviewBody": "I loved this even though I sort of messed up. I did not have any rosemary so I used different spices. I used a tsp of Italian seasoning and 1.5? tsp cajun seasoning. I did not use the nutmeg or worchester sauce. I did use the pepper flakes and cayenne. This is a very healthy meal. I accidently use 1/2 a can of tomatoes because I read it wrong. I don't know why they did not say 1 28 ounce can of tomatoes. I think it would have been better with the whole can. However I think I will do the cajun spices next time also I enjoyed it so much."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "OTTOS2"
+},
+"reviewBody": "My green-bean plants are producing like crazy--and this was a great was to utilize them! I put in about half a pound of green beans into this, even though I reduced the recipe to serve 4. My 4 yr old kept asking for more. I did not add any water to the recipe and the consistancy was very nice, not soupy or runny at all. I will probably be making this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "THEKATESPANOS"
+},
+"reviewBody": "A bit time-consuming, but definitely worth it. It has a very distinct taste (spicy!) and is perfect for a cozy winter meal. The chicken chunks make it really wonderful!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Very good. I am adding this recipe to my menu. The chicken is moist and tender."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "MICHBAILEY"
+},
+"reviewBody": "This was a good meal. I will be making this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "SOOOSIE"
+},
+"reviewBody": "This recipe was very good, though next time I will probably strain one of the cans of tomatoes. It was a little soupy, so that change should make it better. I made this for 3, and we all thoroughly enjoyed it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "mercedes0602"
+},
+"reviewBody": "this was good. my family loved it...i didnt like the nutmeg flavor at all(my fault because i accidentally added too much). other than that, it was a great dish. i'd make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Great Taste! Family loved it and I make it regularly now!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "AUNTWEBBIE"
+},
+"reviewBody": "I'd probably really give this a 3.5 star rating. I substituted peas for the green beans, as I didn't have any and just wasn't up to go to the store again. The dish was good and I'll make it again, but it didn't seem like it was breaking the kind of ground that you'd think a \"West African\" dish would. Still my husband said \"it's comforting\" and that he liked it, and I did like the ease with which it goes together. Far better for a fall or winter Sunday than a pretty green Sunday in spring, because it is a warm, homey, stick-to-your-ribs kind of dish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "QUINNTESSA"
+},
+"reviewBody": "This recipe was excellent, except I wasn't a big fan of the chicken thighs. I cooked it for my boyfriend and he agreed. I would definately make this again, but next time I'll use boneless ckicken breasts."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I love Jollof rice so when I tasted the final product of this particular recipe I was thoroughly disappointed. The whole thing turned out mushy and almost like a bad stew. 2 cans of stewed tomatoes, 2 cups water and only 1 cup of rice??!! I finally got an acceptable product by working my way down to 1.5 can stewed tomatoes, 1/4 cup water, and 2 1/4 cup rice. This recipe gives a bad name to Jollof and African food, eeandoh."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "DARLA"
+},
+"reviewBody": "Homey comfort food. To serve 3, I halved the recipe using 5 bone-in chicken thighs, but I removed the skin first. Not something I would make for company, but good for an easy one-pot weeknight dinner."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "njmom"
+},
+"reviewBody": "This was just ok. I cooked it in the crockpot. I put the rice in at the end, and it cooked up too mushy. My fault. Probably won't make again though. My kids didn't like it. Thanks anyway."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Janet Wisefield Schwab"
+},
+"reviewBody": "Wonderful and tasty dish especially on a cold night!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ROBERTL30"
+},
+"reviewBody": "Wow! This has shot up to my favorite dish. So easy to make. The flavor is incredible. Spicy, but not too spicy. Really unique. Reminded me of food we get at a local Jamaican restaurant. Meat was done perfectly."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "OHSUSAN429"
+},
+"reviewBody": "This was EXCELLENT! The chicken was falling off the bone. Don't change a thing! I used the same pot that I use when I make sauce; 8 qrt. The flavor was unbeleivable!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KELVICIOUS"
+},
+"reviewBody": "I thought this recipe was excellent!! It was spicy but not too spicy!! I really was very pleased. The only changes I made were (3 lb) chicken breasts cut in halves and brown rice instead of white rice! Also as someone mentioned earlier, you need a HUGE pan, I started out in a large skillet and realized right away that that was not going to work! The dish was great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christianne"
+},
+"reviewBody": "Our family really enjoyed this recipe. We're spicy food lovers, so I increased the cayenne and added a few more peppers. After preparing the meat, I finished cooking in the crockpot. Definitely will make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LLEERENO"
+},
+"reviewBody": "What a wonderful recipe! I only used 1/4 tsp of red pepper flakes, as I was afraid it would be too spicy. However, I should have trusted the recipe, I will use the full amount next time. I also used whole boneless, skinless chicken breasts which is much easier and was great. I will definately be making this recipe again, soon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "NIKKIROSE"
+},
+"reviewBody": "Pretty good! I used cut up chicken breast that I browned with the onion. Good flavor and my husband liked it too. Will probably make again. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "LILSPINSTER"
+},
+"reviewBody": "The flavor of this is WONDERFUL, but there were a few things I had issues with. First of all, it needs to be pointed out that you need a HUUUUUGE saucepan, like a Dutch oven to make this with, or you will end up with a HUGE mess like I did. Also, cutting a whole chicken up into 8 pieces is not as easy as it sounds. I think I will use chicken PIECES next time. I subbed peas for the carrots and used jarred tomato sauce (i.e. pasta sauce) instead of the paste, and only one can of tomatoes. It came out great (despite what I mentioned above)!!!! This is a good one pot meal and you can vary your vegetables--very versatile. I will make this again (in a bigger pot :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I love Jollof Rice ... Thank you for sharing !"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/67061/jollof-rice/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/86/world-cuisine/",
+"name": "Cuisine"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/226/world-cuisine/african/",
+"name": "African"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/67061/jollof-rice/",
+"name": "Jollof Rice"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

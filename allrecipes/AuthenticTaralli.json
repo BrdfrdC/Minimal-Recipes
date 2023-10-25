@@ -1,0 +1,186 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Authentic Taralli"
+,"datePublished": "2020-05-11T19:53:19.000-04:00"
+,"dateModified": "2022-01-04T08:11:56.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Buckwheat Queen"
+}
+]
+,"description": "This authentic recipe for taralli comes from the Puglia region in Italy. Taralli are a yeast-free, crispy cross between a bagel, a pretzel, and a breadstick."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/bT1h2u2QKwKDhWDqV3gHOmdaPSU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7999235-bb8b40f932014dc19b48c6b5986c5992.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Authentic Taralli"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "5"
+}
+,"cookTime": "PT55M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "57 kcal"
+,"carbohydrateContent": "6 g"
+,"fiberContent": "0 g"
+,"proteinContent": "1 g"
+,"saturatedFatContent": "0 g"
+,"sodiumContent": "15 mg"
+,"sugarContent": "0 g"
+,"fatContent": "3 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT40M"
+,"recipeIngredient": [
+"4 cups all-purpose flour",
+"0.5 teaspoon fine sea salt, divided",
+"0.75 cup olive oil",
+"0.75 cup dry white wine" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine flour, 1/4 teaspoon salt, oil, and wine in a stand mixer. Mix ingredients using the paddle attachment until a ball forms. Switch to the dough hook and knead dough for 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Line a baking sheet with parchment paper. Bring a large pot of water to boil over high heat and add the remaining salt. Spread a large, clean cloth out on a counter or table."
+} ,{
+"@type": "HowToStep"
+,"text": "Pinch off a walnut-sized piece of dough once kneading has finished. Roll dough piece into a snake about 2 1/2 inches long. Form a tear drop shape, lightly pressing the two ends together to seal them into a ring. Repeat with remaining dough."
+} ,{
+"@type": "HowToStep"
+,"text": "Turn down the boiling water to a low boil. Drop taralli into the water a few at a time. Do not stir; they will sink at first, then begin to float. Remove floating taralli with a slotted spoon. Place them on the clean cloth and continue until all the taralli have boiled and are drained on the cloth. Place them on the prepared baking sheet."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until taralli are golden and firm on the outside, but still soft on the inside, about 40 minutes. Cool completely and rest for at least 1 hour before serving. Wrap with a clean cloth or place in a paper bag; store at room temperature for up to 1 week."
+} ]
+,"recipeYield": ["60"]
+,"totalTime": "PT155M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Linda Halbedel Charron"
+},
+"reviewBody": "I made the recipe exactly as written. The dough seemed dry and didn't want to stay together. I struggled but it came out looking okay. Baking at 350 for 40 min. did not brown up. Put back in oven for 10 more min. but they still weren't brown. Took them out to cool anyway. They were too hard and not soft inside. Tasted bland. Need some kind of flavoring. I will try again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Davina Elizabeth"
+},
+"reviewBody": "Fabulous recipe. I added dried rosemary and they were out of this world. Just like in Puglia!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "NewportChef"
+},
+"reviewBody": "Made these for an Italian wine tasting, two days ahead of time, and kept them in a paper bag; they kept just fine and were still crisp on the outside and soft on the inside. The recipe made about 36 taralli. I added just a bit of fennel seed (1/2 tsp), and it flavored the entire batch quite a bit. I also dipped half of them in grated Parmesan after boiling, but we could not taste the cheese after baking. The taralli tend to be somewhat flavorless, which is actually good for a wine tasting... I had to turn up the oven to get them to brown properly after the recommended temp (350 in a regular oven) -- they spent an extra 7 minutes at convection 345 degrees, which did the trick."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Vladimir"
+},
+"reviewBody": "fluffy, light .. nice snack"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/279509/authentic-taralli/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17146/appetizers-and-snacks/snacks/",
+"name": "Snacks"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16212/appetizers-and-snacks/snacks/crackers/",
+"name": "Cracker Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/279509/authentic-taralli/",
+"name": "Authentic Taralli"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,165 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "One Pot Tortellini Bake"
+,"datePublished": "2022-09-20T19:51:07.000-04:00"
+,"dateModified": "2022-09-20T19:51:07.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "thedailygourmet"
+,"url": "https://www.allrecipes.com/cook/thedailygourmet"
+}
+]
+,"description": "This delicious tortellini bake with tomato sauce and cheese is cooked all in one pot."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/2m2CwW8gF8ZQ7snxXMsTX_jLBt8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/one-pot-tortellini-bake-thedailygourmet-c183f7b5ef0441c58c16314a6ed5bbc7.jpeg",
+"height": 924,
+"width": 1232
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "One Pot Tortellini Bake"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "4"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "783 kcal"
+,"carbohydrateContent": "57 g"
+,"cholesterolContent": "153 mg"
+,"fiberContent": "6 g"
+,"proteinContent": "33 g"
+,"saturatedFatContent": "23 g"
+,"sodiumContent": "1412 mg"
+,"fatContent": "46 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 pound ground beef",
+"1 teaspoon Italian seasoning",
+"0.5 teaspoon salt",
+"0.5 teaspoon granulated garlic",
+"1 (28 ounce) jar marinara sauce",
+"1 (14.5 ounce) can diced tomatoes",
+"1 cup water",
+"0.25 cup Cabernet Sauvignon (or other dry red wine)",
+"1 (16 ounce) package tortellini",
+"1 (8 ounce) package cream cheese, cubed",
+"4 ounces shredded mozzarella cheese" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat a Dutch oven over medium-high heat. Add ground beef and cook until brown and crumbly, 5 to 10 minutes. Add Italian seasoning, salt, and granulated garlic; mix to combine."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir in marinara sauce, diced tomatoes with liquid, water, and red wine until well combined. Reduce heat to low; add tortellini and cook until warmed through, about 10 to 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, preheat the oven to 375 degrees F (190 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Add cream cheese to tortellini mixture and stir gently to blend; sprinkle mozzarella cheese over the surface."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until cheese is melted and golden brown, about 15 minutes. Serve immediately."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT40M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Danielle K."
+},
+"reviewBody": "This was wonderful. Its almost like a tortellini lasagna."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kliewerje"
+},
+"reviewBody": "I made this in a cast iron Dutch oven. I drained the grease off of the ground beef and sautéed fresh garlic instead of granulated. I used two pint jars (32oz total) of homemade cherry tomato sauce. Served it with a side salad, garlic bread would be great with it as well. This recipe is an excellent starting point and easily customizable. The next time I make it, I’ll incorporate chopped onions and bell peppers. Everyone got seconds and my husband ate it for breakfast this morning."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8468509/one-pot-tortellini-bake/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/521/pasta-and-noodles/pasta-by-shape/",
+"name": "Pasta by Shape Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/515/pasta-and-noodles/pasta-by-shape/tortellini/",
+"name": "Tortellini Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8468509/one-pot-tortellini-bake/",
+"name": "One Pot Tortellini Bake"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

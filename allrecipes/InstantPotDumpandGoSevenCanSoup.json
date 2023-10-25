@@ -1,0 +1,123 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Instant Pot Dump and Go Seven Can Soup"
+,"datePublished": "2023-02-24T11:30:00.000-05:00"
+,"dateModified": "2023-02-24T11:30:00.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Soup Loving Nicole"
+,"url": "https://www.allrecipes.com/cook/souplovingnicole"
+}
+]
+,"description": "The easiest Instant Pot dump and go soup with beans, corn, green beans, and potatoes."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/y_8cOKC-DW26fmifd2U64faXOJg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1674529027IP20Dump20and20Go20720Can20Soup-2000-2df8e327122d4cfb963ed68989db44a7.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Instant Pot Dump and Go Seven Can Soup"
+,"cookTime": "PT40M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "288 kcal"
+,"carbohydrateContent": "45 g"
+,"cholesterolContent": "22 mg"
+,"fiberContent": "9 g"
+,"proteinContent": "15 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "1726 mg"
+,"fatContent": "7 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"1 (15.25 ounce) can whole kernel corn, drained",
+"1 (15 ounce) can ranch-style beans",
+"1 (15 ounce) can no-bean chili",
+"1 (14.5 ounce) can cut green beans, drained",
+"1 (14.5 ounce) can diced potatoes, drained",
+"1 (10.75 ounce) can condensed nacho cheese soup (such as Campbell's® Fiesta Nacho Cheese)",
+"1 (10 ounce) can diced tomatoes and green chiles (such as RO*TEL®)" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine corn, ranch-style beans, chili, green beans, potatatoes, cheese soup, and diced tomatoes and green chilies in a multi-functional pressure cooker (such as Instant Pot®). Stir to combine."
+} ,{
+"@type": "HowToStep"
+,"text": "Close and lock the lid. Select highpressure according to manufacturer&#39;s instructions; set timer for 15 minutes. Allow 25 minutes for pressure to build."
+} ,{
+"@type": "HowToStep"
+,"text": "Release pressure carefully using the quick-release method according to manufacturer&#39;s instructions, about 5 minutes. Unlock and remove the lid. Serve and enjoy."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT50M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8532487/instant-pot-dump-and-go-seven-can-soup/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/22882/everyday-cooking/instant-pot/",
+"name": "Instant Pot&uml;"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/23263/everyday-cooking/instant-pot/soups-stews-and-chili/",
+"name": "Soups, Stews and Chili"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8532487/instant-pot-dump-and-go-seven-can-soup/",
+"name": "Instant Pot Dump and Go Seven Can Soup"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

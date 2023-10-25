@@ -1,0 +1,1416 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Blue Cranberry Sauce"
+,"datePublished": "1999-11-15T13:11:19.000-05:00"
+,"dateModified": "2022-09-21T15:05:00.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Connie"
+,"url": "https://www.allrecipes.com/cook/24322337"
+}
+]
+,"description": "A pint of fresh blueberries is incorporated into this recipe for a traditional cranberry sauce made from scratch. This sauce can be made a day or two ahead."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/mqVQ9yYR2X_c5InN54l2NhTT_zY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/485282-a6dbbd4404ce4c73a4c44e44a95b731b.jpg",
+"height": 250,
+"width": 250
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Blue Cranberry Sauce"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "361"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "82 kcal"
+,"carbohydrateContent": "21 g"
+,"fiberContent": "3 g"
+,"proteinContent": "0 g"
+,"sodiumContent": "1 mg"
+,"sugarContent": "16 g"
+,"fatContent": "0 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"recipeIngredient": [
+"1 (12 ounce) package fresh cranberries",
+"1 cup water",
+"0.5 cup white sugar",
+"1 teaspoon ground cinnamon",
+"0.25 teaspoon ground nutmeg",
+"0.125 teaspoon ground allspice",
+"1 pint fresh blueberries" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Wash and pick over cranberries. Place in a medium saucepan with water, and sugar. Bring to a boil, reduce heat, stir and simmer for 10 minutes or until cranberries burst."
+} ,{
+"@type": "HowToStep"
+,"text": "Slightly mash the cranberries with the back of a wooden spoon to insure all skins are broken. Add the cinnamon, nutmeg and allspice. Mix well."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove from heat and mix in the blueberries (don&#39;t be afraid to break a few, but don&#39;t over mash either). The sauce will thicken as it cools."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer to a bowl, cool slightly and place plastic wrap directly on top of sauce to cover. Refrigerate until chilled."
+} ]
+,"recipeYield": ["9"]
+,"totalTime": "PT0M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer Terry"
+},
+"reviewBody": "Delicious! Everyone loved it. I had to add quite a bit more sugar. Had it with Thanksgiving dinner, then poured the rest over a block of cream cheese and ate it on crackers. A hit!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jessica Harding"
+},
+"reviewBody": "Delicious. My husband who doesn't like cranberries or cranberry sauce loves it. As a jam."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ben Greenwood"
+},
+"reviewBody": "Excellent! 1/4 tsp allspice and add 1/4 c sugar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ARMADILLO99"
+},
+"reviewBody": "I used frozen blueberries &amp; a bit more spice. I wasn't impressed at first, but after the flavors blended, it was delicious. I liked that it wasn't overly sweet."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sewbiker"
+},
+"reviewBody": "This was fabulous and will be my go-to cranberry sauce recipe going forward! I did follow the other reviewers comments and upped the sugar to 3/4 cup."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "petlover"
+},
+"reviewBody": "Even without the spices, it is still delicious. My family cannot handle cinnamon and the others. Thanks for the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Terri Wheeler Roberts"
+},
+"reviewBody": "Giving it 5 stars even though it was very runny, which might have been due to how I cooked the cranberries. I didn't want any skins so I strained the mashed cranberries and put the remaining skins and flesh in my food processor before putting back in the bowl with the juice. I added equal parts of blueberries and raspberries. I also used orange juice for the water as per other reviewers. Everyone LOVED the flavor and put it on the rolls, ice cream, pancakes, etc. Thanksgiving and the following four days. I will make this again but try to get it a little thicker."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Frank and Beans"
+},
+"reviewBody": "This is the best cranberry sauce ever. I made it for Thanksgiving dinner and for turkey sandwiches the next few days. The only thing I changed was, I used one cup of Splenda sugar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Angie"
+},
+"reviewBody": "This is a great cranberry recipe. Very easy, very tasty. The blueberries add a different taste that makes this dish especially tasty. For those who think of the canned stuff when you hear of cranberry sauce, this will make you realize fresh cranberry sauce is so much more superior that you’ll never go back. The recipe is easy and relatively quick to make. You could have your children make it while you’re preparing the rest of the Thanksgiving meal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jselph"
+},
+"reviewBody": "This was a wonderful addition to our Thanksgiving meal. Everyone enjoyed it including my picky chef son. I did use 1 cup of sugar as other reviewers suggested."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kareny"
+},
+"reviewBody": "A family favorite since 2011!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "need2cook"
+},
+"reviewBody": "Entire family said it was the best they ever had."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MommaKass"
+},
+"reviewBody": "I think substituting orange juice for the water brings this recipe up to scrumptious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "NancyK"
+},
+"reviewBody": "I have been making this recipe for years - it’s easy, uses less sugar than other recipes and tastes fantastic I make extra and freeze it. We haven’t tried it on pancakes yet, but it’s great with roast chicken. Really a favorite!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "David Schlegel"
+},
+"reviewBody": "I too added more sugar. It was a hit at dinner."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jo Young"
+},
+"reviewBody": "I LOVE this cranberry sauce! One of my favorites and SO EASY!! The batch I make for the family dinner I use extra sugar. I usually make another batch for myself and, while I haven't figured out the right amount, I sub applesauce for the white sugar. Maybe this year will be the year I get it perfect :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Della McGaw"
+},
+"reviewBody": "I followed the directions on the cranberry bag 1 cup water and 1 cup sugar. I added the spices and when the cranberries were cooked I added 1 cup blueberries and 1 cup raspberries. Came out great. Will definitely make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kimcatk "
+},
+"reviewBody": "This was a huge hit, we used the leftovers for jam."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SINGER1993"
+},
+"reviewBody": "I LOVE THIS RECIPE--have made it for years now. I make it exactly as is. It's the perfect balance between the tart cranberries and the sweet blueberries. We still do the canned stuff (my youngest insists on it, it's just the tradition), but I make enough of the blue cranberry sauce to have on Thanksgiving and for a few days after."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Josephine Roeper"
+},
+"reviewBody": "It was a nice change but I prefer a more citrusy cranberry sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Korie Beth Equality Brown"
+},
+"reviewBody": "Instead of the different spices, I use half a tablespoon of pumpkin pie spice. Also, I threw everything in and cooked it up together. Came out amazing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ann"
+},
+"reviewBody": "I made this according to the recipe for Thanksgiving (plus a generous splash of bourbon) and it was exceptional! It is not as sweet as traditional cranberry sauce, but a colorful, unexpected side for turkey. And spreading on leftover rolls. And adding to oatmeal. And topping waffles!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "rupertrules"
+},
+"reviewBody": "Really good. I cooked the cranberry and blueberries together and added a little more cinnamon and sugar. Great for thanksgiving."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lesley"
+},
+"reviewBody": "We love this, and yes, we use extra sugar. Excellent."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "laurabarmby"
+},
+"reviewBody": "Really delicious. I made it as described in the recipe. Even though I love my previous cranberry recipe my kids would never eat it. This one got raves reviews and I didn't have a ton left over. It is good warm or cold."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lolita Evelyne"
+},
+"reviewBody": "We didn't need to change a thing. tasty. :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kim"
+},
+"reviewBody": "I used frozen blueberries, pumpkin pie spice, cinnamon and STEVIA. Next time I'd like to try cherries in this as well. It was a little bit tangy, so I added a wee bit more stevia."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JRMac"
+},
+"reviewBody": "This sauce always gets rave reviews from my family. My sister requested I make my cranberry relish again this year. So I am. Some years I use the blueberries, other years I've used mixed berries, raspberries or blackberries. But I love the suggestion to use 1 cup of O.J. in lieu of the water, then add some zest of 1 orange. This year I'm going to mix in some actual orange to the sauce with the fresh blueberries after it cools. \nI love this recipe because there is so much you can do with it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DAWNVISIONARY"
+},
+"reviewBody": "Very easy. Delicious! I used blueberries and raspberries with the cranberries and doubled the sugar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alison Nimetz Severini"
+},
+"reviewBody": "This recipe is perfect the way it is. Nice balance between tart and sweet."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jena Schallhorn"
+},
+"reviewBody": "This is a great sauce! Loved it, looked beautiful on the table too!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jandjn"
+},
+"reviewBody": "Wow what great taste combination! Will make this again &amp; again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ginny Thomas"
+},
+"reviewBody": "This is the best cranberry sauce I've ever had. I replaced some of the sugar with stevia, with total sweetener of about 2/3 cup. I use 1 cup blueberries to a package of cranberries. Fresh or frozen work equally well. Even those who say they don't like cranberry sauce will eat his."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Tammy Lynn"
+},
+"reviewBody": "This was well received at Christmas dinner, but no one was asking for the recipe or wanting the leftovers. I upped the sugar to 3/4 c, but I now agree with other reviewers that it needs a full cup. (Some people must really like things tart.) I cut the cinnamon in half and just put a pinch of nutmeg and allspice-- thought it was spiced just right this way. I also think the use of OJ instead of water would have helped the flavor. A lot of reviewers did this and thus rated the recipe higher. Overall the recipe is OK, but I guess many of the tweaks make it 5 stars."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Danielle Monique Cade"
+},
+"reviewBody": "I skipped thw white sugar and used honey (1/4 cup). The spices are perfect. This wonderful on pancakes! You could always add a little orange or more blueberries instead of sugar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bezick2"
+},
+"reviewBody": "Don't love cranberry sauce, but this was very good as far as cranberry sauce goes. We used the leftovers on our oatmeal and pancakes the morning after Thanksgiving."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "pclady70"
+},
+"reviewBody": "Best Cranberry sauce I have ever had. I took the advice of a few others and used Orange Juice instead of water and a full cup of sugar. I will make this again and again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Karen Morgan"
+},
+"reviewBody": "Everybody loved this on Thanksgiving!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Pat Roloff"
+},
+"reviewBody": "All I tasted was cinnamon, even though I added twice the amoount of sugar. Bummer."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Patrish7"
+},
+"reviewBody": "Good recipe but you really do need a whole cup of sugar. The blueberry's are a nice addition. Home made is so easy &amp; so much better than canned. Glad more ppl are returning to making things from scratch."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "alli & ryans gamma"
+},
+"reviewBody": "This was a tailor made recipe for my family. Some members can't have citrus and most cranberry sauce recipes have use oranges. The blueberries make it special. I may try it with the cup of sugar instead of a half cup as recommended by some reviewers however my husband thinks it's perfect as is."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "VanessaQ"
+},
+"reviewBody": "I love this and I have never been a cranberry sauce fan. I hope it lasts till Thanksgiving as I made it Tuesday night. I thought the amount if sugar was perfect for my taste. I just used a 4.4 oz package of blueberries (expensive enough in my town!) and that, too was perfect. A pint might have been more blueberry than cranberry but probably good, too. I had no idea a homemade cranberry sauce could be so easy, either. 5 stars!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Betty Moore Parker"
+},
+"reviewBody": "Great...This is even better the next day with sliced white turkey, dressing and mayo on pumpernickel bread, as a sandwich you can not beat it. Did use Splenda, instead of sugar,(1 cup),cinnamon (2t) and orange juice instead of water.\n\nBetty Parker"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ashlif"
+},
+"reviewBody": "I've been making this for years- finally reviewing it... It's ALWAYS a huge hit. Yummmmm!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Alaina Tuttle"
+},
+"reviewBody": "I really love the fall flavor that the spices add! The blueberries are also a great touch. I also added a full cup of sugar and it cut some of the tartness. I will definitely make this easy recipe again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Travis Causey"
+},
+"reviewBody": "The only changes I made were to use half the blueberries and half the cranberries. This resulted in a very good sauce with a very subtle tart. Served it on crepes as a desert."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lexabee"
+},
+"reviewBody": "I've been making this now for 6 years for Thanksgiving dinner. I have to make it. My entire family loves it and would shun me if I don't bring it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shawna Smith"
+},
+"reviewBody": "I use this one every year for Thanksgiving and I always get rave reviews. Love it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "brenda_pawloski"
+},
+"reviewBody": "I love this recipe so much, I buy several bags of cranberries when they're in stock and keep making it after the holidays. I just made some on January 10. I use a 12 oz bag of cranberries and measure out 12 oz of frozen blueberries that I buy at Aldi. I use all the spices in the quantities given. I'll also add a pinch of salt. It's a delicious yogurt topping. I use an immersion blender to smooth it out while it's still warm in the pot."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "toris"
+},
+"reviewBody": "I used a little too much nutmeg, however, those that liked nutmeg at the table really enjoyed it. I liked it better the next day, and cold. Pretty easy to make!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bruce"
+},
+"reviewBody": "This was on of this years Thanksgiving Dinner hits! Amazingly easy to make and you can serve it either warm (the way I like it) or chilled too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SimplyYummy"
+},
+"reviewBody": "Awesome."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary Alice Bernal"
+},
+"reviewBody": "I just made this last night and it was wonderful. I didn't have any allspice, so I added 1/4 tsp of ginger instead. I also took the advice of other reviewers and added almost 1 C sugar. I can't wait until tomorrow's Thanksgiving meal to try it on our smoked turkey. I expect there won't be any left!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "motherbear"
+},
+"reviewBody": "So delicious! Thanks for posting."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "allrecipesrocks"
+},
+"reviewBody": "I wanted to try this to get some blueberries in my diet as I'm not a huge fan of blueberries, but they are sooo good for you. I modified the recipe a bit - used half brown sugar and half white, used half orange juice and half water. The only thing I wasn't really a fan of was that the blueberries were an odd texture compared to the cranberries. As someone who isn't a big fan of blueberries, it made the dish a bit less wonderful. The flavor was great though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Valerie1998"
+},
+"reviewBody": "I make this for thanksgiving each year and give half of it to my neighbor who is a chef. I had my mom out here this year and she made it for Christmas. \n\nI use orange juice instead of water and 3/4 cup of sugar ."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "MISTICAT57"
+},
+"reviewBody": "Very tasty!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stiliyana Johnson Stamenova"
+},
+"reviewBody": "I made this exactly to recipe for Thanksgiving and everyone loved it! I don't usually like cranberry sauce, but this was delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ONEROER"
+},
+"reviewBody": "Super"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "spartawheelers"
+},
+"reviewBody": "Easy to make and received great reviews from my guests. Next time I would add a little more sugar as the kids found it a little too tart."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KellyP"
+},
+"reviewBody": "This turned out better than expected for me. I wanted to use fresh cranberries but was afraid it would be too tart for my guests. It was almost too sweet! Most people liked it. I would make it again but probably cut the sugar in half because the fresh blueberries do such a good job of makeing it sweet enough. Also love the fact that it contains 2 anti-oxidant power houses (the blueberries and cranberries)!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jessie"
+},
+"reviewBody": "This came out great! It will definitely be apart of my Thanksgiving feast from now on! The only mod I did was use a little less sugar and add more blueberries to make it a little healthier. Great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Erin"
+},
+"reviewBody": "Made this for Christmas and it went over pretty well. I had to add extra sugar -- pretty much double -- to get it sweet enough that it didn't make you pucker when you ate it. Or, to get it on par with the canned stuff. The only thing I didn't like about making this (which has nothing to do with the recipe itself) is that the skins came off many of the cranberries and often we'd get a mouth full of skins which wasn't terribly pleasant. Could be that I overcooked them. Anyway -- it's a nice change for cranberry sauce but I'll keep trying new recipes -- this isn't the be all and end all."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tiselput"
+},
+"reviewBody": "This was soooo good. My whole family loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Teresa Chaffee"
+},
+"reviewBody": "Used this recipe Thanksgiving 2010 with Mom, Pauline, Ron &amp; family. Very good. I added a bag of mixed raspberries, blueberries etc. in lieu of the just blueberries. Left out allspice as I did not have it. Still very good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "RDG"
+},
+"reviewBody": "Pretty god, but spices were overpowering...will try again but cut back on spices, especially the nutmeg- overpowered the flavor of the berries."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tom Warwick"
+},
+"reviewBody": "Awesome twist on cranberry sauce, I served this for thanksgiving and everyone who tried it said they would never eat canned cranberry sauce again. Super simple to make and adds a nice homemade touch to the holiday menu."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SAMAGGIE"
+},
+"reviewBody": "So good! I used frozen blueberries and they worked just fine. I also increased the sugar to 3/4 c, as other reviewers indicated it needed to be sweeter. It was definitely sweet enough!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JARRIE "
+},
+"reviewBody": "This recipe was delicious. I had to add extra sugar but I'm not sure I had exactly the right amount of cranberries -- they were frozen from last year. I don't recall if anyone ate it with their turkey, but it was thoroughly enjoyed over cream cheese with crackers on the side. Thanks for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "adizzle"
+},
+"reviewBody": "This recipe is fantastic. I was tasked with making a cranberry compote for my thanksgiving food item this year, and I went with a recipe from food network at first... Emeril's recipe, to be specific. It turns out that his recipe was utter garbage, and tasted like the bottom of a litterbox. This recipe, on the other hand, was amazing... I did a small amount of customization, substituting orange juice for the water, reducing the amount of cinnamon, and adding a slightly larger amount of nutmeg and blueberries. It turned out great, and I want to thank the author for the recipe! Nice work!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda"
+},
+"reviewBody": "This is an easy tasty recipe. I substitute splenda for the sugar as the cranberrys are very low carb."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SYNEVA B"
+},
+"reviewBody": "I have made this so many times. It is extremely easy to make and has become legendary with my friends. It is always requested for Fakesgiving (Thanksgiving feast on a separate day with only friends no family)!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Chef Joy"
+},
+"reviewBody": "HELPFUL TIPS WHILE MAKING THIS: I definitely had to take the advice of another reviewer and add 1C of sugar. All the other cranberry sauce recipes on here call for 1C as well, so it's not as alarming as one may think. Otherwise, it is WAY too tart. Know that when they say the cranberries will POP ...they literally mean pop, so it may be best to not wear white or stand so close to the pot ;) Otherwise, this was delicious and a nice twist to the normal cranberry sauce. I've got to admit that my husband thought there was too much cinnamon, but he is one of those people who are sensitive to seasonings (loves them but hates when one overwhelms a recipe). Personally, I thought it was perfect!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lverardi"
+},
+"reviewBody": "I just made this (so easy) and yummy. I put a spoonful over Greek non-fat yogurt and a sprinkle of granola to hold me over until dinner with my husband later tonight. I plan to make a big batch to can."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carrie Jean"
+},
+"reviewBody": "I make this every year. People request it! I use frozen blueberries."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DEE C."
+},
+"reviewBody": "This comes together very quickly and the colors are gorgeous! I had to add just slightly more sugar as my cranberries were pretty tart and I used frozen blueberries instead of fresh. The flavor is much more complex than the ingredients suggest. I think it's fabulous and I hope the family loves it on Turkey Day. If not, then it's all mine! Thanks a lot for a different take on an old favorite. :o)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "adriana mooney"
+},
+"reviewBody": "I needed to add 1/2 cup more sugar. It was too tart for me, but I like sweet. And please be careful with the spices. Allspice and Nutmeg are very strong and can overpower the cranberry flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KATHYTWOWOLVES"
+},
+"reviewBody": "I didn't like cranberry sauce until I tried this version."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "erz2002"
+},
+"reviewBody": "This was good, and I really liked the combination of cranberries and blueberries. I would enjoy this more using half the amount of spices called for, as it was too spicy for me as written."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Crystal"
+},
+"reviewBody": "Well, I am known for my \"bad\" cooking.. your recipe saved me last Thanksgiving. Everyone thought I was kidding when I said I made it!! LOL"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kimawesome"
+},
+"reviewBody": "Amazing! I make this EVERY year since I stumbled across this recipe a few years ago! I don't even like cranberry sauce...but I LOVE this!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MJVUKOTICH"
+},
+"reviewBody": "Oh my stars! I am not a big fan of cranberries by themselves as I think they are too sour but the added blueberries makes this dish very yummy. A Thanksgiving favorite for sure."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "apos159"
+},
+"reviewBody": "Delicious! My husband loved this. I'm planning on making this for Thanksgiving this year."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Maryann"
+},
+"reviewBody": "This recipe is the best!! I use orange juice instead of water- that way you don't need to add any extra sugar. I also add a pint of red raspberries and the flavors blend wonderfully!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "mominml"
+},
+"reviewBody": "I followed the recipe but only for 1/2 batch because my kids don't really care for cranberry sauce. I really enjoyed the addition of the blueberries, but needed to add more sugar. I like tart, but this was pucker tart. I probably added about an extra 1/4 cup."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JANNIEXOXO"
+},
+"reviewBody": "This cranberry sauce is amazing! We all loved it. It was also great poured on a brick of cream cheese. I think it would make a great sauce to go on ice cream!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stacey M. Torres"
+},
+"reviewBody": "Every time I make this recipe it always gets compliments and the bowl is empty by the end of the meal. It's a lot more subtle than original cranberry sauce - less of a bite, but it blends so beautifully with turkey and stuffing that I've definitely had to make it a \"signature\" on Thanksgiving and Christmas."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "AZ"
+},
+"reviewBody": "I can't believe that I forgot to rate this one! I made it for Thanksgiving and everyone loved it. I did add some blackberries and raspberries as well and my cranberries very exceptionally tart, so I used a little more sugar than called for."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Butler04"
+},
+"reviewBody": "Excellent cranberry sauce. Even the kids ate it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle Roth-Kiva"
+},
+"reviewBody": "UPDATE: THIS MADE A LOT, SO I TOOK SOME TO MY MOM &amp; DAD (MOM LOVES MY TRAD. CRANBERRY SAUCE &amp; ASKS ME TO MAKE IT EVERY TDAY). SURPRISINGLY, THEY DID NOT CARE FOR THIS. BOTH FELT IT WAS TOO SPICY (???). OK, here's the deal. I've recently had a hankering for cran relish (guess I didn't get enough of it during the holidays lol). I purchased quite a few 12 oz. bags of fresh cranberries while they were on sale back in Nov. as I was planning to make a LOT of cranberry dishes. Sadly, I never got around to making any of them.... I froze what I had, so that it would be easy to take out what I needed when I needed to (I forgot to thaw for this recipe, so I ran my bag under lukewarm H2O for 5 min. or so). I am hoping to make a slow cooked turkey next wk. I want to serve it w/ all the fixins' - cran sauce, stuffing, dinner rolls, etc. I figure, if I don't get around to making this in the next coming wk., I'll just freeze this until I need it. I must admit I was not sure I was going to like this at all, initially. I am not a fan of cooked blueberries (although I enjoy them fresh), but was so intrigued, I had to give this a try. I am soooo glad I did! The spices are AWESOME (they make the dish)!!! The blueberries are a surprisingly nice add. And if you sub. OJ for the H2O called for (I always do this), this is extra super yummy!!!! I still prefer Holiday Cranberry Sauce (MARJK), but this is a close 2nd! Thanks for sharing, Connie! :-)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JOANNBAKER"
+},
+"reviewBody": "This was excellent! I will make this again for sure."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JoAnn Lambert"
+},
+"reviewBody": "My DH made this recipe for thanksgiving. we really loved it ! was a bit too much cinnamon, but that have have been my husbands heavy hand! thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tiffany Randle"
+},
+"reviewBody": "It turned out fantastic! I made two batches - I added raspberries and blackberries to the second batch. The cranberry sauce the first thing to go on Thanskgiving - absolutely perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LaVonne"
+},
+"reviewBody": "The best cranberry sauce ever!!!! It was so-o-o easy to make, and tasted even better the next day, allowing the spices to infuse longer in with the fruit. (I did add a cup of sugar instead of the 1/2 cup recommended.) Ohh, it is wonderful - it tastes and smells like Christmas. I'd definitely give this recipe a try."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cassie"
+},
+"reviewBody": "This is the best cranberry sauce I've ever made or eaten. I followed the recipe to a tee and it is awesome. I will make this from now on! Thanks for sharing it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amber Dyson"
+},
+"reviewBody": "I've used this every year since I discovered it five years ago, and it's always delicious. I use 1 cup of sugar (instead of 1/2), freshly grated nutmeg, and fresh squeezed orange juice instead of water. I've tried adding raspberries, and it's great that way. This year I added the arils of one pomegranate instead (with the pint of blueberries), and it's my favorite so far. I do use frozen berries, since they're out of season, and frozen berries are juicier this time of year. Highly recommended recipe! Leftovers: add a spoonful or two to cold sparkling water for a delicious drink. The kids LOVE this!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Maureen"
+},
+"reviewBody": "Enjoyed this. Made this last year, and will do so again this year. Makes plenty, to share as gifts with your neighbors too!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CandiCates"
+},
+"reviewBody": "Delicious, easy to make, everyone loved it. It is now a Thanks Giving tradition : )"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lynnje"
+},
+"reviewBody": "OUTSTANDING!!!!! Everyone loved it! I substituted the sugar with maple syrup to make it a nice healthy side."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/13851/blue-cranberry-sauce/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1976/side-dish/sauces-and-condiments/sauces/",
+"name": "Sauces"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1260/side-dish/sauces-and-condiments/sauces/cranberry-sauce/",
+"name": "Cranberry Sauce Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/13851/blue-cranberry-sauce/",
+"name": "Blue Cranberry Sauce"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

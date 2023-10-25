@@ -1,0 +1,226 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Lemon Panna Cotta"
+,"datePublished": "2020-06-19T00:40:45.000-04:00"
+,"dateModified": "2022-01-11T19:04:59.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "lutzflcat"
+,"url": "https://www.allrecipes.com/cook/lutzflcat"
+}
+]
+,"description": "Panna cotta, a classic Italian dessert, is flavored in this recipe with lemon zest and lemon juice. It&#39;s luscious, refreshing, and has a smooth and silky texture."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/MB6Qgd6-7vZhtlRUx2NhBEdMBZU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9123237-59ceefdd32f840f9917e216221d9fd70.jpg",
+"height": 1496,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Lemon Panna Cotta"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "7"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "488 kcal"
+,"carbohydrateContent": "21 g"
+,"cholesterolContent": "163 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "4 g"
+,"saturatedFatContent": "27 g"
+,"sodiumContent": "48 mg"
+,"sugarContent": "18 g"
+,"fatContent": "44 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"2 tablespoons freshly squeezed lemon juice",
+"1 (.25 ounce) package powdered gelatin (such as Knox®)",
+"3 cups heavy cream",
+"0.5 cup white sugar",
+"2.5 tablespoons fresh lemon zest, divided",
+"1 tablespoon orange liqueur (such as Grand Marnier®)" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place lemon juice in a small bowl and sprinkle the unflavored gelatin over it. Let stand for about 15 minutes until gelatin softens."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine heavy cream, sugar, and 2 tablespoons lemon zest in a saucepan over medium-low heat; bring to a simmer. Whisk in gelatin mixture until dissolved. Remove from heat and stir in orange liqueur."
+} ,{
+"@type": "HowToStep"
+,"text": "Strain the cream mixture into a medium bowl and divide evenly among small glass bowls or ramekins."
+} ,{
+"@type": "HowToStep"
+,"text": "Place uncovered panna cottas into the refrigerator until set, at least 4 hours. If time permits, cover the bowls with plastic wrap and chill overnight."
+} ,{
+"@type": "HowToStep"
+,"text": "Garnish with remaining lemon zest before serving."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT275M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "You must try this recipe..so Easy and SOOO GOOD!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "niccc80"
+},
+"reviewBody": "Followed the recipe as written just adding more lemon juice and more zest as reveiwers suggested. The geletin amounts were correct and this came out wonderfully. I did make a Lemon confit sauce to pour over the top. It was a big hit."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "youtookthesun"
+},
+"reviewBody": "The ratio of effort to reward is insanely balanced in your favor with this one. I found myself almost wanting to do more to make it but this simple recipe yields the most delicious dessert in the galaxy. Like others, I went heavy on the lemon juice and ended up with a 5/5 dish. I'm going to make it again but this time I'll be sure to have some Grand Marnier on hand."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bonniekn"
+},
+"reviewBody": "Very good, very easy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Deb C"
+},
+"reviewBody": "This is a nice dessert, however I would prefer a more prominent lemon flavor. I would add more lemon zest and sugar the next time to cater to our tastes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "zackmania"
+},
+"reviewBody": "We added more lemon juice. And easy enough for my grandson to make with adult supervision"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Heather Mullen"
+},
+"reviewBody": "Delicious! This is so good! I didn't have any Grand Marnier, so I used home made Limoncello that I had! Wow! This is delicious! I sliced fresh strawberries and put on top! Compliments the lemon flavor even more!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/275711/lemon-panna-cotta/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/231/world-cuisine/european/",
+"name": "European"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/723/world-cuisine/european/italian/",
+"name": "Italian"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/275711/lemon-panna-cotta/",
+"name": "Lemon Panna Cotta"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,184 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Ground Turkey Lettuce Wraps"
+,"datePublished": "2020-03-05T00:19:07.000-05:00"
+,"dateModified": "2020-03-05T00:19:07.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Pat J"
+,"url": "https://www.allrecipes.com/cook/23840731"
+}
+]
+,"description": "A saucy Asian-inspired ground turkey mixture is gathered up in lettuce leaves to make these easy wraps."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/HPBLQmME5p2RIMTbypN__2JNKOM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5836050-ca73bbe619d64501a30472798f64b1ae.jpg",
+"height": 2000,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Ground Turkey Lettuce Wraps"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.4",
+"ratingCount": "5"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "259 kcal"
+,"carbohydrateContent": "12 g"
+,"cholesterolContent": "84 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "25 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "756 mg"
+,"sugarContent": "7 g"
+,"fatContent": "13 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 tablespoon olive oil",
+"1 medium yellow onion, diced",
+"2 tablespoons soy sauce",
+"2 cloves garlic, minced",
+"1 pound ground turkey",
+"1 tablespoon soy sauce",
+"1 tablespoon rice vinegar",
+"1 tablespoon brown sugar",
+"1 teaspoon sesame oil",
+"0.25 teaspoon red pepper flakes",
+"0.25 teaspoon ground ginger",
+"1 head lettuce, separated into leaves" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat olive oil in a pan over medium-high heat. Add onion and soy sauce; cook until tender, about 5 minutes. Stir in garlic; cook until fragrant, about 1 minute. Add turkey and cook, breaking into smaller pieces, until no longer pink, about 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Make the sauce by whisking soy sauce, rice vinegar, brown sugar, sesame oil, red pepper flakes, and ginger together in a small bowl. Pour over turkey mixture and simmer until slightly reduced, 2 to 3 minutes."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT25M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sambo"
+},
+"reviewBody": "I added chopped cashews and chopped water chestnuts with a couple minutes left after the sauce was added. They add crunch to the mixture."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "~Sheri~"
+},
+"reviewBody": "Our family loves this lettuce wrap recipe! It is in the normal dinner rotation...also great on a bed of rice, too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dori"
+},
+"reviewBody": "I didn't have any peanuts but used cashews in stead. Recipe didn't mention how much nuts to use but it turned out yummy. Very lite and satisfying. Will make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kathie"
+},
+"reviewBody": "The sauce is really good, however, I did add 1 tbsp. of Hoisin. Also, I prefer a crunch so added 1/4 cup of peanuts. Water chestnuts or carrots would work too. Next time I will chop in mushrooms and red peppers. Great flavours."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/270054/ground-turkey-lettuce-wraps/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/76/appetizers-and-snacks/",
+"name": "Appetizers and Snacks"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/115/appetizers-and-snacks/wraps-and-rolls/",
+"name": "Wraps and Rolls"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/270054/ground-turkey-lettuce-wraps/",
+"name": "Ground Turkey Lettuce Wraps"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

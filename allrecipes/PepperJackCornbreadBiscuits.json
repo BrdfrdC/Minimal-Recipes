@@ -1,0 +1,171 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Pepper Jack Cornbread Biscuits"
+,"datePublished": "2023-01-17T10:21:08.000-05:00"
+,"dateModified": "2023-01-17T10:21:08.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Chef John"
+,"url": "https://www.allrecipes.com/author/chef-john/"
+}
+]
+,"description": "Buttery layered biscuits that have a slight taste of cornbread and a subtle spice of pepper jack cheese. These are perfect to go along with a soup or stew."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/un3KVqL099Ocbk1YoOdFU0noEWo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/IMG_5299-2000-5f152d57f98e49ccb5f99874c56a6508.jpg",
+"height": 1000,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Pepper Jack Cornbread Biscuits"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "2"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "188 kcal"
+,"carbohydrateContent": "24 g"
+,"cholesterolContent": "23 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "411 mg"
+,"fatContent": "9 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"2 cups self-rising flour (see Tip)",
+"1 cup yellow cornmeal",
+"2 tablespoons white sugar",
+"0.5 teaspoon salt",
+"1 teaspoon baking soda",
+"1 stick (1/2 cup) very cold unsalted butter, cubed",
+"1.25 cups cold buttermilk",
+"2 ounces pepper Jack cheese",
+"2 tablespoons melted butter for brushing tops" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Mix together self-rising flour, cornmeal, white sugar, salt, and baking soda (See Cook&#39;s Note for substitution). Add cubed, very cold butter and mix in with a pastry cutter/blender until the mixture is crumbly and the butter pieces are approximately the size of lentils."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir in the buttermilk with a fork until a crumbly dough forms, which can be pressed together with your hands. Press into a square, and roll out into a 12 x12-inch square."
+} ,{
+"@type": "HowToStep"
+,"text": "Cut in half, and stack one piece on the other. Roll back out to a 12-inch square. Jagged edges are fine, and can simply be pressed in with a bench scraper. Cut into quarters, and stack up. Square up the sides a little by pressing in with a bench scraper, and roll back out to a 12-inch square."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 425 degrees F (220 degrees C). Line a baking sheet with a Silpat mat."
+} ,{
+"@type": "HowToStep"
+,"text": "Grate the pepper Jack cheese over the top of the dough (for best results, pop cheese in the freezer for a few minutes to firm up, making it easier to grate and distribute evenly). Fold into thirds to form a rectangle, and press lightly."
+} ,{
+"@type": "HowToStep"
+,"text": "Roll until the rectangle is about 3/4 inch thick, and then use a floured round cutter (mine was 2.75 inches) to punch out 8 biscuits. Dough can also be cut into squares instead."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer cut dough to the prepared baking sheet. Extra dough can be pressed together and re-rolled, and used to cut more biscuits. Press each biscuit lightly in the center with your thumb. Brush each biscuit lightly with melted butter."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until nicely risen and golden brown, 18 to 20 minutes. While still warm, brush with more melted butter if desired. Let cool before serving."
+} ]
+,"recipeYield": ["14"]
+,"totalTime": "PT50M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Great as always"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chef John"
+},
+"reviewBody": "These biscuits go great with my recipe for Brunswick Stew."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8528589/pepper-jack-cornbread-biscuits/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/360/bread/quick-bread/",
+"name": "Quick Bread Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1998/bread/quick-bread/biscuits/",
+"name": "Biscuits"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8528589/pepper-jack-cornbread-biscuits/",
+"name": "Pepper Jack Cornbread Biscuits"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

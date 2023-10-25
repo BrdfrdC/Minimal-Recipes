@@ -1,0 +1,387 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Jessica&#39;s Steak Oscar"
+,"datePublished": "2018-06-08T09:57:55.000-04:00"
+,"dateModified": "2018-06-08T09:57:55.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Jessica E Wilson"
+,"url": "https://www.allrecipes.com/cook/jessicawilson"
+}
+]
+,"description": "Broiled beef tenderloin filets are topped with buttery crab meat, asparagus, and powdered Bearnaise sauce for an elegant dish that would be perfect for a special date, anniversary, Valentine&#39;s Day, or just because. Fun for the Oscars, too!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/1hjfepxBGY8q60hF3oQRroNKMMY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7293774-aecea4d18bbc49f68296482eb5624a86.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Jessica&#39;s Steak Oscar"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "25"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "1289 kcal"
+,"carbohydrateContent": "22 g"
+,"cholesterolContent": "436 mg"
+,"fiberContent": "5 g"
+,"proteinContent": "83 g"
+,"saturatedFatContent": "55 g"
+,"sodiumContent": "1355 mg"
+,"sugarContent": "10 g"
+,"fatContent": "97 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"2 (7 ounce) beef tenderloin steaks",
+"salt and ground black pepper to taste",
+"0.25 cup butter",
+"1 (6 ounce) can crab, drained",
+"1 pound asparagus, tough ends snapped",
+"1 packet dry Bearnaise sauce mix (such as Knorr®)",
+"1 cup whole milk",
+"0.5 cup butter" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven&#39;s broiler and set the oven rack about 6 inches from the heat source. Sprinkle the filets with salt and pepper."
+} ,{
+"@type": "HowToStep"
+,"text": "In a small saucepan over low heat, melt 1/4 cup of butter; gently stir in the crab meat, and simmer while you broil the filets."
+} ,{
+"@type": "HowToStep"
+,"text": "Broil the filets until they reach the desired stage of doneness; for medium (slightly pink in the center), broil 10 to 12 minutes on the first side and 6 minutes on the second side. Set the filets aside to rest."
+} ,{
+"@type": "HowToStep"
+,"text": "Place a steamer insert into a skillet, and fill with water to just below the bottom of the steamer. Cover, and bring the water to a boil over high heat. Add the asparagus, recover, and steam until just tender, 2 to 6 minutes depending on thickness."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk Bearnaise sauce mix with milk in a saucepan. Add 1/2 cup of butter, and bring the sauce to a boil over medium heat, whisking constantly; reduce heat to a simmer, and whisk until sauce has thickened, about 1 minute."
+} ,{
+"@type": "HowToStep"
+,"text": "To assemble, top each broiled filet with crab meat, then half the asparagus; spoon Bearnaise sauce to taste over the asparagus."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT40M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BillW"
+},
+"reviewBody": "This was delicious. Obviously I used many more pieces of asparagus but we like it. :-) I also used imitation crab because real chunk was $25 for a few ounces. The plate in the picture looks distorted because the site insists on a 960X960 picture. Sorry."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Brenda K"
+},
+"reviewBody": "This steak Oscar is similar to a recipe I did a few years ago for Christmas only I used crawfish etouffee. The concept of the recipe is great and it makes a beautiful holiday meal with a nice bread on the side. I would suggest adding some lemon to the crab and maybe some garlic powder along with salt and pepper to the steaks because I thought it was a little bland. Otherwise, my family seemed to have loved it. Plates were clean as a whistle when they were done."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Julia Gulia Quintero"
+},
+"reviewBody": "OMG it was fantastic I can’t believe I made it. A definite favorite. I added some shrimp."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Born To Savor"
+},
+"reviewBody": "I was a little skeptical about using a packaged béarnaise sauce recipe, so I used the microwave recipe on All Recipes. I also cooked the steak on the grill but did not add extra smoke. It all turned out very good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Starr"
+},
+"reviewBody": "Used these exact ingredients although I changed the order of assembly considerably, since we like our steaks rare, it wouldn’t be good to have them sitting so long. I made the Bernaise sauce first, then stir fried the asparagus in garlic butter and when all was ready, we BBQ the steaks. Our company raves about the steaks as well. Sublime! Thank you for a great recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda Marinelli DeSanto"
+},
+"reviewBody": "I was looking for a veal Oscar recipe and found this. I used veal cutlet and it was hit!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Foodie"
+},
+"reviewBody": "added a little half and half to the sauce, which thickened it up nicely! everyone loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dianna Cuarisma"
+},
+"reviewBody": "I LOVED IT! I have never, in my life, made such an amazing steak! I did it as a special dinner for my Husbands' Birthday and made sure to get a great cut from my local meat processing market and WOW! I separated the potatoes and the asparagus from the steak, but covered the asparagus with sauce, too. Thank you so much Ms. Jessica for such a great recipe that even a novice can make amazingly ;-)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dkgrrl"
+},
+"reviewBody": "Excellent recipe! As this isn't the healthiest of meals, I paired it smashed cauliflower to save on calories lol. It was a hit at home!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "richa1553"
+},
+"reviewBody": "Easy to make and delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "JSTAHMER"
+},
+"reviewBody": "This was VERY rich, but made a delightful Valentine's supper for my husband &amp; son. They were blown away by how \"fancy\" it was. I served it with wild rice, and a fresh pear and apple salad."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kircrich"
+},
+"reviewBody": "Great, easy and was sooooo very good. Made a great Valentines dinner."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah"
+},
+"reviewBody": "I used the blender hollandaise sauce from this web site (with a bouillon cube added) and this came out great! Thank you for the easy recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Howard"
+},
+"reviewBody": "So delicious and straight forward to make! This is Gourmet at its best in my kitchen. Thank you Jessica!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Melissa Arenson"
+},
+"reviewBody": "Seemed a little bland...had too use lots and lots of salt and pepper"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Karen Ury"
+},
+"reviewBody": "If you must use packaged sauce mix, Wagners is by far the best. Also, try using jumbo lump crab, it makes the world of difference. I added some deep fried spaghetti noodles for a fun garnish. This recipe is a classic, and a keeper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LiziLiz88"
+},
+"reviewBody": "Simple, elegant, beautiful and above all else a delicious show stopper! I served this with long grain and wild rice! Thanks for sharing Jessica!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "June Jessie"
+},
+"reviewBody": "OMG, Peter wanted it again for supper the next night....soo good and easy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Oesi"
+},
+"reviewBody": "Great recipe. Lovely combination. If you can get tarragon, make the Bearnaise sauce yourself; it's so much better than a package."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/216800/jessicas-steak-oscar/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/475/meat-and-poultry/beef/steaks/",
+"name": "Steaks"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1024/meat-and-poultry/beef/steaks/filet-mignon/",
+"name": "Filet Mignon Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/216800/jessicas-steak-oscar/",
+"name": "Jessica&#39;s Steak Oscar"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

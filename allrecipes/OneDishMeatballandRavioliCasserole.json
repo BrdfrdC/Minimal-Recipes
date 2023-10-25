@@ -1,0 +1,125 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "One-Dish Meatball and Ravioli Casserole"
+,"datePublished": "2023-02-25T19:14:45.000-05:00"
+,"dateModified": "2023-02-25T19:14:45.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "lutzflcat"
+,"url": "https://www.allrecipes.com/cook/lutzflcat"
+}
+]
+,"description": "This meatball and ravioli casserole recipe is simple and hearty, and makes life easier - it can be made with pantry and freezer ingredients that are easy to keep on hand."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/f_H4PJip5TKkv3OEI-EaHH8pyk8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8540109_Meatball-and-Ravioli-Casserole_lutzflcat_4x3-5e1b7b9707e54a3298970f85aa729b75.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "One-Dish Meatball and Ravioli Casserole"
+,"cookTime": "PT40M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "450 kcal"
+,"carbohydrateContent": "34 g"
+,"cholesterolContent": "101 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "28 g"
+,"saturatedFatContent": "10 g"
+,"sodiumContent": "896 mg"
+,"fatContent": "22 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 (24 ounce) jar marinara sauce",
+"1 (9 ounce) package frozen cheese ravioli",
+"1 (14 ounce) package frozen cooked meatballs, thawed",
+"2 cups shredded mozzarella cheese",
+"0.25 cup grated Parmesan cheese, or more to taste",
+"0.25 teaspoon crushed red pepper flakes, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 400 degrees F (200 degrees C). Spray a 9x13-inch casserole dish with olive oil spray."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour about 1/2 of the marinara sauce into the bottom of the dish. In a single layer, place 1/2 of frozen ravioli on the sauce along with 1/2 of meatballs, and 1 cup mozzarella cheese."
+} ,{
+"@type": "HowToStep"
+,"text": "Place the remaining ravioli, meatballs, marinara sauce, and mozzarella cheese in that order on the casserole; sprinkle with Parmesan cheese and red pepper flakes. Cover with aluminum foil."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven for 20 minutes. Remove the foil, and bake until casserole is bubbly and cheese is melted, about 20 minutes more. Sprinkle with additional grated Parmesan, if desired."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT50M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8540109/one-dish-meatball-and-ravioli-casserole/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/249/main-dish/casseroles/",
+"name": "Casserole Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/443/main-dish/casseroles/beef/",
+"name": "Beef"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8540109/one-dish-meatball-and-ravioli-casserole/",
+"name": "One-Dish Meatball and Ravioli Casserole"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

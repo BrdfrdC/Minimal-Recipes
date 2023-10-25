@@ -1,0 +1,466 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Easy Salisbury Steak"
+,"datePublished": "2019-04-03T23:53:47.000-04:00"
+,"dateModified": "2019-04-03T23:53:47.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Kendrick"
+,"url": "https://www.allrecipes.com/cook/5365193"
+}
+]
+,"description": "These salisbury steaks have oats, ketchup, and minced dried onion in them and are topped with cream of mushroom soup and onion rings."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/mZhiQVNovBwIMdV5x-XyL8YwnMg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/995431-684b5231caa64be3a54eb708b5c04caf.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Easy Salisbury Steak"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.4",
+"ratingCount": "35"
+}
+,"cookTime": "PT50M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "260 kcal"
+,"carbohydrateContent": "15 g"
+,"cholesterolContent": "81 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "18 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "710 mg"
+,"sugarContent": "6 g"
+,"fatContent": "14 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 pound ground beef",
+"0.5 cup rolled oats",
+"1 egg, beaten",
+"2 tablespoons Worcestershire sauce",
+"2 tablespoons ketchup",
+"2 tablespoons water",
+"1.5 teaspoons dried minced onion",
+"0.5 teaspoon salt",
+"0.25 teaspoon ground black pepper",
+"1 large onion, sliced into rings",
+"1 (10.75 ounce) can condensed cream of mushroom soup",
+"1 (10.75 ounce) can milk" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat oven to 350 degrees F (175 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix ground beef, oats, egg, Worcestershire sauce, ketchup, water, dried minced onion, salt, and pepper in a bowl until evenly combined; shape into 6 oval-shaped patties."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat a large skillet over medium heat. Cook patties in hot skillet until browned completely, 2 minutes per side. Transfer browned patties to a baking dish."
+} ,{
+"@type": "HowToStep"
+,"text": "Top patties with onion rings. Stir mushroom soup and milk together in a bowl; pour over patties. Cover baking dish with aluminum foil."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in preheated oven until firm, hot, and grey in the center, about 45 minutes. An instant-read thermometer inserted into the center should read 160 degrees F (70 degrees C)."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT65M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Walt"
+},
+"reviewBody": "I added a small jar of mushrooms and stems."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christina Gamble"
+},
+"reviewBody": "So delicious and half easy. Guess what's for dinner tonight"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Pepper Girl"
+},
+"reviewBody": "It was okay. Next time I will leave out the water, catsup and half of the Worcestershire sauce. I had too much liquid so I had to add more oats. I used 90% lean Ground Sirloin. I added a drained jar of mushrooms. A 2nd can of soup plus milk or water may have helped."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Judy Harris"
+},
+"reviewBody": "Will make again loved it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary Ann Johnson"
+},
+"reviewBody": "This was very good.I used a half can of milk for a thicker sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jessica Montana"
+},
+"reviewBody": "Love this but be careful! Every time I made this following the recipe exactly the patties would easily fall apart, I couldn't figure out why till I looked it up. ground chuck does not like all the extra wet additives. You can make a hamburger with just the ground chuck, don't actually need the breadcrumbs and egg for a basic burger. Keep the amount of wet ingredients basically at 0 if you want your patties to stick together. \n\nGet rid of the water you simply do not need it in your patties, they will fall apart, instead of using the Worcestershire sauce to make the patties use, garlic powder/sugar/and a little bit of steak seasoning for that smoky flavor. Like I said you want your patties dry, lol. You can use dried tomato (chopped really finely) in place of the ketchup. \n\nIf you want to keep the Worcestershire sauce and ketchup added it to the gravy. Great recipe but adding all that liquid to the patties guarantees they will fall apart on you"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Lori Dodd"
+},
+"reviewBody": "Did not care for this at all! Easy enough to make but just wasn't good. First time I've ever been disappointed"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Jess Ford"
+},
+"reviewBody": "The prep time is off by about a factor of 2. From the time i started pulling the ingredients from the fridge until it went in the oven was 38 minutes. I found the mix to be a little wet and hard to handle before browning, I think the oats do not absorb the liquids as well as the bread crumbs. It might be good to let the mixture set for 20 minutes before browning. I de-glazed the frying pan and used that liquid in place of about half the milk. My family was not fond of the texture and flavor of this recipe, but I really loved it. This stays in the file for bachelor night, but won't be made for the whole family."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ricky Charles Shoemake"
+},
+"reviewBody": "Made it and Love, Love, Loved It !!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kerig Anthenat"
+},
+"reviewBody": "This was very delicious and easy, I did use 2 cans of soup but didn't have any onion soup mix."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennie Knepper Walsh"
+},
+"reviewBody": "Made this last week. It was delicious and super easy. I will definitely make it again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "nicevillecat"
+},
+"reviewBody": "P"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Susie"
+},
+"reviewBody": "I made this recipe exactly as directed. It was wonderful! Even my super picky son ate seconds."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tory"
+},
+"reviewBody": "This is very quick to put together! I doubled the recipe, but not the milk (&amp; I used fresh milk since I didn't have canned milk). Everyone really likes it! I'm making it again and again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "A$$ER"
+},
+"reviewBody": "i made this and im not much if a cook! My wife loved it. will make again We're all Negan"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Malissa Hunt Hall"
+},
+"reviewBody": "this recipe has been a favorite in our household. the changes I make is as some French onion dip powder in the patty mix and ad a little flower to thicken the gravy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "~TxCin~ILove2Ck"
+},
+"reviewBody": "I skipped the oven and did this on the stovetop since my family didn't want to wait 45 minutes for this to bake. The meat patties came out very tender and moist and I got 6 good sized portions from this. I am not sure I liked the oatmeal part instead of bread crumbs but I am the only one here who is texture picky. I didn't have cream of mushroom soup (all I had was a cream of chicken mushroom which didn't sound good) so I used a can of beef consomme and added in some flour to make a brown onion gravy. My husband loves salisbury steak and this passed his taste test. I only tolerate it (texture thing and it's too much like meatloaf) but it had a decent flavor. I didn't care for the moist meat patties but that's back to my texture aversion so no reflection on the recipe. This turned out fine and I'd make this again. I would stick to doing the stovetop method the next time too unless I already had the oven going for another dish. I had this from patty to pan and on the table in less than 30 minutes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Trudi Greissle Davidoff"
+},
+"reviewBody": "Yum yum! This is the easiest thing to make and just so delicious. I subbed some minced raw onion for the dried, added a handful of fresh chopped parsley and used a large jar of brown gravy instead of the soup. I served it over egg noodles with a green veggie. Leftovers did not make it past midnight. Next time I make these I want to double or triple the recipe and make some trays for the freezer."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Donna Barth Regensburger"
+},
+"reviewBody": "Pretty tasty; I also added a pkg. of dry onion soup mix to the gravy for extra taste."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ateske"
+},
+"reviewBody": "I just made this recipe this evening. I tweaked it just a little cause I didn't have a can of cream of mushroom. I used a can of cream of chicken instead, also added a packet of onion gravy mix with a cup of water into the soup/milk mixture, Oh my-lanta! Amazing! =)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "LisaC108"
+},
+"reviewBody": "I'm not a huge fan of beef, but my husband likes it so I thought I'd give this a try. I added a small diced green pepper and some garlic powder to the beef. I also used two cans of cream of mushroom soup instead of one. It turned out really well. I liked it and my husband said it was a keeper. So I recommend; this is a good fall/winter recipe, very comforting."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "alr516"
+},
+"reviewBody": "I am a frazzled, busy Mom of two who has a husband who works varied hours. This recipe was fast and easy. My only change to the patties involved putting them straight into the baking dish and I used onion powder in place of the dried, minced onion. Also, I sprinkled dried onion soup mix over the gravy before it went in the oven. This was good with a baked potato along with fresh fruit."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Marian"
+},
+"reviewBody": "I tried this receipe. It did not taste good and it was to soft and the cream of mushroom soup was to runny. I did not like it and also my husband did not like it, and he usually eats every thing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Janet Henderson"
+},
+"reviewBody": "This was real good. Easy, Moist and flavorful. Will make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Patty Cakes"
+},
+"reviewBody": "Kendrick, Home run!! This recipe was Easy and oh so tasty too! I took the liberty of adding sliced mushrooms and onions to the gravy and served them over mashed potatoes. Thank you!! Comfort food is good food on a cold rainy night! Much appreciated as well:):)"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/229359/easy-salisbury-steak/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/446/main-dish/beef/",
+"name": "Beef"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17656/main-dish/beef/salisbury-steak/",
+"name": "Salisbury Steak Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/229359/easy-salisbury-steak/",
+"name": "Easy Salisbury Steak"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

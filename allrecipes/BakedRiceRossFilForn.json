@@ -1,0 +1,310 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Baked Rice (Ross Fil-Forn)"
+,"datePublished": "2018-06-08T09:21:15.000-04:00"
+,"dateModified": "2018-06-08T09:21:15.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "INGU"
+,"url": "https://www.allrecipes.com/cook/684602"
+}
+]
+,"description": "Ross fil-forn is a traditional Maltese dish. Serve it with Parmesan cheese and enjoy the Mediterranean flavors!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/iwod_E6PtvzjRQ4FrYIhEFlP170=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6858382-472c4696e5eb4f5d9a59e1de7e17e02e.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Baked Rice (Ross Fil-Forn)"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "3.5",
+"ratingCount": "17"
+}
+,"cookTime": "PT40M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "730 kcal"
+,"carbohydrateContent": "83 g"
+,"cholesterolContent": "211 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "35 g"
+,"saturatedFatContent": "12 g"
+,"sodiumContent": "798 mg"
+,"sugarContent": "1 g"
+,"fatContent": "28 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"2 cups long grain white rice",
+"1 tablespoon olive oil",
+"0.5 pound lean ground beef",
+"1.5 cups canned crushed tomatoes",
+"1.25 cups chicken stock",
+"3 bay leaves",
+"salt and black pepper to taste",
+"3 tablespoons chopped fresh basil leaves",
+"1 tablespoon chopped fresh mint leaves",
+"3 eggs",
+"1 cup shredded mozzarella cheese",
+"0.5 cup freshly grated Parmesan cheese" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat the olive oil in a skillet over medium heat. Add the ground beef, and cook, stirring to crumble, until evenly browned. Mix in the crushed tomatoes, chicken stock, and bay leaves. Simmer for 25 minutes over low heat."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, place the rice into a saucepan with enough water to cover by one inch. Bring to a boil, and cook for about 10 minutes (halfway), then drain off water."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 400 degrees F (200 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove the bay leaves from the sauce, and mix in the half-cooked rice. Stir in the basil, mint, eggs, and mozzarella cheese; season with salt and pepper. Transfer to a greased baking dish. Sprinkle Parmesan cheese over the top."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake for 40 minutes in the preheated oven, or until the rice is tender, and the liquid has been absorbed."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT70M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kim Ballard"
+},
+"reviewBody": "We following the suggestions &amp; left out the mint. My whole family liked it. Putting in our cookbook!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Fry"
+},
+"reviewBody": "Followed the recipe except for a couple minor things. One, I mixed in the parmesan and also sprinkled it on top. Two, I used chopped Italian parsley instead of mint. It was delicious and very filling."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sandra"
+},
+"reviewBody": "I like it. I did not use mint and basil but I added 2 tsps ground coriander. I love ir"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "MonnieMon"
+},
+"reviewBody": "I really like this recipe and have made it twice in two days. Once for a family lunch and another time because there wasn't much left. This recipe is really easy and it's great for the time poor. Each time I made it, I did it differently and yet to taste our second one. On both occasions I omitted the basil and mint but added onion, garlic and fresh grape tomatoes to the sauce and the second time I added 2 teaspoons of tomato paste, 4 large sliced mushrooms, 1 teaspoon of curry and 1 teaspoon of nutmeg. My family devoured the first one and I'm hoping the second one will be even better. I must admit, dishes like this are better the next day when the flavours are a bit more intense. My family and I are Maltese and our Italian and Australian husbands loved it too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "AllieDream"
+},
+"reviewBody": "This was pretty good, but nothing spectacular. I made it exactly as the recipe suggested and I liked that it was very easy to make (no chopping, time to do other things while it was simmering and in the oven). I like the basil and mint, which gave it an interesting flavor, although if I try this again I will probably add more spices since I felt like it could benefit from additional spice/heat. As others have commented, it was a little bland for me and my husband, although I can see it working perfectly for toddlers and young children."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Jaja's daughter"
+},
+"reviewBody": "Nothing special."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sandra Churchill Mamo"
+},
+"reviewBody": "This was really good maltese Ross Fil-Forn. My Husband is from Malta and he said it was the best he ever had."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Joely"
+},
+"reviewBody": "Its a nice dish but I do it a little bit different.I use tomato sauce instead of crushed tomatoes.I dont use chicken stock,bayleaaf,basil,mint or mazorella cheese.I put one teaspoon of italian seasoning,4 slices of bacon,1 cup peas.This is a great dish and it could be also served at a room tempretaure"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "DRCLAIR"
+},
+"reviewBody": "I added a lot more spice, and I used freshly roasted tomatoes. If you're not really careful the rice will not cook, so I recommend that you use a quicker cooking rice like Jasmine. It's also tastier."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Jessica S."
+},
+"reviewBody": "I'm sorry to say I did not like this recipe at all. I followed it to the letter...I don't believe you can write an accurate review otherwise...and it just tasted (for lack of a better word) weird. The mint and the basil made an odd combination. My husband, who usually eats anything, took two bites and couldn't eat anymore. I tried it the next day as left overs...and it wasn't any better. Because I hate wasting food, I drowned it in cheese and ranch dressing so it was edible.\nI don't know...maybe I did something wrong...I used dried herbs instead of fresh...maybe with fresh it would've been better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ldecota"
+},
+"reviewBody": "I had to make a few modifications to this recipe because I didn't have everything on hand. I did not have canned tomatoes so I used some fresh ones that came from a friends garden (along with some salt) and I think that helped with flavor. I also added about a teaspoon of marjoram and a teaspoon of crushed italian seasoning to the ground beef while it cooked and I think that it could have used even a bit more of the marjoram. I didn't have chicken broth so used beef and I think that it worked out just fine. The dish wasn't robust with flavor but was a good comfort dish and would be good as a stuffing for peppers or mushrooms."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I thought this was pretty good! The fresh mint does not make it \"minty\" but it adds a nice depth of flavor. Mine came out with a lovely cheesy crust on top and a beautiful crunchy bottom layer as well. My hub thought it was a bit bland (which is weird because usually I'm the one who finds things bland, but not this time) but my 2 toddlers gobbled it up. I didn't know exactly what to do with the eggs (I beat them before adding them) and the recipe didn't say what to do with the basil and mint (I added them with the cheese and eggs, etc) but it seemed to work out just fine. I made it with ground chicken and would probably double the meat next time. I also made it with a can of diced tomatoes and I might like even more tomatoes next time. I appreciated not having to chop anything and I will definitely make this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "nemban"
+},
+"reviewBody": "This was kind of bland. I really didnt care for the mint. It tasted like I was chewing gum with my food."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/54576/baked-rice-ross-fil-forn/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/249/main-dish/casseroles/",
+"name": "Casserole Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1004/main-dish/casseroles/rice/",
+"name": "Rice"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/54576/baked-rice-ross-fil-forn/",
+"name": "Baked Rice (Ross Fil-Forn)"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

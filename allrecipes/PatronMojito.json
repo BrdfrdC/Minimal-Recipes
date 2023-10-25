@@ -1,0 +1,196 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Patron Mojito"
+,"datePublished": "2020-06-18T23:51:52.000-04:00"
+,"dateModified": "2022-11-25T17:57:38.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Dudelander"
+,"url": "https://www.allrecipes.com/cook/2579961"
+}
+]
+,"description": "This cocktail recipe inspired by a mint mojito uses tequila in place of rum in this refreshing summertime drink."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/i6jWYlwBStmIQB8SFkprVlqxQg4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9298201-85db5e72286d4cf8bf481dc9eaaed926.jpg",
+"height": 1749,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Patron Mojito"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "6"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "184 kcal"
+,"carbohydrateContent": "14 g"
+,"fiberContent": "0 g"
+,"proteinContent": "0 g"
+,"sodiumContent": "3 mg"
+,"sugarContent": "13 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"2 fluid ounces silver tequila (such as Patron®)",
+"12 leaves mint",
+"1 tablespoon white sugar",
+"3 lime wedges",
+"0.25 cup club soda, or as needed" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine tequila, mint, sugar, and lime in a tall glass; mash mint and lime well with a cocktail muddler. Top with club soda and stir gently to serve."
+} ]
+,"recipeYield": ["1"]
+,"totalTime": "PT5M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Yoly"
+},
+"reviewBody": "This mojito was delicious. I used a mini Patron Silver bottle which is 50 ml (1.7 oz) and I added 4 ice cubes. Thanks for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "The Bells "
+},
+"reviewBody": "Best to muddle the mint, sugar, lime wedges and tequila then shake over ice - viola, timeless classic"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary Hansen Lowe"
+},
+"reviewBody": "I was actually looking for the classic mojito recipe and found this and thought I’d try it since I had Patron on hand. It’s a frizzy minty margarita and very good! Very refreshing! Will definitely make again! Cheers!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Boz"
+},
+"reviewBody": "Good recipe but I added 1-2tbsp of lime juice with lime slices. I fill glass full of ice, and instead of soda water I substituted club soda for 7 Up pop or Sprite. Even my fussy wife liked it and she hardly drinks."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Classic Mojito, very refreshing. You can use 7-up too instead of club soda. But this is the classic. Love it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "lovestohost"
+},
+"reviewBody": "This one's tough to rate because it's hard to drink a Mojito and taste tequila. It's just...weird. However, weird is NOT bad. If you are a tequila fan, this is definately a drink for you. I used bottled lime juice in place of fresh lime and Diet 7up in lieu of club soda. This is a nice cocktail. CHEERS, dudelander!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/229651/patron-mojito/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/133/drinks/cocktails/",
+"name": "Cocktail Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/15045/drinks/cocktails/mojitos/",
+"name": "Mojito Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/229651/patron-mojito/",
+"name": "Patron Mojito"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

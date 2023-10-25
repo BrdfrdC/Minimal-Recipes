@@ -1,0 +1,686 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Homemade Pesto"
+,"datePublished": "2019-07-10T03:04:27.000-04:00"
+,"dateModified": "2022-09-21T11:30:11.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Peggy"
+,"url": "https://www.allrecipes.com/cook/3019633"
+}
+]
+,"description": "The classic basil pesto sauce made with pine nuts or walnuts, lots of fresh basil, and real Parmigiano-Reggiano cheese will add flavor to anything to combine it with, from pasta to pizza to spaghetti sauce."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/-lc7zdyBEnDK1-5HINxQ8RIAjFM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1042571-d480bef85ddc4e1ea6134f431ba50283.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Homemade Pesto"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "51"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "389 kcal"
+,"carbohydrateContent": "5 g"
+,"cholesterolContent": "14 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "14 g"
+,"saturatedFatContent": "8 g"
+,"sodiumContent": "343 mg"
+,"sugarContent": "1 g"
+,"fatContent": "36 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"4 cups packed fresh basil leaves",
+"0.25 cup Italian parsley",
+"2 cloves garlic, peeled and lightly crushed",
+"1 cup pine nuts",
+"1.5 cups shredded Parmigiano-Reggiano cheese",
+"1 tablespoon fresh lemon juice",
+"0.5 cup extra-virgin olive oil, or more as needed",
+"salt and ground black pepper to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place basil, Italian parsley, and garlic into a food processor, pulse several times to combine, and process until basil is finely chopped, about 30 seconds. Add pine nuts to basil mixture; process until finely chopped, 30 more seconds. Process Parmigiano-Reggiano cheese into mixture until finely ground."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix lemon juice into mixture with the machine running; slowly drizzle olive oil into pesto in the running machine until incorporated and pesto is thoroughly combined. Turn off machine and season pesto to taste with salt and black pepper."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT15M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Yum, love it and will make this pesto again for sure. Yum :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ThereseB"
+},
+"reviewBody": "This is the best pesto I have ever made. My twentysomething son was eating it right out of the bowl. I served it over pasta with sauteed shrimp and it was addicting. I will definitely be making this one again. Edit: I've been making this for many years. If I'm serving it over pasta, to combat the thickness of the pesto, as others have noted, I reserve some of the pasta cooking water and add that to the dish with the pesto. Amazing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Botero"
+},
+"reviewBody": "A perfect basic pesto. Love it! I used walnuts instead of pine nuts and added a tad bit more lemon juice. Froze half for later. Yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jacques"
+},
+"reviewBody": "Delicious! I didn’t have parsley but used everything else as stated. This was a little thicker than other recipes I’ve used but this is my favorite!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Melissa B"
+},
+"reviewBody": "I’ve made a lot of pesto and I especially like this version with parsley. I rarely have pine nuts on hand but I had pecans and almonds so I used a combo and it tasted fabulous!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "galen"
+},
+"reviewBody": "I thought this recipe worked great! I didn't substitute anything, except I had to add 1/2 cup walnuts, because I didn't have a full cup of pine nuts, and I cut back to 1/3 cup on the Olive oil. So yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "I 4 Get"
+},
+"reviewBody": "Made this a few times now!!! Very easy and taste amazing!!! My wife is allergic to pine nuts so we use pistachios instead!!! The natural color of the nuts adds to the green color of the pesto!!!! Very good on bruschetta and with pasta liked stuffed cheese ravioli!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sdavis6774"
+},
+"reviewBody": "This pesto was the best and better than what I have had in restaurants. I made it exactly as written and wouldn’t change a thing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "alaskabjb"
+},
+"reviewBody": "I doubled the garlic and the lemon. Just kept adding oil till the consistency of soft butter. Super delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Karene"
+},
+"reviewBody": "I LOVE this pesto recipe! I grow basil and parsley every year and make this recipe. I put it on parchment paper with an ice cream scooper, and freeze it. When it is frozen i put I put the pesto balls in a freezer bag and use it throughout the winter. Yum! Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Zulma Fisch"
+},
+"reviewBody": "I followed the recipe exactly and the pesto was delicious! I mixed it into spaghetti squash and it went great. Will definitely make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "jz124"
+},
+"reviewBody": "Made it , fantastic diversified way to make pesto . I actually omitted the parmigiano \nBecause of the cholesterol issue and just sprinkled a bit on pasta after it was made\nTasted very rich and delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "susieqeli"
+},
+"reviewBody": "First pesto I’ve made! Very easy recipe and tasty too!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Golfungal"
+},
+"reviewBody": "I made it exactly as described. Very raw tasting. I had leftover that I let sit for a few days and it mellowed. Still not my first choice and will go back to my old recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "AnnieM"
+},
+"reviewBody": "I like this recipe very much. I’ve been making pesto for years from Marcella Hazan’s recipe. The big differences here are: the lemon juice; the proportion of basil, parm, olive oil, garlic. I usually prefer a bit more garlic and olive oil, and a bit less parm. Still this is a great recipe, and I’ll come back to it! Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kross"
+},
+"reviewBody": "Delicious! It IS very thick - it’s possibly because even after buying 2 regular sized herb containers at Trader Joe’s of basil it still wasn’t the full amount called for, but since others have said it was thick it may not make a difference adding more basil. You can thin it with water not just oil. Believe me - there’s so much fat in this, it’s not going to lose it’s richness by watering it down incrementally until you reach the desired effect. This was an expensive dish to make due to the cost of the pine nuts, cheese and the herbs - next time I’ll try with almonds. We left it fairly thick. We served it over pasta with sun dried tomatoes and chicken. The next day it was spread on sandwiches of sliced tomatoes and melted mozzarella - yum."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Job's Daughter"
+},
+"reviewBody": "I used an infused smoked olive oil. Delicious!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Doris Jolicoeur"
+},
+"reviewBody": "Made 6x4oz jars of it. Definitely add more of the liquid ingredients to make it more spreadable. I will add more garlic next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Deanna"
+},
+"reviewBody": "I had heard if you blanch the basil it will remain a bright green. I'd. And it did. Delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Janet Giordano"
+},
+"reviewBody": "Simple to make, very fragrant!,. Used it for pasta salad."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "EsMama"
+},
+"reviewBody": "This was an excellent start for someone who is terrified of messing up a dish! I used walnuts and chili/lime cashews instead of pine nuts! The whole family loved it!! Thanks for sharing this recipe!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lisamarie"
+},
+"reviewBody": "Soooo delish!! My husband who doesn't like store bought pesto couldn't stop eating this!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "SZYQ1"
+},
+"reviewBody": "This was good and I do like the addition of the lemon. As written, I found I had to add at least 1 cup extra oil to the pesto and maybe a little more to get it to the consistency I wanted. Also, felt there was too much Parmesan."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "lilelo"
+},
+"reviewBody": "Great recipe but you will need considerably more olive oil than it calls for- we used at least 1.5 cups- also added lots more garlic but that is just personal preference. Used almonds instead of pine nuts as they are similar in sweetness and much less expensive."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shawna"
+},
+"reviewBody": "Excellent!!! Made the pesto exactly as suggested!! First time making pesto!! Will definitely make this again. I put it over pasta and whatever veggies I had on hand (grape tomatoes, yellow squash, mushrooms, red pepper), plus added leftover chicken I had from a meal the night before! Added a little white wine to the dish while it was all warming on the stove. Now I just need someone to clean up the mess I made in the kitchen preparing the dish....."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Steve Latta"
+},
+"reviewBody": "Followed the recipe exactly. Just didn't like it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lynnje"
+},
+"reviewBody": "10 STARS! Superb! Best pesto I've ever had! Beats any store bought even in gourmet shops or restaurants. I used already toasted organic pine nuts and really packed the basil and parsley and followed the recipe as is. I made it twice within the last two weeks. I put it in three small containers and froze two of them. It froze and defrosted perfectly. Next year I will be planting triple the basil so that I can make and freeze much more."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "BOOKMARKER"
+},
+"reviewBody": "8 8 16 ... http://allrecipes.com/recipe/232334/homemade-pesto/ ... Is it just me or is pesto a difficult recipe to rate? It's so \"to taste\" or \"as needed.\" I love pesto &amp; I'd love to find a great one, but I think it will have to be without a recipe - a taste &amp; add type. Meanwhile, ;D, I followed this recipe kind of. I tried to. I used the 4c basil, 2 cloves garlic, half cup walnuts (all I had), only half cup parmesan.juice of 1 lemon (about 1 1/2T), a t salt. 'Ended up adding a cup &amp; a quarter olive oil. I used a blender &amp; that wasn't a good choice. Food processor when I go for this again. It's not super thick or thin, but I'll go for 2T less oil. It thickened up considerably after refriging. Noticed 1t salt is too much after refriging, too. Not insanely too much, though - or could have been the pretzels I was dipping with. :o :D It's good, but I don't have the best recipe down - yet! :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Janet Wolf"
+},
+"reviewBody": "Very tasty; I used about 1/2 C EVOO and followed the rest of the recipe w/S&amp;P to taste...put it into ice cube tray to freeze. It would probably be fairly simple to add some more EVOO as needed at the time of cooking. I take the cubes out of the tray and keep in the freezer in a freezer bag; couldn't be simpler, especially with this year's basil boom in my herb garden! I used the traditional green basil, and the purple edged basil."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary Lynne Miller"
+},
+"reviewBody": "Fabulous. Made as directed."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dave W."
+},
+"reviewBody": "I halved the recipe, and used fresh basil and parsley from my herb garden. I used Grana Padano, which is very similar to Parmesan-Reggiano, and used walnuts instead of pine nuts. As others have pointed out, you'll need to add a bit more olive oil to meet the consistence that you prefer. Very tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sandra Aguirre"
+},
+"reviewBody": "This is lick off the spoon good. I used the measurements for 2 servings and am thrilled with the result. I omitted the parsley because I didn't have any and don't like it too much. I used three instead of 2 tbsps of olive oil to make it more spreadable onto the pasta. I used 1 small garlic clove and 1/8 tsp of salt and it was perfect over a bowl of penned with garden cherry tomatoes. Soooo good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ita"
+},
+"reviewBody": "This is an awesome pesto recipe. I made it with almonds instead. One important note: 1/4 of olive oil is unrealistic. This recipe needs around a cup or more. Otherwise you will have a paste consistency. Other Thant that, delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joan Whiting"
+},
+"reviewBody": "Very delicious. I used Parmesan cheese and toasted walnuts instead of pine nuts. This is a great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "EllenSallas"
+},
+"reviewBody": "Extremely helpful basic recipe. I used 3 cloves of garlic instead of two and it was too much. I used fresh basil and parsley from my herb garden and fresh grated parm cheese. I didn't have pine nuts, so I used cocktail peanuts-- couldn't tell at all that I switched them. Thanks for the recipe. My husband loved it and even talked about it at work!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cubancooker"
+},
+"reviewBody": "Instead of Pine nuts (way expensive) I have used almonds, pecans,even pistachios. Put a bit more oil on top before freezing and yumm- o!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ellen Hall"
+},
+"reviewBody": "It is exactly what I was looking for. I will try it with roasted garlic and pine nuts."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tikster"
+},
+"reviewBody": "I roasted my garlic and pine nuts. I also omitted the parsley - not availabe at the store or in my garden. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Heather B"
+},
+"reviewBody": "Very good and easy to make"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Judy Konos"
+},
+"reviewBody": "Yes a good recipe. Instead I \"cheated\" and added three heaping tablespoon of jar (store bought) olive salad, ground up fine in place of these ingredients, adding more olive oil and anything else you care to add to make the pesto. It has a strong garlic taste and is very good. Also a winner to mix into thin spaghetti.\nbut this is a good recipe..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tlfakes"
+},
+"reviewBody": "Good and simple recipe. I like mine with a little more olive oil, so either I didn't put the right amount in, or it needs a little extra. Fortunately, that is a pretty easy thing to do at the end."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lakelady"
+},
+"reviewBody": "This is a classic pesto that's wonderful for so many recipes. At the end of the summer I make a big batch without pine nuts and freeze in ice cube trays. When frozen I pop the cubes out and store in freezer bags to add to soups, sauces, and pasta. JUST A SIDE NOTE OF INTEREST...YOU CAN TAKE CUTTINGS OFF YOUR BASIL PLANTS AND PUT IN A GLASS OF WATER. THEY ROOT VERY QUICKLY. Enjoy!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Scotdog"
+},
+"reviewBody": "Yum! This was my first time making homemade pesto. I have basil growing like crazy right now. I did use walnuts (toasted) and more garlic. Fabulous flavor and easy, quick meal to put together over pasta."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/232334/homemade-pesto/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1976/side-dish/sauces-and-condiments/sauces/",
+"name": "Sauces"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/496/side-dish/sauces-and-condiments/sauces/pasta-sauces/",
+"name": "Pasta Sauces"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/232334/homemade-pesto/",
+"name": "Homemade Pesto"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

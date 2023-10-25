@@ -1,0 +1,837 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Air Fryer Baked Potatoes"
+,"datePublished": "2019-06-06T20:03:01.000-04:00"
+,"dateModified": "2022-11-17T12:41:05.294-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Bren"
+,"url": "https://www.allrecipes.com/cook/9292325"
+}
+]
+,"description": "A baked potato in the air fryer comes out beautifully crusty on the outside and fluffy on the inside. It&#39;s what a great baked spud should be, and so easy!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/LN3rOTvUODXbvnbCRlazzGGXgmU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9314433-e4a27914789743769d509cdf30f6df94.jpg",
+"height": 1472,
+"width": 1500
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=6315620154112",
+"description": "",
+"duration": "PT39S",
+"name": "How to Make Air Fryer Baked Potatoes",
+"thumbnailUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/1e635689-082c-4604-9a13-5727688b1eb8/cd2cbbe1-8181-4266-8ae2-0d63bfdbad5d/1280x720/match/image.jpg",
+"uploadDate": "2022-11-20T15:22:58.983-05:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Air Fryer Baked Potatoes"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "63"
+}
+,"cookTime": "PT60M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "344 kcal"
+,"carbohydrateContent": "65 g"
+,"fiberContent": "8 g"
+,"proteinContent": "8 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "462 mg"
+,"sugarContent": "3 g"
+,"fatContent": "7 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+, "recipeCategory": ["Side Dish"]
+,"recipeCuisine": ["American"]
+,"recipeIngredient": [
+"2 large russet potatoes, scrubbed",
+"1 tablespoon peanut oil",
+"0.5 teaspoon coarse sea salt" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat an air fryer to 400 degrees F (200 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Brush potatoes with peanut oil, sprinkle with salt, and place them in the air fryer basket."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook potatoes until very tender when pierced with a fork, about 1 hour."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT65M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "loukeller"
+},
+"reviewBody": "This is the only way we bake potatoes now. This recipe was perfect. I like not having to pierce with a fork."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jane Guzauskas Ruby"
+},
+"reviewBody": "I air fried for 30 minutes at 390F. I coated with olive oil and pierced with fork several times. I did not season the skins because I used bacon, cheddar cheese and diced jalapeños to flavor the potatoes. Wonderful taste, texture and flavor. Will make this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "DavesBread"
+},
+"reviewBody": "Waaaaaay too long. Maybe my 400 degree Cosori is hotter than someone else’s 400 degree air fryer….but one hour is ludicrous. Or my potatoes are smaller? Scrub, oil, salt fry…poke at 20 minutes….if not smooth inside, do another 5….5 minutes at a time. I did one hour and ended up with crispy, dried rocks."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "grammyt7204g"
+},
+"reviewBody": "The taste was great, It reminded my of a restaurant potato. The skin was crunchy, and the inside was cooked well. I think next time I will lower the temp, keep the same time to cook. My husband and I ate the skin too, it was so good.I will absolutely make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carolina"
+},
+"reviewBody": "These are delicious. The only changes I made was to cook them 30 minutes and use olive oil. I can't get enough of these!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "sherrikidwell"
+},
+"reviewBody": "Don't know what I did wrong, but they were like super crispy outside and still hard inside and I cooked them for an hour."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Earlene"
+},
+"reviewBody": "The baked potato was so simple. Washed and patted dry the potato and rubbed olive oil over potato and sprinkled salt. Baked at 400 degrees for 1 hour. Added some favorites such as butter, pico de gallo, sour cream and a sprinkle of sliced green onions. A perfect meal!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LindyM"
+},
+"reviewBody": "First time I've tried this. I was very impressed. Crispy skin nice and fluffy, just like you said! I love that I'm not having to use my oven for 2 potatoes. Used my Instant Pot for ribs as well. Great energy saving all around."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Outside of Enough"
+},
+"reviewBody": "I didn’t have time to cook them an hour. I placed my potatoes in the microwave for a few minutes and then put them in the air fryer for 15 minutes. \n\nPerfectly crispy and flakey inside!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "noreenb"
+},
+"reviewBody": "Excellent \ncrispy skin -perfect inside"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Aunt Meme"
+},
+"reviewBody": "Turned out great. I used Pam spray oil instead of peanut oil. It was less of a mess and the potato skin turned out really crispy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Pat-Perry"
+},
+"reviewBody": "This was my first use of the Air Fryer and it came out perfect! Nice and crispy outside and fluffy inside! Will uses again and again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "gretchen"
+},
+"reviewBody": "Delicious!! I did used the tip to microwave for 4 minutes to cut down on the time. They were done in about 45 mins."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Howard"
+},
+"reviewBody": "Awesome Recipe Bren!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "FrackFamily5 CA—>CT"
+},
+"reviewBody": "Crispy, fluffy and so easy. Nothing like popping dinner into the Air fryer and stepping away. The best. Served with a salad and soup. Great way to make potatoes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Debbie"
+},
+"reviewBody": "Easy They come out good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cherry Baumgartner"
+},
+"reviewBody": "Loved them! Best baked potato ever!!! I cooked one large potato for an hour and it was perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carolyn Webster"
+},
+"reviewBody": "I have to say I love this. I made it last night."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "JVFischer"
+},
+"reviewBody": "Potatoes were amazing but took almost 90 minutes to cook"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dave C Jones"
+},
+"reviewBody": "I used olive oil instead of peanut oil. And I also seasoned with cracked pepper with the sea salt. Great recipe, fluffy white center."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Annio"
+},
+"reviewBody": "I nuke them for 4 minutes and cut the air fry time way down and they came out perfect"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "robinhollander"
+},
+"reviewBody": "These potatoes were delicious. I read somewhere prime temperature for a baked potato is 205. Mine took about 40 minutes but they were big potatoes"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "These potatoes were delicious. I read somewhere prime temperature for a baked potato is 205. Mine took about 40 minutes but they were big potatoes"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cindirtx"
+},
+"reviewBody": "I used Canola oil to coat the potatoes. Baked 4 and were ready in 30 minutes. They turned out very good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Johnna Stepanek"
+},
+"reviewBody": "These were the best baked potatoes I ever made. Potato perfection!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "peloni"
+},
+"reviewBody": "OH BOY! The best baked potato anywhere. The skin was crispy and delicious, and the meat of the potato was fluffy and perfectly done. We had an extra one and hubby fried it up for breakfast the next morning, and the deliciousness extended 'til then. Our new method for baking potatoes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rebecca Kingsley Travis"
+},
+"reviewBody": "The skin is crispy and the potatoes are silky. I didn't have peanut oil so I used garlic infused EVO"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brocks"
+},
+"reviewBody": "Very easy. I used olive oil and sprinkled kosher salt. I cooked at 390 for 1 hr. Checked at 30 minutes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Neva Mejia"
+},
+"reviewBody": "Yes, I would like to make them again!!! They were great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chris “75tranzam” Lee"
+},
+"reviewBody": "Great baked potato, just like you get in a restaurant!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MABB"
+},
+"reviewBody": "I doubled the recipe except for the salt. They were amazing! My son says they are now his favourite potatoes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "allisonlandis"
+},
+"reviewBody": "Best baked potatoes ever! Super fluffy inside and crispy on the outside. I was a little concerned about not pricking the potato prior to cooking but did not need to be. They were perfect and did not explode!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ken"
+},
+"reviewBody": "It was great"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "relic46"
+},
+"reviewBody": "Excellent as written. Thank you"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TOODIZZY"
+},
+"reviewBody": "These potatoes were perfect. Crisp on the outside and fluffy on the inside. My hubby and I loved these."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tosca"
+},
+"reviewBody": "The best baked potato I have ever had. Made it exactly as written- crispy outside and fluffy inside. Yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Fran"
+},
+"reviewBody": "I cook often in my air fryer but this was the first time \"baking\" potatoes in it! OMG they were delicious. I used bigger potatoes so cooked at 400 degrees for 75 minutes. The taste was so much better than baking in a regular oven. Even the skin was good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Carol Bonati"
+},
+"reviewBody": "20 to 30 mins at 390 degrees on air fryer, that's enough."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Judi"
+},
+"reviewBody": "I loved this recipe and only changed to olive oil instead of peanut, didn't have that on hand. The smell reminds me of the old way of wrapping the potato in foil and throwing in the grill with charcoal. The taste is great and I will never make a baked potato in the microwave ever again. I look forward to more air fryer recipes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Deb C"
+},
+"reviewBody": "I followed the recipe exactly and it came out with a fluffy interior and crispy exterior. The air fryer is perfect when you don't want to heat the whole oven."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lindy"
+},
+"reviewBody": "I made as listed. They were wonderful. We also loved the crispy Potato skins."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "omega343"
+},
+"reviewBody": "Excellent recipe that doesn't heat up the house. Twice baked works quite well, too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sara Spainhower Albright"
+},
+"reviewBody": "Crispy outside, fluffy inside! Yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MsTJG"
+},
+"reviewBody": "The potato was just as good as from the oven without having to heat up the house for two potatoes!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Shaylalola"
+},
+"reviewBody": "1 hour was way to long! Maybe 20 - 30 min"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TJE"
+},
+"reviewBody": "So simple and so good. My Patoots were done in 40 minutes..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathy Anderson"
+},
+"reviewBody": "Always loved to order a really well done baked potato at a Steak House. The Air Fryer baked potato lives up to the Steak House version I love. I Gooped (my husband's term) up the potatoes with butter, sour cream and grated cheese, bacon bits and snipped chives."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tjessup"
+},
+"reviewBody": "It was exactly what I was hoping for! I used bacon grease to rub over the potato skin, and cooked according to the directions. The potatoes turned out great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Steve M"
+},
+"reviewBody": "Crispy outside and so fluffy inside. I'll never bake or microwave potatoes again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LM RICKS"
+},
+"reviewBody": "Best Baked Potato. Fluffy inside salty crisp skin."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CHARSKI"
+},
+"reviewBody": "Wow, I never would've thought to do this, although I adore my air fryer! Last night I rubbed a good-sized baker potato and a sweet potato with duck fat, then sprinkled with sea salt, and into the air fryer for 30 minutes at 390*, then turned them both over and another 30 minutes at 380*. PERFECTION. Fluffy inside, crusty skin, just the way I like it. Thanks for this great idea!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lija Cerbulis Day"
+},
+"reviewBody": "This recipe is amazing, worked perfectly. No corrections necessary even for Denver's altitude."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Susette Villegas"
+},
+"reviewBody": "Great recipe. Got my air fryer from Costco"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Soup Loving Nicole"
+},
+"reviewBody": "Perfect as written! The shell gets so crispy but the inside is nice and fluffy. My husband said it was the best baked potato he has ever had. He even ate the entire peel which is unlike him. I guess I know how I will be preparing baked potatoes from now on. 5 star recipe all the way! Thanks Bren!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/265979/air-fryer-baked-potatoes/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/23070/everyday-cooking/cookware-and-equipment/air-fryer/",
+"name": "Air Fryer"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/23415/everyday-cooking/cookware-and-equipment/air-fryer/side-dishes/",
+"name": "Side Dishes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/265979/air-fryer-baked-potatoes/",
+"name": "Air Fryer Baked Potatoes"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

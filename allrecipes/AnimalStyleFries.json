@@ -1,0 +1,130 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Animal Style Fries"
+,"datePublished": "2022-08-23T14:59:40.000-04:00"
+,"dateModified": "2022-08-23T14:59:40.000-04:00"
+,"description": "Recreate In-N-Out&#39;s favorited &#34;Animal Style&#34; fries at home with this easy recipe using frozen fries, quick-caramelized onions, a zesty sauce, and American cheese."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Hah7rcVgrA_vwFToFFWbTVKaVzQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8460058-Animal-Style-Fries-ddmfs-4x3-0033-3d60a06638eb46059adb8ea694ddc411.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Animal Style Fries"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4",
+"ratingCount": "1"
+}
+,"cookTime": "PT60M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "776 kcal"
+,"carbohydrateContent": "75 g"
+,"cholesterolContent": "52 mg"
+,"fiberContent": "7 g"
+,"proteinContent": "13 g"
+,"saturatedFatContent": "15 g"
+,"sodiumContent": "1904 mg"
+,"fatContent": "49 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"0.5 cup mayonnaise",
+"3 tablespoons ketchup",
+"2 tablespoons sweet pickle relish",
+"1.5 teaspoons white sugar",
+"1 teaspoon distilled white vinegar",
+"2 tablespoons unsalted butter",
+"1 tablespoon canola oil",
+"4.5 cups chopped yellow onion",
+"1 teaspoon kosher salt",
+"4 tablespoons water, divided",
+"1 (28 ounce) package frozen shoestring potato fries",
+"4 slices American cheese" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Prepare the Spread: Whisk together mayonnaise, ketchup, relish, sugar, and vinegar in a small bowl until well combined. Cover and set aside until serving."
+} ,{
+"@type": "HowToStep"
+,"text": "Prepare the Grilled Onions: Heat butter and oil in a large skillet over medium. Add onions and salt; cook, stirring occasionally, until softened and golden brown, about 20 minutes. When skillet starts to become dry, add 1 tablespoon of water. Continue cooking, stirring often, adding more water, 1 tablespoon at a time, as needed, until onions are very soft, deeply browned, and jammy, 10 to 15 more minutes (you may not need to use all the water). Cover and set aside to keep warm."
+} ,{
+"@type": "HowToStep"
+,"text": "Prepare fries according to package instructions."
+} ,{
+"@type": "HowToStep"
+,"text": "Divide fries evenly among 4 plates; immediately top with 1 slice cheese, 3 tablespoons grilled onions, and 3 tablespoons spread."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT75M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8460058/animal-style-fries/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/15466/side-dish/fries/",
+"name": "Fries Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/15467/side-dish/fries/french-fries/",
+"name": "French Fries Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8460058/animal-style-fries/",
+"name": "Animal Style Fries"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

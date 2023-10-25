@@ -1,0 +1,919 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Easy Cold Pasta Salad"
+,"datePublished": "2019-04-02T02:49:33.000-04:00"
+,"dateModified": "2019-04-02T02:49:33.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Minnie K"
+,"url": "https://www.allrecipes.com/cook/2443932"
+}
+]
+,"description": "This cold pasta salad recipe is quick and easy to make with tomatoes, cucumbers, black olives, and tangy Italian dressing, perfect for large parties."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/9M2b5H86QO5w4tXp2SIRZde0w6k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/851693-b29ccc402d204b018e4a879a3d186bed.jpg",
+"height": 250,
+"width": 250
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=3719535528001",
+"description": "Watch how easy it is to make this colorful pasta salad with fresh tomatoes and cucumbers.",
+"duration": "PT1M40S",
+"name": "Easy Cold Pasta Salad",
+"thumbnailUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/48a9e41a-3991-462c-a61c-210851daf7c9/7cab99df-ffba-42cf-b304-6c64afb6710b/1280x720/match/image.jpg",
+"uploadDate": "2021-07-06T03:34:07.016-04:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Easy Cold Pasta Salad"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "75"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "297 kcal"
+,"carbohydrateContent": "44 g"
+,"fiberContent": "3 g"
+,"proteinContent": "7 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "608 mg"
+,"sugarContent": "5 g"
+,"fatContent": "11 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"14 ounces uncooked rotini pasta",
+"2 cucumbers, chopped",
+"0.5 onion, finely chopped",
+"10 cherry tomatoes, quartered",
+"0.75 cup pitted black olives, sliced",
+"1 cup Italian-style salad dressing" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Fill a large pot with lightly salted water and bring to a rolling boil over high heat. Stir in pasta and return to a boil. Cook uncovered, stirring occasionally, until pasta is al dente, about 8 minutes. Drain and cool by running cold water over pasta in a colander set in the sink."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/9M2b5H86QO5w4tXp2SIRZde0w6k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/851693-b29ccc402d204b018e4a879a3d186bed.jpg"
+}
+]
+,"text": "Combine pasta with cucumbers, onion, tomatoes, and olives in a large bowl. Pour Italian dressing over salad; stir to combine. Cover and refrigerate for at least 2 hours before serving."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT150M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Denise Pope"
+},
+"reviewBody": "Simple and easy to find ingredients"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "terrvu"
+},
+"reviewBody": "only added some (mozz pearls) cheese. \nwe like cucumbers, tomatoes and (tri-color) pasta - so perfect for our family. salt &amp; pepper to taste."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Maureen Mayo"
+},
+"reviewBody": "Delicious and very easy...I used a spicy Italian dressing and it \nwas delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Olivia Hamilton"
+},
+"reviewBody": "The new favorite recipe! Not only mine because it is easy but everyone who ate it loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kevin"
+},
+"reviewBody": "Good taste with a light flavor that isn't heavy on the stomach. I like this more than most other pasta salads. Needs some meat though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Beth Wilson"
+},
+"reviewBody": "I did not add onions and it still tastes good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Katie Pearson"
+},
+"reviewBody": "I used vegetable rotini and I also added some shredded chicken and some French fried jalapeños and substituted French fried onions instead of using diced onions to give it a nice crunch, will definitely make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rurushannon"
+},
+"reviewBody": "As described, easy and delicious. I added a can of tuna for protein."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jen Zurchin"
+},
+"reviewBody": "Wow! Easy and delicious.\nModified recipes: Added bits of mozzarella and replaced the white onion with a red onion. Did not use olives."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ann Mayer"
+},
+"reviewBody": "Easy and tasty! A great Summer side dish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Barbara Loveys"
+},
+"reviewBody": "I also added celery. This is my\" go to salad\" for all occasions."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stevie Gee"
+},
+"reviewBody": "Standard recipe, but missing one critical ingredient: grated parmesan cheese. About 1/2 cup. \nSuggestions: Minus one cucumber add one yellow pepper, diced."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kathlm"
+},
+"reviewBody": "Have made this several times. A go to when in the mood for pasta salad. I added precooked broccoli flowerettes too. Crowd pleaser either way!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Amy Williams"
+},
+"reviewBody": "Super easy, super lite!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "nadia rodriguez"
+},
+"reviewBody": "Love it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Calvin"
+},
+"reviewBody": "I’ll make this again for sure! Great recipe. I used balsamic vinegar and extra virgin olive oil in place of the Italian dressing, and I added chicken which I cooked with the onion and some garlic powder to taste. It turned out really well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tammy Lynn"
+},
+"reviewBody": "Great simple salad. We like to make pasta salad a meal, so I added cubed cheese and sliced salami. I used zesty Italian dressing and changed up the vegetables a bit to my liking."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "April "
+},
+"reviewBody": "Turned out great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cindy"
+},
+"reviewBody": "I didn't use the whole 1/2 yellow onion so I cut that back just a little bit. I added more of the tomato's and olives. Can't have enough of those! I added Banana Pepper's and (1) stem of celery as well. It was delish!! I will be making it again next week!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "PB"
+},
+"reviewBody": "This is a good base recipe. I added fresh basil and Parmesan cheese. It's easy to make. I'll definitely make it again. Thanks for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Cloud"
+},
+"reviewBody": "I love this recipe and have made it several times now. I'm vegan, so I just follow the recipe as it is and use a homemade Italian dressing. I love to make it in advance and take it to work throughout the week, because it's one of those recipes that gets better throughout the week. Will definitely make this over and over again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pat"
+},
+"reviewBody": "I used 1 cucumber and 1 zucchini in the salad and used 3/4 cup Italian dressing with 1/4 cup of red wine vinegar. Very tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lloyd Sterling"
+},
+"reviewBody": "I added cubed gouda cheese and cubed ham."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "RainbowJewels"
+},
+"reviewBody": "Good and easy, but lacked something. I think it needed some spice, like Salad Supreme. I used a spiralizer to cut my cucumbers and make them more pasta-like (so the kids would eat them.) And I omitted the olives since we don't like them and added in some chopped spinach and broccoli to compensate. This was good, but needs some tweaks to be great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sharbeso"
+},
+"reviewBody": "I cut back on the cucumber, and added pimento and artichoke hearts."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Swingqueen80"
+},
+"reviewBody": "Very easy. Used bow tie pasta instead for a wedding and a bridal shower. Pasta was a hit, and I was asked for the recipe. A great \"do ahead\" as well!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rex Hutcheson"
+},
+"reviewBody": "This was good, despite having to substitute some ingredients."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Fran L"
+},
+"reviewBody": "This was my first time making pasta salad and this recipe is very simple to follow. I made some adjustments by adding 2 ears of fresh corn(cutting kernels off), only 1 large cumber, 1 cup of cooked frozen broccoli, 1 can of diced canned Italian style tomatoes, 3/4 of a cup of zesty Italian dressing, 2 dashes of seasoned rice vinegar, 3-4 dashes of basil, 1-2 dashes of garlic salt. 1 pinch of black pepper, and 1 pinch of sea salt."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mark C"
+},
+"reviewBody": "Very flavorful and ez to make...add chopped bacon and red onions instead of white, and it adds another layer f punch to this dish"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dconrad"
+},
+"reviewBody": "This was served at a Memorial Day celebration, and I requested the recipe, It is the best recipe for pasta salad. My husband had 2 servings, and he does not like pasta salad. Wonderful!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cheri"
+},
+"reviewBody": "I used newmans Italian dressing and add feta cheese. HUGE hit! For summer I will add some grilled chicken."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pamela E."
+},
+"reviewBody": "Loved this refreshing pasta salad. I didn't change a thing..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stephanie Lewis"
+},
+"reviewBody": "Imagine my dismay when I showed up to a potluck with this dish and all of the other pasta salads were Italian dressing based. I'm pleased to say: in the battle of the pasta salads, mine was the only bowl that was completely empty at the end of the day! The fresh veggies make this an excellent and refreshing summer salad. I also added some fresh basil, some chunks of mozzarella cheese, and a little salt and pepper. Taste-wise, this is a 4-star dish, the quick &amp; easy factor makes it a 5. Thanks for a great recipe!\n\nA follow-up caution: Be sure to check the sodium content of your dressing before adding extra salt. I used a different Italian dressing the second time I made this dish and added salt, like I had done before. It turned out too salty because my dressing had way more sodium than the other."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kmazz84"
+},
+"reviewBody": "I've found some of the best recipes on this app!! Love it!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Suzona"
+},
+"reviewBody": "Easy indeed! However, I might omit the dried fruit and add some feta and artichoke next time. Great side or main for any hot summer day."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BusyMomfor5"
+},
+"reviewBody": "OMG! This salad was surprisingly delicious, very fresh and unique in taste. I followed the directions almost exactly as directed, but I only put 1 cucumber, less onions &amp; olives and more cherry tomatoes. Next time I will put the exact amount. This salad is great for gatherings, pot lucks and great to impress guests."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Anne"
+},
+"reviewBody": "Very easy for my first pasta salad! It wasn't very popular, though; must not have been as attractive as the other foods at the potluck. I left out the olives and that may be why no one wanted to eat it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kpalis"
+},
+"reviewBody": "So easy, and quick! We made a double batch for our kids party, and received lots of rave! It's also good beyond a few days which is nice!\n\nWe also added artichoke and thought about salami and mozzarella!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Liliana Magdaleno"
+},
+"reviewBody": "Had most of the ingredients, decided to try, and it did not disappoint."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joe G"
+},
+"reviewBody": "I made this last weekend since it aws hot and I had freinds comming over. It was a huge hit! It was very refreshing and flavorfull."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Mawimbi"
+},
+"reviewBody": "it's easy and everybody loves it!! but the ready-made italian dressing from supermarket makes the salad taste a bit strong."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BUBBLES23"
+},
+"reviewBody": "Yum!! I made this for the middle school staff appreciation!! I added diced yellow &amp; orange peppers, and feta. The lite italian robust dressing was perfect and the colors were beautiful!! A wonderful addition to a huge spread of food!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "OolyndeoO"
+},
+"reviewBody": "I made this exactly as stated and it was so yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carlene Davis"
+},
+"reviewBody": "Very good! I doubled the recipe because I was having a lot of people over for a BBQ. Super easy and delicious. Thanks for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Melissa Goff"
+},
+"reviewBody": "Having soo much veggies, I really needed to use up them badly. So as it's summer veggie season. What better way then this one. However, What I'll say about the recipe is that it's easy to do. But the ratio to pasta is slightly off for me. I don't think using a 16oz bag of Gluten free rotini would make a lot of difference but it did. I had way way more pasta to then veggies. 10 cherry tomatoes doesn't cut it, so I had to increase the tomatoes &amp; cucumbers as well as olives. I did increase the salad dressing as well to accomendate the recipe and balance it out. However. Over all it's nice. The dressing was fat-free. So for making this recipe a healthier option, was really nice. Will make again. My girls really liked it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Elaine"
+},
+"reviewBody": "very easy to make"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "graycyn"
+},
+"reviewBody": "I love this dish! I make it for every bbq. The only thing missing is Mccormick's Salad Supreme Seasoning. I add 4 tbs to it. I can't imagine how bland this would be without it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "smplyme89"
+},
+"reviewBody": "This makes alot! I made this up and thew in some sautee'd chicken for a delicious lunch that lasted all week long! Will highly recommend to everyone that I know!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Niki Hoffman Farbotko"
+},
+"reviewBody": "So simple yet tasty! I made it for a neighborhood potluck and folks went nuts over it! I forgot the onion but it was perfect without it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Innessa"
+},
+"reviewBody": "FAST, EASY &amp; DELICIOUS! What more could a person want? :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I loved this recipe but I changed it up a bit!! I added pepperoni,and red onion, fresh basil, thyme, kosher salt and fresh ground black pepper. I used grape tomatoes instead of cherry ( the one at the store weren't too pretty :) ) I kind of just threw the herbs and S&amp;P in there I didn't measure em, did it Rachael Ray style LOL!!! But it was so delish I will definatetly make it again!!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jillian"
+},
+"reviewBody": "\"Easy\" and delicious! This is a very simple salad that comes together quickly but tastes wonderful. It's a great base to throw in whatever you want to make it you own. I used tri-colored pasta and red onion. I also threw in some chopped fresh spinach and roasted red pepper along with some shredded Parmesan cheese. For the dressing I used \"Nonna's Tuscan Salad Dressing\" from this site. Definitely chill for a couple hours before serving."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah Jo"
+},
+"reviewBody": "I used a quarter of a red onion, I used whole wheat rotini, Newman's italian dressing and I added a half cup of Frigo parmesan cheese. This is sitting in the fridge, all ready for dinner. REALLY simple--it took less than 20 minutes to throw together. I've made something like this before so I already know it's going to be good. Salads like this always taste better the longer they sit."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "CookinBug"
+},
+"reviewBody": "Good stuff! I added carrots, fresh basil, &amp; parsley. Yum :) Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Adrianne Owens Jenkins"
+},
+"reviewBody": "Very good! I added a cup of parmesan cheese as well, it's quick, easy &amp; very good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ariana Connell"
+},
+"reviewBody": "One of our family favorites. I also add carrot chips and sunflower kernels."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "aly"
+},
+"reviewBody": "we had a really bad storm last night and lost power right as I was preparing dinner. The only thing that was done was the angel hair pasta. So I went to the garden and got some cucumbers and tomatoes, fresh basil and thyme and a banana pepper. Mixed up this pasta salad recipe and it was delicious! Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "jmbpiano"
+},
+"reviewBody": "I don't normally like pasta salad, but after a couple of modifications this was quite pleasant. I took jennifermorse's suggestion of crumbling in some feta, but I'm not a big fan of red onions, so I added about 1.5T of fresh chives instead. Because of the intensity of the chives and feta flavors, I also cut the quantity of Italian salad dressing in half and added just a touch of olive oil. I also substituted penne for the rotini since it was on sale this week, but I'm not sure how much that actually affected the flavor/texture."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "jodie"
+},
+"reviewBody": "Great Recipe You can also add cubed chicken and shredded colby jack cheese"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer Morse"
+},
+"reviewBody": "I love this recipe and have made it for years! I add a little bit of red onion and feta cheese to make it a little more \"Greek.\""
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/149799/easy-cold-pasta-salad/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/215/salad/pasta-salad/",
+"name": "Pasta Salad"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16206/salad/pasta-salad/rotini-pasta-salad/",
+"name": "Rotini Pasta Salad Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/149799/easy-cold-pasta-salad/",
+"name": "Easy Cold Pasta Salad"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

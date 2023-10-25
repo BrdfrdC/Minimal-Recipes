@@ -1,0 +1,136 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Authentic Turkish Doner Kebab"
+,"datePublished": "2018-06-08T10:47:18.000-04:00"
+,"dateModified": "2018-06-08T10:47:18.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "wakeylass"
+}
+]
+,"description": "Try this easy recipe for Turkish doner meat kebabs, a street food favorite, of deliciously seasoned ground lamb baked meatloaf-style and served in pita bread."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/t7B1ankr50sVHY-MZqPxSz4pKSE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5095331-a29b9c100ce34ed8bcfc044e80d3bee8.jpg",
+"height": 960,
+"width": 1280
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Authentic Turkish Doner Kebab"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "1"
+}
+,"cookTime": "PT80M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "284 kcal"
+,"carbohydrateContent": "2 g"
+,"cholesterolContent": "95 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "24 g"
+,"saturatedFatContent": "8 g"
+,"sodiumContent": "370 mg"
+,"sugarContent": "0 g"
+,"fatContent": "19 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 teaspoon all-purpose flour",
+"1 teaspoon dried oregano",
+"0.5 teaspoon salt",
+"0.5 teaspoon garlic powder",
+"0.5 teaspoon onion powder",
+"0.5 teaspoon dried Italian herb seasoning",
+"0.25 teaspoon ground black pepper",
+"0.25 teaspoon cayenne pepper",
+"1.25 pounds ground lamb" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine flour, oregano, salt, garlic powder, onion powder, Italian seasoning, black pepper, and cayenne pepper in a large bowl. Add ground lamb and knead until thoroughly mixed together, about 3 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Shape seasoned lamb mixture and place into a loaf pan; set on top of a baking sheet."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven, turning halfway to ensure even browning, for about 1 hour and 20 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Wrap loaf in aluminum foil and let rest for about 10 minutes. Slice as thinly as possible to make doner kebab pieces."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT100M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/262546/authentic-turkish-doner-kebab/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/235/world-cuisine/middle-eastern/",
+"name": "Middle Eastern"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1825/world-cuisine/middle-eastern/turkish/",
+"name": "Turkish"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/262546/authentic-turkish-doner-kebab/",
+"name": "Authentic Turkish Doner Kebab"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,1419 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Sue&#39;s Taco Salad"
+,"datePublished": "2000-03-20T10:17:12.000-05:00"
+,"dateModified": "2023-01-18T22:01:29.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "SUE CASE"
+,"url": "https://www.allrecipes.com/cook/31169"
+}
+]
+,"description": "This taco salad is a great dish for potlucks. It&#39;s easy and can be made in advance. Add dressing just before serving."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/IKc6tGm-XsyQVsiTy9ukjoDWcIY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/642470-sues-taco-salad-Rock_lobster-4x3-1-b612af5f54b24bcb9d465667db12746a.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Sue&#39;s Taco Salad"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "307"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "626 kcal"
+,"carbohydrateContent": "33 g"
+,"cholesterolContent": "92 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "28 g"
+,"saturatedFatContent": "15 g"
+,"sodiumContent": "1125 mg"
+,"sugarContent": "4 g"
+,"fatContent": "42 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 pound lean ground beef",
+"1 (1 ounce) package taco seasoning mix",
+"0.5 (14.5 ounce) package nacho-flavor tortilla chips",
+"2 cups shredded Cheddar cheese",
+"0.5 (15 ounce) can kidney beans, drained",
+"0.5 cup ranch-style salad dressing",
+"1 chopped tomato",
+"1 cup chopped lettuce",
+"0.25 cup chopped green onion" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place ground beef in a large, deep skillet over medium-high heat. Cook, stirring to crumble, until well done; drain. Stir in taco seasoning mix. Set aside to cool."
+} ,{
+"@type": "HowToStep"
+,"text": "Place chips into a large bowl; crush them into bite-sized pieces. Combine with seasoned meat, cheese, beans, tomatoes, lettuce, and green onions."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour dressing on top; toss to coat."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT30M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Pat Dares"
+},
+"reviewBody": "Loved it! But I traded the ranch dressing for fresh lemon juice mixed over avocado pieces. Also added chopped olives and orange peppers."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "K"
+},
+"reviewBody": "My mom made this a lot for potlucks when I was a kid and it disappeared quickly; I still make it today. Only difference is instead of Ranch, we use Dorothy Lynch (or Western, or any French dressing) along with taco sauce to dress it. Adjust to taste."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Shirley"
+},
+"reviewBody": "I omitted the beans and it was still a great dish. I will likely make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Doc Chef"
+},
+"reviewBody": "My family loves this recipe. The only changes I make are to include a few things others have mentioned, like olives, avocado, and bell pepper. Ranch is great, but this recipe works well with Italian or even Thousand Island. I like to serve with a lime wedge."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Luann"
+},
+"reviewBody": "We loved this recipe and will be making this all the time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CCD"
+},
+"reviewBody": "I used ground turkey instead of ground beef. Turned out fine. I also used a cruciferous blend of kale and other crunchy veggies instead of just iceberg. I made it for a party and it went over very well. Will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "RugbyNLucky"
+},
+"reviewBody": "Yum! Simple and easy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lisa"
+},
+"reviewBody": "made it like a salad bar. used regular tortilla chips, added salsa and ranch dressing and olives"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Irene Buechlein"
+},
+"reviewBody": "This was delicious. I made one change - I cooked rotelle pasta (the curly one) and added that (warm) to the mixture. Yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mitsuko Fredrickson"
+},
+"reviewBody": "Easy quick and tastes good.\nI have added muted avocado to the ranch dressing.\nOne note about the corn chips. Separate them from the rest of the ingredients so that it can be added next day without having soggy chips. I just sprinkle on top as we have on individual plate."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Denette Dabling"
+},
+"reviewBody": "My family enjoyed this. We liked the beans mixed in with the hamburger."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Emma McFarland"
+},
+"reviewBody": "I quite liked this. I did as others recommended and only added the chips to the plate as serving and only mixed enough salad/dressing for serving so that the leftovers don't go mushy. The only reason this is rated down a star is because I found it quite salty so didn't finish my serving, and upon eating each part separately I discovered it was the ranch dressing I had used that was the issue. When I have the leftovers I will try another dressing - maybe a Caesar as I love that with anything. I recommend using a dressing you love and then you should love this dish as well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tootsabell"
+},
+"reviewBody": "I made this for my partner and he said it was awesome. It was super easy to make &amp; he said very filling. Thank you for sharing this keeper :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ms Jean"
+},
+"reviewBody": "I scaled this down and made it as a one-dish supper for myself, and it was great! I used the Smoked Paprika Vinaigrette dressing from this site, and it worked well (slightly sweet and similar to a Catalina dressing that others mentioned). I don't think I'd care for Ranch dressing here. I used Taco Seasoning I from this site with the hamburg. I also added avocado, black olives, black beans in place of the kidney, shredded Mexican cheese and very few (4) tortilla chips. What a great supper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Steph1outta12"
+},
+"reviewBody": "I made just as recipe called for...DELISH! (so many ways to alter this depending on your taste...will make again!)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amara Oliver Root"
+},
+"reviewBody": "Easy, Quick, basic recipe. I did this buffet style so everyone could customize: had chopped greens mixture, black olives, shredded mex cheese, salsa, guacamole (am going to do this with avocados slices too), plain greek yogurt(instead of sour cream), black beans and ground beef browned with taco seasoning and tortilla chips. It was delicious!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Susan Sanders"
+},
+"reviewBody": "This is my \"go to\" recipe!! I add about 1/2 cup of medium salsa. I add more salsa when I don't add tomatoes to the salad. I sometimes add re fried beans or drained canned black beans to the meat/taco seasoning in the pan for extra fiber. Cool Ranch Doritos are my family's favorite on this salad, but regular Doritos are good, too!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Donna"
+},
+"reviewBody": "Excellent. I made it with ground turkey. Loved it and husband asked me to make it again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chris Gamelcy Rodriguez"
+},
+"reviewBody": "Very yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Conrad"
+},
+"reviewBody": "I reduced the servings to 4 and used 2 tablespoons of ranch dip instead of ranch dressing, turned out great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ljoym"
+},
+"reviewBody": "This is one of our favorite taco salads. I make it as submitted, generally adding either sliced olives or chopped avocado. Great summer meal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "PTL45"
+},
+"reviewBody": "Delicious! I used plain tortilla chips, but other than that followed the recipe. Easy to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Az Hummer"
+},
+"reviewBody": "Really good, but when I started to make it realized I didn't have taco seasoning so I wound up using enchilada seasoning and hot chili beans. After surveying the pantry ended up using tortilla chips and chopped red onions. Hubby loved it. Makes a lot for two so shared with the neighbors. Will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sue"
+},
+"reviewBody": "I did use black beans instead of kidney beans, sweet onion and sour cream instead of ranch dressing. Very, very good. i will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "B LouLou"
+},
+"reviewBody": "Made this tonight for my son and I. Only changes I made was\n to use black beans and Catalina dressing because that's what\nI has on hand. Excellent ..... We both enjoyed. Will most definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "VAZ123"
+},
+"reviewBody": "I too have had this type of recipe using Catalina dressing. I haven't made it for such a long time and couldn't find my original recipe so thought I'd use this. I was not making as big of recipe and yet it made a whole lot. I used only one head of iceberg lettuce and only a couple outside leave of green lettuce. For the dressing, I used my own concoction for ranch dressing using 1/4 cup each of light mayo, Fage plain Greek yogurt, and homemade Kefir milk. I used 1/4 teaspoon of garlic powder and dill weed. The taste was nice and always a hit with kids. I also added black olives and used regular tortilla chips as many in my family do not like the flavored types."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Heather Pratt"
+},
+"reviewBody": "Super easy for me because I'm the first to admit I can't cook! Kids loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lois Carroll"
+},
+"reviewBody": "I made it exactly as written except for 2 substitutions . I used homemade pinto beans for the canned beans and my own avocado dressing...This one is fast and easy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "RebaJ"
+},
+"reviewBody": "It was a great hit at our Church potluck"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Emily Coburn Damon"
+},
+"reviewBody": "I used ground turkey, light ranch and salsa. It was so easy and very tasty. Next time I might add onions, cilantro and avacado."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shanna John Swalander"
+},
+"reviewBody": "Very good salad. We all enjoyed...to include the kids. I followed the recipe exactly and it turned out great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "just jude"
+},
+"reviewBody": "I've made this for years and have a couple of suggestions to make any left-overs as good as the original. First, fry the ground meat with some chopped onions. When done add the kidney beans, any seasonings, and the cheese of your choice (I often use processed pepper jack cheese as it adds some flavor, replaces the need for Taco seasoning mix, and melts so nicely). In a separate bowl, add dressing (I like Catalina) to chopped lettuce, using only enough for the number of people you will feed. Place the lettuce mixture on the individual plates, top with the ground meat mixture, and garnish this with freshly diced tomatoes, diced green pepper, chopped green onions, and maybe some sliced black olives. Serve tortilla chips in a large bowl for scooping up the salad. No soggy left-over lettuce mixture or soggy tortilla chips. Refrigerate left-over ground beef mixture for another day... Perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CARMELCORNR"
+},
+"reviewBody": "Been making this for years, a family favorite! \nadd sliced black olives and chopped avocado; \nuse Taco-Flavored Doritos (now that they are available again); and definitely use WishBone Deluxe French Dressing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "sassyemz"
+},
+"reviewBody": "Omg this was so delicious I used home made salsa and it was perfect. I used black beans and rice in the salad. Best taco salad ever"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tyler A. Banks"
+},
+"reviewBody": "this is my go-to taco salad recipe. I have made it for co-workers, friends &amp; family. I even did this recipe for my twin brother a couple days before he was to get hitched for him and his (now) spouse's family. easy to do in any kitchen. Recommend this for everyone and all levels of cooking experience."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "BILL"
+},
+"reviewBody": "I wish they had not said to pour in the chips! I was planning on having this for lunch tomorrow too. The chips will probably be all soggy, won't they? I knew enough to not put the lettuce in but I didn't think about the chips until the very moment I started stirring them around. DOH!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jenny Roberson"
+},
+"reviewBody": "Followed the recipe with no changes. I was skeptical of ranch dressing and natcho doritos but the flavors together were better than using catalina dressing as I have in the past. This time Im adding crumbled bacon :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hollie Nichole Persick"
+},
+"reviewBody": "Was a huge hit at dinner last week. Only complaint I didn't make extra lol"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kaz"
+},
+"reviewBody": "REALLY good recipe. I fixed it EXACTLY as written, my typical process. I would not change anything, NOT typical of me !!! This had a really nice balance of flavors, colors, and texture. OK .... I added just a sprinkle of crushed red pepper to the ranch dressing for a bit more kick. THANKS SUE!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jillr"
+},
+"reviewBody": "Good base recipe. Used half a packet of taco seasoning, black beans, and a bit salsa."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joyce Thompson"
+},
+"reviewBody": "I have been making this salad for years, and it is a favorite of mine and my family. I leave out the beans, and use plain tortilla chips, but everything else is the same. It makes a lot, but a big plate goes down quickly."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Maggi"
+},
+"reviewBody": "So easy and economical. Personal preference: used romaine lettuce, black beans and regular tortilla chips. Make ahead leaving chips to add before serving."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Katie"
+},
+"reviewBody": "Fast, easy, and filling! This has now become a fast family fave at my house!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ConkyJoe"
+},
+"reviewBody": "In making this, cut back on cheddar cheese to 1 cup, used a whole can of kidney beans, and 1 tablespoon Taco Seasoning I by B. Echols from this site rather than store bought. We liked this but prefer San Antonio Taco Salad on this site (AR made this recipe private some time ago but still available if it was in a member’s recipe box). The main difference between these two recipes is that beans and salsa are added into the cooked ground beef in the San Antonio version which gives it a more in-depth flavor and it uses 1 cup shredded Cheddar cheese. Sue’s version is so simple and extremely fast to prepare that we will likely use it again when short on time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "pixiephish"
+},
+"reviewBody": "We loved this recipe! Funny thing though - I forgot to add the cheese and we ended up liking it better without(We put some in our bowls the second night)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Kiri Korycinski"
+},
+"reviewBody": "I love this recipe for warm summer nights! It's nice and refreshing and you don't have to stand over the stove for very long AND you can get rid of veggies easily without altering the taste too much.\n\nHowever there are a couple changes I usually make when making this recipe...I use spices I have on hand (Chili powder, garlic powder, salt, cayenne and cumin to taste) instead of taco seasoning. I toss in some finely chopped green peppers (since that's what I usually buy and never end up using!). I switch between black and kidney beans, and sometimes use both. I use Spanish onions as opposed to green because we really like onion flavor in this family and we use creamy Italian dressing, which we both prefer over the French. \n\nI also tend to mix everything but the lettuce, chips and dressing since we both like the lettuce crisp and the chips crunchy and have different ideas of what a substantial amount of dressing is...\n\nAlthough this recipe is great, don't be afraid to play around with different veggies, dressings and chip flavors!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Judy V"
+},
+"reviewBody": "Very good recipe I used French Dressing but will try ranch dressing next time"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lisa margitan"
+},
+"reviewBody": "Tripled this, we have a family of 7... Didn't use the beans or green onion, and it was absolutely amazing! Highly recommend this recipe, if your looking for taco salad. Also, really good, heated up later..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Beth Alberts"
+},
+"reviewBody": "Great mix of ingredients for a taco salad. It was awesome. This recipe makes a large amount. I actually used a recipe for \"Emily's Dressing for Taco Salad\" instead of the ranch dressing and it really added the finishing touch."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gabe and Kari"
+},
+"reviewBody": "Great recipe - my kids ate it and asked for seconds!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bill Morris"
+},
+"reviewBody": "Nice way to get my daily intake of vegetables. This is one of those recipes where you need to assemble just before serving as it doesn't hold up well for extended periods of time. Very tasty and easy to spice up if you want a little extra kick."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "WisconsinGirl"
+},
+"reviewBody": "Someone mentioned a mix of taco sauce and sour cream as a substitute for the dressing which was the only change I made and it was a huge hit"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Diane Cullum"
+},
+"reviewBody": "I love this salad, husband like it as far as taco salad goes, daughter won't eat it, and son loves the sauce but thinks it should have more \"stuff\" in it. He means black olives, etc. Fast and easy dinner."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah Rose Stumphf"
+},
+"reviewBody": "My family absolutely tore this salad up! In a family that is so hard to please everyone, I was really happy to find this recipe! Don't change a thing, it's great as written!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CPorter119"
+},
+"reviewBody": "My husband and I both love this one, I made it a few times. I used plain tortilla chips because I didnt have the nacho flavor. Yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "cookie_monster"
+},
+"reviewBody": "Something fun and different! I like cheese, but this turned out really cheesy. Next time I will double the lettuce and half the cheese."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sunshinejo1717"
+},
+"reviewBody": "This is an awesome recipe! Whenever I make tacos with ground beef, I always put the browned meat in the food processor with about 1/2 cup of salsa for 10 seconds. For some reason when the meat is really fine it tends to taste better, don't ask me why, lol. Really easy to make, I used sour cream and salsa as opposed to ranch dressing. Yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "megameaghan1"
+},
+"reviewBody": "I made this for a picnic and everyone but me liked it. Maybe next time I'll use regular tortilla chips instead of nacho flavored and change up the ranch dressing I use."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "grace"
+},
+"reviewBody": "Love it. Amazing recipe and easy directons to follow."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ALEXKEV"
+},
+"reviewBody": "Awesome salad! I did make 2 changes as I am trying to add more turkey to the diet. I added ground turkey instead of beef and calorie wise catelina dressing instead of ranch."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Tori Michelle Nunley"
+},
+"reviewBody": "I followed the directions for the ground beef pretty much to a T, except that I added in a drained can of Rotel. I also left all the parts of the salad separate to keep it from getting soggy. We used spinach mix for the greens, then topped with meat mixture, cheese and chips. I mixed a very small amount of ranch dressing with some salsa for mine and my boyfriend did the same but with sour cream. I think the way we had it made this a pretty healthy meal. I will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MomO2"
+},
+"reviewBody": "My family loved this salad! We had a late supper so this was light enough to have. Thx!! Gonna try cilantro, spanish rice and avocado with it next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "died4me0129"
+},
+"reviewBody": "One of my favorites! I used regular tortilla chips and instead of cheddar cheese i got the mexican cheese from the store"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "catbrowning"
+},
+"reviewBody": "This is so delicious and easy exactly as written. Will be making it ALOT this summer. I put it in a tupperware container and take it on the boat with us. It's wonderful!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Becca"
+},
+"reviewBody": "Good and quick Taco Salad. I also added some avocado for some extra flavour and nutrition."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Katy"
+},
+"reviewBody": "Delish! I don't eat meat so I added some taco seasoning to rice..and made mine separate..(boyfriend had the ground beef).(actually left out the beans for this time) We used half catalina and half ranch dressing - Thanks Sue for a new go to meal! :o)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah Jo"
+},
+"reviewBody": "My review for this recipe disappeared! This is one of our favorite meals in this house. Any kind of ground meat will work (I usually use ground turkey or chicken), I make my own taco seasoning/ranch dressing and I like to use organic black beans in place of the kidney beans. Sometimes, I'll mix a half cup of homemade salsa into the ranch dressing. Any kind of chips will do--we alternate between Doritoes, Fritos and chili-lime tortilla chips. Because I eat low carb, I skip the chips on mine and double up on the lettuce. This is also a great way to use up leftover taco meat from the night before for a quick lunch. You can layer them so everything is ready to go in the container--just make sure that you seperate your dressing or make it so the dressing is on the bottom and not touching your lettuce otherwise it will wilt quickly."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "gilogilo"
+},
+"reviewBody": "Loved it!!! I used regular tortilla chips instead of Nacho flavored and it still turned out great!!! No leftovers!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cooking diva"
+},
+"reviewBody": "Have made this for my family for the past 15 yrs, and have given it to friends for just as many. The only thing I do different is use Creamy Caesar salad dressing instead of ranch, it makes a delicious difference."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa"
+},
+"reviewBody": "loved this! I used multi-grain tortilla chips, jack &amp; cheddar cheese, black beans instead of Kidney, and added avocados and fresh corn. I bought three different salad dressings to try (creamy italian, peppercorn ranch and chipotle ranch) and Chipotle Ranch by Naturally Delicious was by far the best one for this salad! Also, I think the scallions are a nice to have but not necessary. I got SO MANY compliments on this dish when I brought it to a potluck. Will definitely make again!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "SweetNov88"
+},
+"reviewBody": "Yummy! I added olives and used chili beans instead of kidney beans."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Julie Lehnig-Bouge"
+},
+"reviewBody": "My mom made this when I was growing up and now I make it for my family. I also add some salsa to it and mix together ranch dressing and thousand island dressing. Also, we like red onion better than green onion. It is a consitancy thing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "RAPTORSHARK"
+},
+"reviewBody": "Used refried beans instead of kidney beans, mixed it in with the beef after it was cooked. Also used Italian dressing instead of ranch and some sour cream. Use the nacho doritos for more flavor. Super easy just mixed it all together, om nom nom!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Loretta MacPherson"
+},
+"reviewBody": "Good for eating the day of. Not something to have leftovers with."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Andrea Persaud"
+},
+"reviewBody": "I made this yesterday and it was so good my entire family loved it. even my two little girls who r extremely picky eaters ate everything. This will definitely be made again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sherri Lynn"
+},
+"reviewBody": "I have made this severa times. I have made it with Hamburg, venison and pork. I even tried it with thousand Island dressing. What a hit at our house."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "amandak23k"
+},
+"reviewBody": "This is so good!! I loved the ranch in it. I wasn't sure how it would be! I only made one serving and changed a couple things for what I had on hand. I used leftover browned taco seasoned meat, I choose to use refried beans in place of the kidney beans, and threw in some leftover santa fe style rice with black beans and corn. I used some salsa because I didn't have any tomatoes on hand, and white onion in place of the green onion. Seems like a lot of changes but nothing major that really changed the flavor of the taco salad. Will use this recipe again!!! I also added some chopped pickeled jalapenos!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MrMom"
+},
+"reviewBody": "The family loves this and its so easy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ackidd07"
+},
+"reviewBody": "Absolutely delicious! It was so simple and very fast! Thanks Sue!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sally Johnson Shenk"
+},
+"reviewBody": "WONDERFUL. Made it and took it along to friend's pool party last week-end. Was a big hit!!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tattoogirllovessteven"
+},
+"reviewBody": "absolutly FAB!!! Husband and kids couldn't get enough. Only change I made was with the chips. Used taco flavor instead. Will def. make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kinsleysmom"
+},
+"reviewBody": "YUM! We don't care for the ranch dressing so we use homemade guacamole instead.\n\nVery easy to make!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "taffyjt"
+},
+"reviewBody": "This was a simple but great recipe. The only thing I did differently was to allow others to add their own chips, that way the chips did not become soggy. Also, some people don't want chips in their salad and this is great without the chips. Thanks, Sue!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Heather Wright"
+},
+"reviewBody": "Absolutely fantastic! This is how I will be making taco salad from here on out. I didn't change a thing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Allie1"
+},
+"reviewBody": "I didn't care for this at all, I fellowed it to a tee and it look like dog food, very dry I add sour cream and more dressing but it didn't help"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Donna"
+},
+"reviewBody": "Love it!! Simple and Delicious! I put a dab of sour cream on top of each serving! Yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Kiernan"
+},
+"reviewBody": "I followed the directions and this was really good. I just felt it was missing something. I might add olives and use sour cream instead of ranch. Overall, it is still a great recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Tom"
+},
+"reviewBody": "Very good. I added 1 cup of salsa (I used Pace) which made it even better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Emily"
+},
+"reviewBody": "Simple, tasty recipe. You can't go wrong with a Taco Salad. Of course, they're are so easy to substitute with whatever you have. I have been mixing equal parts Ranch dressing with Taco Sauce for the dressing on all my Taco Salads."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Patricia"
+},
+"reviewBody": "We gave this one a 9 out of 10. My husband absolutely loved it and the only change I made was to add olives and an avocado (they had to be used up). Great dish - thanks for sharing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bearmurphy"
+},
+"reviewBody": "My aunt always made this salad for family gatherings, but with Green Goddess dressing. Try it with the Green Goddess, it's really good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "karin"
+},
+"reviewBody": "really good I added slice olives and avocado"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "asnbuttafly"
+},
+"reviewBody": "Yummy! So easy to make. Only problem with the salad is it get's soggy quick. So good though:)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tperry1234"
+},
+"reviewBody": "Super yummy, easy dinner. The kids loved it. Used a whole head of romaine and almost a whole can of kidney beans."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "magsmom82"
+},
+"reviewBody": "I don't think its the best as far as taco salads go. Combining all ingredients in one bowl makes the chips go soft. Whats the point to the chips if not for some crunch? Will layer on each plate next time instead of combining into one."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kristi"
+},
+"reviewBody": "Delicious and so simple! I don't eat beef so I replaced the ground meat with Mexican flavoured veggie ground round and it worked great. I also replaced the beans with black beans and heated them up with the ground round. A perfect summer recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kenoshasam"
+},
+"reviewBody": "Great salad and easy to make! A few tricks/tips...instead of using the packet of taco seasoning which is heavy in sodium, opt for cumin/chili powder/red pepper to season for your liking! Serve the crushed chips and dressing on the side, in case you have leftovers. I didn't have the nacho cheese chips, but the regular tortilla chips did fine. I also added a cup of frozen corn (thawed)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "linandlarry"
+},
+"reviewBody": "Not bad..(made it exactly as printed here) but I have another recipe that I like much better. My recipe has the ground beef simmered with the drained beans for 10 min and uses catalina french dressing. Will go back to mu Old recipe..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathy Owens Banks"
+},
+"reviewBody": "Wonderful summer meal!! My family and co-workers absolutely loved it!! Since I'm on a diet, I modified it slightly by using low fat shredded cheddar cheese and I replaced the tortilla chips with french fried onions to keep the crunch. I added thin sliced red onions and used creamy Italian salad dressing. This was SO delicious!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/18071/sues-taco-salad/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/96/salad/",
+"name": "Salad"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17534/salad/taco-salad/",
+"name": "Taco Salad Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/18071/sues-taco-salad/",
+"name": "Sue&#39;s Taco Salad"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

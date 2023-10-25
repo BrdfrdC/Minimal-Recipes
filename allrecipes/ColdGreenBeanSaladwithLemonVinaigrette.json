@@ -1,0 +1,137 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Cold Green Bean Salad with Lemon Vinaigrette"
+,"datePublished": "2023-01-04T09:00:00.000-05:00"
+,"dateModified": "2023-01-04T09:00:00.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "lutzflcat"
+,"url": "https://www.allrecipes.com/cook/lutzflcat"
+}
+]
+,"description": "A simple cold green bean salad tossed in lemon vinaigrette with goat cheese and almonds."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/9sLTbLEnewwcKvV-FXftcgh2kOI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1672171694Lemon20Vinaigrette20Green20Bean20Salad-2000-484f36c879cc4bb390752f88043b2a08.jpeg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Cold Green Bean Salad with Lemon Vinaigrette"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4",
+"ratingCount": "1"
+}
+,"cookTime": "PT3M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "170 kcal"
+,"carbohydrateContent": "10 g"
+,"cholesterolContent": "11 mg"
+,"fiberContent": "5 g"
+,"proteinContent": "6 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "111 mg"
+,"fatContent": "12 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"ice as needed",
+"1 pound fresh green beans, trimmed",
+"1.5 tablespoons olive oil",
+"1 tablespoon freshly squeezed lemon juice",
+"1 teaspoon Dijon mustard",
+"zest of 1/2 lemon",
+"salt and freshly ground black pepper to taste",
+"1 pinch sugar, or more to taste",
+"2 ounces soft goat cheese, crumbled",
+"0.25 cup toasted sliced almonds" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Make an ice bath by filling a large bowl with ice water, and set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Bring a large pot of salted water to a boil, add green beans, and blanch until just tender-crisp, 3 to 4 minutes (do not overcook). Drain green beans, and immediately add to ice bath to stop cooking; set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk olive oil, lemon juice, Dijon, lemon zest, salt, pepper, and a pinch of sugar together in a small bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Drain green beans well and pat dry with a paper towel to avoid diluting the dressing. Place into a bowl and drizzle with vinaigrette, tossing gently to coat."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer tossed green beans to a serving dish. Garnish with goat cheese and almonds."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT18M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8524004/cold-green-bean-salad-with-lemon-vinaigrette/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/219/salad/vegetable-salads/",
+"name": "Vegetable Salad Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/15108/salad/vegetable-salads/green-bean-salad/",
+"name": "Green Bean Salad Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8524004/cold-green-bean-salad-with-lemon-vinaigrette/",
+"name": "Cold Green Bean Salad with Lemon Vinaigrette"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

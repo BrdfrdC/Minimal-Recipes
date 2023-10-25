@@ -1,0 +1,632 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Pork Stir Fry"
+,"datePublished": "2016-06-04T09:58:27.000-04:00"
+,"dateModified": "2022-06-01T06:22:39.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "EACline"
+,"url": "https://www.allrecipes.com/cook/3655553"
+}
+]
+,"description": "This pork stir-fry recipe uses simple ingredients like soy sauce, sesame oil, garlic, and lots of crisp, fresh veggies for a quick and easy dinner."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/lUaX1VgkLluziSNGf3_sDdguc_0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2024926-77c88fac40df444d8daed3cc226dd68a.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Pork Stir Fry"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.4",
+"ratingCount": "49"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "188 kcal"
+,"carbohydrateContent": "13 g"
+,"cholesterolContent": "42 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "18 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "541 mg"
+,"sugarContent": "5 g"
+,"fatContent": "8 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT25M"
+,"recipeIngredient": [
+"5 tablespoons reduced-sodium soy sauce",
+"2 tablespoons rice wine vinegar",
+"1 tablespoon cornstarch",
+"2 tablespoons sesame oil, divided",
+"1 (1 pound) pork tenderloin, cut into strips",
+"1 fresh red chile pepper, chopped",
+"2 cloves garlic, minced",
+"1 onion, chopped",
+"1 green bell pepper, chopped",
+"1 head bok choy, leaves and stalks separated, chopped",
+"2 crowns broccoli, chopped",
+"1 teaspoon ground ginger" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Whisk soy sauce, vinegar, and cornstarch together in a small bowl; set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat 1 tablespoon sesame oil in a wok over medium-high heat. Cook and stir tenderloin strips in hot oil until just browned, 2 to 4 minutes. Transfer pork to a plate and return the wok to heat."
+} ,{
+"@type": "HowToStep"
+,"text": "Add remaining sesame oil to the wok; cook and stir red chile pepper and garlic in hot oil until sizzling, 15 to 30 seconds. Add onion and bell pepper; cook and stir until onion starts to soften, 2 to 3 minutes. Stir chopped bok choy stalks into onion mixture; cook and stir until stems begin to soften, about 3 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Add broccoli to the wok; cook and stir until slightly softened, about 2 minutes. Add pork, chopped bok choy leaves, and soy sauce mixture; cook and stir until well-combined. Season pork mixture with ginger; cook and stir until bok choy leaves start to wilt and broccoli is tender, 5 to 7 minutes."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT40M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Easy to prepare and it was a big hit with my family."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Was good I also added bout a half a cup of chicken stock and used 2 chillies … could have used a little more ginger 🤙🏼"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Miss Teri"
+},
+"reviewBody": "Easy to follow and super yummy. The sauce is perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "DaleS"
+},
+"reviewBody": "Substituted snow peas for the green bell pepper (wife doesn't tolerate bell peppers). Omitted chile pepper - but could use \"hot\" sesame oil instead. Will increase amount of sauce next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Phil C Boston"
+},
+"reviewBody": "Very quick and easy to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Marcia"
+},
+"reviewBody": "While it was good, we thought it was kind of bland. The combination of veggies and pork was nice, making it a good starting point, but It definitely needs some additional flavor to make it a really good recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sharon"
+},
+"reviewBody": "Easy and tasty for someone who does little stir frying. Will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LIZ"
+},
+"reviewBody": "We added cauliflower, celery, red, yellow &amp; orange peppers as well as mushrooms."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "1momlady"
+},
+"reviewBody": "Absolutely delicious! I used a red bell pepper instead of green, as a red was in the picture and I thought it would go better with the ingredients, and it did. I didn't have a hot red pepper so I just sprinkled some red pepper flakes in when the ingredient was called for and it worked fine. Those were the only changes I made and it's definitely a keeper. Served over brown rice which made it a heartier meal, have plenty of leftovers."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pugtracker"
+},
+"reviewBody": "I had leftover pork roast and lots of vegetables so I made this for dinner. It was delicious and loved the thick soy sauce. My husband loved it. I definitely will make again. Thank you."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "donbond"
+},
+"reviewBody": "1. WAY WAY too much soya sauce - my recommendation is to cut back to 2.5 tablespoons and then add 1.5 tablespoon of oyster sauce. A stir fry without oyster sauce ...is simply not Asian! \n2. Up the ginger to a tablespoon! You can’t go wrong with more ginger. \n3. Add shallots...also a key part of Asian cooking"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Myhusbandsfavoritecook"
+},
+"reviewBody": "This was easy and tasty. Will definitely do again. I scaled back meat and sauce to half (only two people eating) and did the vegetables I had in my fridge: garlic, celery, onion, yellow pepper, carrots, broccoli and mushrooms...probably about 4 cups chopped total volume."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "BTRFLYFL4"
+},
+"reviewBody": "I used an orange bell pepper, red and Vidalia onion, a little bit of purple cabbage finely cut, and I couldn’t find fresh red pepper at either grocery store I went to, so some Gourmet Garden red pepper “paste.”\nMy family really liked it, but we decided we might add cashews and pineapple next time!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Josh Pratt"
+},
+"reviewBody": "It was very yummy and satisfying!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "maw"
+},
+"reviewBody": "I changed the vegetables to using bag of frozen blend of vegetables. Add few mushrooms. Turned out great ."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lace Secret"
+},
+"reviewBody": "This has become a household delight - I've made it twice now, and oh is it tasty! It's equally tasty made with regular low-sodium soy sauce, and tamari soy sauce (the tamari kind is a little less intensely bitter, and has a delightful taste). The steps were easy to follow, and we're all looking forward to when I make it again - even the one person in the house who doesn't like peppers!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer"
+},
+"reviewBody": "One of the best stir frys I have ever made. I did use a red bell pepper instead of the green bell pepper. I can't wait to try this out with beef, and then I will try chicken. Whoke family loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Edeltraud Fedder"
+},
+"reviewBody": "Good recipe. Made enough for 6 servings"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cathy"
+},
+"reviewBody": "My husband and I really enjoyed this. I added 1/2 cup chicken broth"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Asuna M"
+},
+"reviewBody": "Me and my husband loved this! Only thing different I did was only used 3 tbps of soy sauce since I only had regular soy not low sodium."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Trinity Angle"
+},
+"reviewBody": "Made this for my family and they really enjoyed it. I made some changes though.. just because of the things I had. I cooked fresh garlic,butter,onions, and shrimp together in the pan until the shrimp was cooked through. Then I scooped out the shrimp so it didn’t over cook and threw carrots, green beans, and cauliflower in the buttery garlic goodness and let them cooked all together for like 20 minutes. Then I cooked sticky rice in another pan. (Which is super easy.) And our the soy sauce and white rice vinegar in the vegetable mix. It went great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Myriam Hughes"
+},
+"reviewBody": "Very good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KatManc"
+},
+"reviewBody": "Very easy, I did add a 1/2 cup of chicken stock at the end, in addition to the soy sauce mixture. We like our stir fry with a little more sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "GoBears!"
+},
+"reviewBody": "Great flavor!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chef Maurice"
+},
+"reviewBody": "A nice authentic flavor. The kids really enjoyed it! Easy to spice it up if desired."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Greg"
+},
+"reviewBody": "Used low sodium soy sauce. Baby bok choy. Water chestnuts and bean sprouts. Was delicious. I would add the broccoli next time or double the bok choy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lily Wolwyn Scott"
+},
+"reviewBody": "Added schriacha sauce and skipped the bok choy since I didn’t have any. Served over rice .perfect. I will make this again !"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Princessa5981"
+},
+"reviewBody": "I didn't have bok choy so used kale instead and it worked well. I found there was not enough sauce for our liking so I doubled the sauce and it was good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marcher"
+},
+"reviewBody": "Used Swiss chard in place of book Chou, easy, healthy and yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Peter Craig Tidy"
+},
+"reviewBody": "Too involved...too many unnecessary instructions...won't use this recipe again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Chuck Stoffa"
+},
+"reviewBody": "Little too sweet."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cris R"
+},
+"reviewBody": "Restaurant quality ;-) Delish!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Jenny Callicott"
+},
+"reviewBody": "I had all the ingredients on hand, so followed the recipe exactly. However I found the sauce to lack some zip... too salty. Finally just doused it with some Sriracha! Also note, this doesn't work as a left over as all the veggies get soggy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Alasdair Geddes"
+},
+"reviewBody": "This recipe will burn when put the broccoli in at the end. I ended up with raw broccoli and burnt carrots. Put the broccoli in before the pork or earlier. Another option would be to cook the broccoli before you add it to the pan.\nAlso note that this will make A LOT of food and could easily feed 5-6 people if you put it with rice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "JaniceT"
+},
+"reviewBody": "I didn't have bok choy and used carrots in this recipe. It still worked well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Debbie Milford"
+},
+"reviewBody": "I used a bag of frozen asian vegetables instead of broccoli. Used napa cabbage instead of bok choy and skipped the chili pepper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Glen Charles Pritchard"
+},
+"reviewBody": "I like salty food, so I enoyed the recipe as is. The one thing I'd say is there was a lot of sauce and the dish could have used rice to soak some of it up."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "mauigirl"
+},
+"reviewBody": "This stir fry came together quickly. We just did not care for the sauce so I would add a couple teaspoons of sugar to cut the salty sour flavor and a tablespoon of freshly grated ginger root and a tespoon of sambal to add some zest to the flavor."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/241091/pork-stir-fry/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/86/world-cuisine/",
+"name": "Cuisine"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/227/world-cuisine/asian/",
+"name": "Asian"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/241091/pork-stir-fry/",
+"name": "Pork Stir Fry"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

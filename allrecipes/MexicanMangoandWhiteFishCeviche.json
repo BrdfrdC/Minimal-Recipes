@@ -1,0 +1,224 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Mexican Mango and White Fish Ceviche"
+,"datePublished": "2020-04-15T00:31:29.000-04:00"
+,"dateModified": "2020-04-15T00:31:29.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "gem"
+,"url": "https://www.allrecipes.com/cook/crema"
+}
+]
+,"description": "Fresh and delicious, this Mexican ceviche with white fish and mango will add punch to your next party. It&#39;s an easy no-cook, make-ahead starter or nibble!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/RVB9o6wuW1oZziqTa_Da0bT9EC4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5287787-f822e31b50d244b4bbf387824a52ea7a.jpg",
+"height": 960,
+"width": 960
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=6148155742001",
+"description": "Learn how to make Mexican ceviche with mango and white fish.",
+"duration": "PT1M33S",
+"name": "Mexican Mango and White Fish Ceviche",
+"thumbnailUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/56c820a0-1bf4-4cda-ac77-961c06fce792/75ca34bf-3564-45c8-92e6-b2cb1ab2665d/1280x720/match/image.jpg",
+"uploadDate": "2020-10-21T04:37:04.770-04:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Mexican Mango and White Fish Ceviche"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.2",
+"ratingCount": "6"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "148 kcal"
+,"carbohydrateContent": "10 g"
+,"cholesterolContent": "45 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "15 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "57 mg"
+,"sugarContent": "6 g"
+,"fatContent": "6 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"2 pounds white fish, cut into small cubes",
+"4 limes, juiced",
+"0.5 orange, juiced",
+"1 tablespoon olive oil",
+"1 green chile pepper, chopped",
+"2 mangoes, cut into cubes",
+"5 green onions, chopped",
+"3 tomatoes, seeded and chopped",
+"0.5 cup chopped fresh cilantro",
+"salt and ground black pepper to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine white fish, lime juice, orange juice, oil, and chile pepper in a glass or ceramic bowl. Cover with plastic wrap and refrigerate for 90 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix in mangoes and green onions, cover, and chill for 10 minutes more."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/RVB9o6wuW1oZziqTa_Da0bT9EC4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5287787-f822e31b50d244b4bbf387824a52ea7a.jpg"
+}
+]
+,"text": "Gently fold in tomatoes and cilantro. Season with salt and pepper and serve immediately."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT115M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Aretha Okeke"
+},
+"reviewBody": "I wish the quantity for each ingredient was more detailed. I would have liked it if it was explained whether I should cook the fish or not."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jeni Mellinger"
+},
+"reviewBody": "I made this pretty much as the recipe called for I cut it almost in half and still ended up with a lot! It was fabulous! Sweet, refreshing wonderful! The cilantro what is especially nice. I recommend adding the avocado when you serve it. Good luck."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "David"
+},
+"reviewBody": "Delicious! I added a teaspoon of sugar, just to cut the acidity. It was a real hit in our house, and we will be making it again soon!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Carol Frank"
+},
+"reviewBody": "I haven't actually made this yet but as I watched the video, I couldn't help but question why you would call a serrano pepper a jalapeño and use an avocado that was so turning bad. I have always found your recipes to be very good ... and this may be as well. As someone who loves to cook and worked for many years in marketing and advertising on many a restaurant client ... the food stylist, art director and client should all have known better. I don't make a habit of commenting but this just cried out for one."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brandi"
+},
+"reviewBody": "Easy and delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rich Upshaw"
+},
+"reviewBody": "This was a great recipe. Maybe a little too much mango and the sweetness overpowered the fish a bit but this is probably because the mangos are so big here. I added cucumbers to it as well. I think avocados at the end might be a good addition. Very well done!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/263627/mexican-mango-and-white-fish-ceviche/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/108/appetizers-and-snacks/seafood/",
+"name": "Seafood"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/15133/appetizers-and-snacks/seafood/ceviche/",
+"name": "Ceviche Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/263627/mexican-mango-and-white-fish-ceviche/",
+"name": "Mexican Mango and White Fish Ceviche"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

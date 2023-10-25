@@ -1,0 +1,173 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Cowboy Candy (Candied Jalapenos)"
+,"datePublished": "2022-09-08T18:00:17.000-04:00"
+,"dateModified": "2022-09-08T18:00:17.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "France C"
+,"url": "https://www.allrecipes.com/cook/francecevallos"
+}
+]
+,"description": "Fresh jalapenos are simmered with brown sugar and spices to create cowboy candy."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/90lQiil3ukyGMhnb5dCXw1WbwcI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1662418998IMG_3303202-2000-e0df7cd75e6745969863d3d9047ae34e.jpg",
+"height": 1000,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Cowboy Candy (Candied Jalapenos)"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "3"
+}
+,"cookTime": "PT18M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "69 kcal"
+,"carbohydrateContent": "17 g"
+,"fiberContent": "1 g"
+,"proteinContent": "0 g"
+,"sodiumContent": "26 mg"
+,"fatContent": "0 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1 pound jalapeno peppers, sliced into 1/4-inch pieces",
+"1.75 cups brown sugar",
+"0.75 cup apple cider vinegar",
+"0.5 teaspoon garlic powder",
+"0.5 teaspoon celery seed",
+"0.5 teaspoon ground turmeric",
+"0.25 teaspoon cumin seed",
+"0.25 teaspoon anise seed",
+"0.25 teaspoon salt",
+"0.25 teaspoon red pepper flakes",
+"1 pint-size canning jar" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "While wearing gloves, rinse jalapenos and remove stem. Cut into 1/4-inch slices and set aside. To reduce the heat from the peppers, you may core out the centers with the seeds and discard before slicing."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine brown sugar and apple cider vinegar in a saucepan over medium heat. Add garlic powder, celery seed, turmeric, cumin seed, anise seed, salt and red pepper flakes. Bring to a simmer for 3 minutes. Add sliced jalapeno peppers and simmer for an additional 4 to 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove jalapenos to a jar using a slotted spoon. Continue simmering liquid over medium-low heat until slightly thickened, about 10 minutes more."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour liquid over the jalapenos and let cool. Use a strainer to remove excess seeds from the liquid, if desired. Refrigerate for a minimum of 3 days before eating. Store in the refrigerator for up to 3 months."
+} ]
+,"recipeYield": ["24"]
+,"totalTime": "PT4358M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kahedi4"
+},
+"reviewBody": "My family and I absolutely loved this recipe. It was sweet not to hot. I removed a lot of the seeds. This lasted a while. I put it on pizza or I drizzled some of the syrup on pasta OMG! I'm getting ready to make another batch thank you for posting this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joe Brennan"
+},
+"reviewBody": "Love IT!!! Not really spicy just a hint really. But a wonderful sweet treat, I put it on pretty much anything. From Burgers to Ice Cream."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I left out the celery seed and anise as I don't like the flavor of either. My wife and I have already eaten 1 jar. We tried these with salmon and were eating them right out of the jar. These are also great with hamburgers. Don't throw out the liquid when you have eaten all of them out of the jar you can reheat it and add more peppers."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8468498/cowboy-candy-candied-jalapenos/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16968/fruits-and-vegetables/vegetables/chile-peppers/",
+"name": "Chile Peppers"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/2275/fruits-and-vegetables/vegetables/chile-peppers/jalapeno/",
+"name": "Jalapeno"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8468498/cowboy-candy-candied-jalapenos/",
+"name": "Cowboy Candy (Candied Jalapenos)"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

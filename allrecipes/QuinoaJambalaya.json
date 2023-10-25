@@ -1,0 +1,776 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Quinoa Jambalaya"
+,"datePublished": "2014-09-19T17:38:54.000-04:00"
+,"dateModified": "2023-02-26T15:22:11.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Jessica Collin"
+,"url": "https://www.allrecipes.com/cook/3617256"
+}
+]
+,"description": "Quinoa jambalaya with kielbasa, sweet peppers, sweet onion, and plenty of spice is a hearty, gluten-free meal."
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Quinoa Jambalaya"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "59"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "420 kcal"
+,"carbohydrateContent": "26 g"
+,"cholesterolContent": "56 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "15 g"
+,"saturatedFatContent": "12 g"
+,"sodiumContent": "1091 mg"
+,"sugarContent": "4 g"
+,"fatContent": "28 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 tablespoon vegetable oil, or as needed",
+"1 pound kielbasa (Polish) sausage, halved lengthwise and sliced",
+"0.5 sweet onion (such as Vidalia®), diced",
+"6 miniature multi-colored sweet peppers, diced",
+"1 teaspoon dried oregano",
+"1 teaspoon dried thyme",
+"0.5 teaspoon cayenne pepper",
+"0.25 teaspoon celery salt",
+"1 pinch red pepper flakes",
+"1 cup quinoa",
+"2 cups chicken broth",
+"0.5 cup marinara sauce" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat oil in a large skillet over medium heat; cook and stir sausage until browned, about 5 minutes. Add onion to sausage; cook and stir until slightly browned, about 5 minutes. Stir sweet pepper, oregano, thyme, cayenne pepper, celery salt, and red pepper flakes into sausage mixture; cook and stir until fragrant, 1 to 2 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix quinoa into sausage mixture; cook and stir until quinoa is slightly toasted, about 1 minute. Pour broth and marinara sauce over quinoa mixture. Cover skillet and simmer until quinoa is tender, about 15 minutes."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT40M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Easy to make and very tasty. I added more seasonings like, Slap Ya Momma cajun seasoning, garlic powder, seasoned salt instead of celery salt, and Old Bay seasoning. I subbed poblano peppers and added diced tomatoes. It turned out great 😋"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Melnal"
+},
+"reviewBody": "I made it and loved it. I got peel-on shrimp that had been deveined. Next time I’ll get the deveined and PEELED shrimp, with tail on. That will make it easier to eat. Lovely flavors and great way to use quinoa!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "npiper"
+},
+"reviewBody": "I made this, it was so good. Don't expect traditional jambalaya, but this is a great dish. I added 1 stalk of celery and added it when I added the onion. I also added 1 can of diced tomatoes (rotels)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brandy Straziscar"
+},
+"reviewBody": "We added chicken and had it with gluten free biscuit. It was delicious. Will totally add to our repeat list."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Steven Henry"
+},
+"reviewBody": "Awesome! Made with sausage and shrimp. Used fresh green and red bell peppers. I also used two celery stalks."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ni2018"
+},
+"reviewBody": "Delicious dish. I switched it up a bit - used 1/2 turkey kielbasa, 1/2 shrimp (cooked them first in oil and then removed); regular bell pepper instead of sweet peppers; an entire bag of mixed frozen veggies (corn, peas, carrots, beans); 2 handfuls of spinach; 3 cloves of garlic. Also added 2 tsp of chili garlic sauce at the end because after adding in all the other ingredients, still seemed like something was missing and it was a little more heat. One thing I will do differently next time is to add less chicken broth- the quinoa I used called for 1 and 1/4 cup of water to make 1 cup of quinoa. The 2 cups of broth were too much and I had to spend a lot of extra time reducing the liquid. Seems like might be a better idea to follow liquid quantity closer to the amount needed for the quinoa. Will definitely make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "RayB"
+},
+"reviewBody": "Great recipe, I like adding shrimp too!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Moki Desiree"
+},
+"reviewBody": "made as written. way too salty. wanted to love it. will not make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jessiby"
+},
+"reviewBody": "Very yummy! I added celery, cooking the veggies first then browning the sausage. I also added a little paprika to the spice mix. It was easy and delicious. The next day we had the leftovers for lunch and a meal I thought was delicious was even better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "blackmda"
+},
+"reviewBody": "This is a great base for jambalaya! You can take it in so many directions. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "fitfamb"
+},
+"reviewBody": "You must add shrimp, so tasty"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "banaman"
+},
+"reviewBody": "I used diced tomatoes and added chicken. The family really liked it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nathan Ellsworth"
+},
+"reviewBody": "Easy and delicious! Next time I’m going to cook some shrimp with it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stephanie Howe"
+},
+"reviewBody": "Easy recipe! I used Field Roast Chipotle Mexican veggie sausage and also added a couple stalks of celery. Tasted super yummy and I'm definitely going to use this recipe again the future!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Supergrl9119"
+},
+"reviewBody": "My family loves this dish! Even my three young ones who are normally picky eaters. I don't put in the spicy because my kids are not fans of hot, but I also add shrimp and it is AMAZING!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "chefzuko"
+},
+"reviewBody": "I made this recipe in a sauce pan, and added shrimp. Let it boil for around 20 minutes, and it turned out great! I’m pretty much a wimp when it comes to spicy, so I substituted Cajun seasoning, and halved it so it has flavor, but it’s not overwhelming. I’m so happy I found this recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "amcnally"
+},
+"reviewBody": "This was better than I expected while I was making it. The flavors worked well together and the quinoa complimented everything else nicely. I added chicken and shrimp and my kids ate it but weren't thrilled like some other recipes I've made from here"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "naumom57"
+},
+"reviewBody": "This meal was inedible. Not a good mixture. Truly tasted like kielbasa and individual ingredients. Nothing melded together. Waste of time and food for us. :-("
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Oberhausen"
+},
+"reviewBody": "Really tasty! I made it with half boneless skinless chicken thights and half kielbasa."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "JasmineG"
+},
+"reviewBody": "It was good, but a little lacking in flavor. I used three small turkey breakfast sausage to have less meat and then at the end added 1 cup of cream of mushroom soup to make it more creamy and then added rice and chicken broth for more starchy substance."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "NMurdy"
+},
+"reviewBody": "This is the first meal I have ever made that I couldn't eat. Not just that, I threw out the left overs... I can't even think of a way to make this better without getting rid of core ingredients."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KJSKJG212"
+},
+"reviewBody": "This came out fabulous! I added 1 lb precooked thawed medium shrimp at the end coz we love shrimp in our jambalaya! Husband loved it also. I usually make it with rice, but we've been trying to eat healthier, and this did not disappoint. I didn't want to open a jar of marina for the small amount this recipe called for, so I just used approx 1 cup chopped tomatoes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "chicken260"
+},
+"reviewBody": "This one's a bit hard to rate. Taste is 5 stars, but anything with this high a sausage-to-other-stuff ratio has to be good. I felt like I was eating a bowl of cut up sausage flavored with onions, peppers, and quinoa. \n\nThe title of the recipe is completely misleading, tho. This does not taste anything like jambalaya, whether zatarain's or authentic. So I'd rate it maybe 2 stars, as jambalaya. \n\nIt's easy to cook... I'd recommend trying it, but don't expect jambalaya."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jenifer"
+},
+"reviewBody": "Easy and very tasty. I used a smoked chicken kielbasa and added celery, a red pepper, and some chopped spinach."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "adles9"
+},
+"reviewBody": "This is an excellent replacement for regular jambalaya! I used turkey sausage and added shrimp in with the quinoa, but made the rest of the recipe as is. My husband and I both loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jhorner"
+},
+"reviewBody": "Excellent recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MMHASTY"
+},
+"reviewBody": "This is one of my family's favorite recipes. Even my picky kids eat it. I use an 8oz can of tomato sauce instead of marinara, simply because that is what I always have on hand. I skip the red pepper flakes (for the sake of the picky kids) but the dish still has a nice kick without them. I use kielbasa and chicken for the meats. I usually put in a stalk of real celery instead of the celery salt. I have made this with various different sweet or bell peppers that I had in my freezer and it has always turned out just as tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "MoeJ"
+},
+"reviewBody": "We enjoyed this very much. The leftovers were particularly tasty. I used diced tomatoes instead of marinara sauce and a red and a green pepper. Will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "pafalcone"
+},
+"reviewBody": "Made this for dinner with the added shrimp and it was super delicious! It is also very easy. When I make it again I will not break up the sausage into such small pieces but that's just me. Kids didn't love it but I didn't expect them to be fans. Great quinoa recipe with stuff I had on hand! Thank you"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tonya"
+},
+"reviewBody": "I am a huge fan of quinoa and am always looking for new recipes. The simplicity of this recipe really makes it a keeper. Super simple, super tasty meal in 30 minutes. I used kielbasa and chicken breast with a can of diced tomatoes instead marinara."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "colaboy"
+},
+"reviewBody": "This was really good! And you can easily add or substitute your favorite jambalaya ingredients if you like."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kristen Wainscott"
+},
+"reviewBody": "Delicious and you don't need to change a thing!! I added some leftover roasted chicken, but I wouldn't do a thing to change the flavor. I may add some shrimp next time if it's in the budget."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shan"
+},
+"reviewBody": "Excellent! I added shrimp and load of veggies (carrots, celery, zucchini, red and green peppers) to make it a healthier, complete meal. Very filling and tasty. I added a jalapeño pepper as well but left out the peppers so it wouldn't be too hot. I will definitely make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "eva"
+},
+"reviewBody": "Yes I'll make it again. It was good even without peppers &amp; hot spices. I'll sub for Zatarans next time. Also, I'll use frozen onion and peppers so I can have most things in the pantry. The kielbasa will freeze too. Great for camping."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rachel Holmes"
+},
+"reviewBody": "Delicious! Always looking for something different to do with quinoa. I used a can of diced tomatoes instead of marinara sauce, so it need to cool for about 10 minutes longer but it was well worth it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Megan"
+},
+"reviewBody": "This was delicious. I added shrimp and used chicken sausage. I used 3 fresh tomatoes instead of marinara sauce and two pinches of pepper flakes. Otherwise, I made it as the recipe states. It was spicy and delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Windi osborne"
+},
+"reviewBody": "I love love love this recipe. I used tomato sauce and stewed tomatoes instead of marinara sauce but it came out perfect I'll definitely be making this again my family loved it. Perfect health meal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Eman"
+},
+"reviewBody": "Great recipe; enjoyed by the entire family! I included shrimp as others suggested, and I sautéed the onions for a few minutes before the sausage, which allowed them to \"caramelize\" slightly and give the dish a bit more flavor. Other than that I followed this recipe verbatim and will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "B Powell"
+},
+"reviewBody": "This is an awesome dish. I did add small shrimp to cook with the quinoa. The recipe was a hit at work with the guys. Definitely a keeper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "annielizabeth"
+},
+"reviewBody": "This was so yummy! I used half the amount of cayenne pepper and used chicken andouille sausage. I also cooked the peppers with the onion and sausage and used a chunky garlic and pepper marinara for extra flavor. I was having difficulty getting the quinoa to absorb the broth and fluff up, so I brought it up to a boil and cooked it at medium high for 15 minutes instead of on low/simmer. I will definitely make this again, thanks for the great recipe :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jphales"
+},
+"reviewBody": "I made this using chicken and turkey smoked sausage. It was delicious. The rating is based on the recipe as noted, but I've also done this without the quinoa since that is not a favorite food for some in this house. I make it as is, but without adding the quinoa. Then I make yellow rice separately and just spoon the jambalaya over the rice. Also good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kyle Nelson"
+},
+"reviewBody": "Made recipe as-is, and will make it again. Very tasty, maybe a little too salty, but no other issues."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jana Zandi"
+},
+"reviewBody": "Easy and delicious!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "thenabutta"
+},
+"reviewBody": "I made this the night before last it was great it was a really big hit. I deviated from the recipe just a little I used heat and serve quinoa and I used beef bullion stocks cubes. I also used crushed canned tomatoes and paprika to keep it on the mild side"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "beaner890"
+},
+"reviewBody": "I thought this was great. It was easy and delicious. I used celery in addition to the onion and peppers. I was hesitant to add marinara, but went ahead and added it anyway. It was great. A bit too spicy for my kids, but my husband wolfed it down! We will be making it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kardoli"
+},
+"reviewBody": "Half the oil, half the quinoa. Added mushrooms and broccoli. Different recipe will make again. Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DIZ&#9829;"
+},
+"reviewBody": "Thank You, Jessica Collin, for getting me to like quinoa! Can’t tell you how many quinoa recipes I’ve tried, but this one did the trick. I took the suggestions under the “cook’s notes,” and added shrimp, chicken, and a few other veggies. I started by sautéing andouille sausage which is my preference in Cajun recipes. Then I added the shrimp, cooked until almost done and removed everything from the pan. Then I cooked the chicken in the same pan and removed. I added a tad more oil and sautéed the veggies with the seasonings. I went with a true trinity: onions, peppers, and celery. I didn’t have any marinara so I tossed in a couple of chopped fresh tomatoes. My jambalaya loving husband requested seconds! Quinoa might just be the new norm with this classic dish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sunshine"
+},
+"reviewBody": "This was very tasty! I added cubed chicken breast because I had to use it up. Came out great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Bryanne419"
+},
+"reviewBody": "Good! Varied it slightly to taste. More red pepper flakes, and spices."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Rock_lobster"
+},
+"reviewBody": "Quinoa Jambalaya Haiku: \"I thought this was great. (Husband, daughter, not so much. I'd still make again!\" I did everything as instructed; however, I had a bunch of Costco's frozen quinoa/kale blend, so I mixed that into the jambalaya near the end b4 serving. (Since I had to zap it 1st, I reduced the chicken broth to 1/2 c. knowing that I wouldn't need the liquid.) Kielbasa always adds such great flavor to anything it's prepared w/ and I adore quinoa, so I was delighted w/ this entree, but my husband and daughter prefer the texture of rice in jambalaya to that of quinoa I suppose!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/239445/quinoa-jambalaya/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/183/soups-stews-and-chili/stews/",
+"name": "Stews"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1428/soups-stews-and-chili/stews/jambalaya/",
+"name": "Jambalaya Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/239445/quinoa-jambalaya/",
+"name": "Quinoa Jambalaya"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

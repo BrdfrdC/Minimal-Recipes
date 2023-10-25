@@ -1,0 +1,378 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Highway Cafe Chess Pie"
+,"datePublished": "2020-06-18T23:10:52.000-04:00"
+,"dateModified": "2020-06-18T23:10:52.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "TopDog"
+,"url": "https://www.allrecipes.com/cook/888073"
+}
+]
+,"description": "I obtained this recipe 40-years ago from the cook at the Highway Cafe in Scappoose, Oregon. I have never found its equal. Whenever I serve it, I am always asked for the recipe."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/aWqrOW74WCJnYt7_5rk5YdmPeK8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/372257-7417d6f6e16f496ab2075aeecb47dccb.jpg",
+"height": 250,
+"width": 250
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Highway Cafe Chess Pie"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "24"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "498 kcal"
+,"carbohydrateContent": "56 g"
+,"cholesterolContent": "103 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "7 g"
+,"saturatedFatContent": "11 g"
+,"sodiumContent": "217 mg"
+,"sugarContent": "42 g"
+,"fatContent": "30 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1.25 cups raisins",
+"1 cup white sugar",
+"0.5 cup butter",
+"3 eggs",
+"1 teaspoon vanilla extract",
+"0.25 cup sour cream",
+"1 cup chopped walnuts",
+"1 (9 inch) pie crust, baked and cooled" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 325 degrees F (165 degrees C). Soak raisins in boiling water for 10 minutes. Drain, and chop."
+} ,{
+"@type": "HowToStep"
+,"text": "In a medium bowl, cream together the sugar and butter until light and fluffy. Beat in the eggs one at a time, mixing well after each one. Stir in the vanilla, sour cream, walnuts and chopped raisins. Pour into the baked pie shell."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake for 30 minutes in the preheated oven, or until firm in the center. Allow to cool completely before slicing."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT40M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mschalock"
+},
+"reviewBody": "I LOVE this pie recipe. It is always requested at holiday dinners. I have made it too many times to count."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Judy Hagans"
+},
+"reviewBody": "I used White raisins &amp; dried cranberries, a little nutmeg in place of the nuts. love this pie!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "JoAnn Cambareri"
+},
+"reviewBody": "I gave this 4 Stars only because I rarely (if ever) rate any recipe a \"5\". That notwithstanding, this is a wonderful recipe. I made 2 of this pie for the 1st time today -- one for my family to \"test\", the other to bring to tomorrow's Thanksgiving gathering. So far? RAVES! (For whatever reason, my pies don't look all that much like the pics. At the same time, with 6 RAVES already on the scoreboard, I'm not going to ask any questions, lol)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Olivia Foxfire"
+},
+"reviewBody": "This was okay. Not the best I have ever had. I did have to bake closer to an hour and made without raisins and walnuts. It had a great texture and set perfectly for me."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "WindyCityGolfNut"
+},
+"reviewBody": "Used Brown Sugar, and mixed golden and 'regular' raisins. GREAT!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Delana"
+},
+"reviewBody": "Just like I remember my Aunt Marie's Chess Pie except she topped it with meringue. One of my childhood favorites and now I can enjoy it as an adult!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "SHARONLF"
+},
+"reviewBody": "Maybe it's just a matter of taste but I found this pie much too sweet. After the first couple of bites I just couldn't eat any more. I followed the directions exactly except for omitting the walnuts."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "harland"
+},
+"reviewBody": "i used golden raisons and no nuts, i used cane sugar [plenty sweet]. i cut the pie in half and was going to give to my apartment neighbors...but i never delivered it...it got better and better and i ate the whole thing. this is my first chess pie...the door is open. thank you."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SARAHWHITNEY"
+},
+"reviewBody": "It really makes a great dessert. One I will make often. I love it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LadySparkle"
+},
+"reviewBody": "Delicious! I used more raisins, because there was only alittle bit left in the bag, and brown sugar instead of white (my preference). Will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "happycooker"
+},
+"reviewBody": "Man, this pie is great! It is so creamy. It does not last long. Deserves the extra effort of a home-made pie crust."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "claudia"
+},
+"reviewBody": "Delicious! Came out perfect. The only thing I did different was soak the raisins in water and rum. Yum! I also let it sit in the over until it cooled. Will definitely make this again. Thanks for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "joe"
+},
+"reviewBody": "Magnifficent,spectacular,i have found nervana! This recipe is better than any pecan, or chess i have ever had. All other pies will never be the same. It is very addictive, and may be dangerous if there isn`t enough to go around."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cuckoo"
+},
+"reviewBody": "This is an excellent pie. All our family thought it was the best ever and some preferred it to pecan because it was not quite so sweet."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mcmeg12"
+},
+"reviewBody": "Easy to follow. Got rave reviews from my Finnish inlaws. I used only one cup of raisins and half cup of walnuts (all I had), and boiled water to just pour over the bowl of raisins, rather than actively boiling the raisins. Worked great. Served with vanilla sauce, but next time I might serve with vanilla ice cream or caramel sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "NOLLEEZ"
+},
+"reviewBody": "This pie is divine! If you like rich desserts, this is one to try. I omitted the walnuts as my boyfriend doesn't like them (I will make one with nuts for this Christmas though lol) and it was still great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "MOMZRIGHT"
+},
+"reviewBody": "Very very rich pie. I liked it but was the only one for our Christmas dinner."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Oldtrucks"
+},
+"reviewBody": "Very pleased. I used Chopped Pecans in place of the Walnuts, and Splenda Baking Sugar in place of regular sugar, turned out great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Great Pie. I love chess pies so I thought I would try this one. I'm not a big fan of raisins so I just put in the nuts. I was worried it might not taste that great but it was wonderful. Everyone loved it. My mom even asked how to make it. This is not as sweet as a chess pie and I like it that way. My mom and I cut the sugar when making one anyway."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/72520/highway-cafe-chess-pie/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/283/desserts/pies/vintage-pies/",
+"name": "Vintage Pie Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/12957/desserts/pies/vintage-pies/chess-pie/",
+"name": "Chess Pie Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/72520/highway-cafe-chess-pie/",
+"name": "Highway Cafe Chess Pie"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,201 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Veggie Samosas"
+,"datePublished": "2020-03-09T22:53:31.000-04:00"
+,"dateModified": "2020-03-09T22:53:31.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "DeVera"
+,"url": "https://www.allrecipes.com/cook/3689512"
+}
+]
+,"description": "These vegetarian samosas made with a simple homemade dough pack plenty of heat with their spicy potato and mixed vegetable filling."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/ZZBk163gkfqbFNVjz5BY7Z10obM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7543501-a7c6d49719244a9eb320fcfaf9c65a86.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Veggie Samosas"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "5"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "137 kcal"
+,"carbohydrateContent": "19 g"
+,"fiberContent": "2 g"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "130 mg"
+,"sugarContent": "1 g"
+,"fatContent": "6 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT50M"
+,"recipeIngredient": [
+"2 tablespoons vegetable oil",
+"0.5 cup diced onion",
+"2 teaspoons chopped garlic",
+"2 teaspoons curry powder",
+"1 teaspoon ground ginger",
+"1 teaspoon ground cumin",
+"0.5 teaspoon sea salt",
+"0.5 teaspoon red pepper flakes",
+"0.5 teaspoon ground coriander",
+"0.5 teaspoon cayenne pepper",
+"0.25 teaspoon celery seed",
+"0.25 teaspoon dried tarragon",
+"0.125 teaspoon ground cinnamon",
+"2 cups diced potatoes",
+"2 cups frozen mixed vegetables, diced",
+"2 cups vegetable broth",
+"2 cups all-purpose flour",
+"1 pinch salt",
+"2 tablespoons vegetable oil",
+"1 cup room-temperature water",
+"oil for frying" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat oil in a saute pan over medium heat. Add onion; cook for 1 minute. Add garlic, curry, ginger, cumin, salt, red pepper flakes, coriander, cayenne pepper, celery seed, tarragon, and cinnamon. Cook until fragrant, 1 to 2 minutes more. Add potatoes and mixed vegetables. Cook, stirring constantly, for 3 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour broth into the potato mixture. Reduce heat to medium-low. Cook, stirring occasionally, until potatoes are tender and broth is mostly absorbed, 12 to 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Place flour in a medium bowl. Make a well in the center; add salt, oil, and water, in that order. Mix into a stiff dough, roll into a ball, and wrap in plastic wrap. Set aside for 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Divide dough into 8 balls. Roll each ball into a 10-inch circle. Cut each circle in half, moisten the edges, and shape each half into a cone around your finger. Fill dough with 1 to 2 tablespoons of the vegetable mixture. Pinch edges shut."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat oil in a large saucepan or deep-fryer. Deep-fry samosas in batches until lightly browned, 2 to 3 minutes. Serve hot."
+} ]
+,"recipeYield": ["16"]
+,"totalTime": "PT100M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "MissVicki Speakman"
+},
+"reviewBody": "I added one cup of finely diced chicken. Veg was celery, carrot, and peas.\nWhen ready, I put the whole thing in a deep dish pie shell instead of smaller samosas. Baked at 400 for 40 minutes. Spicy and delish!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rachel Eldridge"
+},
+"reviewBody": "I baked mine in the oven instead of frying them. Very yummy either way."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "scrooge"
+},
+"reviewBody": "turned out good but time consuming. Will make them again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Irene Lee"
+},
+"reviewBody": "It’s an amazing recipe! I made 32 altogether and my guests were very impressed. We ate half of them and froze the other half."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/267714/veggie-samosas/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/76/appetizers-and-snacks/",
+"name": "Appetizers and Snacks"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/113/appetizers-and-snacks/pastries/",
+"name": "Pastries"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/267714/veggie-samosas/",
+"name": "Veggie Samosas"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

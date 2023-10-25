@@ -1,0 +1,135 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Chicken Teriyaki and Noodles"
+,"datePublished": "2023-01-18T18:32:09.000-05:00"
+,"dateModified": "2023-01-18T18:32:09.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "thedailygourmet"
+,"url": "https://www.allrecipes.com/cook/thedailygourmet"
+}
+]
+,"description": "This quick chicken teriyaki and noodles dish is ready in 20 minutes."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/FsX8gF4XHbX_uLThh7tq5rH8bts=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/167391304745E7984B-2F85-4649-8B14-4A5844410E04-2000-939c43fffcd748b5ba9628095d050295.jpeg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Chicken Teriyaki and Noodles"
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "596 kcal"
+,"carbohydrateContent": "63 g"
+,"cholesterolContent": "63 mg"
+,"fiberContent": "6 g"
+,"proteinContent": "26 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "1406 mg"
+,"fatContent": "27 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 pound skinless, boneless chicken thighs, cut into bite-sized pieces",
+"0.5 teaspoon salt",
+"0.25 teaspoon freshly ground black pepper",
+"2 teaspoons sesame oil",
+"15 ounces wonton mein noodles (Canadian-style)",
+"4 cups frozen stir-fry vegetables, thawed",
+"0.33 cup low-sodium soy sauce",
+"0.25 cup mirin (Japanese sweet wine)",
+"0.25 cup sake (Japanese rice wine)",
+"2 tablespoons brown sugar",
+"5 cloves minced garlic",
+"1 teaspoon minced fresh ginger root",
+"1 pinch red pepper flakes" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Season chicken pieces with salt and pepper."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat sesame oil in a large skillet over medium-high heat. Add chicken pieces and cook, stirring, until chicken is browned, 3 to 5 minutes. Remove chicken to a plate and keep warm."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, bring a pot of water to a boil over high heat. Add noodles and vegetables and cook until noodles are softened, about 3 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine soy sauce, mirin, sake, brown sugar, garlic, ginger, and red pepper flakes in a bowl. Stir to combine and pour sauce into the skillet. Cook stirring frequently until sauce is thickened, about 3 minutes. Add chicken back into skillet with sauce."
+} ,{
+"@type": "HowToStep"
+,"text": "Drain noodles and vegetables and add to skillet. Stir to combine and serve"
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT20M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8529770/chicken-teriyaki-and-noodles/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16954/main-dish/chicken/",
+"name": "Chicken"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/15938/main-dish/chicken/chicken-teriyaki/",
+"name": "Chicken Teriyaki Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8529770/chicken-teriyaki-and-noodles/",
+"name": "Chicken Teriyaki and Noodles"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

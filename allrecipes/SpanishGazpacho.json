@@ -1,0 +1,260 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Spanish Gazpacho"
+,"datePublished": "2020-04-15T01:09:20.000-04:00"
+,"dateModified": "2022-08-22T14:43:13.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Luis Luna"
+}
+]
+,"description": "What&#39;s better on a hot summer&#39;s day than a classic chilled gazpacho? Serve this traditional Spanish gazpacho chilled in a glass or a bowl."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/wQbcOjbIeSUigMKCAHmnjBdi47s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5589803-a80da421e3cf4066a8c0274df31a0931.jpg",
+"height": 844,
+"width": 1500
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=6048468790001",
+"description": "Learn how to make traditional Spanish gazpacho!",
+"duration": "PT53S",
+"name": "Spanish Gazpacho",
+"thumbnailUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/ee563e2d-b9f9-4718-88f7-6e1b057696e1/a39c5a15-891b-4b80-9bad-dd2f62d6f54a/1280x720/match/image.jpg",
+"uploadDate": "2020-10-21T04:26:03.344-04:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Spanish Gazpacho"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "10"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "104 kcal"
+,"carbohydrateContent": "9 g"
+,"fiberContent": "2 g"
+,"proteinContent": "2 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "28 mg"
+,"sugarContent": "5 g"
+,"fatContent": "7 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"2 pounds tomatoes, peeled and halved",
+"1 cucumber, peeled and sliced",
+"1 green bell pepper, sliced",
+"0.5 onion, sliced",
+"1.5 tablespoons red wine vinegar",
+"1 clove garlic",
+"salt to taste",
+"0.25 cup extra-virgin olive oil",
+"0.25 cup cold water, or as needed",
+"0.5 onion, chopped",
+"1 green bell pepper, chopped",
+"1 cucumber, chopped" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine tomatoes, cucumber, bell pepper, onion, vinegar, garlic, and salt in the bowl of a food processor; pulse until blended. Pour olive oil in slowly, with the processor running, until gazpacho is smooth. Add small amounts of cold water as needed to achieve desired consistency."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/wQbcOjbIeSUigMKCAHmnjBdi47s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5589803-a80da421e3cf4066a8c0274df31a0931.jpg"
+}
+]
+,"text": "Serve gazpacho chilled with chopped onion, bell pepper, and cucumber sprinkled over each serving."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT20M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LizBiz"
+},
+"reviewBody": "I used tomato juice instead of fresh tomatoes. Delish!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Healywheelie"
+},
+"reviewBody": "The recipe calls for green bell pepper, but the video shows Anaheim or Cubanelle. It's a little sharp with the green bell- I wonder if it would have been better with the other kind of pepper? I'll keep experimenting. Thanks."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I wasn't sure I'd like this because I'm not a cold soup fan, but was pleasantly surprised! Delicious! My son loved it too, my husband not so much, although he didn't hate. He said the flavour was too strong and I think that all that raw onion and pepper (even though it was a smooth soup by the time it ended up in the bowls) had something to do with it for him."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TraciAnn And BB "
+},
+"reviewBody": "I made this for my lunch today. So light, fresh and delicious!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "grace mendoza"
+},
+"reviewBody": "Delicious! So easy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laura's Recipes"
+},
+"reviewBody": "Made half the recipe. But added pepper, and more coke onion, and red pepper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cpgodoy"
+},
+"reviewBody": "Perfect for a summer day, when you don't want to put the stove on. It was delicious and easy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "barbara"
+},
+"reviewBody": "loved it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lena"
+},
+"reviewBody": "perfect in this heat"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/266821/spanish-gazpacho/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/184/soups-stews-and-chili/soup/vegetable-soup/",
+"name": "Vegetable Soup Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/14731/soups-stews-and-chili/soup/vegetable-soup/tomato-soup/",
+"name": "Tomato Soup Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/266821/spanish-gazpacho/",
+"name": "Spanish Gazpacho"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

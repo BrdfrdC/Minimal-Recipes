@@ -1,0 +1,162 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Spicy Tuna Rolls"
+,"datePublished": "2020-05-13T02:33:11.000-04:00"
+,"dateModified": "2022-06-06T16:57:08.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "ChefJackie"
+,"url": "https://www.allrecipes.com/cook/chefjackief"
+}
+]
+,"description": "Even if you&#39;re new to sushi making, this recipe for fresh and spicy tuna rolls is easy to make at home."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/JWuQ51CGCsSHQ4AGiUFL3QqkLqY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7867009-7707e4609461471aaf76cd8ba07bc653.jpg",
+"height": 844,
+"width": 1500
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=6156133242001",
+"description": "Watch how to make spicy tuna roll at home!",
+"duration": "PT1M2S",
+"name": "Spicy Tuna Rolls",
+"thumbnailUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/e06c04f2-506c-47cf-baf3-5853a1c8734f/f8b0280e-6e20-4219-b511-dd032c53ddc7/1280x720/match/image.jpg",
+"uploadDate": "2020-10-21T04:42:45.627-04:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Spicy Tuna Rolls"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "1"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "344 kcal"
+,"carbohydrateContent": "39 g"
+,"cholesterolContent": "31 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "17 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "103 mg"
+,"sugarContent": "1 g"
+,"fatContent": "13 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"4 sheets nori (dry seaweed)",
+"0.5 pound sashimi-grade tuna, finely chopped",
+"4 tablespoons mayonnaise",
+"2 green onions, chopped",
+"1 tablespoon hot chile sauce",
+"2.5 cups prepared sushi rice",
+"1 tablespoon sesame seeds" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Cut off the bottom quarter of each nori sheet; reserve for another use."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine chopped tuna, mayonnaise, green onions, and hot sauce in a bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Center 1 sheet of nori on a bamboo sushi mat. Wet your hands. Spread a thin layer of rice on the nori using your hands; press into a thin layer, leaving a 1/2-inch space at the bottom edge. Sprinkle with sesame seeds. Arrange 1/4 of the tuna mixture in a line across the rice, about 1/3 of the way down from the top of the sheet."
+} ,{
+"@type": "HowToStep"
+,"text": "Wet the uncovered edge of the nori. Lift the top end of the mat and firmly roll it over the ingredients. Roll it forward to make a complete roll. Repeat with remaining ingredients."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/JWuQ51CGCsSHQ4AGiUFL3QqkLqY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7867009-7707e4609461471aaf76cd8ba07bc653.jpg"
+}
+]
+,"text": "Slice the rolls into 3/4-inch pieces using a wet knife. Serve immediately or refrigerate until serving."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT30M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Simon"
+},
+"reviewBody": "This is a good recipe for beginners! The filling was a bit bland, so I would recommend adding some more flavor or maybe something to kick up the heat."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/279434/spicy-tuna-rolls/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/227/world-cuisine/asian/",
+"name": "Asian"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/699/world-cuisine/asian/japanese/",
+"name": "Japanese"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/279434/spicy-tuna-rolls/",
+"name": "Spicy Tuna Rolls"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,326 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Nana&#39;s Fastnachts"
+,"datePublished": "1999-08-09T19:21:58.000-04:00"
+,"dateModified": "2022-12-08T13:11:53.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Sandy"
+,"url": "https://www.allrecipes.com/cook/24327959"
+}
+]
+,"description": "Fastnachts are deep-fried doughnut-like treats that are traditionally made to celebrate Fat Tuesday. Serve plain or with a light dusting of sugar."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/NNsqye4N6ql1_VoZ45l97RYi6Vk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1038903-9ab4d3262f7c4f979b3df58d9b9c2cb5.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Nana&#39;s Fastnachts"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "16"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "107 kcal"
+,"carbohydrateContent": "15 g"
+,"cholesterolContent": "10 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "2 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "74 mg"
+,"sugarContent": "4 g"
+,"fatContent": "4 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"0.25 cup warm water (110 degrees F/45 degrees C)",
+"2.25 teaspoons active dry yeast",
+"2 cups milk",
+"3 cups all-purpose flour",
+"1 teaspoon white sugar",
+"3 eggs, beaten",
+"1 cup white sugar",
+"0.25 cup melted margarine or butter",
+"1.5 teaspoons salt",
+"4 cups all-purpose flour",
+"2 quarts vegetable oil for frying",
+"confectioners' sugar for dusting" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine warm water and yeast in a small bowl; let stand for about 10 minutes. Meanwhile, warm milk in a small saucepan until it bubbles; remove from the heat and let cool until lukewarm."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine 3 cups of flour and 1 teaspoon of sugar in a large bowl; stir in lukewarm milk until smooth. Add yeast mixture and mix well; cover and let rise until doubled in size, about 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir in beaten eggs, 1 cup of sugar, melted butter, and salt; mix in enough of the remaining flour to make a stiff dough. Cover and let rise for a second time until doubled, about 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Punch down dough and divide into 2 equal portions. Roll out dough on a lightly floured surface to 1/2 inch thickness. Cut dough with a biscuit cutter. Make 2 slits with a sharp knife in the middle of each doughnut. Cover and let rise a third time until doubled in size, about 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat oil in a deep-fryer or large saucepan to 375 degrees F (190 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Fry doughnuts in hot oil in batches until golden brown, about 3 to 4 minutes per side. Drain on paper towels or brown paper bags. Toss in confectioners sugar while still warm."
+} ]
+,"recipeYield": ["60"]
+,"totalTime": "PT240M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "MARTHAO"
+},
+"reviewBody": "Good fastnachts but the recipe was a bit hard to follow. Some notes for my fellow Fastnacht bakers:\n1) This recipe calls for a *total* of 7 cups of flour; 3 cups for the first rise; up to 4 cups for the second rise\n2) If you're proofing in a warm oven it will take ~1hr each time to get the dough to double. Total of 3 hours.\n3) I froze the extra donuts after they proofed for the third time. Wrap them well in plastic wrap, or in plastic bags and then put in a gallon zip lock bag. To cook, thaw at room temperature, as a single layer, and fry as normal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Regina Hoelzer"
+},
+"reviewBody": "Great recipe. Just like my Oma made!!!!!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary O."
+},
+"reviewBody": "Thank you, Nana! These are a lot of work but well worth the end result. They remind me of the fastnachts my mother made. A little different but not by much. I have been looking for a recipe like this for a long time so thank you for posting it. We tore my mother's the kitchen apart but never found her recipe. \nAnyway, these are better tasting than any doughnut you've ever had. I made the recipe exactly as written. The only difference was the oil I used. I used coconut oil to fry the fastnachts in. Try it you'll love it! I found out that in the 40's and 50's doughnut shops used coconut oil. I gave this recipe 5 stars because it deserved it. This is a keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rebecca"
+},
+"reviewBody": "Made just as the recipe called for. Fabulous! We heated our oil up to about 360 degrees F and used a candy thermometer to make sure the temp was consistent. Otherwise, they can be doughy on the inside. Def. time consuming to wait for the yeast to rise 3 times. Total time making them was approx. 5 hours, from start to finish. We cut the third rise short and they still puffed up! Will do this again next year hopefully!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Garrett"
+},
+"reviewBody": "Thank you so much for posting the terrific recipe. I made them today. I never got my Mom's recipe. Wow, I am floored. They are delicious. Mom made them often and always made them on Shrove Tuesday. What could be better the warm fasnachts \nand memories. I'll be making these often."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "gail giddings"
+},
+"reviewBody": "I love this recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MattOlay V-H"
+},
+"reviewBody": "May 24,2011 &gt; Oh happy day!!! My husband had begged me to make his favorite donuts for a long time. With the help of CindyLepp (recipe buzz), she was able to find the common name for german donuts, so this was the recipe I ended up using. This was a long process but it was worth it. I made this two ways: the first half was done as written and the second half, I had rolled out the dough a little thinner, cut it about 5-6 inches square/rectangle and rested it for a bit (not to double it's size) before frying. We actually liked the thinner bigger squares/rectangles better because that's how my husbands granny made it; it had that puffed up blistered appearance. We topped it with powdered sugar and a runny glaze. The first half (as written) tasted like beignets which is not a bad thing. August 26, 2011 &gt; very versatile; also used this sweet dough for pull-apart rolls and cinnamon rolls."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "chocolate_frenzie"
+},
+"reviewBody": "Not bad, but soooo long to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Shann Hogue"
+},
+"reviewBody": "Excellent recipe! My kids loved them and begged for me to make them again as soon as they ran out. I didn't have the patience to let them rise 3 times. I mixed everything up, let them rise in a warm oven for 45 minutes, and rolled them out. They puffed up really well when cooked."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "nancy"
+},
+"reviewBody": "so yummy, next time I will cut the batch in half, it makes a big number of dougnuts.\nand I would increase the amount of sugar in the dough."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "A LOT of work for a donut... they're good... nothing amazing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "T Westhoff"
+},
+"reviewBody": "VERY good! Just plan for a little bit of time -- with 3 risings you have to be patient. Also, the size biscut cutter you should use to get the suggested servings (5 dozen) is a 1-1/2\"."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This is a wonderful recipe! Made this today with a wet glaze (confectioner's sugar, vanilla, milk, pinch of salt, add liquid slowly while beating to avoid lumps, not enough liquid to be too thin.) Crispy outside, tender and sweet inside, an ideal treat for those who crave doughnuts. Terrific!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "COOKIE QUEEN"
+},
+"reviewBody": "These were EXCELLENT. My husband is PA Dutch and grew up eating these every Shrove Tuesday. We moved to an area where you can't get them so I made them this year, they are difficult but well worth the effort. My husband said that they were the best fastnachts he ever had and that's saying a lot!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/7208/nanas-fastnachts/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/156/bread/",
+"name": "Bread"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/339/bread/yeast-bread/",
+"name": "Yeast Bread Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/7208/nanas-fastnachts/",
+"name": "Nana&#39;s Fastnachts"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

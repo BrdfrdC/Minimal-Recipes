@@ -1,0 +1,1426 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Taco Lasagna"
+,"datePublished": "2000-10-19T19:51:50.000-04:00"
+,"dateModified": "2022-10-12T09:30:21.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Crystal"
+,"url": "https://www.allrecipes.com/cook/24322401"
+}
+]
+,"description": "A baked taco lasagna recipe with layers of corn tortilla, salsa, seasoned ground beef, and sour cream topped with Cheddar and Monterey Jack cheese."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/4ijrtw3h-EG2FYWCKEI7HwHfA6w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3959651-3a515772e28a41a7852806001a245705.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Taco Lasagna"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "570"
+}
+,"cookTime": "PT45M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "475 kcal"
+,"carbohydrateContent": "28 g"
+,"cholesterolContent": "97 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "27 g"
+,"saturatedFatContent": "15 g"
+,"sodiumContent": "1041 mg"
+,"sugarContent": "4 g"
+,"fatContent": "29 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"2 pounds lean ground beef",
+"2 (1.25 ounce) packages taco seasoning mix",
+"4 cloves garlic, minced",
+"1 tablespoon chili powder",
+"0.5 teaspoon cayenne pepper",
+"0.5 cup water",
+"cooking spray",
+"18 (6 inch) corn tortillas",
+"1 (24 ounce) jar salsa",
+"1 cup sliced green onion",
+"1 (16 ounce) container sour cream",
+"1.5 cups shredded Cheddar cheese",
+"1.5 cups shredded Monterey Jack cheese" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place ground beef in a large, deep skillet. Cook over medium-high heat until evenly browned; drain. Season with taco seasoning, garlic, chili powder, and cayenne pepper. Stir in water, reduce heat to low, and simmer for 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, preheat the oven to 375 degrees F (190 degrees C). Grease the bottom of a 9x13-inch baking dish."
+} ,{
+"@type": "HowToStep"
+,"text": "Place 6 tortillas into the prepared baking dish. Spread 1/3 of the salsa on top of the tortillas. Spread 1/2 of the meat mixture evenly over the salsa. Sprinkle with 1/2 of the green onions. Drop 1/2 of the sour cream randomly over the green onions. Top with 1/2 cup Cheddar and 1/2 cup Monterey Jack cheese. Repeat layers. Top with 6 tortillas, spread with remaining salsa, and sprinkle with remaining cheese."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until golden brown on top and cheeses are melted throughout the layers, 30 to 45 minutes."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT65M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Suzie"
+},
+"reviewBody": "We all LOVED the taste but mine seemed a bit too dry. I followed the recipe exactly. I will make again and maybe add refried beans like others did and a little extra water. Thanks for this yummy recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Crystal Wilkening"
+},
+"reviewBody": "I sometimes add in sliced black olives."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "XFactormom"
+},
+"reviewBody": "Love this recipe! I added some smoky paprika to the spices and make sure to use a thicker salsa or drain some of the liquid from your fav. I garnished mine with some taco sauce and offered some chipotle hot sauce for the spice lovers at the table!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lenne"
+},
+"reviewBody": "This is scrumptious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Willow"
+},
+"reviewBody": "OMG! They INHALED it and wanted more!\nVery very good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Juicy"
+},
+"reviewBody": "Delicious! I used hatch green chili corn &amp; wheat tortillas and they were amazing! I made 1/2 the recipe and we had leftovers all week (there's just 2 of us). :-)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jasmine"
+},
+"reviewBody": "TASTE AMAZINGG! Recommend 10/10"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "John Byers"
+},
+"reviewBody": "great meal for the family... added hot green chilis for a nice kick"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "It’s awesome. The best received lasagna in the neighbor. This was a little bit time consuming for me but the time was well worth it. My neighbors, my husband, and I loved it. It is a keeper recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Halandang"
+},
+"reviewBody": "I made this with low carb tortilla and enjoyed it during the Super Bowl without derailing my diet. I also added in diced chipotle peppers. Yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Grandma Pat"
+},
+"reviewBody": "This was delicious! I made it just as written. Only added chopped bell peppers to the meat while browning. My grandkids loved it. This will be a regular menu item from now on."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joan Weaver"
+},
+"reviewBody": "I love this recipe. I do add spinach with my layers."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Copper2839"
+},
+"reviewBody": "I misread the recipe when I made this and used tortilla chips. I didn’t realize it until I went to make it again and read it a bit closer...I stayed with the corn chips and it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer Korpak Bechtel"
+},
+"reviewBody": "It turned out great...family enjoyed it. I added 1 can of refried bean to the layers, putting dollops of it over the ground beef mixture. I’ll be adding this to our future menu plans!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathryn Richell Murray"
+},
+"reviewBody": "as I was making it...Ibwas nervous about me and my family living it. Well thankfully there was nothing to worry about. EVERYONE....even my 6 yr old loved it (we had it for breakfast). I didn't make too many changes. I always season my meat with seasoning salt, seasoned pepper, and onions before I add my taco seasoning so I still did that. I did have to make some changes so my daughter could eat it which included only making half the lasagne without salsa, and instead using chopped tomatoes. I also omitted the cayenne pepper since it might have made it too spicy (for her). I also took the suggestion of using flour tortillas instead of corn tortillas. I used EVOO spray to grease the pan which made the bottom layer extremely difficult to cut through (but still edible)...I think I may try butter next time??. This is definitely a keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa B."
+},
+"reviewBody": "This dish was so easy to put together and my husband really liked it as an alternative to taco tuesday. Will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Courtenany"
+},
+"reviewBody": "Easy and simple to make. And SO delicious!! I made this with my sister who is a picky eater and even she really liked it! What we did a little differently: put the salsa through a food processor so it was smooth instead of chunky for my sister, and no green onions on half for her. This is sure to be a favourite."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "WONDERWMN999"
+},
+"reviewBody": "Made it for my family. The only change I made was to use flour tortillas . A nice zing with the spices, easy prep and per the family, a keeper recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Donna Marie Windom"
+},
+"reviewBody": "This turned out great! Love it and will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sash Boo Herr"
+},
+"reviewBody": "Soooooooo good! My family loved it! I add taco cheese as well!!!! Must try!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bittersweet chocolate"
+},
+"reviewBody": "my family absolutely loves this dish. I made minor tweaks to adjust to my taste... added jalapeno for a little heat, made my own taco seasoning, and added a bit more cumin and chili powder. but hands down a household fave!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ernie"
+},
+"reviewBody": "Tonight will be the third time taking this to a potluck. Went over VERY well Had to leave out the Cayenne pepper because of the older folks and the kids. Everyone loved it just as written. This time I cooked the meat and spices in advance then froze it. I picked up the perishables while at the store and threw this together in 5 mins this morning. Into the oven at 5 pm and served it at 6. (I'd love to try this with chicken instead of beef and maybe add some refried beans)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "star"
+},
+"reviewBody": "I swapped the beef for chicken and it worked great! Family loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SmithElliottAmanda"
+},
+"reviewBody": "It is a delicious dish, I will definitely make it again, next time I will try flour tortillas and possibly mix in some extra ingredients."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Rob Pierce"
+},
+"reviewBody": "It turned out great. I added refried beans to first layer of toppings then olives to top layer. Easy to make so I’ll do it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sara Lentz"
+},
+"reviewBody": "I used 1 lb of ground beef but added 1 bag of Uncle Ben's mexican rice. Next time, I'll also add a can of corn. Overall, this was pretty yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jason fischer"
+},
+"reviewBody": "Added a little sweet corn."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sue Broadbent"
+},
+"reviewBody": "Very quick and easy recipe. I was honestly surprised how good it was! I made the corn tortillas but I'm sure packaged ones would work just fine."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "pattiannmarch"
+},
+"reviewBody": "No did not make any changes, was a bit spicy, taste okay, but visual not that great looking. Will cut out some the cayenne pepper next time. The men in the family liked it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Freda Brooks Emerson"
+},
+"reviewBody": "My family really loves this one!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "terrvu"
+},
+"reviewBody": "fam enjoyed. i tweaked for our vegetarian, mashed black beans and corn (3c each) instead of beef with the taco seasoning. only 8oz sour cream with 2 bags of shredded cheese mixed first then layered. used the bigger tortilla, overlapping 4 for thickness of 2."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kevin Wallskog"
+},
+"reviewBody": "I made this thing with three layers. It's f**kin' phenomenal! And it's easy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "smithserrano"
+},
+"reviewBody": "This is so loved in our house I have to double the recipe to feed my three teenagers, they devour it. I follow 99% of the recipe, I just trade out ground beef for ground turkey. Great recipe, tastes amazing!! Anyone who comes over for dinner and we are making this gives it 5 stars as well!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "T@ttoedB@ker"
+},
+"reviewBody": "This was great! Definitely like the spice, used medium salsa. Boyfriend loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cindy R"
+},
+"reviewBody": "This was delicious. My husband and I both loved it. I followed the recipe as written except I used all cheddar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carol Ford"
+},
+"reviewBody": "I made exactly as written. Will be making this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shelly"
+},
+"reviewBody": "Everyone loves this!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "nursechic64"
+},
+"reviewBody": "I made the recipe as is and its totally delicious. Second time around, i played around with it. Cut recipe in half as its only my husband and i. I substituted oven ready lasagna noodles for tortillas plus i added 1C black beans and 1C refried beans to meat mixture. Absolutely spectacular!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Denise"
+},
+"reviewBody": "Really good. Will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Emily Alesantrino"
+},
+"reviewBody": "My daughter loved it! It was a bit salty for me though so watch the salt in the taco and chili seasoning you use."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rosalind Dillard"
+},
+"reviewBody": "I made this exactly as the recipe said,didn’t change anything and it came out delicious!I would definitely make again.My family loved it and we had leftovers because it makes quite a bit.Tasted even better the next day!I would suggest adding a bit of sour cream to you’re serving,it makes it taste really good:)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ashley Fann"
+},
+"reviewBody": "Delicious and easy to make!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "KJJ"
+},
+"reviewBody": "Instead of 2 lbs of ground meat I used 1lb of ground meat and one can of black beans. Followed the recipe for the rest and it was delicious. Heavy but delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Thad Andrews"
+},
+"reviewBody": "I added 1/4lb Chorizo, doubled the cheese, omitted the cayenne pepper and used a medium heat cantena salsa....."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Judy Fearmonti"
+},
+"reviewBody": "No changes. Not my fav"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Adam Lindquist"
+},
+"reviewBody": "Was pretty good but I think next time i'll have fresh lettuce, tomato, guac... ready for topping when it comes out of the oven."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carol Moon"
+},
+"reviewBody": "I prepared this for a community dinner. I increased the number to 45, followed the directions exactly and received rave reviews from the guests!\nCarol Spokane WA"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Trevis Tibbals"
+},
+"reviewBody": "Very easy to make and we really enjoyed it. We added onion to the meat and used mexican creme in place of sour cream. Will make again. Thank you for the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "PostFrank"
+},
+"reviewBody": "Most definitely a keeper. I followed the recipe exactly the first couple of times I made it. I noticed that I had a little trouble with the sour cream clumping when I followed the directions. I have since started to stir in the sour cream and green onions into the meat mixture after I have removed it from the heat. I then continue to follow the directions when putting the layers together. This more evenly distributes the sour cream and green onions. The leftovers taste even better the next day."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Justine"
+},
+"reviewBody": "I made this for the first time tonight exactly as written except that I cut the recipe in half. There are only two of us and I didn’t need a 9 x 13 pan of food. It was delicious and very filling. It was a little spicy but we like spicy! If you don’t I would just leave out the cayenne pepper. Still have enough for another meal. Will definitely make this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Here's_What's_Cookin'"
+},
+"reviewBody": "I looked over a few recipes for \"Mexican Lasagna\" and decided on this one. Made it to the recipe as written except added chicken broth (1+c) instead of water. \nFor the Salsa I used Pace Chunky medium and used a high quality corn tortilla that I pre-heated in a 350 oven for 2 minutes. \nA wonderfully fantastic recipe! Made it for three of us and all went back for seconds and commented \"I'd make this again!\" All I can say in closing is...KEEPER!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jenifer"
+},
+"reviewBody": "layer of refried beans"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lise Rod"
+},
+"reviewBody": "I used square dumpling-type noodles since I didn't have flour tortillas in the house. I would also try egg noodles if I didn't have any tortillas in the future. I substituted chopped yellow onion since I didn't have any scallions. I used peach mango salsa since I had it open in the fridge but would prefer \"regular\" salsa instead. I used shredded Tex Mex cheese blend, but any preferred cheese will do. Served with fresh chopped tomatoes, chopped lettuce, and sour cream. Family loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "terry"
+},
+"reviewBody": "Dropped the cayenne and diced up some jalapenos to add little heat and changed green onions to sweet otherwise very good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Nicole Leblanc"
+},
+"reviewBody": "It was ok but far to dry should probably add extra meat and maybes some veggies."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Holli Wilson"
+},
+"reviewBody": "Super easy to make"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gail Palubiak"
+},
+"reviewBody": "I get rave reviews on this recipe each time I make it. The ONLY adjustment I make is to mix the sour cream in with the prepared meat mixture. It makes it a ton easier to layer."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alaina Tuttle"
+},
+"reviewBody": "This was warm, gooey, cheesy, and spicy. What's not to love? My husband and son both loved it and I'll definitely make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sheila LaLonde"
+},
+"reviewBody": "This was a pretty tasty meal. Next time I think I'll spread the sour cream into a layer in lieu of just dollops. I cut the recipe in half and used a 9x9 baking dish. Thanks for sharing your recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "heather burnham"
+},
+"reviewBody": "easy and family liked it...very simple. basic flavor profile for kids."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Babs Zurcher"
+},
+"reviewBody": "The only modification I made was ground turkey instead of beef. Everyone loved it, may try adding the refried bean layer next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Debby Durband Burns"
+},
+"reviewBody": "I made it exactly per the recipe. The flavor was fine, it was the overall texture that was just not very appealing. Perhaps it might taste different with flour tortillas in a single layer on the bottom and top? Worth trying. My three 18-23 year old sons said they would've preferred the Beef Nacho Casserole (on this site), which is far easier to make and has a much better texture."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Snowqueen1"
+},
+"reviewBody": "I made it. It was incredible. I wouldn't change a thing!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "EricaCrittenden"
+},
+"reviewBody": "Loved it. The only extra thing I added was Balezean Heat hot sauce(my husband loves spicy food). It was simple to make and turned out fantastic. Will definitely make this one again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Spyderman"
+},
+"reviewBody": "Like Lesley, another reviewer, I made this in a couple of cake pans, just the right size for 8\" flour/corn tortillas. Each one will feed 2 - 4 people. An additional benefit is using multiple pans allows you to make some hot, medium or mild. To protect the non-stick coating on some pans line them first with a couple sheets of parchment paper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sher Marshall"
+},
+"reviewBody": "Delicious so simple to make will make again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Drbobshields"
+},
+"reviewBody": "If you like the old classic Frito pie, you'll like this. It's tasty and easy. You can alter the spicy factor by using spicier or milder picante sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "cheryl simbirski"
+},
+"reviewBody": "I made this recipe as directed. It was very good nice change from regular lasagna. This dish could quite easily be changed to suit everyone's taste. It was easy and quick dish to make"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CHRIS13JOSEPH"
+},
+"reviewBody": "I made it without the sour cream. I added an envelope of restaurant style seasoning instead of the spices. No onion. I served avocado, lettuce, diced tomato, and sour cream with it. \nIt was great. I will make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "FLAGGERMOM"
+},
+"reviewBody": "Sorry for the change - I had roasted a chicken the day before and used the breasts instead of beef. This recipe is a keeper.\nKids loved it as much as adults. Topped with lots of spring onions and their green top. Delish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cinte Kimi"
+},
+"reviewBody": "You have to try it if you love heat like us. Definitely will do this again and again in the future."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "SunnyDaysNora"
+},
+"reviewBody": "Very tasty, cut recipe in half and baked in 8x8 pan. Used low carb tortillas. Will make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shawn"
+},
+"reviewBody": "This was delicious! It was way more filling than we thought. Fed a family of four with two teenagers! I used my homemade salsa because I like things spicy. Also added cilantro on the top. We will definitely make this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jbTASC"
+},
+"reviewBody": "Made it for a church potluck and it went over so well we had to make it again the same week for at home."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "abbyz2000"
+},
+"reviewBody": "Instead of two pounds of meat I did 1 pound plus corn and green peppers."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Randi"
+},
+"reviewBody": "Very good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rita Campano"
+},
+"reviewBody": "It turned out perfect! Boyfriend approved. I did a few different things. I use flower and corn tortillas. Corn, onion, sour cream, cheese and salsa."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "PennsylvaniaJill"
+},
+"reviewBody": "Yummy! I used flour tortillas and mostly diced tomato with a little salsa mixed in. Next time I'll save the sour cream the top when ready to serve, and save some scallions for serving with too. I also used low sodium taco seasoning 1.5 packs."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "mrsz"
+},
+"reviewBody": "Most of the family didn't love this. I think if I would have used flour tortillas instead of corn they might have enjoyed it more."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Karyn Borkowski"
+},
+"reviewBody": "Like everyone says, this was a hit at my house!!! Easy to make and it goes a long way, fed my husband and three 20 something year olds!!! Definitely making this again!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "barbara benze"
+},
+"reviewBody": "this was very easy to make,and veryone loved it, the only thing i did different was i got the Mex mix cheese 2cup bag and used that in place of the cheese here, still used all other ingredients"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "RJM"
+},
+"reviewBody": "This is a very easy and forgiving recipe which can be adjusted to your personal tastes. I used flour tortillas, light sour cream, as substitutions. I also added low sodium black beans and frozen corn. I enjoyed it with Newman's Own Peach Salsa. Rested the lasagne for 10 minutes before cutting into it. Very tasty and will definitely make again. Next time I will add some fresh cilantro."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "HooyahCam"
+},
+"reviewBody": "My boys destroyed the entire dish at a single sitting!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brittany Anne Steele"
+},
+"reviewBody": "I had to make a couple changes to avoid going to the store but this was fantastic!! I tore these huge tortilla's I had in half since I only had 2 and just layered those. I only used half of what all the recipe called for since I was only feeding 3 people. I used diced fresh tomatoes on the middle layers and saved the little bit of salsa I had for the top and bottom layer. I did not use any onion. I used shredded mexican and cheddar cheese. And I added lettuce to my plate once I served it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Janette Fisher"
+},
+"reviewBody": "Very easy. I halved the recipe in an 8in square pan since I was only cooking for 2. Not too spicy, but the cayenne added a little extra heat. I might omit if making for kids. Leftovers should reheat well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "charm"
+},
+"reviewBody": "This was tasty and not a lot of trouble, but all in all, I'd rather have had a taco. My family liked this though. I guess it boils down to this recipe being less trouble for the consumer but not really any less trouble for the cook while the taste is aobut the same."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "charm"
+},
+"reviewBody": "This was tasty and not a lot of trouble, but all in all, I'd rather have had a taco. My family liked this though. I guess it boils down to this recipe being less trouble for the consumer but not really any less trouble for the cook while the taste is aobut the same."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ivy Grace"
+},
+"reviewBody": "Loooove it! So good I just mixed the meat and sour cream all together then layer it out! So good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nadine Walker"
+},
+"reviewBody": "Really good, but a bit on the spicy side. Next time I will cut back on the chili powder, or cut out the cayenne pepper completely. I also put chopped lettuce on the top. Had I not used all the sour cream already a dollop of that on top would have been good too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "msp"
+},
+"reviewBody": "This is a ridiculously good mexican dish. Perfectly spiced. Extremely tasty. I love corn tortillas and their flavor is the perfect balance to other flavors. Try this one as it is written before experimenting"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ashleigh Belisle"
+},
+"reviewBody": "delicious! The only thing I changed was adding 1 can total of corn and 1 can total of black beans to the same layers as the meat. super easy and quick - I will for sure be making this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Clay"
+},
+"reviewBody": "I made this exactly to recipe and served it with seasoned black beans. Was good bit salsa is a bit over powering. next time I will try fresh tomatoes with taco sauce and may add the beans! Thanks for the delicious recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cally w"
+},
+"reviewBody": "My 1st time making any kind of lasagna and so glad I found this recipe because it is so tasty. Only one small thing which is no reflection on the recipe is that the taco seasoning had too much Cumin in it, which I dislike with a passion, so next time I'm going to double check the spice content. I am definitely making this again, it's utterly delicious and downright scrumptious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "HOLLY9000"
+},
+"reviewBody": "Was even better than I expected. Halved the recipe for the two of us. Added diced jalapenos, fresh tomatoes and cilantro to the top when it was done. I mixed ranch dressing mix and some chipotles in with the sour cream."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Emily"
+},
+"reviewBody": "Tasty. To make it vegetarian I substituted two cans of refried beans for the ground beef, and only needed one packet of taco seasoning. I also used flour tortillas - roughly 9\", and made it in two cake pans. For healthier options I used light sour cream and reduced fat sharp cheddar. The result was a yummy, protein packed meal with lots of leftovers for the freezer."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "darkdragonz31"
+},
+"reviewBody": "Excellent,delicious. I made very few changes. I added a can of black olives (chopped) and a can of whole black beans. I sprinkled both after the onions, on that layer."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sam"
+},
+"reviewBody": "I made this recipe as written. It was easy to put together and very tasty. Being I cook for the two of us there were plenty of leftovers for future meals."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Amber Lounsbery"
+},
+"reviewBody": "I found it to be rather dry the first time I made it. I used chunky salsa and the corn tortillas as suggested. It just didn't get gooey enough. I modified this recipe by putting a thin layer of red enchilada sauce on the bottom of plan before placement of tortillas . I used small flour tortillas instead of corn. I also used restaurant style salsa which has a thinner more liquid make up. After last layer of tortillas I topped with the rest of the enchilada sauce then cheese."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Courtney"
+},
+"reviewBody": "Yes!! FINALLY, a recipe not one person in the family complained about. The kids are total pains in the coolo when it comes to dinner. The youngest said it was \"the best dinner she's ever had\". I used whole grain tortillas and added a layer of refried beans and used rotisserie chicken seasoned with the taco seasoning. So many variations of this can be made to your liking. Add or remove whatever you want...you can't lose. Thank you for a great way to change up our Taco Tuesday!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/23105/taco-lasagna/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/237/world-cuisine/latin-american/",
+"name": "Latin American"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/728/world-cuisine/latin-american/mexican/",
+"name": "Mexican"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/23105/taco-lasagna/",
+"name": "Taco Lasagna"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,848 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Grilled Chicken Quesadillas"
+,"datePublished": "1999-07-30T11:34:46.000-04:00"
+,"dateModified": "2022-07-14T18:09:43.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Thuy Ortiz"
+,"url": "https://www.allrecipes.com/cook/24328872"
+}
+]
+,"description": "This recipe is a delicious snap. The meat is coated with adobo seasoning, grilled, and cut into bite-sized pieces. Then a tortilla is layered with cheese, chile peppers, chicken, and olives."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/UnOVmatMjGR3Kor0DrAugZVQS2Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/24080-a507bd70d1a04418a40b28392f44432a.jpg",
+"height": 250,
+"width": 250
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Grilled Chicken Quesadillas"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.3",
+"ratingCount": "105"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "851 kcal"
+,"carbohydrateContent": "87 g"
+,"cholesterolContent": "126 mg"
+,"fiberContent": "7 g"
+,"proteinContent": "46 g"
+,"saturatedFatContent": "11 g"
+,"sodiumContent": "1665 mg"
+,"sugarContent": "2 g"
+,"fatContent": "25 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT35M"
+,"recipeIngredient": [
+"2 pounds boneless, skinless chicken thighs",
+"adobo seasoning to taste",
+"12 (10 inch) flour tortillas",
+"1.5 cups shredded Mexican cheese blend",
+"1 onion, chopped",
+"1 (6 ounce) can sliced black olives, drained",
+"1 (7 ounce) can diced green chilies, drained" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place the chicken on a plate, and sprinkle with adobo seasoning on both sides. Let it marinate for 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat grill for medium-high heat."
+} ,{
+"@type": "HowToStep"
+,"text": "Lightly oil the grill grate. Place chicken on grill, and cook for 10 minutes per side, or until juices run clear. Remove chicken from grill, and cut into bite-size pieces."
+} ,{
+"@type": "HowToStep"
+,"text": "Place one or two tortillas on the grill, and sprinkle with a thin layer of cheese, chicken, onion, olives, and chiles. Top with another tortilla, and grill until brown and crispy on both sides, about 3 minutes per side. Repeat with remaining ingredients. Cut into wedges to serve."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT65M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jenny Roberson"
+},
+"reviewBody": "This was really good. I made adobo seasoning from a recipe on this site. Traci's adobo seasoning.."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "tcasa"
+},
+"reviewBody": "These were very good. The grill adds a smoky flavor which was delicious! I seasoned the chicken as the recipe directed. Assembling the guesadillasI added chopped onion, peppers &amp; tomatoes. Love the idea and a great base recipe to have fun with. Would make an excellent camping meal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Deana Dirnbauer-Nyquist"
+},
+"reviewBody": "I like the recipe but I use pepper jack cheese."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Savannah"
+},
+"reviewBody": "My husband n kids love these everytime we make them. A little time consuming but worth every bit. I sometimes just cook my meat with some onion and tomatoes n mrs dash the flavor is great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sami"
+},
+"reviewBody": "Love it! Made it on Italian Camp for the first time; everyone was excited. I will do again in home definately!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Melody Fernandez Schafer"
+},
+"reviewBody": "Sounds delicious. What can I use in place of adobe seasoning? I've never heard of it and never seen it in the spice section, Help. Thank you:)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "puppyluv"
+},
+"reviewBody": "I don't have a grill so I use a 12\" skillet on the stove. I also use Kraft Tex Mex cheese for added flavor/spice (can't find Adobo Spice here), and a can of green chilies. I also add a chopped tomato as well. Tastes great and easy to fix."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "billiejw89"
+},
+"reviewBody": "Yummy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "kgrace"
+},
+"reviewBody": "These quesadillas are tasty! I would suggest using smaller tortillas if you are using a George Forman grill. The big ones hardly fit on the grill. But this recipe is a keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LORIDOESLOANS"
+},
+"reviewBody": "Loved this! I couldn't find that adobo seasoning. I was doing these for a crowd so I cooked my chicken ahead with a little olive oil and spiced it up. Then I did use chopped jalapeno's...I also made a spicy sour cream from another recipe...1 cup sourcream, 1/4 cup chopped chipotle peppers in adobo sauce and 1/2 lime juice. it was awesome! my group raved! will make again..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Tammy Western"
+},
+"reviewBody": "These were good. I used the Forman Grill. I marinated the chicken in McCormick Baja Marinade, grilled and chopped. I also didn't have green chilies on hand, but next time, I'll be sure use them. Served with pico de gallo and sour cream."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "corunmila"
+},
+"reviewBody": "I agree with some of the other posters, it is just fair. It needs a lot of work to be great. With the addition of guacamole or diced tomatoes, cilantro or something else it could be great. I'll keep experimenting with ingredients."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "yadikeith"
+},
+"reviewBody": "Pretty good stuff. I added chopped jalapenos to mine."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Heather"
+},
+"reviewBody": "Do not cook for three minutes on each side! Cut time in half."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "amandab881"
+},
+"reviewBody": "Great recipe, I just added a packet of sazon to the chicken with the adobo. Whole family loved them. Like others I also made them on the George Forman grill, makes it a lot faster."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "kellieann"
+},
+"reviewBody": "These were only ok for us. I think they would be better if there had been salsa in the filling. They were also very messy, next time I will use less filling."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "britnieann"
+},
+"reviewBody": "Great recipe! Very easy and simple to put together. I did a few changes though: I used the taco bell fajita seasoning instead of the adobo (dont even know what that is and didnt have time to look) and I only put cheese with the chicken (picky husband). I also used bonless skinless breasts. I cooked this in my humongous skillet on the stove. Worked great! (took a little practice to flip!) I scaled the recipe down to half and it still made a LOT for my husband and I. I have 2 days of leftovers for my lunch, fine with me! I served this with mexican rice and it was a great new dinner. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tmwddp6"
+},
+"reviewBody": "Great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "michellej"
+},
+"reviewBody": "I added jalopenos instead of green chilies. They were very good! This is a great recipe to use on a busy week night or just to use up leftover chicken."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "~TxCin~ILove2Ck"
+},
+"reviewBody": "This was fast and easy. I left off the black olives since my son and hubby don't care much for them. These were pretty good. Thanks."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bobbie"
+},
+"reviewBody": "I took these to a tailgate party and they were easy and I couldn't cook them fast enough...They didn't last long they were so good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "argelia2008"
+},
+"reviewBody": "It wasn't that bad. But it taste more like onion than chicken."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Tara"
+},
+"reviewBody": "this were pretty good kids loved them as wll as the adults. I used a roasted chicken i bought at the supermarket and shredded the meat once off the bone.I also used chicken taco season instead of what was called for.I grilled ours on the forman grill and Served with my mexican rice,a salad and homade mango icecream.A great and perfect super simple dinner :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kinflightinoh"
+},
+"reviewBody": "Made it as the recipe called for.\nThe family was not impressed.\nWould have preferred tacos."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "stefanie"
+},
+"reviewBody": "This was really an amazing meal. The chicken was amazing; my husband was set for eating just that! I like a lot of vegetables with my quesadillas so I made a kind of pico de gallo with green and red bell pepper and tomato added with the chiles and onion, seasoned with some salt. It adds a nice fresh and crispy taste. I also used my griddle to toast my tortillas instead of my grill. it has a much lighter toasting effect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "fozziesmom"
+},
+"reviewBody": "This was very good. I had some minor changes. I didn't have adobo so I used taco seasoning instead, I skipped the olives and added cooked bacon instead. The tortilla's I bought were too big and were a little difficult to manuever on the bbq. I will definately add this to my bbq rotation."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "OTTOS2"
+},
+"reviewBody": "I forgot to pick up adobo seasoning, so I got a recipe of the internet and used that instead. This chicken turned out wonderful, I thought that it was good enough to eat on it's own! The meat was wonderful smothered in cheese, and assorted veggies between two hot, crispy tortillas. I will be making these regularly!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Tamara Tabb"
+},
+"reviewBody": "Very tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Wilemon"
+},
+"reviewBody": "We liked these. Lightly brushed the 'grill' side of the tortillas with canola oil, added some sharp cheddar cheese, used green onions, sprinkled with garlic salt, and grilled on the griddle."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Fun and easy!!!!! Great for kids!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "LOTUS_EATER"
+},
+"reviewBody": "This is a great recipe for leftover chicken. I found it a little too bland for my taste but did add additional spices the second time to my own tastes. This is a great recipe if you do buffet type meals or want something that doesn't take a lot of thought."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "These are absolutly amazing! My family can't get enough of them. I like mine without the chicken (veggie) and they're still great. I use my George Forman for them and then come out crisp and delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "liloneag"
+},
+"reviewBody": "My husband loved these. We cooked them on our George Foreman grill in no time. You can't ask for a quicker, easier meal!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Steve"
+},
+"reviewBody": "An excellent use for the barbecue! I added some yellow corn to mine..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I love these type of recipes because you don't heat up the house. Kids loved it and want it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Just fair."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I loved grilling quesadillas on the grill. I used boneless chicken breast. My kids don't enjoy spicy foods that much, so next time I will use just plain chicken on theirs."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "this is a quick recipe except for getting the grill ready. really fast if you own a gas grill. Makes a lot of servings. Could upgrade to using chicken breasts and guacamole."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This one is a 'winner'! We tried it on our Grand Kids and they approve. Even grandma thought it was great - not too much work, good results!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "a nice simple recipe that's great for dinner after a long day's work.\r\n\r\nQuick to prepare while the 3 kids are telling you about their day and the phone is ringing.\r\n\r\nEveryone loved it for the Canada Day BBQ at the park."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "make sure to wet the flour totilla's a little, they'll steam on the grill and won't burn as easy!!! enjoy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "very easy to make!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Great recipe for grilling too!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I have tried to make quesadillas many times and this recipe is the best. The\r\nadobo seasoning makes a big difference. It makes the dish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Stupendous recipe, easy and healthy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This was a easy recipe to prepare I mararated my chicken before cooling on the grill in a chicken rub it made the chicken a lot more tender and also cooked a lot faster, I also added cooking my onions and bellpepper on the grill in some butter for more flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CHEFTEL"
+},
+"reviewBody": "GREAT RICEPE ! HEALTHY - LOW FAT. KIDS LOVE THEM ALSO. FOUND IT EASIER TO USE JUST ONE TORTILLA AND THEN FOLD OVER LIKE AN OMELET. MUCH EASIER TO FLIP OVER ON THE GRILL THEN TO BROWN BOTH SIDES."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "My family would like this recipe using boneless skinless chicken breast."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Dave Murawski"
+},
+"reviewBody": "Great as meal or snack"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Quick, easy, and very tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Great recipie."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Yum, yum! To make it even faster.....you can cook the chicken ahead of time as well. Fill with many other things as well....meats, veggies...."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "We love mexican food or anything like it. I did leave off the chilis for my daughter, bet this was a big hit!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "this could be a good recipe it is a goodone i did try it.was good i did like it it was good taste"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Very good. My husband especially enjoyed this recipe."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/14518/grilled-chicken-quesadillas/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/237/world-cuisine/latin-american/",
+"name": "Latin American"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/728/world-cuisine/latin-american/mexican/",
+"name": "Mexican"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/14518/grilled-chicken-quesadillas/",
+"name": "Grilled Chicken Quesadillas"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

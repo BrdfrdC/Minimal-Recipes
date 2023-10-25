@@ -1,0 +1,158 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Pancit Molo (Filipino Wonton Soup)"
+,"datePublished": "2018-06-08T09:55:20.000-04:00"
+,"dateModified": "2023-02-24T18:49:33.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "lola"
+,"url": "https://www.allrecipes.com/cook/4064906"
+}
+]
+,"description": "Rather than noodles, this Filipino pancit soup includes yummy wontons full of pork, prawns, and water chestnuts, plus chicken and bok choy."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/g9S0Ro52EtA2_aBTmm_L69D9IlA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5318140-pancit-molo-filipino-wonton-soup-SassyCinnamon-4x3-1-a5547676721b4f0faed7be6aa1554c80.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Pancit Molo (Filipino Wonton Soup)"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "2"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "372 kcal"
+,"carbohydrateContent": "31 g"
+,"cholesterolContent": "127 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "28 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "880 mg"
+,"sugarContent": "2 g"
+,"fatContent": "15 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT45M"
+,"recipeIngredient": [
+"1.5 pounds ground pork",
+"1 pound uncooked medium shrimp, peeled and deveined",
+"1 (8 ounce) can sliced water chestnuts, drained",
+"salt and ground black pepper to taste",
+"1 (16 ounce) package wonton wrappers, or as needed",
+"2 tablespoons olive oil",
+"1 onion, chopped",
+"2 cloves garlic, minced",
+"1 cooked chicken breast, shredded",
+"1.25 quarts chicken broth",
+"1 small head bok choy, cut into bite-sized pieces",
+"2 green onions, chopped" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Mix pork, shrimp, water chestnuts, salt, and pepper together in a large bowl. Reserve 1/3 of the filling mixture for soup. Wrap about 1 tablespoon of remaining filling in a wonton wrapper. Repeat until all filling is used up."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat olive oil in a large pot over medium-high heat. Add onion and garlic; sauté until onion is translucent, about 5 minutes. Stir in chicken and reserved filling. Mix well. Add chicken broth; season with salt and pepper. Bring to a boil. Drop filled wontons into soup one by one. Boil until wontons float to the top, 3 to 5 minutes. Add bok choy; boil until tender, about 2 minutes more. Garnish with green onions."
+} ]
+,"recipeYield": ["10"]
+,"totalTime": "PT60M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "roxsie4270"
+},
+"reviewBody": "Tastes great. Easy to make"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SassyCinnamon"
+},
+"reviewBody": "I used ground turkey instead of pork and left out water chestnuts. Only used about a teaspoon of filling and boiled them 5-7 minutes. Turned out great."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/212997/pancit-molo-filipino-wonton-soup/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16369/soups-stews-and-chili/soup/",
+"name": "Soup Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/180/soups-stews-and-chili/soup/seafood/",
+"name": "Seafood"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/212997/pancit-molo-filipino-wonton-soup/",
+"name": "Pancit Molo (Filipino Wonton Soup)"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

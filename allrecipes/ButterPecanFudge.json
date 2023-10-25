@@ -1,0 +1,186 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Butter Pecan Fudge"
+,"datePublished": "2020-06-19T00:03:58.000-04:00"
+,"dateModified": "2022-12-13T02:23:19.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Carla H"
+,"url": "https://www.allrecipes.com/cook/2325318"
+}
+]
+,"description": "Creamy butter pecan fudge comes together in a snap in this classic candy recipe, perfect for an indulgent food or hostess gift."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/wJ0bg6Mb_xvPb_LQQeU-Cnv-mU4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Butter-Pecan-Fudge-Kim-2000-29c67f83c0d74f85972e793990fe818e.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Butter Pecan Fudge"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "3.5",
+"ratingCount": "4"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "59 kcal"
+,"carbohydrateContent": "7 g"
+,"cholesterolContent": "6 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "0 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "16 mg"
+,"sugarContent": "7 g"
+,"fatContent": "3 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"0.5 cup butter",
+"0.5 cup brown sugar",
+"0.5 cup white sugar",
+"0.125 teaspoon salt",
+"0.5 cup heavy whipping cream",
+"1 teaspoon vanilla extract",
+"2 cups confectioners' sugar",
+"1 cup chopped pecans" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Butter an 8-inch square baking pan."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine butter, brown sugar, white sugar, and salt in a saucepan; pour in cream. Bring to a boil, stirring until butter melts and sugar is dissolved. Let mixture boil, stirring often, for 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove saucepan from heat; add vanilla extract and mix well. Stir in confectioners&#39; sugar until smooth. Fold pecans into fudge."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour fudge into prepared pan and cool until firm, 1 to 2 hours. Cut into 1-inch squares."
+} ]
+,"recipeYield": ["64"]
+,"totalTime": "PT85M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kim"
+},
+"reviewBody": "Man, this stuff is soo good! I made a few changes; I toasted my pecans, used only about 1 1/4 cups powdered sugar, and upped the salt to just shy of a 1/2 tsp. The result was a buttery, not-to-sweet, delicious fudge! I may try upping the amount of cream and using just 1 cup powdered sugar next time; as it was just a touch crumbly. But it held together well, and set up quickly. And did I mention it's absolutely delicious??? It's just sooooo good! Thank you for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "E59"
+},
+"reviewBody": "Did not harden...but is a really good topping for icecream!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa"
+},
+"reviewBody": "I've made this twice and it was great both times. When you are cooking the butterscotch, make sure it boils nicely when you are cooking it for the five minutes. Very easy and delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Gloria Krupa"
+},
+"reviewBody": "It was very sweet and tasty, however it kept falling apart. Try putting it in the fridge for 30 minutes longer."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/245454/butter-pecan-fudge/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17281/desserts/nut-desserts/",
+"name": "Nut Dessert Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17284/desserts/nut-desserts/pecan-desserts/",
+"name": "Pecan Dessert Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/245454/butter-pecan-fudge/",
+"name": "Butter Pecan Fudge"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

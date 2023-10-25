@@ -1,0 +1,155 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Black Bean Tostadas"
+,"datePublished": "2020-05-08T23:38:55.000-04:00"
+,"dateModified": "2022-01-14T11:58:47.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Nellie Fiorenzi"
+,"url": "https://www.allrecipes.com/cook/2902260"
+}
+]
+,"description": "Prepare a vegetarian, Mexican-inspired weeknight meal in under 30 minutes by combining black beans with seasonings, cheese, and green chiles on crispy corn tostadas."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/tsUQDj_QU7-L4sODA3KTGtc4QHY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7951030-0347889941db46ba841f721bc1eb041f.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Black Bean Tostadas"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "1"
+}
+,"cookTime": "PT5M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "291 kcal"
+,"carbohydrateContent": "27 g"
+,"cholesterolContent": "28 mg"
+,"fiberContent": "8 g"
+,"proteinContent": "15 g"
+,"saturatedFatContent": "7 g"
+,"sodiumContent": "814 mg"
+,"sugarContent": "2 g"
+,"fatContent": "14 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 (16 ounce) can refried black beans",
+"1 (16 ounce) can black beans",
+"1 (4 ounce) can diced green chiles",
+"1 teaspoon garlic powder",
+"1 teaspoon chili powder",
+"1 teaspoon cayenne pepper",
+"salt and ground black pepper to taste",
+"8 corn tostada shells",
+"2 cups shredded Monterey Jack cheese",
+"0.25 cup salsa, or as desired",
+"0.25 cup shredded lettuce, or as desired",
+"0.25 cup sour cream, or as desired",
+"0.25 cup guacamole, or as desired" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Set an oven rack about 6 inches from the heat source and preheat the oven&#39;s broiler."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine refried black beans, black beans, green chiles, garlic powder, chili powder, cayenne, salt, and pepper in a saucepan. Heat over medium heat until warm and combined, 3 to 4 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Place tostada shells on an ungreased baking sheet and evenly distribute bean mixture between them. Top with Monterey Jack cheese."
+} ,{
+"@type": "HowToStep"
+,"text": "Broil in the preheated oven until cheese is melted, watching carefully to avoid burning tostadas, 1 to 3 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Serve immediately and garnish with salsa, lettuce, sour cream, and guacamole."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT20M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Soup Loving Nicole"
+},
+"reviewBody": "The flavor of the beans is excellent and the recipe is simple. Perfect! Another recipe I've been wanting to make also calls for refried black beans but I have never seen them at the store so I made my own using an Instant Pot refried bean recipe on this site. The smooth texture of the refried beans mixed with whole beans created an excellent creamy texture. Black beans are typically my least favorite bean but this recipe changed that."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/273673/black-bean-tostadas/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/237/world-cuisine/latin-american/",
+"name": "Latin American"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/728/world-cuisine/latin-american/mexican/",
+"name": "Mexican"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/273673/black-bean-tostadas/",
+"name": "Black Bean Tostadas"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

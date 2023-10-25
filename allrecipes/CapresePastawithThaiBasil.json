@@ -1,0 +1,156 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Caprese Pasta with Thai Basil"
+,"datePublished": "2022-09-01T10:41:58.000-04:00"
+,"dateModified": "2022-09-01T10:41:58.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "CookingWithShelia"
+,"url": "https://www.allrecipes.com/cook/cookingwithshelia"
+}
+]
+,"description": "Try this light summery caprese pasta with Thai basil and lemon flavored balsamic vinegar for lunch on a hot day."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/k-gOVk7Umf5mLEG3ofW6W3tv3WE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Caprese-Pasta-with-Lemon-and-Thai-Basil-CookingwithShelia-d38ab09464224a9dbec55f153acd872e.jpg",
+"height": 983,
+"width": 1310
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Caprese Pasta with Thai Basil"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "3"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "842 kcal"
+,"carbohydrateContent": "92 g"
+,"cholesterolContent": "44 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "26 g"
+,"saturatedFatContent": "12 g"
+,"sodiumContent": "96 mg"
+,"fatContent": "41 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 pound spaghetti",
+"1.5 cups cherry tomatoes, halved",
+"0.5 cup olive oil",
+"3 tablespoons lemon-infused white balsamic vinegar",
+"2 cloves garlic, chopped",
+"0.33 cup chopped Thai basil",
+"1 (8 ounce) container small mozzarella balls in oil, halved",
+"salt and freshly ground black pepper to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Bring a large pot of lightly salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally, until tender yet firm to the bite, about 12 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine cherry tomatoes, mozzarella balls, olive oil, balsamic vinegar, garlic, and Thai basil in a large mixing bowl; mix well. Season with salt and pepper to taste."
+} ,{
+"@type": "HowToStep"
+,"text": "Drain pasta and top with cherry tomato mixture."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT30M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "harriet beth"
+},
+"reviewBody": "We really enjoyed this, light tasty salad. I couldnt find the lemon-infused white balsamic vinegar, so I used white balsamic vinegarm then add about one half teaspoon lemon juice. Great recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jessica Morris"
+},
+"reviewBody": "Loved this! Perfect flavors for a nice light pasta dish that did not feel too heavy. We grilled some chicken and sliced it over the top, which made this a filling entrée!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8453629/caprese-pasta-with-thai-basil/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/219/salad/vegetable-salads/",
+"name": "Vegetable Salad Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16588/salad/vegetable-salads/caprese-salad/",
+"name": "Caprese Salad Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8453629/caprese-pasta-with-thai-basil/",
+"name": "Caprese Pasta with Thai Basil"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

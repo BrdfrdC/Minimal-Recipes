@@ -1,0 +1,150 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Catfish Étouffée"
+,"datePublished": "2022-01-21T09:26:38.000-05:00"
+,"dateModified": "2022-01-21T09:26:38.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "lkb"
+,"url": "https://www.allrecipes.com/cook/mamabrew"
+}
+]
+,"description": "Bring the flavors of New Orleans home with this Mardi Gras-worthy catfish étouffée. Served over cauliflower rice instead of white rice, for more fiber and fewer calories."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/lDhSsNsG4IJebHCQpkucYHov6js=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Catfish-Etouffee-2000-c205b7e70bb74266935b7d8beab4ec30.jpg",
+"height": 999,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Catfish Étouffée"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "1"
+}
+,"cookTime": "PT40M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "236 kcal"
+,"carbohydrateContent": "13 g"
+,"cholesterolContent": "54 mg"
+,"fiberContent": "5 g"
+,"proteinContent": "22 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "393 mg"
+,"fatContent": "11 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT25M"
+,"recipeIngredient": [
+"1 tablespoon olive oil",
+"1 cup chopped onion",
+"1 cup chopped green bell pepper",
+"1 cup chopped celery",
+"1 (14.5 ounce) can diced tomatoes",
+"0.25 cup low-sodium chicken broth",
+"1.5 tablespoons Louisiana-style hot sauce",
+"0.5 teaspoon dried thyme, crushed",
+"0.25 teaspoon Worcestershire sauce",
+"0.25 teaspoon salt",
+"0.25 teaspoon ground black pepper",
+"1.5 pounds catfish, cut into 6 pieces",
+"2 tablespoons chopped fresh parsley",
+"3 cups cooked riced cauliflower",
+"0.25 cup sliced green onion" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat oil in a large skillet over medium heat. Add onion, green pepper, and celery; cook until vegetables are just beginning to soften, about 7 minutes. Add tomatoes, broth, hot sauce, thyme, Worcestershire, salt, and black pepper. Bring to a boil. Reduce heat to medium-low; simmer, uncovered, until thickened and saucy, about 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Put catfish pieces on top of the vegetable mixture. Cook, covered, until catfish is just cooked through and opaque, about 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove catfish from the skillet and keep warm. Stir parsley into skillet. Serve étouffée and catfish over riced cauliflower. Sprinkle with green onion."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT65M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "T.W. Day"
+},
+"reviewBody": "Great recipe"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8338472/catfish-etouffee/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/183/soups-stews-and-chili/stews/",
+"name": "Stews"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1425/soups-stews-and-chili/stews/etouffee/",
+"name": "Etouffee Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8338472/catfish-etouffee/",
+"name": "Catfish Étouffée"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,179 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Broccoli Slaw with Spicy Dressing"
+,"datePublished": "2020-06-19T00:25:39.000-04:00"
+,"dateModified": "2020-06-19T00:25:39.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Siameezer"
+,"url": "https://www.allrecipes.com/cook/3683180"
+}
+]
+,"description": "Taste a broccoli slaw dressing that&#39;s creamy, spicy, sweet, and tangy, with mayonnaise, juicy lime, sugar, chili powder, cumin, and cayenne."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/LRVDX7AHsZdDEwR7ySusjVN2S1E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8056736-527d091532834f1cafe1d8538f54a062.jpg",
+"height": 1000,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Broccoli Slaw with Spicy Dressing"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "4"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "143 kcal"
+,"carbohydrateContent": "12 g"
+,"cholesterolContent": "11 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "1 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "255 mg"
+,"sugarContent": "7 g"
+,"fatContent": "11 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 (12 ounce) package broccoli coleslaw mix",
+"0.5 cup light mayonnaise",
+"2 limes, juiced",
+"2 teaspoons white sugar",
+"1 teaspoon brown sugar",
+"0.5 teaspoon chili powder",
+"0.5 teaspoon ground cumin",
+"0.25 teaspoon ground cayenne pepper" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place broccoli coleslaw mix in a bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix mayonnaise, lime juice, white sugar, brown sugar, chili powder, cumin, and cayenne pepper together in a separate bowl. Pour over the broccoli slaw."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT10M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle Shreffler"
+},
+"reviewBody": "I made it just as the recipe called but also added a little tajin clasico seasoning which is basically chili peppers, sea salt, citric acid and dehydrated lime juice. Mmm GOOD!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Springchick"
+},
+"reviewBody": "Delicious without being overly spicy. Works with regular slaw veggies, too. This is a keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Steven Mendes"
+},
+"reviewBody": "Very tasty slaw. I altered a little by using chipotle chili powder instead of “chili powder” and cayenne. Also used agave nectar in place of sugar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "France C"
+},
+"reviewBody": "A really tasty twist on the usual coleslaw! I thought the seasonings were perfect as is - a nice balance between creamy, sweet and spicy. I served it with honey-mustard salmon, but this would be excellent with fish tacos or smoked brisket or pulled pork. This is best if you make it ahead of time, as the flavors need time to meld."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/261575/broccoli-slaw-with-spicy-dressing/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/96/salad/",
+"name": "Salad"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17534/salad/taco-salad/",
+"name": "Taco Salad Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/261575/broccoli-slaw-with-spicy-dressing/",
+"name": "Broccoli Slaw with Spicy Dressing"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

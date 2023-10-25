@@ -1,0 +1,1421 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Apple Scones"
+,"datePublished": "1998-08-29T14:43:12.000-04:00"
+,"dateModified": "2022-10-04T17:58:56.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Carol"
+,"url": "https://www.allrecipes.com/cook/Carol"
+}
+]
+,"description": "Not too sweet, the apple really comes through in these delectable scones sprinkled with cinnamon sugar."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/qvTdPHfXGOgta0rnAEVcoYNtG-U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3210736-apple-scones-footballgrl16-4x3-1-3e11da5557bd4c419e9ecc7073616151.jpg",
+"height": 720,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Apple Scones"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.2",
+"ratingCount": "461"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "147 kcal"
+,"carbohydrateContent": "25 g"
+,"cholesterolContent": "11 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "264 mg"
+,"sugarContent": "8 g"
+,"fatContent": "4 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"2 cups all-purpose flour",
+"0.25 cup white sugar",
+"2 teaspoons baking powder",
+"0.5 teaspoon baking soda",
+"0.5 teaspoon salt",
+"0.25 cup butter, chilled",
+"1 apple - peeled, cored and shredded",
+"0.5 cup milk",
+"2 tablespoons milk",
+"2 tablespoons white sugar",
+"0.5 teaspoon ground cinnamon" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Measure flour, sugar, baking powder, soda, and salt into a large bowl. Cut in butter or margarine until crumbly. Add shredded apple and milk. Stir to form a soft dough."
+} ,{
+"@type": "HowToStep"
+,"text": "Turn dough out onto a lightly floured surface. Knead gently 8 to 10 times. Pat into two 6-inch circles. Place on greased baking sheet. Brush tops with milk, and sprinkle with sugar and cinnamon. Score each into 6 pie-shaped wedges."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake at 425 degrees F (220 degrees C) for 15 minutes, or until browned and risen. Serve warm with butter."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT30M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "mmcmahon2575"
+},
+"reviewBody": "This recipe is really good. I did add pumpkin and pumpkin pie spice for nice fall pumpkin apple scone. They were delicious, my family asked when I would make them again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dixiebelle"
+},
+"reviewBody": "I’ve tried several apple scone recipes but this is my new favorite! Soft and delicious it was hard not to eat them all myself!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Bill McKay"
+},
+"reviewBody": "I have no idea why people are raving over this. Like others I added cinnamon, and nutmeg to the dough. I probably even added extra apple as the recipe only calls for one apple, but I used two small ones. It smells great baking, but has little, to no taste. I can't imagine what it's like without extra flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Margo"
+},
+"reviewBody": "I followed Jillians recommendations and they were perfect"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "VALERIEANN_"
+},
+"reviewBody": "Easy, light and good, but the grated apple kind of disappeared. Next time I'll try diced apple instead, and I want to try diced peaches too. \nSprinkled the top with large granulated sugar, then cinnamon sugar on top of that, and that was good. \nI tried grating frozen butter before, and I think it's much easier and less messy to just cut in the butter the regular way.\nI will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nathan"
+},
+"reviewBody": "Great recipe! I did add cinnamon and nutmeg to the dough. Also made an apple cinnamon topping for it. Added the topping and then baked for 20mins. Turned out wonderful, everyone loves them!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Melaina"
+},
+"reviewBody": "Very good! I had to add a little bit of milk to mine and decided to add a little extra cinnamon and sugar to the dough."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gavin Mortimer"
+},
+"reviewBody": "Delicious! I added the extra milk into the batter instead of brushing it on top, this worked pretty well.\nI would also bake at 400 for 15+ minutes"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Emi"
+},
+"reviewBody": "The dough turned out incredibly dry, it looked like I hadn't added any wet ingredients to it. I thought it was because I cut the apple into chunks instead of shredding it and I used buttermilk instead of milk. I added an extra 1/4 cup of buttermilk and they got nice and sticky, and instead of kneading them I just scooped them onto the baking sheet. The dough itself wasn't very sweet or flavourful so I really dumped the cinnamon sugar on top and they turned out pretty nice after that."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "catsat"
+},
+"reviewBody": "I followed instructions to the tee while adding a bit of cinnamon and nutmeg and they were still tasteless. Very blah."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ann Petric"
+},
+"reviewBody": "Great recipe I coated apples in seasoning before adding it to dough"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "John Johnson"
+},
+"reviewBody": "I added a teaspoon and a half of cinnamon. Very nice recipe.\n Nice texture. Not too sweet just as described"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Emily Ramahlo"
+},
+"reviewBody": "Will absolutely make them again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Steve Plank"
+},
+"reviewBody": "This was absolutely delicious. I decided to add an extra apple to make the recipe richer, and, I'm sure as a result, I ended iup baking it for 19 minutes rather than the 15 specified in the recipe. At first, the middle of one of the scones seemed too under-cooked. However, after resting for about 15-20 minutes, it resolved that issue and was wonderful!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathy Tanner"
+},
+"reviewBody": "Easy to make and was so delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Alanna Dai"
+},
+"reviewBody": "A pretty simple recipe to follow, esp. as it was my first time tackling scones (pastries always scare me, I spent days researching scones before finally trying it myself)! I will say I made a couple changes based on what I learned, and what I read in other's reviews. I added about 2tbsp of cinnamon and pinch of nutmeg to the flour mixture. I also reduced the milk by a third, removed some of the juice from the shredded apple, and added in a handful of raisins. It helped make the mixture less wet, and as Kristiegreen mentioned, more scone-ish. Then I increased the butter by a tbsp. With these additions, the scones were deliciously flavorful! And so very soft and flaky."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Maschele Holler Alexander"
+},
+"reviewBody": "Turned out great. Next time thought I’ll add cinnamon into the batter"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I made these and found them quite enjoyable, although I would have preferred a stronger flavour. I have since branched out, partially inspired by this recipe, and created my own apple spice scones which are a definite favourite. So thanks to this recipe for the inspiration!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "christinicki"
+},
+"reviewBody": "This is the best recipe for scones! This is the third time I’ve made them and I don’t know how it’s possible but each time they seem even better! Thank you from me, my hubby and son :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gary Skelton"
+},
+"reviewBody": "Nice texture and great with tea without being dry."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "OoooshMcGoosh"
+},
+"reviewBody": "My husband complains that scones are too dry. Not these! Delicious and just the right level of sweet."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "earlyne"
+},
+"reviewBody": "Delicious recipe. Easy to make, I luuuv easy. I used 1 1/2 cups ap flour &amp; 1/2 cup ww flour. Didn’t peel the apple. Before grating. Will make these again for sure. Thanks Carol!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Amy Siegfried"
+},
+"reviewBody": "Made exactly as written- good but not great. I do not get any apple flavor from these scones.Even the cinnamon/sugar mix on top does not add much flavor. Very tender and easy to make and have to agree that they are better with a cup of tea but for me- meh."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Halyna Ryfyak"
+},
+"reviewBody": "I followed the recipe to a t but the scones turned out terrible. The dough was too soft and it was impossible to knead it. And they didn't rise in the oven at all. It's really disappointing because they look nice on the outside and the smell is great but inside there's just a clump of dough not appetizing at all."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Andrea Mitchell"
+},
+"reviewBody": "Great outline, but I increased the flour by 1/2 cup, used 1 whole stick of butter, added 1/2 tsp of cinnamon, 1/2 tsp of vanilla, 1 tablespoon of chia seeds (for fiber), and finally two apples instead of one. All other measurements were fine and the dough was perfect for the food processor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allan Long"
+},
+"reviewBody": "Quick &amp; easy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Yj Wright"
+},
+"reviewBody": "This is a very good scone recipe. The great thing about it is one could add nuts, which I did, and other spices. I used brown sugar instead of white and forgot to shred the apples, finely chopping instead. As one viewer suggested, I added 1 tsp cinnamon to batter instead of topping. I sometimes lightly glaze scones with powdered sugar and lemon juice when scones come out of oven and will try that in future instead of the milk, sugar, cinnamon. I recommend cutting each round into 6 separated pieces before baking. Yes, I made changes, but I know this would be a great recipe as written. My family loved them."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "chef for two"
+},
+"reviewBody": "I read the reviews regarding this recipe's blandness. To up the flavor , I used applesauce in place of 1/2 of the milk and added cinnamon to the batter. It didn't help. There is no richness in the flavor. This recipe goes out."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Magenta Yenta"
+},
+"reviewBody": "These were very good although they were a bit more moist than a traditional scone. I actually added a 1/2 tsp. cinnamon and a 1/2 tsp. vanilla extract as suggested by other reviews. They have a very subtle apple flavor considering I used a very large Granny Smith apple. I will definitely make them again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BARNKITTY"
+},
+"reviewBody": "Very, very pleased with these scones. I did sub honey for the sugar in the scones (used 'raw' sugar in the topping)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Donna and Ron Dandurand"
+},
+"reviewBody": "I love scones, but found this recipe pretty tasteless.... I'll try more apple and less milk next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dezz Courchesne"
+},
+"reviewBody": "Loved it, I added some 1/4 teaspoon of clove and 1/2 vanilla to bring out the apple and cinnamon flavor, and I chopped it in small chunks instead of shredding it, amazing recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Amhartls05"
+},
+"reviewBody": "I made these in my food processor just to make things easier on me. I didn't change the recipe with the exception that I had to add more flour to get the right consistency. I am not a sweet person, and I liked the scones. They were a bit bland, so the next batch I will add the nutmeg and cloves."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ebby"
+},
+"reviewBody": "Everytime I make these scones, my family and friends grab them off the plate before they even cool off. I LOVE this recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ashley Soustek"
+},
+"reviewBody": "Very easy recipe! They came out very moist and not dry and crumbly like some scone recipes I have tried. This recipe did not need any changes:)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mermaid62"
+},
+"reviewBody": "These were very fragrant and tender with nice crispy crust. My husband loves them for breakfast. I added cinnamon , a pinch of allspice and ginger to the flour mix. I also added about 1/2cup of raisins. I will be making these again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Catherine Royle"
+},
+"reviewBody": "Wonderful subtle flavour... I would make these again, but I would lower the temperature to 375°f and bake for 20 to 25 minutes or more time in 5 minute intervals if needed..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Carina Bandhauer"
+},
+"reviewBody": "Flavor was good and the exterior was nicely crunchy which is a real plus, but the interior texture was slightly rubbery. I make A LOT of scones &amp; I'm pretty sure it was just a matter of the recipe only calling for a quarter cup of butter, but a half cup of milk. The recipe is good enough that I think I'll swap those quantities and use 1/2 cup butter &amp; a 1/4 milk... I also might go crazy &amp; mix some additional cinnamon into the batter."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "shelby_mancha"
+},
+"reviewBody": "I made the scone dough according to the recipe. I made a glaze (to drizzle after baking) from powdered sugar and apple cider instead of the milk and sugar topping in the recipe . I will make these again !"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I made the scone dough according to the recipe. I made a glaze (to drizzle after baking) from powdered sugar and apple cider instead of the milk and sugar topping in the recipe . I will make these again !"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "SHAWNAJ"
+},
+"reviewBody": "Such an easy recipe! I added cinnamon, nutmeg and a bit of clove to the batter for more flavour. Next time I plan to make them with apple and cheddar!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Flipper"
+},
+"reviewBody": "This recipe tasted very yummy. However, the dough was really moist and hard to work with. I did use half whole wheat flour and left the peel on the apple, but those changes should not have made it extra wet. Because of the excess moisture, I did not brush the top with milk before adding the cinnamon (double what the recipe called for) and sugar. All in all, this is a decent recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Helen David"
+},
+"reviewBody": "My husband doesn't care for scones, but he thoroughly enjoyed these. They were moist &amp; didn't crumble when you took a bite."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "libby"
+},
+"reviewBody": "Oh SO good. I added some cinnamon and nutmeg to the dry ingredients and it added that perfect little something extra. I heard it was a little wet so I added about a cup of rolled oats. It's still a little doughy but it came out pretty nice, next time I'll add a little more I think. Definitely my go-to scone recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Nancy Miller"
+},
+"reviewBody": "This scone has no flavor. The consistency is that of a biscuit more than a scone . Very disappointing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Devon Dietlin"
+},
+"reviewBody": "These came out really good! I should have followed another user's directions and cut the milk in half though. I ended up having to put in well over a 1/2 cup of flour just to make it not so sticky. I also used 2 granny smith apples and shredded them in the food processor. To the flour mix, I added 1/2 tsp cinnamon, 1/2 tsp cream of tartar, and 1/4 tsp allspice. They turned out amazing! I even went and added my own icing (1 cup powdered sugar, 4 1/2 tsp milk, 1/2 tsp vanilla extract) and drizzled it over the top."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "ROSECLAR"
+},
+"reviewBody": "I was a bit disappointed that they are not the kind of flaky english scones that are cakey. \nI will not make this recipe again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Charlotte Jones"
+},
+"reviewBody": "The best scones i've made to date. Didn't have apple so i used a couple of carrots, yummy!!! It took 3/4 cup of milk instead of 1/2. Scones were light and flavorful. Will definitely make them again, who knows what fruit or veggies I'll try next!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Very delicious! Made exactly per recipe except I went just a little light on the milk. And honestly I could've gone a little lighter. I think that's due to the very juicy apple I used to make it. They have a nice light sweetness all by themselves, but with clotted cream and curds they are divine!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Joceyella"
+},
+"reviewBody": "I made tiny changes: added 1 tsp cinnamon, 1 tsp nutmeg, 1 tbsp brown sugar to the flour mixture since others said it was bland. I didn't put the topping because I added the flavour throughout. Brushed a bit of butter on the tops when they came out of the oven. \n\nNot too sweet, not to much apple. Just yum! \n\nThis was my first attempt at scones and they turned out prefectly. My oven runs hot so they were ready in 11 mins.\n\nI wish they were a bit light and flaky, but these are cakier than scones I've had at cafe. Still, my husband and his coworker loved them. I made these before he went off to work...the coworker said anytime I make them, send him some. Looks like a hit for my first attempt."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shelly Snyder Collins"
+},
+"reviewBody": "Yummy, my family loved them. I added a little extra flour because my apple was very large and the dough was sticky. I also added 1 tsp of apple pie spice and 1/8 tsp cardamom."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "tulosai"
+},
+"reviewBody": "Quick, easy, and very tasty, but a bit soft/crumbly for scones."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Julie Davis"
+},
+"reviewBody": "I don't know what I did wrong. I was unable to work with the dough as it was sticky. Pushed forward anyway. I added nutmeg like a previous review said. That was all I tasted. Not sure I will try again. Looking for advice from more experienced bakers as to what I did wrong to get sticky dough."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "gladie"
+},
+"reviewBody": "after reading a lot of the reviews, this is how I changed these. I chopped 1 pink lady apple and grated a golden delicious apple first, then added 1/2 teaspoon apple pie spice then let that stand while I mixed the dry, added 1/2 tsp of cinnamon. added the apple and milk patted it out and kneaded it 5-6 times. turned out really good for our taste. \n One reader said she could taste the baking powder . I use aluminum- free baking powder. no baking powder taste. this item can be found in most stores in the baking isle right beside the regular baking powder. this also works well in biscuits. Will try these again and use more spices. they were easy to make and disappeared very quickly."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "adove"
+},
+"reviewBody": "So good! Fluffy and moist. I omitted sugar, used 2 apples, handful of chopped dates and 1/4 cup of coconut."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jody"
+},
+"reviewBody": "My pan only makes only 8 instead of 12. I used the whole apple instead of 5/8 of an apple and it was not to much. I also added Apple pie spice and the cinnamon recommended and they were not over spiced. I will definitely make them again. Thanks for the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Katie"
+},
+"reviewBody": "Delicious. I used some flax meal and almond flour to replace just under half of the flour and used some splenda in place of the sugar and it was still delicious! Per previous suggestion, added cinnamon to batter and just a touch of almond extract. Yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jamie"
+},
+"reviewBody": "I made this as an Easter lunch for my roommates and myself. It was a hit! My only complaint was that it was hard to taste the apple, next time I will use a stronger tasting or a bigger apple. I threw some cinnamon straight into the dough, as well. It took a while to bake through, but that's because I realized I'd forgotten to slice my circles into the 6 wedges, I imagine it bakes better then you don't forget important steps. I think all things said and done, I've found my new Easter tradition! Goes great with butter and jam, or any spread you prefer."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "kylea"
+},
+"reviewBody": "This recipe is amazing all though I did add a few things to it and I didn't sheared the apple, I added 3 teaspoons of applesauce and some cinnamon in the dough and they turned out pretty good. But for my oven I had to turn the heat down and broil them for a couple minutes so they would cook. Kallea"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jan Mowbray"
+},
+"reviewBody": "Fluffy - they rose beautifully, very tasty but I absolutely cannot taste any apple. I read a number of the reviews which stated the same thing so I diced the apple, instead of shredding it, to get more direct apple taste but it made no difference. BTW, I didn't bother with the baking soda - it isn't needed. I did use a bit more baking powder. I'll have to continue my search for a really good apple scone."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mac gallagher"
+},
+"reviewBody": "Make sure to have the oven pre heated, and have the cookie sheet ready to take the scones from the start."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer Shepherd"
+},
+"reviewBody": "These are great and so easy to make. They're good when you want a yummy pastry that's not overly sweet."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gina & Debby"
+},
+"reviewBody": "Very tasty will make again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "DeniseM"
+},
+"reviewBody": "These were doughy and dry..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Lauren"
+},
+"reviewBody": "I made this recipe with a Mac apple. Came out quite dry, even though I added a bit more milk. Very tasty though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "abalck"
+},
+"reviewBody": "I did not care for this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Reagan"
+},
+"reviewBody": "I used wheat flour instead of all-purpose flour and the scones still tasted sweet and moist."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mervilous"
+},
+"reviewBody": "I made one change to this recipe, I added raisins to it. I made the first batch of this recipe as printed. They tasted very good, but decided raisins would make them even better. So I added 3/4 of a cup of raisins to the recipe and that one little addition made them taste so awesome. So my review is based off of the batch I made with raisins. This recipe is going to be a regular around our house."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "mistress_indigoddess"
+},
+"reviewBody": "I made 2 changes, 1 added another apple, 2 Added the cinnamon in the dough. They were pretty good. Not too dry. I will make them again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nancy Kay Thomas"
+},
+"reviewBody": "These were great. I used European sour cream for the milk and increased sugar to a half cup after reading reviews and they were very delish. Did need a little more flour though as well"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kblang"
+},
+"reviewBody": "My kids love these scones! I use brown sugar instead of white as others suggested."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tammy Geiss"
+},
+"reviewBody": "Very good. Used honey in place of sugar and added extra grated Granny Smith apples. Added 1 t. cinnamon to the dry mix. Also added raisins which made this more sweet and tasty. (And I don't usually like raisins in my baking but my husband loves raisin apple combinations). I used cream instead of milk. Skipped the butter / cinnamon on top just cut cold frozen butter and added to mix with cinnamon. We will be making these again. Needed 5 extra minutes to bake than directions perhaps since I added extra grated apple. Very moist recipe and not overly sweet."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "wildeyes"
+},
+"reviewBody": "delicious. i added a bit of cinnamon in the batter, and it really helped bring out the apple flavor. i'm going to experiment with a drizzled icing o go on these, as i think that would be fab as well"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sjmeads"
+},
+"reviewBody": "excellent! easy to make, fluffy, and delicious! a good size too. nice snack sized to have with a coffee at work instead of going to the shop :) I also made them with garlic and chedder. Nix the sugar, and add a splash extra milk. Worked perfectly!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kristi W"
+},
+"reviewBody": "My son is allergic to eggs, so it's always a challenge to find eggless baking recipes - but this is a WOW! I have 3 little boys, none of which are big eaters, and they ate the entire batch in 1 morning - I had to make another batch the next day. I added both cinnamon and freshly ground nutmeg to the dough - YUM! I did find that I had to bake them a bit longer than the recipe says - about 20 minutes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Milkshake Fanatic"
+},
+"reviewBody": "I made these scones because I had a lot of apples in the house that were about to go bad and I didn't want to waste them. I adjusted the recipe slightly to fit my families needs. Since I couldn't make the scones dairy I substituted margarine for the butter and rice milk for the milk. I also added chocolate chips to the scones since many reviews stated that they needed a little more zing. Instead of making the dough into circles and filling them with the sugar and cinnamon I rolled the dough into three inch circles and sprinkled the sugar mixture on top. I will probably make this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jessica"
+},
+"reviewBody": "Oh my these are simply amazing. This was my first time making scones and these turned out perfectly (I baked them in a convection oven too) I found they needed a tablespoon extra of milk though"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Melissa Perkey"
+},
+"reviewBody": "My favorite thing Ive ever baked! I added one Granny Smith apple and one Gala apple, also chopped them instead of grate. They were fantastic"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "fluteplayer"
+},
+"reviewBody": "These were tasty, due to the spices I added per someone's suggestion, but not very much apple flavor. I suggest adding twice the apple."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sadietherese"
+},
+"reviewBody": "Great recipe. I doubled this recipe, used whole wheat flour, skipped all of the white sugar and used only 1/2 cup of brown sugar, and added a teaspoon of cinnamon in to the recipe. The result was amazing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Diana Waddell"
+},
+"reviewBody": "Terrific! I added cinnamon in the scone batter"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mariah M"
+},
+"reviewBody": "Absolutely delicious!!\nInstead of 1 apple I added about 1 1/2 to 2 cups of finely chopped apple, and a little honey to the milk \"topping\" in step 2. Also recommend not using a mixer, use a wooden spoon- results will be better for the dough. \nAll in all a new family favorite, I will definitely be making these again. I only just took them out of the oven and already over half are gone. 2 batches next time I think!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lynn Rawline O'Connor Connell"
+},
+"reviewBody": "These are good. I added 2 tsp cinnamon to the dry mixture...and cut them into triangles on the parchment covered baking sheet. I really like them and will make them again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Emzyjeanie"
+},
+"reviewBody": "This is great. I made this recipe as written and it was delicious. But it would be even better if some cinnamon was added to the dough itself as other people have written. Also, needs to be some more apple. The apple flavor was not strong enough."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "vuvu"
+},
+"reviewBody": "Didn't taste the apple at all.. maybe needs some apple sauce and some spices in the batter. Not sweet enough, but that's a personal preference. Might try again with alterations"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "MJ"
+},
+"reviewBody": "These were not to our liking but that does not mean they were bad. They were just a bit too dry and bland for our tastes. I will try them again and add an extra apple - the apple flavor did not come through at all. I will also try adding some spices to the mix - maybe cinnamon, nutmeg &amp; ginger. Raisins might be a nice addition also. Even though they weren't our favorites they do go well with a cup of coffee or tea."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "katiebegood"
+},
+"reviewBody": "If you can find them, cinnamon chips are a good addition to this recipe. Ii also like to add nuts. I add nuts to everything!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "esthersue"
+},
+"reviewBody": "best scones ever. hands down. i used whole wheat flour, added 1 tsp cinnamon to the dough as well as 1 tsp vanilla extract, 1/2 tsp nutmeg, and 1/4 tsp allspice. this added insane delicious flavor. also chop up the apple and mince it as opposed to grating the apple. it ensures you really taste the apple and texture of it. i brushed melted butter over all the scones once i pulled them out of the oven. DELICIOUS"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "iris"
+},
+"reviewBody": "Good recipie. I added allspice (a pinch) and more cinimon and the taste was great. Really healthy, would recomend for breakfast. Left the plate quickly."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Not enough flour... Not enough apple... but other than that, a really great recipe :) I added cinnamon to the batter as well"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sugarflea"
+},
+"reviewBody": "Outstanding. I added a bit more sugar and some cinnamon to bring out the apple flavor and they were delicious. Thanks for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "artsynerd"
+},
+"reviewBody": "These were good, but not particularly healthy. I substituted fruit puree for the butter, used twice the amount of apple, and threw in a cup of whole wheat flour- the recipe needed that to really have a scone texture anyway. It comes out a bit better for you."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Rosa123"
+},
+"reviewBody": "I made these tonight, and it was quick and easy, and tasted not too bad. The kids ate it :) I would have loved it to be sweeter with a more apple flavour, but Im sure that will come with practice. the dough was too soft to knead, so I scooped a large table spoon portion and pressed it slightly. It came out perfect in our opinion (good luck to me trying to replicate it twice) But If you try it once and it doesnt come out right...try, try again :) Its a great recipe. Thanks for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Irvin S."
+},
+"reviewBody": "Very good. My family loves these apple treats."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sara Bee"
+},
+"reviewBody": "These came out amazing! I followed the advice of one reviewer and used 1/4 cup buttermilk, instead of the 1/2 cup milk called for. I also added a dash of ginger, zested half a small frozen lemon peel, and substituted a barely ripe peach for the apple. They were just a bit fluffier than I would have liked--more of a coffee cake than a scone--but still delicious with homemade clotted cream on top!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "RV Living"
+},
+"reviewBody": "After reading the reviews, I stayed with the recipe on the wet/dry ingredients. Added two small chopped gala apples, and cinnamon, nutmeg, and allspice.\n\nThe first batch didn't seem to be cooked all the way through; second batch I used the combo setting of convection/microwave and it turned out better.\n\nI think what's really missing here from the flavor is the butter... \n\nI think the better scone recipe to use for a base is this one: http://allrecipes.com/recipe/cranberry-scones-2/detail.aspx\n\nJust change out the cranberries for apples and cinnamon.\n\nI used splenda instead of sugar in both recipes and it worked fine.\n\nAlthough my husband like these scones I probably won't use this recipe again. The other recipe is so much richer and the texture was perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rhonda"
+},
+"reviewBody": "Very yummy and we add whater we feel like at the time...try bacon and cheese!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lulu"
+},
+"reviewBody": "I followed some other reviewers' advice and added a second apple, plus 1/2 tsp cinnamon mixed in with the batter along with 1/4 tsp allspice and 1/4 tsp nutmeg. I also used Splenda in place of sugar, whole wheat flour in place of all-purpose, and margarine in place of butter and had no issues. I then sprinkled the top of the 6\" circle with a tablespoon of splenda and additional cinnamon, and cut it into 8 scones.\nI think I might swap some of the flour for oats next time, just to shake things up, but they're still delicious without that particular extra touch. \nAlso, I was in a bit of a fluster when I was making these (long and unrelated story) and added the liquids before I realized I had not yet cut in the margarine. So I cut it in as I simultaneously mixed in the liquids, just moistening the dry. No problems came of my err. A nice, simple recipe, and my kitchen smells so wonderful!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennicaakes"
+},
+"reviewBody": "This was excenlent. Doubled the recipe and made it for 6 picky kids. They lovved it and they were filled"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/6905/apple-scones/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/360/bread/quick-bread/",
+"name": "Quick Bread Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1997/bread/quick-bread/scones/",
+"name": "Scone Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/6905/apple-scones/",
+"name": "Apple Scones"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

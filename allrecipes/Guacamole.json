@@ -1,0 +1,1427 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Guacamole"
+,"datePublished": "1999-08-15T13:29:38.000-04:00"
+,"dateModified": "2022-12-07T17:47:20.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Maryellen"
+,"url": "https://www.allrecipes.com/cook/26842562"
+}
+]
+,"description": "This tasty guacamole recipe is easy to make with ripe avocados, lime juice, tomatoes, garlic, and onion. Cilantro and cayenne give it an extra kick!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/z3kI3C-Z63q3UHqwqbr53SCU1Y4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14231_guacamole_Rita-1x1-1-6797bd34d19b4f88a210f2086ca1156f.jpg",
+"height": 1500,
+"width": 1500
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=6319897866112",
+"description": "",
+"duration": "PT1M2S",
+"name": "Guacamole Recipe",
+"thumbnailUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/9fe717ff-b818-4ea4-b232-d56460e48591/ec8cedc3-010b-436a-95b3-104ca8f1a74f/1280x720/match/image.jpg",
+"uploadDate": "2023-02-08T12:05:43.011-05:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Guacamole"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "7561"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "262 kcal"
+,"carbohydrateContent": "18 g"
+,"fiberContent": "11 g"
+,"proteinContent": "4 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "596 mg"
+,"sugarContent": "3 g"
+,"fatContent": "22 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"3 avocados - peeled, pitted, and mashed",
+"1 lime, juiced",
+"1 teaspoon salt",
+"2 roma (plum) tomatoes, diced",
+"0.5 cup diced onion",
+"3 tablespoons chopped fresh cilantro",
+"1 teaspoon minced garlic",
+"1 pinch ground cayenne pepper" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Mash avocados, lime juice, and salt together in a medium bowl; mix in tomatoes, onion, cilantro, and garlic. Stir in cayenne pepper."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/z3kI3C-Z63q3UHqwqbr53SCU1Y4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/14231_guacamole_Rita-1x1-1-6797bd34d19b4f88a210f2086ca1156f.jpg"
+}
+]
+,"text": "Serve immediately, or cover and refrigerate for 1 hour for improved flavor."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT15M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SmallTownTexasGirl"
+},
+"reviewBody": "Great recipe. The only thing I changes was I used 6 or more drops of Tabasco instead of the cayenne. Just a personal preference."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "2Toes"
+},
+"reviewBody": "First Guac I have made &amp; no need to look any further. I had to use cherry tomatoes, next time I'll use de-seeded Roma."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "jillhsieh"
+},
+"reviewBody": "Great base recipe, but maybe a bit heavy on the salt and lime. Would definitely try again with less salt and smaller lime."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "It was easy and quick to make. Delicious tasting. I put less Cayenne in because of the spice effect but delicious without as well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allan Spina"
+},
+"reviewBody": "Great recipe! I added a pinch of white pepper and a bit more garlic (yup, I love garlic)!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Connie Marse"
+},
+"reviewBody": "Just forget the garlic and raw onion."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Very good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "My Go to guacamole recipe since I first started making guac, Definitely A great recipe, simple and delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "One of the best guacamole recipes I’ve made!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Terrance Hamilton"
+},
+"reviewBody": "Great recipe. Thank you very much."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JulieMeikle"
+},
+"reviewBody": "Great recipe! I added some chili powder along with cayenne. It’s perfect! Family loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Emilio"
+},
+"reviewBody": "do it the same way, it is a winner"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Quick and easy! Worth the few tears I shed cutting the smelly onion Yummy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kestrel607"
+},
+"reviewBody": "Tried it with cayenne which gave it a subtle bite., and also with minced jalapeno."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Very easy and simple to prepare. Taste great. Need to reduce the salt"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pita"
+},
+"reviewBody": "This is my go 2 every Mexican dinner! it is delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I may have added a little more/less of some ingredients but overall it came out great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle Ellul"
+},
+"reviewBody": "The best homemade guac ever!!! I don't add the extras like onions or tomatoes, preferring something simple, and you don't really miss them. I could eat this forever. Better than what you get in restaurants that they charge you a small fortune for."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Charles DelOrfano"
+},
+"reviewBody": "I never attempted to make this before and this was very simple and easy for me. I had to change it up because I don't like cilantro at all. So, I added fresh Italian parsley instead, and I used lemon since I had no limes. Not too much ground pink salt and a bit of Adobo and tabasco. My friend and I ate it for our happy hour with tortilla chips and enjoyed it as is."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Best giacamole i have tasted in my entire life"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tressa Jantzen"
+},
+"reviewBody": "Made as written for the most part except used lime juice in the bottle, a little salt maybe a half a teaspoon. Also used fresh cilantro. Made it slightly chunky but could have been more chunky for my part. Next time I will leave out the salt and add a diced jalapeño and red onion. Could of used more cayenne, we like spice. It was very good. Hubby said it was perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bmccallister"
+},
+"reviewBody": "Fantastic"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Aaron Schmitz"
+},
+"reviewBody": "I recently went to Cozumel and went on a snorkel boat and while we were in the water the crew made fresh guac from veggies they brought with us and served with tortilla chips. I don't even like Avacodo's and never tried Guac, but it was outrageous amazing. I wish I had gotten their recipe. However I made a rough version of this to see how it compares using just 1 Avocado and lime juice instead of fresh lime and I love it. I'll be making a large batch of this for parties and football games. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Delicious! Next time I’ll probably add a little extra salt and cayenne, though. Very nice balance of onion/tomato to avocado."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LYNNESTWINS"
+},
+"reviewBody": "If I could give 10 stars, I would. This is an AWESOME recipe. The only thing I changed was the tomato. I did not have a Roma on hand only a homegrown Brandywine. A bit juicier but worked. I love this so much that I have made copies and handed out to my aunt and several friends. Thank you for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Barbara Smith"
+},
+"reviewBody": "I loved it! Great recipe! I did everything as directed. I Didn't change the recipe. It's so good, I didn't share it!! Thanks"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda Mills"
+},
+"reviewBody": "Just halved the recipe. Great"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shannon"
+},
+"reviewBody": "Perfect as is. No changes needed."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "i love guacamole when i make the Guacamole i use avocado and i mashes it all up."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christy Ratto-Bixby"
+},
+"reviewBody": "Love love love this recipe! Easy to make, hard to keep around! It was devoured!!! I now add a dash or two of cumin and an jalapeno. So good!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lulu"
+},
+"reviewBody": "easy perfect guac"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "First time making homemade guacamole and it is wonderful!! We can’t eat fresh onion so substituted 1/2 tbsp onion powder and left out the tomatoes since we don’t eat those either. Very very good!! We are quite impressed with our first try at homemade guacamole. Will definitely do it again and have already shared this recipe with family as well. It’s that good!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ginger Evans"
+},
+"reviewBody": "This is my 'go to' recipe! First time making guacamole the only change I made was to use lemon instead of lime and it was a huge hit even with some of my toughest critics - I was lucky to get any myself LOL. Thanks so much for sharing an awesome recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "It was good, I added jalepeno peppers too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Easy and delicious!! Will be making again and again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "takieda"
+},
+"reviewBody": "This is, hands down, the best guacamole out there. Do yourself a favor, if you try this, do it EXACTLY like the recipe - I find I generally stick with it 9 times out of 10. The only thing I occasionally add to this is some kind of spicy pepper (habanero this time around), which adds a very nice spice to an amazing flavor. Oh, and leave it a bit chunkier than the thumbnail picture - you'll enjoy it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joan Weaver"
+},
+"reviewBody": "I made this and it was some of the best guacamole I have ever tasted! I used a bit more of the cayenne pepper than called for and will probably use even more the next time and I used 4 avocados because I had 4 that were the perfect ripeness!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hawaiivike"
+},
+"reviewBody": "Wonderful!!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "speedbird7"
+},
+"reviewBody": "Fantastic recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Excellent. Good tomatoes are hard to find in Wisconsin in early spring so I justed added a few tablespoons of Rotel tomatoes with jalapeños. It was great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "slowcookerdiva"
+},
+"reviewBody": "This is bomb! Restaurant quality guacamole. If you want spicy guacamole, finely dice up a jalapeño pepper or scrape seeds of one in and mix. The cayenne pepper isn’t very spicy. It was fine without the tomatoes, but I added one anyway for color. Now I need to make some homemade lime tortilla chips to go with it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lorir"
+},
+"reviewBody": "This was so easy and delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Made as suggested, We loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kari L Dean"
+},
+"reviewBody": "Best recipe ive ever made"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mreed1144"
+},
+"reviewBody": "I was ready to be disappointed but it was delicious and oh so easy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rita"
+},
+"reviewBody": "Super good guac! I use extra lime because I like it a bit zestier."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "fordgirl1961"
+},
+"reviewBody": "Matched the recipe exactly. Got great reviews for this recipe! Said it was really great! Would make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Katherine Ferguson"
+},
+"reviewBody": "So good! It’s perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "deviboyle95"
+},
+"reviewBody": "Skipped the cilantro however. It is great mashed. I used frozen sliced jalapenos without the seeds and a dash of red chili flakes. I also used a mixture of sea salt &amp; kosher salt with 5 avocados. (Salt to taste) Love it love it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jsyh9gdtxx"
+},
+"reviewBody": "The first time I made this I followed the recipe as written. It was too salty so this time I just sprinkled salt over the guac after all the ingredients were blended. Much better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rata772020"
+},
+"reviewBody": "Fantastic and easy to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rebecca Ibe"
+},
+"reviewBody": "Made it exactly as written. It came out amazing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "My first guacamole and I loved it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "eliriv803"
+},
+"reviewBody": "Outstanding, great flavor!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "sarahmariefurlong"
+},
+"reviewBody": "WAAAAAY too much salt! DO NOT follow the measurement in this recipe. Completely ruined my guac. Unbelievably disappointed."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "andressapmarreiros"
+},
+"reviewBody": "Yummy! This recipe is Simple, healthy and delicious. Certainly deserves the five stars."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Polly"
+},
+"reviewBody": "I added a little more cayenne pepper and a little less salt. Other than that, I followed the recipe as given, and it was perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Loved it and quite simple...we especially liked the kick of the dash of cayenne pepper"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "aliceno57"
+},
+"reviewBody": "No cilantro, a little extra cayenne. So easy to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "justNitra"
+},
+"reviewBody": "This is so delicious...Full of flavor, I think I could eat it by itself. Fantastic!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Richard Van Doel"
+},
+"reviewBody": "This simple guacamole recipe gets me tons of complements. It’s a nice clean fresh tasting dip. Always a go to when making tacos for a party."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "legendgroup1"
+},
+"reviewBody": "Great, most guac recipes are similar and this one tastes great. I just sub in some jalapeno instead of the cayenne."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "nyernpa"
+},
+"reviewBody": "Everyone loved it. I could not eat it due to me being allergic to citrus acid limes and lemons"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "RbsCooking"
+},
+"reviewBody": "Really easy to customize to suit your personal tastes. I very much prefer this to the $8 container I recently bought. And for about half the price, I get more."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "germanyjess"
+},
+"reviewBody": "Per my own tastes, I went a little heavy on the salt and cayenne and a little lighter on the tomatoes. Love how it came out."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SamW"
+},
+"reviewBody": "Best guacamole ever!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle Bracknell"
+},
+"reviewBody": "Absolutely awesome!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "louszakal"
+},
+"reviewBody": "We added Jalapenos for spice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Kit"
+},
+"reviewBody": "Way too much lime"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "afterhours"
+},
+"reviewBody": "Loved it, definitely the best!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "EMBOBURKE"
+},
+"reviewBody": "Ive made this recipe about a hundred times, and its never let me down! I make a few changes - I don't always use tomatoes, depending on who's eating it, and it's still delicious. I sub a minced jalapeno instead of the cayenne - just prefer the flavour, and I always make sure to let it sit covered in the fridge for about 30 minutes before I serve it. So so yummy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rachel Hess"
+},
+"reviewBody": "This guac recipe was super easy to make (and remember for future reference). I left out the onion, only used 1 Roma, and added 1 jalapeño. Yummy!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Suzie Brewer-Kane"
+},
+"reviewBody": "WAY too much salt. I would make it as written then ad salt to taste. I had to add 2 more avocados (5 all together) and it was still to salty. And I love salt so take my word for it. Otherwise great recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JaxNY"
+},
+"reviewBody": "This recipe is divine and the proportions are perfect. Based on reviews below, I added 1 tsp cumin and left out the cayenne. It is DELICIOUS! Total game changer."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "julia q"
+},
+"reviewBody": "Easy and delicious. Loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Jackson List"
+},
+"reviewBody": "Awful. Absolutely awful. Under no circumstances juice an entire lime. maybe an 1/8 of a lime juiced will do the trick. If you want your guac to be half tomatoes, maybe use two whole roma tomatoes, otherwise just use one."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kim O"
+},
+"reviewBody": "I didn't have any cliantro &amp; left out the tomatoes as I am hoping that will let it survive a couple of days in the fridge. I think I ended up adding a little too much garlic to it but it was really good. I used a meat chopper to blend it which worked amazingly well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Becky Sandefur"
+},
+"reviewBody": "Delicious! I added some cumin because it’s my favorite spice and it was over the top great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "NiteSky"
+},
+"reviewBody": "Mine turned out great. The entire dish was devoured within 15 minutes of completing this recipe. I did make some changes; such as I used lime juice, no onions, and the cilantro was not fresh. My family says 5 star worthy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cathie"
+},
+"reviewBody": "Made this for a party and it was amazing. Everyone loved it. I did not use the cayenne but might chop a jalapeño next time"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "HappyH"
+},
+"reviewBody": "I've never put garlic in guacamole before so I gave it a try. Neither the wife or I liked it so I might give this another try, but with half as much salt and no garlic."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lea"
+},
+"reviewBody": "This is perfect guacamole! I will make it again many times."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TechKat"
+},
+"reviewBody": "personal notes:\n-less tomato\n-less salt \n-replace onion with onion powder"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nathan Sallee"
+},
+"reviewBody": "This guacamole is outstanding. I made a quadruple batch for a large gathering and it flat out stole the show!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "The Duner"
+},
+"reviewBody": "After my son tasted it, then stopped dancing, I realized this one is an ABSOLUTE WINNER!!! Btw, this is my first attempt at making guac myself."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michele "
+},
+"reviewBody": "Basic recipe that my family loves and asks for over and over again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Linda Harvey"
+},
+"reviewBody": "wish I had started with only half a teaspoon of salt. On homemade no\n salt pita chips it was very good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sangrin Thompson"
+},
+"reviewBody": "This turned out very good! The main change I made was with the onions. I used half yellow onion (1/4 cup) and half red onion (1/4 cup). I also may have used a little less than 3 tbsp of fresh, chopped cilantro (I didn't measure it, I eyeballed it). The next time I make it, I will try it with only one Roma (plum) tomato. Although I love the flavor, the tomato is a bit overpowering and I'd like to see if it's better with less tomato to get more taste from the avocado."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "natashquan"
+},
+"reviewBody": "Have been making this recipe for years. Only changes I tend to make are to reduce the chopped garlic to half a teaspoon and I don't bother with the cayenne at all. Don't be afraid to adjust the salt and lime juice to taste (it's worth using fresh limes and pulp, and I often use more than the recipe states) - a little more or less of one or the other can make all the difference between passable and amazing. I also recommend making it the night before it's to be eaten - this really benefits from letting the flavours meld."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "esperanzado"
+},
+"reviewBody": "So good! Loved the lime juice. I could eat the whole batch"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lonnie"
+},
+"reviewBody": "We loved it. Some Redwood lady said it was too salty. I added a little extra."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tabitha Anderson"
+},
+"reviewBody": "Very good! It tastes just like the restaurants. It was easy to make too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sonshaun"
+},
+"reviewBody": "My dad loved it. I only had one avocado on hand so perfect for one person. Instead of tomatoes I used one sweet pepper. He didn't share with anyone. It was gone before I could get a picture!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Barbara McLuskey"
+},
+"reviewBody": "I used parsley inside of soap!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda"
+},
+"reviewBody": "This is so easy and delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Jill Small"
+},
+"reviewBody": "Pretty bland"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Rotem Raviv"
+},
+"reviewBody": "Tbh, there was not enough avocado and too much onion and tomato. Would have less of each next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "megalistener"
+},
+"reviewBody": "My husband made this recipe. So Good! I made him make the next day too! He used frozen garlic as that's what we had."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Iheartcumbia"
+},
+"reviewBody": "This is a version of Guacamole BUT make this in a molcajete and it will be even better. Pound your cilantro, chiles and garlic with a couple pinches of salt. Then add your avocado, lime juice, tomatoes(if using) and chopped onion. Science is (almost) never wrong. Same idea as with pesto or curry pastes. Thanks Kenji!!!!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/14231/guacamole/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/105/appetizers-and-snacks/dips-and-spreads/",
+"name": "Dips and Spreads Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/434/appetizers-and-snacks/dips-and-spreads/guacamole/",
+"name": "Guacamole Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/14231/guacamole/",
+"name": "Guacamole"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

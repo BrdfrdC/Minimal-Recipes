@@ -1,0 +1,149 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Sautéed Apple, Onion, and Fennel"
+,"datePublished": "2022-11-22T15:01:32.000-05:00"
+,"dateModified": "2022-11-22T15:01:32.000-05:00"
+,"author": [ {"@type": "Person"
+,"name": "Virginia Willis" }
+]
+,"description": "Apples, onions, and fennel are quickly sautéed in a skillet to make a perfect side dish."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/2_kbHPFNFbV77ZEY95qOkHeG-Sk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/KH_012422_AR3927-4x3-1-b11e4532324947759df7606d37183d0c.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Sautéed Apple, Onion, and Fennel"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4",
+"ratingCount": "2"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "84 kcal"
+,"carbohydrateContent": "13 g"
+,"fiberContent": "5 g"
+,"proteinContent": "2 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "181 mg"
+,"fatContent": "4 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 tablespoon olive oil",
+"1 pound fennel, trimmed and thinly sliced",
+"1 onion, halved and thinly sliced",
+"0.5 teaspoon fennel seeds",
+"0.25 teaspoon salt",
+"0.125 teaspoon black pepper",
+"1 apple, cored and sliced with peel",
+"freshly ground black pepper and fennel fronds" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat oil in a large skillet over medium-high heat. Add fennel, onion, and fennel seeds. Season with salt and pepper."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook, stirring occasionally, until fennel is just tender and beginning to brown, 8 to 10 minutes. Stir in apple and cook until tender, about 5 minutes. Top with additional black pepper and, if desired, fennel fronds."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT25M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "S.E."
+},
+"reviewBody": "A delightful light side dish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "MealsbyMe"
+},
+"reviewBody": "This recipe is missing the type of apple that the chef used, which is a major omission IMO! I tried using a Fuji apple and it was just ok! Next time, I will try using a Granny Smith apple."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8509659/sauteed-apple-onion-and-fennel/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1059/fruits-and-vegetables/vegetables/",
+"name": "Vegetables"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1085/fruits-and-vegetables/vegetables/fennel/",
+"name": "Fennel"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8509659/sauteed-apple-onion-and-fennel/",
+"name": "Sautéed Apple, Onion, and Fennel"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

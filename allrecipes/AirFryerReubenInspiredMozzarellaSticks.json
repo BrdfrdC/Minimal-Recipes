@@ -1,0 +1,148 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Air Fryer Reuben-Inspired Mozzarella Sticks"
+,"datePublished": "2023-02-24T10:00:00.000-05:00"
+,"dateModified": "2023-02-24T10:00:00.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "lutzflcat"
+,"url": "https://www.allrecipes.com/cook/lutzflcat"
+}
+]
+,"description": "These delicious mozzarella sticks wrapped in egg roll wrappers and filled with corned beef and sauerkraut are ready in minutes."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/qPCnTZcJ4V0aL2uluvTmlYtHZUs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8544429-Air-Fryer-Reuben-Inspired-Mozzarella-Sticks-04a1747020a6455b851c280cbaf70e5e.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Air Fryer Reuben-Inspired Mozzarella Sticks"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "2",
+"ratingCount": "1"
+}
+,"cookTime": "PT8M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "220 kcal"
+,"carbohydrateContent": "11 g"
+,"cholesterolContent": "45 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "13 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "1031 mg"
+,"fatContent": "14 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"8 egg roll wrappers",
+"8 teaspoons Dijon mustard",
+"8 slices deli corned beef",
+"8 tablespoons sauerkraut, rinsed and well drained",
+"8 mozzarella string cheese sticks",
+"olive oil cooking spray",
+"0.5 cup thousand island salad dressing, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the air fryer to 390 degrees F (195 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Set out egg roll wrappers point side down onto a clean work surface, facing you. Spread each wrapper with Dijon mustard to within about 1/2 inch of the edges. Place a slice of corned beef in the center, and top with drained sauerkraut."
+} ,{
+"@type": "HowToStep"
+,"text": "Place a mozzarella stick on the bottom pointed end, tightly roll up about halfway. Fold in the sides, and continue rolling until just before you reach the end. Dip your finger in water, rub around the top point of the wrapper, and finish rolling to seal the wrapper."
+} ,{
+"@type": "HowToStep"
+,"text": "Lightly spritz the air fryer basket with olive oil spray or line with a parchment liner. Place the mozzarella sticks seam side down into the basket, making sure not to overcrowd. Lightly spray each wrapper with olive oil spray."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook until golden brown, 6 to 8 minutes. You may have to cook in 2 batches depending on the size of your air fryer. Serve immediately with thousand island dressing as a dip."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT23M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Kathy"
+},
+"reviewBody": "I appreciated the recipe. I made it exactly as directed. My husband and I just did not care for it at all. Hoping the next person who makes it will like it. :) Thank you!!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8544429/air-fryer-reuben-inspired-mozzarella-sticks/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/23070/everyday-cooking/cookware-and-equipment/air-fryer/",
+"name": "Air Fryer"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/23416/everyday-cooking/cookware-and-equipment/air-fryer/appetizers-and-snacks/",
+"name": "Appetizers and Snacks"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8544429/air-fryer-reuben-inspired-mozzarella-sticks/",
+"name": "Air Fryer Reuben-Inspired Mozzarella Sticks"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

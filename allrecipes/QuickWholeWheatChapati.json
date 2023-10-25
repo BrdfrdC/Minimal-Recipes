@@ -1,0 +1,333 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Quick Whole Wheat Chapati"
+,"datePublished": "2019-04-03T23:55:39.000-04:00"
+,"dateModified": "2022-11-20T19:19:36.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "desertdweller"
+,"url": "https://www.allrecipes.com/cook/4611884"
+}
+]
+,"description": "Fresh whole wheat chapati is quick, easy, and delicious; perfect with butter, as an accompaniment, or as a wrap!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/4-iInQk-_4eRpYXUY_5mVErJsyE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8553184-quick-whole-wheat-chapati-Lenka-4x3-1-4b53f342050f490891486f874d0d0e03.jpg",
+"height": 720,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Quick Whole Wheat Chapati"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "20"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "127 kcal"
+,"carbohydrateContent": "27 g"
+,"fiberContent": "5 g"
+,"proteinContent": "5 g"
+,"saturatedFatContent": "0 g"
+,"sodiumContent": "221 mg"
+,"sugarContent": "0 g"
+,"fatContent": "1 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"2.5 cups whole wheat flour",
+"0.75 teaspoon salt",
+"1 cup water" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Mix flour and salt together in a bowl. Stir in water to form a soft dough."
+} ,{
+"@type": "HowToStep"
+,"text": "Turn dough out onto a lightly floured work surface and knead several times. Divide into 8 pieces and roll each into a ball. Roll each ball into a very thin round using a rolling pin."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat a griddle over medium-high heat. Cook each dough round on griddle until dough bubbles and blisters appear, about 2 minutes. Flip and cook until lightly browned on the other side."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT20M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Indhusays"
+},
+"reviewBody": "Nice.."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I followed others suggestions to use warm water &amp; add as needed for the dough. I also let the dough rest for ~10 min in the refrigerator, before shaping &amp; rolling out. Added fresh garlic and used olive oil on the griddle. Came out perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jsivret"
+},
+"reviewBody": "Turned out great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "aarthi"
+},
+"reviewBody": "The chapatis were so soft as I used Aashirvaad Select Atta."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Lenka"
+},
+"reviewBody": "Maybe I overworked the dough or something but these were too hard to chew if not eaten right away."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Danielap"
+},
+"reviewBody": "Love this recipe! I don't buy wraps anymore. I just added a touch of chia seeds and flax for an extra nutritional boost. I agree with Lela, I'll add less water next time because the dough was sticky with one cup."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ms. D."
+},
+"reviewBody": "This is perhaps one of the simplest bread recipes ever. I spread my first batch with beans and avocado for a quick meal. Next, I will add different types of vegetables. The sky is the limit. It perfectly fits my new mediterranean way of eating. Will definitely be a keeper for me! Thanks for sharing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SunnyDaysNora"
+},
+"reviewBody": "Fabulous and easy to make too! A definite keeper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gideon Murray"
+},
+"reviewBody": "I followed other people's advice to pour in the water a little bit at a time and it worked out well. I ended up needing about 1/4 cup more but it turned out great. Super easy and doesn't detract from the taste of the filling.\n\nThanks so much for sharing this recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jill Evans"
+},
+"reviewBody": "A friend of mine from India, recently introduced me to this healthy, wholewheat, unleavened, tortilla that makes for a delicious sandwich wrap, soup dunker, hummus dipper, etc,... Paru's recipe is basically identical to this and I followed it exactly. In an effort to avoid over-processed foods tainted with preservatives and \"white powder\" substances like white flour &amp; sugar, this is an amazing substitute for us. I think it works best after the dough has been refrigerated for at least 10 minutes. Keep a bowl in the refrigerator for up to four or five days and just make tortillas as needed. Jeff and I both think they're great. Tip- spices like garlic and onion powder, pepper, cinnamon, or whatever you like may be added to spice it up a bit. *If you don't like whole wheat bread you will definitely not like this."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sam harris "
+},
+"reviewBody": "surprisingly easy. definitely will be a regular feature in future."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "JoAnn Hague"
+},
+"reviewBody": "As stated elsewhere, you will need to adjust the flour/water ratio as you knead the dough. I used corn meal at the end to coat the the rolled-out flatbread before grilling. The resulting flatbread is exactly as it sounds ... Although bland, and because it is bland, the flatbread blends well with spicy spreads."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lake Villa Guatemala"
+},
+"reviewBody": "It doesn't get much easier than this! I like this recipe because it has no added fat. My family loves these."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "suzie"
+},
+"reviewBody": "My first time making unleavened bread and it turned out great. Super easy recipe. I just added a little olive oil to a fry pan and cooked it in that. It turned out great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Claudell"
+},
+"reviewBody": "This is a great recipe. I added 2 table spoons of olive oil to the bater. Also used warm water to mix the dough. Refrigerate 20 mins. Super easy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lela"
+},
+"reviewBody": "I love the chapati. It has a nice flavor without the added lard or shortening. I did have to tweak the recipe. Only use 1/2 cup of water and then add water as needed. If you add a whole cup of water you will have a very sticky dough. Also, make sure your water is warm water. After making 8 small balls, let the dough rest for ten minutes before cooking. Meanwhile turn the heat to medium high on a cast iron griddle. Cook the chapati until you see bubbles start to form and then flip, about 10 seconds per side. Then flip for another ten seconds. Flip over again for another 10 seconds to make sure chapita is cooked."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/233531/quick-whole-wheat-chapati/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/156/bread/",
+"name": "Bread"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/360/bread/quick-bread/",
+"name": "Quick Bread Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/233531/quick-whole-wheat-chapati/",
+"name": "Quick Whole Wheat Chapati"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

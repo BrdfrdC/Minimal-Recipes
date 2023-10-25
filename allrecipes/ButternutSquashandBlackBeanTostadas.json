@@ -1,0 +1,168 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Butternut Squash and Black Bean Tostadas"
+,"datePublished": "2020-06-23T17:52:50.000-04:00"
+,"dateModified": "2020-06-23T17:52:50.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Kara Ceschini"
+,"url": "https://www.allrecipes.com/cook/karaceschini"
+}
+]
+,"description": "Roasted butternut squash is the perfect centerpiece of these vegetarian tostadas, as you can steam the spinach and warm the black beans while the squash bakes."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/JB5eFmtHPWy1Hwr-POhVL8vd2I8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5973683-b579856c7c694f92af0e2d2c766948d2.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Butternut Squash and Black Bean Tostadas"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "2"
+}
+,"cookTime": "PT25M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "228 kcal"
+,"carbohydrateContent": "43 g"
+,"cholesterolContent": "4 mg"
+,"fiberContent": "11 g"
+,"proteinContent": "10 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "397 mg"
+,"sugarContent": "3 g"
+,"fatContent": "4 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 medium butternut squash - peeled, seeded, and chopped into small cubes",
+"1 tablespoon olive oil",
+"4 cloves garlic, minced",
+"salt and ground black pepper to taste",
+"2 (15 ounce) cans black beans, drained",
+"5 cloves garlic, minced",
+"2 teaspoons ground cumin",
+"1 pound fresh spinach",
+"10 corn tortillas",
+"2 tablespoons chipotle-lime crema, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 400 degrees F (200 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Toss butternut squash with olive oil, garlic, and a pinch of salt and pepper. Spread evenly over a large rimmed baking sheet."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until squash is tender and just starting to brown at the edges, 25 to 35 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "While squash is baking, empty beans into a small pot over low heat. Add garlic and cumin; stir well and continue to warm for a few minutes until heated through. Turn off heat, cover, and set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat 1 to 2 tablespoons of water in a large skillet over medium heat. Add as much spinach as can fit. Sprinkle with salt, stir, and cook until spinach starts to wilt. Add additional spinach as it cooks down and makes more room. Cook, stirring occasionally, until all spinach is wilted, 3 to 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Top tortillas with the squash, beans, and spinach. Drizzle crema over tostadas."
+} ]
+,"recipeYield": ["10"]
+,"totalTime": "PT40M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "miss chickadee"
+},
+"reviewBody": "This was great! The vegetarians, gluten and dairy free all loved it! Made the crema with dairy free sour cream substitute. Will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda T"
+},
+"reviewBody": "Delicious and healthy.. made one as a taco and one as a tostada. Taco is easier to eat"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/268196/butternut-squash-and-black-bean-tostadas/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1097/fruits-and-vegetables/vegetables/squash/winter-squash/",
+"name": "Winter Squash"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/13394/fruits-and-vegetables/vegetables/squash/winter-squash/butternut-squash/",
+"name": "Butternut Squash"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/268196/butternut-squash-and-black-bean-tostadas/",
+"name": "Butternut Squash and Black Bean Tostadas"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,319 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Gnocchi with Tomato Sauce and Mozzarella"
+,"datePublished": "2018-06-08T10:49:36.000-04:00"
+,"dateModified": "2022-08-22T14:49:24.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Alemarsi"
+,"url": "https://www.allrecipes.com/cook/16028918"
+}
+]
+,"description": "Known as &#39;gnocchi alla sorrentina&#39;, this is a classic Italian pasta dish that uses simple ingredients but tastes delicious. Use homemade or bought gnocchi."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/A61Z63Tf9f5NrHvfF_MKtCeMzn0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7811505-0374f80467b849ada459ada1ba37a7f6.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Gnocchi with Tomato Sauce and Mozzarella"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "18"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "744 kcal"
+,"carbohydrateContent": "73 g"
+,"cholesterolContent": "88 mg"
+,"fiberContent": "10 g"
+,"proteinContent": "30 g"
+,"saturatedFatContent": "19 g"
+,"sodiumContent": "1101 mg"
+,"sugarContent": "2 g"
+,"fatContent": "40 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1.5 tablespoons extra-virgin olive oil",
+"0.5 onion, finely chopped",
+"1.5 (14.5 ounce) cans passata (crushed tomatoes)",
+"salt to taste",
+"1 (18 ounce) package potato gnocchi",
+"2 tablespoons grated Parmesan cheese",
+"1 (4 ounce) ball fresh mozzarella, cubed",
+"4 fresh basil leaves" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat olive oil in a saucepan over medium heat; cook onion until soft and translucent, about 5 minutes. Add passata and salt; simmer over low heat while you prepare the gnocchi."
+} ,{
+"@type": "HowToStep"
+,"text": "Bring a large pot of lightly salted water to a boil. Cook gnocchi in the boiling water until they float to the top, 2 to 4 minutes. Drain."
+} ,{
+"@type": "HowToStep"
+,"text": "Set an oven rack about 6 inches from the heat source and preheat the oven&#39;s broiler."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour 1 ladle of tomato sauce into the bottom of a baking dish. Add gnocchi, remaining tomato sauce, and Parmesan cheese; toss to combine. Arrange cubes of mozzarella cheese evenly on top."
+} ,{
+"@type": "HowToStep"
+,"text": "Place baking dish in the oven and broil until mozzarella cheese is melted and sauce has slightly reduced, 5 to 10 minutes. Remove from oven and garnish with basil leaves before serving."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT30M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sharon Boling Escamilla"
+},
+"reviewBody": "So simple to make and very delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Paul"
+},
+"reviewBody": "Brilliant"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This was an incredible Italian dish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "JoAnn"
+},
+"reviewBody": "Since I was cooking for 3, I changed the servings to 4. It was way too much food for 4 people, let alone 3. I could have easily fed 8. I would have been ok with 2 servings. This recipe is a little too heavy on the tomatoes for my taste; however, my son loved it. It was the first time I'd eaten gnocchi. I'd like to try it some other way. This was just not my favorite. I have tons of leftovers, and I just want to eat the cheese off of the top."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jeri Edwards"
+},
+"reviewBody": "It was absolutely delicious. I added a couple cloves with the onion along with some dried parsley and oregano with the tomatoes, and it has such an amazing flavor. So much better than any store bought pasta sauce. Well definitely make it again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "FrackFamily5 CA—>CT"
+},
+"reviewBody": "This was very tasty. Because I had crushed tomato not passata I added a cloves of garlic to the onions and some chopped basil to the sauce prior to broiling. Hit the spot. I loved the tang to the sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Raquel Lopez-Escobar"
+},
+"reviewBody": "I loved this! It was easy and Delicious. I added garlic, fresh basil and white wine to the onions ."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "brenda"
+},
+"reviewBody": "All loved it. Served with a salad and bread. Need to double it next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Judy in Delaware"
+},
+"reviewBody": "This dish was very easy and tasty. I love gnocchi and it's always a nice change from regular pasta. The sauce was very good, but I didn't have fresh basil, so left that off. Also, I omitted the broiler step and it was still just fine for us. I'll make this one again. Thanks for posting!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jamie Justice Yost"
+},
+"reviewBody": "This is one of my favorite meals - I keep gnocchi in my pantry just for dishes like this! I did add mushrooms to this because I needed to use them before they went bad but that's the glory of this dish - you can modify it several ways to fit your tastes (or your fridge.). The leftovers are great reheated, too, which is nice for lunch the next day. I used good canned tomatoes, which I think makes a big difference, but again - use what ya got. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Holiday Baker"
+},
+"reviewBody": "I liked this. It was a nice change to pasta. I am a mom of two young boys and have to save time these days. I used a 2lb jar of Victorio marinara. It already has the crushed tomatoes, onions, olive oil,..,I did still add a couple of drizzles of olive oil. My gnocchi had to cook a bit longer to rise to the top. Then I let it boil 3-4 minutes more. I doubled the Parmesan and mozzarella, only because my jar of sauce was quite large. I’ve never put fresh mozzarella in a broiler. I didn’t feel it melted that well. It mostly kept its shape. I would like to try this again with hand shredded whole milk mozzarella and maybe even adding sausage. Ty, for an easy week night recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "sanzoe"
+},
+"reviewBody": "This was a simple and pretty good recipe. I think it could use a little something to spice it up a bit, it was pretty boring and bland."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kim's Cooking Now"
+},
+"reviewBody": "Simple and delicious! I did broil this for a few minutes, like the recipe instructs, but I think next time, I'll do like we always do, and just toss the mozzarella in with the gnocchi and sauce, and let the heat of the two slightly melt the cheese. If you can find passata di pomodoro that is imported from Italy, it truly makes a world of difference. We find it at Dekalb Farmers Market, near Atlanta."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Veronica M. Robinette"
+},
+"reviewBody": "This was an extremely easy recipe and very tasty. I made it basically how it’s stated except I added some garlic and Italians herbs to the sauce. I also just baked it for about 20 minutes at 350 instead of broiling it. Will definitely again!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/265089/gnocchi-with-tomato-sauce-and-mozzarella/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/521/pasta-and-noodles/pasta-by-shape/",
+"name": "Pasta by Shape Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16808/pasta-and-noodles/pasta-by-shape/gnocchi/",
+"name": "Gnocchi Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/265089/gnocchi-with-tomato-sauce-and-mozzarella/",
+"name": "Gnocchi with Tomato Sauce and Mozzarella"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

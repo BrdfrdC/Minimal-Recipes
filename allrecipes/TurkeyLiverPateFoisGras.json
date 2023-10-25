@@ -1,0 +1,116 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Turkey Liver Pate (Fois Gras)"
+,"datePublished": "2017-11-21T09:05:32.000-05:00"
+,"dateModified": "2017-11-21T09:05:32.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "senecawoman"
+,"url": "https://www.allrecipes.com/cook/senecawoman5"
+}
+]
+,"description": "The liver from your Thanksgiving turkey can be used to make this simple turkey foie gras which keeps for up to 5 days in the refrigerator."
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Turkey Liver Pate (Fois Gras)"
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "165 kcal"
+,"carbohydrateContent": "2 g"
+,"cholesterolContent": "123 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "7 g"
+,"saturatedFatContent": "8 g"
+,"sodiumContent": "852 mg"
+,"sugarContent": "0 g"
+,"fatContent": "15 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"2 cups chicken stock",
+"1 teaspoon kosher salt",
+"0.25 pound turkey liver",
+"0.5 cup heavy cream",
+"0.5 teaspoon ground white pepper" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place stock in a heavy pan; add salt and bring to a boil. Gently add liver with a spoon and return to a boil."
+} ,{
+"@type": "HowToStep"
+,"text": "Reduce heat and simmer until liver is completely opaque in color, 8 to 10 minutes. Remove liver from the pan and let sit for 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Put liver into a food mixer. Add cream, a little at a time, and process until smooth. Season with pepper. Chill before serving, if desired."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT30M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/284344/turkey-liver-pate-fois-gras/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/105/appetizers-and-snacks/dips-and-spreads/",
+"name": "Dips and Spreads Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/435/appetizers-and-snacks/dips-and-spreads/pate/",
+"name": "Pate Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/284344/turkey-liver-pate-fois-gras/",
+"name": "Turkey Liver Pate (Fois Gras)"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

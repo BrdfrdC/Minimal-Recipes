@@ -1,0 +1,173 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Roasted Acorn Squash with Sriracha Butter"
+,"datePublished": "2022-12-01T09:00:00.000-05:00"
+,"dateModified": "2022-12-01T09:00:00.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "France C"
+,"url": "https://www.allrecipes.com/cook/francecevallos"
+}
+]
+,"description": "Roasting acorn squash brings out its natural sweetness. Topped with Sriracha butter takes it to the next level."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/yYjk1w-Cvm4xlzA2k0Eu0g423fQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1669686773IMG_4717202-50065cc96362406e9fc3b123781a830e.jpg",
+"height": 1000,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Roasted Acorn Squash with Sriracha Butter"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "3"
+}
+,"cookTime": "PT35M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "192 kcal"
+,"carbohydrateContent": "16 g"
+,"cholesterolContent": "31 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "1 g"
+,"saturatedFatContent": "8 g"
+,"sodiumContent": "403 mg"
+,"fatContent": "15 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 (2 pound) acorn squash",
+"0.25 cup butter",
+"2 tablespoons Sriracha sauce",
+"2 teaspoons honey",
+"1 tablespoon olive oil",
+"salt and freshly ground black pepper to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 400 degrees F (200 degrees C). Line a baking sheet with parchment paper."
+} ,{
+"@type": "HowToStep"
+,"text": "Cut the squash in half vertically, and scoop out the seeds in the middle. Cut each half into 4 wedges and place wedges on the prepared baking sheet."
+} ,{
+"@type": "HowToStep"
+,"text": "Melt butter in a small saucepan over medium-low heat. Whisk in Sriracha sauce and honey; keep warm."
+} ,{
+"@type": "HowToStep"
+,"text": "Brush squash with olive oil and sprinkle with salt and pepper. Place wedges on their side and roast for 20 minutes; flip wedges over and roast until squash is soft and edges are caramelized, 15 to 20 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Place wedges on a serving platter and drizzle with Sriracha butter."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT50M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lupini"
+},
+"reviewBody": "What a surprise! Savory acorn squash. The squash has a creamy texture that absorbs the sweet and spicy flavors! Now I have a choice between making acorn squash with brown sugar or a little spicy pepper sauce!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Xtremegardener"
+},
+"reviewBody": "We made this exactly as instructed and it was WONDERFUL. We will definitely make this again and are sending it to friends &amp; family."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Paula"
+},
+"reviewBody": "I love acorn squash and this is an interesting, alternative way to eat it (I usually bake it with butter and brown sugar). It has more of a savory flavor with a spicy kick."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8513732/roasted-acorn-squash-with-sriracha-butter/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1097/fruits-and-vegetables/vegetables/squash/winter-squash/",
+"name": "Winter Squash"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/2454/fruits-and-vegetables/vegetables/squash/winter-squash/acorn-squash/",
+"name": "Acorn Squash"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8513732/roasted-acorn-squash-with-sriracha-butter/",
+"name": "Roasted Acorn Squash with Sriracha Butter"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

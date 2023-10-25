@@ -1,0 +1,353 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Shrimp Primavera with Goat Cheese"
+,"datePublished": "2019-04-02T02:57:52.000-04:00"
+,"dateModified": "2022-08-22T14:43:17.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Luna's Mom"
+}
+]
+,"description": "Marinated artichokes, tomatoes, and capers make a quick and easy sauce for fresh shrimp. Served with whole-wheat pasta and tangy goat cheese, this pasta dish is a deliciously light dinner."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/AIlrCXN8jUILp-YgcHr-Koi9bbM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1125399-8c376c4c6de74bfcbcd32716647729af.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Shrimp Primavera with Goat Cheese"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "21"
+}
+,"cookTime": "PT25M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "519 kcal"
+,"carbohydrateContent": "55 g"
+,"cholesterolContent": "203 mg"
+,"fiberContent": "8 g"
+,"proteinContent": "38 g"
+,"saturatedFatContent": "9 g"
+,"sodiumContent": "750 mg"
+,"sugarContent": "4 g"
+,"fatContent": "19 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"0.5 (16 ounce) package whole wheat rotini pasta",
+"2 teaspoons olive oil",
+"3 green onions, slivered",
+"2 cloves garlic, minced",
+"1 (8 ounce) jar quartered marinated artichoke hearts, drained",
+"1 (14.5 ounce) can no-salt-added whole tomatoes, undrained and chopped",
+"2 tablespoons capers",
+"0.25 teaspoon chipotle chile powder",
+"1 pound large shrimp, peeled and deveined",
+"0.33333334326744 pound crumbled goat cheese" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Bring a large pot of lightly salted water to a boil; cook the rotini at a boil until tender yet firm to the bite, about 8 minutes; drain."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, heat olive oil in a large skillet over medium heat; cook and stir green onions and garlic until onions are tender, about 4 minutes. Add artichokes, tomatoes, capers, and chipotle chile powder; bring to a boil. Reduce heat to low and simmer. Place shrimp into sauce; cook and stir until they are bright pink on the outside and the meat is no longer transparent in the center, about 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Divide pasta evenly into 4 bowls and top with shrimp and tomato sauce. Scatter goat cheese over sauce."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT40M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jessica Greenwood"
+},
+"reviewBody": "SOOOOO GOOD!!! This is my new favorite shrimp pasta recipe! Only things I did different was to add a splash of white wine to the sauce, my husband grilled the shrimp in garlic-chapotle butter, and I used feta instead of goat cheese because that's what I had on hand and didn't have time to run to the store! It was amazing, my husband grilled some buttered chabatta bread to go with it....drool \nMy family gobbled it up, there were no left overs, next time I'll make double!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MamaK"
+},
+"reviewBody": "Easy and delicious. I doubled the garlic and green onion."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Patty Martinez (pattyp)"
+},
+"reviewBody": "This was absolutely delicious! One of the best recipes I've founds on this site so far."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "breggae"
+},
+"reviewBody": "My husband despises tomatoes in a dish that have to be cooked. I made it exactly as stated, and the man had two servings!! The second of which was much bigger than the first one!! We'll definitely be making this again soon!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "AnnaBelleCox"
+},
+"reviewBody": "Love this recipe and saved calories using sugar snap peas in place of pasta. I stir fry about a pound of sugar snap peas in canola oil with red pepper flakes for a couple of minutes and then set aside. I also use fresh, juicy chopped tomatoes rather than canned. Decadently good. I rte five stars."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anne"
+},
+"reviewBody": "Amazing flavor! Loved this recipe and will share with family"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cfberry2"
+},
+"reviewBody": "Absolutely love this dish! My family thinks I'm a gourmet chef now."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Obie"
+},
+"reviewBody": "This is one of those recipes that I would not change in any way. Add a glass of crisp pinot grigio, a green salad, and the it's a perfect dinner."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mpapka"
+},
+"reviewBody": "This recipe is AMAZING!!! I added a red bell pepper as well and it was a great addition. \n\nThis is now one of our favorite recipes and it's very easy to make.\nMPapka"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tangodiva"
+},
+"reviewBody": "I just made this for 65 people. They LOVED it!!! The only alterations I made were adding three color sweet peppers and using green onions, leeks and yellow onions, also roasting some vine tomatoes to add to the canned ones (that's what I had on hand) The goat cheese was too creamy, so I slathered it on top and mixed it in. Garnished with fresh chopped basil. And it was so easy!! When I asked my husband to taste it, his response was, \"Why haven't you made this before?\""
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "scootersandi"
+},
+"reviewBody": "Delicious, light, fresh-tasting meal! Great pasta for summer - not heavy with sauce. Loved the fresh taste of the tomatoes - used Walmart brand \"no salt added petite diced\" and recommend them (I only found them because of this dish, so I'm thankful!) Next time, I will mix the pasta into the shrimp &amp; sauce plus add the cheese &amp; stir it in, as mine didn't melt enough to spread over the whole serving when it was \"scattered\" on. Oh, and I didn't have \"marinated\" artichokes, but the plain were fine with the seasonings in the dish. You should try this - you'll like it if you like the ingredients. Served it with Chef John's (excellent) garlic rolls and green bean/carrot/mushroom recipe from this site, and started the dinner with the 24 hour salad as seen here. Great meal that will be repeated!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kegaket1"
+},
+"reviewBody": "Does goat cheese mean feta in this recipe? I used chevre, but it was definitely too creamy to be crumbled. I just melted it and swirled it (very lightly w/streaks still showing) into the sauce before serving and it was fantastic. Also added a generous, generous squeeze of lemon. It did not curdle the cheese. Heavenly!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dina"
+},
+"reviewBody": "This was fantastic! I made some simple variations because I did not have artichokes on hand. Instead I added frozen peas and spinach after browning the garlic and green onion. I then added about a 1/3 cup of white wine and cooked it down with the veggies. Then I added the tomato and cooked that down, removed it from the pan, then sauteed the shrimp with salt and pepper in a little olive oil. Once cooked through, I returned the sauce with veggies to the pan, then added about a 1/3 lb of cooked aldente penne pasta to the sauce, and tossed it in the pan with the heat on for a few minutes to let the flavor set in the pasta. The capers and chipotle was perfect just the way it was. I topped it with Pecorino Romano cheese. I thought I was taking a risk with the peas, but it was awesome. This only took 20 minutes total! Thank you for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Billie575"
+},
+"reviewBody": "This was great!!! I also used a ca of diced fire roasted tomatoes. So easy. I added the goat cheese to the sauce pan so it could melt a little."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cindy lou who"
+},
+"reviewBody": "This was absolutely delicious!!! I used a can of diced fire roasted tomatoes instead of the whole tomatoes. It saved some time. My fiance loved it, too. Thanks for posting it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dermic"
+},
+"reviewBody": "This recipe was delicious , I will try adding some baby spinach next time i make it (extra veggies)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marianne"
+},
+"reviewBody": "Thank you, Luna's Mom! This was an excellent dinner for us tonight. I made this for just the two of us with half a pound of really good shrimp and fusilli rather than rotini (what I had on hand). I did add a little of my lemon olive oil and a touch of pecorino and romano parmesan to the pasta before putting the shrimp mixture on top. Otherwise, I followed your directions. I had to Google the difference between feta and goat cheese earlier today because I had feta on hand. That led me to go out to Sprouts to buy the goat cheese, and I'm so glad I did because it is not as salty and just kind of melts into the dish as you start to stir it around to eat it. Yum! The tomatoes I used were from Sprouts--fire roasted diced tomatoes, and the artichoke hearts are my favorite Trader Joe's (not as salty as others). This was totally excellent. I'll be hard pressed not to have some for breakfast in the morning (we have to wait for leftovers tomorrow night)! Thanks again! EDIT: PS Leftovers were excellent!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/223108/shrimp-primavera-with-goat-cheese/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/231/world-cuisine/european/",
+"name": "European"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/723/world-cuisine/european/italian/",
+"name": "Italian"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/223108/shrimp-primavera-with-goat-cheese/",
+"name": "Shrimp Primavera with Goat Cheese"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

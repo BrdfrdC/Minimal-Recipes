@@ -1,0 +1,879 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Jalapeño Cranberry Sauce"
+,"datePublished": "1998-12-20T07:16:58.000-05:00"
+,"dateModified": "2022-08-04T11:51:36.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "William Uncle Bill Anatooskin"
+,"url": "https://www.allrecipes.com/cook/61842"
+}
+]
+,"description": "A moderately spicy jalapeño cranberry sauce with sherry for extra flavor is easy to make for your holiday meal. Leftovers are great on sandwiches!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/eGIb6FLTcidqqvHgPLgHM70d1u4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/313179-cb06bcc39a9c4e56b2411e37a869b23a.jpg",
+"height": 250,
+"width": 250
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Jalapeño Cranberry Sauce"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "68"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "132 kcal"
+,"carbohydrateContent": "33 g"
+,"fiberContent": "2 g"
+,"proteinContent": "0 g"
+,"sodiumContent": "92 mg"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 cup water",
+"1 cup white sugar",
+"1 (12 ounce) bag fresh cranberries, rinsed and drained",
+"3 medium jalapeño peppers, seeded and minced",
+"2 teaspoons lemon juice",
+"0.5 cup sherry" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Mix water and sugar together in a saucepan over medium heat until sugar is dissolved and mixture is boiling, about 5 minutes. Add cranberries, jalapeño peppers, and lemon juice; return to boil."
+} ,{
+"@type": "HowToStep"
+,"text": "Reduce heat to a gentle simmer and cook, stirring occasionally, until cranberries have broken down and sauce has thickened, 10 to 25 minutes. Stir in sherry."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove from the heat and let cool to room temperature. Serve or transfer to a glass container, cover, and refrigerate until ready to serve."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT30M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ramona Craft"
+},
+"reviewBody": "I never liked cranberry sauce until this! The bright taste (not heat) of the peppers just make this perfect! If you want the heat, leave the ribs and seeds in the peppers."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Scott Phelan"
+},
+"reviewBody": "I just made this on Thanksgiving. It's very good. I made a few changes, though. I used 1/2 cup of water, and 1/2 cup of orange juice to help the lemon juice out. Also, I didn't have any sherry, so I used 1/2 cup of white wine (pinot grigio), and that really added an exotic taste. I used the 3 jalapenos and seeded them, and that took all the spice out. Next time I would probably leave the seeds and membranes in. Also, the cooking time is too little. I cooked mine for 15 minutes on medium low, and still had unpopped berries. Very nice recipe! Will definitely make again!\n\nNOTE: I wanted to post a photo, but the site demands tiny file sizes. Oh well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kimberly Burt Belstene"
+},
+"reviewBody": "I have made this recipe fir quite a few years now and love it. My family always requests it. I am wondering if this recioe is able to be canned??"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "molly"
+},
+"reviewBody": "Great! I did one jalapeño and half the sugar and I love it! Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathy Heim"
+},
+"reviewBody": "Added some shredded orange rind and a squeeze of orange juice. Very good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gary Osborn"
+},
+"reviewBody": "Best cranberry sauce ever."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "squashm"
+},
+"reviewBody": "The jalapeno peppers were hot while fresh but cooking takes most of the heat out. I did not add the sherry because I thought it would turn out too runny. I was right the consistency was perfect. I did add a some of my own dried hot peppers to give it some heat. Loved the recipe and will make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "14Grace"
+},
+"reviewBody": "Delicious.....everyone loved it! The favor of the cranberry sauce with a hint of spiciness complemented the turkey . Would definitely make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LILNIKKI15"
+},
+"reviewBody": "Absolutely love this recipe, I make it for every holiday!!!! I normally make extra and freeze it in small containers for quick evening meals!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Shaumarie Tanner"
+},
+"reviewBody": "I liked this cranberry sauce but no one else in the family did."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laberle"
+},
+"reviewBody": "I doubled the recipe and used 3 minced Chipotles in adobo sauce, instead of jalapeno, and 1 teaspoon cinnamon. Was delish.\nUse this as sauce for simmering turkey meatballs."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Melissa Schultz Johns"
+},
+"reviewBody": "Always a hit! I usually cook the sherry off a little longer before removing from heat as well. I also remove all seeds from jalapeno and use only one large or two small peppers. I didn't do that the first year I made it and our was way too strong!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CB Denver"
+},
+"reviewBody": "This is a wonderful recipe, that we will make each Thanksgiving from now on. I wouldn't change a thing. I did HAVE to change one thing--our store was out of fresh jalapenos, so I used canned ones instead. We used 1-1/2 cans (4 oz. each) of sliced jalapenos, but of course drained and minced them. Despite being drained, I believe they added just a bit of extra liquid to the recipe, so would decrease the water by 1-2 tablespoons if I have to use the canned ones again. But it still turned out wonderfully. A great alternative to the old standard cranberry sauce--but still really easy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "jjknack"
+},
+"reviewBody": "I used 2 jalapeños (one fairly large)... the sauce wasn't too hot, but the cooked jalapeño taste completely overpowered the cranberry taste. Very disappointing \\"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Andrea Wade"
+},
+"reviewBody": "Since I like a little citrus in my relish, I added fresh Mandarin orange peel and 1 or 2 slices of Mandarin orange to it.... along with the jalapenas and the oranges... my family has declared it some kicking sauce! Love this!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Paula Kreft"
+},
+"reviewBody": "Very good. A lot depends on the size of your jalapeños, I would have added more."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "HeatherLilly"
+},
+"reviewBody": "Ehh... maybe our jalapenos weren't that hot, because I couldn't taste any heat in the end product. I was pretty disappointed, I had such high hopes. There are other cranberry sauces that I like more."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "r harding"
+},
+"reviewBody": "I don't particularly like cranberry sauce but this was delicious with our turkey."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "KANDIYOHIV"
+},
+"reviewBody": "I liked this with cream cheese and a bagel"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "SBaker"
+},
+"reviewBody": "I thought this recipe was really good. I put mine in the blender after cooking to make it smooth and the heat from the jalapenos was a pleasant pair to the sugary tart cranberries."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alex"
+},
+"reviewBody": "This is wonderful,thanks so much for this recipe!,I didn't have sherry so I used orange juice as others suggested.I also added 1/2 tsp. cinnamon,and let it simmer for about 25 min. to get a preserve texture. I also let the seeds in the jalapenos as we like heat.I used 2 med. sized jalapenos."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "luv2cookluv2eat"
+},
+"reviewBody": "Delicious!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JenRen"
+},
+"reviewBody": "I've made this recipe twice now and have loved it both times. First time I followed the recipe exactly. The second time I substituted tequila (reposado) for the sherry. Yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pam"
+},
+"reviewBody": "I have made this dish two years in a row and it's something my boyfriend and I look forward to during the holiday season. The dish is very easy to make and everyone is pleasantly surprised my the sweet tart flavor of the cranberry in the beginning and the smooth jalapeno taste at the end. I recommend using 1/2 cup of sugar to maintain the tartness of the cranberry and cut out some calories, leave the seeds of the jalapenos in if you like it spicy and allow mixture to reduce for 30 -45 minutes to get a jam like consistency that is ideal for turkey sandwiches."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SCRAPPINSAM"
+},
+"reviewBody": "This is the BEST cranberry sauce ever! I make it Ns share with friends. The only difference is I have used merlot in place of sherry and I add about a cup of dried cherries."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JARRIE "
+},
+"reviewBody": "I thought this was very nice. It's missing a little something compared to my usual recipe -- I think maybe I am just too set on allspice in my cranberry sauce -- but that's not the recipe's fault. I think I just got used to allspice in it and now it's weird when I don't have it (I did this same thing last year, added allspice after it cooled.) Anyway, I used 3 tiny home-grown jalapenos and that was plenty (and I have a decent heat tolerance). I think if you're using the big ones from the store, don't do more than 1 unless you're the kind of person who can bite a raw jalapeno and determine how hot it is from that. (I'm not, but I've seen it done!) I used sake because that's what I keep around for recipes that call for sherry and it was fine. I think Grand Marnier like someone else used would've been even better, a nice hit of orange would be great. No one in our family uses cranberry sauce with meat, but we like to put it over cream cheese (or cheese ball) &amp; crackers as an appy while we wait for the turkey. Thanks for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "VRCOOK"
+},
+"reviewBody": "Nice recipe although I only added one jalapeno for my family members who don't like too much spice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "BALDOR1"
+},
+"reviewBody": "This was okay initially, but the longer it sat in the fridge the better it got. Like the others, I let the sauce cook for a little bit to kill the alcohol from the sherry. I guess I didn't cook long enough because it took a while for the flavor to die. But once it did, it was very tasty. I used this as a side for Cajun-style Turducken and leftovers to fill corn muffins."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Toni Losada"
+},
+"reviewBody": "AWESOME!! I don't even like cranberry but this was fantastic made it for thanksgiving and everyone RAVED about it!! I will make this to put over chicken or fish as well great recipe thanks"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CJ Barrera"
+},
+"reviewBody": "Substituted brandy for sherry...O.M.G. ~ A KEEPER!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Richard and Milena"
+},
+"reviewBody": "This was one of the easiest most tasteful recipes that I have ever made. I just used on jalapeno and I used 1/2 cup red wine because that is all I had in the house. It turn out wonderful."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "FUNKYSEAMONKEY"
+},
+"reviewBody": "This is exactly how it says to cook the cranberries on the back of the fresh Ocean Spray Cranberries that I bought (minus the jalapeno's and Sherry). I was out of Sherry so I used Grand Marnier and the orange went very nicely and also added a dash of salt. I reduced down to 1 jalapeno because 3 just seemed like a lot or maybe the ones I got were extra big. Excellent recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "5Antelope"
+},
+"reviewBody": "Great recipe - I use \"tamed\" jalapeno slices from the jar - even my boyfriend can handle the bit of heat! And I substitute apple cider vinegar for the sherry..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "adamandrayvenstern"
+},
+"reviewBody": "I absolutely love this recipe for cranberries. The only change is i add splenda rather than regular sugar when making for myself but i use regular white sugar on the holidays. perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cjflood"
+},
+"reviewBody": "Absolutely yummy. A great new twist on an old favorite. Thanks!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kalyani"
+},
+"reviewBody": "Veryy Good!!! I loved the kick of jalapeno at the end..... Couple of tips...use a big pan, the sugar syrup bubbles a lot and will over flow. It requires more than 10 minutes (roughly 30 mintes) to cook down. Also I used a potato masher at the end to break down the cranberries - gave a very nice texture."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KissMorticia"
+},
+"reviewBody": "Very nice sauce! Very little kick as far as the spicy factor goes, since the seeds were all removed from the jalapenos. I could not find fresh or frozen cranberries, so I used a can of whole cranberry sauce, which may have added some extra sweetness and flavor. Absolutely loved it! Made two whole jars from this recipe. Great with chicken and tofu-meat (i.e. tofurkey!). Really adds some flavor to boring meat!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "nutmeg47"
+},
+"reviewBody": "I use this as a topping for cheesecake ... fab. And I substituted the sherry with yumberry/blueberry juice and it was perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Barbara Weiss Vander Jagt"
+},
+"reviewBody": "So easy to make, and wonderful taste! This will become a tredtition!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Phinehas"
+},
+"reviewBody": "Fantastic!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MA McBridges"
+},
+"reviewBody": "I thought this was outstanding in that it was beautiful in the bowl, tasty and while some were skeptical, those who tried at Thanksgiving were quite pleased they did. I think I will double the pepper next time though :) I'd like more than just a hint of jalapeno."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cherryboberry"
+},
+"reviewBody": "I made this for Thanksgiving and it was so easy. The jalapeno flavor if the seeds are removed is very subtle. This will be my standard for turkey dinners from now on. It's also great on sandwiches though a little runny!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Traci-in-Cali"
+},
+"reviewBody": "Wow.. so good! I have never made fresh cranberry sauce before (well I did once years ago but we couldn't eat it). I used two large jalepenos and it was moderate in heat; I also used orange juice in place of the sherry with a T of apricot brandy... :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Tammy Lynn"
+},
+"reviewBody": "This was really good. I used one jalepeno, and added 1/2 cup of minced onion and 5 cloves of minced garlic."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah"
+},
+"reviewBody": "Made this for something new at Thanksgiving this year and it was definitely a hit! This sauce has great flavor, it's sweet and tart with a bite at the end. Will definitely be making again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "johnlowe"
+},
+"reviewBody": "OK, but I won't prepare it again. Not very spicy by my taste."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ChowHound"
+},
+"reviewBody": "Nice kick. Didn't have sherry available but used some nice brandy instead. I also added some cinnamon to the mix."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dvesci"
+},
+"reviewBody": "I'm sure this would have been great as is. Trying to watch what I eat, so we substituted the sugar with splenda and omitted the sherry. Served over Pork loin chops and \"OH MY\", what a kick. I will use the rest of it on Thanksgiving day over the turkey instead of gravy. Never new what to do with Cranberries before, but now I know."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "liquidfaith"
+},
+"reviewBody": "Pretty good! I love spicy food &amp; I don't really notice the jalapenos so next time I will add more. I also cut back on the sugar a bit but I enjoy the tart. I will make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ladybuggs5224"
+},
+"reviewBody": "Perfect!!! The only thing I changed was leaving out the sherry and subbing cranberry apple juice instead. It's tasty with a slight hint of heat. I made this for another recipe I plan on making later this week. A nice twist and will give the kick I was looking for to the chops I plan on making with this!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "GPCONLON"
+},
+"reviewBody": "Excellent. Thanks for sharing. I'm fortunate to live in an area where I pick wild cranberries and that is what I used. My husband is the hot food fan, he absolutely loves it. I had to make a second batch tonight. I went one step further and actually canned it (processed in hot water bath).. now I'm ready for Christmas. My daughter tried some by mistake, thought she was putting jam on a bagel with cream cheese... now the sauce has another fan! Once again, thanks for sharing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sara"
+},
+"reviewBody": "I love this recipe, and have made this for years, and have a couple of modifications. First, you have to cook the sherry off. If you follow the directions and remove from heat after adding the sherry, the alcohol taste is so overpowering that it's virtually inedible. Cooking it for a few minutes longer allows the sherry flavor to shine without the alcohol flavor killing it. Second, I always remove all seeds from the jalapenos and use just one. It's still spicy, but not overpowering. I like this best as a condiment on sandwiches, rather than a relish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This was a nice change from the typical cranberry sauce. The post Thanksgiving sandwich with turkey, stuffing and cranberry sauce would get a boost with this version I think. Thanks."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DULCINEA54935"
+},
+"reviewBody": "Really delicious, a bit tart, a bit sweet with a bit of a bite, but nothing even the children couldn't handle. I will most definitely use this recipe from now on."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "B. Hill"
+},
+"reviewBody": "This sounds like something my mom found in a magazine a few years ago. I wanted her recipe, but she couldn't remember which magazine it was in. I'm planning on using this holiday season at least once but hopefully this will give me a use for the fresh jalapenos from my garden."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CAPRICE1409"
+},
+"reviewBody": "I fixed this for Thanksgiving and everybody liked it. I'll make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "H. Darilek"
+},
+"reviewBody": "This was the only cranberry sauce we used at Thanksgiving this year and everyone enjoyed it. I used fresh cranberries and fresh jalapeno peppers, made it the night before and refrigerated it all night. No one thought it was spicy and the green and red colors added a festive look!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I enjoy spicy food, but my family does not. This recipe was a nice balance for everyone. The tart, sweet cranberries match up well with spicy Jalapenos. Yum!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/9372/jalapeno-cranberry-sauce/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1976/side-dish/sauces-and-condiments/sauces/",
+"name": "Sauces"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1260/side-dish/sauces-and-condiments/sauces/cranberry-sauce/",
+"name": "Cranberry Sauce Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/9372/jalapeno-cranberry-sauce/",
+"name": "Jalapeño Cranberry Sauce"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

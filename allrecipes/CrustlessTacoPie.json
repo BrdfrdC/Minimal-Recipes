@@ -1,0 +1,129 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Crustless Taco Pie"
+,"datePublished": "2023-02-25T22:30:00.000-05:00"
+,"dateModified": "2023-02-25T22:30:00.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Bibi"
+,"url": "https://www.allrecipes.com/cook/bibi"
+}
+]
+,"description": "This bold, crustless beef taco pie recipe, loaded with eggs and cheese, works well for family dinner or a substantial breakfast."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/2BLOZ2x-s5SvZEawuX3CeRG5Cwc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8543921_Crustless-Taco-Pie_Bibi_4x3-fe526a0c9e1c448885659047e3aada85.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Crustless Taco Pie"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "1"
+}
+,"cookTime": "PT40M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "408 kcal"
+,"carbohydrateContent": "4 g"
+,"cholesterolContent": "281 mg"
+,"proteinContent": "25 g"
+,"saturatedFatContent": "15 g"
+,"sodiumContent": "572 mg"
+,"fatContent": "32 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 pound lean ground beef",
+"3 tablespoons bold taco seasoning",
+"6 large eggs",
+"0.33 cup heavy cream",
+"0.25 teaspoon granulated garlic",
+"1 cup shredded Cheddar cheese" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat oven to 350 degrees F (175 degrees C). Grease a 9-inch pie pan."
+} ,{
+"@type": "HowToStep"
+,"text": "Break up ground beef into a 10-inch skillet over medium heat; sprinkle on bold taco seasoning. Cook and stir beef in the hot skillet until browned and crumbly, 5 to 7 minutes. Place beef in the bottom of the prepared pie pan."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk eggs, cream, and granulated garlic together in a bowl until well combined; pour eggs over beef. Sprinkle grated Cheddar cheese evenly over the top."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the center of the preheated oven until the eggs are set and cheese is melted, about 30 minutes. Remove from the oven and place on a cooling rack for about 5 minutes."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT55M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8543921/crustless-taco-pie/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/237/world-cuisine/latin-american/",
+"name": "Latin American"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/728/world-cuisine/latin-american/mexican/",
+"name": "Mexican"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8543921/crustless-taco-pie/",
+"name": "Crustless Taco Pie"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

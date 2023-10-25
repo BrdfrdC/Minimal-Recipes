@@ -1,0 +1,165 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "North African Couscous with Tempeh"
+,"datePublished": "2020-03-09T22:52:58.000-04:00"
+,"dateModified": "2020-03-09T22:52:58.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "afreric"
+,"url": "https://www.allrecipes.com/cook/2421166"
+}
+]
+,"description": "Smoky tempeh is cooked with couscous, onions, and chickpeas in this North African-inspired dish that is vegetarian and full of flavor."
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "North African Couscous with Tempeh"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "2"
+}
+,"cookTime": "PT24M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "650 kcal"
+,"carbohydrateContent": "90 g"
+,"fiberContent": "10 g"
+,"proteinContent": "25 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "2298 mg"
+,"sugarContent": "7 g"
+,"fatContent": "22 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"0.33333334326744 cup water",
+"3 tablespoons soy sauce",
+"1 tablespoon honey",
+"1.5 teaspoons curry powder",
+"1.5 teaspoons minced garlic",
+"1 teaspoon lemon juice",
+"0.5 teaspoon liquid smoke flavoring",
+"1 (8 ounce) package three-grain tempeh, cut into bite-size pieces",
+"2 cups vegetable broth",
+"0.25 cup olive oil, divided",
+"2.5 tablespoons curry powder",
+"2 teaspoons salt",
+"1 (10 ounce) box plain couscous",
+"1 onion, chopped",
+"1 (15 ounce) can chickpeas, drained",
+"2 tablespoons water",
+"2 tablespoons dried mint" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Mix 1/3 cup water, soy sauce, honey, 1 1/2 teaspoons curry powder, garlic, lemon juice, and liquid smoke together in a bowl until marinade is smooth; add tempeh and turn to coat evenly. Marinate tempeh, turning frequently, for 20 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine vegetable broth, 1 tablespoon olive oil, 2 1/2 tablespoons curry powder, and salt in a saucepan with a tight-fitting lid; bring to a boil. Add couscous, cover saucepan, and remove from heat. Let stand for 5 minutes. Fluff couscous with a fork."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat 2 tablespoons olive oil in a skillet over medium-high heat; add tempeh and marinade. Cook tempeh until browned on the bottom, about 5 minutes. Turn and brown the other side, about 5 minutes more. Remove tempeh from skillet."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour remaining 1 tablespoon olive oil into the same skillet; cook and stir onion until fragrant and brown, about 4 minutes. Add chickpeas and water; cook and stir using a wooden spoon to break up brown bits of food on the skillet, 3 to 4 minutes. Reduce heat to low."
+} ,{
+"@type": "HowToStep"
+,"text": "Fold couscous into the onion mixture; add tempeh. Sprinkle mint over couscous; cook and stir until warmed through, 2 to 3 minutes."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT59M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Yogi Lindsay"
+},
+"reviewBody": "Surprisingly amazing! I just ate some leftovers for lunch and it was even better than last night:) I deleted garbanzo beans (just for a change of pace) and added cashews and red pepper while cooking the onions. The crunch from the cashews was perfect! I also only added 2 T of curry to the couscous and it was plenty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alec Miller"
+},
+"reviewBody": "Really delicious, light recipe! Thanks for the instruction and sharing the goodness."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/256676/north-african-couscous-with-tempeh/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/521/pasta-and-noodles/pasta-by-shape/",
+"name": "Pasta by Shape Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/540/pasta-and-noodles/pasta-by-shape/couscous/",
+"name": "Couscous Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/256676/north-african-couscous-with-tempeh/",
+"name": "North African Couscous with Tempeh"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

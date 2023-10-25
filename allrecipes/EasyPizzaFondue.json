@@ -1,0 +1,247 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Easy Pizza Fondue"
+,"datePublished": "2017-10-07T09:02:36.000-04:00"
+,"dateModified": "2022-02-16T13:08:07.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Doug"
+,"url": "https://www.allrecipes.com/cook/dougiebc"
+}
+]
+,"description": "This kid-pleasing recipe for pizza fondue with mozzarella and Cheddar cheeses is a snap to make and always a hit!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/LNQ29c_Qah8FMaxgGwgaqKrCHu8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8962555_original-2000-5ff9e39efb8349f69ad6a59fc1dcc80b.jpg",
+"height": 1125,
+"width": 1500
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=6224521563001",
+"description": "With this Easy Pizza Fondue recipe, you can add a little beef bouillon for a beefier taste. Serve with French bread or breadsticks and dip bread directly into the pot or ladle into bowls to serve.",
+"duration": "PT1M16S",
+"name": "How to Make Easy Pizza Fondue",
+"thumbnailUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/b1ce58c7-1d93-449c-abaa-a41c258939ea/b744a1f8-34fb-49a4-bb0f-c25c75b0fcbd/1280x720/match/image.jpg",
+"uploadDate": "2022-05-17T15:44:30.628-04:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Easy Pizza Fondue"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "11"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "428 kcal"
+,"carbohydrateContent": "17 g"
+,"cholesterolContent": "97 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "31 g"
+,"saturatedFatContent": "13 g"
+,"sodiumContent": "1221 mg"
+,"sugarContent": "6 g"
+,"fatContent": "25 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 tablespoon olive oil, or as needed",
+"1 onion, finely minced",
+"1 pound ground beef",
+"2 (15 ounce) cans pizza sauce",
+"10 ounces shredded mozzarella cheese, or more to taste",
+"4 ounces shredded Cheddar cheese, or more to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat olive oil in a skillet over medium-high heat. Saute onion in hot oil until soft and translucent, 4 to 6 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat a large pot over medium-high heat. Cook and stir beef in the hot skillet until browned and crumbly, 5 to 7 minutes; drain and discard grease."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/LNQ29c_Qah8FMaxgGwgaqKrCHu8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8962555_original-2000-5ff9e39efb8349f69ad6a59fc1dcc80b.jpg"
+}
+]
+,"text": "Stir beef, onion, and pizza sauce together in the same pot over medium-high heat. Add mozzarella cheese and Cheddar cheese one handful at a time, stirring until cheeses melt into the fondue before adding the next handfuls. Ladle fondue into bowls."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT25M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kellyl"
+},
+"reviewBody": "It turned out great"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes cook"
+},
+"reviewBody": "It looks great but the picture shows pepperoni on top so I’m confused. Do you add pepperoni and broil it at the end?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Love2CookMommy"
+},
+"reviewBody": "This was great! I think it’s also reminiscent of a meatball sub. We used toasted Italian bread for dipping. Overall, my family found it fun to share a pizza together in such a unique way. We plan to try this again changing out the meat for different pizza toppings to see how it turns out. I also feel like a softened 8oz block of Neufchatel cheese could work well mixed in. Thank you for the great recipe! It really was quick and easy to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Soup Loving Nicole"
+},
+"reviewBody": "Excellent! I was tempted to add things such as olives, bell pepper, and pepperoni but glad I didn't. Perfect as written and leftover reheat nicely as well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Faith N"
+},
+"reviewBody": "This was delicious! It was so simple, I expected to have to add more to it. I was wrong. Everyone (all 4 of us) gave it 5 stars. There was none left. I'd love to experiment with this, added pepperoni or other cheeses. But the base is solid. Great, different fondue to add to our rotation!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Clare"
+},
+"reviewBody": "I made this for a fondue party and it was a hit. Barely had any left overs to bring home. I did put about half the meat the recipe asked for like one of the previous reviews mentioned to make it a little more dipable."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Colleen Streefland"
+},
+"reviewBody": "On a recent \"all about me\" page that my son brought home from school, this is what he listed as his favorite food! It is delicious and fun to eat. I do reduce the amount of ground beef used, as it can get almost too thick for dipping."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Geoman"
+},
+"reviewBody": "Kids loved it.....and so did the adults that stole a \"taste\"."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/237734/easy-pizza-fondue/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/104/appetizers-and-snacks/cheese/",
+"name": "Cheese"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/433/appetizers-and-snacks/cheese/cheese-fondue/",
+"name": "Cheese Fondue Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/237734/easy-pizza-fondue/",
+"name": "Easy Pizza Fondue"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

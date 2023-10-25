@@ -1,0 +1,358 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Southern Style French Onion Soup"
+,"datePublished": "2000-02-14T12:54:28.000-05:00"
+,"dateModified": "2022-07-14T18:01:39.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Stephanie"
+,"url": "https://www.allrecipes.com/cook/24328447"
+}
+]
+,"description": "In this easy to prepare recipe, an onion sauteed in butter and thyme is combined with white wine and beef broth. Serve in individual portions topped with a baguette slice and melted mozzarella cheese."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/4KsII1QpxjhLprso5NEagAU6buM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/113580-fe6e76eedddc42438168dd130bba5c8c.jpg",
+"height": 250,
+"width": 250
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Southern Style French Onion Soup"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.4",
+"ratingCount": "23"
+}
+,"cookTime": "PT25M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "662 kcal"
+,"carbohydrateContent": "69 g"
+,"cholesterolContent": "75 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "31 g"
+,"saturatedFatContent": "16 g"
+,"sodiumContent": "2389 mg"
+,"sugarContent": "5 g"
+,"fatContent": "27 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"4 tablespoons butter",
+"1 onion, sliced",
+"0.5 teaspoon dried thyme",
+"5 (10.5 ounce) cans beef consomme",
+"6 bay leaves",
+"0.5 cup white wine",
+"1 French baguette, cut into 1/2 inch slices",
+"2 cups shredded mozzarella cheese" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat oven to 375 degrees F (190 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Melt the butter in a large skillet over medium high heat. Place the onion in the butter and saute for 5 to 10 minutes, or until tender. Stir in the thyme and remove from heat."
+} ,{
+"@type": "HowToStep"
+,"text": "In a large pot over high heat, combine the consomme, bay leaves and white wine, if desired. Bring to a boil, reduce heat to low, stir in the sauteed onions and allow to heat through, about 10 to 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Ladle soup into 4 individual oven-safe bowls, filling each about 3/4 of the way. Top each bowl with 2 slices of baguette bread and then cover each with the cheese."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake at 375 degrees F (190 degrees C) for 10 to 15 minutes, or until cheese is melted and bubbly."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT40M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "tnaylor32"
+},
+"reviewBody": "French onion soup is my favorite. This recipe is seriously lacking. Olive oil should be added with the butter to keep butter from burning. The onions must be caramelized - this takes time, up 2hours in cooking on kow heat. 10 min saute is not going to do it. Try 2 bay leaves, not 6. White wine - good, needs to be dry, try Pinot grigio. Add 2 tbsp sherry too. Swiss cheese, not mozerella. These would be major improvements"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Alan Coler"
+},
+"reviewBody": "I did not like the taste of it. There isn't much to it so I don't know if it was the bay leaf, thyme, or consomme but it was weird. I have liked about every onion soup I had in a restaurant but not this."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Janice"
+},
+"reviewBody": "We added another onion because my son wanted lots of onion. We also added a few pinches of white pepper, and 3/4 tablespoon of Worcestershire sauce. We used and aged Swiss cheese which added some extra depth of flavor. It’s my son’s favorite soup. Excellent basic recipe !"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Eliz"
+},
+"reviewBody": "This was good. I made this with beef buillion, added garlic, only used two bay leaves, added garlic salt and pepper and also used a bit more white whine and slow simmered. Came out beautifully!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Katie Gelesky"
+},
+"reviewBody": "I made this for a couple friends and they loved it!! I used a yellow onion and used more than the recipe called for. So good!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jbam"
+},
+"reviewBody": "Amazing I used less bay leaves only 2. And no wine. So good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "el presidente"
+},
+"reviewBody": "Awesome! Never had French Onion Soup before but my wife LOVES it. Could not find beef consomme anywhere so I substituted two 26 oz. containers of beef stock. Used two onions and four bay leafs.\nWine - sauvigaun blanc"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "REVBUD"
+},
+"reviewBody": "I made this for the family Christmas dinner (09) and it was a big hit. It was nearly as good as going out to a restaurant."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "katieporsche"
+},
+"reviewBody": "Absolutely wonderful! This is the best I have ever had and I eat a LOT of soup, especially french onion. I did not use canned broth, I used boullion, also, I did not bake it, I let it get up to a simmer and at that point turned the heat down to medium/low for a little over 2 hours. This is EASY and a fall/winter must!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Regina Belcher"
+},
+"reviewBody": "Needed \"condensed french onion soup\" for a salisbury steak recipe. First time ever cooking with wine, and all i had was a 'white merlot.' Followed directions exactly, and this stuff tastes fabulous!!!! It was so easy... I'll never buy onion soup mix again (and I'll have an excuse to keep more wine on hand!! :) Thanks for sharing this wonderful recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JStoddard"
+},
+"reviewBody": "This recipe was wonderful. I did use the wine and followed the recipe exactly, except that I used Guyerre (may have spelled that wrong)cheese and toasted the bagettes. Thanks for the great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MICKE"
+},
+"reviewBody": "I used two larger onions, as we like a little more \"substance\" in our soup, and only used 2 bay leaves. I also just added the broth and wine to the pan I had done the onions in, so I could scrape all of the onion flavour into the broth...excellent soup. Thanks for the great recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "chris53182"
+},
+"reviewBody": "very good. Only thing I might do to change this is cut out a few bay leaves, I also used swiss cheese on the top instead of motz."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mike S. Roby"
+},
+"reviewBody": "I tried this recipe a few minutes after signing up on this site making it my first recipe I tried. This is a great down to earth recipe. Taste is as good as the best restaurants in town. Recommend you try it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SHSTRAHSBURG"
+},
+"reviewBody": "My husband and I LOVED this recipe. I added just a touch more wine to it and a small amount of parmesan cheese to the center of the mozzarella cheese for a bit more flavor. The soup was absolutely wonderful."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MFUZIA"
+},
+"reviewBody": "This soup is awesome! My husband and I just love it. I have made it twice already, exactly by the recipe. It is definitely the way us \"southerners\" like our french onion soup!\r\nThank you."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "It was the best french onion soup I've ever had!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/18076/southern-style-french-onion-soup/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/14737/soups-stews-and-chili/soup/vegetable-soup/onion-soup/",
+"name": "Onion Soup Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16009/soups-stews-and-chili/soup/vegetable-soup/onion-soup/french-onion-soup/",
+"name": "French Onion Soup Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/18076/southern-style-french-onion-soup/",
+"name": "Southern Style French Onion Soup"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

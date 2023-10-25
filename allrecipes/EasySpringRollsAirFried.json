@@ -1,0 +1,150 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Easy Spring Rolls (Air Fried)"
+,"datePublished": "2017-10-07T02:15:04.000-04:00"
+,"dateModified": "2023-01-19T13:12:51.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "GourmetGirl"
+}
+]
+,"description": "Let your air fryer deliver spring rolls that are crispy, golden, and stuffed with rice noodles, beef, and vegetables — rolled with love and care."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/joUKrPR_IYRtCFY6LG-nHvtKQ1g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4567335-9e8d7e8351174eefae0bdfbabe3a51a1.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Easy Spring Rolls (Air Fried)"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "1"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "112 kcal"
+,"carbohydrateContent": "16 g"
+,"cholesterolContent": "8 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "4 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "155 mg"
+,"sugarContent": "0 g"
+,"fatContent": "3 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT35M"
+,"recipeIngredient": [
+"2 ounces dried rice noodles",
+"1 tablespoon sesame oil",
+"7 ounces ground beef",
+"1 cup frozen mixed vegetables",
+"1 small onion, diced",
+"3 cloves garlic, crushed",
+"1 teaspoon soy sauce",
+"1 (16 ounce) package egg roll wrappers",
+"1 tablespoon vegetable oil, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Soak noodles in a bowl of hot water until soft, about 5 minutes. Cut noodles into shorter strands."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat sesame oil in a wok over medium-high heat. Add ground beef, mixed vegetables, onion, and garlic. Cook until beef is almost browned throughout, about 6 minutes. Remove from heat. Stir in noodles; let stand until juices have been absorbed. Add soy sauce to the filling."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the air fryer to 350 degrees F (175 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Lay out 1 egg roll wrapper onto a flat work surface; place a diagonal strip of filling across the wrapper. Fold the top corner over the filling; fold in the two side corners; brush center with cold water and roll spring roll over to seal. Repeat with the remaining wrappers and filling."
+} ,{
+"@type": "HowToStep"
+,"text": "Brush the tops of the spring rolls with vegetable oil. Arrange a batch of spring rolls into the basket of the air fryer; cook until crisped and lightly browned, about 8 minutes. Repeat until all are cooked."
+} ]
+,"recipeYield": ["20"]
+,"totalTime": "PT55M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Denise Pope"
+},
+"reviewBody": "I made it according to directions, it was tasty. A bit time consuming rolling each one but after a few I got the hang of it and it wasn't too bad."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/260628/easy-spring-rolls-air-fried/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/76/appetizers-and-snacks/",
+"name": "Appetizers and Snacks"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/115/appetizers-and-snacks/wraps-and-rolls/",
+"name": "Wraps and Rolls"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/260628/easy-spring-rolls-air-fried/",
+"name": "Easy Spring Rolls (Air Fried)"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

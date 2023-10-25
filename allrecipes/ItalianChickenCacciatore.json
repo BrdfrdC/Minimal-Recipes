@@ -1,0 +1,430 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Italian Chicken Cacciatore"
+,"datePublished": "2020-06-19T00:24:40.000-04:00"
+,"dateModified": "2022-12-24T00:24:05.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Ita"
+,"url": "https://www.allrecipes.com/cook/1760109"
+}
+]
+,"description": "This Italian chicken cacciatore recipe is made with chicken thighs, tomatoes, basil, and olives - a classic Mediterranean chicken dish."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/fcnpf0mvDoFa3mSdhTUaoYst7Ng=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4561718-italian-chicken-cacciatore-Magda-4x3-1-fd38d9870e834444b6bfc6e103b19d00.jpg",
+"height": 900,
+"width": 1200
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Italian Chicken Cacciatore"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "24"
+}
+,"cookTime": "PT65M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "520 kcal"
+,"carbohydrateContent": "21 g"
+,"cholesterolContent": "117 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "35 g"
+,"saturatedFatContent": "6 g"
+,"sodiumContent": "1084 mg"
+,"sugarContent": "9 g"
+,"fatContent": "29 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"0.25 cup olive oil, divided",
+"1 onion, diced",
+"0.25 cup all-purpose flour",
+"0.5 teaspoon salt",
+"0.25 teaspoon freshly ground black pepper",
+"8 chicken thighs",
+"0.5 cup dry white wine",
+"2 (14.5 ounce) cans diced tomatoes",
+"2 teaspoons tomato paste",
+"0.25 teaspoon white sugar, or more to taste",
+"salt and ground black pepper to taste",
+"0.5 cup chicken broth, or more as needed",
+"0.5 cup black olives, pitted",
+"1 tablespoon chopped fresh parsley",
+"1 tablespoon torn basil leaves" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat 2 tablespoons olive oil in a skillet over medium heat and cook onion, stirring often, until soft and translucent, about 5 minutes. Transfer to a pot."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine flour, 1/2 teaspoon salt, and 1/4 teaspoon pepper in a large bowl. Toss chicken thighs in the flour mixture until evenly coated."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat remaining 2 tablespoons olive oil in the skillet over medium heat, add chicken thighs, and brown on one side, without turning, for 5 minutes. Turn and cook until browned on the other side, about 5 minutes more. Transfer browned chicken thighs to the pot."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour white wine into the skillet; bring to a boil. Stir to loosen all the browned bits of chicken and flavors in the skillet pour into the pot. Add diced tomatoes, tomato paste, and sugar; season with salt and pepper. Add as much chicken stock as needed to cover the chicken. Cover pot and simmer over medium heat, stirring occasionally, until chicken is no longer pink in the center, about 45 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir in olives, parsley, and basil. Stir to heat through."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT80M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Annika Klint"
+},
+"reviewBody": "Loved this dish! The only item I added was two big cloves of garlic. I had it in the oven for 3 hours at 300f"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Fantastic Great Brilliant Awesome Unique"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Fab recipe! I halved it. I did have to make alterations (used previous comments) and used capers instead of olives and added mushrooms. Turned out to be the best CC I've made in 35 years!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "susan95945"
+},
+"reviewBody": "Added 8 oz sliced mushroom, sautéed."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "May Schaid"
+},
+"reviewBody": "This turned out perfect! I doubled the recipe, used diced olives instead, and added about ½ a Tablespoon of minced garlic. Served over linguine noodles. Fabulous 🤩 I will definitely be making this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jana_mutchler"
+},
+"reviewBody": "My family really liked this recipe. We did tweak it just a little. Used kalamata olives. Also used red wine. Used bone in chicken thighs and legs. After getting everything into the pot, we put it in the oven on 250 for about 4 hours - only because my older son was going somewhere and we wanted it for later. The chicken was very tender and not dry. The smell when we lifted the lid was awesome! My younger son says this is what he wants for spaghetti sauce now! Really balanced and full of flavor! We will make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mfelt"
+},
+"reviewBody": "Fantastic!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DREGINEK"
+},
+"reviewBody": "Ita! This is amazing! Followed exactly except I used half black olives, half kalmata olives and had to use dried parsley/basil (no fresh available), which I added all four the last 5 min of cooking and did so uncovered. Every bite was better than the last! Definitely will make again and again! Served with side of pasta. Thank you for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shawn Klein"
+},
+"reviewBody": "This is a great dish, thanks for sharing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "kitchenratz"
+},
+"reviewBody": "Really not all that difficult to make. Just make sure to keep an eye on the pot and stir occasionally. The only thing we did different was to add some basil with the parsley. \nThis will now be part of the winter kitcfhen rotation. \nReally worth th e effort."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amber Clio Raven"
+},
+"reviewBody": "WOW DELICIOUS!! REALLY IMPRESSED!! WILL MAKE AGAIN!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Angela"
+},
+"reviewBody": "Made it as specified until it was simmering in the pot. I tasted the broth and it seemed to be missing some depth. I added Italian seasoning and onion powder. I used 1/8 cup capers as a substitute for black olives. My husband rated this recipe \"I wouldn't mind having this once a week\" on the \"\"ick\" to \"I could eat this everyday scale\"\". We both agree that I should make this again and try adding a splash of heavy cream."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "estaban"
+},
+"reviewBody": "added some mushrooms with the onion. yummy!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ilovemykids99"
+},
+"reviewBody": "Very tasty. I embellished to it, but think the base of this recipe is surprisingly delicious considering how simple it is. I didn't have olives, so used capers (salty meets salty) and added other veggie's to give it more depth (traditional green peppers, garlic). It was yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Skooch"
+},
+"reviewBody": "Made this as written and will make it again with no changes. Everyone enjoyed it. Thank you for sharing your recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jada"
+},
+"reviewBody": "It was delicious. All my guests loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jim Landers"
+},
+"reviewBody": "Very tasty. Made this in the pandemic. My wife says she spent more time overseeing my cooking but I felt accomplished when all was said and done! I would recommend this tasty meal for occasion."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa"
+},
+"reviewBody": "Excellent as is! I didn't have parsley so I omitted it. Delicious forgot to take the photo."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bakingmama"
+},
+"reviewBody": "This was delicious. Chicken was tender and not stringy, Sauce thickened nicely and I served it all on a bed of fettuccine noodles. Family loved it. Will make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JudyG"
+},
+"reviewBody": "I did not make any changes and I will make it again and again and again.\n\nI served it over orzo. Delish!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "claudebo"
+},
+"reviewBody": "very good thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Samuel Leonard"
+},
+"reviewBody": "loved it :-)"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/260463/italian-chicken-cacciatore/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16954/main-dish/chicken/",
+"name": "Chicken"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17553/main-dish/chicken/chicken-cacciatore/",
+"name": "Chicken Cacciatore Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/260463/italian-chicken-cacciatore/",
+"name": "Italian Chicken Cacciatore"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

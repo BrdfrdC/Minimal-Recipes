@@ -1,0 +1,121 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Baked Brie with Honey, Pecans, and Cranberries"
+,"datePublished": "2023-02-23T13:45:00.000-05:00"
+,"dateModified": "2023-02-23T13:45:00.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "lutzflcat"
+,"url": "https://www.allrecipes.com/cook/lutzflcat"
+}
+]
+,"description": "Baked Brie is such an easy appetizer! This recipe adds a drizzle of honey, a sprinkle of pecans and cranberries and is ready to please a crowd."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/_na3Pt0bwwmgiNUxPQG5HkAe_WE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8541325_Baked-Brie-with-Honey-Pecans-and-Cranberries-lutzflcat_4x3-c8b98a7d428d40b49772364aa3f69c8a.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Baked Brie with Honey, Pecans, and Cranberries"
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "125 kcal"
+,"carbohydrateContent": "6 g"
+,"cholesterolContent": "28 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "6 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "179 mg"
+,"fatContent": "9 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"1 (8 ounce) wheel Brie cheese",
+"2 tablespoons honey",
+"1.5 tablespoons toasted chopped pecans",
+"1.5 tablespoons dried cranberries",
+"0.5 teaspoon minced fresh rosemary" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C). Line a baking sheet with parchment paper. Unwrap Brie; place on the prepared baking sheet."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until cheese feels soft, but not completely melted, when you press the center of the wheel with your thumb, 8 to 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Drizzle honey over Brie on a serving plate, sprinkle with pecans, cranberries, and rosemary."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT15M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8541325/baked-brie-with-honey-pecans-and-cranberries/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/104/appetizers-and-snacks/cheese/",
+"name": "Cheese"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17024/appetizers-and-snacks/cheese/baked-brie/",
+"name": "Baked Brie Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8541325/baked-brie-with-honey-pecans-and-cranberries/",
+"name": "Baked Brie with Honey, Pecans, and Cranberries"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

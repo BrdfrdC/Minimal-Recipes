@@ -1,0 +1,164 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Ube Milkshake"
+,"datePublished": "2017-10-24T20:46:43.000-04:00"
+,"dateModified": "2021-11-19T20:27:10.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "yummers"
+}
+]
+,"description": "Make yourself a tasty purple milkshake with the addition of ube, aka purple yam, which gives this ube drink a great flavor and fun color."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/e9qrvss-xJJCPhDhYtpkM9QUN_E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4570949-3cbb27203e824df7835483bac2995b5c.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Ube Milkshake"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "3"
+}
+,"cookTime": "PT25M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "275 kcal"
+,"carbohydrateContent": "53 g"
+,"cholesterolContent": "19 mg"
+,"fiberContent": "6 g"
+,"proteinContent": "8 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "92 mg"
+,"sugarContent": "10 g"
+,"fatContent": "5 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"0.5 ube (purple yam), peeled",
+"0.5 cup milk",
+"1 scoop vanilla ice cream" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place a steamer insert into a saucepan and fill with water to just below the bottom of the steamer. Bring water to a boil."
+} ,{
+"@type": "HowToStep"
+,"text": "Add ube, cover, and steam until tender, about 20 minutes. Cool until easily handled, then cut into cubes."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine 1/4 cup cubed ube, milk, and vanilla ice cream in a blender; blend until smooth."
+} ]
+,"recipeYield": ["1"]
+,"totalTime": "PT30M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "A Garrison"
+},
+"reviewBody": "If you have ube condensed milk, you can also substitute it for the ice cream."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rachel G"
+},
+"reviewBody": "I used half ube and half Hawaii purple yam which is sweeter. I also crushed some ice with it so it’s more like a slush. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Diana Moutsopoulos"
+},
+"reviewBody": "This is a yummy way to use ube! The shake reminds me of an ube smoothie I tried at my local boba shop. My toddler son also loved it. Thanks for the recipe!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/261001/ube-milkshake/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/77/drinks/",
+"name": "Drinks Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/137/drinks/shakes-and-floats/",
+"name": "Shakes and Floats Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/261001/ube-milkshake/",
+"name": "Ube Milkshake"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

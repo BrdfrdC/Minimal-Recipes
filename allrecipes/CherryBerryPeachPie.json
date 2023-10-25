@@ -1,0 +1,372 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Cherry Berry Peach Pie"
+,"datePublished": "2020-06-18T23:51:15.000-04:00"
+,"dateModified": "2022-10-20T17:55:02.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Patty S"
+,"url": "https://www.allrecipes.com/cook/2891217"
+}
+]
+,"description": "Use your summer peaches, blueberries, and cherries to create a colorful lattice-top pie to enjoy with a scoop of vanilla ice cream on a hot summer evening."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/R6IJjZARSBwut3Y9wM7bImf_Dmo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9353225-fbbc978ee7094edb98ff36c3b2c26399.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Cherry Berry Peach Pie"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "21"
+}
+,"cookTime": "PT55M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "371 kcal"
+,"carbohydrateContent": "53 g"
+,"cholesterolContent": "0 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "4 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "294 mg"
+,"sugarContent": "27 g"
+,"fatContent": "17 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"1 (14.1 ounce) package double-crust pie pastry, thawed",
+"3 cups peeled, sliced peaches",
+"1 cup Bing cherries, pitted and halved",
+"1 cup blueberries",
+"1 tablespoon lemon juice",
+"0.5 cup white sugar",
+"0.25 cup brown sugar",
+"3 tablespoons all-purpose flour",
+"0.25 teaspoon ground cinnamon",
+"0.125 teaspoon salt",
+"1 tablespoon milk, or as needed",
+"1 teaspoon white sugar, or as needed" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 450 degrees F (230 degrees C). Press 1 pie crust pastry into a 9-inch pie plate. Cut remaining pie crust pastry into 3/4-inch strips for the lattice top and set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix together peaches, cherries, blueberries, and lemon juice in a large bowl. Add 1/2 cup white sugar, brown sugar, flour, cinnamon, and salt; stir to coat. Pour fruit mixture into the prepared pie crust."
+} ,{
+"@type": "HowToStep"
+,"text": "Use pie crust strips to weave a lattice top over fruit filling. Brush top with milk; sprinkle with 1 teaspoon white sugar."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven for 10 minutes. Reduce oven temperature to 350 degrees F (175 degrees C); continue baking until fruit filling is bubbling and lattice top is lightly browned, 45 to 50 minutes."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT85M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "So good! I substituted 4 plums for the blueberries and it worked."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brenda"
+},
+"reviewBody": "I used 1 cup blueberries, 1 cup peaches and 2 cups frozen cherries. 2 T flour. I didn’t make my own crust this time but it was delicious. Will make again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Margie Robinson"
+},
+"reviewBody": "This is so delicious! Love the fruit combination."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Adina"
+},
+"reviewBody": "The taste was very good. However, it was very soupy, will a lot of juice liquid from the fruit."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BLTcolo"
+},
+"reviewBody": "I made this over the weekend. I followed the recipe except I didn't have any blueberries so I added extra cherries. It was delicious! My husband was skeptical at first, but once he tried it, he loved it! Will make this again but next time I'll try it with blueberries too :) Excellent recipe. Thanks for sharing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BRISAN G"
+},
+"reviewBody": "Omggg it was sooo good !! My fam loved it and said it was the best pie they’ve had ?? km not big on pie and I loved it too, used nutmeg instead of cinnamon bc my step dad is allergic but still tasted awesomeeeee"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "lolly"
+},
+"reviewBody": "This was so good, loved the fruit combo. will make again, but will probably add a bit more sugar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Eva"
+},
+"reviewBody": "Absolutely the best and a big hit at our dinner party last night. I followed the recipe exactly and threw in a few raspberries for fun. I can’t wait to make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MissSeaShell"
+},
+"reviewBody": "I have made this once with fresh peaches and once with canned, delicious either way! This is the best pie I've ever eaten, nothing else is good enough now haha!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "djsretired"
+},
+"reviewBody": "Delicious and I made it as was written. Will definitely make it again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dina Chiafulio-Cala"
+},
+"reviewBody": "Yes it’s my new favorite pie"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "t7winMom"
+},
+"reviewBody": "Have you ever tried a new recipe &amp; it overwhelmingly exceeds your expectations?? This was it tonight. This is very tasty as written! But I always make some tweaks, so here they are:\nSince I only have deep dish pie pans, I added a bit more fruit (1 cup), 4x the lemon juice (I like some tang with my sweet), a little less white sugar, double the cinnamon &amp; added a 1/8 tsp nutmeg, plus a tsp each of vanilla &amp; almond extract. Hoo boy... This is a winner!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle"
+},
+"reviewBody": "So incredibly delicious and simple. My husband LOVES pie, and while he has one that is his favorite, this one is the new go-to for summer months while peaches and cherries are in season. Amazing -- only change I made was a 1/4 cup of white sugar instead of 1/2 cup. Loved it!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathy Thoelke Reuther"
+},
+"reviewBody": "My fav pie! Left out blueberries and just did raspberries and peaches! Fabulous!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ron"
+},
+"reviewBody": "I made this pie just as the recipe days except I used a little more of each fruit. It minded up great. I used a lattice for the topping as I do that really well. There were no leftovers and the pie disappeared vert quickly. Everyone just loved I and I got a lit of kudos. This will go in my cookbook as a favorite."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Charlotte Oaks"
+},
+"reviewBody": "I used I can peach and one can cherry pie filling with the one cup blueberries frozen. I also use"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Elaine Palmer Urban"
+},
+"reviewBody": "I made two of these for a group of 12, and the raves were awesome! One guest said it is absolutely the best pie she has ever eaten in her life. I followed the recipe exactly. It was so pretty, with the orange, red and blue fruit juices bubbling through the lattice top. I served it with vanilla ice cream. It is a magnificent ending to a meal!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nanby"
+},
+"reviewBody": "Just loved the flavor combo of the different fruits. Was an excellent pie. Probably one of the best pies I've made. A keeper."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/228933/cherry-berry-peach-pie/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/808/desserts/pies/fruit-pies/",
+"name": "Fruit Pies"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/12950/desserts/pies/fruit-pies/peach-pie/",
+"name": "Peach Pie Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/228933/cherry-berry-peach-pie/",
+"name": "Cherry Berry Peach Pie"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

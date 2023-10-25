@@ -1,0 +1,940 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Savory Pan-Seared Tuna Steaks"
+,"datePublished": "2019-07-10T03:04:10.000-04:00"
+,"dateModified": "2022-11-04T10:46:54.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "meg_in_quebec"
+}
+]
+,"description": "These pan-seared tuna steaks are marinated in ginger, garlic, soy sauce, sesame oil, and molasses for an easy weeknight meal that feels fancy."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Yjttb04diWa9q_JuUNE5wVhaT70=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4495988-savory-pan-seared-tuna-steaks-NateDawg1123-4x3-1-c21b7761d458498b81d81794bcc426e4.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Savory Pan-Seared Tuna Steaks"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "77"
+}
+,"cookTime": "PT5M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "592 kcal"
+,"carbohydrateContent": "12 g"
+,"cholesterolContent": "65 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "42 g"
+,"saturatedFatContent": "7 g"
+,"sodiumContent": "1875 mg"
+,"sugarContent": "5 g"
+,"fatContent": "41 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"0.25 cup soy sauce",
+"0.25 cup extra-virgin olive oil",
+"2 tablespoons lemon juice",
+"2 teaspoons Asian (toasted) sesame oil",
+"2 teaspoons molasses",
+"1 teaspoon cayenne pepper, or more to taste",
+"6 thin slices fresh ginger, minced",
+"2 cloves garlic, minced",
+"2 1-inch-thick tuna steaks, thawed" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Mix soy sauce, olive oil, lemon juice, sesame oil, molasses, cayenne pepper, ginger, and garlic together in a bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Place tuna steaks in a large resealable plastic bag or airtight container; pour marinade over steaks, coat with marinade, and seal. Marinate steaks at room temperature for 20 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat a nonstick pan over medium heat."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove steaks from marinade and discard any remaining marinade. Arrange steaks in the hot pan; gently shake the pan to avoid sticking. Cook for 1 1/2 minutes. Flip and cook 1 minute more."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT35M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Natasha Titanova"
+},
+"reviewBody": "You just need a few minutes to prepare these steaks. I like mine a little bit raw inside."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Awesome."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This was amazing!! Awesome flavor with the marinade, yet you could still taste the wonderful flavor of the tuna! Initially I only made this for myself, as no one else in my family likes tuna. however I let them each try it and each and everyone of them said they would definitely eat that the next time I make it!!! FYI…I paired it with a sautéed asparagus and baby bell mushroom dish that complimented it very well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "cporter4"
+},
+"reviewBody": "Friend loved it, I'm not a fan of tuna. I used natural raw sugar as I had no molasses and decided it would be closest in flavour."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Marapal"
+},
+"reviewBody": "I used this recipe for blue fin tuna. I did everything as per the recipe instructions except cooked it longer on the 2nd side, maybe 3- 4 min. I know that sounds like a lot but the internal temperature was only 90° - 100° so I finally took it off. It was lovely! Charred and just warm in the center. The flavor from the marinade was most delicious. 5 stars!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Joanne"
+},
+"reviewBody": "I made it almost as written. Didn't have the molasses so I subbed in brown sugar instead. We really enjoyed it. I thought it could have used a bit of salt, but otherwise it was really tasty and easy to prepare."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hambone"
+},
+"reviewBody": "Very good.\n\nAnd the quick marinade time still imparted a lot of flavor!\n\nA keeper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "William Gillespie"
+},
+"reviewBody": "Followed this recipe and changed nothing. It came out great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lisa"
+},
+"reviewBody": "only used 3T of oil and reduced sodium soy sauce, and half the cayenne pepper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "MistyR"
+},
+"reviewBody": "This was such a great recipe! We had just over a pound of tuna, so I did 1.5x’s the marinade. It was really good! We definitely plan to make it again!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "denise"
+},
+"reviewBody": "The marinade have a fantastic flavor to the tuna. Will make it again I used brown sugar didn’t have molasses. I grilled pineapple slices in the pan first. It was a terrific accompaniment."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Happy Carnivore"
+},
+"reviewBody": "This was my first time making tuna steaks, and it turned out great. I used the exact ingredients with the exception of substituting crushed red pepper flakes and adding some thinly sliced green onion. It was unbelievably easy to pull together, and cooked faster than instant oatmeal. The next time I make it I am going to back off slightly on the ginger at hubby’s request, and we both decided we would like the ahi to spend even less time in the skillet. We love it raw in sushi, so I intend to do maybe 30 seconds a side. After removing the tuna steaks from the pan, I added the marinade to the skillet to heat it, and stirred in some prepared rice noodles to coat in the marinade. They made an excellent side dish, although it was the first time I had ever made rice noodles and after cooking half the box we wound up with a mountain o’ noodles. Taking only about 30 minutes from refrigerator to table, this is a restaurant-quality meal that can fit into about anyone’s schedule...at about $5 a serving! (Our ahi steaks were just $16 for a package of 5 steaks at Sam’s Club.)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "flc252005"
+},
+"reviewBody": "Didn't have molasses and didn't miss it. Next time I will see what the difference is."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathleen"
+},
+"reviewBody": "This was really good. I, accidentally , bought yellowfin instead of Ahi Ahi. I was worried. I didn't have molasses so I used honey, I think it needs a little more of something but I'm not a great cook so I'll have to experiment."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jmstevens3"
+},
+"reviewBody": "Did not have fresh ginger so used powdered. Was delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bobean"
+},
+"reviewBody": "This was excellent, I marinated for 30 next time I'm gonna try 45 maybe even longer for more flavor, really hot pan to caramelize, and don't over cook"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LeslieWBradshaw"
+},
+"reviewBody": "This was very good. I did have to make some substitutions because I didn't have the exact ingredients. I agree that 20 minutes is not long enough to marinate it. The molasses sure burned onto the pan (I don't have a non-stick frying pan, so I used oil). It also helps to have thicker pieces of tuna."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Maria Giorgio"
+},
+"reviewBody": "This recipe was so delicious, I made it twice in one week!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "PPK"
+},
+"reviewBody": "Tasted like other tuna recipes we've tried, nothing special. You couldn't get the flavor from the ginger or the sesame oil to hit the taste buds like it should. Won't make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "allrecipeskmg"
+},
+"reviewBody": "Way, way too salty. Recommend to use 1/2 the soy sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dona Hightower Perkins"
+},
+"reviewBody": "Delish! Fast and easy and so very good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chef Pete"
+},
+"reviewBody": "This was an excellent combination of sweet, astringent and spicy! Didn’t change a thing. Be aware, though - if you don’t like your tuna REALLY rare, you’ll need to increase the cooking times."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Missyhal"
+},
+"reviewBody": "Perfect recipe. I reserved the marinade and added to the end of sautéing some garden greens and summer squash. Served the tuna on the bed of these vegetables. Delicious with a beautiful presentation."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Traycee1234"
+},
+"reviewBody": "I loved this! Will definitely make again!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ronald Marino"
+},
+"reviewBody": "Good recipe, appreciate the direction for excellent pan frying. Skipped the ginger and cayenne and molasses. Otherwise, very excellent way to do 1 inch tuna. Yummy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "DECAR48"
+},
+"reviewBody": "Nice flavor, but I overlooked it! Easy to make!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mikki"
+},
+"reviewBody": "I made this just as directed. Quick and delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lois"
+},
+"reviewBody": "Great tuna steak marinade! My whole family agreed this was one of their favorites. Will definitely make this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "leslie"
+},
+"reviewBody": "This was my first time making this tuna steaks. I didn’t have soy sauce and substituted it for worchestire instead. I must say I was very pleased with the end results. I will definitely be using this recipe again. Thank you."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sally Carlin"
+},
+"reviewBody": "So so yummy!!!! I cooked on higher heat, but otherwise changed nothing. Perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bev"
+},
+"reviewBody": "This marinade was a perfect partner for the tuna steaks. A wonderful combination of flavors that the tuna soaked up beautifully."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michael Grover"
+},
+"reviewBody": "orgasmic"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "LilTugs"
+},
+"reviewBody": "This is great! I have never cooked tuna before and my bf doesn't really like fish but he liked it a lot and it turned out great, following the instructions to a T. Only downside is the high heat and sesame oil in a small space. Will definitely smoke the place up and probably set off the detector."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Joan"
+},
+"reviewBody": "This was delicious! Made mostly as directed, except I used half the cayenne which allowed the other flavours to shine and I cooked it over higher heat to get a nicer seat on the outside. Also, I had sushi grade tuna and therefore I did not need to cook it to 140 degrees. A lower internal temperature left the fish more moist. Family loved it and we will make it again. A good alternative for when it is too cold to grill outside!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carol Birchak"
+},
+"reviewBody": "My entire family really enjoyed this recipe. I had to use gluten free soy sauce as some family members are gluten intolerant. Quick and easy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brook Ockerman"
+},
+"reviewBody": "Delicious! Left out the oil and it was moist and flavorful!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jeanie Newberg"
+},
+"reviewBody": "This was a great recipe. I was nervous about cooking it bc I'm a novice with fish. I followed the recipe exactly as stated except I changed the way I cooked it. I used a non-stick pan, 2 TBSP of vegetable oil and waited until the oil was hot before I put the steaks on. I cooked for 2 mins on one side and 1.5 mins on the other. I served with sautéed sugar snap peas and sake. It was a great dinner. The marinade made a nice caramel color on the outside. The flavors were great. I used a previously frozen non sushi grade steak. There was no \"fishy\" flavor and the inside was pink. Will try again. Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "K Hall"
+},
+"reviewBody": "I pretty much stuck to the recipe and it's a keeper!-Easy??"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "melmal"
+},
+"reviewBody": "This is a great recipe. I didn't follow exactly but close. I only had a meyer lemon, which was an easy swap. Everything else I had in the house. I thought the molasses was going to be a bit too strong a flavor with the others, so I swapped with a tablespoon of brown sugar. I like a good sear on the outside of the tuna, so I cooked at a higher temp."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "zeekule"
+},
+"reviewBody": "Made it exactly as the directions said. It was perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MiHeather"
+},
+"reviewBody": "I forgot to take a picture of it but it was absolutely awesome! Even my 14 year old enjoyed it! I would definitely make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Monique"
+},
+"reviewBody": "Awesome dish!! Loved it!! Healthy too!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CourtneyCooksAlot"
+},
+"reviewBody": "Marinade was delicious and perfect for 2 steaks that were about inch and a half thick. I followed exactly. Seared steaks 4 minutes on the grill on each side. Then garnished the, with fresh cut scallions, cilantro, and rolled the sides in black and white sesame seeds. \nHighly recommend !"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lostinspace"
+},
+"reviewBody": "Excellent, easy, tasty recipe. Thank you for submitting. I didn't have fresh ginger, unfortunately, so I used powder. Will definitely make again with fresh ginger."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Chris Cordray"
+},
+"reviewBody": "This was a good recipe. Easy, not too bad to clean up, but we did think it was a little on the salty side, even with us using low sodium soy sauce. We're gonna keep this one, but probably change it up a little.\n\nWe seared the steaks for two minutes on each side, but my wife was a little skeptical of the \"done-ness\" of the tuna. We fixed that by putting them in the oven for five minutes. This wasn't a problem with the recipe. It was more about personal taste for us."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laura_Riverside"
+},
+"reviewBody": "Fantastic. Very simple to make and prep hours before cooking. The whole family loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Karen"
+},
+"reviewBody": "I only made one and didn't add the garlic and sesame oil because I didn't have any, but it was very good and I will definitely make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MountainMK"
+},
+"reviewBody": "Yum. I didn't have molasses but didn't miss it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "zimmyfan"
+},
+"reviewBody": "I make this regularly, but add more garlic. It is one of my favorites"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JK Love"
+},
+"reviewBody": "I used powdered ginger instead of fresh. Still yummy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Hollis"
+},
+"reviewBody": "Loved this recipe...quick to make with ingredients readily available in my pantry. I eliminated the cayenne pepper (allergic to it) with no loss of flavor. The tuna was pink in the center and just perfect! Definitely will make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Dianna J."
+},
+"reviewBody": "My husband and I really enjoyed this, and he doesn't often care for seafood. It was really quick and all ingredients were on hand. If you are like me and prefer your tuna medium rare, cook as the recipe suggests. My husband likes it a bit more well-done, so we just put his back on the heat. (But keep in mind, if you let your tuna sit/rest 3 to 5 minutes off of the stovetop, it will continue to cook a bit more from its own internal heat. That way you can be assured that it won't get dry from overcooking, which is always a concern with seafood.) This recipe is a keeper. It's the second time I've made it this month."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Shanna Hurd"
+},
+"reviewBody": "Marinade was too sour. Maybe less lemon juice and some sugar would have improved this dish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rebecca Hering"
+},
+"reviewBody": "Dish was awesome!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lauren Danielle"
+},
+"reviewBody": "Tried this as a last minute sunday treat and wow was I blown away! Sooo good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Joel"
+},
+"reviewBody": "Pretty, but just ok. The marinade was too tart."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bernice Dray"
+},
+"reviewBody": "These were so moist and tender. Liked that they did not take long to sear. So very tasty!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Abbey Thornton"
+},
+"reviewBody": "So good! I didn't have fresh ginger or garlic cloves, so I used dried ginger powder and garlic powder. Hubby loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jaydee"
+},
+"reviewBody": "Excellent flavor!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "GanGel"
+},
+"reviewBody": "I loved it... Subsituted lemon for kalamansi and molasses for honey ..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "smalltownmom"
+},
+"reviewBody": "I had to substitute balsamic vinegar for the soy sauce as I'm soy-intolerant, but this recipe turned out awesome! Quick, easy, great flavour."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "ilikefood"
+},
+"reviewBody": "Not my favorite. I have never made seared tuna before, but have really enjoyed the stuff I've had at restaurants. This recipe was not on par. I think it cooks the tuna for too long at too low a heat, so it ends up overcooked and tasting somewhat like canned tuna. We did not marinade the tuna for a whole 20 minutes (due to time constraints), but otherwise followed the recipe perfectly. I'm glad we didn't marinate it any longer, otherwise I think all we would have tasted is soy sauce. The marinade was very salty and really clung to the tuna steak. I would advise rinsing off the marinade thoroughly before cooking to avoid a too strong soy sauce flavor. Unfortunatly, I would actually just skip this recipe all together."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/230905/savory-pan-seared-tuna-steaks/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/411/seafood/fish/",
+"name": "Fish"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/415/seafood/fish/tuna/",
+"name": "Tuna"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/230905/savory-pan-seared-tuna-steaks/",
+"name": "Savory Pan-Seared Tuna Steaks"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

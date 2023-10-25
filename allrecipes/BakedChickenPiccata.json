@@ -1,0 +1,160 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Baked Chicken Piccata"
+,"datePublished": "2019-05-18T03:22:14.000-04:00"
+,"dateModified": "2019-05-18T03:22:14.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Bibi"
+,"url": "https://www.allrecipes.com/cook/bibi"
+}
+]
+,"description": "Do you like the convenience of an oven meal? This easy baked chicken piccata packs a punch thanks to its piquant signature sauce."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/O5N0GVXT4_OZwyuThOlEytlk8M4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6635624-a8ce1edb0ad14ed6904048d849a56ac1.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Baked Chicken Piccata"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "1"
+}
+,"cookTime": "PT25M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "433 kcal"
+,"carbohydrateContent": "21 g"
+,"cholesterolContent": "106 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "27 g"
+,"saturatedFatContent": "12 g"
+,"sodiumContent": "4578 mg"
+,"sugarContent": "0 g"
+,"fatContent": "28 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 gallon lukewarm water",
+"0.25 cup kosher salt",
+"8 chicken cutlets",
+"salt and pepper to taste",
+"1 cup all-purpose flour",
+"8 tablespoons unsalted butter, divided",
+"4 tablespoons extra virgin olive oil",
+"1 cup chicken stock",
+"2 large lemons, juiced",
+"3.5 ounces capers, drained",
+"1 clove garlic, minced",
+"1 tablespoon chopped fresh parsley" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "For the brine: Combine lukewarm water and salt in a large bowl, stirring until the salt dissolves. Add chicken cutlets and let stand at room temperature for 15 minutes. Remove chicken and pat dry, discarding brine."
+} ,{
+"@type": "HowToStep"
+,"text": "Season each cutlet with salt and pepper, then dredge in flour; shake off any excess flour. Place seasoned and floured cutlets on a plate."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 400 degrees F (200 degrees C). Grease a 9 x 13-inch baking dish."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat half the butter and olive oil in a large skillet over medium high-heat until butter is melted and oil is shimmering. Add 4 floured cutlets and cook until browned, about 3 minutes per side. Transfer to the prepared baking dish. Repeat with the remaining cutlets."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake chicken cutlets in the preheated oven until chicken is no longer pink in the center and the juices run clear, about 10 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "While chicken bakes, heat the original skillet over medium-high heat for the sauce. Stir in chicken stock, lemon juice, and capers, scraping up any browned bits from the bottom of the skillet. Season with garlic, salt, and pepper. Stir in remaining 4 tablespoons butter, 1 tablespoon at a time, and cook, stirring constantly, until a spoonable consistency is reached, about 4 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Drizzle sauce over the baked chicken to serve."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT55M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "clkendrick15"
+},
+"reviewBody": "Excellent flavor! Easy to make. Minimal effort."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/273597/baked-chicken-piccata/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16954/main-dish/chicken/",
+"name": "Chicken"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17187/main-dish/chicken/chicken-piccata/",
+"name": "Chicken Piccata Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/273597/baked-chicken-piccata/",
+"name": "Baked Chicken Piccata"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

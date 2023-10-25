@@ -1,0 +1,147 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Freezer-Friendly Frittata"
+,"datePublished": "2019-08-24T03:58:13.000-04:00"
+,"dateModified": "2023-01-28T16:04:26.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Paul Brunner"
+,"url": "https://www.allrecipes.com/cook/10699669"
+}
+]
+,"description": "This freezer-friendly recipe makes a filling frittata full of eggs, mushrooms, bacon, and 3 types of cheese. Enjoy it right away, or freeze it for future meals."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/OyUE96K32k3iOH4lhyGMy5D2Kt8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/275458-freezer-friendly-frittata-France-C-4x3-1-7455749f627a42659c0359088afb92cf.jpg",
+"height": 900,
+"width": 1200
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Freezer-Friendly Frittata"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "1"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "315 kcal"
+,"carbohydrateContent": "5 g"
+,"cholesterolContent": "254 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "23 g"
+,"saturatedFatContent": "11 g"
+,"sodiumContent": "824 mg"
+,"sugarContent": "3 g"
+,"fatContent": "23 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"cooking spray",
+"10 large eggs, beaten",
+"1 medium onion, chopped",
+"1 (10 ounce) package fresh mushrooms, chopped",
+"0.5 pound chopped fully cooked ham",
+"1 cup milk",
+"1 cup shredded Colby-Jack cheese",
+"0.5 cup crumbled goat cheese",
+"0.25 cup chopped cooked bacon",
+"0.25 cup shredded Parmesan cheese",
+"salt and ground black pepper to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 375 degrees F (190 degrees C). Lightly coat a deep 9x13-inch baking dish with cooking spray."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine eggs, onion, mushrooms, ham, milk, Colby-Jack cheese, and goat cheese in a large bowl; beat well. Pour egg mixture into the prepared baking dish. Sprinkle with chopped bacon, Parmesan cheese, salt, and pepper."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until eggs are set and the edges are golden brown, about 30 minutes. Allow to cool slightly, slice into 8 pieces, and serve."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT50M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "France C"
+},
+"reviewBody": "Delicious! Super cheesy and packed with flavor. It did seem like a lot of mushrooms at first, but it all worked out. The only thing I suggest is mincing the onion very finely, as it was just slightly undercooked, and I ended up baking my frittata for an extra 5 minutes. These are very hearty portions and make a filling breakfast. I even cut mine smaller (16 squares instead of 8) and the smaller size works well for me, with a side of toast. I take a slice or two out of the freezer and let thaw overnight in the fridge, then reheat at 60% power for about 1.5-2 minutes. I’ll definitely make this again!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/275458/freezer-friendly-frittata/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/148/breakfast-and-brunch/eggs/",
+"name": "Eggs"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1564/breakfast-and-brunch/eggs/frittata/",
+"name": "Frittata Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/275458/freezer-friendly-frittata/",
+"name": "Freezer-Friendly Frittata"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,424 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Grilled Mexican Steak"
+,"datePublished": "2018-06-08T09:20:23.000-04:00"
+,"dateModified": "2022-08-08T11:35:14.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "TA9I"
+,"url": "https://www.allrecipes.com/cook/602743"
+}
+]
+,"description": "This is a great way to serve grilled skirt or flank steak. The spicy two day marinade is worth the wait."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/GgdJdAGc29OmZR6v9pUXkvF2xwU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2254695-f8c3902ad2594f96877e1c60da0cb4ac.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Grilled Mexican Steak"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "31"
+}
+,"cookTime": "PT8M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "548 kcal"
+,"carbohydrateContent": "7 g"
+,"cholesterolContent": "72 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "29 g"
+,"saturatedFatContent": "11 g"
+,"sodiumContent": "675 mg"
+,"sugarContent": "1 g"
+,"fatContent": "45 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT12M"
+,"recipeIngredient": [
+"0.5 cup cumin seeds",
+"5 jalapeno peppers, seeds and ribs removed, chopped",
+"3 cloves garlic",
+"1 tablespoon cracked black pepper",
+"0.33333334326744 cup fresh lime juice",
+"1.5 teaspoons salt",
+"1.5 cups olive oil",
+"2 bunches cilantro (leaves and stems)",
+"1 (3 pound) skirt or flank steak" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Toast the cumin seeds in a medium saute pan over medium-low heat for 5 minutes, or until fragrant."
+} ,{
+"@type": "HowToStep"
+,"text": "In a blender, combine the cumin seeds, jalapenos, garlic, pepper, lime juice, and salt. Pulse the blender to finely chop ingredients. Add the oil and cilantro and puree until smooth."
+} ,{
+"@type": "HowToStep"
+,"text": "Lightly score both sides of the meat with a knife so that the marinade will penetrate. Place the meat in a large plastic bag or bowl, pour in the marinade, and coat well. Marinate in the refrigerator for 24 to 48 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat an outdoor grill for high heat and lightly oil grate."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove the meat from the marinade and discard the remaining marinade. Cook on high, 1 to 2 minutes per side, to sear the meat. Turn the heat down to low and cook for an additional 3 to 4 minutes per side, or until the it has reached the desired doneness."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT1460M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "We loved this recipe. I didn't have a flank steak so I used ground venison with all the spices was so good I over ate. I will be making this again with flank steak grilled."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gwen Wyman"
+},
+"reviewBody": "This was an amazing recipe we did tostadas great flavor its a keeper for sure!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Roberto Creando"
+},
+"reviewBody": "WOW. My Costa Rican family of 4 adults and 2 children raved about this recipe. No left overs. I toasted those comino seeds ...and maybe shorted the culantro a bit ...but a bunch of culantro in Costa Rica is a whole lot of culantro. And the meat was a bit rare (although I exceeded the cook times) which I (a Gringo) loved ...and everybody else chowed down (though might prefer a bit more cooked. ) Served with salsa (called chimichuri in Costa Rica) and grilled onions and peppers. A big winner over all winner! A full 5 star !!!for a Mexican recipe!\n\nTHANKS FOR SHARING!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ptwoosley"
+},
+"reviewBody": "It was awesome on the steak and chicken too. I used ground cumin instead of seeds for convenience and it was still great. I also love it hot so I added a little cayenne to the marinade."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Janice"
+},
+"reviewBody": "Love, love loved this! \nI doubled the lime juice and left some of the seeds and ribs of the jalapeño pepper for just a bit of heat. I also used ground cumin (did it to taste) rather than deal with toasting the cumin seeds.\nI only marinated it for a couple of hours. After putting the meat on the grill, I poured the leftover marinade into a sauce pan and boiled it for about 5 minutes. Then I poured off almost all of the oil and used what was left as a sauce. DELICIOUS!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jd"
+},
+"reviewBody": "This was delicious . Quick &amp; easy to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "RainbowJewels"
+},
+"reviewBody": "I didn't have cumin seeds, so I used cumin powder instead. Otherwise made as directed. My husband loved this meat and said I will need to make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kathshort"
+},
+"reviewBody": "Excellent recipe! My family loves this recipe. The leftovers are awesome cut-up on a salad the next day. We use 2 or 3 jalapenos rather than 5 and a 1/4 c pre-ground cumin. We use whatever hunk of meat is the cheapest that week."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "mrscrazyed"
+},
+"reviewBody": "Not impressed with this recipe. Cut the cilantro way down per suggestions of other reviewers, about a quarter of what was called for. Both DH and I felt the cooked flank tasted grassy. And we were both surprised that the meat wasn't more tender. It marinated for 48 hours and was cooked rare. We have other recipes that we enjoy much more. Won't be making this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Susan Lapre"
+},
+"reviewBody": "Very tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "HOLLYROY"
+},
+"reviewBody": "After reading the reviews, I did adjust the amount of cilantro, but still ended up with lots of marinade, but that was no issue. It looked like Martian food when I went to grill it, but smelled terrific and even the non red meat eaters enjoyed. We used top sirloin grilling stake as I am not sure what skirt or flank is, must be localized word for the same thing. We did use pre-ground cumin to save time, the result was fantastic! thanks TA91!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "HOLLYROY"
+},
+"reviewBody": "After reading the reviews, I did adjust the amount of cilantro, but still ended up with lots of marinade, but that was no issue. It looked like Martian food when I went to grill it, but smelled terrific and even the non red meat eaters enjoyed. We used top sirloin grilling stake as I am not sure what skirt or flank is, must be localized word for the same thing. We did use pre-ground cumin to save time, the result was fantastic! thanks TA91!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "HouseCentipede"
+},
+"reviewBody": "First of all, the default quantity of ingredients this calls for is absurd. Three pounds of meat? Two bunches of cilantro? An entire jar of cumin seeds? The amount of food this made would feed every inmate in a Juarez prison. I ended up having to make a second trip to the grocers to buy more meat, once I had discovered the monstrous amount of marinade I had staring at me from my pan. Secondly, toasting the cumin seeds and pureeing the cilantro gave my house a bizarre odor, which I found off-putting. For the amount of work this took to prepare, I don't think it's deserving of all the fanfare. The meat ended up being edible, which is at least something. I say \"adios\" to this dish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "sunshine"
+},
+"reviewBody": "Interesting taste. I would cook it again, but I don't think you need half a cup of cumin or two bunches of cilantro. I would cut in half, for sure. I love strong flavors so for me to make this suggestion means it was too much."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lons65"
+},
+"reviewBody": "Made for Cinco de Mayo -- and got rave reviews from the entire crowd. I used a london broil instead of skirt steak. Kept the rest of the recipe the same."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JONESCLAN"
+},
+"reviewBody": "We loved it! I was a little worried that it would be too hot for my younger children with 5 jalepenos, but it was perfect. I made the marinade and marinated it for 3 days. I used the ground cumin also and I used petite sirloins. I grilled it a little longer on my indoor grill- close to 15 minutes on each side- and it was still pretty pink on the inside. I served it with Mexican Rice II. I uploaded a photo to share with everyone too. It was a great change from a traditional steak. Thanks for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jessie T"
+},
+"reviewBody": "this marinade was delicious - i did not strictly follow the quantities but you don't have to - the ingredients are so fresh and the combo is absolutely delicious. also - and most importantly to a member of the instant gratification generation - the steak was perfect after marinading for ONLY 4 hours!!! :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Toasty Mama"
+},
+"reviewBody": "I did use 1/4 c of the preground cumin instead of the seed as suggested by TeaChef. I also substituted the fresh jalepenos for the jar jalepenos and used about 3/4 cup, because that is what I had on hand at the time. Beware the cilantro, 2 bunches is a little vague for me. Somehow I interpreted this as two whole bunches from the grocery store. However in my area we are blessed with some pretty large bunches. I used about a 1/4 of one of my bunches and it was very thick and very, very green. I was concerned that perhaps I had ruined the recipe, but after scraping off the marinade and grilling my family really loved it. My suggestion is to add the cilantro to the food processor slowly until you get the consistency you like. Good recipe though, easy and well worth the effort."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TeaChef"
+},
+"reviewBody": "This was magnificent! Everyone raved. Only change I made was using 1/4 cup of pre-ground cumin since I didn't have any of the seed. The blender was already out, so used it instead of the food processer. I marinated the steak for 24hrs. Served it along with grilled peppers and onion, a salad of chunked cucumber, tomatoes and minced red onion and MORE cilantro tossed in PaulNewman's new Light Lime Viniagrette, and finally AllRecipe's \"Sweet Corn Cake\" recipe. Umm, ummmm good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "savedbygrace"
+},
+"reviewBody": "This recipe is awesome!!! I used flank steak and marinaded it for 48 hours, then cooked it on the grill. I did not have the cilantro, but used everything else. The steak was surprisingly tender for flank steak and had so much flavor. I will definitely be using this one again. Thanks for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shanna"
+},
+"reviewBody": "This was so juicy and had so much flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Dawn Fronius"
+},
+"reviewBody": "Nice recipe, of course Imade some changes to suit my taste."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/47844/grilled-mexican-steak/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/237/world-cuisine/latin-american/",
+"name": "Latin American"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/728/world-cuisine/latin-american/mexican/",
+"name": "Mexican"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/47844/grilled-mexican-steak/",
+"name": "Grilled Mexican Steak"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

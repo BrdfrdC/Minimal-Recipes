@@ -1,0 +1,359 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Easy Minestrone"
+,"datePublished": "2020-01-03T01:50:01.000-05:00"
+,"dateModified": "2022-01-07T10:49:58.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Luhoney"
+,"url": "https://www.allrecipes.com/cook/2801212"
+}
+]
+,"description": "Minestrone soup was never so easy as with this recipe that calls for ingredients typically on-hand; a great weeknight meal!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/tYinQyvIBekVyhZgcFaIAFPLRNo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7557279-984aebbcb3ab45d8b4b81b8b6437c802.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Easy Minestrone"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "23"
+}
+,"cookTime": "PT60M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "216 kcal"
+,"carbohydrateContent": "29 g"
+,"cholesterolContent": "2 mg"
+,"fiberContent": "7 g"
+,"proteinContent": "8 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "388 mg"
+,"sugarContent": "9 g"
+,"fatContent": "7 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"3 tablespoons olive oil",
+"3 cloves garlic, chopped, or more to taste",
+"2 onions, chopped",
+"5 carrots, sliced",
+"4 cups chicken broth",
+"2 (15 ounce) cans diced tomatoes with garlic and oregano",
+"0.5 cup red wine",
+"1 (16 ounce) package frozen green beans",
+"1 (15 ounce) can pinto beans, rinsed and drained",
+"1 (10 ounce) package frozen chopped spinach",
+"2 tablespoons chopped fresh basil",
+"1 tablespoon chopped fresh oregano",
+"salt and pepper to taste",
+"0.5 cup seashell pasta, or more to taste",
+"0.25 cup freshly grated Parmesan cheese, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat olive oil in a large pot over medium-low heat. Cook and stir garlic in hot oil until fragrant, 2 to 3 minutes. Add onion; cook and stir until slightly softened, 4 to 5 minutes. Stir in carrots until heated through, 1 to 2 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour chicken broth and diced tomatoes into onion mixture; bring to a boil, stirring frequently. Add red wine, reduce heat to low, and stir green beans, pinto beans, spinach, basil, oregano, salt, and black pepper into broth mixture. Bring to a simmer, reduce heat to medium-low, and simmer until vegetables are tender, about 40 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Bring a large pot of lightly salted water to a boil. Cook seashell pasta in the boiling water, stirring occasionally until cooked through but firm to the bite, about 8 minutes. Drain and stir pasta into soup. Ladle soup into bowls and top with Parmesan cheese."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT80M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Teamchambie"
+},
+"reviewBody": "Absolutely no flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kelley Porter"
+},
+"reviewBody": "Quick, easy, and delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MargieV1462"
+},
+"reviewBody": "This has become a fall family favorite!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rachel1533"
+},
+"reviewBody": "This was really great. I needed to make it vegan so I substituted vegetable stock. They only thing I would do different is I would not add the pasta to the soup. It soaked up so much of the liquid I had to add additional stock when I went to use the left overs. I will add past to the bowl and pour over the soup"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rita Rusinovich"
+},
+"reviewBody": "My family loved this. I will definitely make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "blueberry lover"
+},
+"reviewBody": "I’ve made this recipe about ten times and each time it turns out just as delicious as the first time, I do leave out the green beans but it’s just as good!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carol Wooley"
+},
+"reviewBody": "This will be my go to recipe for minestrone now."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DEE"
+},
+"reviewBody": "Favorite Soup. Delicious flavor. Made to direction!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dis_chef"
+},
+"reviewBody": "Well, I have a hard time keeping on track. That being said, I added Jimmy dean pork sausage, corn, fresh ginger root! I also omitted the red wine. Was AMAZING!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rebekah "
+},
+"reviewBody": "Great, easy recipe. I Made a few alterations. skipped the spinach and carrots and added a 16 oz bag of frozen mixed green beans,carrots and corn. Used crushed tomatoes with olive oil and sea salt. Substituted garbanzo beans. Added tbs of ground oregano and used vegetable stock instead of chicken."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "M"
+},
+"reviewBody": "Easy and delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Holly"
+},
+"reviewBody": "This was so delicious! Kids &amp; hubby loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alissa Schroeder"
+},
+"reviewBody": "A great, easy soup and made the house smell wonderful. I wouldn't change a thing, although I ADDED browned ground turkey just because we are meat lovers (definitely not necessary)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ldeluna"
+},
+"reviewBody": "I followed the recipe, but did not include the wine. I also added black eyed peas, and it was a hit with the entire family. Makes a large pot full. Fantastic and healthy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Phil Sevetson"
+},
+"reviewBody": "The more I make this, the more I like it. It has become a staple of my diet, because I can make a batch on Sunday, freeze it in individual portions, and have it for lunch at work all week. (Note: if freezing, do not add the noodles until the moment before you put it in the freezer, to prevent over-absorption of the liquid.)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Manuel Ortega"
+},
+"reviewBody": "Great recipe thank you, I actually combined the easy and classic recipe and added a little lean ground meat it was delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joy Dauterman"
+},
+"reviewBody": "This was wonderful! We loved it and I will definitely be making it again!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/240127/easy-minestrone/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/184/soups-stews-and-chili/soup/vegetable-soup/",
+"name": "Vegetable Soup Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17038/soups-stews-and-chili/soup/vegetable-soup/minestrone/",
+"name": "Minestrone"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/240127/easy-minestrone/",
+"name": "Easy Minestrone"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

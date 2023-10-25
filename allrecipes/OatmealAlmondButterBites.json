@@ -1,0 +1,177 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Oatmeal Almond Butter Bites"
+,"datePublished": "2016-10-13T22:47:21.000-04:00"
+,"dateModified": "2022-12-09T09:26:37.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Christy Parker"
+,"url": "https://www.allrecipes.com/cook/funwithfood"
+}
+]
+,"description": "These quick and easy almond butter balls with oats, seeds, coconut, and chocolate chips are a great on-the-go snack when you need an energy boost."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/nyeRq68HsBgmNuGUuUNSSvU9WsQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3901139-07ca635af5124fed9786f2f2cc44199d.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Oatmeal Almond Butter Bites"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "6"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "229 kcal"
+,"carbohydrateContent": "26 g"
+,"fiberContent": "4 g"
+,"proteinContent": "5 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "66 mg"
+,"sugarContent": "14 g"
+,"fatContent": "14 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"2.5 cups rolled oats",
+"1 cup almond butter",
+"1 cup semisweet chocolate chips",
+"0.5 cup honey",
+"0.25 cup chia seeds",
+"0.25 cup ground flax seeds",
+"0.25 cup finely shredded unsweetened coconut" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Mix oats, almond butter, chocolate chips, honey, chia seeds, ground flax seeds, and coconut together in a stand mixer fitted with the paddle attachment, gradually increasing speed, or by hand in a large bowl, until mixture is well combined and forms a large ball."
+} ,{
+"@type": "HowToStep"
+,"text": "Shape into 1-inch balls. Place balls onto a parchment-lined baking sheet and freeze until firm, about 30 minutes."
+} ]
+,"recipeYield": ["18"]
+,"totalTime": "PT50M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pim"
+},
+"reviewBody": "Great snacks! Won't have to buy any cliffs bars anymore"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KeliWilliams"
+},
+"reviewBody": "Love these! I used whole flax seed instead of ground simply because that’s what I had. It added extra crunch that I liked so I’ll probably stick with it. I also cut the chocolate down to just over 1/2 cup &amp; it was plenty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "bananajoanna"
+},
+"reviewBody": "These were tasty, but harder to make than similar recipes. I don't have a standup mixer and so used my hands. Mistake! I couldn't get the almond butter to mix very well and so had a lot of other ingredients left over that wouldn't form into balls. I saved it by adding peanut butter and honey to the rest. I think this could be easier by letting the almond butter come to room temperature. Otherwise good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Emmy Cook"
+},
+"reviewBody": "Loved these little balls of scrumptiousness. This made 27 balls. I did make a couple of changes due to what I had - Nutella instead of almond butter and all chia seeds rather than chia and flax. I'm sure these will be just as good as written. Keeping them in the freezer and grabbing out a couple at a time when I want a treat."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/255798/oatmeal-almond-butter-bites/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/",
+"name": "Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/76/appetizers-and-snacks/",
+"name": "Appetizers and Snacks"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/255798/oatmeal-almond-butter-bites/",
+"name": "Oatmeal Almond Butter Bites"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,984 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "The Best Chocolate Glaze"
+,"datePublished": "2019-04-04T00:01:07.000-04:00"
+,"dateModified": "2022-05-09T11:34:34.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Mary Taylor Dantzler"
+,"url": "https://www.allrecipes.com/cook/3871085"
+}
+]
+,"description": "This chocolate glaze for cake is made with 5 ingredients for a quick and easy sweet topping, great for pouring over cakes, brownies, and ice cream."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/KUjB22EcADn8LiXDGogOWSXSWq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7870151-aa28316478b34d51b37a342910603157.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "The Best Chocolate Glaze"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "71"
+}
+,"cookTime": "PT5M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "90 kcal"
+,"carbohydrateContent": "12 g"
+,"cholesterolContent": "13 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "1 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "35 mg"
+,"sugarContent": "10 g"
+,"fatContent": "5 g"
+,"servingSize": "3/4 cup"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"6 tablespoons cocoa powder",
+"5 tablespoons butter",
+"1 cup confectioners' sugar",
+"0.75 teaspoon vanilla extract",
+"2 tablespoons hot water, divided" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Melt cocoa and butter together in a small saucepan over low heat, about 5 minutes. Remove from heat."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir in confectioners&#39; sugar and vanilla extract. Stir in hot water, 1 teaspoon at a time, until glaze is thick and smooth."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT10M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ExperimentingCook"
+},
+"reviewBody": "I made this w/ vegan \"butter\", added an extra Tbsp of it. I also added 1/4 tsp almond extract in addition to the vanilla. It went together just fine until I added the powdered sugar; never did get smooth. Maybe I should have sifted the sugar first, or used more than 2 tsps of water."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "EO3180"
+},
+"reviewBody": "Very good! I doubled the recipe for a Bundt cake and it was too much, next time I'll cut that extra in half. It's not extremely sweet which was perfect for us. Has that dark chocolate taste that my husband loves. This one's a keeper for my family! Thank you for sharing it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bernie"
+},
+"reviewBody": "I have made this several times for my chocolate Bundt cakes. Yes, it isn't sticky sweet, but that's what I like about it. One thing I have learned, though, is that the water you add by teaspoonful must be VERY hot. I put the water in the microwave and heat it before adding it to the chocolate. And you should stir the mixture like mad until it appears kind of shiny. My cakes with this glaze are always a big hit."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This was incredibly bitter. Not even dark chocolate bitter. Just gross. I ended up added another tablespoon of butter, another 1 1/2 cups of powdered sugar, and 2 teaspoons of vanilla. I also added 2 tablespoons of milk."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jth"
+},
+"reviewBody": "Simple and great-tasting glaze. Did not adjust recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "The absolute best chocolate glaze! I wouldn’t change a thing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Raye Brittain"
+},
+"reviewBody": "Easy and quick and oh so yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dmarie9911"
+},
+"reviewBody": "Turned out great. I had no probles with the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "crrgill"
+},
+"reviewBody": "This was way too thick so I added a little more water it never became smooth or looked close to a glaze. I added milk and it became a smooth glaze."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "The best chocolate glaze was delicious as written. My family loved it. Just remember to consider how big your bundt cake is so you can use the adjustment on the recipe to fit the size of your cake. My bundt cake recipe said 16 serving so I bumped up the serving size in the glaze to account for the difference."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I use this all the time for cake fillings, drips and a lot more. I replace some ingredients in order to make it vegan and it works perfectly! If you want to adjust the consistency depending on what you're making, change the amount of water and it really helps. Would 100% reccommend"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Love Ron"
+},
+"reviewBody": "I reduced the cocoa powder to 4 tablespoons. It is perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Auria"
+},
+"reviewBody": "This was very easy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Teresa Dallas Bennett"
+},
+"reviewBody": "Dark sweet...perfect glaze for my chocolate pound cake!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lynn J"
+},
+"reviewBody": "First time making a glaze from a recipe and it was easy and turned out delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Aileen Lisette"
+},
+"reviewBody": "I followed someone else's advice and used 6 tb of cocoa powder, 6 tb of butter, 1 c. and 1 tb of powdered sugar, 1 tsp of vanilla extract and 2 tb of hot water. It wasn't enough for my eclair cake, so next time I will double the recipe. My family loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Sharonne Ketels"
+},
+"reviewBody": "I followed the recipe exactly right down to adding tbsp hot water at intervals. The liquids separated from the solids. Maybe it was my butter. I even tried the recipe twice and the same results. Will not ever try again!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Excellent it came out really well Everyone enjoyed it 😊 I had mixed cocoa powder butter and sugar with the water and mixed it well then added the vanilla"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda"
+},
+"reviewBody": "Best chocolate glaze I have ever made!!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Sam"
+},
+"reviewBody": "When I added the first half of the sugar, the whole thing turned immediately into a dry hard lump."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ladyofthelake48"
+},
+"reviewBody": "Definitely rich, decadent, AND easy! I used a microwave ( a large measuring cup, doubled as a mixing bowl) rather than a double boiler on stove; I couldn’t tell that it made any difference, in taste. I also used dutched cocoa, yum! The only dirty dishes were the large measuring cup and a whisk. You can make it as thick or thin as you wish by varying the hot water. The directions to add judiciously 1 tsp. at a time are exactly right. \n\nThis one’s going into my permanent file."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "clchurch121381"
+},
+"reviewBody": "It was perfect just right I only made half of the glaze but it went smoothly and I loved it!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Debra Diroll"
+},
+"reviewBody": "I made this for my vanilla coconut cake. I added a tsp. of dark rum. It was delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Wendy Redford Weems"
+},
+"reviewBody": "I love this chocolate glaze! It is buttery and rich, and has that deep rich flavor of fudge. I used salted butter for that sweet/salty flavor. I also thinned it to help it coat my cake."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mrsmashpatata"
+},
+"reviewBody": "This is my quick and easy \"go to\" whenever I make a mini bundt cake in my 8qt. pressure cooker. The trick is to keep the heat low and keep stirring until you get the consistency you like. I like to sift the powdered sugar too, it blends easier. I use this recipe a few times a month and my husband helps with the clean up...by licking the spoon after scraping the pan clean!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amy"
+},
+"reviewBody": "Absolutely delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Janet Stuart Murray"
+},
+"reviewBody": "The first glaze I ever made that came out perfect the first time, made exactly as the recipe said! My go to now easy and fast"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "yankeefans0308"
+},
+"reviewBody": "Had trouble loading a pic before, but here it is! Yummy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lauramirmino0727"
+},
+"reviewBody": "I made this with Hershey's Special Dark cocoa and substituted cold milk for the hot water and it came out perfectly! Just enough balance of the not too sweet cocoa and the confectioners sugar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Raven McLaughlin"
+},
+"reviewBody": "I chose this glaze recipe because I had all of the ingredients already!!! I was looking for a rich, chocolate glaze for my mom's birthday cake and this was PERFECT. I did probably use 4 TBSP of hot water... I would use what you need to get it the consistency you want!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KMerrifield"
+},
+"reviewBody": "Best chocolate glaze I have found! I love that it’s made with ingredients I always have in my pantry. I do add 1/8 tsp of kosher salt and it’s amazing how that little bit of salt elevates the chocolate flavor! Also I am a stickler for following directions so in this recipe don’t skip cooking the butter and cocoa for the full five minutes. This helps when you are adding that cup of powdered sugar. I also find I need a bit more hot water. Don’t be afraid to keep adding until it’s the consistency you want. I use this glaze on the Too Much Chocolate Cake recipe on this site. Delicious!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "jenshep"
+},
+"reviewBody": "I halved the sugar since I’m making a healthier version of chocolate glaze for my peanut butter protein bars. It came out just fine and complimented the peanuts perfectly."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jean"
+},
+"reviewBody": "I was looking for something other than a butter frosting for a chocolate pumpkin spice cake. It was easy and delicious and just right for what I wanted. I made it as directed."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Colleen Raemisch"
+},
+"reviewBody": "Loved it! Easy:) used strong coffee instead of water."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jo louis"
+},
+"reviewBody": "I loved this recipe! I needed a quick chocolate glaze for \nCream puffs ! I have never made before and it was great! Just what I needed!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tina"
+},
+"reviewBody": "This recipe is just what it's supposed to be. It took like 5 minutes to make, it wasn't overly sweet, it was deliciously chocolatey, and it wasn't very decadently caloric when spread over a 9x13 cake. It looks like it's not going to work when you mix the first ingredients, but the hot water smooths everything out nicely."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda Pauline Chandler"
+},
+"reviewBody": "I needed a glaze for peanut butter brownies. I found this one and I had all the ingredients on hand, so I made it. Absolutely perfect. Definitely a keeper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Langlay"
+},
+"reviewBody": "made this, very easy, and really good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nicole Cerullo"
+},
+"reviewBody": "Delightful and so easy!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Abigail Garrison"
+},
+"reviewBody": "Really good! I used a double boiler for the butter and Coco and used about 2 tbs hot water (for half batch). Half batch was perfect to drizzle over rice crispy treats!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle "
+},
+"reviewBody": "Very simple and delicious..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tamela Workman"
+},
+"reviewBody": "I needed more than 2 tbsp. of hot water to thin out the glaze, but it worked out well and tasted good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Aishah "
+},
+"reviewBody": "Love the taste and reminds me of betty crocker chocolate fudge icing \nI've Made this twice\nThe first time was perfect \nThe second time it separated like one of the reviews mentioned. I'm pretty sure it's Coz the water was too hot. \nIf is separates; to fix add another tablespoon of normal temp water and stir till binds together worked like a charm\n\nI used for cupcakes and added water till its a spreadable consistency"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carlos Castro Neves"
+},
+"reviewBody": "Wow. Easy and beautiful! I was intrgued after adding the sugar. I thought - \"this is too powdery and it asks for just a couple of tablespoons of warm water?\". Yes - that's it! Check out my donuts!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jhsb"
+},
+"reviewBody": "I chose to make this glaze because I wanted a drip on a bundt cake and didn't have the cream to do a ganache. Made as directed, it thickens up very quickly and wasn't dripping as I wanted, so \nI added an extra tablespoon of water to make it a bit more liquid and it worked perfectly and stays very shiny. I will definitely use this recipe again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "COTAIBI"
+},
+"reviewBody": "Love love this glaze!! So easy and exactly what i was looking for. My family loved it. We don't care for thick frosting and icing. This reminds me of my mother's recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Sue C"
+},
+"reviewBody": "Tastes great. Unfortunately it separated. I'll try it again and add the water very slowly, one at a time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sandy"
+},
+"reviewBody": "This is delicious but I needed a lot more liquid. Instead of water I used cold brewed coffee concentrate. Rich and delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sid Grabosky"
+},
+"reviewBody": "Came out great. Poured it over a bundt cake. Came out shiny and delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kristin White Kvastad"
+},
+"reviewBody": "This was super fast, easy, and yummy. It does have a similar flavor to semi sweet chocolate chips, but that’s what I wanted. I wouldn’t change anything. If it’s too think, more hot water will loosen it upZ"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amanda"
+},
+"reviewBody": "Very good and easy! I needed slightly more water to get consistency right. Also added a pinch of salt. This icing is not very sweet, with a strong chocolate flavor, which I like."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Harleen Quinzel"
+},
+"reviewBody": "This is chocolate crack! I put it over a chocolate bunt cake and it was just perfect! of course I make this at midnight.... I tried to add a picture, but it won't work."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Susan Adams"
+},
+"reviewBody": "I added an extra quarter cup of powdered sugar. Absolutely delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TravelerOfTheWays"
+},
+"reviewBody": "At one point it seemed to get lumpy and weird, but a little more hot water loosened it back up. It's nice that the sweetness and consistency can be adjusted. I used this on a cake I wanted glazed, not frosted, and it was perfect. Saving for future use!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Roger-Betsy Boyd McKinney"
+},
+"reviewBody": "I doubled the powdered sugar and added more hot water. I added a dash of salt and beat vigorously with a whisk until satin smooth. Very chocolaty, shiny and delicious. Drizzled over a chocolate chip Bundt cake. Decadent!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Charlotte"
+},
+"reviewBody": "I've made it several times, and every time the fluid separated from the glaze and the glaze became lumpy. I love the taste, but maybe doing something wrong?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Donna Perry"
+},
+"reviewBody": "I wanted a bundt cake glaze that was pourable, like a ganache, but I didn't have the heavy cream. I opted for this glaze because I had the ingredients, and I'm glad I did because it's delicious! I'd increase the hot water to a range of 2-4 tablespoons, using less water for glazing brownies, donuts or cookies and more water for glazing cakes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Angiekcpost"
+},
+"reviewBody": "Super Fast &amp; Easy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Becki DeVall"
+},
+"reviewBody": "This was so delicious! I do have to say though that I ended up putting a bit more powdered sugar than it called for because I wanted it a bit sweeter. Excellent recipe though, and the cake didn’t last long! lol"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cathy Adams"
+},
+"reviewBody": "I looked at many chocolate glaze recipes. I chose this one because I had all of the ingredients on hand. It is simple to make, tastes wonderful, to me, using the exact ingredients called for in the recipe. I made a 1/2 recipe of an old family-favorite scratch chocolate cake (a recipe my mom got from a friend back in the mid-1960’s), in a 9X9 pan. The glaze was exactly enough to generously cover the top of the cake. I tasted the glaze before putting it on my cake, and I just loved the flavor. Great recipe. Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ann Sawyer"
+},
+"reviewBody": "It doesn't taste sweet enough, the cocoa powder is really strong. I added another tablespoon of powdered sugar and butter and another 1/4 tsp of vanilla.\n\nTo recap:\n6 Tbsp butter\n6 Tbsp cocoa powder\n1 tsp vanilla\n1 cup plus 1 Tbsp powdered sugar"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JEANSB"
+},
+"reviewBody": "Made as written. It worked great on 'Vegan Double Chocolate Peanut Butter Banana Cake' from this site. Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tmmorrow"
+},
+"reviewBody": "Chocolate-y with just the right amount of sweetness. Would consider another teaspoon of hot water to make it a bit more pourable. Made it for the One Bowl Chocolate Cake III on this site."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "C L Brown"
+},
+"reviewBody": "Just what I was looking for, something quick and easy it was delicious! I will definitely make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "UtahWI"
+},
+"reviewBody": "Delicious! I needed a quick, tasty, chocolate glaze for the orange chocolate Bundt cake on this site. I wanted a chocolate and orange glaze, and chose this one as it's made with stuff I stock anyway. but, I used OJ in place of the water, and wow! Very pretty, very tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joan Avery-Erickson"
+},
+"reviewBody": "Love this glaze! Made the chocolate pound cake and this glaze !! The best dessert for a Comfort Meal --Company loved it and took the leftovers home!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/246381/the-best-chocolate-glaze/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17100/desserts/frostings-and-icings/",
+"name": "Frostings and Icings"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/2418/desserts/frostings-and-icings/chocolate/",
+"name": "Chocolate"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/246381/the-best-chocolate-glaze/",
+"name": "The Best Chocolate Glaze"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

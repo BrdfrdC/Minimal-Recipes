@@ -1,0 +1,952 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Broccoli Cranberry Salad"
+,"datePublished": "2020-06-18T23:50:00.000-04:00"
+,"dateModified": "2023-03-21T12:48:27.398-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "lovecakes"
+,"url": "https://www.allrecipes.com/cook/1499692"
+}
+]
+,"description": "This broccoli salad with cranberries, bacon, and sunflower seeds is tossed in a creamy, tangy dressing for the perfect summer picnic or potluck dish."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/uYBxyy0P5sGe4ZH9ZA6IOir68E4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4542396-3aafa66ba24240da82c8a3a2d8b54527.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Broccoli Cranberry Salad"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "80"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "314 kcal"
+,"carbohydrateContent": "19 g"
+,"cholesterolContent": "18 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "6 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "355 mg"
+,"sugarContent": "11 g"
+,"fatContent": "25 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+, "recipeCategory": ["Side Dish","Salad"]
+,"recipeCuisine": ["American"]
+,"recipeIngredient": [
+"1 cup mayonnaise",
+"0.25 cup white sugar",
+"2 tablespoons red wine vinegar",
+"6 strips bacon",
+"3 heads broccoli, cut into bite-sized pieces",
+"0.5 cup chopped red onion",
+"0.33333331346512 cup salted sunflower kernels, toasted",
+"0.25 cup dried cranberries" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Make dressing: Whisk together mayonnaise, sugar, and vinegar in a small bowl. Chill in the refrigerator until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Make salad: Cook bacon in a large skillet over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain bacon slices on a paper towel-lined plate, then crumble and set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine broccoli, onion, sunflower seeds, and cranberries in a large serving bowl. Add crumbled bacon and drizzle with dressing; toss until well combined."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT20M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Delicious! My family loves it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "khorn"
+},
+"reviewBody": "I made the salad for Christmas. I added 1/2 bag of shredded cheddar cheese and a handful of chopped sweet and spicy pecans. It was a big hit."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cliffardo"
+},
+"reviewBody": "Really good salad. I've made it number of times, often subbing toasted pecans for the sunflower seeds, which I usually don't have around the house."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer C Finn"
+},
+"reviewBody": "This was a decent recipe but there was wayyyyyy too much sugar. I used half the sugar it called for and it was still too sweet for me. We still ate it and still yummy. On the hunt for the perfect dressing. I'm sure those who like thibgs a little sweet will love this recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rita C"
+},
+"reviewBody": "Delicious! I substituted sugar &amp; red wine vinegar with apple cider vinegar and honey. Worth taking the time to cut into small broccoli pieces."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "PPAT"
+},
+"reviewBody": "I didn't have bacon on hand but it turned out great w/o it !"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stacey "
+},
+"reviewBody": "This tasted great! I added some grated Parmesan cheese and reduced the amount of dressing a bit."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Evelyn Zielke"
+},
+"reviewBody": "It's a great recipe, though I did increase the sugar a little. Everybody like it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sandra"
+},
+"reviewBody": "Love it !!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Terry Mitchell"
+},
+"reviewBody": "We love this recipes, I only subsided the sunflower kernels and used walnuts."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "gail pontuto"
+},
+"reviewBody": "I wanted it vegetarian so no bacon. My husband and both like it. Sure I will do again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Arlene Watson"
+},
+"reviewBody": "This is one of my favs. I added cashews instead of sunflower seeds, had to use balsamic vinegar today, agave nectar instead of the sugar. Sometime use truvia. I also added a pinch of salt, pepper and garlic powder, shook it up in a jar. My 6 yr old grandson loves it, had seconds today."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathy B"
+},
+"reviewBody": "Easy, delicious recipe. Tasted like something my North Dakota Aunties would have made me. \nI used walnut in place of sunflower seeds. Much better than any deli out there. Thanks for sharing"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kimmy"
+},
+"reviewBody": "This has been such a hit. I keep getting request to bring to family get togethers."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "crazyoldkels"
+},
+"reviewBody": "Super delicious! My husband bought unsalted sunflower seeds, cherry infused craisins, and real bacon bits (the soft ones) - I thought these differences would ruin the salad, but I am happy to report they worked just fine! I also used one container of broccoli slaw and two heads of broccoli as that is what I had on hand... I also added approx 1/2 a teaspoon of salt to the unsalted sunflower seeds before mixing them into the salad. My husband and I really loved it. Great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "suzanne"
+},
+"reviewBody": "Definitely will make again. I combined this recipe with Bodacious Broccoli Salad. Used cashews instead of sunflower kernels and balsamic vinegar instead of red wine vinegar. Salt and pepper to taste. Added shredded carrots. I also steamed the broccoli for a couple of minutes. I made the night before and added the bacon and dressing a couple hours before serving. \nI made this for a work luncheon. Everyone loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Karen Quinn Radziewicz"
+},
+"reviewBody": "Added shredded cheddar cheese and we loved it! This will be my new go to for picnics and barbecues!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lynne Marie"
+},
+"reviewBody": "The original was good but too sweet. Substitute plain nonfat yogurt for half the mayonnaise. Reduce the sugar to 3 Tbls. and add 2 to 3Tbls. lemon juice. Excellent!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joe Perinelo"
+},
+"reviewBody": "It was a big hit! I altered the recipe slightly by blanching the broccoli, plus I added dried cherries and bleu cheese crumbles on top."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "AmyLou70"
+},
+"reviewBody": "This was good. The dressing made a little more than I would have cared for so I'll cut back in that in the future!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Myrna Guevarra"
+},
+"reviewBody": "This is definitely one great veggie salad. We have added 1/2 cup garlic aioli and instead of sunflower kernels I've put toasted sliced almonds (basically because that's what I have in my cupboard). We tried it again adding up a few sliced seedless grapes and it came out well too. A real keeper :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mom of seven"
+},
+"reviewBody": "This is perfect ! I didn't change a thing and every one loves it! Great crowd pleaser!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mariaksenia"
+},
+"reviewBody": "Made this for my Son's birthday party and nothing but compliments"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mari1751"
+},
+"reviewBody": "Followed recipe. Very good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ccole"
+},
+"reviewBody": "I threw the broccoli in boiling water for a few seconds to take the raw taste away. I then refrigerated it before mixing. It was an easy recipe and it turned out great"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "WeimyMom"
+},
+"reviewBody": "Tasty but dressing was a little runny. Second day was better, so I would make this the day before serving next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rose"
+},
+"reviewBody": "The recipe was a good base. I added a stalk of celery diced and also some diced grapes and mandarin orange. I also added a bit of chopped pecans and slivered almonds.Will definitely make it again. I may try replacing the mayo with Greek yogurt to make it even more healthy. Oh, and I did omit the bacon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rachel"
+},
+"reviewBody": "Delicious!! Will definitely make it again!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "romay87"
+},
+"reviewBody": "My family loved this. The second time I made it I increased the dried cranberries and left off the pecans. this has become a keeper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sheila"
+},
+"reviewBody": "I made this salad as written. My family loved it. It is easy to make and very delicious. I will be making this salad again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kathyc"
+},
+"reviewBody": "This made a large salad and I thought there would be lots of leftovers. Wrong. This was delicious and I had to hide a little for the next day. I did add shredded cheese and some toasted slivered almonds and a few pecans I had on hand and really recommend anything crunchy you have as this is a very versatile salad."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lynda"
+},
+"reviewBody": "I really enjoyed making this! I needed a way to eat more broccoli and this was perfect :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Justine Boyce"
+},
+"reviewBody": "I'm new at cooking so I made this exactly as the recipe says. I love all the flavors except the vinegar seemed way too strong. I'm not sure if less vinegar or no vinegar at all would do the trick. otherwise this was a great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CamroseAB"
+},
+"reviewBody": "Excellent !!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Terri Jansen"
+},
+"reviewBody": "So so good! I have made it a bunch of times over the past couple of weeks. I just switched the sunflower seeds for green pumpkin seeds (because I usually have those in my kitchen). This salad has gone brilliantly with butternut soup, braai, and last night, a steak and Guinness pie."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lindsay Waltman"
+},
+"reviewBody": "I added sharp cheddar cheese, salt &amp; pepper. It was soooooooo good!!! My husband even liked it and he's sceptucal of what he calls \"foofoo\" food."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anita Daniels Oliver"
+},
+"reviewBody": "I use Stevia and add sunflower seeds. AMT Stevia varies due to kind of vinegar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Susie Lumpkins"
+},
+"reviewBody": "This is the best! We found it was just as delicious when eaten the day after it is made. I first ate this after purchasing it pre-made at the grocery store. It is very pricey at the store and my daughter in law told me the recipe was available here. This was the easiest recipe and SOOOO delicious. Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "nina"
+},
+"reviewBody": "I was skeptical since I don't really like mayo, must I say that after adding the vinegar and sugar it taste a bit different. My kid loved it and she doesn't like broccoli :) \nI did reduced the mayo and sugar, added walnuts and strawberries just to add color. I will be doing and experimenting with this recipe some more as it is delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "BeckyNorman"
+},
+"reviewBody": "I made this salad because it was the closest I could find to a broccoli salad served at a restaurant I visit frequently. It was very good, but the dressing was sweeter than the one from the restaurant and I prefer that salad. \n \nNext time, I'll try 3/4 cup of mayo and only 1/8 cup of sugar and see if it matches the other one. Overall, extremely yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "nancy Bowen"
+},
+"reviewBody": "Made it few times its delicious!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DIXLYN"
+},
+"reviewBody": "Really loved this recipe. However, I found the dressing a little sweet for my taste. I used 2 cups of mayo instead of 1. Since I had used fairly large heads of broccoli, the extra dressing was actually a good thing. It was just nice and creamy. Also, this salad needs to sit for a while for the flavours to meld."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jen Wolpert"
+},
+"reviewBody": "Made it just the way the recipe says. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kanathia Narcisse"
+},
+"reviewBody": "Great dish"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lovetocook"
+},
+"reviewBody": "Thank you lovecakes for this posting! I made it for the first time yesterday for a party, and it was a big hit. I came back home with an empty bowl, which always makes me happy :-) This salad reminds me of a local restaurant, that no longer exists, by us. They used to serve a side of broccoli salad (that we absolutely loved) with all their burgers, and this salad is pretty close to it. This recipe is in my \"favorites\" file now."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rosemarie"
+},
+"reviewBody": "Great recipe! It is always a hit. I like the broccoli cut small or blanched if left bigger. This recipe is fabulous as is but still yummy with substitutions. I have used pecans or walnuts when I was out of sunflower seeds. I added a little salt to compensate. I have used grapes instead of craisins. Use a good red wine vinegar. Let the dressing mixture sit for a bit as the recipe suggests. It does make a difference. You can also add a little orange zest to this for an additional pop."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kristymcd"
+},
+"reviewBody": "I made this salad for a family gathering and it turned out great! Will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Erin Mauck"
+},
+"reviewBody": "This is the only way I really like broccoli anymore. I blanch the broccoli, so it is not completely raw. I just like it better that way. Dried chopped cherries instead of cranberries is good too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amy Arnold"
+},
+"reviewBody": "My husband said this is the best broccoli salad he has ever had."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amy Arnold"
+},
+"reviewBody": "My husband said this is the best broccoli salad he has ever had."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Laura"
+},
+"reviewBody": "This was very good! Nice crunch and balanced flavors. Great picnic salad! I used reduced-sugar craisins (couldn't tell the difference) and olive oil-based mayo. Didn't use the entire amount of dressing...just enough to coat. It was just as good the next day. My husband loved it, I prefer it over the raisin/broccoli similar salad."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Regina Beatty"
+},
+"reviewBody": "This is my number one requested dish that I make. Everyone LOVES it! I use Planters Dry Roasted Sunflower Kernels (they come in a small plastic jar) instead of plain salted sunflower seeds and it adds the perfect hint of seasoning to this recipe. Oh, and DON'T sub Miracle Whip for mayonnaise. Not very tasty. That was the only batch I made that didn't get demolished."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sunsetparkn"
+},
+"reviewBody": "So delicious and a refreshingly healthy. I prepared this recipe for a party and got rave reviews from all in attendance. The only change I made to the recipe as written was I used cashews in place of the sunflower seeds. I love the flavor of the dressing in this recipe and I will definitely be making this again and again! Thank you for a wonderfully healthy salad recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "carrowsboy"
+},
+"reviewBody": "Just prepared this now and it is fantastic! Serving it tonight along with a hamburger hash brown casserole. Great tasting, easy to mix salad for a hot summer day!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Patty"
+},
+"reviewBody": "This has become a favorite salad of ours and is prepared frequently. To change it a little, since it's eaten so often, I like to add slivered almonds, or glazed walnuts, or sunflower seeds. Also, to add a little more veggie crunch, I add thinly sliced cabbage...and it's, oh, so good! I've only added bacon a few times, but we prefer it without. And for the dressing, I found that an inexpensive light mayo is good, but the red wine vinegar should be of good quality; makes a difference! : }"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mzsuzyq"
+},
+"reviewBody": "This was a big hit at the work potluck, everyone loved it. I will definitely be making this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DFettigHalloran"
+},
+"reviewBody": "So delicious my 8-year twins wanted it for breakfast the next day! I also added cut red grapes which was very good. A really great recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Retro Rose"
+},
+"reviewBody": "It was delicious! Hold a little dressing back if you think you will have leftovers."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "scootersandi"
+},
+"reviewBody": "We loved this! And it's pretty healthy, too. I didn't measure the salad ingredients, but made dressing as written. Will be making this often. (I used frozen broccoli I cooked, drained &amp; chilled) Thanks for posting!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ftroop416"
+},
+"reviewBody": "Usually make this salad in the summer time with raisins but was looking for something simple to take to a Christmas gathering. The red craisins with the broccoli looks very festive."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "AngelaVaughan"
+},
+"reviewBody": "I've made this a couple times for events and I never bring any home. I make it just like the recipe says. It is easy and nice looking too. :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cookin Up A Storm"
+},
+"reviewBody": "This was very good. I had to keep people away from eating it before I could do a photo of it. Definitely a keeper. As is, no tweaks. I did this recipe as a part of the Western Region's Faceless Frenzy July 2012."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rosie Rierson"
+},
+"reviewBody": "I have made this delish broccoli salad many times using reduced fat Hellmans. Leave the broccoli florets unchopped, add at least a cup of craisins and sunflower seeds, adding the seeds right before serving. I also add cheddar cheese shreds. Always a hit!!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/222955/broccoli-cranberry-salad/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/219/salad/vegetable-salads/",
+"name": "Vegetable Salad Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/15103/salad/vegetable-salads/broccoli-salad/",
+"name": "Broccoli Salad Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/222955/broccoli-cranberry-salad/",
+"name": "Broccoli Cranberry Salad"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

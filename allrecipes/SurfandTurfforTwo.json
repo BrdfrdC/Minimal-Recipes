@@ -1,0 +1,520 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Surf and Turf for Two"
+,"datePublished": "2019-07-10T03:04:38.000-04:00"
+,"dateModified": "2023-01-06T11:55:08.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Staci"
+,"url": "https://www.allrecipes.com/cook/staci"
+}
+]
+,"description": "Surf and turf featuring marinated shrimp and succulent filet mignon steaks grilled together for a delightful dinner for two any night of the week."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/6CTAew6kyBZjBd5HT1bBJq6BA2E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1035686-190cfb98c74a43d38904085392c61c69.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Surf and Turf for Two"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "37"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "444 kcal"
+,"carbohydrateContent": "3 g"
+,"cholesterolContent": "166 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "27 g"
+,"saturatedFatContent": "12 g"
+,"sodiumContent": "926 mg"
+,"sugarContent": "1 g"
+,"fatContent": "35 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 tablespoon olive oil",
+"1 tablespoon butter, melted",
+"1 tablespoon finely minced onion",
+"1 tablespoon white wine",
+"1 teaspoon Worcestershire sauce",
+"1 teaspoon lemon juice",
+"1 teaspoon dried parsley",
+"1 teaspoon seafood seasoning (such as Old Bay®)",
+"1 clove garlic, minced",
+"0.125 teaspoon freshly ground black pepper",
+"12 medium shrimp, peeled and deveined",
+"2 (4 ounce) filet mignon steaks",
+"2 teaspoons olive oil",
+"1 teaspoon steak seasoning" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Whisk 1 tablespoon olive oil, butter, onion, wine, Worcestershire sauce, lemon juice, parsley, seafood seasoning, garlic, and pepper together in a bowl; add shrimp. Toss to coat evenly. Cover the bowl with plastic wrap and refrigerate for flavors to blend, at least 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat an outdoor grill for medium-high heat and lightly oil the grate."
+} ,{
+"@type": "HowToStep"
+,"text": "Coat steaks with 2 teaspoons olive oil; sprinkle with steak seasoning."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook steaks on the preheated grill until they are beginning to firm and are hot and slightly pink in the center for medium doneness, 5 to 7 minutes per side. An instant-read thermometer inserted into the center should read 140 degrees F (60 degrees C). Transfer steaks to a platter and loosely tent with a piece of aluminum foil."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove shrimp from marinade and grill until they are bright pink on the outside and the meat is opaque, 2 to 3 minutes per side."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT45M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brandi"
+},
+"reviewBody": "So when I saved this recipe, I fully intended to make the “surf” and “turf”. However, I don’t eat a lot of red meat and got tired of waiting to make this so I just made the “surf” part. I substituted 1T of onion powder in place of the minced onion just out of preference. I grilled the shrimp skewers on my Foreman grill and they were awesome! Will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kelly"
+},
+"reviewBody": "Best shrimp marinade I have had. They were amazing grilled. Made a truly restaurant worthy meal!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Margie Robinson"
+},
+"reviewBody": "My husband made this for me for my birthday. Absolutely delicious! He cooked everything indoors using a grill plate and cast iron skillet."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mariana Lizarraga"
+},
+"reviewBody": "I made it almost exactly like the instructions. I didn't have filet mignon, so I used regular steak. Also, I cooked the marinade afterwards with a little bit of water to have a sauce on top of it. Thanks for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa"
+},
+"reviewBody": "This is a great recipe! As with the other reviews, the shrimp marinade was Soo delicious, although I may have marinated the shrimp too long (6+hours). My marinade got thick and solidified on my shrimp. (too much butter?) I used my homemade old Bay seasoning and since I didn't have parsley, I used fresh cilantro. I also added a squeeze of lime. I can't wait to try this again. The filet speaks for itself... extra thick, steak rub, medium done. Perfect! Here in Indiana it's mushroom season. So I added fried morel mushrooms to this dinner. Nothing better... oh, except the strawberry shortcake I made for dessert."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "VHesawthebestnmeWilliams"
+},
+"reviewBody": "Delicious. Will definitely make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Erin Patty Cake"
+},
+"reviewBody": "Best shrimp I’ve ever had! I sautéed it in my skillet with olive oil and broccoli."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tcasa"
+},
+"reviewBody": "I followed this exactly as written and we LOVED it! Do not let the ingredient list scare you this recipe came together quickly and cooks with in minutes. The steaks came out perfect! I used a maple bacon steak seasoning for the steaks and followed the marinade for the shrimp. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Justin Bradshaw"
+},
+"reviewBody": "Really enjoyed making....and eating! Excellent recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Robin Gilmer Reynolds"
+},
+"reviewBody": "Loved the marinade for the shrimp. My new go-to for shrimp! Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Courtney Hamilton Flores"
+},
+"reviewBody": "I made this last night for my boyfriend's birthday. I was using a recipe for a 2\" porterhouse steak from another source, as porterhouses were on sale this week. Let me just say... I LOVED the shrimp so much! So much, that I enjoyed them MORE than the steak (unheard of, as I'm a steak lover)!!! Just, wow. This will be my go-to marinade for shrimp from now on. In fact, I want to try to make a scampi with linguine and fresh parmesan. The possibilities are endless. Make this and impress your friends. Thank you for this fantastic recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kendra Burgess"
+},
+"reviewBody": "I've actually surprised myself. This turned out pretty good. The marinade for the shrimp was a little spicy. But there were no complaints. My family enjoyed the meal. It was pretty simple and easy to follow; however, I made a few adjustments on my end. I allowed my steak to marinate for 6hrs before serving. Everything came out delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sue Novick Feuille"
+},
+"reviewBody": "Well, boys and girls, I made this for dinner tonight. I tripled the marinade for the shrimp since I used 15 U13-15 size shrimp and marinated them for 3 hours. They were beyond delicious. I can't wait to do the shrimp again for a Caesar salad. Yum, yum, yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Derek Neighbors"
+},
+"reviewBody": "Just right amount of flavor without being over powering."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Erin C"
+},
+"reviewBody": "Great recipe! The steak I used was already marinated but the marinade for the shrimp was the best I've ever used. Will be using this recipe again soon!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Melody Agre"
+},
+"reviewBody": "I changed the recipe up a bit since I hate shrimp. I substituted in scallops and it was delicious. I didn't have Worcestershire sauce so I used horseradish with fish vinegar instead. Still turned out wonderful. I think I need to perfect my timing on the scallops, I think they should soak in the sauce longer than the shrimp was supposed to."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tee"
+},
+"reviewBody": "I only made the marinade for the shrimp and it was amazing. So flavorful and I liked that there was no salt. I wonder how the marinade will taste on chicken"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sophia"
+},
+"reviewBody": "WOW!! I was amazed by the marinade on the shrimp and the steak was simply fabulous. Whenever I want a fancy dinner, I will definitely make this!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Aileen Morrisey"
+},
+"reviewBody": "Made this last evening and it was great! The steak recipe is pretty basic, but really with a good steak that's all you need. The shrimp seasoning was delicious, we plan to make it again soon - we did not make enough for left overs. In the future we will be doubling the shrimp so we can have leftovers! We had cesaer salad (the shrimp went especially well with that) and baked potatoes as our sides and it was a great evening. Thanks for sharing the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "gderr the dysfunctional"
+},
+"reviewBody": "I used this last night on some shrimp and T-bones on the grill. excellent stuff. I wish I had more time to marinade it. give this one a try, it will make your belly smile."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Thecelt717"
+},
+"reviewBody": "Found this recipe to be delicious, doubled it for four, worked out well, and served with baked potato and salad. \n Great!\n Ed"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Found this recipe to be delicious, doubled it for four, worked out well, and served with baked potato and salad. \n Great!\n Ed"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jim Flowers"
+},
+"reviewBody": "The best shrimp I have ever made even though I ditched the Old Bay. The meat was perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hunca Munca"
+},
+"reviewBody": "Will make this again, will definitely make enough time to marinate the shrimp even longer next time. We loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle Morse-Wendt"
+},
+"reviewBody": "better with marinated grilled shrimp or coconut shrimp. use filets or sirloins. Did ten filets for the 10 of us. Good amount. Brushed with olive oil and seasoned with Quebec beef seasoning and sea salt. Cooked 7 minutes per side and then left on while cooking shrimp."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lutzflcat"
+},
+"reviewBody": "I made the Surf, but not the Turf. I needed some grilled shrimp for another recipe, used the marinade for this one, and it turned out fantastic. Definitely will be using this in the future for grilling shrimp, it was delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I followed the recipe exactly as written except for the steaks. I used NY strips in place of the filet mignons. The shrimp marinade was absolutely perfect. The shrimp was the star of this 5 star meal. Thank you Staci."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Spunky Buddy"
+},
+"reviewBody": "I thought this was pretty darned good and was particularly impressed with the marinade for the shrimp. I found the steak a little bland, however, and it wasn't until my wife pointed out that I was to have seasoned it with steak seasoning that I realized I had not done that, so don't forget the steak seasoning! I made this on the Cuisinart Griddler en brochette, the steak and shrimp each on separate skewers because of different cooking times. We served them with \"Bahamian Style Peas and Rice,\" the recipe also from this site."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Magnolia Blossom"
+},
+"reviewBody": "Absolutely a 5-star in this house. The shrimp marinade was very flavorful. Simple steak seasoning on the filets. I added a bit of hickory seasoning to the steaks. Served with grilled garlic bread. Yum!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/233259/surf-and-turf-for-two/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/475/meat-and-poultry/beef/steaks/",
+"name": "Steaks"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1024/meat-and-poultry/beef/steaks/filet-mignon/",
+"name": "Filet Mignon Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/233259/surf-and-turf-for-two/",
+"name": "Surf and Turf for Two"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

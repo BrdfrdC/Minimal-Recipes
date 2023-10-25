@@ -1,0 +1,767 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Better Baked Beans"
+,"datePublished": "2020-03-05T00:05:18.000-05:00"
+,"dateModified": "2022-11-22T15:01:43.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Diane Carman-Young"
+,"url": "https://www.allrecipes.com/cook/2514799"
+}
+]
+,"description": "Use canned baked beans to make this easy, tangy, sweet, semi-homemade favorite old-fashioned beans recipe to serve as a side dish to any meal."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Dylq8eM0f7N1Soql2E__VuF8JxI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/150637_BetterBakedBeans_MFS_0079-1-2000-4a689159b2d7453aad7bf9ddfa029b5c.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Better Baked Beans"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "59"
+}
+,"cookTime": "PT35M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "192 kcal"
+,"carbohydrateContent": "35 g"
+,"cholesterolContent": "6 mg"
+,"fiberContent": "6 g"
+,"proteinContent": "7 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "558 mg"
+,"sugarContent": "16 g"
+,"fatContent": "5 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"2 (28 ounce) cans baked beans",
+"1 small onion, chopped",
+"3 tablespoons pancake syrup",
+"2 tablespoons brown sugar",
+"2 tablespoons ketchup",
+"2 teaspoons prepared yellow mustard",
+"4 slices bacon" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir together baked beans, onion, syrup, brown sugar, ketchup, and mustard in a large bowl. Pour into a 9x13-inch baking dish. Lay bacon slices across the top."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until the bacon is browned and the beans have thickened, 35 to 40 minutes."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT45M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I placed the bacon on the bottom so the flavor seeps all thru the recipe....."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Helen"
+},
+"reviewBody": "This is my second time to make it… it went down so well at the barbecue, now I’m taking a camping"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chelsey Laughtin"
+},
+"reviewBody": "I added bacon crumbles to the beans and substituted Dijon mustard for yellow mustard because I was out of the yellow mustard. Everyone loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "great recipe! instead of placing the bacon on top of the beans I cooked the bacon then cut it into pieces and mixed with the rest of the ingredients. I sauteed the onions prior to mixing the ingredients. Everyone loved the baked beans and there were no leftovers."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Wendy C"
+},
+"reviewBody": "Instead of cooking this recipe in the oven, I made it in a slow cooker for four hours without the bacon on top. The sauce was caramelized and delicious. The beans complemented a BBQ meal perfectly and many compliments were given. A keeper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "biggkitty57"
+},
+"reviewBody": "I usually drain at least some of the tomato sauce from the beans, then add a drained can of another bean like kidney or garbanzo...also some chopped jalapeño or poblano adds kick and color...."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Cheryl Horton"
+},
+"reviewBody": "A little too runny. Probably need to drain off some of the bean juice"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lise Rod"
+},
+"reviewBody": "This was a good base recipe for glorified canned baked beans. I left out the pancake syrup but added molasses, liquid smoke, and Worcestershire sauce. I mixed in some prepackaged real bacon bits in lieu of the raw bacon slices. Delicious! Hubby loved it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sal Zuelsdorff"
+},
+"reviewBody": "I broke up the bacon in pieces and mixed in with the beans. Used molasses in place of pancake syrup"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ozzy13"
+},
+"reviewBody": "I've eaten these beans since I was a child (I'm 62) but I use Campbell beans, brown sugar and some Worcestershire sauce and partially cooked bacon. Great with hot dogs added before baking."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bonilla"
+},
+"reviewBody": "I love these bake beans they came out delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ebonie J. Parker"
+},
+"reviewBody": "My husband and I loved these. I will be making these from now on. Next time I’ll add some ground beef."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "NavAir EA-6B"
+},
+"reviewBody": "Good recipe to work from.\nFollowed the recipe, sorta, except for the slight additions.\nUsed bourbon barrel maple syrup (from a real tree, verse corn) from Costco, and 1 Tbsp of 100 proof Evan Williams bourbon to enhance the flavors already in this one.\nNo bacon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Trinae"
+},
+"reviewBody": "I made these baked beans to go with fried whiting and sweet cornbread. ( yes I’m a southern girl!) I put a little of my own flair to it. The above recipe gave me ideas. So thank you! Used hickory bbq sauce with the ketchup, used Dijon mustard, a little cinnamon and I sautéed the onions in the grease with the bacon after I cooked it and mixed it all in with the bake beans. I also added buttered white rice. Turned out really delicious. Next time I’m mixing it with some ground beef and adding green peppers. Thanks. Really good!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Andrea Akins"
+},
+"reviewBody": "I added mixed green peppers (green, yellow, orange, and red) that were slightly sautéed in extra virgin Olive Oil. I think I added to taste, ginger and Turmeric! The recipe was actually tripled to accommodate a large number persons. It was great and flavorful!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Vicki A"
+},
+"reviewBody": "I browned the bacon and then sauteed onions in bacon grease. I also added a few squirts of liquid smoke. I used REAL maple syrup"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lia Seeber"
+},
+"reviewBody": "I needed to make vegetarian baked beans so I used Bush's vegetarian baked beans and followed this recipe, omitting the bacon and adding a dash of liquid smoke, smoked paprika, and a clove of garlic. I also drained the sauce from the cans so it wouldn't be too soupy. They came out great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jill Dibbly"
+},
+"reviewBody": "Made it as is, no changes. I did drain a bit of sauce out of my beans as I thought they were a bit runny, but that was just the brand I used. Served it as a side dish to four teenage boys in the house. They wolfed it down and asked for more!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ronna"
+},
+"reviewBody": "Really good and easy! The extra add ins give the beans oomph and homemade flavour."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Candy"
+},
+"reviewBody": "Very tasty!! Will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Krysta Michelle Skaar"
+},
+"reviewBody": "I used this as a basis, used a heirloom tomatoe from my garden, red onion, hot sauce, and peppers again for my garden added garlic and pepper.\n\nI think o ended up using twice the syrup and ketchup since I didn't have brown sugar and I added three strips of bacon to the beans and three on top"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "violingirl"
+},
+"reviewBody": "While I liked the flavor of this I think it maybe needed more time or a higher temperature. At 350 degrees and 40 minutes the bacon was still very undone. The beans were cooked but still a bit firm. Next time I’ll cook it longer and maybe add some garlic."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Ryan"
+},
+"reviewBody": "Yeah these were good. Not sure how much better they were with the extra ingredients, but yeah, they were tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "wrmaertz"
+},
+"reviewBody": "I didn't add bacon and just cooked it in a sauce pan until thickened. It was very good! I will definitely make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ann Dumont"
+},
+"reviewBody": "I will make this again! If you don't have time to make from scratch this is the way to go. Lots of flavor..very good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mmp"
+},
+"reviewBody": "I made no changes to the ingredients but took a reviewer's suggestion and cooked the beans in the crockpot. They were absolutely delicious! Everyone loved them."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "James F Kelly"
+},
+"reviewBody": "I followed the recipe completely with one exception. Instead of pancake syrup I used molasses instead. It takes it to another level and taste."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "saunya"
+},
+"reviewBody": "This recipe is the best. The pancake syrup is the magic ingredient. Everybody loved them."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "David Mann"
+},
+"reviewBody": "Easily the best baked beans I have ever made. I doubled recipe added 1 and a half beef Kelibasa, a shot of Jim Beam Bourbon, 1 diced green pepper, and turkey bacon for the top. Absolute perfection! :-)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "NeonCat"
+},
+"reviewBody": "This recipe is probably wonderful as written, but I don't eat pork, so I did alter it a bit. I used vegetarian beans and omitted the bacon. Also used pure maple syrup instead of pancake syrup because that's what I had on hand. Tossed in a few chopped, fresh serrano peppers as we like things a bit spicy. The beans were a hit even with the carnivores! Nothing leftover. Will definitely make agin."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "IHAVE2BOYS"
+},
+"reviewBody": "Great recipe. I added a little chopped bell pepper and cut the bacon into smaller pieces before putting on top. Cooked about 5 minutes longer."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jbooshey"
+},
+"reviewBody": "The flavor is right, but you can't expect bacon to brown that way...I broiled it at the end to try and get it cooked through more."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "spice of life"
+},
+"reviewBody": "Great and made easier by using real bacon bits and instant minced onions."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anna"
+},
+"reviewBody": "I've been making this same recipe for years. I believe it is in the original Angels and Friends Recipe book. When I bring it to my family's Fourth of July picnic I have to triple the recipe. Everyone loves it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Annaben4"
+},
+"reviewBody": "Excellent! Easy to make and has an excellent taste."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Excellent! Easy to make and has an excellent taste."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "lisa"
+},
+"reviewBody": "These were good beans. Maybe a bit ketchup-y but a lot of people like that."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "carleighsmama"
+},
+"reviewBody": "Very delicious and quick!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ROLLERSGIRLY"
+},
+"reviewBody": "These were quite tasty. I made these for a party and everyone liked them. I threw all the ingredients in my crock pot and cooked it for 2 hours on high."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "laurita"
+},
+"reviewBody": "These were great! I used molasses instead of the pancake syrup because that is the way my mom used to make them. Thanks for the good recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jillian"
+},
+"reviewBody": "Very simple and easy to prepare! I used Bush's Baked Beans as my base and swapped out the pancake syrup for some molasses. This is a great \"semi-homemade\" recipe and a great way to perk up a regular 'ol can of baked beans in essence making them \"Better Baked Beans\"!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "naples34102"
+},
+"reviewBody": "Aside from the brand of baked beans I used being much too liquidy, these were pretty good! Nice flavor. I've made similar recipes and enjoyed them, but this is the first I've seen using pancake syrup - and I liked it. Next time I make this I'd be curious to swap it out for real maple syrup. I prepared this a little differently and was very happy with the results - I diced the bacon and sauteed it, then added the onions and cooked them until tender - didn't want to risk ending up with raw onion."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Molly"
+},
+"reviewBody": "Very good baked bean recipe. This is similar to how I make them, but with the addition of the pancake syrup. We really liked the flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anett"
+},
+"reviewBody": "I took these beans to a BBQ and everyone loved them, they were gone in minutes. Next time i will make a double batch. :) Thanks for thegreat recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "suzy Q"
+},
+"reviewBody": "Quick, easy, and delicous!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "KRISSIEBEE"
+},
+"reviewBody": "Very easy, using stuff you already have around, quick and pretty good--but mine seemed to be missing something..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Janet H"
+},
+"reviewBody": "These were really good and easy to make. Will be making these again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Karen McCleane Mullin"
+},
+"reviewBody": "This was a really easy recipe, my husband enjoyed it. I also used real bacon bits because I was in a rush, will use this recipe every time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "LINDA MCLEAN"
+},
+"reviewBody": "Needed a quick and easy baked bean recipe to take to a campground with our friends. Just the right amount of everything and really delicious! Thanks Apple!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/150637/better-baked-beans/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/220/side-dish/beans-and-peas/",
+"name": "Beans and Peas"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1673/side-dish/beans-and-peas/baked-beans/",
+"name": "Baked Bean Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/150637/better-baked-beans/",
+"name": "Better Baked Beans"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

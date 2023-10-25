@@ -1,0 +1,236 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Swedish Hard Tack"
+,"datePublished": "2020-06-18T23:09:13.000-04:00"
+,"dateModified": "2022-09-13T17:10:28.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "twistedsister"
+,"url": "https://www.allrecipes.com/cook/603558"
+}
+]
+,"description": "These slightly sweet, biscuit-like crackers are easy to make and are great with butter, cheese, or jam."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/PJdzuWxioY8rLajYqjaI7GFAeIY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5865189-415019e21a164c6892a155e4e5e827ef.jpg",
+"height": 844,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Swedish Hard Tack"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "3.5",
+"ratingCount": "8"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "196 kcal"
+,"carbohydrateContent": "27 g"
+,"cholesterolContent": "21 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "4 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "129 mg"
+,"sugarContent": "5 g"
+,"fatContent": "8 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"2.75 cups all-purpose flour",
+"0.25 cup white sugar",
+"0.5 teaspoon baking soda",
+"0.5 teaspoon salt",
+"0.5 cup butter",
+"1 cup buttermilk, or more as needed" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 375 degrees F (190 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Sift together flour, sugar, baking soda, and salt into a large bowl. Rub in butter until mixture appears sandy. Stir in buttermilk, a little at a time, until dough holds together."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer dough to a lightly floured surface and roll out to a 1/8-inch thickness. Cut into 4-inch squares; cut each square diagonally into triangles, then prick with a fork. Place on ungreased cookie sheets."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until dry and lightly browned, about 10 minutes."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT60M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Elizabeth"
+},
+"reviewBody": "i liked it... i made this as a final project for school, if i could change it to my liking i would make it softer but i know that that is not how it is supposed to be. overall this was a great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Not Available"
+},
+"reviewBody": "Rolled thinly and baked properly this tastes exactly like Rich Tea biscuits!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Budd Cobb"
+},
+"reviewBody": "It's ok, if you don't keep the dough thin, expect to cook it for 20 minutes. Not hardtack, since using multiple fats probably taste better to slather in bacon grease."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Elias Nelson"
+},
+"reviewBody": "Not true hardtack, but WHO CARES!?!? Best recipe I have ever made. It has become a tradition in my family that I will make it for Christmas. The last time I did this, I added a quarter teaspoon of mint just before I rolled it out. Also, I like using other shapes besides triangles. Great recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Mark Smith"
+},
+"reviewBody": "Very good, in and of itself, but the name is misleading. Real hard tack does not have milk, oils, or sugar. These ingredients reduce the shelf time considerably. The nature of hard tack is its very long shelf time, it is a survival food and emergency ration."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "PEEKO03"
+},
+"reviewBody": "it's more like pie crust. If you sprinkle cinnamon and sugar \n it...it's not bad but sweet"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "dcnctx"
+},
+"reviewBody": "Ummm ummm, right out of the oven with hot coffee and cream honey, delicious. Any mountain man, or Civil War buff can appreciate the light sweetness and crumbly texture of this recipe. I substituted 1 cup of whole wheat flour with the all-purpose flour and found it more than acceptable. Might not have the shelf life of old-fashioned military hardtack but there won't be enough left for you to carry around after you spead on some honey or deviled ham."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "jcam"
+},
+"reviewBody": "With a few minor tweaks, this recipe is just as good as the stuff grandma used to make : ) There was no measurement for salt so I used discretion and put in 1/4 of a teasoon. I also used margarine instead of butter and and I swapped out the buttermilk for 3/4 cup of skim milk mixed with 1/4 cup of fat-free sour cream. Splenda instead of sugar and whole-wheat flour completed my transformation of this recipe. Grandma also made it a bit softer so I brushed it with melted margarine before baking it and shortened the baking time to 6 minutes."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/51724/swedish-hard-tack/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17146/appetizers-and-snacks/snacks/",
+"name": "Snacks"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16212/appetizers-and-snacks/snacks/crackers/",
+"name": "Cracker Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/51724/swedish-hard-tack/",
+"name": "Swedish Hard Tack"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,324 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Slow Cooker Oxtail Stew"
+,"datePublished": "2019-03-01T03:41:48.000-05:00"
+,"dateModified": "2022-07-07T10:22:13.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Soup Loving Nicole"
+,"url": "https://www.allrecipes.com/cook/souplovingnicole"
+}
+]
+,"description": "A slow cooker oxtail recipe to pull out for any occasion. The meat is cooked to perfection with carrots, celery, and potatoes in a rich, hearty stew."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/SRmj8z2ecoz4sSh6_TOqX2BDjY0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6408158-17cede3172df4f80bbe3584bbb23494d.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Slow Cooker Oxtail Stew"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "16"
+}
+,"cookTime": "PT490M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "241 kcal"
+,"carbohydrateContent": "18 g"
+,"cholesterolContent": "62 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "21 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "428 mg"
+,"sugarContent": "5 g"
+,"fatContent": "9 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1 tablespoon vegetable oil",
+"3 pounds beef oxtail, cut into pieces",
+"1.5 pounds russet potatoes, peeled and cut into chunks",
+"4 carrots, peeled and cut into large chunks",
+"3 stalks celery, cut into large chunks",
+"1 onion, chopped",
+"1 (15 ounce) can tomato sauce",
+"1 cup beef broth",
+"0.5 cup dry red wine",
+"2 tablespoons chopped fresh parsley",
+"1 tablespoon Worcestershire sauce",
+"1 teaspoon dried thyme",
+"0.5 teaspoon smoked paprika",
+"1 (8 ounce) package sliced mushrooms",
+"1 cup frozen peas",
+"1 pinch salt and freshly ground black pepper to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat oil in a large skillet over medium-high heat. Sear oxtail for 4 minutes. Flip and continue cooking until browned on all sides, about 4 minutes. Transfer oxtail to a slow cooker."
+} ,{
+"@type": "HowToStep"
+,"text": "Add potatoes, carrots, celery, onion, tomato sauce, beef broth, red wine, parsley, Worcestershire sauce, thyme, and paprika."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook on Low for 7 hours. Add mushrooms and peas. Cook for 1 additional hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Ladle into bowls and season with salt and pepper."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT510M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Started out late so cooked it 5 hours on high. But switched to low- and left it by accident. Beautiful!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chris"
+},
+"reviewBody": "This was awesome! I modified it for a low FODMAP diet. Excellent!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Roslyn Addison - Rudat"
+},
+"reviewBody": "Good instructions overall, but the taste just isn't it. There needs to be some sort of hot sauce or seasoning other than salt and pepper added before turning on the slow cooker. Something like scotch bonnet or habenaro."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amy Shimala Bucher"
+},
+"reviewBody": "I used 3.5 cups of beef broth to make this more of a stew. LOVED it! So Delicious and hearty. I also added just a tad bit of noodles since I made it more soupy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lydia Da Silva"
+},
+"reviewBody": "Lovely and easy recipe! Added some cayenne and four gloves of garlic for extra flavour."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brian Davis"
+},
+"reviewBody": "Used everything aside from tomatoes came out great"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ja-De"
+},
+"reviewBody": "So easy and delicious. I tweaked the recipe a little by adding crushed Garlic, two Bay Leaves, three cap fulls of white vinegar, lemon peeper, garlic salt, and it was fantastic. I also used 1lb of oxtails and 2lbs or short ribs = AMAZING!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sandy Brantly"
+},
+"reviewBody": "No changes, liked it very much, even cooking longer than time allowed beef was still a bit tough. I purchased beef ribs because price wise the same, but more meat on ribs. So, I guess I did make a change :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "AnnieK"
+},
+"reviewBody": "Lovely recipe, with a nice kick. I've made it twice so far. I added a little sugar to the sauce (just for my personal taste). Great with rice (or stir in some cooked noodles at the end)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Cheryl Folston"
+},
+"reviewBody": "I didnt use the crockpot. I cooked it on the stove on med low for about two and a half hours. I have cooked oxtails many times but wanted to try some new seasonings. This was ok, but a bit bland for my taste. I actually prefer mine cooked without the wine (though I love cooking with wine), and seasoned with curry powder."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Faye Marshall"
+},
+"reviewBody": "I give it a 5, every time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Vinnyla"
+},
+"reviewBody": "It was great and yes I substituted the potatoes with purple potatoes ."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "It was great and yes I substituted the potatoes with purple potatoes ."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Judith Bonnett"
+},
+"reviewBody": "Just wonderful will make it again for sure"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/270818/slow-cooker-oxtail-stew/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/183/soups-stews-and-chili/stews/",
+"name": "Stews"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/14730/soups-stews-and-chili/stews/beef/",
+"name": "Beef"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/270818/slow-cooker-oxtail-stew/",
+"name": "Slow Cooker Oxtail Stew"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

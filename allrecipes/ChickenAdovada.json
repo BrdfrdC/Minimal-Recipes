@@ -1,0 +1,170 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Chicken Adovada"
+,"datePublished": "2023-02-02T16:39:14.000-05:00"
+,"dateModified": "2023-02-02T16:39:14.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Bibi"
+,"url": "https://www.allrecipes.com/cook/bibi"
+}
+]
+,"description": "Simmer chicken thighs, Mexican carne adovada-style, in a deeply-flavored chili sauce. Serve as tacos, with corn tortillas, crumbled cheese, cilantro, onion, and a squeeze of lime."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/_BZEN7zbaI0Gcb4E1cW2IpAPQ44=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1670015395Pollo20Adovado-dc2265a5322148e081be866e59a37c10.jpeg",
+"height": 960,
+"width": 1280
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Chicken Adovada"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "1"
+}
+,"cookTime": "PT60M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "395 kcal"
+,"carbohydrateContent": "36 g"
+,"cholesterolContent": "143 mg"
+,"fiberContent": "6 g"
+,"proteinContent": "39 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "251 mg"
+,"fatContent": "11 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT45M"
+,"recipeIngredient": [
+"4 dried pasilla chiles, stemmed and seeded",
+"4 dried ancho chilies, stemmed and seeded",
+"2 (14.5 ounce) cans low-sodium chicken broth",
+"0.5 cup frozen orange juice concentrate",
+"1 tablespoon distilled white vinegar",
+"3 dried pitted dates",
+"0.25 cup chipotle peppers in adobo sauce",
+"2 bay leaves",
+"1 tablespoon ground cumin",
+"2 teaspoons dried Mexican oregano",
+"3 pounds boneless, skinless chicken thighs, cut into large pieces",
+"1 tablespoon olive oil",
+"1 large onion, cut into 1/4-inch slices",
+"1.5 tablespoons minced garlic",
+"salt to taste",
+"8 (6 inch) corn tortillas",
+"0.25 cup sliced red onion",
+"0.25 cup chopped fresh cilantro",
+"0.25 cup crumbled cotija cheese",
+"8 lime wedges, for garnish" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Lightly toast peppers on the bare surface of a large Dutch oven over medium heat, stirring, until the peppers begin to have a toasted aroma, 2 to 5 minutes. Remove from heat immediately."
+} ,{
+"@type": "HowToStep"
+,"text": "Add chicken stock, orange juice concentrate, vinegar, dates, and chipotle peppers. Bring to a boil, then reduce the heat and simmer, uncovered, for about 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Using a stick blender, puree the pepper mixture until smooth."
+} ,{
+"@type": "HowToStep"
+,"text": "Add bay leaves, cumin, and oregano to pepper sauce; leave sauce on low simmer while preparing chicken."
+} ,{
+"@type": "HowToStep"
+,"text": "Pat chicken dry with paper towels. Heat olive oil in a large non-stick skillet over medium heat. Add in chicken pieces all at once; allow to cook undisturbed until browned, about 8 minutes. Add browned chicken to the pepper sauce."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook onion slices in the same skillet until beginning to brown slightly, 3 to 4 minutes. Stir in garlic and cook until fragrant, about 30 seconds more."
+} ,{
+"@type": "HowToStep"
+,"text": "Add skillet contents to the chicken and pepper sauce. Bring to a boil, then reduce heat to simmer. Cover partially with a tilted lid to allow some liquid to evaporate. Simmer, stirring occasionally, until chicken is fall-apart tender, about 1 hour. Season to taste with salt."
+} ,{
+"@type": "HowToStep"
+,"text": "To serve, spoon into corn tortillas, and serve with sliced red onions, cilantro, cheese, and lime wedges."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT105M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kim"
+},
+"reviewBody": "This is a new favorite. So delicious and authentic tasting. I did tweak it a little bit based on what we had at home. I used ancho and guajillo chiles. I used 4T tamarind paste and 4 drops of monkfruit extract instead of the vinegar, orange juice and dates. (It makes a similar flavor combo.) And I added more onions, and also mushrooms. Then we chopped up the chicken and used it in burritos with the sauce and veggies. It was amazing! Better than at most restaurants."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8516210/chicken-adovada/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17504/world-cuisine/latin-american/mexican/main-dishes/",
+"name": "Main Dishes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1527/world-cuisine/latin-american/mexican/main-dishes/chicken/",
+"name": "Chicken"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8516210/chicken-adovada/",
+"name": "Chicken Adovada"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

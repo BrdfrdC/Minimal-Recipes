@@ -1,0 +1,886 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Spicy Potatoes and Scrambled Eggs"
+,"datePublished": "2018-06-08T09:15:12.000-04:00"
+,"dateModified": "2022-11-18T14:01:06.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Anju"
+,"url": "https://www.allrecipes.com/cook/24321040"
+}
+]
+,"description": "Breakfast eggs and potatoes can be simple or spicy. This recipe uses cumin, coriander, turmeric, and chili powder to add a little kick to the home fries."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/UyEJm6CiQ7Ok6Hq7ZdWGtX7xVUE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4518439-f3c51eb9d7b6490eb2294ffa19841672.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Spicy Potatoes and Scrambled Eggs"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.4",
+"ratingCount": "70"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "209 kcal"
+,"carbohydrateContent": "8 g"
+,"cholesterolContent": "140 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "6 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "351 mg"
+,"sugarContent": "1 g"
+,"fatContent": "18 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"2 medium potatoes, scrubbed",
+"4 tablespoons vegetable oil, divided",
+"0.5 teaspoon ground cumin",
+"0.5 teaspoon ground coriander",
+"0.5 teaspoon turmeric powder",
+"0.5 teaspoon chili powder",
+"0.5 teaspoon salt",
+"3 large eggs, beaten",
+"salt and pepper to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Use a fork to pierce potato skins. Microwave potatoes on high until tender, 7 to 8 minutes. Let cool briefly, then peel and cut into small cubes."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat 2 tablespoons oil in a skillet over medium-high heat. Stir in cumin, coriander, turmeric, chili powder, and 1/2 teaspoon salt, then add potatoes. Cook, stirring occasionally, until crispy and golden brown, 5 to 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, heat 2 tablespoons oil in another skillet over medium-high heat. Pour eggs into the skillet; cook and stir until eggs are set, about 5 minutes. Season with salt and pepper and serve with potatoes."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT25M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "bob"
+},
+"reviewBody": "I cut the potatoes up and boiled them, then I put them in a skillet with some oil and brown them, then when they were ready I added the scrambled egg and cooked them with the potatoes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Donna Ross"
+},
+"reviewBody": "Absolutely delicious! I have added turkey bacon, turkey sausage and tomatoes sometimes when I have them on hand. \nI noticed the first time I made it , the servings were too small. I just double the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jesse Iford"
+},
+"reviewBody": "Well, I liked it a lot and it is really mild so I'm not sure where all the comments about it being spicy are coming from. Second time I made it I used a drop of scorpion pepper hot sauce, now that was a kick."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dick Peterson"
+},
+"reviewBody": "A great Sunday evening meal. I doubled the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kittrinalee"
+},
+"reviewBody": "Sooo good!! I do add hot sauce because I like it hotter. And sometimes we had ground pork. But any way we make it, it’s soooo yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Karen Edmonds"
+},
+"reviewBody": "Great recipe...Thoroughly enjoyed the dish with a “kick.”..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "UG Lee"
+},
+"reviewBody": "This recipe is delicious as is. Great breakfast meal. \nI added bacon to the mix and really enlivened things up with Cayenne.\nWill make a great breakfast burrito this winter. Plan to add sausage and Hatch Chilies for th a."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Steve Carpenter"
+},
+"reviewBody": "Would have given this recipe three stars except for one instruction: Do Not scramble the eggs before cooking the potatoes unless you like dry, leathery eggs. Cook the potatoes first and keep them warm while scrambling the eggs. I used about 10 oz of Simply Potatoes diced potatoes instead of roasting whole potatoes and dicing them. Otherwise followed the recipe as written, with a pinch of chili powder instead of ½ tsp. Flavor is interesting but I probably won't make them again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ckrckrckr"
+},
+"reviewBody": "Good flavor. I used 1/2 of the salt. Would be good with a little cheese and salsa in a breakfast burrito also."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dmj1961"
+},
+"reviewBody": "I always wanted to know how to make these potatoes now I know. They are delicious no changes needed, easy and simple to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "larvia57"
+},
+"reviewBody": "Very tasty and easy. While nuking the potatoes, I sauted chopped green pepper, onion and tomato. Then tossed in the potatoes to brown. I poured the beaten eggs right in the skillet and scrambled in with the veggies and potatoes. The spices were perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "AnnieB"
+},
+"reviewBody": "I really like the idea of this dish. I used blue potatoes since that is what I had. I had two strips of cooked bacon that still had a good amount of uncrisped fat, so I chopped them and mixed them with potatoes as they were frying. I also added a bit of onion with the eggs. I agree with those who said the recipe needs a bit more oomph. I think some added cayenne and a bit extra cumin would be good \nNext time, I want to try a spice mixture of chipotle and cumin and add cilantro to the eggs. Might even toss in a little cooked green chili"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Yancando"
+},
+"reviewBody": "Awesome! I used the canned potato shortcut. Love spicy and this was easy and will be a go-to breakfast!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Louisa Tabatabai"
+},
+"reviewBody": "Loved it! I left the skin on the potatoes! Very easy to make and delicious on a cool Sunday morning."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lynn"
+},
+"reviewBody": "Great recipe, easy to make. The spice mix was absolutely great. I will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ColoradoMountainMan"
+},
+"reviewBody": "I been doing this for long time now and ever since microwaves became available really helped. Sometimes will add chorizo or whatever sausage I might have. If you have some tortillas you can roll up a great breakfast burrito too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nancy Anderson"
+},
+"reviewBody": "This is a good basic recipe to build on. I added chopped onion, a chopped yellow bell pepper, garlic powder, and shredded cheddar. I always boil a 5 lb., bag of Russets at the first of the week and keep them in zip bags in the fridge for the rest of the week, so I used them in this mixture. Hubby requested that next time I leave out the cumin, he's not a fan, but other than that, he loved them. I know, I changed the recipe, but like I said it's a great recipe to build on."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "easma"
+},
+"reviewBody": "loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "r korlapati"
+},
+"reviewBody": "Amazing!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "I'm nuts too"
+},
+"reviewBody": "I love these. The first time I made them I made them per recipe and they were somewhat mushy. Second time, I subbed cayenne powder for the chili powder and added dry minced onion, also didn't microwave them and wow, nice and crisp! Great recipe thanks! ;)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Doris Harmonson"
+},
+"reviewBody": "I didn't make any changes, and yes I'd make it again, but will not use as much salt."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Prisyaly"
+},
+"reviewBody": "I often do this but with black pepper, pepper flakes and whatever other spice I have. The oil is way too much. I boiled my potatoes till is soft on the inside but a little hard outside. I make my scrambled eggs with a teaspoon of oil. Once is done I take it out then put another teaspoon of oil and in the oil I put my spices with half a teaspoon of salt, after a few minutes I put my boiled potatoes in and mix them all together. Once is cooked I leave it on the stove and then I put cheese on it sometimes. My husband loves this!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "abbysmom"
+},
+"reviewBody": "Very good--added onion-green pepper to the potatoes &amp; chipotle seasoning ."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "zed nelson"
+},
+"reviewBody": "it has way too many spices."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dmr2000"
+},
+"reviewBody": "very easy and tasty. So glad I came across this recipe. The seasoning was perfect - to our liking."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "sam"
+},
+"reviewBody": "I made this recipe as written. I thought it was pretty good but lacking something. I topped with some salsa and that did the trick. Thanks for sharing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Susie Rock"
+},
+"reviewBody": "I substituted a tablespoon of garam masala and used canned potatoes. It was absolutely delicious! Not too spicy either. Just right!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Yoly"
+},
+"reviewBody": "I don't think I cooked it according to the directions. After my potatoes were done, I cracked the eggs into the skillet and scrambled the eggs with the potatoes. I think something was missing, maybe onions? I added Valentina Hot Sauce (which was gifted to me just recently by a dear friend) and the addition of this hot sauce took the eggs to another level."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Great flavors and perfect for left over potatoes. Will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Xtrodinary"
+},
+"reviewBody": "Really good. Only change I made was added some chopped Red Onion and Diced Jalapeno (De-Seeded) to the eggs. Otherwise really good and simple recipe. Cooked 2 potatoes about 16 ounces in microwave for 10 minutes and came out perfectly cooked."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Abhilash"
+},
+"reviewBody": "Very simple to make and tasted great. Didn't make any changes to the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MuskokaJac"
+},
+"reviewBody": "Easy and DELISH! I chopped up red pepper, red onion and garlic and sautéed in coconut oil first, then added left over baked potatoes (cubed) and fried until crispy. KEEPER!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kim Ngo"
+},
+"reviewBody": "Wow what a simple yet delicious dish!! I just found the salt was a bit much, although I am used to having a reduced salt palate, so will reduce next time. I also chucked in some left over veggies I had including broccoli, red capsicum and celery which I finely chopped into the scrambled eggs which tasted great! Also instead of salt/pepper into the eggs I added fish sauce which also tasted great. Will definitely make this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allyson Collins"
+},
+"reviewBody": "Added one more egg and used three small red potatoes and also added some onion and deli honey ham. My hubby said he'd eat it again, which is the true test of whether a recipe is good or not."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda"
+},
+"reviewBody": "This is a very good recipe. Microwaving the 'taters beforehand is definitely a good idea; otherwise, it will take forever to get them done. Great as-is, but try adding stuff to it like peppers, onions, chorizo, bacon, crumbled sausage or whatever you might be craving to take it up a notch. Cheese is a good addition, too. I really like the spices in this recipe, so thanks for the great start."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jillian"
+},
+"reviewBody": "Definitely spicy! I did cut back on the oil a bit to crisp up my potatoes and added a little garlic powder to the mix. One thing I didn't do was cook my scrambled eggs in oil, but made them my usual way. Overall, very good with a side of whole grain toast and OJ."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "soupisgoodfood33"
+},
+"reviewBody": "the potatoes are awesome in this . i made bacon with dinner so instead of the veg oil i used 2 tbl of bacon grease ( about) and i added chopped onion to the potatoes when they were frying. i didnt have tumeric so i omitted it if i see it ill get some and add it next time i make this. i think it can be made all in one pan too since thats what i did. nice change up to breakfast for dinner. we had whole wheat toast and strawberry jam and big glasses of cold milk and everyones happy and full. thanks."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Cindy"
+},
+"reviewBody": "Uncle Joe's BBQ Sauce In-A-Bag Chipotle Blend has a nice kick as well. I made spicy potatoes using their pre-mixed powder blend. Sweet and spicy all rolled into one. Good with scrambled egg or by themselves."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "amandak23k"
+},
+"reviewBody": "I enjoyed this for breakfast. I didn't bother with microwaving the potatoes because they don't take that long to cook in the skillet. I still warmed peanut oil up then I added the spices, I used crushed red pepper flakes, cumin, paprika, chili powder, cayenne pepper, and seasoned salt. I \"fried\" the seasonings then added the diced potatoes. I crisped them up then covered and cooked until they were softened. I have a cold so I didn't think they were spicy at all, but my mom tasted them and couldn't finish them she said they were too spicy! Can't wait to make again when this cold goes away."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah Jo"
+},
+"reviewBody": "I used cubed leftover baked potatoes in this, so I wouldn't have to parboil the potatoes. This was plenty for my husband and I for breakfast, with WW toast on the side and a little salsa, sour cream and cheese. GREAT hangover breakfast. The potatoes had great flavor. I'd make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Rissell C"
+},
+"reviewBody": "This was a nice change of pace for breakfast. I'm not too big of a potato eater, so I'm thinking next time I'll only use one potato. I added some shredded pepper jack cheese while cooking the eggs for extra spice and topped the potatoes and eggs with a slice of american cheese. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Melissa"
+},
+"reviewBody": "Very simple but lacking something. Peppers, onions, garlic, cheese, ...something. Great idea to nuke the potatoes before frying."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "~TxCin~ILove2Ck"
+},
+"reviewBody": "Pretty decent. Not spicy, just warm. I will make these again except not microwave the potatoes as they could have used the flavor from cooking on the stovetop. All the flavor was on the outside of these since they were already cooked. I scrambled the eggs in with the cooked browned potatoes and served these with fresh flour tortillas and picante sauce. DH thinks these need sausage or chorizo too, (but that's a man for ya, gotta have the meat). Thanks Anju, I enjoyed this."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Martha Cochell"
+},
+"reviewBody": "Pretty tasty. I chopped up my raw potato first, then 'par boiled' it in the micro (put it in a bowl with a little water in the bottom, then partially covered and microwaved for about 5 minutes) and finished the dices in the pan with olive oil and the spices. I didn't peel my potato, but it's a very thin-skinned garden variety, so I don't think it mattered. I also added cheese to my eggs, because that's how I roll. Yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "GodivaGirl"
+},
+"reviewBody": "I used olive oil to saute minced onion, garlic and peppers. I did microwave the potatoes until tender, then peeled, diced and added to pan. I used the cheesy herbed egg recipe to give additional flavor to the eggs. I then placed mixture in pitas and served with fruit. Good, but will cut back on spices some for the kids thought it was too spicy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Really good and flavorful...this is a nice change from regular scrambled eggs. I pan-fried the potatoes, added tomatoes, and doubled the spices for delicious scrambled eggs!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "dmtroyer"
+},
+"reviewBody": "I'm going to disagree with BandE on this one, definitely best if you start with raw potatoes... but make sure to COVER the pan if you go this route to help cook faster. If you want it spicier add Red Pepper (Cayenne), chili powder isn't necessarily that spicy. You can probably reduce the amount of oil you use by adding a bit of water at the start to help cook the potatoes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ADAMBRAKE"
+},
+"reviewBody": "great recipie...can be cut in half for 1...also i left the skin on the potatoes...gives it a little more texture\n\nwill make this again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "GABESGIRL"
+},
+"reviewBody": "I made these for breakfast today and my husband was so impressed! I love the fact that the spices can be changed to fit your taste. I didnt have corriander or tumeric so I used the following istead: Garlic salt, Cumin, Cayenne pepper, black pepper and paprika. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Caroline C"
+},
+"reviewBody": "I just made the potato part of the recipe, and thought it was pretty good. I tinkered around with the spice proportions a little - less turmeric, more garlic - until it was how I liked it. Microwaving the potatoes really sped up the process. Thanks, Anju!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Stephanesia"
+},
+"reviewBody": "These were okay. I expected the potatoes to be spicier... my boyfriend really liked it though!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "foodinmybelly"
+},
+"reviewBody": "Made this for my husband and I the other morning and turned out great. He really loved the potatoes, and I thought that the eggs were great with the olive oil. We put lots of chili powder and seasoning salt on our potatoes. And we adorned our eggs with some homemade salsa. Was a great way to start our day. Thanks for the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Andrea Parker"
+},
+"reviewBody": "I didn't like this that much."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "VERY GOOD..TO CUT BACK ON TIME I USED CANNED POTATOES."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TAP"
+},
+"reviewBody": "Thanks for the recipe. I never would have thought of these spices with plain potatoes. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "YONDERBOY777"
+},
+"reviewBody": "bismillahirrahmanirrahim\r\n\r\nexcellent -- made this for a group of guys yesterday morning and everyone loved it, although i also made a lot of changes, adding muenster cheese, using butter instead of oil, adding milk to the eggs to make them fluffier, and using seasoned salt on the potatoes instead of the other spices (just chili powder in the eggs). i also thought i'd be a purist and fry the potatoes but it was taking SO long i had to take them out of the pan and microwave them -- but using the microwave makes this recipe so quick and so easy that i made it again for myself even though i was feeling extremely lazy; it's really that easy and good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BandE"
+},
+"reviewBody": "Really great recipe! You definitely should microwave the potatoes before sauteeing them. I tried it previously without prior nuking, but then it took an hour before they were cooked. I fried them with an onion and 2 cloves of garlic in addition to the spices. Also, I added paprika and cayenne pepper. When the potatoes were just about done, I scrambled the eggs (with black pepper; without salt or oil) and added them to the potato mixture. Tastes great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Deb Sanger"
+},
+"reviewBody": "believe it or not-even my 5 year old liked these potatoes! they didn't taste as spicy as i had thought but were very good. i also skipped the nuking of the potato and fried them up from the raw stage in the skillet. deee-licious! will definately make again! the eggs could use the addition of some of your favorite cheese! bon appetit!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/23913/spicy-potatoes-and-scrambled-eggs/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/78/breakfast-and-brunch/",
+"name": "Breakfast and Brunch"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/152/breakfast-and-brunch/potatoes/",
+"name": "Potatoes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/23913/spicy-potatoes-and-scrambled-eggs/",
+"name": "Spicy Potatoes and Scrambled Eggs"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

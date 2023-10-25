@@ -1,0 +1,541 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Soft Homemade Pretzels"
+,"datePublished": "2020-06-18T23:53:07.000-04:00"
+,"dateModified": "2022-09-20T23:52:32.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Pam English"
+,"url": "https://www.allrecipes.com/cook/9383069"
+}
+]
+,"description": "These soft, yeast-risen pretzels are fun to make."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/uwYUikUHeaPG2WIdgu6p33a3rgM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2424447-soft-homemade-pretzels-Steve-Duve-4x3-1-a08af4e42c3a4c208d9d13e501946041.jpg",
+"height": 720,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Soft Homemade Pretzels"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.3",
+"ratingCount": "40"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "158 kcal"
+,"carbohydrateContent": "30 g"
+,"cholesterolContent": "17 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "4 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "676 mg"
+,"sugarContent": "2 g"
+,"fatContent": "2 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"2 (.25 ounce) packages active dry yeast",
+"1 cup warm water (110 degrees F (43 degrees C))",
+"3.5 cups all-purpose flour",
+"2 tablespoons white sugar",
+"1 tablespoon shortening, melted",
+"1 teaspoon salt",
+"1 egg yolk",
+"1 tablespoon water",
+"coarse salt, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Stir yeast into 1 cup warm water in a large bowl; beat in flour, sugar, shortening, and salt to make a dough. Turn dough onto a floured surface and knead for 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Place dough into a greased bowl and let rise in a warm place until doubled, about 1 hour. Punch down dough and divide into 12 equal-size pieces. Roll each piece into a rope 18 to 20 inches long."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat oven to 375 degrees F (190 degrees C). Grease a baking sheet."
+} ,{
+"@type": "HowToStep"
+,"text": "Shape each rope of dough into a pretzel on the prepared baking sheet; let pretzels rest for 5 minutes. Beat egg yolk with 1 tablespoon water in a small bowl and brush yolk mixture over each pretzel; sprinkle each with coarse salt."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until pretzels are golden brown, about 15 minutes."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT100M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "These did not taste like pretzels at all. If anything, they were bland and resembled a biscuit-like texture. This is not to say that they wee terrible, but I wound up slicing them open (I shaped them like logs), and putting butter on them. I would not recommend this recipe for pretzel-making, however, I suspect that if you add ingredients as others have suggested (cinnamon, cheddar, etc.), they might be good for that."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Peach"
+},
+"reviewBody": "Awesome!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bennett Zeller"
+},
+"reviewBody": "These pretzels were AMAZING!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hatie Bender"
+},
+"reviewBody": "Great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LoveBug12"
+},
+"reviewBody": "This was a great recipe! Being a newbie to using bread dough, but wanting to get more into it, this was a perfect recipe to try. I made one batch, and they were so good I made them again on the same day :) The changes I made were letting the yeast, water and sugar sit for about five min before I started, and for the second batch, I mixed in some cheddar cheese to the dough. Would recommend eating these with mustard!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kelly Dawn"
+},
+"reviewBody": "It was raining outside and I wanted to make something new. Why not pretzels? I went through a bunch of recipes, but this one seemed easiest. And it was! I used brown sugar instead of regular sugar,only 3 cups of flour (as suggested) and I boiled them because others said to (I didn't boil one and it is just as good...so I won't next time). I did do the water, yeast and sugar first and let it sit for a few minutes, but that's really all I did differently. These were so easy and my husband likes them. This is definitely a keeper and one to do again and again!!! There is really no reason to change anything! Great recipe!!!!!\n*update: made them again...didn't boil. They smell and look great...smoother. Next time I will make 15 smaller ones. Never thought I would make bread....never say never!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jenin Ahmad"
+},
+"reviewBody": "I took the advice in other reviews and shortened the flour down to 3 cups and still found it a little too dry. It was difficult to roll out and I hurt my wrist so make sure to take a rest/stretch for the sake of your hands! Otherwise, this was easy to make and turned out delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Joe Codispoti"
+},
+"reviewBody": "This was good. We put the sugar, yeast, and water in together to allow the yeast to activate. The salt that is put on top of the pretzel is extremely important to the overall taste. While we like this recipe, we will try others before making it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Karissa Jones"
+},
+"reviewBody": "These pretzels were a huge hit! And probably cost less to make than it would cost to buy one elsewhere. We had a ton of fun, and I know we'll make these again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joe Savino"
+},
+"reviewBody": "came out well maybe a double batch next time and freeze some these didn't last long"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ashley Kennedy"
+},
+"reviewBody": "Great recipe! Super easy to follow, and the result is exactly what I was hoping for. I managed to make 16 pretzels with this recipe, once I got the consistency of the dough right it ended up being just a bit more than the called for measurements. Also, I baked mine for about 18 mins at 375°C to achieve a perfect golden brown."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jacob Swoboda"
+},
+"reviewBody": "Great Recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "afowler5"
+},
+"reviewBody": "Very easy recipe. I was a bit surprised when mixing the yeast in warm water that you are not required to let it foam for 10 minutes. These tasted wonderful. The only thing I changed after reading reviews was the amount of flour. I only added 3 cups. Dough came out perfect. Instead of shortening, I melted 1 tablespoon of butter. I WILL be making these again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lmbruv"
+},
+"reviewBody": "Awesome!! Made these for Super Bowl and they were a hit! Will definitely make these again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Najee K Lee"
+},
+"reviewBody": "This recipe is perfect just as it is, I've made it multiple times. Stick to the ingredients and you shouldn't have any problems, if you substitute ingredients then I can't really say. I use vegetable shortening. Main thing I'd like to point out is to make sure you MELT THE SHORTENING! I was moving pretty quick cooking other things etc. and I didn't melt the shortening, the dough was impossible and I thought I added too much flour. Also, I wouldn't use packed cups of flour, I just scooped out rough cups of flour with out packing them and everything comes out excellent. Great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Schlief Family"
+},
+"reviewBody": "tastes like bread it needs jam or cheese or something on it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "IDK"
+},
+"reviewBody": "I only used 3 cups of flour and turned out great. Instead of using water in the egg wash I used butter. Loved it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Anne M."
+},
+"reviewBody": "Great recipe except that it calls for too much flour. I will probably start out with 3 cups or 2 1/2 cups next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "gracegomez1254"
+},
+"reviewBody": "this was amazing a little time consuming but other then that it was great. I think my only problem way i didn't let them rise but that is on me other then that, amazing, fabulous!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lynna13"
+},
+"reviewBody": "These are amazing. I followed some others suggestions and didn't use quite as much flour as it called for. Ither than that, they are fantastic. All my brothers and sisters love them. I will definetly make them again. They go great in lunch boxes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bryan Doane"
+},
+"reviewBody": "Have made this recipe several times everyone loves them! I did make a couple of changes I added a cup of my sourdough start i made from the receipe on this site mines about 6 months old. I cut mine into bite size pieces. I also started using honey instead of the sugar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jerzi Davis"
+},
+"reviewBody": "Made these for my son. He LOVED them. I followed the recipe except I substituted margarine for the shortening and only baked for 13 mins. Purrrrfect!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "jesscarp1515"
+},
+"reviewBody": "They are beautiful when they come out of the oven but they do not have that yeasty taste of a soft pretzel. ...I was very disappointed. ...\nThey just tase like a yeast bread...not bad but not a pretzel. .."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "They are beautiful when they come out of the oven but they do not have that yeasty taste of a soft pretzel. ...I was very disappointed. ...\nThey just tase like a yeast bread...not bad but not a pretzel. .."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ariel's awesome"
+},
+"reviewBody": "Don't use eggs!!! They pooled around the bottem then started to burn making a horrible taste and smell. Other than that they were great! They had a hard crust which I didn't really like but it wasn't bad. Will try making a moister dough to avoid the crust and putting butter on instead of eggs. Yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Carmen Wardlaw Cashat"
+},
+"reviewBody": "Wayyy too much flour. They taste ok but they're not very attractive. Dough separates when trying to roll out."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "maliboo_barbie"
+},
+"reviewBody": "Well--THAT was EASY! I agree that there is a little too much flour--so I think that the next time, I'll start with three cups and add a touch more if needed. Other than that, the recipe was my first attempt with yeast and a bread-type dough. I wanted soft and golden pretzels, so the egg wash was my preferred method. I won't win awards for their looks, but these did disappear quickly. : )"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marge McCleary"
+},
+"reviewBody": "Loved these pretzels!! Much easier to make than I expected. \nOnly thing I changed was I didn't use shortening. Highly recommend"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Blueberry"
+},
+"reviewBody": "Yummy!! The kids loved to help me on these. They were fun to make, and tasted great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "BobMidd"
+},
+"reviewBody": "I have perfected this recipe already. My recipe changes are as follows. I do not use shortening at all. Another tip to better pretzels is heat a pot of boiling water. I use an upside down cookie sheet with paper and after the dough raises I put the Pretzels in a bath of boiling water and baking soda for about 10 to 30 seconds. Then I put them on the parchment paper and brush them with egg whites and salt them and bake at a higher temperature of 425 to really get a crunchy and chewy pretzel."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Deb C"
+},
+"reviewBody": "Two things: 1. For me, the amount of flour is excessive, so I would only add a little as I go otherwise I believe you will end up with a very stiff, unworkable dough. 2. The baking time was much more than listed on the recipe, so adjust the time according to your oven as every oven is different. But, having said that, how could you not enjoy homemade pretzels?"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/230976/soft-homemade-pretzels/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/339/bread/yeast-bread/",
+"name": "Yeast Bread Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16220/bread/yeast-bread/pretzels/",
+"name": "Pretzel Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/230976/soft-homemade-pretzels/",
+"name": "Soft Homemade Pretzels"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

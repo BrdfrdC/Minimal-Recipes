@@ -1,0 +1,153 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Watermelon Mojitos"
+,"datePublished": "2020-06-19T21:51:12.000-04:00"
+,"dateModified": "2020-06-19T21:51:12.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Sarah Lees"
+,"url": "https://www.allrecipes.com/cook/22285303"
+}
+]
+,"description": "Fresh watermelon, mint, and white rum star in this delicious and refreshing mojito recipe that makes a perfect drink for summertime parties and BBQs."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/CEftVt78gnRZe_kmYqV7hz5ilaM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6614690-52cdf94c0bd14b47ada8d7aaa4440713.jpg",
+"height": 1247,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Watermelon Mojitos"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "3"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "250 kcal"
+,"carbohydrateContent": "34 g"
+,"fiberContent": "2 g"
+,"proteinContent": "1 g"
+,"sodiumContent": "5 mg"
+,"sugarContent": "1 g"
+,"fatContent": "0 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"6 cups cubed seedless watermelon",
+"50 fresh mint leaves",
+"5 limes, juiced",
+"1 cup white rum",
+"0.66666668653488 cup simple syrup",
+"2 cups ice cubes, or as needed",
+"1 cup club soda, or as needed" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place cubed watermelon in a blender and blend until smooth. Pour into a bowl through a mesh strainer to remove pulp. Measure out 2 cups of strained watermelon juice and set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Place mint leaves in the bottom of a pitcher. Pour in 1/2 the watermelon juice; muddle mint leaves with a muddler or the bottom of a wooden spoon."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour remaining watermelon juice, lime juice, rum, and simple syrup into the pitcher. Fill with ice and top with club soda. Serve."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT10M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chef_Esquire"
+},
+"reviewBody": "It's like sucking on a lollipop while drinking rum at the same time! And I mean that in a positive way. Oh, and such a nice color."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "RainbowJewels"
+},
+"reviewBody": "I made this exactly as directed. It was very sweet and refreshing. I did find it a touch too boozy for my personal taste, so I ended up diluting it a little more with the club soda. You could also just cut back on the rum according to what you like. \nMy watermelon wasn't super ripe yet, so I definitely needed the full amount of simple syrup, but if you have a really ripe one add half of the syrup and do a taste test, you may not need it all."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/272987/watermelon-mojitos/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/133/drinks/cocktails/",
+"name": "Cocktail Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1741/drinks/cocktails/rum-drinks/",
+"name": "Rum Drinks Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/272987/watermelon-mojitos/",
+"name": "Watermelon Mojitos"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

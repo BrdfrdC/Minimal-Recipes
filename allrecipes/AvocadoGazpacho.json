@@ -1,0 +1,324 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Avocado Gazpacho"
+,"datePublished": "2020-03-09T22:51:49.000-04:00"
+,"dateModified": "2022-08-22T14:43:18.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "LUNATERIAN"
+}
+]
+,"description": "Chunks of fresh avocado are combined with a fresh tomato-based broth in this refreshing chilled soup."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/T7eUHLK0G5sGLCLAJ3RU1_h5T0A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5566627-5dcc4569ddc04bb9b34d97f6d8a80063.jpg",
+"height": 2000,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Avocado Gazpacho"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "19"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "287 kcal"
+,"carbohydrateContent": "21 g"
+,"fiberContent": "10 g"
+,"proteinContent": "5 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "392 mg"
+,"sugarContent": "7 g"
+,"fatContent": "23 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"2.5 cups tomato-vegetable juice cocktail (such as V8®)",
+"2.5 cups vegetable broth",
+"3 large tomatoes, diced",
+"3 large avocados - peeled, pitted, and cut into bite-sized pieces",
+"1 cup diced cucumber",
+"1 (8 ounce) can chopped tomatoes with juice",
+"0.5 cup chopped green bell pepper",
+"0.5 cup chopped red bell pepper",
+"0.25 cup extra-virgin olive oil",
+"3 green onions, thinly sliced",
+"1 lemon, juiced, or more to taste",
+"2 tablespoons minced fresh cilantro",
+"2 tablespoons white wine vinegar",
+"1 dash hot pepper sauce (such as Tabasco®), or to taste",
+"salt and ground black pepper to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Mix tomato-vegetable juice, vegetable broth, tomatoes, avocados, cucumber, canned tomatoes with juice, green bell pepper, red bell pepper, olive oil, green onions, lemon juice, cilantro, vinegar, hot pepper sauce, salt, and black pepper together in a large bowl. Cover and chill for at least 3 hours before serving to allow flavors to blend."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT210M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bsmith"
+},
+"reviewBody": "It’s so hot in Tucson, I had to pick all my tomatoes, ready or not. A few seconds in the food processor was perfect. I didn’t have V-8, so used the Clamato juice on hand. Great result, will do again just that way."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "asspadtycoon"
+},
+"reviewBody": "This was an outstanding recipe, especially delicious on a hot summer day. I did everything as prescribed in the recipe except substituted the can of tomatoes with Rotel green chili tomatoes. I think it was a good change!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sam"
+},
+"reviewBody": "It’s a #Flawless Soup !!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Aceatrump"
+},
+"reviewBody": "Very good. Will make it again. Thanks for the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tricia Schroeder"
+},
+"reviewBody": "The family really enjoyed this! It turned out great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Diane Stewart"
+},
+"reviewBody": "I thought this was great! I used red onion instead of green, and only used red pepper not green. And I used balsamic vinegar. Posted the picture on FB and it looked so delicious everyone wanted the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Martha Paris Smith"
+},
+"reviewBody": "So good! Added shrimp as another reviewer recommended and left out the can tomatoes, but added an extra fresh one. The avocado really made this satisfying. I'll be making it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jo Steinberg"
+},
+"reviewBody": "Very tasty. I ate twice what I normally would but the calories are so reasonable and the dish so healthy, who cares?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Annie"
+},
+"reviewBody": "My husband just loved this. It was perfect for a summer day when it's too hot to cook. I will definitely make it again!\n."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "sherif"
+},
+"reviewBody": "I enjoyed this soup. I was looking for a different type of soup to take to work now that it is getting warmer. This is not a recipe that my family would eat, so next time I will half it or give half to my mom, since she would really like this as well. This recipe was light and refreshing. I used fire roasted diced tomatoes and add a pinch of chipotle flakes. Next time I want to add a spring of thyme, basil and I can't wait to use fresh tomatoes. I think adding shrimp, as mentioned in another review would taste great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "amoore"
+},
+"reviewBody": "This was great for a summer dinner! I added some cooked shrimp and served it with whole grain rolls. It was yummy and was extra delicious the next day for lunch."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "magpie4"
+},
+"reviewBody": "I love this recipe! The olive oil certainly adds flavor and texture as well!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "justmyopinion"
+},
+"reviewBody": "I also really liked this. The V8 adds some extra flavor. I didn't use the canned tomatoes, as the tomatoes I used were fresh from my garden, so I just used more of them. The avocados were a great addition to gazpacho. I also used REALLY good quality olive oil; it added a wonderful richness to the flavor. Best if left to \"set\" overnight; the cucumbers soften up a bit more. But super easy, and oh so tasty. Would serve this as a beginning soup to a nice meal for company anytime."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sharesa Parker"
+},
+"reviewBody": "We added shrimp to is for protein but it was delish!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Baking Nana"
+},
+"reviewBody": "Hubby gave this 5 stars. I couldn't eat it because of the cucumbers but everyone seemed to enjoy it very much. Thanks!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/228609/avocado-gazpacho/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/184/soups-stews-and-chili/soup/vegetable-soup/",
+"name": "Vegetable Soup Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/14767/soups-stews-and-chili/soup/vegetable-soup/gazpacho/",
+"name": "Gazpacho Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/228609/avocado-gazpacho/",
+"name": "Avocado Gazpacho"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,443 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Quinoa Summer Salad with Feta"
+,"datePublished": "2019-07-10T03:05:35.000-04:00"
+,"dateModified": "2022-01-14T01:23:49.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Elizabeth"
+,"url": "https://www.allrecipes.com/cook/9687778"
+}
+]
+,"description": "Cold quinoa keeps this summer salad with tomato, cucumber, and feta cheese light and refreshing."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/rA3JncvWsBsJ47u0LCS28Z27pYU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1305546-ac8512474b3b453fb5d7a1c0fc0ce96c.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Quinoa Summer Salad with Feta"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.2",
+"ratingCount": "30"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "270 kcal"
+,"carbohydrateContent": "31 g"
+,"cholesterolContent": "25 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "10 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "912 mg"
+,"sugarContent": "2 g"
+,"fatContent": "12 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"2 cups water",
+"1 cup quinoa",
+"1 (4 ounce) package feta cheese, crumbled",
+"1 small cucumber, thinly sliced",
+"1 roma (plum) tomato, diced",
+"1 tablespoon lemon juice",
+"1 tablespoon cider vinegar",
+"1 tablespoon olive oil",
+"1 teaspoon dried dill weed",
+"1 teaspoon salt",
+"1 teaspoon ground black pepper" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Bring water and quinoa to a boil in a saucepan. Reduce heat to medium-low, cover, and simmer until quinoa is tender and water has been absorbed, 15 to 20 minutes. Refrigerate quinoa in a large bowl until cool, about 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir feta cheese, cucumber, tomato, lemon juice, vinegar, olive oil, dill weed, salt, and black pepper into quinoa."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT60M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ali&Nin"
+},
+"reviewBody": "I now LOVE quinoa because of this recipe. I suggest putting a small amount of dill and taste as you go. I love the dill but my husband wasn’t big into the amount of dill. Taste so so so good the following day as well!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "laura"
+},
+"reviewBody": "Made twice now. Second time used vegetable broth instead of water and doubled the liquid for the dressing. On my third attempt will use half red quinoa and half white."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "tkeboyer"
+},
+"reviewBody": "I didn't have feta, so I added extra tomato and cucumber. I used a fraction of the salt it called for and it tasted great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ai Li"
+},
+"reviewBody": "I tweaked the recipe too. I didn't have any pure vinegar so used half the amount of balsamic vinegar. I added garbanzo beans and didn't use much salt. It makes a great lunch if you're on the go."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kate Morse"
+},
+"reviewBody": "Delicious!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Jeremy and Heidi Brown"
+},
+"reviewBody": "I was very disappointed by this recipe. I followed it to the letter and it was incredibly salty! Inedibly so. If I was to ever make this again, I wouldn’t add any salt."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chattycat"
+},
+"reviewBody": "I love the dressing and made a few changes because I had left over quinoa and chick peas from another recipe and I wanted more veg., as I'm watching my weight. It made two large servings for dinner of 530 calories each.\n1 1/2 cups cooked quinoa\n1cup chick peas, drained and rinsed\n1.2 oz Julian carrot\n1/2 oz red onion, sliced thin\n5 oz cucumber, sliced thin\n2 oz Feta cheese\n4 oz Cherry tomato, halved\n\nDressing:\n1Tbs. Olive Oil\n1Tbs. Lemon Juice, fresh\n1/4 - 1/2 tsp. Salt\n1/2 tsp. Pepper\n1tsp. Dill weed, dried\n1Tbs. Cider Vinegar"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ami17"
+},
+"reviewBody": "I didn't have tomatoes so I added red peppers for the color and I didn't add the salt, I usually don't add salt to anything anyway. I will be making this again for sure, It is great for lunch and I am sure it is just as great as a side to anything :) Thank you for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathy Wanninger"
+},
+"reviewBody": "I loved it! I'm not fond of dill, so I substituted fresh oregano and it was delicious. It has quickly become a family favorite!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sierra Kehler"
+},
+"reviewBody": "This turned out excellently! I used more dressing, because I love lemon. I also added (give or take) a half teaspoon of chilli powder which went over very well! I doubled the recipe as I was feeding 9 people, and it was plenty with some sausages and buns."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Michele"
+},
+"reviewBody": "Love it. Great for lunch with some chicken. I do like my Quinoa more al-dente and more flavorful, so I prepare my quinoa with 1-1/4 cups of chicken broth."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Diane"
+},
+"reviewBody": "Generally good and easy to make but I think next time I would add a little more dressing. It was just a bit bland tasting."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ila C."
+},
+"reviewBody": "Super quick and a great side dish. I used grape tomatoes and quartered cucumber slices and it turned out just fine. This will be a summer staple!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michele C"
+},
+"reviewBody": "Great salad... I cut the cucumber into smaller chunks than the picture otherwise followed the recipe exactly and it was delicious !!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kristin Lally"
+},
+"reviewBody": "Make sure you rinse the quinoa very well before cooking it. I used a combination of red &amp; white quinoa and it was very tasty. I double the quantity so we have plenty for lunch, snacks, side dish, etc. This has become a staple in my house."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "twy"
+},
+"reviewBody": "just used a pinch of salt. Fast and portable :)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "jennifer"
+},
+"reviewBody": "salty"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chephren"
+},
+"reviewBody": "I've made this about 5 times this summer. We all love it! I use parsley instead of dill because that's what I usually have. It needs time in the fridge for the flavor to develop. Great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "cseitz04"
+},
+"reviewBody": "I found this to have a weird aftertaste. Not sure I'd make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Tina Joris"
+},
+"reviewBody": "Great recipe. I add roasted eggplant slices, cut in strips to the ingredients, parsley, thyme and basil to the herbs. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Renee Trivelli Milillo"
+},
+"reviewBody": "Made as is and it was pretty good. Will make again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Denise"
+},
+"reviewBody": "Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "cathy"
+},
+"reviewBody": "I really like the Feta in the recipe. The flavor needs a little tweaking, but it was still very good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "France C"
+},
+"reviewBody": "As written, this recipe is a solid 4 stars, and with tweaks it's a 5. I found 4oz of feta to be way too much, so I started out with about 1/2 of the package and that was a good amount for our liking. Also, 1 tsp of salt and 1 tsp of pepper is A LOT, especially given all the salt from the feta. I used 1/2 tsp of each and that was plenty. I happened to have fresh dill on hand, so I used that instead of dried. Very tasty! I also think this could benefit from an extra tomato, but still a great recipe overall. This is great to bring to a BBQ or to serve to guests. Thanks for the recipe Elizabeth!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/238156/quinoa-summer-salad-with-feta/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/212/salad/grains/",
+"name": "Grains"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16583/salad/grains/quinoa-salad/",
+"name": "Quinoa Salad Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/238156/quinoa-summer-salad-with-feta/",
+"name": "Quinoa Summer Salad with Feta"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

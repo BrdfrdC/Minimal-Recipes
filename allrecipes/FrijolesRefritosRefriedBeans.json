@@ -1,0 +1,241 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Frijoles Refritos (Refried Beans)"
+,"datePublished": "2019-04-04T00:06:28.000-04:00"
+,"dateModified": "2022-01-04T08:25:20.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Fred Guevara"
+,"url": "https://www.allrecipes.com/cook/3231807"
+}
+]
+,"description": "The secret to these frijoles refritos, or refried beans, is that they are slow cooked to perfection over six hours, then quickly fried in oil."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/sPq0YUHwJYPkqMGu7RaniVVd5ys=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4289533-ea324c1efd794d16bfd61b7c4c68febb.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Frijoles Refritos (Refried Beans)"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "12"
+}
+,"cookTime": "PT363M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "215 kcal"
+,"carbohydrateContent": "24 g"
+,"fiberContent": "6 g"
+,"proteinContent": "8 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "210 mg"
+,"sugarContent": "1 g"
+,"fatContent": "10 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"5 quarts water, or as needed",
+"1 pound pinto beans, washed",
+"2 cloves garlic, peeled and smashed",
+"1 teaspoon salt",
+"canola oil" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine water, pinto beans, and garlic into a large pot and cover; Cook over low heat for 5 1/2 hours; stir salt into beans and continue cooking until beans are very soft, about 30 minutes more."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat canola oil in a skillet over high heat. Spoon the beans into the skillet without draining excess water; mash beans using a potato masher until they begin to lose their shape, about 3 minutes."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT378M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dragonfly Cooking"
+},
+"reviewBody": "This turned out great. My version: cooked in the crock pot. Once tender, went straight into the KitchenAid and mixed and added coconut oil into the hot beans. Very creamy and delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Barbara Woodward"
+},
+"reviewBody": "Sorry no picture. Ate it up too fast! Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Regina Davis-Mitchell"
+},
+"reviewBody": "Very easy, used leftover cooked pinto beans. Added cumin and Goya Recaito."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ZebCarter41"
+},
+"reviewBody": "I have never made retried beans before and was surprised at how easy it was. They were tasty and I made enough for ten meals which I divided into portions and froze."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sharon Klemeks"
+},
+"reviewBody": "Yes I used dry beans and bacon instead of salt pork. I also used fresh garlic it was delish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Used bacon grease in place of the oil, added fine diced onion and jalapeno to the refry. Good beans."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bram"
+},
+"reviewBody": "This is the first time I've made refried beans and they came out great. I cooked it on high in a crock pot for 4 hours and then used a food processor instead of mashing the beans. It needed a little more salt but these are way better than beans out of a can. I will definitely make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amy Curtis"
+},
+"reviewBody": "Easy and tastes just like beans from a Mexican restaurant. Kids love it too!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Baking Nana"
+},
+"reviewBody": "Simple and honestly just great beans. Nothing fancy, nothing fake, just great beans. \nI did use oil to re-fry the beans as instructed and that was great but lard would even be more authentic and oh so, delicious. \nI had both Oaxaca and Cotija cheese available for topping. \nNote: when re frying, scoop out the beans without a lot of juice - you can add a bit more bean juice if needed but there will be a lot of extra bean juice in the pot."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/254251/frijoles-refritos-refried-beans/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/",
+"name": "Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+"name": "Side Dish"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/254251/frijoles-refritos-refried-beans/",
+"name": "Frijoles Refritos (Refried Beans)"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

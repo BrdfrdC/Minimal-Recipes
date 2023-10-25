@@ -1,0 +1,180 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Carrot Cake Pancakes"
+,"datePublished": "2023-01-08T09:00:00.000-05:00"
+,"dateModified": "2023-02-21T16:42:26.540-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Laura Kanya"
+,"url": "https://www.allrecipes.com/author/laura-kanya/"
+}
+]
+,"description": "These carrot cake pancakes are like having cake for breakfast. Serve them drizzled with frosting and a crunchy nut and raisin topping."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/gnLYq0EigPuQFMkvyrinpk7Kvco=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/carrot-cake-pancakes-ddmfs-beauty-3x4-1-95c072fa152c42e694a678609b88e426.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Carrot Cake Pancakes"
+,"cookTime": "PT5M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "458 kcal"
+,"carbohydrateContent": "49 g"
+,"cholesterolContent": "96 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "11 g"
+,"saturatedFatContent": "14 g"
+,"sodiumContent": "630 mg"
+,"fatContent": "25 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"recipeIngredient": [
+"1.25 cups all-purpose flour",
+"1.5 teaspoons baking powder",
+"1 teaspoon ground cinnamon",
+"0.5 teaspoon pumpkin pie spice",
+"0.5 teaspoon baking soda",
+"0.25 teaspoon table salt",
+"1 cup whole buttermilk",
+"0.25 cup packed light brown sugar",
+"1 large egg",
+"1 teaspoon vanilla extract",
+"0.75 cup finely grated carrot",
+"3 tablespoons unsalted butter, melted, plus more for griddle",
+"3 ounces cream cheese, softened",
+"1 tablespoon whole milk",
+"2 tablespoons powdered sugar",
+"0.5 teaspoon vanilla extract",
+"3 tablespoons golden raisins",
+"3 tablespoons toasted chopped pecans or walnuts",
+"3 tablespoons toasted unsweetened coconut flakes",
+"1 tablespoon finely chopped candied ginger" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/y0yljNTe67Ulfv-N9JyY9NnAUnE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/carrot-cake-pancakes-ddmfs-step-1-c3fb73427bf14ed6af9b692123306c3e.jpg"
+}
+]
+,"text": "Gather all ingredients."
+} ,{
+"@type": "HowToStep"
+,"text": "Prepare the Pancakes: Whisk together flour, baking powder, cinnamon, pumpkin pie spice, baking soda, and salt in a large bowl until combined."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/ubeRum4hXIQm4SHxeqfR6w-_7Y4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/carrot-cake-pancakes-ddmfs-step-2-484a7a211ec64c59bd0ad75e5b778fd0.jpg"
+}
+]
+,"text": "Add buttermilk, brown sugar, egg, and vanilla; stir until just combined. Stir in carrots and melted butter until just combined. Set aside."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/T48DECaaQq-igz8k6QFaymuGRos=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/carrot-cake-pancakes-ddmfs-step-3-028b004e9e5b4560842f5b0adb7c4026.jpg"
+}
+]
+,"text": "Prepare the Frosting: In a medium bowl, whisk together cream cheese, milk, powdered sugar, and vanilla until smooth. Set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Prepare the Topping: In a small bowl, stir together raisins, pecans, coconut, and ginger, if desired. Set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat a large nonstick skillet or griddle over medium. Grease skillet or griddle with butter."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/f3R8dBMpBoGeOfRSeeVc73aoIS0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/carrot-cake-pancakes-ddmfs-step-4-151e61ca1601465295ba59d011e3a4f5.jpg"
+}
+]
+,"text": "Working in batches, scoop 1/4 cup batter per pancake into the skillet, being sure not to overcrowd skillet. Cook until bubbles begin to form on surface of pancakes and edges look dry, 2 to 3 minutes. Flip, and cook until fluffy and slightly firm, about 1 minute. Repeat with remaining batter, adding butter and adjusting heat as needed."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/TmdR4FJDiFv9caTmZfpehYuPjkU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/carrot-cake-pancakes-ddmfs-step-5-4e1a3e9fe1224461b931a91ab7d127ea.jpg"
+}
+]
+,"text": "Divide pancakes evenly among 4 plates. Drizzle Pancakes evenly with Frosting, and sprinkle evenly with Topping."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT40M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8520999/carrot-cake-pancakes/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/78/breakfast-and-brunch/",
+"name": "Breakfast and Brunch"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/151/breakfast-and-brunch/pancakes/",
+"name": "Pancake Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8520999/carrot-cake-pancakes/",
+"name": "Carrot Cake Pancakes"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

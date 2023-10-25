@@ -1,0 +1,122 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Summertime Strawberry Mojito"
+,"datePublished": "2020-06-19T00:29:20.000-04:00"
+,"dateModified": "2022-09-25T20:05:22.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Juliana Hale"
+,"url": "https://www.allrecipes.com/cook/bettysoup"
+}
+]
+,"description": "Strawberry syrup adds a delicious fruity twist to the lime and mint base of this refreshing summertime favorite."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/9K__09uuIIP_KCF_Ypqe36CIM20=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5433869-521d3b2af11c48d4b5bcb24d9ad72588.jpg",
+"height": 1491,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Summertime Strawberry Mojito"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "184 kcal"
+,"carbohydrateContent": "26 g"
+,"fiberContent": "2 g"
+,"proteinContent": "1 g"
+,"sodiumContent": "27 mg"
+,"sugarContent": "20 g"
+,"fatContent": "0 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"5 limes",
+"1 bunch mint sprigs, plus more for garnish",
+"1 cup white rum",
+"0.5 cup strawberry syrup (such as Torani®)",
+"2 cups chilled club soda",
+"6 cups ice cubes",
+"2 tablespoons Sugar for rimming glasses",
+"6 strawberries, for garnish" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Juice 4 limes, yielding about 1/2 cup juice, and cut remaining lime into 6 wedges."
+} ,{
+"@type": "HowToStep"
+,"text": "Grasp mint sprig stems and slap leaves against a work surface to help release their oil; transfer to a sturdy glass pitcher. Stir in lime juice, rum, and strawberry syrup. Add club soda."
+} ,{
+"@type": "HowToStep"
+,"text": "Spread 1/4 to 1/2 inch sugar on a small, shallow plate. Run a lime wedge around the rim of each glass, then dip glass into sugar. Fill with ice. Pour in mojito mixture. Garnish with mint sprigs and strawberries."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT15M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/265114/summertime-strawberry-mojito/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/133/drinks/cocktails/",
+"name": "Cocktail Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1741/drinks/cocktails/rum-drinks/",
+"name": "Rum Drinks Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/265114/summertime-strawberry-mojito/",
+"name": "Summertime Strawberry Mojito"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,285 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Stovies"
+,"datePublished": "2018-06-08T09:18:03.000-04:00"
+,"dateModified": "2022-08-16T22:03:36.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Kookie"
+,"url": "https://www.allrecipes.com/cook/24325309"
+}
+]
+,"description": "A Scottish dish of potatoes cooked with onions and corned beef. It&#39;s a whole meal in itself; simple and easy to make!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/jHiAg8TaIEa9CnW4kGD9kQJlF94=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4580465-stovies-Jody-4x3-1-d59d9f87b3ad45d380bace81988bd318.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Stovies"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "3.6",
+"ratingCount": "16"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "707 kcal"
+,"carbohydrateContent": "103 g"
+,"cholesterolContent": "85 mg"
+,"fiberContent": "13 g"
+,"proteinContent": "36 g"
+,"saturatedFatContent": "8 g"
+,"sodiumContent": "925 mg"
+,"sugarContent": "9 g"
+,"fatContent": "17 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"6 large baking potatoes, peeled and cubed",
+"1 cup milk",
+"1 tablespoon butter",
+"1 large onion, roughly chopped",
+"1 (12 ounce) can corned beef, cut into chunks",
+"salt and pepper to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "In a saucepan, combine potatoes and milk. Bring to a boil, reduce heat, and simmer until potatoes are tender, about 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "While potatoes are simmering, melt butter in a skillet over medium high heat. Saute onions until soft and translucent."
+} ,{
+"@type": "HowToStep"
+,"text": "When potatoes are soft, mix in sauteed onions and corned beef. Cook an additional 10 minutes, or until heated through. Season with salt and pepper."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT45M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jody"
+},
+"reviewBody": "I haven't had stovies since I was a wee lassigie! The only change I made was to use beef broth instead of the milk. Great comfort food for a November night. Thanks, we really enjoyed it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "kerryokie"
+},
+"reviewBody": "Not stovies. I grew up in Scotland. Stovies are made with beef sausage, or leftover roasted lamb or beef. Stovies are a way to make those leftovers stretch for a day or two. Never seen milk used in them either. Use beef broth."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Maggie Watanabe"
+},
+"reviewBody": "I never saw anyone waste milk by adding it to stovies and the meat was sausage or mince. This is a boiled corned beef hash."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Patty Cakes"
+},
+"reviewBody": "I turned this into a quick dinner on a busy weeknight. I used leftover pork chops and a frozen package of mixed veggies. If you want breakfast? Top it with a fried egg::))"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "jenicrob"
+},
+"reviewBody": "There are many legitimate ways to make Scottish stovies and this is one of them. This is a tasty recipe that should not be dismissed for using corned beef. Don't worry if the milk doesn't cover the potatoes (depends on how \"large\" the potatoes are)--it will cook down to a nice, thick consistency. Leftover slab corned beef would be an improvement over the canned or deli varieties."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "racincake"
+},
+"reviewBody": "This is a fine stovies recipe! Tastes fab- (more mushy potatoe and less soaked in gravy and meat than the other) I was surprised when I was introduced to stovies like this when I moved into Angus region. I got a bit addicted on ones like this I'd get from the butchers on my lunch break from school. Great with a splash o'gravy or brown sauce. Stop yer whingin and give them a go!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "mick54"
+},
+"reviewBody": "I was raised with stovies made with minced lamb. This is a great hash recipe but not stovies. Try minced lamb for a more authentic taste. Sometimes my dad would add a dash of nutmeg. Yumm"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Scotaway"
+},
+"reviewBody": "I agree with Floobie. This dish should be made with sausages or with out meat and served with left over roast lamb. It is also best if you can to use any fat left from the roast lamb for frying the onions"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Floobie"
+},
+"reviewBody": "This is a recipe for Corned Beef Hash!! Stovies is made with lorne sausage &amp; link sausages."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hamish"
+},
+"reviewBody": "This Recipe is great! Traditionally eaten on St. Andrews day. It is best not to use canned corned beef as it is high in fat, and tends to taste like tin. Instead get it fresh from a deli or butcher."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "this is a great meal, you can also add a cup of sour cream to make it creamier, also leave out the onions if you dont like them but make sure the corned beef has been chilled in the fridge before cutting up. and it does not taste like corned beef hash if done right"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "GIRLIESMAMA"
+},
+"reviewBody": "Maybe I needed to be Scottish! With the effort involved, it tasted almost like canned corned beef hash."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/35856/stovies/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/704/world-cuisine/european/uk-and-ireland/",
+"name": "UK and Ireland"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/707/world-cuisine/european/uk-and-ireland/scottish/",
+"name": "Scottish"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/35856/stovies/",
+"name": "Stovies"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

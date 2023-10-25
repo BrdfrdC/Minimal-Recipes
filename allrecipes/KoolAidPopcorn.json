@@ -1,0 +1,171 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Kool-Aid® Popcorn"
+,"datePublished": "2020-06-18T23:53:50.000-04:00"
+,"dateModified": "2022-01-14T01:27:17.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Bernie Theus"
+,"url": "https://www.allrecipes.com/cook/623202"
+}
+]
+,"description": "Kool-Aid®-coated popcorn is a colorful and addictive treat that the whole family will enjoy preparing and eating."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/pQJWBIeTHimlpPxTTtnkIAKBDfA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1218918-afd81f61e5734293810b962e3396f922.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Kool-Aid® Popcorn"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.3",
+"ratingCount": "3"
+}
+,"cookTime": "PT35M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "255 kcal"
+,"carbohydrateContent": "39 g"
+,"cholesterolContent": "16 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "1 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "259 mg"
+,"sugarContent": "24 g"
+,"fatContent": "12 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"6 quarts popped popcorn",
+"2 cups white sugar",
+"1 cup light corn syrup",
+"0.66666668653488 cup butter",
+"2 (.13 ounce) envelopes unsweetened soft drink mix, any flavor (such as KOOL-AID®)",
+"1 teaspoon baking soda" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat oven to 225 degrees F (110 degrees C). Grease a large baking sheet. Place popped popcorn in a large bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine sugar, corn syrup, and butter in a saucepan; bring to a boil until sugar dissolves, about 3 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine drink mix and baking soda in a large bowl; pour sugar mixture into drink mixture, stirring carefully. Sugar mixture will bubble. Pour mixture over popcorn; toss to evenly coat. Transfer coated popcorn to baking sheet."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven, stirring every 10 minutes, until coating has hardened, about 30 minutes. Cool and break popcorn into pieces."
+} ]
+,"recipeYield": ["20"]
+,"totalTime": "PT45M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KATOCEAN410"
+},
+"reviewBody": "I loved it, I'll use grape flavor next time and I used a smidge more corn syrup than the recipe called for"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "iluv2cook!"
+},
+"reviewBody": "I love it! Its so good. Everyone I tell is like gross and im like just try it. Some im bringing it for our thanksgiving snack pot luck!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "jsireland"
+},
+"reviewBody": "I used 4 bags of microwave popcorn and could have easily added another for the amount of topping there was. I also used two large bowls and two cookie sheets to help out with the amount of popcorn there was. We used 2 Sharkleberry Kool-aid packets and the kids loved it. It was good to me but not great and I am sure it is because of the flavor packet I used. I think one packet would have been better. Great recipe though to play with the flavors. Thanks for posting!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/231996/kool-aid-popcorn/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17146/appetizers-and-snacks/snacks/",
+"name": "Snacks"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16051/appetizers-and-snacks/snacks/popcorn/",
+"name": "Popcorn Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/231996/kool-aid-popcorn/",
+"name": "Kool-Aid® Popcorn"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

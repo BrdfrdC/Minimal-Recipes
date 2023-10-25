@@ -1,0 +1,479 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Egg Roll Bowl"
+,"datePublished": "2017-03-09T23:45:45.000-05:00"
+,"dateModified": "2022-12-24T10:35:23.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "ComerCastIron"
+,"url": "https://www.allrecipes.com/cook/comercastiron"
+}
+]
+,"description": "This breakfast egg roll bowl features all the basic egg roll ingredients (pork, cabbage, soy sauce, and sesame oil) with no deep-fried wrappers."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/sP3wtSXWamijBj7pWk7K9jcZ9Zo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5025436-egg-roll-bowl-Shirley-Massey-Johnson-4x3-1-f9bacd99651240d69ee8915958674835.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Egg Roll Bowl"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "36"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "509 kcal"
+,"carbohydrateContent": "17 g"
+,"cholesterolContent": "74 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "18 g"
+,"saturatedFatContent": "11 g"
+,"sodiumContent": "1941 mg"
+,"sugarContent": "0 g"
+,"fatContent": "41 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 pound bulk pork sausage",
+"1 (16 ounce) package coleslaw mix",
+"0.25 cup soy sauce",
+"0.25 cup toasted sesame oil",
+"1 tablespoon grated ginger",
+"1 clove garlic, minced",
+"1 tablespoon lemon zest",
+"1 teaspoon chopped fresh cilantro" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Cook and stir sausage in a large skillet over medium heat until browned and crumbly, about 10 minutes. Drain excess grease."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir coleslaw mix, soy sauce, sesame oil, ginger, and garlic into the skillet. Cook until coleslaw softens, about 8 minutes. Stir in lemon zest and cilantro; cook until the flavors combine, about 2 minutes."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT30M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I make many versions of this every week. I prefer using ground turkey instead of pork. I add all sorts of veggies, depending on what's in my fridge. Love Love Love it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Janet"
+},
+"reviewBody": "I have been making this recipe ever since I found it on FB a couple of years ago. We love the ease and flavor of this recipe. We have tried many eating vessel styles and settled on a lettace wrap style. Once I make it my husband can't stop eating it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SherAlexander"
+},
+"reviewBody": "My ingredients vary. I have used ground beef and diced chicken breast. I toss in a half bag of stir fry veggies, bean sprouts and water chestnuts into the mix with a little oyster and soy sauce. Red pepper flakes and you have a great meal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "AndyN"
+},
+"reviewBody": "My husband and I enjoyed this so much. I took leftovers for lunch. It was easy and very tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Made with pure chopped beef. Didn't use and cilantro and only used have the spices it called for. It was so quick and easy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle Seace Traino"
+},
+"reviewBody": "Very tasty! Had alot of flavor. This will go into the \"likes\" kitchen recipes for sure."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "gina11_10598"
+},
+"reviewBody": "I made the recipe as directed. As others have said, I think the recipe calls for too much sesame oil. I added a teaspoon each of rice vinegar and chili garlic sauce. It cut the richness and added a little heat."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "T.J. Aminzadeh"
+},
+"reviewBody": "Easy and delicious. Didn't make through the night. Everybody ate it and every drop. I didn't even have any for lunch the next day!!! Also this make a great stir fry when mixed with rice!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Aly in the Kitchen"
+},
+"reviewBody": "I make this recipe all of the time now. My whole family loves it. Because i have a large family, i do mix ground beef and pork. I also add Chinese 5 Spice powder to my ground meat mixture and use both red and green cabbage. Turns out delicious everytime!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ralph"
+},
+"reviewBody": "Fast and easy, great taste"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Karalee Ballard"
+},
+"reviewBody": "Love this easy recipe. I have used ground beef but my favorite thing to use is salad shrimp. I use a little bit of the toasted sesame oil to saute the shrimp then follow the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Hagar"
+},
+"reviewBody": "This recipe calls for way too much Toasted Sesame Oil (1 to 1.5 tablespoons should be plenty). I think you can also use less soy sauce. Otherwise, I have made Egg Roll in a Bowl before and is was a great recipe. This will be very good with some slight changes"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "carolyn bystrycki"
+},
+"reviewBody": "This is a family favorite! We serve it over lo mein!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "amyhanderson"
+},
+"reviewBody": "Great flavor and so easy to make!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "amyhanderson"
+},
+"reviewBody": "Great flavor and so easy to make!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle L Farmer-Colombe"
+},
+"reviewBody": "Yes and yes"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "WCALLOW"
+},
+"reviewBody": "Made this several times. Always delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kim Sandoz"
+},
+"reviewBody": "Made a double batch, used ground beef instead of pork. Good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ekaddo"
+},
+"reviewBody": "Great idea. Very tasty and easy to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lillisa619"
+},
+"reviewBody": "I followed the recipe, but didn’t add the lemon zest. My husband loved it!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Yolene Hairgrove"
+},
+"reviewBody": "Great taste even though I did not add lemon zest. Substituted chicken for sausage. Added zucchini for additional veggies and turned out wonderful!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Nezamis"
+},
+"reviewBody": "I used hamburger instead of sausage and onions and portabella mushrooms also. Truly a quick and delicious meal. I omitted the sesame oil ."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "swamsley"
+},
+"reviewBody": "This was a hit at my home. I have made this twice. I shredded a head of cabbage and a couple of carrots the 1st time. This gave a much better flavor than the bag coleslaw, which was still delicious and much simpler to make on a weeknight. I replaced the pork with ground chicken and served over rice. I also added some Thai chili spice to give it some kick."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chi Chi Larue"
+},
+"reviewBody": "I made this in my Instant Pot using 1 lb of ground chicken. I also used Trader Joe's Asian Dipping Sauce instead of soy sauce and it was a home run! I'll be making again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Annjell"
+},
+"reviewBody": "Great meal! Made as directed. LOVED it! Making it again soon"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pat Triplett"
+},
+"reviewBody": "I made this, with a few changes ,for a church dinner. I used ground pork/ ground beef mixture and added teriyaki sauce and just a little brown sugar. It disappeared quickly and I had numerous request for the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "LoveToEat"
+},
+"reviewBody": "I have made this from another recipe and its very easy and tasty. The only difference is my recipe uses 1 tsp of sesame oil, 1/2 cup soy sauce and 1 tsp rice wine vinegar. I like those ratios better than this recipes. I think it is a matter of taste. But it's a great recipe and I recommend it highly."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/257429/egg-roll-bowl/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/115/appetizers-and-snacks/wraps-and-rolls/",
+"name": "Wraps and Rolls"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16366/appetizers-and-snacks/wraps-and-rolls/egg-rolls/",
+"name": "Egg Roll Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/257429/egg-roll-bowl/",
+"name": "Egg Roll Bowl"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

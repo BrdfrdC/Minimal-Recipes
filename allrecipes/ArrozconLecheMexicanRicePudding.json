@@ -1,0 +1,402 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Arroz con Leche (Mexican Rice Pudding)"
+,"datePublished": "2020-06-19T00:29:19.000-04:00"
+,"dateModified": "2022-08-22T14:48:38.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "rorozco"
+}
+]
+,"description": "Rice pudding (arroz con leche) made the traditional Mexican way, with both whole and evaporated milk and an aromatic touch of cinnamon."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/NR5Lit3OoYfFMeiE8rH49U2iRpc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8504469-1290088e1f3c4e73afa7c28346b06da3.jpg",
+"height": 1000,
+"width": 1000
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Arroz con Leche (Mexican Rice Pudding)"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "24"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "443 kcal"
+,"carbohydrateContent": "73 g"
+,"cholesterolContent": "39 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "13 g"
+,"saturatedFatContent": "7 g"
+,"sodiumContent": "151 mg"
+,"sugarContent": "40 g"
+,"fatContent": "11 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"4 cups water",
+"0.5 cinnamon stick",
+"2.25 cups uncooked white rice",
+"4 cups whole milk",
+"4 cups evaporated milk",
+"1.25 cups white sugar",
+"2 pinches ground cinnamon" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine water and cinnamon stick in a saucepan over high heat. Bring to a boil and cook until cinnamon releases its color and flavor, about 5 minutes. Add rice, reduce heat to low, cover, and cook until rice is tender and water is absorbed, about 20 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Gradually add whole milk to rice, then evaporated milk. Stir in sugar. Cook uncovered until sugar is dissolved and mixture has thickened, about 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Serve warm or cold. Sprinkle each portion with ground cinnamon."
+} ]
+,"recipeYield": ["10"]
+,"totalTime": "PT40M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "The portions seemed too large for me, so I only used 2 cups of regular milk, then about 24 oz (2- 12 oz cans of evaporated), a little over 1 cup of sugar. I just couldn’t see putting DOUBLE the amount that I did without getting a SOUP! It is OK, but I would prefer more Al dente rice. I added vanilla extract and the ground cinnamon too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rachelnichole3.14"
+},
+"reviewBody": "My friends and I do International Night (everyone makes a dish from another region and we have a potluck) and this turned out great! I used jasmine rice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "It was a nice surprise!! it brought me back to how my Mom use to make it for us growing up in the 40's simple to make in a short time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "michelleprine3"
+},
+"reviewBody": "I agree use 2 cups while milk and 2 cups condensed milk in place of sugar. Much creamer."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cheyanne Gonzalez"
+},
+"reviewBody": "It was delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tina"
+},
+"reviewBody": "This was delicious! I made a few changes. I added 1 Tablespoon of Vanilla extract and 2 teaspoons of cinnamon. I only used 24oz of evaporated milk instead of 4 cups. I added a can of sweetened condensed milk and deleted the sugar. Soooo good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Happyschmoopies"
+},
+"reviewBody": "I thought the flavors of this recipe were delicious. Creamy with great cinnamon flavor. I did add raisins per my husband’s request. The only problem I had was that it did not take 10 minutes to thicken up. Mine took about 25 minutes to thicken and for the rice to absorb the milk mixture. Don’t give up. Keep stirring and it will eventually thicken."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Cindy W"
+},
+"reviewBody": "This recipe actually was really good, however I believe certain steps are missing. when adding the whole and evaporated milk it become very soupy, like should I bring it to a boil before adding the evaporated milk when adding the whole milk. It took a lot longer to cook down. I'm not sure if it's supposed to be soupy or a thicker consistency, it doesn't specify."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Tammy Lynn"
+},
+"reviewBody": "This turned out good. I wish the directions stated what heat to cook the pudding on for 10 minutes. I cooked it too high and burned the bottom of my pan. It's very creamy with the evaporated milk."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Faith N"
+},
+"reviewBody": "My sons and I loved this. I left the cinnamon stick in while cooking the rice and it gave it a great flavor. I cut the milk down to 2 cups but left every thing else the same. It was the perfect consistency for us. I'll definitely make this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ReneePaj"
+},
+"reviewBody": "Good rice pudding recipe. I used lowfat milk and evaporated milk and it turned out rich and thick with a nice flavor. I did feel it was a little too sweet for my palate, so I added a bit of salt, but next time, I'd reduce the sugar too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Terri McHugh"
+},
+"reviewBody": "Yummy recipe! I would have given it 5 stars, however the consistency didn’t seem quite right. Some changes that made all the difference: I switched out the long grain rice for Arborio rice AND added condensed milk for a creamier texture. Soo good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Yoly"
+},
+"reviewBody": "Excellent! Just like my mom made it. I had never really found any Arroz con Leche recipe that I cared to make twice. This one is a keeper and my go-to recipe from now on. Thank you for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "angelina noquiz"
+},
+"reviewBody": "I cut the recipe in half and followed it thru, it turn out good! I used jasmine rice, using the type of rice will definitely make a big difference with this recipe. I will be making this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Denise"
+},
+"reviewBody": "I did use all the milk required however I added the two cups when the rice was al dente. As the rice thickened I added 1/2 at a time till I got the consistency I wanted. When ready I added a capful of vanilla extract and sweeten condensed milk instead of sugar. Reminds me of my mom’s!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "STI"
+},
+"reviewBody": "I cut down the amount of milk as several reviews said it was soupy. That was a big mistake. I had to reheat it and at at least the amount of milk I skipped. It thickens A LOT as it stands and cools. I will make with the full amount of milk the next time. I will also add a bit more sugar. I will try again though. Also it makes a lot. We ate it for three days."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Consejos de El Tio Rene"
+},
+"reviewBody": "Awesome recipe, brío ugh too back Memories with my mom used to make it back in the 70s. But it is definitely 2 cups whole milk 2 cups condensed milk. I also used for and 4 cups and it was just way too watery."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sunnydelite88"
+},
+"reviewBody": "I made this recipe with the directions given. It is SOUP. My thought was...maybe they meant to say a total of 4 cups of milk, 2 being whole and 2 being evaporated. I would have to say. It is a terrible mess. But after about an hour, all liquids absorbed and it was very delicious sans the raisins."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MsMichelleBelle"
+},
+"reviewBody": "This recipe was the closest to my grandmothers style of arroz con leche. All of the other recipes call for raisins (yuck soggy raisins). I also didn’t add sugar I used condensed milk. This recipe was easy and delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allison"
+},
+"reviewBody": "Easy recipe to go off of. Changed out the sugar for condensed milk. Had a little help form my Hispanic mother in law but other than that did it very easily on my own."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "anne"
+},
+"reviewBody": "I liked it! Easy recipe to go off of. I eliminated the sugar and replaced one cup of evaporated milk with one cup of condensed milk. Yummy!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/265085/arroz-con-leche-mexican-rice-pudding/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/237/world-cuisine/latin-american/",
+"name": "Latin American"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/728/world-cuisine/latin-american/mexican/",
+"name": "Mexican"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/265085/arroz-con-leche-mexican-rice-pudding/",
+"name": "Arroz con Leche (Mexican Rice Pudding)"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

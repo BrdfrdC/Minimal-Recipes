@@ -1,0 +1,272 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Air Fryer Stuffed Mushrooms"
+,"datePublished": "2020-01-27T16:57:46.000-05:00"
+,"dateModified": "2023-02-06T07:11:11.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "France C"
+,"url": "https://www.allrecipes.com/cook/francecevallos"
+}
+]
+,"description": "These air fryer stuffed mushrooms are easy to make and cook in under 10 minutes in your air fryer. A perfect game-day snack or a fancy party appetizer!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/h4SgXB8ascRsJ6v8fc9cHZ-YgXY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7638987-2efcaacef62f4d579f4a2a37e9f24377.jpg",
+"height": 1000,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Air Fryer Stuffed Mushrooms"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "11"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "104 kcal"
+,"carbohydrateContent": "4 g"
+,"cholesterolContent": "26 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "5 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "116 mg"
+,"sugarContent": "1 g"
+,"fatContent": "8 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1 (16 ounce) package whole white button mushrooms",
+"2 scallions",
+"4 ounces cream cheese, softened",
+"0.25 cup finely shredded sharp Cheddar cheese",
+"0.25 teaspoon ground paprika",
+"1 pinch salt",
+"cooking spray" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Gently clean mushrooms with a damp cloth. Remove and discard stems."
+} ,{
+"@type": "HowToStep"
+,"text": "Mince scallions, separating white and green parts."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat an air fryer to 360 degrees F (182 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix cream cheese, Cheddar cheese, scallion whites, paprika, and salt together in a small bowl. Stuff mixture into mushrooms, pressing gently with the back of a small spoon to fill each cavity."
+} ,{
+"@type": "HowToStep"
+,"text": "Spray the air fryer basket with cooking spray and set mushrooms inside without overcrowding; you may need to work in batches."
+} ,{
+"@type": "HowToStep"
+,"text": "Air-fry mushrooms until filling is lightly browned, about 8 minutes. Transfer to a serving plate."
+} ,{
+"@type": "HowToStep"
+,"text": "Sprinkle mushrooms with scallion greens. Let cool for 5 minutes before serving."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT35M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dbridg2245"
+},
+"reviewBody": "soooooo good i also added some bacon bits and made it go from a 10/10 to a 11/10!!!!!!!!!!!!!!!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Johnny Emory"
+},
+"reviewBody": "Love it My Goto"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Aby Colby"
+},
+"reviewBody": "I used thick sliced mushrooms for about 5 min in fryer at 370 degrees F"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Melplus04"
+},
+"reviewBody": "Pretty good and simple! A big hit with the kids!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Beverly"
+},
+"reviewBody": "Loved this recipe. I also add a pinch of garlic powder. Very good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "a silly reefback"
+},
+"reviewBody": "I didn’t make any changes and it was AMAZING! Best thing ever!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Aman"
+},
+"reviewBody": "loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "No1ChefJohnFan"
+},
+"reviewBody": "Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sohana"
+},
+"reviewBody": "I have made this recipe and it was good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Corey Larkin"
+},
+"reviewBody": "Super quick and easy made these and everyone said they were the best stuffed mushrooms they've ever had which I felt as well. Only difference is I used both white and baby Bella mushrooms and topped with a little extra cheese."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/278271/air-fryer-stuffed-mushrooms/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1118/appetizers-and-snacks/vegetable/mushrooms/",
+"name": "Mushrooms"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/14906/appetizers-and-snacks/vegetable/mushrooms/stuffed-mushrooms/",
+"name": "Stuffed Mushroom Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/278271/air-fryer-stuffed-mushrooms/",
+"name": "Air Fryer Stuffed Mushrooms"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

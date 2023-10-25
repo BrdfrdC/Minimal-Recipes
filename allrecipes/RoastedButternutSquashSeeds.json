@@ -1,0 +1,143 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Roasted Butternut Squash Seeds"
+,"datePublished": "2019-12-04T17:48:39.000-05:00"
+,"dateModified": "2022-01-04T08:10:40.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Alyssa Singer"
+,"url": "https://www.allrecipes.com/cook/4877906"
+}
+]
+,"description": "Next time you roast any type of winter squash like butternut, spaghetti, or acorn, save the seeds instead of tossing them, to make a crispy snack or salad topper."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Ncykpfrfhp596od6yW_tuq4BOAY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2807926-9825f97d6b5a4e42944d753a4cc701ad.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Roasted Butternut Squash Seeds"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "1"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "217 kcal"
+,"carbohydrateContent": "6 g"
+,"fiberContent": "1 g"
+,"proteinContent": "9 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "89 mg"
+,"sugarContent": "0 g"
+,"fatContent": "19 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"aluminum foil",
+"1 cup butternut squash seeds or other hard squash seeds",
+"olive oil",
+"chili powder to taste",
+"sea salt to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat oven to 400 degrees F (200 degrees C). Line a baking sheet with aluminum foil."
+} ,{
+"@type": "HowToStep"
+,"text": "Clean pumpkin seeds so there are no strings or pulp attached to them. Pat dry or let air dry in a strainer."
+} ,{
+"@type": "HowToStep"
+,"text": "Spread seeds in a single layer on the prepared baking sheet. Drizzle seeds lightly with olive oil and stir to coat evenly. Sprinkle lightly with chili powder and sea salt."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake, stirring every 5 minutes, until just slightly golden, about 15 minutes. Remove from oven and allow to cool."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT25M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Erin"
+},
+"reviewBody": "I made this with just olive oil, sea salt and cracked pepper at 350 degrees and it was THE BOMB. It got gobbled up before I even finished making the rest of our dinner!! The only thing is, it took much less time for some reason, about ten minutes. I would have cooked them for longer, but they started to pop and jump around in my oven haha! Definitely a win though, and they are pretty filling. I would imagine that this is a pretty good snack food for hiking trips etc., if you can keep hungry family members from snatching it all up before you pack it, of course ?? great way to save money and reduce food waste."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/277437/roasted-butternut-squash-seeds/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/114/appetizers-and-snacks/nuts-and-seeds/",
+"name": "Nuts and Seeds"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/969/appetizers-and-snacks/nuts-and-seeds/pumpkin-seeds/",
+"name": "Pumpkin Seed Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/277437/roasted-butternut-squash-seeds/",
+"name": "Roasted Butternut Squash Seeds"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

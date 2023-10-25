@@ -1,0 +1,390 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Loaded Mashed Potatoes"
+,"datePublished": "2019-04-02T03:03:59.000-04:00"
+,"dateModified": "2022-06-06T15:31:21.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Jaime Lee C"
+,"url": "https://www.allrecipes.com/cook/1447469"
+}
+]
+,"description": "Loaded mashed potatoes with crispy bacon bits, sour cream, and cheese — the best parts of a loaded baked potato and mashed potatoes rolled into one!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/UPNZQUFQ8JiIpZGA2yHIDZ-Nl7g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2258517-loaded-mashed-potatoes-naples34102-4x3-1-7b62ca8e50c24f3daf3dbf62d59d15dd.jpg",
+"height": 720,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Loaded Mashed Potatoes"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.4",
+"ratingCount": "26"
+}
+,"cookTime": "PT25M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "493 kcal"
+,"carbohydrateContent": "33 g"
+,"cholesterolContent": "90 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "14 g"
+,"saturatedFatContent": "21 g"
+,"sodiumContent": "421 mg"
+,"sugarContent": "2 g"
+,"fatContent": "35 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"4 slices bacon, or more to taste",
+"3 pounds potatoes, or more to taste, peeled and cut into chunks",
+"0.5 cup butter, cut into pieces",
+"1 (16 ounce) container sour cream",
+"8 ounces shredded Cheddar cheese",
+"0.5 chopped fresh chives",
+"salt and ground black pepper to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until crisp and browned, about 10 minutes; drain on paper towels."
+} ,{
+"@type": "HowToStep"
+,"text": "At the same time, place potatoes into a large pot of lightly salted water and bring to a boil; reduce heat to medium-low and simmer until tender, about 20 minutes. Drain well and return potatoes to the pot."
+} ,{
+"@type": "HowToStep"
+,"text": "Mash butter into the potatoes using a potato masher or electric hand mixer until well combined. Add sour cream and continue to mash or beat until combined. Crumble bacon into potato mixture; stir in Cheddar cheese and chives. Season with salt and pepper."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT40M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "too much sour cream. over powers almost all other flavors."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "moviestarmaria"
+},
+"reviewBody": "I have made this recipe a couple of times and it's delicious. I cut back on the sour cream to 8 oz and use vege broth if the mashed potatos are not smooth enough. I also season it with garlic and creole. Aside from that, I follow the other ingredients."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cherwood29"
+},
+"reviewBody": "This was a hit. So many people liked it at our potlucks. I did however used garlic butter which made it better"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lesley Pinckard"
+},
+"reviewBody": "My husband requested mashed potatoes so I made these. He loved them so much more than regular mashed potatoes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "NancyBeatty1"
+},
+"reviewBody": "A little iadd onions"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Heather McCarthy"
+},
+"reviewBody": "This was so yummy! I upped the recipe to 20 servings for a Thanksgiving potluck and couldn't have been happier. A few things I did differently: I used about 75% peeled russet potatoes and 25% un-peeled baby red potatoes, 50% sour cream and 50% cream cheese, and cooked and crumbled the bacon the day before. They. Were. Delicious. Ended up with about 6 generous quarts that I kept warm in the crock pot."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Patti Cushing"
+},
+"reviewBody": "I made this twice and everyone loved it! No leftovers at all! My son asked for Italian Shredded cheese the last time so we added that instead and it sure gave us a new flavor! Loved it both ways! Making it aging for this Thanksgiving! ??"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gail"
+},
+"reviewBody": "Great dish. Quick and easy to make. It was delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Lea"
+},
+"reviewBody": "They were okay but I think the recipe calls for too much sour cream and it messed up the flavour. Also I think I boiled the potatoes for too long so they were mushy. It made the mashed potatoes really goopy and sticky."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Kelly Schira"
+},
+"reviewBody": "I didn't add enough sour cream, which is my own fault. But they were lackluster."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Vee Segura"
+},
+"reviewBody": "I made this dish for my family. Wasn't a big fan of the recipe. I think it called for too much sour cream. It drowned out the flavor completely from everything else. If you do make it, I suggest adding the sour cream slowly to your liking. And maybe adding a bit of horse radish to give it an extra kick"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mgarland711"
+},
+"reviewBody": "Have made these a couple time. Added all the above and cream cheese for a little more flavor. My father in law asks for these at holidays."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jamielee922"
+},
+"reviewBody": "Try it with garlic!!! There's no going back! And sometimes I'll throw in some of the bacon grease ;) And a little ranch seasoning!\nP.S. Nice name!\n* Jamie Lee"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lashawn Williams"
+},
+"reviewBody": "I had a craving for loaded potatoes (who doesn't ) and landed here and had all the ingredients, I only made two subs for the recipe one being I have some leftover Velveeta I'm desperately trying to get rid of so I cubed up some of that. The second sub I made was baking it in the oven for about 10 or so minutes. I love the flavor! The sour cream is amazing its like having mashed chips lol the flavor still blended nicely with the minced garlic I added despite only having about half a container from taco night. I'll definitely be keeping this recipe around."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "thefryer"
+},
+"reviewBody": "I've made this a few times for big get togethers and it a big hit. I tend to made larger quantities and place in a crockpot to keep warm and cook a little extra with the mixture all together. I also use a full pack of bacon and cut into strips the bacon wad out of the the pack. I use part of the ingredients as garnish looks and tastes great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mangacrazymom"
+},
+"reviewBody": "I've made this several times and it's always a big hit, especially with the kids. Lord, even my extremely picky 6yr old ate it. Thanks so very much!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Krissy Whetstone"
+},
+"reviewBody": "Amazing... What else can I say! I added a little creole seasoning for a twist! \\"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Erin Burgess Oliver"
+},
+"reviewBody": "Easy. I did 5lb of potatoes and pre cooked bacon. Added a little garlic powder. Yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "naples34102"
+},
+"reviewBody": "Adding these ingredients to mashed potatoes is not exactly creative or inspired, but that doesn’t make these any less delicious. Think about it…sour cream, cheese, bacon, chives, butter…mmmmmmm. Perfect with our meatloaf supper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joi Andrews"
+},
+"reviewBody": "Yes! I live this it was a great first time recipe. ..easy and delicious! I paired mine with Marinated chicken breast and a side of corn! \nThanks!!!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/240157/loaded-mashed-potatoes/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+"name": "Side Dish"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/225/side-dish/vegetables/",
+"name": "Vegetables"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/240157/loaded-mashed-potatoes/",
+"name": "Loaded Mashed Potatoes"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

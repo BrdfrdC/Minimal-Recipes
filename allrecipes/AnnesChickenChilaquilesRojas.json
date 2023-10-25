@@ -1,0 +1,239 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Anne&#39;s Chicken Chilaquiles Rojas"
+,"datePublished": "2014-02-04T19:48:09.000-05:00"
+,"dateModified": "2022-07-18T20:13:55.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Dylan's Nana"
+,"url": "https://www.allrecipes.com/cook/dylansnana"
+}
+]
+,"description": "Perfect for a party or potluck, these chicken chilaquiles rojas are loaded with flavor thanks to chipotle chiles, tomatoes, and cotija cheese."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/GenhnxW7T5u7YmT9jJqJKqDn1gI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1098038-546ea7c963004bbaa31209e5fe4d0d09.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Anne&#39;s Chicken Chilaquiles Rojas"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.4",
+"ratingCount": "8"
+}
+,"cookTime": "PT45M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "601 kcal"
+,"carbohydrateContent": "38 g"
+,"cholesterolContent": "100 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "30 g"
+,"saturatedFatContent": "15 g"
+,"sodiumContent": "900 mg"
+,"sugarContent": "3 g"
+,"fatContent": "38 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"1 (28 ounce) can whole peeled tomatoes, drained",
+"2 chipotle chiles in adobo sauce, or more to taste",
+"1.5 tablespoons vegetable oil",
+"1 large white onion, thinly sliced",
+"3 cloves garlic, minced",
+"1.5 cups chicken broth",
+"1 dash roasted ground cumin",
+"1 dash dried oregano",
+"1 pinch salt and ground black pepper to taste",
+"1 (16 ounce) package tortilla chips",
+"1 (8 ounce) package shredded Mexican cheese blend",
+"5 ounces crumbled cotija cheese",
+"1 whole cooked chicken, deboned and shredded",
+"0.66666668653488 cup chopped green onions, divided",
+"1 cup chopped cilantro, divided",
+"1 (8 ounce) carton sour cream, divided" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C). Grease a large (10x15-inch) casserole dish."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine drained tomatoes and chipotle chiles in adobo in a blender and puree until smooth."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat oil in a large skillet over medium heat. Saute onion in hot oil until brown, 5 to 7 minutes. Add garlic and saute 1 minute more. Add pureed tomato-chile sauce and simmer until mixture starts to thicken. Pour in chicken broth and stir in cumin, oregano, and salt; let simmer until mixture thickens. Remove from heat."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix tortilla chips and tomato-chile sauce, folding carefully to cover chips completely. You may have to do this in 2 batches."
+} ,{
+"@type": "HowToStep"
+,"text": "Cover the bottom of the casserole dish with half of the chip/sauce mixture. Sprinkle a layer of Mexican cheese and cotija cheese over top. Add shredded chicken to cover all of the chips and cheese. Season chicken with salt and pepper, then sprinkle with 1/2 of the green onions and 1/2 of the cilantro. Spoon 3/4 of the sour cream evenly over top. Spread with the remaining tortilla mixture then top with remaining Mexican and cotija cheeses. Cover with aluminum foil."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until mixture is bubbly and cheese is melted, 35 to 45 minutes. Remove from the oven and let sit for 5 minutes. Serve with sour cream, green onions, and cilantro."
+} ]
+,"recipeYield": ["10"]
+,"totalTime": "PT80M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "jlnorman"
+},
+"reviewBody": "My family was very happy with this meal. However we all felt like it turned out more like chicken enchilada casserole"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marma Duke"
+},
+"reviewBody": "Total five stars! This was so good and really not difficult to make. The wife and I both love it and will definitely be making it again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Renee Stella"
+},
+"reviewBody": "This was OK. I didn't have the cojita cheese, so just used extra shredded Mexican cheese. Otherwise, followed the recipe as is. Flavor was good - kind of has an enchilada flavor, but dry. I was concerned about the tortilla chips getting mushy when covered in the sauce - so I did tossed them quickly. However, they kind of mushed together when baked - so I wasn't very fond of the texture. If it had more sauce, maybe it would be better. If I made this again, I would use fewer chips, increase the sauce and eat with a lot of salsa and sour cream. Also - if you already have shredded chicken on hand, that will save a lot of time!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "frasert2"
+},
+"reviewBody": "These are really good but also spicy. I love the spice but my family couldn't eat it. So if you don't want that much heat, maybe use one can of chili in Adobe sauce or just use Adobe sauce. They are easy to make and delicious but next time I will have to change it slightly."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "AustinCook"
+},
+"reviewBody": "Okay, I probably overdid it with the tortilla chips, and I would make the tomato sauce mixture even bigger ---- but this was a REAL HIT for my family of 7. I got lots of \"thanks for making that , Mom\" from all the kids. I used the InstaPot to pressure cook the chicken. I think that helped make it moist. I doubled the recipe. Will make again for sure."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "TAYLOR"
+},
+"reviewBody": "It sounds really good except I couldn't make it due to 2 of the ingredients not listed completely."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rebzgal"
+},
+"reviewBody": "Super easy and LOTS of flavor!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/279677/annes-chicken-chilaquiles-rojas/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/237/world-cuisine/latin-american/",
+"name": "Latin American"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/728/world-cuisine/latin-american/mexican/",
+"name": "Mexican"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/279677/annes-chicken-chilaquiles-rojas/",
+"name": "Anne&#39;s Chicken Chilaquiles Rojas"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

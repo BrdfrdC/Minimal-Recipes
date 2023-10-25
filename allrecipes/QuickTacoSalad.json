@@ -1,0 +1,587 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Quick Taco Salad"
+,"datePublished": "2020-02-26T00:51:13.000-05:00"
+,"dateModified": "2020-02-26T00:51:13.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Amy Tapscott Harvel"
+,"url": "https://www.allrecipes.com/cook/7261964"
+}
+]
+,"description": "Set out bowls of seasoned ground beef, corn chips, and all the fixings and let your guests and family members design their own taco salads at the table. Kids love it."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/XBRSwoiUZx15e1sHuIDnlQxGaNc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3839640-38fa90cd003049f2bdf70f1aa4b3e92a.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Quick Taco Salad"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "44"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "638 kcal"
+,"carbohydrateContent": "37 g"
+,"cholesterolContent": "101 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "30 g"
+,"saturatedFatContent": "16 g"
+,"sodiumContent": "1611 mg"
+,"sugarContent": "6 g"
+,"fatContent": "41 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT35M"
+,"recipeIngredient": [
+"2 pounds ground beef chuck",
+"2 envelopes taco seasoning mix",
+"1.5 cups water",
+"1 onion, chopped",
+"2 cups green leaf lettuce, shredded",
+"1 cup cherry tomatoes, halved",
+"2 cups shredded Cheddar/Monterey Jack cheese blend",
+"0.5 cup chopped black olives",
+"2 cups salsa",
+"2 jalapeno peppers, seeded and chopped",
+"1 cup sour cream",
+"1 (10.5 ounce) bag corn chips (such as Fritos®)" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Brown ground beef in a large skillet over medium heat until crumbly and no longer pink, about 10 minutes; drain excess grease. Mix in taco seasoning mix and water. Bring the beef mixture to a boil and cook until thickened, about 10 more minutes. Transfer beef to a serving bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Place chopped onion, lettuce, cherry tomatoes, Cheddar cheese, black olives, salsa, jalapeno peppers, sour cream, and corn chips in individual serving bowls. Allow diners to assemble their own salads from the ingredients."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT55M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Marcy Krehbiel Oliver"
+},
+"reviewBody": "Was delicious made a few adjustments, and will make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Samantha Vasquez"
+},
+"reviewBody": "Super easy dish! Great for sleepovers, and other get togethers."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Teri Scott"
+},
+"reviewBody": "I added taco seasoning to the hamburger, and added on taco toppings of choice- sliced jalapenos, cheese, tomatoes, lettuce, onion, black olives, sour cream, black beans, and salsa- delicious! And easy to store leftovers with everything kept separate."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Joe Tippetts"
+},
+"reviewBody": "Kids liked it. It was very fast too (abt 35 minutes)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bonart"
+},
+"reviewBody": "I've made this frequently. I've made it with tortilla chips and without and both ways are very good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This is so easy. I served this buffet style for a Daytona 500 Party. Everyone loved building their own."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pat"
+},
+"reviewBody": "I made this tonight for dinner it was delicious , but we did leave off the french dressing. I'll make it again. I'm sure my grandchildren will like it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mothabear"
+},
+"reviewBody": "I stuck to the recipe and placed the salad, the cheese, the tomatoes and the green onions then the hamburger mixture and at the end I tucked the taco chips just under the outer rim of the salad dish. It looked amazing and it was so easy to put together. I put all the other toppings in a divided dish so everyone could put on what they wanted to. This worked out very well and my salad was a hit! I will definitely make this again! Next time I will add avacado to make it authentic."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "spice of life"
+},
+"reviewBody": "This was really good. Only thing I changed was I left out the water. Served in tortilla bowls which made if fun."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Barley Mow"
+},
+"reviewBody": "I love Taco Salad for several reasons! It's quick! It's perfect for a hot summer day! It's picky-eater-friendly. It's easily remembered at the grocery store in \"threes\": tortilla chips, taco meat, cheese; lettuce, tomato, onion; 1000 Island, salsa, sour cream; black olives, black beans, diced green chilies. Yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sherii"
+},
+"reviewBody": "Corn chips or tortilla chips\r\nAdd: guacamole, avacado, cilantro, black beans, \r\nDressings: Catalina, French, 1000 Is, salsa, chichi thick &amp; chunky salsa\r\nCan serve with Spanish rice or/and retried beans"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Holiday Baker"
+},
+"reviewBody": "This was yummy, I have not had a taco salad in forever. I only had 1 lb of beef and so I made 1/2 recipe. I am not a fan of raw onions, so I decided to chop the 1/2 onion and sautee it in 1 Tblsp of safflower oil until transluscent. I then added the beef and an addition of 2 minced garlic cloves and a dash of garlic salt and black pepper. For the taco seasoning I used Penzeys Brand. It is more natural and less sodium than the packets. I used 96% lean ground beef from Trader Joes. I layered the bowls with torn lettuce from a bag of butter lettuce and radicchio mix also from TJ's. Then added about 5 broken ranch flavored tostado rolls chips, 1/4 chopped tomato, a tblsp or so of lite sour cream, 2-3 sliced olives, about 2 Tblsp of sharp cheddar cheese, 2-3 tblsp of medium Chi Chis brand bottled thick and chunky salsa. After that I layered 1/6 of the cooked meat and onion mixture, then topped that with about a tblsp more sharp cheddar and 2 tblsp more med salsa. This was so delicious. I did have to write down all of the precise measurements because I calculate calories currently. Made as is 1 bowl came to about 305 calories. That is fantastic. Thanks"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "*Sherri*"
+},
+"reviewBody": "When the weather gets hot this is one our favorite quick easy meals, each person can put their own favorite toppings on top. I like mine on Doritos, while the other half likes the Fritos. I made the 'Avocado Ranch Salad Dressing' from this site for the dressing this time, usually we just top with a dollop of sour cream."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laura"
+},
+"reviewBody": "How can you go wrong with this recipe? It's perfect the way it is but can easily be customized to include things you like and exclude things you don't like. Next time I'm going to try making it with refried beans instead of beef."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Cathy"
+},
+"reviewBody": "I had to make a lot of adjustments. I cut the recipe in half. Omitted olives, cheese, sour cream,jalapeno peppers and organic taco chips. I used Romaine lettuce and low sodium taco seasoning."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "April Ard Louviere"
+},
+"reviewBody": "Love! This was a quick and awesome recipe. I added some avocado and it was amazing.. I would make again! Yummy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Tanya Detmer"
+},
+"reviewBody": "This is the recipe I use and it is delicious. The only reason I gave it 4 stars instead of 5 is because I ALWAYS add refried beans to mine and this makes it taste 100% better in my opinion. Also, as for the onion...I fry it up in the hamburger to \"hide\" it so my 7 year old will eat it and doesn't even know they're in there."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lorahbee"
+},
+"reviewBody": "Good, but would be even better with the addition of a can of black beans and a side of homemade pico de gallo."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Judi London"
+},
+"reviewBody": "I have done this for years....but we call them taco boats. The ingredients in a bowl with the chips around the edge.....hence....the boat......yummm. JAL"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Atreyuu2003"
+},
+"reviewBody": "This recipe is absolutely delicious! Tried it tonight, and I love it. My wife loves it, and grown-up kids and their families love it, too. I had forgotten all about this recipe over the years. Thank you for posting it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tori"
+},
+"reviewBody": "I substituted Doritos for the chips and it was PERFECT!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CookinLovin"
+},
+"reviewBody": "I have been making this for many years now, but instead of using corn chips, I make taco shell bowls out of burrito sized flour tortillas and serve it with taco sauce on the side like a salad dressing. Just use oven safe small bowls (soup size works best), invert them on a cookie sheet (only 4 will fit each sheet), spray them very lightly with oil and place a tortilla over each bowl. Bake at 350 degrees for about 8 - 10 minutes. Let cool for about 2 minutes then remove the shell from the bowl and continue to cool a few more minutes on a rack. The tortillas will take on the shape of the inverted bowl while baking. They are light and crispy and I think taste much better than corn chips."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Monica"
+},
+"reviewBody": "When I make taco salad I like to use the tortilla bowls, I add black beans, corn and \n salad dressing. This will probably be the menu tonight :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "joday"
+},
+"reviewBody": "The original recipe for this came out in the 70's, I believe, and I think it was published by the folks who introduced Catalina salad dressing - the dressing the original recipe calls for using. It is delicious on it! Also, French and 1000 Island. And the original recipe also uses a can of drained kidney beans. We like black beans or Ranch style. Such a great recipe! I never buy taco seasoning...usually just add what I have on hand, garlic powder, cumin, chili powder, all the things in taco seasoning anyway - and less expensive. You can also add salsa to the meat after it is browned. Doing that with tacos also helps your meat to bind together and not fall out."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "It's All Good!"
+},
+"reviewBody": "Isn't it funny, every thing old is new again. I set this out for my children,now close to 50, and we had fun. It was usually when we were running from baseball,softball,and orthodontist all in one day. Ah the memories! ALWAYS MAKE HAPPY MEMORIES, when you get to my age you can sure use them!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bunola"
+},
+"reviewBody": "We have done this so many times. I include chopped avocado and black beans. You can use re-fried beans. Often I use it when we have company here. They are so easy, so filling. We call it Macho Taco or Haystack... It is also very popular at church potluck. EVERYONE loves it. What's so nice about this one is that they can assemble their own meal. Side dish would be Mexican Rice and tortilla and/or corn chips with salsa/sour cream dip. You can crunch the chips on top of them for crunchy meal. Try it and you will like it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Grams"
+},
+"reviewBody": "The taste is fantastic. I use low sodium taco seasoning, unsalted chips and half the black olives."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gail Cobile"
+},
+"reviewBody": "Found your recipe sometime ago and after scaling it down to 2, DH and I loved the ease of prepping a simple but very tastey weekend meal. When the grand kids (10, 12 &amp; 16) were here enjoying a taco supper (with all your trimmings!) they had several taco shells break and then piled what was left of the tortilla with more trimmings and we haven't looked back for another taco night. This does it all. Super delicious and everyone gets to do it themselves. Great for me and fun for the kids!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DIZ&#9829;"
+},
+"reviewBody": "We eat a lot of taco salads during the winter months because they are warm and filling. I don’t think you can mess up a taco salad no matter what recipe you use. They all have the same basic ingredients and it really comes down to personal taste as to what you add and subtract. In an effort to clean out the fridge, I added pinto beans and green peppers to the meat and used up a bag of fresh spinach by mixing it with the lettuce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah Jo"
+},
+"reviewBody": "I used a homemade taco seasoning mix and V-8 instead of water in the taco meat and homemade salsa and reduced fat sour cream for the salad. This was great for us because each of us could make our salad the way we want it and it's a nice change up from your typical taco night. I made mexican rice and refried beans to go with."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "~TxCin~ILove2Ck"
+},
+"reviewBody": "This is a wonderful build it like you like it dinner. I made this for just us, but it would be easy to scale for a large crowd and great for a party food. As it is it's the perfect summer night dinner when you don't want to heat up the kitchen cooking a lot and don't want a heavy hot meal. I used tortilla chips and didn't have shredded cheese so I just used a can of condensed spicy cheese soup heated up. I did top my salad with some homemade guacamole as well. This is easy to customize to what you have on hand and suit to personal preferences. Great summer recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hapygrl"
+},
+"reviewBody": "I love this for its ease and taste! The Ground Round restaurant used to make one just like this and serve it in a giant edible shell.Wonder if I can find a recipe for those."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christina"
+},
+"reviewBody": "I love having 'assemble your own taco salads' for dinner! It puts less work on me trying to remember who likes what, and I find that my little guy (or any kids for that matter) will eat more if he makes it the way he wants it. Super simple and fun! :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Ahhh, someone after my own heart! Have done this since I moved away from home four decades ago with leftovers from Build Your Own Taco meals. Many who I serve to don't like taco seasoning so opt to use plain ground meat instead. Besides ground beef or chicken try pork because it's tasty too. And simply 'must' add diced avocado that has been tossed in lemon or lime juice and some fresh chopped cilantro to the ingredient list too"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "boltsbaby"
+},
+"reviewBody": "Love taco salad (and I just HAPPEN to have a LOT of taco seasoning right now). LOL - I have young ones too and it is nice when they actually like the meal! Thanks for posting!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/221915/quick-taco-salad/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/96/salad/",
+"name": "Salad"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17534/salad/taco-salad/",
+"name": "Taco Salad Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/221915/quick-taco-salad/",
+"name": "Quick Taco Salad"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,399 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Turkey Giblet Gravy"
+,"datePublished": "2019-04-03T23:54:02.000-04:00"
+,"dateModified": "2023-01-17T21:19:14.531-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Bryn Audrey"
+,"url": "https://www.allrecipes.com/cook/10154834"
+}
+]
+,"description": "Turkey giblets and savory pan drippings from your roasted turkey make the most delicious turkey gravy to drizzle over all your Thanksgiving sides!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/gsdfdvFAwXOFZu1_qCnyDsyC4cA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/229958-turkey-giblet-gravy-DDMFS-4x3-1-70ad1ff549764d2097662124794935fc.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Turkey Giblet Gravy"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.2",
+"ratingCount": "25"
+}
+,"cookTime": "PT75M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "324 kcal"
+,"carbohydrateContent": "6 g"
+,"cholesterolContent": "141 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "7 g"
+,"saturatedFatContent": "9 g"
+,"sodiumContent": "32 mg"
+,"sugarContent": "0 g"
+,"fatContent": "30 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 package of giblets and neck from turkey, excluding liver",
+"4 cups water",
+"0.5 cup cold water",
+"6 tablespoons cornstarch",
+"1 cup turkey drippings",
+"1 large hard-cooked egg, chopped",
+"salt and ground black pepper to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine turkey giblets, neck, and 4 cups water in a saucepan; bring to a boil. Reduce heat to low and simmer until broth is reduced to 3 cups, about 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Strain broth and reserve 1/2 cup of giblets."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk 1/2 cup cold water and cornstarch together in a small bowl until smooth."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine strained broth and turkey drippings in a saucepan over medium heat. Whisk in cornstarch mixture and bring to a boil."
+} ,{
+"@type": "HowToStep"
+,"text": "While broth is coming to a boil, finely chop giblets."
+} ,{
+"@type": "HowToStep"
+,"text": "Reduce heat to low; stir chopped giblets and hard-cooked egg into the gravy and season with salt and black pepper. Simmer until gravy is thickened, about 5 minutes."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT90M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joe"
+},
+"reviewBody": "Loved it. No changes made or desired."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alain DeWitt"
+},
+"reviewBody": "Very easy to make and the result was delicious! Like some of the other reviewers, I lightened up on the cornstarch, but other than that, a snap!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "webanks42"
+},
+"reviewBody": "This was supper easy and extremely yummy!! I never made or ate turkey giblets gravy before and I will definitely eat this and make it again??"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MommasitaB"
+},
+"reviewBody": "I’ve made this the last few years as written except I do not strain the broth since it is gravy. My family loves the flavor. While I use my grandmother’s cornbread dressing I’ve ditched her gravy recipe for this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ken"
+},
+"reviewBody": "I followed this recipe to a T and it is delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle Becerra"
+},
+"reviewBody": "An amazing gravy! I am one who consistently fails every time I try to make gravy! It was delicious and everyone loved it!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Easy to make and a great recipe!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Patty Robinson"
+},
+"reviewBody": "I think the starch should be cut in half. I usually follow all directions the first time and the taste was great but I like my gravy a little more runny..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Pam"
+},
+"reviewBody": "I followed recipe exactly, big mistake. The amount of cornstarch was too much making the \"gravy\" very gelatinous and runny at the same time, like a jello soup. Thanks but no thanks, I will go a different route next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bob bobbinson"
+},
+"reviewBody": "I am a Giblet fan now..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jenny Burns"
+},
+"reviewBody": "This recipe was easy and very tasty! I went with the advice of another post and used 3tsp of cornstarch instead. As the gravy sits, it thickens. It was great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Paula"
+},
+"reviewBody": "After reading reviews, I adjusted the cornstarch. So it was not super thick, like my grandmother’s, but it had the wonderful flavor I remember."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "peterd"
+},
+"reviewBody": "Seemed a little heavy on the corn starch. I am thinking this is the cause of some of the negative comments. I backed it off to 4 tablespoons and was much more like gravy as I know it. Will try 3 tablespoons next time. Also, the water quality makes a difference. I now use Reverse Osmosis purified water(I have an RO system). Makes a difference in many dishes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Nick Therrien"
+},
+"reviewBody": "This turned into a gelatinous mess. Tasted ok, but felt like a film of it was stuck to my palate until the next morning."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Adam Rodgers"
+},
+"reviewBody": "Followed directions but it turned out extremely gelatinous. Taste was ok but couldn't eat it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Grammy"
+},
+"reviewBody": "This was the best giblet gravy I have ever tasted. My family has never consumed my giblet gavy in the past. This one they ate every bit of it and were wishing for more. It made a medium sized bowl full of gravy. I'll double it next year so there will be plenty for my very large family."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "artwithaB"
+},
+"reviewBody": "I didn't have corn starch at home so I used potato meal. I didn't measure anything, but it turned out great! Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Chris D"
+},
+"reviewBody": "Love the receipt, had all the ingredients needed in the pantry. This was my first time ever making giblet gravy and it turned out good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Biggene151"
+},
+"reviewBody": "simple creamy and delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LilNCBrat"
+},
+"reviewBody": "This recipe is easy and delicious. I usually leave out the hard boiled egg however."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/229958/turkey-giblet-gravy/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/916/side-dish/sauces-and-condiments/gravy/",
+"name": "Gravy Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16857/side-dish/sauces-and-condiments/gravy/turkey-gravy/",
+"name": "Turkey Gravy Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/229958/turkey-giblet-gravy/",
+"name": "Turkey Giblet Gravy"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

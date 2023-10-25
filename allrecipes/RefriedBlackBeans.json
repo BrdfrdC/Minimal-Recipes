@@ -1,0 +1,370 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Refried Black Beans"
+,"datePublished": "2018-06-08T10:20:17.000-04:00"
+,"dateModified": "2022-12-16T11:47:18.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "dmvanask"
+,"url": "https://www.allrecipes.com/cook/3642223"
+}
+]
+,"description": "This recipe for homemade refried black beans with plenty of green chiles and seasoning is easy to make and tastes much better than the canned version."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/I4FdrjB0TA0beMPz0nIYUATkLKg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4055323-e7643edba7b24f858207fbe6aa362f09.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Refried Black Beans"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.4",
+"ratingCount": "23"
+}
+,"cookTime": "PT80M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "255 kcal"
+,"carbohydrateContent": "46 g"
+,"fiberContent": "11 g"
+,"proteinContent": "15 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "272 mg"
+,"sugarContent": "4 g"
+,"fatContent": "2 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"4 cups dry black beans",
+"1 tablespoon cooking oil",
+"1 cup diced onion",
+"2 cloves garlic, minced",
+"1 cup chopped green chiles",
+"1.5 tablespoons chili powder",
+"1 teaspoon ground cumin",
+"1 (6 ounce) can tomato paste",
+"0.25 cup chicken broth",
+"1 tablespoon cider vinegar",
+"salt to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place black beans into a large container and cover with several inches of cool water; let stand 8 hours to overnight. Drain."
+} ,{
+"@type": "HowToStep"
+,"text": "Place beans in a pot and add enough water to cover; bring to a boil. Reduce heat to medium-low and simmer beans until very tender, about 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat oil in a skillet over medium; cook and stir onion and garlic until onion is soft and translucent, about 10 minutes. Add black beans, green chiles, chili powder, and cumin; cook and stir until flavors blend, about 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Blend black bean mixture in a food processor until smooth. Add tomato paste, chicken broth, vinegar, and salt; blend until desired consistency is reached. Return beans to pot and cook until heated through, about 5 minutes more."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT575M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chuck"
+},
+"reviewBody": "Many ways to make this yours, but this is a solid delicious recipe to work with. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Elise Wolff Goldstein"
+},
+"reviewBody": "Soooooo delicious and healthy! Skipped the oil and the blender - simply simmered with poblanos and onions in a frying pan - YUM!! Can't wait to make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cris T"
+},
+"reviewBody": "Delicious! Followed most of the recipe- modifications: two cans of black beans, vegetable broth (our son is a vegetarian)and tomato purée. So good! Will not be buying canned refried beans again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cookin4myboys"
+},
+"reviewBody": "DELICIOUS I had beans a friend had cooked in freezer. Used about 2 cups of them and adjusted the seasoning accordingly. Did not use chicken broth but did add in a bit of the beans juice. Also used Tapatio sauce instead of chili’s. We’re in the midst of CoVid19 and was only going to use what’s on hand. Made a great dip for my lunch."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Eliza"
+},
+"reviewBody": "A big hit at a church gathering! My husband added some hot sauce to his bowl and it added some bite to it if you like it a bit spicier."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "david"
+},
+"reviewBody": "i'll make it again and again but again will add lard for the oil; bacon matter of factly and not so many onions thank you"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "GMT"
+},
+"reviewBody": "Perfect for us . I would not change a thing. It’s a keeper"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Radiorun"
+},
+"reviewBody": "First of all, this recipe makes enough beans to serve an army. Keep that in mind. I cut it in half and still had oodles. I tried doing it without the aid of a food processor. Those beans are harder to mash than they look."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "day"
+},
+"reviewBody": "This is a very good recipe I did not give it 5 stars because it was slightly lacking in flavor. Very grateful however for the creativeness."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MF929"
+},
+"reviewBody": "I made this for a group of people I didn't know well and was a but worried but wow they were gone and I got lots of compliments !"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "thatshannongirl07"
+},
+"reviewBody": "i use serrano chiles instead of green chiles to give it a little more spice. this recipe can also be used to make pinto beans and it is just as delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Buckwheat Queen"
+},
+"reviewBody": "This recipe is flawless. The ingredients, their amounts, and cooking times are right on. You can freeze some before you mash them and they work perfectly! Thank you for the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lynn Corbaley"
+},
+"reviewBody": "Awesome recipe. I modified it a bit, chiefly by using black beans. I added in seasoned cooked ground turkey for a great taco salad/burrito ready made mix. I store some in fridge and some in freezer in meal sized packets. Thanks so much!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marge"
+},
+"reviewBody": "this is time intensive but worth it.\nit has nice flavor and a zippy kick at the end, so if you don't like spicy you may want to tone it down a bit.\nserving it with a little sour cream did the trick for me.\ni also added a little grey sea salt after cooking was complete."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michael Flaherty"
+},
+"reviewBody": "Turned out great and was easy to make. I like to cook my tomato paste a little so I added before the beans."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SZYQ1"
+},
+"reviewBody": "Excellent recipe! Amazing difference using fresh beans instead of canned and much better flavor than what is usually served at a restaurant! I found that I needed to slowly add more liquid (broth) when trying to blend the beans and to get them to the consistency we wanted. I left the beans simmering on low while other dishes were finishing and simply added a little more liquid when they seemed to be drying out a little. Thanks for sharing the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nancy K"
+},
+"reviewBody": "Thank you for sharing this recipe. It is better and healthier than canned refried black beans. I made it twice already and is delicious every time. Since I like mine seasoned more, I used 3 cups of dried black beans (instead of 4 cups) and used the remaining ingredients as stated above for 4 cups. I used a hand blender to emulsify the beans instead of a food processor so I can control the consistency better. In addition, I added about half a cup of the reserve water to slightly thin out the emulsified beans."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cheerios"
+},
+"reviewBody": "I made this Refried Black Bean recipe Activity #4 in the Spring Bling event 2015. It is really easy to make with minimal work and great results for your efforts. I accidentally used Kidney Beans instead of Black Beans but I think it is still worthy of a 5 star rating on allrecipes."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/241714/refried-black-beans/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+"name": "Side Dish"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/220/side-dish/beans-and-peas/",
+"name": "Beans and Peas"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/241714/refried-black-beans/",
+"name": "Refried Black Beans"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,202 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Green Minestrone"
+,"datePublished": "2020-03-09T22:51:51.000-04:00"
+,"dateModified": "2022-01-07T10:51:47.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Melanie C."
+,"url": "https://www.allrecipes.com/cook/1747473"
+}
+]
+,"description": "Give the traditional minestrone soup a green twist by leaving out the tomatoes and adding green beans, peas, and parsley for a fresh Italian-inspired soup."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/hjTgafUgih5sievyw4d72amd5iA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1949674-d8659cef9a934811ba89526bdbf2b135.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Green Minestrone"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "6"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "348 kcal"
+,"carbohydrateContent": "49 g"
+,"cholesterolContent": "6 mg"
+,"fiberContent": "10 g"
+,"proteinContent": "16 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "916 mg"
+,"sugarContent": "10 g"
+,"fatContent": "10 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"2 tablespoons olive oil",
+"1 white onion, chopped",
+"2 cloves garlic, pressed",
+"1.5 cups frozen cut green beans",
+"1 cup frozen peas",
+"2 large zucchini, chopped",
+"10 cups vegetable broth",
+"0.5 teaspoon minced fresh rosemary",
+"2 cups cooked great Northern beans",
+"0.75 cup ditalini pasta",
+"0.5 cup minced fresh parsley",
+"0.5 cup grated Parmesan cheese",
+"salt and freshly ground black pepper to taste",
+"1 tablespoon extra-virgin olive oil, or as needed" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat 2 tablespoons olive oil in a heavy-bottomed pot over medium-high heat; cook and stir onion and garlic until onion is translucent, about 10 minutes. Add green beans, peas, and zucchini; toss to coat vegetables with oil."
+} ,{
+"@type": "HowToStep"
+,"text": "Slowly stream vegetable broth into vegetable mixture; bring to a simmer over medium heat. Stir in rosemary and great Northern beans and bring back to a simmer, about 5 minutes. Add ditalini pasta and simmer soup until pasta is tender but firm to the bite and soup has thickened, 10 to 15 minutes. Remove from heat; stir in parsley."
+} ,{
+"@type": "HowToStep"
+,"text": "Ladle soup into serving bowls and top each serving with 1 heaping tablespoon Parmesan cheese; season with salt and black pepper. Garnish soup with a drizzle of extra-virgin olive oil."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT50M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "BRG"
+},
+"reviewBody": "Not super flavorful."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bryn Flohrschutz"
+},
+"reviewBody": "So good!!! I only had 3 cups chicken stock, so I used that plus 3 cups water. Soup came out perfect, chunky and delicious! My husband said it’s his new favorite and my 5 year old inhaled it!!! Serve with crusty bread."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Barbara Adamczyk"
+},
+"reviewBody": "This is really good, and fairly simple to make. I used a good vegetable bullion, as the author recommended, and omitted the salt. Couldn't find the correct pasta, so used salad macaroni which worked fine. One note: 10 minutes at medium high heat was much too much for the onion and garlic (the mixture started to brown after 5 minutes at medium, at which point I proceeded with the rest of the recipe). Healthy and very tasty!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nick B"
+},
+"reviewBody": "Very good, fresh-tasting take on minestrone. I used white kidney beans and vegetable bullion in water since that's what I had on hand. The fresh herbs brought a lot of flavor to the simple broth I used."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Soup Loving Nicole"
+},
+"reviewBody": "This was a really nice change from the ordinary tomato based minestrone. I made as written except that I waited until the last five minutes to drop my zucchini in because I like it crisp. The next time I make this I will wait to put the peas and green beans in then too but that is just a personal preference. I find this works better for me when the leftovers are reheated as well. All the veggies hold their bright green color that way. This one is a keeper!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/229506/green-minestrone/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/184/soups-stews-and-chili/soup/vegetable-soup/",
+"name": "Vegetable Soup Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17038/soups-stews-and-chili/soup/vegetable-soup/minestrone/",
+"name": "Minestrone"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/229506/green-minestrone/",
+"name": "Green Minestrone"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

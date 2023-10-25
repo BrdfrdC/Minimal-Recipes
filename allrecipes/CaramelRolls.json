@@ -1,0 +1,207 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Caramel Rolls"
+,"datePublished": "2020-06-19T00:25:00.000-04:00"
+,"dateModified": "2022-10-26T19:41:35.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "HungerGames12"
+,"url": "https://www.allrecipes.com/cook/10430548"
+}
+]
+,"description": "Easy caramel rolls filled with butter and cinnamon and topped with a sweet, gooey pecan sauce will make your holiday breakfast memorable and special."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/0oDfW2CybDW5Rb25lRnCxmKxgak=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/931717-0c0b55bb611f41fcae506f12dece3c76.jpg",
+"height": 250,
+"width": 250
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Caramel Rolls"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.4",
+"ratingCount": "5"
+}
+,"cookTime": "PT25M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "251 kcal"
+,"carbohydrateContent": "34 g"
+,"cholesterolContent": "26 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "4 g"
+,"saturatedFatContent": "6 g"
+,"sodiumContent": "178 mg"
+,"sugarContent": "14 g"
+,"fatContent": "12 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT45M"
+,"recipeIngredient": [
+"0.75 cup water",
+"2 tablespoons butter",
+"2 cups white bread flour",
+"2 tablespoons white sugar",
+"1.5 tablespoons nonfat dry milk powder",
+"1 teaspoon fast-rising dry yeast",
+"0.5 teaspoon salt",
+"0.5 cup brown sugar",
+"0.25 cup light corn syrup",
+"0.25 cup butter",
+"0.25 cup chopped pecans",
+"0.25 cup butter, softened",
+"0.5 teaspoon ground cinnamon" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Make dough: Combine water, butter, bread flour, white sugar, milk powder, yeast, and salt, in that order, in the bucket of a bread machine. Select the Dough cycle. Remove dough from the machine after the cycle is done, about 1 hour 45 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, make sauce: Combine brown sugar, corn syrup, and butter in a saucepan over medium heat. Cook and stir until sugar is dissolved, about 3 minutes. Pour sauce into an 8-inch square baking pan. Sprinkle with pecans and set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Fill dough: Turn dough out onto a floured surface, punch it down, and roll into an 8x12-inch rectangle. Dot with butter and sprinkle with cinnamon. Roll up and pinch seams together. Slice roll into 9 equal pieces, about 1 1/3-inches thick; place cut-side down into the baking pan on top of pecans. Set aside until rolls are doubled in size, about 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 375 degrees F (190 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake rolls in the preheated oven until golden brown, 20 to 25 minutes. Cool in the pan for no more than 3 minutes; invert a serving platter on top of the pan, then turn over. Carefully remove the pan to release rolls and allow pecan sauce to flow over rolls."
+} ]
+,"recipeYield": ["9"]
+,"totalTime": "PT180M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "saillak51"
+},
+"reviewBody": "Did my dough in a stand mixer, set aside 2 double in size, also added little brn sugar 2 my cinnamon/butter filling, then I made them as stated in step 3 thru finale of flippin 2 eat Turned out really good Thinking of trying buttermilk 4 H2O next time 2 C outcome of final rolls Thanks"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Nancy"
+},
+"reviewBody": "The caramel got hard. I followed directions, cooking until sugar melted. Tasted good just the caramel was quite chewy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer Carrigan"
+},
+"reviewBody": "Chewy, gooey, perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lois Hanson"
+},
+"reviewBody": "Loved it! I did make 9 rolls only. My husband likes alot of caramel so I increased sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kristen Jones"
+},
+"reviewBody": "These are wonderful caramel rolls! I chose this recipe as it made a smaller amount (but can easily be doubled for company) and it used a bread maker. The rolls are extremely tender and just the right sweetness without being too sweet. They also keep their freshness over several days when well covered. Just pop one into the microwave for 20-30 seconds to warm. I did need to use about 2 1/2 cups flour (instead of 2 cups) and I substituted milk for the water as I didn't have the powdered milk. The recipe should say that it makes 9 servings. Cut the rolled dough into 9 equal pieces which fit perfectly into an 8x8 pan. This recipe is definitely a keeper! Thank you!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/260902/caramel-rolls/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/156/bread/",
+"name": "Bread"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/339/bread/yeast-bread/",
+"name": "Yeast Bread Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/260902/caramel-rolls/",
+"name": "Caramel Rolls"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

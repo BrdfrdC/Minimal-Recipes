@@ -1,0 +1,329 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Instant Pot Steel-Cut Oats"
+,"datePublished": "2019-04-04T00:11:42.000-04:00"
+,"dateModified": "2022-09-23T13:05:07.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "MoMosGoGo"
+,"url": "https://www.allrecipes.com/cook/momosgogo"
+}
+]
+,"description": "Make steel-cut oats in an Instant Pot with this delicious recipe that has the perfect oat-to-water ratio for a chewy, nutty, nutritious breakfast."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/cOStbdfspGUuok9a_WCyCMYrK_E=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5793418-189a8dcfb43945a08d0c7aa3658a4408.jpg",
+"height": 948,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Instant Pot Steel-Cut Oats"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "16"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "300 kcal"
+,"carbohydrateContent": "54 g"
+,"fiberContent": "8 g"
+,"proteinContent": "10 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "11 mg"
+,"sugarContent": "2 g"
+,"fatContent": "5 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"3 cups water",
+"1 cup steel-cut oats" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine water and oats in a multi-functional pressure cooker (such as Instant Pot). Close and lock the lid. Select high pressure according to manufacturer&#39;s instructions; set timer for 3 minutes. Allow 10 to 15 minutes for pressure to build."
+} ,{
+"@type": "HowToStep"
+,"text": "Release pressure using the natural-release method according to manufacturer&#39;s instructions, 10 to 40 minutes. Oats will thicken as they cool."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT30M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "elfcook"
+},
+"reviewBody": "I have used this recipe for years and it’s perfect! Tip: spray your insert with non stick cooking spray for easier clean up. I mix in golden raisins and sliced bananas along with real maple syrup. Keeps very well in the fridge and reheats to fresh consistency with a little milk or water in the microwave."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chick Lignell"
+},
+"reviewBody": "Super simple and really good. I was able to get some out of the fridge each morning for a quick breakfast."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joannecz"
+},
+"reviewBody": "Soooo easy. Fast. And yummy!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "devery"
+},
+"reviewBody": "My daughter definitely prefers SC Oats when they are prepared in the Instant Pot. She likes the taste and texture better from the Instant Pot vs stovetop or rice cooker. I like that it is super easy to prepare and possibly slightly faster to make in the Instant Pot. I add cinnamon, butter and 1 or 2 tablespoons of brown sugar. For a creamier result, I use milk instead of water."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Fozzie"
+},
+"reviewBody": "I used 4 cups of water which absorbs as it's allowed to cool for a few minutes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I used this recipe to prepare my oatmeal yesterday and it was perfect for me."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CathyM"
+},
+"reviewBody": "Turned out great. Just added some half 'n half, cinnamon and brown sugar. So easy--no stirring or sticking."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mom"
+},
+"reviewBody": "This is a great simple recipe. I usually make a batch on Sunday and put them in individual jars to make morning breakfast a breeze. I add the toppings when I warm them up since each kid likes different oatmeal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Peggy Cox"
+},
+"reviewBody": "I added 4 cups water to 1 cup steel cut oats because that was ratio on the package. Excellent results! It was a little \"watery\" until I blended it together. The pressure cooker is definitely the way to go when preparing steel cut oats!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mrs Gonzo"
+},
+"reviewBody": "SO EASY!!!! Oats do not get mushy at all in the Instant Pot - really good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cindylouwho"
+},
+"reviewBody": "Perfect consistency! I added a bit of salt in the water and then after it was cooked, served it with a bit of brown sugar and fresh cut bananas. VERY TASTY!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Petra"
+},
+"reviewBody": "Came out pretty well. I added 3 Tablespoons of brown sugar , only 2 cups of water and 1 cup of sugar free almond milk. Pretty tasty and like the texture."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "zaanodes"
+},
+"reviewBody": "New to Instant Pot. First time cooking oats in it. Oats came out great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tammy Lynn"
+},
+"reviewBody": "For me, this is the perfect method for IP steel-cut oats. This is so much easier than stove top, I now make them much more often than I used to. The liquid to oats ratio is the right consistency for me. And the time of 3 minutes is perfect. Other recipes call for 5 min or even up to 15 min! The oats start sticking to the pot after 5 minutes. They might seem a bit watery at first, but they thicken quickly. And you can put your add-ins right in the pot if you'd like. If your IP isn't done releasing pressure after 10 minutes, you can go ahead and release it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sanzoe"
+},
+"reviewBody": "This was cooked perfectly! Trying to eat healthier just got a lot easier. The oatmeal was tender but not mushy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Paula"
+},
+"reviewBody": "The ratio of liquid to steel-cut oats is perfect. So, I consider this a basic starting point recipe especially since salt and sweetener are omitted. I used 1 cup almond milk and 2 cups water (as the submitter suggested in the cook's notes). I also added chopped apples and cinnamon to top the oatmeal."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/263512/instant-pot-steel-cut-oats/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/145/breakfast-and-brunch/cereals/",
+"name": "Cereals"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1315/breakfast-and-brunch/cereals/oatmeal/",
+"name": "Oatmeal Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/263512/instant-pot-steel-cut-oats/",
+"name": "Instant Pot Steel-Cut Oats"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

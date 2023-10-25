@@ -1,0 +1,203 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Slow Cooker Cheesy Hash Brown Potatoes"
+,"datePublished": "2018-10-20T02:07:06.000-04:00"
+,"dateModified": "2023-01-12T11:57:55.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "KHardy"
+,"url": "https://www.allrecipes.com/cook/16653420"
+}
+]
+,"description": "This cheesy crockpot hash brown casserole is an easy, tasty recipe that&#39;s great for potlucks and game-day parties — made right in a slow cooker."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/ORBdNWC_Lz_h1aPh65ISTh3GyHU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5900957-e71cd84f544a441c91b6bbabfb96577e.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Slow Cooker Cheesy Hash Brown Potatoes"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.2",
+"ratingCount": "6"
+}
+,"cookTime": "PT240M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "336 kcal"
+,"carbohydrateContent": "21 g"
+,"cholesterolContent": "58 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "9 g"
+,"saturatedFatContent": "16 g"
+,"sodiumContent": "655 mg"
+,"sugarContent": "0 g"
+,"fatContent": "29 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 (30 ounce) package frozen shredded hash brown potatoes",
+"0.5 cup butter, melted",
+"2 (10.5 ounce) cans condensed cream of chicken soup",
+"0.75 cup sour cream",
+"2 cups shredded Cheddar cheese" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place frozen hash browns in a slow cooker. Pour melted butter over hash browns. Pour in condensed soup and sour cream, stirring between each addition. Add Cheddar cheese."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook on Low for 4 to 5 hours. Stir mixture after 2 hours of cooking."
+} ]
+,"recipeYield": ["10"]
+,"totalTime": "PT250M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kari"
+},
+"reviewBody": "It is requested at all potlucks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Laurey Rinehart Medvick"
+},
+"reviewBody": "Too greasy, overly cheesy. Didn't care for this recipe at all."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Very good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "It was very good and nice and creamy. Willing definitely make it again. After it got done cooking it in the slow cooker I turned the temperature down to warm and after about 2 hours it is still hot. Yummy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shelly"
+},
+"reviewBody": "This was super easy to make! I thawed my hash browns out in the refrigerator and I would say a little less butter because they were kinda greasy unless one likes that."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Sharon Wolfe Speicher"
+},
+"reviewBody": "I have made this using a different recipe for the crock pot and as a casserole. 2 cans of soup made it to soft and runny. Won’t use this recipe again."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/268693/slow-cooker-cheesy-hash-brown-potatoes/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/917/side-dish/potatoes/",
+"name": "Potato"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1549/side-dish/potatoes/hash-brown-potatoes/",
+"name": "Hash Brown Potato Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/268693/slow-cooker-cheesy-hash-brown-potatoes/",
+"name": "Slow Cooker Cheesy Hash Brown Potatoes"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,125 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Best Chicken Panini"
+,"datePublished": "2020-09-17T03:06:54.000-04:00"
+,"dateModified": "2020-09-17T03:06:54.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "thedailygourmet"
+,"url": "https://www.allrecipes.com/cook/thedailygourmet"
+}
+]
+,"description": "These panini sandwiches are simply the best featuring chicken strips, mozzarella cheese, bacon, pesto, tomato, and avocado."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/ehsz4PbZqfWu6WR9mEA9AC9Fw1Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8550828-09e000c977f74e778c2220fb47b68221.jpg",
+"height": 2666,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Best Chicken Panini"
+,"cookTime": "PT25M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "683 kcal"
+,"carbohydrateContent": "37 g"
+,"cholesterolContent": "184 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "44 g"
+,"saturatedFatContent": "17 g"
+,"sodiumContent": "1815 mg"
+,"sugarContent": "3 g"
+,"fatContent": "40 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"10 slices sourdough bread",
+"10 teaspoons butter",
+"1 (22 ounce) package grilled chicken strips",
+"1 (2.5 ounce) package precooked bacon",
+"1 (8 ounce) ball fresh mozzarella cheese, thinly sliced",
+"1 medium avocado, peeled and thinly sliced",
+"1 medium Roma tomato, sliced",
+"5 teaspoons fresh basil pesto" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat a panini grill on the highest setting. Brush 2 pieces of bread with butter. Assemble panini with chicken, bacon, and mozzarella. Lower panini press. Cook until bread is golden and cheese is melted, about 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Carefully separate bread and add in some sliced avocado, tomato, and pesto. Repeat above steps for additional panini sandwiches."
+} ,{
+"@type": "HowToStep"
+,"text": "Reassemble sandwiches and cut in half. Serve immediately."
+} ]
+,"recipeYield": ["5"]
+,"totalTime": "PT35M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/281664/best-chicken-panini/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/251/main-dish/sandwiches/",
+"name": "Sandwich Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1032/main-dish/sandwiches/chicken/",
+"name": "Chicken"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/281664/best-chicken-panini/",
+"name": "Best Chicken Panini"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

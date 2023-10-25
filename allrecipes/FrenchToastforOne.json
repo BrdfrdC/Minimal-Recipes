@@ -1,0 +1,219 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "French Toast for One"
+,"datePublished": "2019-08-09T01:47:26.000-04:00"
+,"dateModified": "2021-03-24T15:23:39.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "RAZZZYRENATA"
+,"url": "https://www.allrecipes.com/cook/1361453"
+}
+]
+,"description": "This French toast covered in maple syrup and cinnamon makes a tasty, quick breakfast that&#39;s perfect when you&#39;re cooking for one."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/R-BfXib5skSjgGNph4rdchfQP8w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9109744-4ce590faa5714169b3c752d14113072d.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "French Toast for One"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4",
+"ratingCount": "8"
+}
+,"cookTime": "PT5M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "481 kcal"
+,"carbohydrateContent": "61 g"
+,"cholesterolContent": "169 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "12 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "790 mg"
+,"sugarContent": "30 g"
+,"fatContent": "21 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"0.25 cup milk",
+"1 egg",
+"0.125 teaspoon salt",
+"0.125 teaspoon vanilla extract",
+"2 thick slices bread",
+"1 tablespoon olive oil",
+"2 tablespoons maple syrup",
+"1 pinch ground cinnamon" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine milk, egg, salt, and vanilla extract in a shallow bowl. Dip both sides of each piece of bread in egg mixture."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat a large frying pan over medium-low heat. Add oil to the hot pan and cook both pieces of toast until lightly browned, 2 to 3 minutes per side. Top with maple syrup and sprinkle with cinnamon."
+} ]
+,"recipeYield": ["1"]
+,"totalTime": "PT15M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Changes made for delicious breakfast: Used heavy cream instead of milk Added pinch of brown sugar Used 3-day old King Arthur Easy Sandwich Bread Drizzled the extra marinade over the bread while the first side cooked"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "The one thing i would change is the amount of oil i tried using the 1 tbsp but it was way too much you just need a little bit otherwise it was delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kaydence Granger"
+},
+"reviewBody": "The eggs fall of the bread when you cook it but I added extra milk and it was perfect! So yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "aizausa20"
+},
+"reviewBody": "HELLO CHEF ,HERE I am with a great good news for you about the khal.com a cooking land for cooking kings and queens like you.??"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "jh5brt8pr9"
+},
+"reviewBody": "- Took more than 2-3 minutes on each side. - It was more like scrambled eggs on a toast. - As soon as I put it on the frying pan the egg separated from the toast and I had a layer of white egg on the bottom of the toast. -After cooking it was not as moisturized as needed. It needed more quantities of all the ingredients. - I had to drench it in honey to cover the egg taste. - It doesn't make a mess which is good. - I topped it with some strawberry to make it taste better. There are definitely better recipes than this."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Margo Barron"
+},
+"reviewBody": "Nothing unique about this recipe. Same recipe in Better Homes and Gardens Cookbook, except ingredients cut in half to serve one."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tammy Lynn"
+},
+"reviewBody": "Just the the way I like making French toast, with no sugar added to the egg mixture. I didn't measure out 1 tsp salt, just used a dash. I don't think a tablespoon of oil is needed to cook it in, just a teaspoon. Other than small personal preferences, this is a perfect recipe for 2 thick slices of bread or 3 thinner slices."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/275216/french-toast-for-one/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/78/breakfast-and-brunch/",
+"name": "Breakfast and Brunch"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/149/breakfast-and-brunch/french-toast/",
+"name": "French Toast Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/275216/french-toast-for-one/",
+"name": "French Toast for One"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

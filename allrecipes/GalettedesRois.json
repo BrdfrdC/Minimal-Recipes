@@ -1,0 +1,729 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Galette des Rois"
+,"datePublished": "2020-06-18T23:11:47.000-04:00"
+,"dateModified": "2022-08-17T20:11:53.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "ULYBERT"
+,"url": "https://www.allrecipes.com/cook/1310337"
+}
+]
+,"description": "Almond filling is sandwiched between rounds of puff pastry in this Epiphany tart. The person who finds the bean in his or her slice becomes king or queen for the day."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/L5LZxNy3RlFhqsRLg60b3AJkCwU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9009772-galette-des-rois-Mary-V-4x3-1-5e8feadd16934022937b40ac035b0e45.jpg",
+"height": 900,
+"width": 1200
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Galette des Rois"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "51"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "229 kcal"
+,"carbohydrateContent": "20 g"
+,"cholesterolContent": "29 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "85 mg"
+,"sugarContent": "4 g"
+,"fatContent": "15 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"0.25 cup almond paste",
+"0.25 cup white sugar",
+"3 tablespoons unsalted butter, softened",
+"1 egg",
+"0.25 teaspoon vanilla extract",
+"0.25 teaspoon almond extract",
+"2 tablespoons all-purpose flour",
+"1 pinch salt",
+"1 (17.25 ounce) package frozen puff pastry, thawed",
+"1 dry kidney bean",
+"1 egg, beaten",
+"1 tablespoon confectioners' sugar for dusting" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place the almond paste into a food processor or blender with about half of the sugar, and process until well blended. Add the butter and remaining sugar using and process until smooth, then blend in 1 egg, vanilla extract, almond extract, flour and salt. Set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 425 degrees F (220 degrees C). Butter a baking sheet or line with parchment paper, and set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Roll out one sheet of the puff pastry into an 11-inch square. Keep the pastry cool, do not knead or stretch. Use a large pie plate, cake pan or frying pan to trace an 11 inch circle onto the dough using the tip of a small knife. Place the circle of pastry onto the prepared baking sheet. Repeat with the second sheet of pastry. Refrigerate both sheets."
+} ,{
+"@type": "HowToStep"
+,"text": "Mound the almond filling onto the center of the pastry that is on the baking sheet. Leave about 1 1/2 inch margin at the edges. Press the bean or feve down into the filling. Place the second sheet of pastry on top, and press down the edges to seal. Beat the remaining egg with a fork, and lightly brush onto the top of the galette. Use a knife to make a crisscross pattern in the egg wash, and then prick several small slits in the top to vent steam while baking."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake for 15 minutes in the preheated oven. Do not open the oven until the time is up, as the pastry will not fully puff. Remove from the oven, and dust with confectioners&#39; sugar. Return to the oven, and cook for an additional 12 to 15 minutes, or until the top is a deep golden brown. Transfer to a wire rack to cool."
+} ,{
+"@type": "HowToStep"
+,"text": "Lay a golden paper crown gently on top of the cake. This will be used to crown the person who finds the bean or feve. Serve warm or cold. Make sure to tell everyone about the bean or feve."
+} ]
+,"recipeYield": ["16"]
+,"totalTime": "PT50M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Very easy to make. Two issues I came across. 1) The almond mixture was very thin which caused it to ooze out and burn. I probably should have added more flour to thicken up. 2) I cooked this 6 minutes shorter than suggested. Good thing I did because it was really burning. I think 425 is also very hot to bake something."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary V"
+},
+"reviewBody": "Very easy. Yummy and light. Added some water to beaten egg to make a wash otherwise followed it step by step . Hardest part was submitting a photo."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anthony Donato"
+},
+"reviewBody": "Easy delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mallorie c"
+},
+"reviewBody": "Delightful! Used a full 8oz package of almond paste and it was too much - would probably reduce by a few tbsp or 1/5th of the loaf. Otherwise, absolutely wonderful. Will be making again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "christina nester"
+},
+"reviewBody": "I haven’t bit into it yet but, it turned out gorgeous! Using a pampered chef stoneware and the bottom is golden. Will finish this review after I taste it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Karyn Cardello Geffriaud"
+},
+"reviewBody": "We had just come back from France and these were starting to appear in the patisseries. This was as good as the better ones we had in France and way better than others we had there! I didn't want to waste any of the crust so I made mine rectangular."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Coetwins"
+},
+"reviewBody": "No one believe that I actually made this! An absolutely perfect Galette de Rous. I did bake the first layer for about five minutes as recommended by many reviews, and the bottom did not dry out at all. I will be making this every year."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pat"
+},
+"reviewBody": "Easy to make. I put this one side by side with Whole Foods one and even though Whole Foods was very good, everyone thought that one was better! \nI did made the almond paste myself following the recipe by Carol on this site and I double the quantity .\nAlso please note that step 3 calls for 2 sheets. You need one for the top and one for the bottom. Be mindful when you purchase the puff pastry sheets that you have enough..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sue"
+},
+"reviewBody": "Easy and delicious. Thanks for sharing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Synesis"
+},
+"reviewBody": "This is not alone the simplest galette to make, but it is also the tastiest. My mother, who is French, thinks it’s better that that of the high end bakeries around her house!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mallinda"
+},
+"reviewBody": "A friend in France told me about Galette des Rois and I was so pleased to find this recipe. I made it for a bake sale, but I made little pastries from the trimmings when I cut the squares of puff pastry into circles, so I was able to get a taste. I baked it initially for nearly 20 minutes before I sprinkled it with powdered sugar, and I baked it until It was dark golden brown after that. I wanted to make sure there was no problem with underbaked dough as some had mentioned. I think it turned out beautifully, and when I sent my friend a picture, he said \"Master! Fantastic!\" I feel as if I could do even better on the next one, since it's really not hard."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "FightingEntropy"
+},
+"reviewBody": "This is the best Galette I have eaten outside of France! The amount of cream is perfect for the circle of Pepperidge Farm puff pastry. Getting the powdered sugar to caramelize uniformly on top is tricky, so I usually take it out after 12 minutes when the sides start turning black. I have made this recipe every Epiphany with my children and it comes out puffy and delicious each time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "49ersaredabest"
+},
+"reviewBody": "Really excellent recipe, so easy to make.\nI would agree with a few others that said 1/4 cup almond paste is not quite enough, many bites just tasted like puff pastry without much filling so next time I make it I will go to 1/2 cup almond paste and see how that is\nGreat recipe otherwise!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Montana"
+},
+"reviewBody": "In France, we make our own almond paste. It's so, so easy to make. Mix butter,almond meal, sugar, eggs, rum &amp; almond extract. I bake mine 375° for 30 mins."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MISTICAT57"
+},
+"reviewBody": "Absolutley delicious! I was too lazy to cut a circle so I just made mine square. And I drizzled a powdered sugar glaze over the top instead of sprinkling it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Armywife2312"
+},
+"reviewBody": "I wish almond paste didn't gum up my food processor so much, but it is what it is. This recipe takes me back to Paris, France, my freshman year of college on my study tour in January. Very authentic."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "evacosgrove"
+},
+"reviewBody": "This was an amazing recipe! I used canned almond filling and omitted the sugar. Super easy and wonderful. Brought me right back to sitting around the table with my friend's French host family."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "pasquiou"
+},
+"reviewBody": "Loved this recipe!!!! It was sooooo easy and quick to do. For years we have been buying expensive gallette des rois at a bakery and we made this recipe for the first time this year! It was great eating it right out of the oven - better than any we have purchased before. What a treat :o) My husband is actually the one who made it and he put extra almond paste in, just because he wanted to make sure it was really tasted, but we all agreed that next time he will only put the 1/4 cup in, just like the recipe says, because it would have been plenty. We are excited to have a new family tradition! Thanks so much for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "thompson4808"
+},
+"reviewBody": "Very good, and a lot of fun!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kenyatta"
+},
+"reviewBody": "A hit amongst my family members. I placed the dessert in a square pan lined with parchment paper. When done i pulled it out of the pan. My familes favorite dessert now."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cmcarnell"
+},
+"reviewBody": "This recipe is absolutely PHENOMENAL! I've made it a few times, and I always receive compliments on it (from French and non-French people alike). It's also very easy to veganize this cake by using vegan butter and replacing the egg with applesauce (which gives it an even better flavor)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Joanne Broekhuizen"
+},
+"reviewBody": "The almond filling is great, although I did follow the suggestion of another reviewer and used the whole tube of almond paste with a bit of water. Unfortunately, I really am not a fan of puff pastry. I would not make this recipe again unless I can find a way to replicate the denser, tart-like crust of the actual french cake."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "htiz"
+},
+"reviewBody": "I live in New Orleans and this surpasses expectations! I make mine in the shape of the square pastry dough so that none of it goes to waste, and then I stick a plastic baby in the bottom after it is out of the oven. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SunnyD1006"
+},
+"reviewBody": "My husband is French and we lived there for a few years. My in-laws were here for a visit and I was nervous because they're rather picky. I decided to try this recipe and it was a huge success. I would argue that it's even better than some I bought from a boulangerie in Paris. I had to make the almond paste from scratch, but it was much easier than I imagined. Excellent recipe - just make sure you use a good puff pastry. Bon année!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DLD"
+},
+"reviewBody": "Simply outstanding! I served this warm, although I bet it would taste just as delicious cold. The filling blended so nicely with the puff pastry. It truly melted with each bite. I doubled the almond paste as I wanted to use the remainder of a can I had recently opened and kept everything else the same. A few reviewers mentioned a soggy bottom so I pre-baked mine for 5 minutes (removed after it puffed about an inch and a half and was just beginning to turn golden around the edges). It will flatten immediately, but don't worry it will puff up again once it goes back into the oven! I would not bake any longer than 5 minutes because some of the filling is meant to bake into the layers. I'm tempted to layer some fruit (blueberries) inside next time. Would be great served with ice cream as well. Many thanks for a fabulous recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lake lady"
+},
+"reviewBody": "This was fantastic, fast and easy. I happened to have some almond butter so I just cut down on the butter by one T and it was great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "smc"
+},
+"reviewBody": "Super easy and delicious! These are not easy to find in our area, and clearly this recipe will be the solution. I've had these @home and even in the school cafeteria in high school in France, but fresh and warm from the oven is hard to beat. Agree with reviewer Annsera that 1/4 c almond paste might be a bit scanty - I increased it to almost 1/2 c. Also increased cooking time to about 18 minutes for fully baked look. I'm not much of a cook but true to the reviews, this was quite easy to make and the result is attractive and delicious. A huge hit with the family. Now we have time to make more and share with others!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mariam"
+},
+"reviewBody": "Very good, but make sure to bake long enough. Even though I added about 10 minutes to bake time, it was still a but doughy. I would disregard the cooking time next time and bake until golden brown on top and bottom."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Timothy Batts"
+},
+"reviewBody": "Very good!! East to make! I am not a cake baker and not into very sweet desserts! I served it with a couple of scoops of vanilla ice cream. It was a hit!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bountiful-life"
+},
+"reviewBody": "delicious, but used marzipan instead of almond paste and dusted with icing sugar afterwards and drizzled with melted chocolate. Yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MOLLYES"
+},
+"reviewBody": "Couldn't be easier! I used homemade puff pastry, but other than that followed it exactly. It was fantastic. It really only takes about 5 minutes to throw together once the pastry is done. People were going crazy for it to at the party I took it to. This will become a staple recipe for me. Thanks!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "baldrsmatch"
+},
+"reviewBody": "Absolutely amazing! This is soo easy to make and yet it is down right perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "whatscookinwithkate"
+},
+"reviewBody": "Bonjour, Ulybert - Ja'i etait eleve en France et je cherchais une recette pour une de mes patisseries preferee. Une amie francaise m'a donne une recette, sans la pate d'amandes (?) en me disant que s'etait traditionelle. Votre recette est ce que je m'ensouviendrai - Bravo et merci!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SNAIL1975"
+},
+"reviewBody": "Wow, wow, wow! I love anything with Almond Paste, but this was absolutley amazing. It looks pretty impressive too, which is always a good thing. Can't wait to make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I didn't actually get a chance to taste test this dish because I made it for my daughters' french class, But they all loved it and it has been requested again. I guess i'll have to make one for myself!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mousy7"
+},
+"reviewBody": "Today is 4/3/08 and I needed to make a french food of some sort for my project, so I picked this....when I finished, it smelled delicious, I'm just sad that I have to share with my classmates:&lt;"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christine"
+},
+"reviewBody": "This recipe has a very authentic taste and is SO easy! I used the Pepperridge Farm Puff Pastry Sheets, and the first time that I made this galette, the bottom layer was very doughy, so the next time, I pre-cooked the bottom layer 10-12 minutes at 425 on my stoneware, let it cool, then resumed the rest as described in the original directions... it turned out perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "M. Green"
+},
+"reviewBody": "This is a wonderful, easy recipe. I didn't find it necessary to dust with confectioner's sugar and put back in the oven for a deep glaze, however; I feel it baked and looked just as well without that."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bry93"
+},
+"reviewBody": "My girl scout troop made this for their thinking day celebration (ommitting the bean). It was delicious served warm with whipped cream."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "little baker on the prairie"
+},
+"reviewBody": "Fantastic. Served this to my book club the other night and was asked for the recipe. I will be making this again. Also, I followed the advice of a previous reviewer to make my own almond paste and it was quite easy. However, I added too much water before I realized that it had gone from paste to almost soupy, so I just put it through a strainer to get rid of the extra liquid and everything was fine."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ANNSERA"
+},
+"reviewBody": "I think that 1/4 cup of almond paste is way too little. I used an entire roll of almond paste -- twice the amount called for in the recipe -- and that seemed to me to be the correct amount. I also used a bit more sugar and a T of water to make up for the difference in the extra almond paste. \nOther than the wrong amount of almond paste, it's a good recipe. I would think, though, that it would maybe be better to put on a second egg wash with a good amount of regular sugar rather than the powdered sugar. This way, I think that the gallette would have a shellaced quality and you'd be able to see the criss-cross pattern on its top much better.\nEasy and impressive cake,though, in spite of my criticism, I'm going to make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "chetyre"
+},
+"reviewBody": "This is a really simple and delicious way to make this cake. If you don't want to spend the $8 dollars to buy a tube of almond paste, you can make your own before hand. To make enough paste for this galette, I mixed together in the food processor:\n\n*1/2 cup unsalted slivered baking almonds (until they are finely chopped or close to powder), then add\n*1/4 powdered sugar\n*1/4 white sugar\n*1/4 almond extract\n*1/8-1/4 cup water (to make consistency of paste). Refrigerate before putting onto cake bottom."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "suchaskirt"
+},
+"reviewBody": "I can't believe how easy this recipe is! Almond paste is not cheap in my grocery store, but the cost is so well worth it. The taste is unreal!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "pumi4jes"
+},
+"reviewBody": "Fantastic!!! As good as the french version and easy. I put in a small ceramic toy like the ones in rose tea instead of a bean. Don''t forget the crown."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SUUNKISSED"
+},
+"reviewBody": "What an excellent recipe! I visisted France last year during the holidays and tried a galette des rois there, so I was very pleased to find this recipe. It came out great and tasted as delicious as the one I had in France. Merci beaucoup for this great recipe!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/80734/galette-des-rois/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/231/world-cuisine/european/",
+"name": "European"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/721/world-cuisine/european/french/",
+"name": "French"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/80734/galette-des-rois/",
+"name": "Galette des Rois"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

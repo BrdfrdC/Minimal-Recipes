@@ -1,0 +1,1415 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Cookie Press Shortbread"
+,"datePublished": "1997-09-21T15:00:10.000-04:00"
+,"dateModified": "2022-09-07T09:40:04.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Heather"
+,"url": "https://www.allrecipes.com/cook/24323667"
+}
+]
+,"description": "This is my mother&#39;s recipe for spritz cookies. It makes delectable little morsels!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/hWFQ7vSdsJygNpqveDiQDxXYN5k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5993253-7fca5ae6c8ab4fe7b852031403910ecc.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Cookie Press Shortbread"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4",
+"ratingCount": "175"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "116 kcal"
+,"carbohydrateContent": "11 g"
+,"cholesterolContent": "20 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "1 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "55 mg"
+,"sugarContent": "3 g"
+,"fatContent": "8 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT25M"
+,"recipeIngredient": [
+"1 cup butter",
+"0.5 cup confectioners' sugar",
+"0.25 teaspoon vanilla extract",
+"1.5 cups all-purpose flour",
+"0.5 cup cornstarch" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Cream together butter, confectioners&#39; sugar, and vanilla in a medium bowl with an electric mixer until smooth. Stir in flour and cornstarch. Pop dough into your cookie press, and away you go! Press cookies out onto ungreased cookie sheets."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake for 8 to 10 minutes in the preheated oven, or until the peaks are golden."
+} ]
+,"recipeYield": ["24"]
+,"totalTime": "PT35M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "SugarCoder"
+},
+"reviewBody": "These cookies were soft and worked out well in a cookie press! I will definitely be using this recipe for cookie press from now on."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Diana Lee"
+},
+"reviewBody": "The cookies pressed out beautifully but I didn’t care for the taste or texture."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "rhamand"
+},
+"reviewBody": "Solid recipe!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mgooriah"
+},
+"reviewBody": "Very delicious. Qty of the Only ingredient I modified was sugar. I reduced to 1/4 cup instead of 1/2 cup and I used brown sugar. Came out perfect. Everyone in the family loved it. happY holidays and thank you for sharing such simple and tasty recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Judy Brown"
+},
+"reviewBody": "Super easy recipe. Easy to use in cookie press however, too much flour and not enough sugar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Steven Ziolkowski"
+},
+"reviewBody": "Awesome!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Judy Crookston"
+},
+"reviewBody": "This recipe worked okay in my pampered chef cookie press We sprayed the press disc first which helped a lot. The taste is not great. Very bland. We had fun any way even if they weren’t that great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Katherine Herrman"
+},
+"reviewBody": "I've had lot better cookies"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cyndee"
+},
+"reviewBody": "Talk about melt in your mouth! Delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "WannaBchef"
+},
+"reviewBody": "Made this pretty much to the T minus adding a hint more vanilla &amp; powdered sugar, due to previous comments saying they \"lack flavor\". Well....they look great/beautiful.!! They hold their shape, but \"lack flavor\". Very easy to make which is a huge plus! I just need to find a way to add some 'it's a cookie flavor'!!! I really wanted to LOVE these. (Pic Added)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "NepeanMom3"
+},
+"reviewBody": "So easy, fast and delicious. The only change I made was that I sifted all the dry ingredients. And used my hand blender for everything."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "joakleyjames"
+},
+"reviewBody": "These were quick and easy. I used a Wilton bite size cookie press and baked the cookies for 5 min. I also used 1 tsp of vanilla. They came out great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lydia"
+},
+"reviewBody": "Loved this recipe, they just melt in your mouth. The only reason it didn't get five stars is that it needed more vanilla. It's even better with some almond extract."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ellen Bancroft Ziegler"
+},
+"reviewBody": "Ok so I added 3/4 cup confectioner's sugar and I also used a full 2 teaspoons of vanilla exctract and 1/2 tsp of almond extract...The other thing I did as a result of reading other reviews is I whipped the butter for a full 2-3 minutes until it was really fluffy and almost white. I then added the confectioner's sugar and both extracts and continued whipping for another 3 minutes...the whole thing was almost white in color and then I added the flour and cornstarch. I whipped another 2-3 minutes and everything was very white and fluffy. I then divided the dough into 3 bowls, added red food coloring to one and green food coloring to the other. I used the cookie press, after making sure each bowl was mixed well...I ended up with green cookies, red cookies and white cookies that we ABSOLUTELY DELICIOUS!! make this recipe, let them cool completely on parchment-lined cookies sheets before even trying to remove them. You will not be disappointed, they are awesome. I am definitely making more, because while I got almost 40 small cookies, they were still not plentiful enough. I had a rough time keeping my daughter and husband (and yes, even myself) away from them!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Barbara J Wright"
+},
+"reviewBody": "These turned out gorgeous the first time I tried them - today - in my wonderful Marcato biscuit maker. I actually put slightly more cornstarch in them because I added lemon jest to the creamed butter and sugar and used 1/2 teaspoon fresh lemon juice and 1/4 teaspoon lemon extract instead of vanilla (I was hungry for lemon cookies). These cookies went through my press easily without refrigeration and are so tender I actually broke two while taking them off the pans. This is a keeper and I will make them again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "VelloraCooks"
+},
+"reviewBody": "This was my first time making spritz cookies and I must say, the dough worked very well with the cookie press. The cookies kept their shape wonderfully! These were almost shortbread like with how delicate they were and just seemed to dissolve in your mouth as you ate them, but they were kinda dry. Also, the flavor is what I had the most trouble getting past. There wasn't a lot of taste to these cookies and they kinda left a little bit of an aftertaste in my mouth. I will say, some of my family absolutely loved them, but I feel like there is room for improvement."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jennifer"
+},
+"reviewBody": "Wonderfully easy to work with! Added a bit more extract for flavor. Great flaky texture."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Beverly Snyder Kundla"
+},
+"reviewBody": "I only gave the recipe 4 stars, because, as is, the dough was too crumbly to use in my cookie press. However, I mixed in one tablespoon of milk and then it was perfect. They baked beautifully and tasted great, with a good shortbread texture. With the milk added, it's a 5 star recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Marika"
+},
+"reviewBody": "Cookies looked very nice, they formed well with my cookie press. Cookies themselves were a little chalky. Good cookie for the low # of ingredients. Next time I will substitute half of the cornstarch for rice flour."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Andrea Lou"
+},
+"reviewBody": "We are having a 'When life gives you lemons' sermon at church so I decided to make these and I tripled the recipe and I added lemon extract along with lemon zest and juice and a little bit more flour to compensate the extra liquid. I chilled my dough for a little bit so it would come out easier in the press. So good!! \nFYI...any dough is good enough if you know what you're doing when it comes to baking. If you don't know, I would suggest reading reviews for tips."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "PaminSeattle"
+},
+"reviewBody": "My family loves this cookie so much, to speed up the process, I even just roll them in balls, flatten them, sprinkle sugar on top and bake them as little round cookies. Great tasting recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Olga Alcantar"
+},
+"reviewBody": "Loved the recipe, defiantly will be making them again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "pnutz01"
+},
+"reviewBody": "This is my go to recipe to use with my cookie press. Have used it for years and it's always a hit!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joyce "
+},
+"reviewBody": "This is the BEST spritz recipe I have ever made. They didn't fall apart coming out of the press! Light shortbread flavor too"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Diane Larwood"
+},
+"reviewBody": "I have fond memories of my mother in law (who just turned 90) making her Xmas shortbread. She would beat the butter with a wood spoon for a long time, add the flour and cornstarch and then nead it as she walked round the house :) This recipe is just like her shortbread only much easier to make. The secret is beating the butter and sifting the flour and neading it with your hands. It worked perfectly in my cookie press. Those who found it dry and crumbly over cooked it. It shouldn't look brown. 8 min was enough for mine. It improves in taste as it ages if you can keep it long enough without eating it all."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rosemarie Celano"
+},
+"reviewBody": "The best recipe ever! I've tried others and threw them out. These came out great!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "TRENT"
+},
+"reviewBody": "VERY CLOSE TO WHAT I'M LOOKING FOR THE TASTE IS SPOT ON I JUST WANT A LITTLE MORE FIRMNESS LIKE \"ROYAL EDINBURGH SHORTBREAD FINGERS\""
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "LHS_888"
+},
+"reviewBody": "Agree with another reviewer that \"these cookies were the perfect texture for my cookie press and were a snap to make. The only bad part was that they didn't have much flavor.\" They look beautiful, but they weren't sweet at all. I will use a different spritz butter cookie recipe next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "chris19"
+},
+"reviewBody": "FYI. I thought this would work with gluten free all-purpose flour but it did not. turned out too crumbly"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Princess Pickles"
+},
+"reviewBody": "I didn't care for this recipe. I followed the instructions and it turned out to be very dry. I added water and it was so thick it broke my cookie press. Maybe I should have used melted butter."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marg"
+},
+"reviewBody": "Love them."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Brennylou"
+},
+"reviewBody": "Husband and friends liked this. Took some to a function and everyone seemed to enjoy them. Some of the comments...oh you can tell these are not store bought, wow these melt in the mouth, these are so good. \nI didn't care for the chalky texture left behind by all the cornstarch. However I am a shortbread snob. :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gayatri"
+},
+"reviewBody": "I love, love, love this recipe - like many, it helped me have a new relationship with my cookie press :-) I made them tree-shaped with green food colouring for son's class event. Can't wait to use it again! Only note of caution: they brown easily, so watch them closely. Mine only needed 6 minutes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "TCPOKIM"
+},
+"reviewBody": "They do melt in your mouth, like other reviewers say. They do not have much flavor but I knew that going in.). They leave a floury taste in your mouth afterwards."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "nyelhsa"
+},
+"reviewBody": "I made one batch without any changes to the recipe, they were not bad and they weren't great either. Dough did go through the cookie press just fine though. For the remaining dough I folded in another 1/2t of vanilla, 1/2 cup of confectioners sugar and a cap full of vegetable oil. Then baked again it it was so much better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Heather9091"
+},
+"reviewBody": "Perfect recipe for cookie press cookies! I even add food coloring to the dough and the dough stays perfect! Thanks for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Elizabeth Fjeldheim"
+},
+"reviewBody": "My Father-n-Law loves shortbread. I used this recipe and they turned out perfect. Before placing in cookie press, roll dough into a log to avoid air pockets."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Jenny"
+},
+"reviewBody": "I wish I could give 2.5 I made this for my press because I wanted a short bread cookie, not just your regular spritz cookie. Only change to the recipe was to use home made icing sugar, as I realized I didn't have any in the pantry. Dough turned out ok, was hard to get the cookies to stick to the pan out of the spritzer though. \n\nWhen I baked them however, they refused to keep their shape. Not even remotely did they keep their shape. They ended up turning into Cookie Chips. Literally. I tried putting the dough in the refrigerator, and I tried making balls instead of the spritz cookies and they still turned into cookie chips. They tasted good but they certainly did not look good. Maybe I will try this again for Valentines day or something."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mmr"
+},
+"reviewBody": "This recipe is super simple to make and works perfectly with my cookie press. The flavor is light and buttery, perfect topped with sugar or iced, but also good plain. The taste and texture is best a day after baking and is lovely with a glass of champagne!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Renay DiGilio Soulant"
+},
+"reviewBody": "very dry; hard to push through press..tasted like powder and very very bland"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Mon"
+},
+"reviewBody": "These came out very dry and crumbly."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Markie"
+},
+"reviewBody": "I added 1 tsp. of olive oil \nBetter than my moms family recipe. Don't be afraid to whip the heck out of it, the more you whip it the better it will work with a cookie press. Absolutely amazing melt in your mouth shortbread!!! 5 out of 5"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I followed the recipe to a T and the cookies came out bland and crumbly. So the next batch I added just a bit of sherry to make the dough more pliable and sprinkled chopped pecans on top. Still bland and crumbly."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "missrochester"
+},
+"reviewBody": "These were Great! I did cut back on the cornstarch a bit i only used 1/4 cup and worked perfect!! Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Vicky"
+},
+"reviewBody": "I have used this recipe with my cookie press for a few years now. It's a tried and true recipe that creates yummy, buttery cookies. Thanks for the great addition to my Christmas cookie trays!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Linnie__68"
+},
+"reviewBody": "I followed the recipe exactly and it was very dry and bland -no flavor whatsoever . My family didn't like them either. The texture of the dough was ok-a little odd, but worked with my press. Very chalky cookie though-I will not be making this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "michi"
+},
+"reviewBody": "These turned out extremely well even though I was 2 about tablespoons shy of the full cup of butter. I baked them a little longer so they were lightly browned, melt in your mouth morsels. I used the leftover dough to make regular cookies by rolling them into balls and pressing them down. If you don't have a cookie press, these make great butter cookies."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Anne"
+},
+"reviewBody": "This is the best recipe I found yet for my cookie press. Came out perfect!\n\nI rated it a 4 due to the concerns I read about the \"bland-ness\" of the cookies. To compensate, I increased the vanilla to 1/2 t and added 1 t of lemon extract. YUMMY!!!!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kessiepie"
+},
+"reviewBody": "Too soft for cookie press. They taste good though!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Xing"
+},
+"reviewBody": "Best. Recipe. Ever. It's super easy due to the short list of ingredients, yet the cookies turn out beautifully. A tip: use unsalted butter for the light and fluffy, melt-in-your-mouth texture, and go for a quality brand that will help the cookies maintain their shape when baked. I've tried this recipe with many different brands of butter, and the cheaper ones tend to be thinner and the resulting cookie dough needs either a little more flour, or a little longer baking time at lower temperature to maintain their shape without getting burnt. Oh and I've added twists of lemon zest for a twist of flavour, but since I used a cookie press, lemon essence works better unless you can be bothered chopping the lemon zest very very finely :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "linz"
+},
+"reviewBody": "We found the taste and consistency of these cookies to be just awful. I think the half cup of cornstarch was just too much."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lilly"
+},
+"reviewBody": "One off the best tasting and easiest doe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "chelly9103"
+},
+"reviewBody": "Didn't really have any flavor. I had to double the vanilla and that still didn't make them very good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "chrissis"
+},
+"reviewBody": "Wonderful! I added almond flavor and turbinado sugar to the top. The day after is best once the moisture \"equalizes\". These are buttery and super light."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "featherdiane"
+},
+"reviewBody": "I added a little more sugar and doubled the vanilla. Excellent!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Tessa Bowers Lehman"
+},
+"reviewBody": "These cookies are very dry and without much taste. Even my kids (who eat most any cookie) ate one and didn't request anymore."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "eabanks"
+},
+"reviewBody": "Bland and they fell apart."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sheri"
+},
+"reviewBody": "I tried this with my Pampered Chef cookie press and it was impossible to get them off the press. I ended up just roughly spooning little blobs on the cookie sheet. They turned out amazing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Sandie Turner"
+},
+"reviewBody": "This recipe is awful. The cookies were tasteless."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Tammy Tamtam"
+},
+"reviewBody": "The cookies were delicious, but I couldn't get this to work with my press. I ended up using an icing bag with a jumbo tip. They still looked pretty. I will make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "resmi valsan"
+},
+"reviewBody": "Really great recipe! Whole family loved it!! Thanks Heather for this lovely easy to follow recipe.."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "IsaBbott"
+},
+"reviewBody": "I have tried dozens upon dozens of recipes for my stupid pampered chef cookie press and this one made me literally jump up and down in my kitchen from excitement because it actually worked! I've made this recipe twice now and it's bookmarked in my browser. The only thing I tweaked was I substituted almond extract for the vanilla. I think it helped round out the flavor of the butter better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "baking-jay"
+},
+"reviewBody": "I agree with those saying it wasn't very tasty. The taste was off, perhaps I was tasting the cornstarch I don't know. If I try this again I'll up the sugar and consider more toppings besides the crystals. \n\nThe recipe worked great through my Norpro cookie press yielded around 30+ cookies with two complete fills of the press though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "csandwith"
+},
+"reviewBody": "Super fast and easy recipe, and yummy too!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TheMacTeam"
+},
+"reviewBody": "FINALLY!! a cookie recipe that works in the Pampered Chef cookie Press...I hated that press so much but decided to give it one more try with this recipe. Quick, easy and tasty.."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kimberely Dawn"
+},
+"reviewBody": "The dough was very easy to work with using my mom's old cookie press. Tasted just like hers - ah the memories."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Lauren Redding"
+},
+"reviewBody": "Too floury and not sweet enough. You could taste the cornstarch."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Andi"
+},
+"reviewBody": "I tried this recipe today. Sorry to say all I could taste was the corn starch, and my mouth immediatly went dry. My neighbor tried one and didn't care for it either. \nI tried this to see if it worked in the cookie press better than the recipe I first tried. The dough was great, made lovely Christmas cookies, but I just don't care for the flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "RBee"
+},
+"reviewBody": "I used this as my first cookie press recipe - and they pressed great! I didn't play around with ingredients on my first try, just wanted to see how they would work out. I used unsalted butter and wished I'd tossed in a pinch of salt to balance out the flavour a bit. They are nice and soft and melt in your mouth - but they are a little floury tasting. I think I might try a bit of a blend with a different flour, like rice, on my next try. Lots of compliments on them, though - thanks for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jackie C"
+},
+"reviewBody": "This was a great recipe. I have tried quite a few that were made for cookie presses, but none measure up to this one. Gonna make tons of these for Christmas. I substituted half of the corn starch for arrowroot as I have a bunch of arrowroot left over from another recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dana88"
+},
+"reviewBody": "this cookies wher so good my mom asked me for the recipe ,thank you"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DullLikeGlitter"
+},
+"reviewBody": "I loved this recipe! My cookie press worked great with the dough and the cookies came out beautifully. They taste just like the shortbread cookies I get out of Chess Cookie tins!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kacylynn"
+},
+"reviewBody": "Awesome recipe! Easily comes out of the cookie press. It could use a little more flavor, and I did notice they took longer than 8-10 minutes to cook. But they look beautiful and the texture is great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "miceli_2"
+},
+"reviewBody": "I just tried it...The dough isn't quite sticky enough to stick to the cookie sheets so I could use some of my shapes with it but not all of them. Overall it tastes good and makes a decent cookie you just have to work with the dough for a bit to get it to stick to the cookie sheet."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "calsungurl"
+},
+"reviewBody": "These cookies are super delicious! Make sure you don't leave them out though, or you will eat and eat and eat...."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Kari Isensee"
+},
+"reviewBody": "I AM HAVING THE FIGHT OF MY LIFE WITH THIS DARN PC COOKIE PRESS. EASY TO MAKE DOUGH BUT MY PC COOKIE PRESS HATES IT!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "creativeinthekitchen"
+},
+"reviewBody": "Hard to work with the press and tastes pretty bland, too. I won't be using this recipe again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "narniagirl"
+},
+"reviewBody": "I had my doubts about this recipe after reading the ingredients, but my hubby and I liked them a lot. Instead of stirring in the flour and cornstarch, I kneaded them in with my hands. It was very quick to make. I took one pan out after 9 minutes and they were totally white. The other pan I left in for about 2 more minutes til they were light brown on the edges. I thought these tasted best. They are very fragile!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "dpe2"
+},
+"reviewBody": "Worked great in my press, even with coloring added. Watch cooking time closely or the cookies are very crumbly."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Chris"
+},
+"reviewBody": "They were okay. Had good flavor like shortbread. But had no crunch-very soft cookies."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "phoenix_rising"
+},
+"reviewBody": "This was the first recipe I tried using my new cookie press. I actually halved it because I had never used a press and it turned out great! I added orange zest to the dough and dipped them in chocolate, so melt in your mouth delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "CANDACELEVINE"
+},
+"reviewBody": "Worked perfectly with my Pampered Chef cookie press! Could have a little more flavor, but otherwise excellent."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Bev Klassen Carson"
+},
+"reviewBody": "I used to be a Pampered Chef consultant. This recipe does work well with the cookie press but as soon as you are done whipping them up, you need to get them pressed asap. The discs are in order from easier to most difficult to work with. I used a #7 (Christmas tree) which was moderate in difficulty to use. I find that if you give the press a 1/4-1/2 squeeze, then a full squeeze (unti it clicks), the cookie comes out beautifully. Just make sure to press out all of the dough at one time, use parchment paper if needed."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Grace Bruno-Kurtz"
+},
+"reviewBody": "recipe was decent. I prefer the pampered chef recipe..I think they taste a little more buttery and the yield is much higher."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "apedzink"
+},
+"reviewBody": "We have never had any cookie press recipe work - but this one does! One thing that we found is that you can't use parchment paper. You have to put the cookies on a cookie sheet. Did need to add a tiny bit more sugar to get the right consistancy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Suliah"
+},
+"reviewBody": "I just started using this recipe last year, but my girlfriends said I'm not allowed at their holiday parties this year unless I bring these with me! I added some peppermint oil and food coloring to these to give them a different flavor, since they are truly very bland. I love the texture, but my hubby hates it, so they're either a love or hate there. They are buttery and crumbly, which I love. Plus yes, super easy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Bertonsthe1"
+},
+"reviewBody": "I made this recipe to use with my cookie press. Well I gave it a whirl because it looked simple enough, well it was but the taste wasn't that great. So I made a secong batch and used vanilla and granulated sugar in stead and increased it 3/4 cup. Perfect! A little greasy though but I just added powered sugar. I made another batch and crushed pecans in it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "thomlynn61601"
+},
+"reviewBody": "I couldn't get it to come out of the press. I just pushed them into a pan and they tasted good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "justbeachy"
+},
+"reviewBody": "this recipe was bland and didn't form a good dough. what a waste of ingredients."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Reina Lairs"
+},
+"reviewBody": "These turned out nicely. Very brittle, but it melts in your mouth. It has a subtle sweet flavor and everyone enjoyed them."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chele Smith"
+},
+"reviewBody": "Absolutely great recipe. These were perfect for my cookie press as non-refrigerated/chilled dough works best in mine. The only change I made was I upped the amount of vanilla to almost a full teaspoon. Very good cookie and they really do almost melt in your mouth. I made wreaths and trees with these so I added the green coloring right into the dough and popped them out in a jiffy. So easy and so good...this one is definitely a keeper for my collection. Thanks for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JJ"
+},
+"reviewBody": "Just the taste I was looking for and so easy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MLYIN"
+},
+"reviewBody": "Everyone loves these"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "pandorakick"
+},
+"reviewBody": "I found the taste of this recipe very good: very buttery and not overly sweet. I did add a pinch of salt as I find in general that it helps bring out the flavor in pastry. The texture is very smooth with a delicate crispiness. As other reviewers have noted it does give a rather fragile cookie. Worth it though n my opinion. For me this recipe is not very well suited for the cookie press: much too sticky even after putting the dough in the fridge for about 15 minutes. In the second batch I added 50 g more flour but the dough was still too sticky for the press. Perfect for rolling balls by hand and flatting them a bit on the cookie sheet. Will definitely make this recipe again because of the texture and taste, just not with the press. Therefor on 4 out of 5 stars."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "McBacon"
+},
+"reviewBody": "SO good! These are so easy to make- once you know how to operate a cookie press- in fact, I considered throwing mine out the window until these came out of the oven and I tried one-- they just gave my cookie press a new hope! Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathleen Mccartney Palmer"
+},
+"reviewBody": "First rate cookies! Just the right texture--my English husband even likes them! I added about a tsp ground rosemary to every batch, which provided some depth to the flavor, plus the smell throughout the house was outstanding! Great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "sinatrachick"
+},
+"reviewBody": "This recipe was really disappointing. I was really excited to use my cookie press for the first time. These cookies formed really nicely but when I took them out and sampled one, they tasted awful. They were bitter and tasted like flour. I had even added a bit more sugar than called for."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Megan-Ashley Maine-Ludlow"
+},
+"reviewBody": "Excellent. However this recipe does not take 25 min of prep work! I had made the dough, filled the press, and had cookies baking within 10 minutes. Absolutely excellent and very tasty!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kikokiwi"
+},
+"reviewBody": "Absolutely perfect just the way it is written. I only cooked them for 8 minutes, anymore would have been too much."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/10003/cookie-press-shortbread/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/15057/desserts/cookies/butter-cookies/",
+"name": "Butter Cookie Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/858/desserts/cookies/butter-cookies/spritz-cookies/",
+"name": "Spritz Cookie Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/10003/cookie-press-shortbread/",
+"name": "Cookie Press Shortbread"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

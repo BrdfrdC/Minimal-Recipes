@@ -1,0 +1,1435 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Neat Sloppy Joes"
+,"datePublished": "2020-03-04T23:58:34.000-05:00"
+,"dateModified": "2020-03-04T23:58:34.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "AUNT MAMIE"
+,"url": "https://www.allrecipes.com/cook/252203"
+}
+]
+,"description": "No green pepper in this recipe, so it&#39;s a hit with kids. We added this to the menu at a children&#39;s camp, and it has been a favorite for several years. The mixture is thick, so they are &#39;neat&#39; rather than sloppy. This freezes and reheats well."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/a4UbdvJqHbRTbSEsdWUdLprqIvU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/717743-94e83f65b0ed449faf7496e17c21db98.jpg",
+"height": 960,
+"width": 960
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=1791452663001",
+"description": "These kid-pleasers really aren't all that sloppy--because the meat mixture is nice and thick.",
+"duration": "PT2M50S",
+"name": "Neat Sloppy Joes",
+"thumbnailUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/f0fa0211-313f-4486-a346-5dd93277b803/4663559d-2afc-45bb-8aa4-07a416e52b5f/1280x720/match/image.jpg",
+"uploadDate": "2021-07-23T21:43:09.599-04:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Neat Sloppy Joes"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "1077"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "407 kcal"
+,"carbohydrateContent": "37 g"
+,"cholesterolContent": "74 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "26 g"
+,"saturatedFatContent": "6 g"
+,"sodiumContent": "774 mg"
+,"sugarContent": "12 g"
+,"fatContent": "17 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"2 pounds lean ground beef",
+"0.5 cup chopped onion",
+"1 cup chopped celery",
+"1 (10.75 ounce) can condensed tomato soup",
+"0.25 cup ketchup",
+"1 tablespoon white vinegar",
+"0.25 cup packed brown sugar",
+"1.5 teaspoons Worcestershire sauce",
+"0.5 teaspoon salt",
+"0.25 teaspoon garlic powder",
+"8 hamburger buns" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place ground beef in a large skillet over medium heat. Cook until evenly browned, stirring to crumble. I like to use a potato masher to even out the lumps. Add onion and celery, cover the pan, and cook until tender and transparent, about 5 minutes. Drain off any grease."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir the tomato soup (undiluted), ketchup, vinegar, brown sugar and Worcestershire sauce into the beef mixture. Season with salt and garlic powder. Heat to a simmer over low heat, and cook until thoroughly heated, stirring frequently to prevent it from burning on the bottom."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/a4UbdvJqHbRTbSEsdWUdLprqIvU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/717743-94e83f65b0ed449faf7496e17c21db98.jpg"
+}
+]
+,"text": "Spoon the hot beef mixture onto buns, which may be toasted first, and serve."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT50M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jill Cobb"
+},
+"reviewBody": "Best sloppy joe recipe! Easy and delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marie"
+},
+"reviewBody": "Best sloppy Joe recipe ever!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I have been making this recipe since 2011. It taste traditional like what we had in school lunches in the 1970's, I found this recipe to be kid tested and adult approved. Adults love it along with the kids. 5 stars to Aunt Mamie who submitted this recipe! A p.s. note, if so desired, because people's desires vary, drain off the grease as noted in the recipe, because if not, there may be a greasy texture left on your lips."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "000Sundance"
+},
+"reviewBody": "My (adult) kids won’t eat it any other way! Delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Leese"
+},
+"reviewBody": "Great recipe. I followed it pretty much except I did not have enough celery so I did a half c. of celery and a half c. of green peppers. I was skeptical about the vinegar but found that it only enhanced all the flavors, not add any vinegar flavor. The next day it was even better. Thanks this is the perfect not-so-sloppy, sloppy joe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Followed recipe and added some green peppers. This has way too much sugar in it. I dumped some yellow mustard in it(normal recipe) to kill the sweetness. Maybe i will try it again with far much less brown sugar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "funbake"
+},
+"reviewBody": "Easy, fast and tasty. I used a bit more onion than listed and split the amount of celery with sweet peppers"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary Ann D"
+},
+"reviewBody": "This is a go to recipe that I really like. Simple and delicious with good ingredients (I don't use canned tomato soup though, I sub no salt tomato sauce or salsa.) So easy to take this basic recipe and add or change the ingredients and how you serve it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jill Moore"
+},
+"reviewBody": "Love Love this recipe!! A family favorite!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sous chef de Lars"
+},
+"reviewBody": "Used bell pepper rather that celery"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christopher Brown"
+},
+"reviewBody": "Made it as written great recipe, far superior to store product."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Misty"
+},
+"reviewBody": "I would give this recipe 10 stars if I could. I do not like the commercial canned sloppy Joe stuff in stores. I tried this recipe years ago &amp; I should have reviewed it then but just wanted the creator to know my family requests them all the time!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Paulo Andre"
+},
+"reviewBody": "Loved the fact that it wasnt messy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sonja"
+},
+"reviewBody": "Amazing! Best version ever! We didn't even have any garlic on hand but it was great without it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jeannie Driver Schrick"
+},
+"reviewBody": "This is by far the BEST sloppy joe's recipe out there. Since finding it and making it the first time, my family asks for it no less than once or twice/month! We have ages all over the board in our house and it's a hit with everyone. Thank you for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Montanna Burmeister"
+},
+"reviewBody": "Loved this sloppy joe recipe! I've tried 3 others on here, but this is my favorite... I added a little bit of Worcestershire and green peppers!!! Must have."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Holly"
+},
+"reviewBody": "Spouse loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "erin"
+},
+"reviewBody": "Love this recipe.. I add yellow peppers instead of celery and it blends in fairly well (for discerning kid eyes)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Suzanne Deis"
+},
+"reviewBody": "Used ground beef but cooked and then drained. Added other ingredients refrigerated overnight. After reheating, tasted great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "blackeyesusan04"
+},
+"reviewBody": "Thee best sloppy joes I have had in years. This is a keeper. We did reduce the brown sugar to 2 tbsp though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Diane McMillan"
+},
+"reviewBody": "I made this exactly as written with the exception of using Beyond Beef (plant based) instead of ground beef because my my husband is vegan. \n\nIt turned out great and he LOVES it and it is now officially in the rotation!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Maggie"
+},
+"reviewBody": "My family said they'd never had sloppy joes so tasty! I didn't have any celery so I left that out, but either way it was delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jewels"
+},
+"reviewBody": "It’s too hot to BBQ so I searched my freezer for options and found a 2+ pound package of Turkey Meat. A quick search of Allrecipes yielded this recipe. I followed the recipe exactly, but added more Granulated Garlic and Granulated Onion and used Smoked Salt. (Our Taste Preferences). This was almost a five star, it was just a bit sweet for my tastes. Next time, and I would definitely make this again, I’d use less brown sugar. Thanks for a pretty good dinner solution."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jama Swalley Owens"
+},
+"reviewBody": "Much better than sloppy joes! They were a hit at our house"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary Zuehlke"
+},
+"reviewBody": "Delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Kelley Hays"
+},
+"reviewBody": "Just okay. Out of the 7 of us, nobody was a real fan. Nobody chose to have seconds (which is not normal around here). Just something about the flavor didn't do it for us. I'll try another recipe next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda Drayton"
+},
+"reviewBody": "It was great, finally my family likes sloppy joe, thank you."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennygurl"
+},
+"reviewBody": "I did screw up &amp; wrote the recipe down incorrectly by writing 1 C. chopped onion and I used a can of tomato sauce like a reviewer suggested instead of the condensed tomato soup (I didn't have any). I personally don't care for \"Sloppy Joes\", I never have so this was fine BUT my 2 picky eaters who despise Manwhich Sauce Sloppy Joes &amp; the school version LOVED IT! They just gobbled it up and praised dinner! So YAY definitely a keeper &amp; will be making again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bonnie Jay"
+},
+"reviewBody": "I reduced the sodium in the recipe by using a full 8 oz can of Cento Tomato Paste *instead* of the tomato soup, did not add the salt. Didn't have celery, so I used about 1/2 tsp of celery flakes. Browned the lean beef meat with a tad of olive oil in my electric Dutch oven, added the onions, then mixed in all the spices and let this cook at about 300 Deg for an hour or so. Reheated it for dinner. Tasted great and healthier than the canned alternative! You can always add more salt or other seasonings to taste later :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "eupers"
+},
+"reviewBody": "It was delicious! The only change I made was using tomato sauce instead of soup and I measured my brown sugar without packing it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "elcue"
+},
+"reviewBody": "We loved this. Made it exactly as written."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jenn"
+},
+"reviewBody": "Everybody loved! I halved the recipe, skipped the brown sugar, added garlic instead of garlic powder with the celery and onion. Took out the meat mixture when browned, then threw in a whole can of tomato soup with the rest of the ingredients, simmered them, then re-added meat. Simmer down to desired consistency. I didn't measure anything."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chad Wright"
+},
+"reviewBody": "Everyone loved it. I did add about 1/3 cup of bbq sauce but its great both ways."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Samantha"
+},
+"reviewBody": "I left out the ketchup and brown sugar to give it more salty then sweet taste. Came out very nice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I left out the ketchup and brown sugar to give it more salty then sweet taste. Came out very nice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Zanne"
+},
+"reviewBody": "Made this many times. It's consistently simple and delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "todd"
+},
+"reviewBody": "I made this recipe for my wife and her parents. Her parents are little finiky for food. Everyone loved the recipe and kept commenting on it. Note: it is even better for left overs. A keeper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lyla"
+},
+"reviewBody": "This is one of my favourite recipes and I make it all the time! Love it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sherri"
+},
+"reviewBody": "REPLACE KETCHUP WITH TOMATO PASTE AND DELETE SUGAR."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kimberly DiMarino"
+},
+"reviewBody": "My kids had sloppy joes years ago from the can and they hated it. I decided to try this and they loved it!! I followed the recipe exactly and it was great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "redeyeskilletslayer"
+},
+"reviewBody": "This a good meal. Kids wiped it out. Made as written and it all works well.."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "C.J."
+},
+"reviewBody": "I’ve madei the recipe twice already. My husband and I both love them. Very quick and easy to make; I always have those items at home with which to make them."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michael Suptic"
+},
+"reviewBody": "I really like the flavor. I add a green pepper and serve it over Jasmine rice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "NickGT"
+},
+"reviewBody": "I make this often for get-togethers. Everyone eats it up! Simmer on the stove and then to the crock pot on warm. I get slider buns and regular sized buns for portion control.. ;)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Zach Richardson"
+},
+"reviewBody": "Added mushrooms"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Suzy Trino"
+},
+"reviewBody": "Very tasty. . This one has lots of flavor without the overpowering green pepper. It was not too spicy so its kids friendly. And you can add some cayenne pepper if you want to add a little kick for the adults. I made two recipes to do a taste test and this one won our vote...It had a good consistency too, the sauce hangs on to the meat...the other recipe was more watery."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kristieg"
+},
+"reviewBody": "I didn’t have the soup so subbed fire-roasted tomatoes. No brown sugar either."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carol L"
+},
+"reviewBody": "Excellent recipe as written. This is one of my go to week night meals. Never any leftovers - you won't be sorry trying this one!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Normita"
+},
+"reviewBody": "I made this exactly per the recipe, and my husband and I really like it. I’ve made other Sloppy Joe recipes that were just so-so; I think I’m going to stick with this one. I served this with home-made buns, which made it even better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kim Clements"
+},
+"reviewBody": "Very tasty. I followed the recipe except I added one-half green pepper and I substituted Sweet Baby Ray's BBQ sauce because I was out of ketchup."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Eve Finney"
+},
+"reviewBody": "husband loved this recipe....it is Delicious. kids would love this as well...give it a try ...I will make again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "hez1991"
+},
+"reviewBody": "My husband and I enjoy these, I'm not a fan of green peppers so the celery is a nice compromise. I also like the fact that this is a little sweeter than tomatoey. I have \nmade this several times as is and it's a nice recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kstamour"
+},
+"reviewBody": "I added half-and-half kidney beans and ground beef. It was really good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jody"
+},
+"reviewBody": "Just the ticket when you want a quick, yummy sloppy joe. A tad on the sweet side, so I might cut the sugar in half next time. Good recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "hahnba"
+},
+"reviewBody": "It was ok, really lacking in flavor, not worth making again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "mrennie"
+},
+"reviewBody": "Very easy and delicious!!! I will make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "NITEOWLCLC"
+},
+"reviewBody": "This is my go to Sloppy Joe recipe. It puts the canned ones to shame. I don't change a thing and it comes out perfect every time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "RevKott"
+},
+"reviewBody": "Delicious sloppy joes. My wife, grandkids and kids loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amanda Ibrahim"
+},
+"reviewBody": "This recipe was my first attempt at Sloppy Joe's. My husband and I loved them and I'll definitely be making them again. I did make a couple of changes, but they were out of necessity. I did not have white vinegar so I used cider vinegar. Since that's a little sweet I only used 2tbsp of brown sugar. I did not have celery, so I used 3/4cup onion and a yellow bell pepper. (During a New England winter you need all the Vitamin C you can get.) Lastly, I used whole wheat buns and topped with a slice of sharp cheddar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SuzieQ"
+},
+"reviewBody": "This is very similar to another recipe I make. I added green pepper and continued to follow the recipe as written. I sure it will taste better the next day."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Buddy Moore"
+},
+"reviewBody": "I multiplied the recipe by 5 and served to a group of Boy Scout leaders. The only change was that I had to brown the meat in batches. I added veggies to the last batch after draining the meat. After meat and veggies were done I put everything into an electric roaster. It was a big hit - several people asked for the recipe. No complaints about the sweetness. Thanks for the great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Trendsweaters"
+},
+"reviewBody": "I will cut the sugar in half and add mustard next time"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Johnson"
+},
+"reviewBody": "Added a bit more ketchup, vinegar and worchestershire sauce and onions."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "nita"
+},
+"reviewBody": "This is very good. I followed recipe exactly. I served it at my grand Daughters birthday. Everyone loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amelia"
+},
+"reviewBody": "My adaptation is 1 Lb ground turkey, 1/2 onion, 1/4 cup celery, 2 tsp minced garlic, cooked all together, drain. Add can tomato soup, 2 Tbs ketchup, 2 tsp white vinegar, 1 Tbs &amp; 1 tsp brown sugar, 1 tsp Worcestershire sauce, 1/4 tsp salt.\nI then used toasted buns with a bit of shredded cheddar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "John"
+},
+"reviewBody": "1st time and turned out great! I did add red and green peppers, spicy brown mustard, my fav bbq sauce (and as a result cut back on the brown sugar) and added a few drops of liquid smoke. Taste was wonderful, my wife loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "PoolJunkie"
+},
+"reviewBody": "quick easy &amp; tasty. whats not to like"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bonnie"
+},
+"reviewBody": "Was going to make the STUFF in a can and decided to view my favorite recipe web site.. found this recipe and got lots of compliments on the sloppy joes. Didn't make any changes to the dish but maybe next time I might add some liquid smoke....hhhhmmmmm"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Holly C."
+},
+"reviewBody": "Delicious! We really enjoyed this, especially the kids who like sloppy Joe's more neat than sloppy. Next time I'll double it so I have some to freeze. Yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marcia Shelley"
+},
+"reviewBody": "It was great with no changes!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Betty Fredricks"
+},
+"reviewBody": "This was sooo good!! Our friends were over for dinner and they just loved it. I made it exactly the way the recipe read except for the celery {didn,t have any} and it was delicious. It was far from being bland!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sylvie Fredette Tibben"
+},
+"reviewBody": "this is our favourite sloppy joe recipe, made as is and made regularly in my kitchen!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dick"
+},
+"reviewBody": "Love this recipe!!\nEvery time I make these for a get together everyone says they are so good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cdbruss"
+},
+"reviewBody": "After reading some reviews, I also omitted the brown sugar and used 1/2 ketchup &amp; 1/2 BBQ sauce. I also added 1 TBSP of molasses to give it more flavor &amp; sweetness."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "amcc"
+},
+"reviewBody": "This is delicious! Only things I changed were to use half ground beef and half ground turkey and 1/8 cup of brown sugar. Potato masher is a great idea, I found it easier to use after the liquids were added. Also really like that it is easy to freeze."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "RNQUILTR"
+},
+"reviewBody": "I followed the recipe closely...used celery salt instead of actual celery (because I didn't have any) and it was a hit! Won't buy the canned stuff again...thanks for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shawn W"
+},
+"reviewBody": "Excellent recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "pinky10185"
+},
+"reviewBody": "My boyfriend and I both really liked this sloppy joe recipe. I loved that it wasn't messy, and it has a great taste. I did cut back on the brown sugar a little bit though, that was making it too sweet for me."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "elwood_75208"
+},
+"reviewBody": "Was a hit! A couple changes. 1/2 the amount of brown sugar and added a cup of fine chopped spinach. Easy and good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "LeAnna Mittleider"
+},
+"reviewBody": "Way too sweet for me so I cut back the brown sugar and they were SO GOOD!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Skittle68"
+},
+"reviewBody": "As written I give this recipe 4 stars because it is just a little too sweet. Otherwise it's definitely good. I've always used a similar recipe (it happens to be similar to the base seasoning for my mom's chili and I didn't feel like digging out her recipe lol) so no big surprise that I had no problem adjusting it to my liking. I cut the brown sugar down by half, added a little extra vinegar and Worcestershire, and added a little chili powder. Nice thing about sloppy joes it that it's so easy to start out with the bare minimum seasoning and keep adding more til it's just right!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "KateS"
+},
+"reviewBody": "This is a fast and easy recipe. I can see why kids would like it. However, my parents found it a bit too sweet for them and I could not even taste the celery. I'll try it again, but cut way down on the sugar and maybe add bell pepper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marilyn Budde"
+},
+"reviewBody": "I LOVE this recipe. Every time I make it, I can't make enough- people can't stop eating it! I like to slap on some american cheese to add some southern love:)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "sasknellie"
+},
+"reviewBody": "Made it without ketchup or sugar. It was still quite sweet but okay taste. Not sloppy as advertised."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Kevin Milton"
+},
+"reviewBody": "I have tried quite a few sloppy joe recipes. This one is ok but in my opinion is a little flat not enough zip. It needs more vinegar and more spice"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jilly"
+},
+"reviewBody": "I have made this recipe many times and enjoyed it-BUT I really hit the jackpot when I didn't have any Campbell Tomatoe soup and SUBSTITUTED with Progresso Tomatoe Basil 1/2 can!!! It knocked this recipe out of the ballpark good!!!!!! So go I have to make more the next day."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Dani"
+},
+"reviewBody": "Found it too sweet and I didn't really like it. Then again, I'm not a sloppy joe fan!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "okeeffemax"
+},
+"reviewBody": "Bland"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lucy's Friend"
+},
+"reviewBody": "I made this Sloppy Joe recipe exactly as stated except I added some green pepper. It was very good and I got compliments but for me it was not savory enough. I can understand that it would be a big hit with kids. For me it was too sweet, probably due to the combination of brown sugar and condensed tomato soup."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Andrea"
+},
+"reviewBody": "I didn't think this was bland at all. Both the adults and the kids loved it. I made it as is."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "sortabusy"
+},
+"reviewBody": "Very bland. I made it following the recipe and it was not to my liking."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Scott Morton"
+},
+"reviewBody": "Used about 10 ounces of Campbell's Creamy Tomato Soup (microwavable kind) instead of condensed tomato soup and my non-Sloppy Joe-loving wife liked it! Hey Mikey!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "KristenH"
+},
+"reviewBody": "I made the recipe as written. I will add pepper next time but the plates were clean so we'll have it again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Don Copeland"
+},
+"reviewBody": "Just like mom's"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kevin Brooks"
+},
+"reviewBody": "omitted celery..nice recipe...will make again . Thanks for sharing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Carrie"
+},
+"reviewBody": "We liked this recipe. Quick and easy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Tuesday"
+},
+"reviewBody": "Bland"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "pureokie"
+},
+"reviewBody": "not my favorite"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ghostfox"
+},
+"reviewBody": "These were pretty good! I didn't use celery because I didn't think my family would like it. It seemed to lack something when I was done, so I added some KC Masterpiece Kentucky Bourbon BBQ sauce, and it definitely tasted better (to us). I'll probably make it again."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/69549/neat-sloppy-joes/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/251/main-dish/sandwiches/",
+"name": "Sandwich Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/14930/main-dish/sandwiches/sloppy-joes/",
+"name": "Sloppy Joe Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/69549/neat-sloppy-joes/",
+"name": "Neat Sloppy Joes"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

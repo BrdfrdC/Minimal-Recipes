@@ -1,0 +1,450 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Meatless Mincemeat Pie"
+,"datePublished": "1999-03-30T14:15:30.000-05:00"
+,"dateModified": "2020-03-04T23:53:21.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "MARBALET"
+,"url": "https://www.allrecipes.com/cook/39277"
+}
+]
+,"description": "Take some prepared mincemeat and stir in walnuts, diced apples, brown sugar, lemon juice, and brandy. This rich filling is chilled overnight, then piled into a prepared crust, topped with a lattice crust, and baked for a delicious meatless mincemeat pie."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/NiGGkS-YcAiXv-xm9N_3IdoM178=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4587652-a2f1790a72774735916b7dc4d2f74da9.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Meatless Mincemeat Pie"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "26"
+}
+,"cookTime": "PT40M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "463 kcal"
+,"carbohydrateContent": "60 g"
+,"fiberContent": "6 g"
+,"proteinContent": "5 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "261 mg"
+,"sugarContent": "42 g"
+,"fatContent": "24 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"1 (18 ounce) jar prepared mincemeat pie filling",
+"1.5 cups chopped walnuts",
+"2 apple - peeled, cored, and chopped",
+"0.5 cup packed brown sugar",
+"0.25 cup rum",
+"1 tablespoon lemon juice",
+"1 recipe pastry for a 9 inch double crust pie" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine mincemeat, walnuts, apples, brown sugar, rum, and lemon juice in a bowl; mix well. Cover and refrigerate overnight."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 425 degrees F (220 degrees C). Adjust a rack to the lowest position."
+} ,{
+"@type": "HowToStep"
+,"text": "Take mincemeat filling out of the refrigerator and let it come to room temperature."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, prepare pie crusts. Line a 9-inch pie plate with 1/2 of the dough; reserve remaining dough for the top."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir mincemeat filling well, then pour into the prepared pie plate. Top with reserved pie crust and make slits or a lattice top. Crimp edges."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven on the bottom rack until golden brown, about 40 minutes."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT550M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dennis Williams"
+},
+"reviewBody": "Great recipe - always mix ingredients the night before ( put in refrigerator) and allow to come up to room temperature before baking - if in a hurry, place bowel in a deep pan of warm water and stir frequently. It looks best with a lattice crust. Be sure to use an egg wash (I use one egg with a couple tablespoons of water) - it makes it brown nicely and it glues the parts together."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "joy"
+},
+"reviewBody": "So rich and delicious! I agree with the other reviewers - too much sugar, and that’s not something I say often. But still a wonderful treat."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Debra Fernald"
+},
+"reviewBody": "added a few extra touches but a big hit"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Goodsue"
+},
+"reviewBody": "This recipe is a lot like the one my mother used.\nI made it without the sugar or lemon juice. I used half walnuts and half pecans. It was a hit, but the competition at Christmas dinner was a pecan pie. But the mincemeat came in a strong second!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Vicki"
+},
+"reviewBody": "I have a deep dish Emile Henry pie pan which makes a BIG pie. I used 2 packages of NoneSuch condensed mincemeat. Reconstituted it in 1/2 cup of brandy and 1 cup of water. Brought it to a boil and then added 2 tbsp lemon juice. Tasted it and decided Marbalet was right about the brown sugar. Added 1/4 cup Splenda's brown sugar blend. Tasted it again and ended up with the 1/2 cup she recommended. Brandy isn't as sweet as Rum! Set it aside to cool. Diced 3 green granny smith apples. Tossed the apples in 3 tbsp flour mixed with 2 tbsp melted butter. Used 1 cup of fresh pecans instead of walnuts since I don't like the bitterness of walnuts (even though they are healthier for you). Pureed the pecans in my Nutrabullet. I meant to chop them but the gadget is so powerful it practically pureed them and that turned out to be a delicious mistake. Mixed the apples and nuts together and put them in a Pillsbury prepared pie shell. Then poured the mincemeat over it. Topped with another Pillsbury pie crust and crimped the edges. Poked a few holes in the top. Brushed 2 egg yolks mixed with 1 tbsp of water over the crust. Served it warm with vanilla ice cream and lemon sauce (Juice from 2 lemons, 1/2 cup powdered sugar and 1 cup water whisked over medium heat for a few minutes). it was a big hit! OOhs and Ahhs from people who said they didn't like Mince Meat pie! Next time I'll refrigerate the mincemeat overnight &amp; try Rum as suggested. The brandy was good though!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "PatchiePoo08"
+},
+"reviewBody": "My mom asked for a mincemeat pie last year for Christmas. I used this recipe as is and she raved about it all year. Guess what she asked for again this year?!?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JULIAfred"
+},
+"reviewBody": "Just like I remember from my childhood! I added 1/3 cup of orange peel, brushed the crust with butter and sprinkled w/sugar. The pie was a little over-stuffed, so I might use slightly less filling next time -- eat the rest w/o crust! Thanks for this yummy, hard-to-find recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Janie Strejch"
+},
+"reviewBody": "I made this for Christmas and everyone loved it, great recipe and easy, like the other reviews..i did not add the suger and it turned out wonderful"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laurie Jamieson Frithiof"
+},
+"reviewBody": "A very good recipe, so much better than store bought. I suggest tasting the filling before adding the sugar because I felt it was just right without the extra sugar. Thanks for sharing this great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sheba"
+},
+"reviewBody": "Actually I don't like mincemeat pie but I made it for my sister and dad who love it. I added a tsp of apple pie spice to it and it went over just great. They said it tastes just like it should. I guess it can depend on the brand of mincemeat you use. I used Crosse &amp; Blackwell."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This was simple and delicious. The best mincemeat pie ever. My family loved it. The recipe made more than I needed for 1 pie so I used the leftovers and made a country tart and topped the mincemeat with sliced canned pear and that was delicious also."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Angela Perryman"
+},
+"reviewBody": "This was simple and delicious. The best mincemeat pie ever. My family loved it. The recipe made more than I needed for 1 pie so I used the leftovers and made a country tart and topped the mincemeat with sliced canned pear and that was delicious also."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer Terry"
+},
+"reviewBody": "This is my first mince pie. I used Nonesuch mincemeat (which isn't meatless!) and cut the sugar in half (and could have omitted it). I figured I'd use my deep dish pie pan so I used 4 small apples and the whole 27 ounce jar of mincemeat. After I'd let it chill overnight I discovered that even with the extra filling it was too little for the deeper pan. I used a regular pie pan and it was fine. I'm not sure how it would have worked with only 18 ounces of mince and 2 apples, though! I also added about 1/4 cup of flour, as the filling had a lot of liquid. It went over surprisingly well. A very tasty pie!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Rachael"
+},
+"reviewBody": "I think mincemeat is something that you have to be in the mood for. No one else here in my house ever eats mincemeat, so I had this pie all to myself! It was a good winter pie."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Roaminggirl"
+},
+"reviewBody": "Great recipe for Mincemeat tarts! The best I've ever eaten by far! Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "marie styles"
+},
+"reviewBody": "This is sensational! I would never think of putting nuts in a mincemeat pie! Thank you for your inspiration and also for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Loki1"
+},
+"reviewBody": "Great recipe! I had never made mincemeat tarts, but they turned out great for my first time! Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kim"
+},
+"reviewBody": "I don't know what mincemeat pie is supposed to taste like - it isn't a dish that was made in my family. But hubby requested that I try one, &amp; I chose this recipe. I used ready-made pie crust, and followed recipe using rum but also mixing in 1/2 cup each golden raisins &amp; sweetened dried cranberries. For the top pie crust, I used a Linzer cookie cutter to make 1 decorative cutout, brushed with milk, &amp; baked. After 30 minutes, we brushed the top crust with beaten egg &amp; dusted with sanding sugar. Pie was lovely &amp; hubby loved it! Obviously, a good recipe with winning results on my first try. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lovestohost"
+},
+"reviewBody": "The pie made Gram LTH's 83rd b-day! She said it was just like the mincemeat pie she enjoyed in her childhood. I couldn't bring myself to try it, so I can't speak from my experience, but all of those that ate it said it was great! I followed the recipe to a *t*, as I had no clue what mincemeat pie was supposed to be like! TY for making Gram LTH's bday!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Dawn Wintour"
+},
+"reviewBody": "This is a good recipe for dressing up premade filling. Although I would leave out the sugar, it was too sweet in the end."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Trish"
+},
+"reviewBody": "This recipe turned out great. Make sure you do the egg wash on top of the crust. It makes such a difference"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "carole"
+},
+"reviewBody": "When my sister-in-law asked that I bring a mincemeat pie for Thanksgiving I thought..ewwww! I love to cook and bake, so I was determined not to just purchase pre-made pie filling. I saw this recipe, followed it exactly, added some dried cranberries. It was a hit, I'm sure this will be one of my new requests every year!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SANDRAROSE"
+},
+"reviewBody": "Absolutely wonderful"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "TEJANI"
+},
+"reviewBody": "Thank you, I was looking for the ingredients to the spanish Empanadas and this is them. But, I use pork roast with it. Thank you, again for refreshing my memory.\r\nThank you.\r\nTejani."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/12575/meatless-mincemeat-pie/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/808/desserts/pies/fruit-pies/",
+"name": "Fruit Pies"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/12949/desserts/pies/fruit-pies/mincemeat-pie/",
+"name": "Mincemeat Pie Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/12575/meatless-mincemeat-pie/",
+"name": "Meatless Mincemeat Pie"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

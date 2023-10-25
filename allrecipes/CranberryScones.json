@@ -1,0 +1,1428 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Cranberry Scones"
+,"datePublished": "2020-06-18T23:05:36.000-04:00"
+,"dateModified": "2022-12-08T14:39:40.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Cristina Gomez"
+,"url": "https://www.allrecipes.com/cook/235706"
+}
+]
+,"description": "A quick basic scone recipe made with chopped fresh cranberries, orange zest, and walnuts."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/GN_KJ5H6aSiq34TO4zXoJbKQWME=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7626724-cranberry-scones-kimbowe-4x3-1-dbda464f751148a6b16babb6d73963e3.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Cranberry Scones"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.4",
+"ratingCount": "254"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "211 kcal"
+,"carbohydrateContent": "29 g"
+,"cholesterolContent": "31 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "4 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "174 mg"
+,"sugarContent": "11 g"
+,"fatContent": "9 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"2 cups all-purpose flour",
+"0.25 cup packed brown sugar",
+"1 tablespoon baking powder",
+"0.25 teaspoon ground nutmeg",
+"0.25 teaspoon salt",
+"0.25 cup butter, chilled and diced",
+"1 cup fresh cranberries, roughly chopped",
+"0.33333334326744 cup white sugar",
+"1 grated zest of one orange",
+"0.5 cup chopped walnuts",
+"0.75 cup half-and-half cream",
+"1 egg" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat oven to 375 degrees F (190 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "In a large bowl, stir together flour, brown sugar, baking powder, nutmeg and salt. Cut in butter until mixture resembles coarse crumbs."
+} ,{
+"@type": "HowToStep"
+,"text": "In a separate bowl, toss cranberries with sugar; add to flour mixture along with orange peel and nuts. Mix lightly."
+} ,{
+"@type": "HowToStep"
+,"text": "In another bowl, beat together cream and egg; slowly pour into dry ingredients, mixing with rubber scraper until dough forms. Knead dough 4 or 5 times, being careful not to over handle. Divide dough in half. Turn out onto lightly floured surface. Shape each half into a 6 inch circle. Cut each circle into 6 wedges. Place scones on lightly greased baking sheets."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in preheated oven until golden brown, about 20 minutes."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT40M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carol Yohe"
+},
+"reviewBody": "My scones came out perfectly. I had to add an extra tablespoon of cream to collect all of the flour. I used freshly dried cranberries that still maintained some moisture but added a bit of water and heated. My circles were larger than 6\" to allow proper thickness. Yummmm"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Reginamarie"
+},
+"reviewBody": "Yum! These turned out great. I didn't have half and half, so substituted with whipping cream, otherwise followed the recipe as written. I will definitely make them again. Thanks for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brenda Little"
+},
+"reviewBody": "Loved this recipe. My first time making them. I did sub. applesauce instead of cream. I also dropped by IC scoop. I have a propane stove so my cooking time was 13-14 mins. 6 scones per cookie sheet. They are Awesome"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "northwing"
+},
+"reviewBody": "These turned out very good. I think I did something wrong, my batter was very wet. It may have been my cranberries - they were perhaps to liquid. Any insights from someone else would be appreciated."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Meagan King"
+},
+"reviewBody": "This was bomb.com I made as directed only I used heavy cream instead of 1/2 &amp; 1/2. It was amazing. They were yummy, beautiful, and gave them as gifts. I must admit I didn't make a drizzle glaze. Instead topped with butter and turbinado!!!! They were talked about for weeks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Pam Smith"
+},
+"reviewBody": "I followed recipe pretty much\nThese were very good however next time(and there will be a next time)I will leave out the orange zest or reduce it\nI used frozen cranberries and my dough was a little wet so my scones didn’t rise much\nI’ll tweak it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "buzz"
+},
+"reviewBody": "Excellent. I have not made scones before, these turned out delicious. I will make these again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Melissa Booth"
+},
+"reviewBody": "This recipe is delicious! I did take the orange juice and make an icing for them with confectionery sugar. Wonderful!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mike"
+},
+"reviewBody": "These scones were great. Be careful with the Ingredients must be exact to much liquid makes a big mess."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Heather"
+},
+"reviewBody": "Great recipe. I substituted 1/2 cup yogurt for the half and half, and added more cranberries and 1/3 cup white choc chips. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gail P"
+},
+"reviewBody": "First time I have made scones. I used 35% whipping cream mixed with a bit of 5% cream. The dough was ok to turn out, pat down and cut. I also did half with chocolate chips and nuts, not adding sugar and other half with fresh blueberries and a bit of grated lime with sugar as in recipe. This was because I didn’t have any oranges or cranberries. Next time I will follow the recipe to see if it is even better! Overall pretty yummy with tea or coffee in hand."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jlynch12940"
+},
+"reviewBody": "Yes, I added orange extract instead of orange rind.\nI will definitely use this recipe for cranberry scones again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Popphan motor industries"
+},
+"reviewBody": "Overall pretty good. The dough was a little stickier than expected though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "analyticalblonde"
+},
+"reviewBody": "We liked these scones but as others have mentioned, the dough is too sticky as written. The dough could not be \"formed\" into circles for cutting...ended up having to blop the dough on the sheet pan and cook as blobs. They tasted great but looked like drop biscuits. Will be incorporating more flour next time so the dough can be handled properly."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kimbowe"
+},
+"reviewBody": "Great recipe for scones! I followed the recipe as is until I realized my cranberries were bad so I substituted Craisins. I also didn’t have half and half but I did have heavy cream. After mixing, my dough was too dry so I cut the orange in half and squeezed the juice of half the orange into the batter. Just before placing the scones in the oven, I sprinkled them with some turbano sugar. I used the juice from the other half of the orange, mixed it with some powdered sugar and made a glaze which I drizzled over the finished scones. They tasted AMAZING! I have now made this recipe three times in the same manner. I varied the shape each time (triangles, biscuits circles, and ice cream scoop balls) watching the baking time for doneness."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "pam"
+},
+"reviewBody": "I’ve made many different types of scones. My favorite is cranberry orange. I chose this one because it didn’t have a long list of ingredients that wouldn’t have made that much difference anyway. The only thing I changed was I added 2 1/2 cups of flour instead of 2 cups and 1/4 cup Splenda instead of white sugar. The 1/2 extra cup of flour made for a better dough. The Splenda instead of sugar cut down the calories, if only a small amount. They were absolutely delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jessica Strange"
+},
+"reviewBody": "Makes a very soft, very sweet scone. The dough was too soft to roll out, so I made drop scones."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah Solano"
+},
+"reviewBody": "The batter was too moist to knead so I just used a large scoop. \n They came out wonderful (and moist!) I also made a glaze with the juice from the zested orange."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "laurenholly2008"
+},
+"reviewBody": "Absolutely loved these! I totally missed the part where I was supposed to chop the cranberries and instead left them whole. Still amazing! Also I didn’t have half and half so I used whipping cream. They had to bake a little longer but they were fantastic! Made them yesterday and they’re almost all gone!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stacy Fuhs-Brown"
+},
+"reviewBody": "So tender! Loved the spicy nutmeg with the tangy cranberries! Yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Tanya Cobb"
+},
+"reviewBody": "Terrible way too much cream not enough flour"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Diane North"
+},
+"reviewBody": "I loved this recipe. I made them bigger because they were more moist that way. thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "simone"
+},
+"reviewBody": "These turned out great. I’d made scones once before but they came out dry but this recipe works. I made a few changes based on what I had on hand. I used lime zest instead of lemon, didn’t have cream so added quarter cup butter to 3/4 cup milk, I used honey and added some chopped pecans. Delightful!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "betj"
+},
+"reviewBody": "No changes -- maybe I should have added 1/2 cup flour as many others did. The batter/dough looked fine in the bowl but as soon as I put it on the baking sheet it started spreading out. These ended up looking like large flat-ish crosses between a cookie and cake. The taste is OK, but it's not something I'll make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Doreen Bonaldi"
+},
+"reviewBody": "Will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Eva"
+},
+"reviewBody": "Delightful way to use up the cranberries I found in the freezer. I didn't change anything and they were wonderful. Next tine I might add almond extract as suggested and maybe more orange flavor - but they were wonderful as is."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Edie Herfel"
+},
+"reviewBody": "i made a triple batch but the batter was very runny. i ended up adding 2 more cups flour, 1T baking powder, 1/4 t cinnamon a nd 1/4 t salt to the triple batch . it thickened it up and they came out delicious. i wish i new how to make the sugary crunchy top for scones like you get in the bakery, i prefer that over the frosting."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Charlotte"
+},
+"reviewBody": "Delicious! I will make this during the holidays."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Camaro9814"
+},
+"reviewBody": "As with other reviewers I had to add more flour to the mixture before cutting up to bake. The recipe came out great and would make it again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dmw"
+},
+"reviewBody": "Everyone enjoyed these. I followed other reviewers suggestion to make it in a round on the pan and cut into wedges after baking"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "RUBYCOC"
+},
+"reviewBody": "Delicious! I did not change the recipe at all. I did, however, make a little frosting using my leftover orange for the juice in the powdered sugar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Julie Trombley"
+},
+"reviewBody": "After reading the reviews I also substituted 1/2 cup yogurt for 1/2 cup of the half and half. My yogurt was plain nonfat and the dough was a little dryer than other bakers described. But the result was very tasty. If I make them again I will use the full fat yogurt to compare the difference. I do like to lower the fat and sugar when possible."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Phyllis Taunton"
+},
+"reviewBody": "Delicious! Easy! Will make again!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jackede"
+},
+"reviewBody": "This was the second time I made this recipe. I love scones, especially when they have a little crunch. I doubled up on the butter and cooked them just a tad longer then 20 min. They are just absolutely delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bjwpick"
+},
+"reviewBody": "I used only 1/2 cup of half and half. Worked great and tasted great"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Max"
+},
+"reviewBody": "Made it as described. Per the other reviews the batter was sticky but that did not bother me. Scones were more moist and light than I thought they would be. Very tasty and not too sweet. I also added dried cranberries and a little orange extract as I did not have any oranges. I added a sweet, smile orange glaze to half of them. I would put marmalade on the others. Would also make smaller ones next time as these are sizable if you make just 6. A keeper for those who love scones. Recipe was straightforward."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kjjp"
+},
+"reviewBody": "Had to skip the walnuts because of the nutphobics in my family but these are perfect!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "IamtheBorg"
+},
+"reviewBody": "Too many cranberries. Would use half as much. Also, the recipe shows an icing on them but it is not included in the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Dot J Freel"
+},
+"reviewBody": "Kind of dry"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "TeLoBrown"
+},
+"reviewBody": "Easy and delicious!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "gpcardone"
+},
+"reviewBody": "Out of this world DELICIOUS!\nSticky dough indeed, just plot tablespoon amounts on pan and bake.\nGreat with Ocean Spray dried Craisins."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "christi"
+},
+"reviewBody": "I doubled the butter, cut down the cream to 1/2 c and things turned out fine- I saw that some people had issues with the “batter”.. so I added cream a little at a time starting with 1/4 cup. For the folks who had trouble with it being too watery check your liquids twice- also I did use a very large egg. I like my scones moist so I added the extra butter - I also like a bit of egg wash and sugar sprinkled on top. They’re great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chaz Thompson"
+},
+"reviewBody": "Reading the reviews, I decided to make a half batch. I used 1/4 cup of half and half for the half batch. They turned out great, I baked exactly 18 minutes on convection setting. Great recipe provided you cut down the moisture."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Srvhim4life"
+},
+"reviewBody": "I made this and thought it came together perfectly. The only alteration I made was to use whipping cream, because that is what I had on hand. I also used maple syrup instead of granulated sugar. Because I didn't have an orange I used a lemon. I mixed it all together with my hands and put it on baking paper, shaped it and baked it for 25 minutes. I didn't find it as sticky as others were commenting on."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Annette Hester"
+},
+"reviewBody": "Had to add much more flour and the cooking time was longer. The flavor was bland."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Julie Stoltz"
+},
+"reviewBody": "Very good recipe, makes a super moist product. I recommend hand stirring everything, otherwise they become just really big fluffy cookies and not scones."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "toonceme"
+},
+"reviewBody": "Very yummy. Only thing had to lower amount of cream (used milk) because was very wet. Many compliments; everyone loved t"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Eve"
+},
+"reviewBody": "There is a problem with this recipe. If I use the ingredients as listed, the batter is very thin and goopy, just like others have described. I used the yogurt as some suggested, but the batter was still far too thin to roll out. So bakers have to choose if they want to use the ingredients as written and then drop the scones on a baking sheet with a spoon, or if they want add LOTS of extra flour and perhaps cut back on the amount of liquid, so that they end up with a firm enough dough to roll out and cut into circles, as the recipe instructs. I went with the second option. The results taste okay, but are a bit chewy. The next time I want to use up left-over cranberries, I'll look for a different recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mcfarlee"
+},
+"reviewBody": "I didn't have cream on hand, so I used mostly plain yogurt and some milk as a substitute, and they were delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Maureen"
+},
+"reviewBody": "I have made these twice in the last couple of weeks and will be making another batch tomorrow. The dough is very sticky and since making the first batch I have purchased a dough scraper. Using a spatula I turn the batter out onto my flour covered granite countertop and sprinkle flour on top and keep lifting and turning the dough. I forms a nice 6\" circle that I cut into 6 wedges and lift with the dough scraper and set individual wedges on my baking pan. ( I bought my metal scraper at Bed Bath and Beyond and I love it!) Thank you for this recipe, I follow it exactly other than a little more flour while kneading."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sheri Levasseur"
+},
+"reviewBody": "I have a favorite local coffee shop that sells scone mix..but it was closed when I needed it, so I tried this recipe with a couple variations... I used frozen raspberries, white chocolate chips and skipped the nutmeg and orange zest. I sprinkled white sugar on the tops and baked about 17 minutes in convection oven. They turned out great...and were so much more affordable. I'm hanging on to this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Butterfly23"
+},
+"reviewBody": "This recipe needs more flour. After mixing all of it the dough was so sticky. I had to keep kneading and coating it with flour. Once it became semi manageable I used a bakers spatula coated again with flour to flatten a circle to cut into segments. They turned out delicious. Just the next time I’ll add a half cup more flour."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DOCTORDON"
+},
+"reviewBody": "17 minutes baking is perfect! Made a glaze from powdered sugar and Triple Sec, with a little orange peel."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Tanya Stephens Ehrler"
+},
+"reviewBody": "What a mess. The dough was far too loose to knead.\nMAJOR disappointment."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Linda"
+},
+"reviewBody": "Very tasty, but a little dry."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Alicia Kidwell"
+},
+"reviewBody": "Recipe is easy and tastes great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Ella-Scafidi Johnson"
+},
+"reviewBody": "This was a disaster! Too much cream and not enough flour. Too bad."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Jola Johnson"
+},
+"reviewBody": "Even with 1/4 c less liquid, this was a soft cake-like pastry."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joan"
+},
+"reviewBody": "Made these for our womens group. They came out excellent. Very pleased."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kendra Hoover"
+},
+"reviewBody": "Great taste but turned out a little doughy, will try with yoghurt next time! Big hit with the family!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "wendy galgano"
+},
+"reviewBody": "I added a dusting of flour when I needed and shaped the dough. I also used a cup of dried cranberries and used half the white sugar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amy Olson- Van Putten"
+},
+"reviewBody": "Great recipe. I used pearl sugar on the top (before baking) and also I made a light drizzle for the top using powdered sugar, milk and a dash of orange flavoring. I will sell these in a coffee shop so I made the recipe into 6 instead of 12."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tonya Williams Wilson"
+},
+"reviewBody": "First time making or eating scones.... I read all the reviews and made a few adjustments. I used raisins and cinnamon, instead of cranberries and nutmeg, and evaporated milk instead of half and half since that is what I had on hand; otherwise I followed the ingredients. I stirred the ingredients together rather than trying to knead it. After mixing the egg/milk mixture in with the dry ingredients, I allowed it to rest for about 5 minutes or so. The mixture was sticky, more like a thick batter than a bread dough, but rather than add additional flour to be able to roll, I just used a serving spoon and spooned portions onto the baking pan. The end result was nicely browned on the outside and tender inside. With butter and jam, my family gave them 2 thumbs up! I will be making them again. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stephanie"
+},
+"reviewBody": "Loved this! I didn't have half and half, so I substituted whipping cream and a little milk. At the last minute, I tossed in about a tablespoon of fresh orange juice, too. They are amazing! I'm going to try with blueberries and lemon next time!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Croakie"
+},
+"reviewBody": "I decided to try scones today. So easy and these are really good! Per the reviews, I substituted 1/2 c of regular yogurt for the half and half and I put pecans instead of walnuts. I will definitely make these again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Deby J"
+},
+"reviewBody": "These are hands down the best scones. Tender, moist, sweet and tart. I did not knead the dough, just folded in the flour in the bowl. I omitted the walnuts (not nut funs here) and added a spoonful of homemade cranberry sauce to the center of each scone before baking. My husband says they are the best scones I've ever made."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ceejae"
+},
+"reviewBody": "I don't like to rate things that I change, but perhaps this will be helpful. I used sour cream, rather than cream, and the dough turned out just right. I also used a food processor, rather than doing by hand. For scones, use a light touch! Nothing more than a few pulses. Also let the scones rest 10 minutes, prior to baking. These taste so fresh and zesty, they are wonderful! I add a glaze of confectioners sugar, butter, orange juice and zest mixed together, after they cool."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Chris Braun"
+},
+"reviewBody": "Not a good scone recipe\nThis dough was way too wet and very hard to work with. The pic has a yummy looking glaze on the scones but there is no recipe for it. I made My glaze with powdered sugar, orange juice and orange zest. \nI will be looking for a new recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CocoMama"
+},
+"reviewBody": "These were the first scones I had ever made and they were delicious. I've made them several times; always at Christmas. They were a real hit when I hosted a table at an Advent Tea. The only thing I change is to substitute pecans for walnuts, as I always have a big supply in the freezer. Don't be put off by the fact that they are not easily kneaded -- like, not at all for me. I just schmoosh it all into a circle and cut into wedges and manage to transfer them to a parchment lined baking sheet. Yes, the dough is really sticky, but you will develop your technique after a couple of bakings. You'll love these!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Laurie N."
+},
+"reviewBody": "The recipe as written is useless. I had to add about 1 cup flour to mke it hold shape. With 50% more flour, all the other ingredients were out of proportion. I kneaded in more sugar, nutmeg and cranberries and they were still bad. There are better recipes on this site- use them"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DHALE2"
+},
+"reviewBody": "The only change I made was using 1/2 cup cream, based on other reviews that the dough was too runny. The dough worked great for me and I sprinkled a little sugar on the top to sweeten them up for my kids before I baked. (the glaze recipe should be included here too). This recipe will be a regular!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "eleanor mancini"
+},
+"reviewBody": "would defintley make again- would use less cranberries though, or at least make sure the cranberries are ripe enough too because i used a cup of fresh cranberries and it was really sour, but still pleasant."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "annie d"
+},
+"reviewBody": "After reading the reviews, I doubled the butter (to 8 TBS) and cut the milk/cream down to 1/2 cup. Texture was still a little soft, but the outside was nicely crusty and the flavor was wonderful. A real hit with everyone."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Eve"
+},
+"reviewBody": "I made these a second time and found that if you add all the milk egg mixture the dough will be runny and if you drop by tablespoons you will have a drop scone. For a traditional scone only add the amount of mixture needed to bring dough together. If you use a lower fat dairy product it will bake out as cookies. They are very tasty, soft and flaat."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sandy"
+},
+"reviewBody": "Oh. My. Goodness! My first try at scones and definitely a keeper! Make sure to eat warm out of the oven!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ursula"
+},
+"reviewBody": "The only problem I had, was that the dough was too wet to separate and make circles. I even tried adding a little more flour. So I used a 1/4 cup measuring cup to scoop dough onto cookie sheet."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "timsgirlamy"
+},
+"reviewBody": "I didn't have half n half so I substituted half heavy cream and half milk. I also used dried cranberries but kept the white sugar. They were perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "debbiedesigns"
+},
+"reviewBody": "Taste was good, BUT dough consistency was way off. Even with an added 1/2 c. of flour, dough was still far too sticky to think about shaping. Rather than continuing to add flour, I finally scooped them out like really wet drop biscuits. . . I think I'd start with half the liquid called for and add from there as needed. (And, yes, I AM an experienced cook.) :-) I have noticed that many of the other 5-star rated scones on this site call for an egg wash--not for the egg to be incorporated into the dough. Doing that would also decrease the liquid a good bit and would probably mean that you did not need to add a lot of extra flour. . . Just an idea--haven't tried it that way. Again, they tasted good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nora Geldart"
+},
+"reviewBody": "I have made this recipe several times just as stated and other times with lemon peel instead of orange. Less is more when it comes to handling the dough. As my mom always said \" if you want good scones...get them into the oven quick\". Thank you for a delicious recipe!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Maria Avila"
+},
+"reviewBody": "These are amazing. However, I did make a few changes. I added 1 1/2 cups of flour and 1/2 cup of coconut flour. I also soaked my cranberries in 1/4 of orange juice along with the recommended sugar. Last sub is a 1/2 cup of homemade plain kefir instead of the cream. Adding an orange glaze for the top is delish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dining Diva"
+},
+"reviewBody": "Everyone loved them sooo much. I added white chocolate chips and orange glaze on top so next time I would cut down on the white sugar. Super easy to make and great consistency."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nate McBride"
+},
+"reviewBody": "I changed blueberries for cranberries and it was perfect!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Fiona Turro"
+},
+"reviewBody": "This was literally exactly what I was looking for!! They came out perfect! I've already printed out the recipe. Thanks! On the second batch I made I also added the juice of a lemon and added lemon zest rather than orange. Its pretty good as well, but the original recipe is better. Ty!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joelle"
+},
+"reviewBody": "Instead of half and half which I did not have I used sour cream mixed with soy milk. We replaced egg by the soy pulp (residue from soy milk making). \nEasy to follow recipe and very tasty (not too sweet either)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Colin O'Hara"
+},
+"reviewBody": "I did not make the disk. I just dropped spoonfuls of the dough.\nI did 15 min at 375.\nReally flavorful.\nI made an icing with more orange peel, some lemon and orange juice and powdered sugar. Added the final touch"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marta"
+},
+"reviewBody": "This recipe sounded good so I tried it. I didn't have half and half so substituted evaporated milk. Also substituted pecans for walnuts. Had to add a little extra flour when ready to kneed and shape. I live at a mile high so might have been a factor. These turned out to be the best scones I have ever made. Husband loved them. They were not dried out at all. Yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carla J Taylor"
+},
+"reviewBody": "This is delicious-just took my first batch of these out of the oven. They are tender, moist and oh so lovely. I made a few tweaks only because it's what I had on hand.\nI used fresh cranberries, which I chopped coarsely in the food processor with the walnuts and then set aside and dusted the berry/nut mix with 1/4 c white sugar. I omitted the nutmeg, but I placed the other dry ingredients in the order given, into the work bowl of the processor and pulsed a few times. I added the butter cubes and pulsed a few more times, till it resembled corn meal. I used 1/2 c vanilla Greek yogurt in place of the half and half, and and added 1 tsp of vanilla extract, and beat it with the egg before adding to the work bowl. Pulsed a few times. Turned out on a floured board and kneaded maybe 5 times, shaped and cut as directed. Baked on a buttered and floured baking sheet as instructed. I will be making these again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "PauletteW"
+},
+"reviewBody": "I made this recipe substituting the cranberries with Crasins and I used vanilla yogurt in place of milk. The texture was perfect, crunchy and the the combination of all the flavors in these scones was delicious. I will definitely use this recipe again and again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "sjk"
+},
+"reviewBody": "These scones turned out as flat as pancakes, even after I added flour, kneaded them, and attempted to cut them into triangles. They oozed all over the cookie sheet. The flavor was great. Perhaps changing the heavy cream to buttermilk will fix these sad scones. I will not be making them again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carson's Mommy"
+},
+"reviewBody": "My husband and I thought that this cranberry orange walnut scone recipe is excelllent. I substituted whole wheat flour for half of the all purpose flour. I also reduced the amount of half and half cream to half a cup in an attempt to correct the problem that some reviewers faced regarding the stickiness of the dough. Half a cup of cream gave me the perfect consistency to form the dough into balls, flattening them into 6-inch discs and cutting them into wedges. I will definitely continue to make these, particularly, if I want to impress guests and family with delicious breakfast or brunch!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kh93"
+},
+"reviewBody": "Best scones I've ever had!\nso easy to make!! :):)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Lauren M."
+},
+"reviewBody": "I substituted fresh blueberries halved for the cranberries and omitted the walnuts. Once everything was combined the \"dough\" had the consistency of a muffin batter and was incredibly sticky. It was impossible to knead or roll out. I added about 1/2 cup of flour as suggested by other users but the consistency still wasn't thick enough. In total I probably added 1.5 cups of flour just to make the batter workable. While they look great, they came out quite bland in the flavor department. I doubt I'll try this recipe again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "christikakuk"
+},
+"reviewBody": "Loved this recipe! Lost of folks said it needed a dash more flour so I did that, but then I needed to add a bit more cream to even it out, so all in all, leave it alone I think. Also, I used blueberries and had to kind of make them cookie shaped, but with an orange glaze this was lovely. Thank you for a great recipe and I hope to see more from you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Trish Shelton Grier"
+},
+"reviewBody": "Delicious! For half the dough I added semi sweet chocolate chips. Both were good but liked it best without the chips. My parents loved them!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mmcoble"
+},
+"reviewBody": "As a previous reviewer suggested, I substituted 1/2 cup yogurt and a splash of heavy cream and milk for the half and half. I also substituted a couple splashes of almond extract (approx. 1t) for the orange rind and nuts. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Teresa A Granville Ohio"
+},
+"reviewBody": "Loved these..and i am a scone snob..very light and soft. Not crusty hard and dry like some scones. I added white chocolate chips and used whipping cream. Then I drizzled orange glaze on top while warm. Also just dropped by spoon onto baking sheet..turned out perfect and very tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Arielle Darling"
+},
+"reviewBody": "Love love love this recipe! Have made it twice this week!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dhmiller 5"
+},
+"reviewBody": "Great recipe! It worked perfectly as it's written!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Katherine Muterspaugh"
+},
+"reviewBody": "This was pretty good. They had a strange texture, maybe because I didn't add enough extra flour and the dough was moist. They tasted good, just didn't look the best."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/24551/cranberry-scones/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/360/bread/quick-bread/",
+"name": "Quick Bread Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1997/bread/quick-bread/scones/",
+"name": "Scone Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/24551/cranberry-scones/",
+"name": "Cranberry Scones"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

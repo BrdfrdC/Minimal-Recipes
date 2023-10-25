@@ -1,0 +1,143 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Healthy Greek Chicken Panini"
+,"datePublished": "2008-06-27T22:41:51.000-04:00"
+,"dateModified": "2008-06-27T22:41:51.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Lacey Keath"
+,"url": "https://www.allrecipes.com/cook/2900090"
+}
+]
+,"description": "Hummus, feta cheese, and roasted red pepper add delicious Greek-flavor to this healthy chicken panini made on a multigrain tortilla."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/6uDLlsncIqiEmvwLrwgwzofFDNk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9404296-8a67125653564c1fa9b7c4f3146a8882.jpg",
+"height": 1000,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Healthy Greek Chicken Panini"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "3",
+"ratingCount": "1"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "549 kcal"
+,"carbohydrateContent": "50 g"
+,"cholesterolContent": "108 mg"
+,"fiberContent": "5 g"
+,"proteinContent": "52 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "1672 mg"
+,"sugarContent": "7 g"
+,"fatContent": "15 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 (10 inch) multigrain flour tortillas",
+"1 tablespoon hummus",
+"1 (4 ounce) grilled chicken breast, sliced",
+"2 medium roasted red peppers, drained",
+"2 tablespoons crumbled reduced-fat feta cheese",
+"1 cup baby spinach leaves, or to taste",
+"cooking spray" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat a panini maker."
+} ,{
+"@type": "HowToStep"
+,"text": "Lay tortilla on a work surface and spread with hummus. Top with sliced chicken, red peppers, feta cheese, and then spinach. Fold tortilla in half and spray with cooking spray."
+} ,{
+"@type": "HowToStep"
+,"text": "Grill in the preheated panini maker until outside is golden brown, 6 to 8 minutes."
+} ]
+,"recipeYield": ["1"]
+,"totalTime": "PT20M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "France C"
+},
+"reviewBody": "A decent lunchtime alternative to a real panini. I found the amounts to be a little off - 2 whole red peppers is way too much. I used 1 and that was way more than enough. I would highly suggest you thoroughly pat dry the roasted pepper, as it releases a ton of liquid as it cooks and leaves the bottom of the panini soggy, making it hard to eat. Can be tailored to your personal preferences using different seasonings on the chicken and different flavor hummus."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/282776/healthy-greek-chicken-panini/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/251/main-dish/sandwiches/",
+"name": "Sandwich Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16387/main-dish/sandwiches/panini/",
+"name": "Panini Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/282776/healthy-greek-chicken-panini/",
+"name": "Healthy Greek Chicken Panini"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

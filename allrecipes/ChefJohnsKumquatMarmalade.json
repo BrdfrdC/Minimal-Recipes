@@ -1,0 +1,677 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Chef John&#39;s Kumquat Marmalade"
+,"datePublished": "2016-04-28T02:35:39.000-04:00"
+,"dateModified": "2023-01-30T13:48:12.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Chef John"
+,"url": "https://www.allrecipes.com/author/chef-john/"
+}
+]
+,"description": "This unique kumquat marmalade is easy to make by boiling ripe kumquats, lemon, and sugar; cayenne pepper and star anise add a gorgeous flavor."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/p84IEpQvbZCAUhtUiaGw1ww7BS8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/247094_Chef-Johns-Kumquat-Marmalade_4x3_ddmfs_0890-82d0a5b759604cd4992334757882cac6.jpg",
+"height": 1125,
+"width": 1500
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=4892569571001",
+"description": "Spectacularly yummy marmalade.",
+"duration": "PT7M37S",
+"name": "Kumquat Marmalade",
+"thumbnailUrl": "https://static.onecms.io/wp-content/uploads/sites/43/2023/01/30/247094_Chef-Johns-Kumquat-Marmalade_4x3_ddmfs_0890.jpg",
+"uploadDate": "2021-07-18T12:56:54.994-04:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Chef John&#39;s Kumquat Marmalade"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "44"
+}
+,"cookTime": "PT45M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "35 kcal"
+,"carbohydrateContent": "9 g"
+,"fiberContent": "1 g"
+,"proteinContent": "0 g"
+,"sodiumContent": "2 mg"
+,"sugarContent": "8 g"
+,"fatContent": "0 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT45M"
+,"recipeIngredient": [
+"2 cups prepared kumquats",
+"1 cup white sugar",
+"1 cup cold water",
+"Zest and juice of 1 lemon",
+"1 star anise (I removed it after 10 minutes of simmering)",
+"small pinch of cayenne" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Quarter kumquats lengthwise; cut off the white center membrane and remove seeds. Slice quarters into small pieces."
+} ,{
+"@type": "HowToStep"
+,"text": "Place kumquats into a pot. Add sugar, water, lemon zest (white part only), lemon juice, star anise, and a pinch of cayenne; mix together. Cover and let sit at room temperature for 2 or 3 hours to allow fruit to macerate. Or you can refrigerate overnight."
+} ,{
+"@type": "HowToStep"
+,"text": "Place the pot over medium-high heat and bring mixture to a simmer, stirring occasionally. Reduce heat to medium; cook and stir occasionally for 10 minutes. Continuing cooking and stirring often until mixture is thick enough so that if you scrape a spatula across the bottom of the pan, you can briefly see the bottom of the pan before marmalade spreads back out, 30 to 40 minutes. Mixture should reach a temperature of 215 to 220 degrees F (120 to 125 degrees C). Remove from heat and allow to cool slightly, 5 to 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/p84IEpQvbZCAUhtUiaGw1ww7BS8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/247094_Chef-Johns-Kumquat-Marmalade_4x3_ddmfs_0890-82d0a5b759604cd4992334757882cac6.jpg"
+}
+]
+,"text": "Spoon warm marmalade into sterilized jars. Cover and let cool to room temperature. Refrigerate until thoroughly chilled."
+} ]
+,"recipeYield": ["32"]
+,"totalTime": "PT210M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marcia Kohari Allen"
+},
+"reviewBody": "Just made this. Turned out perfectly. Thank you for your wonderful instructions and clear tutorial. So excited. Flavor is divine and it's still warm."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "We love it. Second time I make it. So easy and very tasty. I leave out the spices because I love the qumquart taste on its own."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I followed the recipe with the exception of the amount of sugar, which I reduced by a quarter cup and the results were \"crowd pleasing\"! I can't wait to make another batch! Thx Chef!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christi Padgett"
+},
+"reviewBody": "A little labor intensive but totally worth it! Delicious!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "stephaniealicechang"
+},
+"reviewBody": "Delicious! The kumquats took a really long time to slice neatly but it was absolutely worth it. I sliced them lengthwise after quartering and cleaning them up. Bright, vibrant color and a really fresh, zesty flavor!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "pam"
+},
+"reviewBody": "It's tasty. I didn't put lemon rind in. But it does take time. I had enough kumquats for 4 batches."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "taniadziadosz"
+},
+"reviewBody": "The temperature conversion is very inaccurate and could cause the jam to over cook if one tries to get it to 120. 105 is accurate jam setting from my experience"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Sean Parker"
+},
+"reviewBody": "Way too much water in the recipe. \nI did like the chili and spice addition. I had no star anise handy so added cinnamon stick as advised.\nI used some gin instead of water as well which gave it a nice bitter kick."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allastair Mitchell"
+},
+"reviewBody": "This is the third year in a row that I made it, and It keeps getting better. I am the only one eating it, and it does not last very long. Simply delicious.\nI have two kumquat trees but they do not bear a lot anymore, the less that the other. I tried to up the yield, but was not very successful.Previous years I use to give it away, but with the start of the pandemic, I had lots of time on my hand.\nI manage three large jars a time"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Norann King"
+},
+"reviewBody": "My neighbor gave me Kumquats, I had no idea what to do with them don't care for them and didn't want to throw them out.\nI found Chef's and decided why not, I liked the idea of cayenne in it. I only changed the sugar to Monk Fruit to make it sugar free, and it turned out great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kimberly Claytor"
+},
+"reviewBody": "I made this exactly as presented in the recipe from all the kumquats on my tree. It's a lot of work taking out the seeds so I made a couple of batches by putting the entire fruit into a blender then scooped most of the seeds out when they floated to the top while cooking. I normally eat the seeds when eating the whole fruit so I figured it would be ok and each of the batches turned out great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Reinhold J"
+},
+"reviewBody": "Enjoyed making this marmalade, especially that I could exclude the unwanted bitterness by removing the white tissue and pips."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carmen Teresa McLevin"
+},
+"reviewBody": "Chef John you are my absolute favorite! Thank you for all your incredible recipes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SATABOR"
+},
+"reviewBody": "I made it. 3 times! Shared with friends. Didn't have star anise, so used stick cinnamon. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "D Copp"
+},
+"reviewBody": "The recipe is excellent. I have made it twice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sassy Davis"
+},
+"reviewBody": "The recipe was spot on. excellent results."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Deanna"
+},
+"reviewBody": "This is the most straightforward Kumquat marmalade recipe ever for small quantity of fruit. So happy, not at all excessive liquid, just perfect balance.\nGood one Chef John"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Deborah Kirk"
+},
+"reviewBody": "It is delicious. Was not clear how much star anise to use and so I had six cups of Kumquats and used two star anise. Seems just right."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DeDe"
+},
+"reviewBody": "This was my first time using kumquats and we loved the recipe! I received SO many fruits from a friend's organic tree that I decided to make it X 6! Well, way to much water, I should have known and cut the amount. It did not set up. I even followed another recipes hint to put the seeds in cheesecloth and boil them with fruit. So I mixed in 4 envelopes of unflavored gelatin and that worked. They set up beautifully. I loved the star anise and cayenne. What a pleasant refreshing citrus flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Livelife"
+},
+"reviewBody": "Came out perfect and oh so simple to make. I got lazy and didnt remove all the pith and yet its delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Heides314"
+},
+"reviewBody": "This was my first time making a marmalade and I do not regret it! Had a wonderful neighbor who shared a big bowl of kumquats from their tree. The recipe was labor intensive but well worth the investment. I exchanged the star anise for a cinnamon stick, and did not remove until the end. The marmalade ends up the most gorgeous deep amber color, and I am now inspired to try it on all sorts of things, like pancakes with marmalade, fresh pineapple and honeycomb. Thank you for the recipe and video!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jamigail"
+},
+"reviewBody": "I think I love it....what I noticed is the marmalade appeared to be cooked enough at 180º. It's a beautiful color and for all the work and following the 2 cup directions I barely got 9 ounces. \nHowever I had cute little 3 ounce jars."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "maytee2015"
+},
+"reviewBody": "This is my first time I made kumquat marmalade. I didn't put star anise since my husband does not like it but I put cinnamon stick instead. It was delicious. It is one of my favorite marmalade."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "pieter"
+},
+"reviewBody": "I made this and followed the recipe. Used a cinnamon stick and macerated overnight.\nPerfection - thank you Chef John"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "methink737"
+},
+"reviewBody": "My husband said this is his favorite thing he’s ever had on toast. Left out the spices as I didn’t have star anise on hand and I’ve never used it so I wasn’t sure if I’d like the flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Junebug"
+},
+"reviewBody": "I didn't have the anise star, so I added a little cinnamon. It was a good simple recipe that produced a beautiful and tasty marmalade. With that said, the kumquats are very time consuming to prepare, so I'm not sure I would make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dorothy Owens"
+},
+"reviewBody": "Incredible recipe. I made this with orangekuats from my parents tree. I also added some of the vanilla sugar that I had made. Yum. \nNext up. Using the marmalade on empire biscuits."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Susan Bray Garrison"
+},
+"reviewBody": "I've made kumquat marmalade for the past 3 years, but couldn't find my recipe. This one was much easier than the others I've seen. Most jellies/jams say to stay with the recipe's measurements, but because this has no added pectin I doubled the recipe. It turned out great, but only produced 3 small jelly jars. Next time I will quadruple. I use the entire kumquat (except the seeds). Your kumquats need to be fresh picked or can be kept in the refrigerator for probably up to a week. They dry out quickly if left at room temperature. This was the first year both my kumquat and my Meyer lemon tree produced, so I used them. They are not as tart and substantially larger and juicier than storebought lemons which offset the tartness of my kumquats. Some kumquats are sweeter, so you would want to use regular lemons with those. I left out the spices, as I've tried spiced recipes in the past and didn't care for it. It was so good, I'm ashamed and yet proud to say that my husband and I ate 2/3 of a jar the day I made this recipe. Also, this recipe doesn't mention it, but if you want to store them in the cabinet, cover the filled jars with hot water, bring to a boil, and boil for 5-10 minutes. Then remove. After they cool, check to ensure they sealed by pressing in the center of the lid. If it pops, it's not sealed and you would need to store that one in the refrigerator."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "James"
+},
+"reviewBody": "I have made two batches. The tedious parts are removing the seeds and chopping. I am going to try to incorporate a food processor hopefully to simplify the process/ I have a tree full of kumquats with which to experiment.\nDon't omit the cayenne pepper - a pleasant sting to the taste :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Julie Watana"
+},
+"reviewBody": "I like the addition of cayenne pepper for a small bite but it needed a LOT more sugar. Guess my fruit was more on the tart side. Didn't have any anise seed - I'll try this next time. Thanks"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MagnaMum"
+},
+"reviewBody": "I skipped the cayenne pepper and lemon as I'd read another receipe that said to put all the pips into a muslin while softening the rind to extract the pectin. Otherwise pretty much followed this recipe. The video showing how to chop the Kumquats was great, the actual process is exhausting. The marmalade was delicious however so I guess all good things take a little time. Flavour and colour of this this is amazing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "opalowlz"
+},
+"reviewBody": "Delicious recipe! It's worth all the labor of cutting and trimming because the end result is so good! I preferred julieanne cutting the kumquats instead of quartering and I fined using scissors to trim the inside easier than cutting it off with a knife. I would make this again. Thank you Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Electric Daisy"
+},
+"reviewBody": "Ohmygosh. This recipe is fantastic. Everyone in my house loved it, even the marmalade-haters. Cleared out my kumquat tree but I’m saving it for next season. Now I know why I grow kumquats!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jerry"
+},
+"reviewBody": "Delicious. We made 4 cups. Help please, does this always have to be refrigerated?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "John P"
+},
+"reviewBody": "This exceeded my expectations, it's so delicious, and easy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "gaelin"
+},
+"reviewBody": "My kumquats were a little on the sour/bitter side, so I had to increase the sugar just a bit. This recipe is perfect though, and definitely a keeper for any marmalade lover. :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Wanda Haldane"
+},
+"reviewBody": "Easy recipe but lots of prep time for kumquats. Used more zest because I like the appearance and texture. FYI, one cup prepared fruit translates to about one cup of finished preserves. One serving is 2 weight watchers points."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Strevale"
+},
+"reviewBody": "I made this with maple sugar. I'm not sure why this doesn't include the pinch of cayenne that is called for in the video or the star anise pod, but it should. I used a cinnamon stick instead of the star anise pod. I liked it, but it tends to irritate my mouth after eating it for a couple days. It's good, but I'm not sure that it is worth the trouble."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laurie Kennedy-Huber"
+},
+"reviewBody": "This was a labor of love that was totally worth it! I would cut the pieces smaller next time but it is delicious!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Penny Clay Boykin"
+},
+"reviewBody": "Second time to make this. I’ve made 2 batches this year. 8 cups each time. I reduced the water to 3 cups for 8 cups fruit. Thicker and yummy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cindy Bighorse-Chadwick"
+},
+"reviewBody": "I'm not a big fan of marmalade, but this is delicious. I did take the liberty for a small tweak. Batch #2 I sliced rather than quartered the kumquats. The family agreed we preferred the texture in the second batch"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/247094/chef-johns-kumquat-marmalade/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/15930/side-dish/sauces-and-condiments/canning-and-preserving/",
+"name": "Canning and Preserving Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1961/side-dish/sauces-and-condiments/canning-and-preserving/jams-and-jellies/",
+"name": "Jams and Jellies Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/247094/chef-johns-kumquat-marmalade/",
+"name": "Chef John&#39;s Kumquat Marmalade"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

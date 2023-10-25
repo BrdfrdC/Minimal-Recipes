@@ -1,0 +1,173 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Spicy Salmon Jerky"
+,"datePublished": "2020-06-19T00:07:02.000-04:00"
+,"dateModified": "2020-06-19T00:07:02.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Allrecipes Member"
+,"url": "https://www.allrecipes.com/author/the-allrecipes-community/"
+}
+]
+,"description": "Homemade spicy salmon jerky is easy to make using marinated salmon that is put in the food dehydrator and is great for snacks and hiking."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/oA3LZjZdVl39IQriRhD311KoeEI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3678919-2e955ad9e5c4423eacc168b7125f3532.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Spicy Salmon Jerky"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "4"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "232 kcal"
+,"carbohydrateContent": "8 g"
+,"cholesterolContent": "77 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "26 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "1317 mg"
+,"sugarContent": "5 g"
+,"fatContent": "11 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"3 pounds salmon fillet, skin removed",
+"1 cup soy sauce",
+"2 tablespoons molasses",
+"2 tablespoons white sugar",
+"2 tablespoons Worcestershire sauce",
+"2 tablespoons lemon juice",
+"1.5 tablespoons ground black pepper",
+"2 teaspoons liquid smoke flavoring",
+"12 dashes hot sauce (such as Tabasco®), or more to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Slice salmon fillets into 4 equal sections, width-wise. Rotate each section 90 degrees and slice lengthwise, about 1/4-inch thick. Remove pin bones with needle-nose pliers. Don&#39;t slice bony sections near the center of the fillet."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir soy sauce, molasses, sugar, Worcestershire sauce, lemon juice, black pepper, liquid smoke, and hot sauce together in a glass or plastic bowl until marinade is well-mixed. Place salmon in the marinade, ensuring every strip is covered. Cover bowl and refrigerate for 4 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove salmon from bowl and drain liquid using a colander. Pat the salmon dry using paper towels."
+} ,{
+"@type": "HowToStep"
+,"text": "Place each salmon strip in a dehydrator and run the dehydrator according to manufacturer&#39;s instructions until desired doneness is reached, about 6 hours. Check every few hours for doneness."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT610M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jason N"
+},
+"reviewBody": "We used this recipe on trout and it is delicious! As we are trying new ways to add variety to our trout eating and this recipe has proven worthy. Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Diana Roeloffzen"
+},
+"reviewBody": "Great hit, used halibut and the taste was great"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Soup Loving Nicole"
+},
+"reviewBody": "I really liked this however I felt the \"spicy\" got lost. I think red peeper flakes would bring more heat but that is just my opinion. I made two different salmon jerky recipes this weekend and this one was by far the best. I may just tweak it a little next time. Plenty of flavor but just not enough heat for me."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/247352/spicy-salmon-jerky/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/107/appetizers-and-snacks/meat-and-poultry/",
+"name": "Meat and Poultry"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17041/appetizers-and-snacks/meat-and-poultry/jerky/",
+"name": "Jerky Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/247352/spicy-salmon-jerky/",
+"name": "Spicy Salmon Jerky"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

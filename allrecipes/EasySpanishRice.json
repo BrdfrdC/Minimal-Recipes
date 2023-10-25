@@ -1,0 +1,308 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Easy Spanish Rice"
+,"datePublished": "2019-04-03T23:55:27.000-04:00"
+,"dateModified": "2023-01-16T03:26:33.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Arizona Desert Flower"
+,"url": "https://www.allrecipes.com/cook/arizonadesertflower"
+}
+]
+,"description": "A quick and easy recipe for Spanish rice is ready in under an hour and uses simple and flavorful ingredients for a family-pleasing side dish."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/rfXRnMmdYXvWPOGUwFdb0BuHb8U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4573672-easy-spanish-rice-Buckwheat-Queen-4x3-1-4d00971e2cd44cb690e6102749f08271.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Easy Spanish Rice"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "3.9",
+"ratingCount": "16"
+}
+,"cookTime": "PT25M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "168 kcal"
+,"carbohydrateContent": "30 g"
+,"fiberContent": "1 g"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "18 mg"
+,"sugarContent": "1 g"
+,"fatContent": "4 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"2 tablespoons olive oil",
+"1.5 cups long-grain rice",
+"3 cups water",
+"2 roma (plum) tomatoes, chopped",
+"1 cup chopped onion",
+"0.75 cup chopped fresh cilantro, or more to taste",
+"1 tablespoon tomato bouillon with chicken flavoring (such as Knorr®), or more to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place a pot over medium-heat heat; add oil and heat until oil shimmers slightly. Pour rice into hot oil, stirring constantly, until rice is golden to dark brown, about 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix water, tomatoes, onion, cilantro, and bouillon into rice. Bring to a boil, then turn off heat. Cover the pot tightly with a lid and let sit until liquid is absorbed, about 20 minutes. Adjust seasonings as needed."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT35M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "webdoggy"
+},
+"reviewBody": "Best Spanish rice we’ve had. Halved the recipe and added 1/2 T cumin and 2 cloves garlic."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kelsey Mains"
+},
+"reviewBody": "This recipe was easy to follow and turned out perfect. I left out the onion and tomato and instead of doing 3 cups of water I did 1 cup water, 1 cup tomato sauce and 1 cup chicken bouillon broth. I also added 2 cloves freshly minced garlic. DELICIOUS!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kathy Halmrast"
+},
+"reviewBody": "Yes I added chopped garlic"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michele DiMarco Tirado"
+},
+"reviewBody": "Made this dish according to recipe and it was absolutely delicious and is certain to be a favorite in our home."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Buckwheat Queen"
+},
+"reviewBody": "This was very easy and it was equally delicious. I sautéed the veggies with the rice. Thank you for the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Penny Miles-Dixon"
+},
+"reviewBody": "I cooked it along side a burrito and guacamole and a salad it was fantastic thank you for the recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Clifford S Jones"
+},
+"reviewBody": "Everything has a measurement but the first line of instructions mentions \"the oil,\" which is not in the ingredients list. \nI suppose I will just cover the bottom of the pan and hope for the best. \nI plan to brown the rice as stated but then transfer it all to my rice cooker and see how it turns out."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jeff "
+},
+"reviewBody": "Delicious.....only thing I did was add some cumin (a tablespoon) and that topped off this recipe nicely. Thanks for the post."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "jkl3261"
+},
+"reviewBody": "On my gas stove it doesn't work at all. I went ahead and cooked the rice again like you normally cool rice and it was fine."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Melody Dumplin"
+},
+"reviewBody": "I agree with all of the suggested recipe changes. I'm gonna use chopped onion, bell pepper and minced garlic while browning the rice and replace the tomatoes for a can of Rotel. The Cilantro is an absolute must have for this recipe! Then, I'm gonna use the cooking suggestions in the other reviews. I'm gonna accompany it with Black Beans flavored with onion and Andouille sausage and some beef and cheese Quesadillas with homemade salsa. Should be a great supper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Lance Tamyo"
+},
+"reviewBody": "It didn't work for me, followed directions to a T but it came out a soupy mess with hard rice :("
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sherri Beasley Ritter"
+},
+"reviewBody": "This recipe is awesome. I also used about 1/2 tsp of minced garlic when I browned the rice. I used a can of rotel instead of chopping veggies. Turned out good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MichaeleM"
+},
+"reviewBody": "I used all the ingredients stated then added a bit of chopped green pepper and a dash of garlic. Let the mixture come to a boil, covered and turned off. I liked the flavor! And will make again, thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Baking Nana"
+},
+"reviewBody": "All the flavors and measurements are perfect the method did not work for me. I would suggest frying the rice in the oil, add everything else and bring it to a boil. Cover and turn to the lowest setting for 20 minutes. After 20 minutes, turn off the heat, fluff the rice with a fork, recover and let sit covered for 10 minutes."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/233081/easy-spanish-rice/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/224/side-dish/rice/",
+"name": "Rice Side Dish Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17482/side-dish/rice/spanish-rice/",
+"name": "Spanish Rice Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/233081/easy-spanish-rice/",
+"name": "Easy Spanish Rice"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

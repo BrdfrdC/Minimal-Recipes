@@ -1,0 +1,155 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Pancit Sotanghon"
+,"datePublished": "2019-04-04T00:11:08.000-04:00"
+,"dateModified": "2022-12-01T12:31:26.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Maridol34"
+}
+]
+,"description": "Pancit sotanghon is a Filipino dish with mung bean noodles mixed with wood ear mushrooms, bok choy, and leftover chicken."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Pk-2VvhjTXb11I7qM5f6OeNFBjs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5051752-1d8db362127e416b8f172b8051f46007.jpg",
+"height": 960,
+"width": 1280
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Pancit Sotanghon"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "2"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "329 kcal"
+,"carbohydrateContent": "51 g"
+,"cholesterolContent": "101 mg"
+,"fiberContent": "5 g"
+,"proteinContent": "15 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "425 mg"
+,"sugarContent": "2 g"
+,"fatContent": "7 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 (10.5 ounce) package mung bean vermicelli",
+"1 cup dried wood ear mushrooms (tenga ng daga)",
+"1 tablespoon vegetable oil",
+"1 clove garlic, minced",
+"1 small onion, chopped",
+"0.5 teaspoon achiote powder",
+"1.75 cups chopped cooked chicken",
+"2 teaspoons soy sauce",
+"1 teaspoon fish sauce",
+"1 cube chicken bouillon",
+"1 cup water",
+"1 (8 ounce) package shredded cabbage",
+"1 small head bok choy, chopped",
+"1 carrot, chopped",
+"0.25 teaspoon ground black pepper, or to taste",
+"1 pinch chili powder",
+"2 hard-boiled eggs, sliced" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Soak vermicelli in a bowl of hot water, 2 to 3 minutes. Drain. Cut noodles to desired length; set aside. Soak mushrooms in a second bowl of water; set aside to soften."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat oil in a saucepan over medium-high heat. Cook and stir garlic in hot oil until browned, about 2 minutes. Remove garlic to a bowl and set aside for garnish. Add onion and achiote powder to the saucepan and sauté until onion is translucent, about 5 minutes. Add chicken, soy sauce, and fish sauce. Stir in bouillon until dissolved. Pour in 1 cup water and bring to a boil."
+} ,{
+"@type": "HowToStep"
+,"text": "Drain softened mushrooms and cut into 1-inch pieces."
+} ,{
+"@type": "HowToStep"
+,"text": "Toss cabbage, bok choy, and carrot into boiling water mixture. Add vermicelli, mushrooms, black pepper, and chili powder. Cook, mixing well, until pancit is slightly dried, about 5 minutes. Transfer pancit to a platter. Garnish with egg slices and browned garlic."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT35M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This was delicious! My husband and I loved it (he had his without the egg). Our girls however weren’t fans - they don’t really like vermicelli so I wasn’t surprised. Will make this again if hubby and I are having a child free night."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/262431/pancit-sotanghon/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/227/world-cuisine/asian/",
+"name": "Asian"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/696/world-cuisine/asian/filipino/",
+"name": "Filipino"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/262431/pancit-sotanghon/",
+"name": "Pancit Sotanghon"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

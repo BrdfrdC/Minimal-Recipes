@@ -1,0 +1,643 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Vinegar Pickled Carrots"
+,"datePublished": "2020-06-18T23:05:25.000-04:00"
+,"dateModified": "2022-09-16T12:14:56.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Sara"
+,"url": "https://www.allrecipes.com/cook/1744"
+}
+]
+,"description": "This tasty pickled carrots recipe is easy to prepare and sure to please everyone. It makes a great accompaniment to sandwiches or garnish for salads."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/roKUSseGKcnL0IqdzpHLfz3R2l0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7474431-dd40c5a676a64b54a8b5987e284eb3f8.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Vinegar Pickled Carrots"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.4",
+"ratingCount": "41"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "11 kcal"
+,"carbohydrateContent": "3 g"
+,"fiberContent": "1 g"
+,"proteinContent": "0 g"
+,"sodiumContent": "85 mg"
+,"sugarContent": "2 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 cup distilled white vinegar",
+"0.67 cup water",
+"2 tablespoons white sugar",
+"1 teaspoon salt",
+"0.125 teaspoon ground black pepper",
+"8 large carrots, diced" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Mix distilled white vinegar, water, white sugar, salt, and pepper in a medium saucepan. Bring the mixture to a boil. Remove from heat and allow to cool slightly."
+} ,{
+"@type": "HowToStep"
+,"text": "Place carrots in sterile containers. Cover with the vinegar solution. Seal the containers, refrigerate and marinate carrots, 12 hours or overnight before serving."
+} ]
+,"recipeYield": ["32"]
+,"totalTime": "PT745M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Betty Kennedy"
+},
+"reviewBody": "I added dill weed, garlic and and jalapenos."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Crystal Kinnison"
+},
+"reviewBody": "I doubled the sauce and added 1/2 cider vinegar 1/2 distilled white. Used a bag of diced carrot. Still marinating but already tastes good. Much easier than I thought."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Amy Kay"
+},
+"reviewBody": "I omitted the pepper but looks good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Texas"
+},
+"reviewBody": "NEXT TIME I'LL OMIT THE SUGAR OR MAYBE USE LESS."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tom Pry"
+},
+"reviewBody": "Amazing add some jalapenos"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "craig jones"
+},
+"reviewBody": "really , good, i added onions and crushed red pepper for a bit of a kick ! next time i will add some whole jalepenos"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "thrnbrooke"
+},
+"reviewBody": "I tried to make a batch and a half so it was very vinegary but it was still a great recipe! Thanks for sharing!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Monticello"
+},
+"reviewBody": "Very easy to make &amp; very tasty.\nHad lots of carrots on hand, and had already used them in baking and in soup. Needed a new way to use them.\nGood accompaniment to sandwiches and garnish for salads.\nYes, I will make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Gail Odber"
+},
+"reviewBody": "Tasty, and not spicy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Thomas Taylor"
+},
+"reviewBody": "My mom made these when I was a child. It was a favorite then and now qualifies as a \"comfort food\" for me."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Pat Carleson"
+},
+"reviewBody": "I put the hot vinegar solution over the top so it would 'cook' the carrots and added onion on top. Hopefully they were pretty much ready to eat then."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "G B"
+},
+"reviewBody": "I followed the recipe but added a garlic clove and some dill to each jar before I out The vinegar mixture in."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allie Prouse"
+},
+"reviewBody": "Easy to make! Didn't take long at all to prepare! Can't wait to taste them!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pat Elder"
+},
+"reviewBody": "Best Carrots ever"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "xin"
+},
+"reviewBody": "This was amazing omg. Taste the best with some fried chicken. \n\n\nI wanna ask, will this be good if i used Radish instead?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "susan"
+},
+"reviewBody": "This is a VERY vinegary recipe. Made as is and took them into work for the girls to test. Not a hit. There needs to be a balance, it's not here."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kim H."
+},
+"reviewBody": "This is a quick and easy recipe. I used organic baby carrots. I also used a half cup of organic apple cider vinegar(AVC) and a half cup of distilled white vinegar. I reduced the amount of organic sugar by half. The AVC makes for a sweeter taste, so less sugar is required. I also used sea salt instead of table salt, as well as organic pepper. I also used was filtered water, which retains all the good stuff and eliminates the chemicals, etc. The purer the ingredients used the better the flavor. Yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "CdnMorganGal"
+},
+"reviewBody": "I was looking for a recipe to pickle various veggies - used this as the base and as per other cooks added garlic, pepper flakes, cauliflower and red pepper slices. The original recipe as is would have been a bit bland for us."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer Seymour"
+},
+"reviewBody": "We made this, we used pickling spices and crushed garlic, we have them sitting for 2 weeks now, we will try them in a week! We used peppers, carrots, green beans, zucchini, daikon radish onion and garlic. Our garlic turned blue/green but it's safe. It's the vinegar solution that turns it that colour."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Kelly2"
+},
+"reviewBody": "I made this for Thanksgiving and believe that this needs more sugar to cut the strong vinegar taste. I made them on Sunday and the baby carrots were still too crunchy for Thursday. The adults did not care for them but the toddlers liked them so they went home with them. I will try this again with other veggies as I like the idea and ease."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tanya"
+},
+"reviewBody": "I made this for the first time and it turned out great! The carrots were crispy with a little spicy kick from the jalapenos. Delish!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Baceva"
+},
+"reviewBody": "Have added cabbage, garlic cloves, banana peppers, cauliflower and cucumber and always tastes great. I always add celery seed and dill weed, too. Just a pinch."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Zeitgeist"
+},
+"reviewBody": "It was nice to find a vinegar pickle recipe that could be easily adapted. It seems the fewer the steps and ingredients the more room to experiment. After completing the recipe, I couldn't wait the 12 hours. Five hours in I can say I'm thrilled. So much so I'm chewing while typing. I eat, blend, juice, quite a number of vegetables so I used some \"crunchy\" vegetables that I had available. I like it spicy so in went the last Serrano pepper. Have fun everyone experimenting and finding out what you prefer, there's plenty of reviews to help you out. For me, it's a thanks to Sal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kstefan"
+},
+"reviewBody": "Delicious! I made mine with a few sprigs of fresh dill in the jar, and they turned out great. I also put in a few slices of red pepper and celery. I first tasted them after 24 hours and I agree that they tasted too \"vinegary\", but after a few more days in the fridge they were really really good. I'll make a much bigger batch next time!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Springer-Man"
+},
+"reviewBody": "This worked out great, I added celery and yellow pepper to the mix and a good tablespoon of hot sauce. I let it ferment in the refridgerator for about two weeks. The vegies all stayed crisped and have a wonderful flavor. Thanks for the recipe and the tips."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CarrieZB"
+},
+"reviewBody": "I read the reviews and added some dill weed and used a spicy sea salt mixture I had, added some pepperonicini rings and let marinate for 24 hours. Very tasty. I am going to make more and add celery and red pepper flakes for a spicy kick and give out for Christmas gifts."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Nieki Woullard McLoughlin"
+},
+"reviewBody": "needs to pickle for longer than 24 hours"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mlfowler17"
+},
+"reviewBody": "These carrots are delicious! To make them spicy I added some garlic, sliced jalapenos and red pepper flakes. I have had several requests for this very easy to make and tasty recipe. I also added in some cauliflower for some color and they taste great too!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "FREDDY3"
+},
+"reviewBody": "I have used this type of recipe with some variations. I add cauliflower, red pepper strips,red onion, celery and toss in some black peppercorns along with the carrots. It is more economical to do this than to purchase Giardiniera. I use dishwasher cleaned pickle bottles, etc. Always a hit on a relish tray for a covered dish affair."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Viola Shumski"
+},
+"reviewBody": "Similar but not as tasty as mine...\nI use equal parts (2 cups) water and vinegar. 1/4 cup of sugar, add 2 teaspoons of pickling (brisket) spices, 1/2 tsp of salt, no pepper and blanch the carrots. \n\nThis brine is also excellent for picked beets and pickled watermelon rind."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Mitzi"
+},
+"reviewBody": "too much vinegar, these just didn't work at all. there was no \"pickle\" like bite, just Vinegar bite. Followed instructions exactly, and it just didn't work out. Maybe the planets weren't aligned properly or something."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DIANE77346"
+},
+"reviewBody": "This is a very good snack - used Splenda instead of sugar and added pepperoncini and dried dill weed. A small sack of baby carrots filled a quart and the liquid was just the right amount."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "BLUEALUE"
+},
+"reviewBody": "I used baby carrots sliced lengthwise into quarters or sixths depending on how fat they were. I used 1/2 cup sugar and marinated them in a plastic baggie in the fridge for 2 days. They weren't good when marinated for 1 day only. Crispy and tangy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Karyn Andrea"
+},
+"reviewBody": "Good recipe. You have to be very careful about how you slice your carrots and other veggies versus how long you marinate them in the vinegar mixture. After about 24 hours, thinly sliced zuccini and radishes turned out wonderful in this marinade. However, shredded carrots were REALLY vinegary, and 1/4\" carrot slices were kind of bland. So monitor you pickles closely for flavor.\n\nAlso, I did not think the recipe made enough marinade for the number of carrots, so I would suggest doubling the recipe to be on the safe side."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Noeller67"
+},
+"reviewBody": "Recipe was easy to make - I used a 1 lb bag of baby carrots and it worked well, carrots were tangy and nice and crisp. I think some additional seasoning would be nice, but I'm not sure what I'd add. Everyone else thought they were good as is."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "hope03"
+},
+"reviewBody": "Needs to marinate for a loo-oong time to soak up flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Super taste and easy to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathleen Bayramian"
+},
+"reviewBody": "We have a 20 acre part of our ranch planted in baby carrots. I have been frantic to find different ways to prepare them. These were just Great! I used very tiny whole carrots. They had a spicy tangy,which was wonderful."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Easy to make and stayed mostly crisp. Worked well with ziplock bag in the fridge. (course had to prop up so it didn't leak ;)\r\n\r\nRave reviews from the tudor feast I did this for!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Karen"
+},
+"reviewBody": "These are a really, really good tangy finger food. I used baby carrots, quartered lengthwise &amp; served them on a tray with Jean's Marinated Mushrooms, Deviled Eggs &amp; Cream Cheese Pickles."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/24230/vinegar-pickled-carrots/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/15930/side-dish/sauces-and-condiments/canning-and-preserving/",
+"name": "Canning and Preserving Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17621/side-dish/sauces-and-condiments/canning-and-preserving/pickled/",
+"name": "Pickles"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/24230/vinegar-pickled-carrots/",
+"name": "Vinegar Pickled Carrots"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,394 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Finnish Blueberry Pie"
+,"datePublished": "2020-06-18T23:39:50.000-04:00"
+,"dateModified": "2022-01-14T01:19:14.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "BlueberryPirakka"
+,"url": "https://www.allrecipes.com/cook/2991231"
+}
+]
+,"description": "A traditional Finnish blueberry pie has a layer of sweetened fresh blueberries on top of a sugar cookie-like crust."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/d1Hn7qSyRhWvlwtgL4NwzHclJJQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/448425-19b1d587765a44ce93aa5b03691af98a.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Finnish Blueberry Pie"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "24"
+}
+,"cookTime": "PT25M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "310 kcal"
+,"carbohydrateContent": "47 g"
+,"cholesterolContent": "47 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "4 g"
+,"saturatedFatContent": "8 g"
+,"sodiumContent": "133 mg"
+,"sugarContent": "27 g"
+,"fatContent": "13 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT35M"
+,"recipeIngredient": [
+"0.75 cup white sugar",
+"0.75 cup butter, softened",
+"1 egg",
+"1 teaspoon baking powder",
+"2.25 cups all-purpose flour",
+"0.5 cup milk",
+"2 pints fresh blueberries",
+"0.5 cup white sugar, or more to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat oven to 400 degrees F (200 degrees C), and line a 9x13 inch baking pan with parchment paper."
+} ,{
+"@type": "HowToStep"
+,"text": "Beat 3/4 cup sugar with the butter until the mixture is smooth and creamy, and beat in the egg. Add the baking powder, and stir in the flour, 1/2 cup at a time, alternating with a few tablespoons of the milk, until all the flour and milk have been incorporated. The dough will be sticky, like sugar cookie dough. Spread the dough into the prepared baking dish, creating a raised edge of dough around the dish."
+} ,{
+"@type": "HowToStep"
+,"text": "Place the blueberries in a bowl with 1/2 cup of sugar, and mash the berries with a potato masher. Spread the blueberry mixture on top of the crust in an even layer."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until the crust has browned slightly and the filling is thickened and bubbling, 15 to 25 minutes."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT60M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Carolsjm"
+},
+"reviewBody": "Just out of the oven. Very nice taste. I will add vanilla to dough next time and reduce sugar in blueberry topping."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Daniel Franey"
+},
+"reviewBody": "My blueberries came out too watery, and I didn't form the crust properly, but it was delicious even with with my shortcomings"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "krs"
+},
+"reviewBody": "This was a very easy recipe and everyone loved it! We served it with fresh whipped cream and it was the perfect finish to our barbecue!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "NewFoodie"
+},
+"reviewBody": "I used 1 tsp vanilla in the cookie dough and only 1/4 cup of milk as was recommended in the reviews. I used frozen blueberries but had no problems. It cooked for 25 minutes and was a great dessert on this hot, 115 degrees, Phoenix day."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kosher Mommy"
+},
+"reviewBody": "I followed the author’s directions including her edits except I had to use frozen blueberries instead of fresh. I baked it for the full 25 minutes and it was perfect. Thanks for sharing this easy and tasty dessert."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "BOOKMARKER"
+},
+"reviewBody": "8.1.19 ... https://www.allrecipes.com/recipe/203567/finnish-blueberry-pie/ ... Well, for me, I'll pass; for S &amp; E, they liked. The base reminded me of the \"sugar cookies\" you can buy at Walmart or Kroger. Bland, dense, somewhat dry, not crispy, soft I added a t of vanilla to the base &amp; a T of cornstarch with the berries &amp; sugar. I squeezed them in a plastic bag rather than get squirted with blueberry juice using a potato masher. I baked closer to 40 minutes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Celeste Mandley"
+},
+"reviewBody": "The crust was delicious. I would like to add a layer of cream cheese filling under the blueberries next time just to take this great dessert over the top."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jajam"
+},
+"reviewBody": "My grand kids and husband really liked this as a breakfast treat. I served a small scoop of ice cream on the side. I thought the crust and filling were a bit too sweet, but worth working on because the kids liked it. The crust had a texture somewhere between a sugar cookie and poundcake. I think the berry topping would be every bit as good with half of the sugar and very slight mashing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "monicaster"
+},
+"reviewBody": "Thanks to the comments, I added a little vanilla and used less (about 1/4 cup milk) and it turned out perfectly!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laurie W"
+},
+"reviewBody": "This recipe is absolutely wonderful!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mags"
+},
+"reviewBody": "I love blueberries &amp; am always looking for recipes that are a little different containing this fruit. Made this exactly as written. Absolutely delicious . I had it with fresh cream &amp; my husband had it with ice cream. Great served hot or cold. Have made it several times. Thanks for a great recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bartoa52"
+},
+"reviewBody": "I love this pie, but if you want to make it diet friendly, I suggest replacing both helpings of sugar with splenda."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "motherbear"
+},
+"reviewBody": "This is one of my favorite recipes. I love the versatility of it. I've mixed blueberries and raspberries, or raspberries and strawberries. Tonight I am using leftover Blueberry-Cranberry sauce from another Allrecipes recipe I made previously. I like to precook my crust for just 5-10 minutes.. so yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mkstevens09"
+},
+"reviewBody": "Made this at home and we enjoyed it very much. The crust is definitely cake/cookie like. It tastes great both warm or cooled. I brought the rest to work the next day and everyone raved about it! It was all eaten up within minutes!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hope"
+},
+"reviewBody": "We have made this for years! It is a favorite in our family!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pam Ziegler Lutz"
+},
+"reviewBody": "This is definitely NOT what I think of when I think of pie. It is a delicious and simple dessert. I halved the recipe and baked it in an 8X8 baking dish. I served this with homemade, sweetened whipped cream. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Cat"
+},
+"reviewBody": "This looked like a very good recipe but it didn't turn out well at all. The pie was so soggy in the middle that upon cutting it all the filling (mixed with dough) freely flowed out. I had already increased baking time by 15 minutes but that obviously didn't help either. Also the crust was more like angel food than cookie dough. I wonder if allrecipe's metric/US converter was a bit off. I converted the recipe back into the metric system (I grew up in Europe and operate on metric measures)and the measures were odd considering that it was supposed to be a 'metric' recipe originally. I might give this another try but so far I am quite disappointed with the results."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "yoopercook"
+},
+"reviewBody": "This was simply delicious! As a Finn and native Yooper, I feel that this was the perfect way to prepare the beautiful Michigan blueberries that are in season right now."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Esther A."
+},
+"reviewBody": "Fun! My husband's family is Finnish, so I just had to try this. I thought it needed some vanilla (hadn't read the review) and added a teaspoon. Light and refreshing-which allows you to experience the berry flavor. It's so fast and simple! I can't wait to make this for my inlaws when we head to Minnesota!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BlueberryPirakka"
+},
+"reviewBody": "I love this (Obviously, as I submitted it). However, I need to note the following: Add 1 tsp. vanilla/vanilla sugar to the dough with the egg. Also, you may need to use less milk (Use between 1/4-1/2 cup). Also, for the topping, add the sugar after you mash the blueberries (You don't need to mash all the blueberries--You can leave some whole). Finally, parchment paper is not necessary, nor is greasing the pan. It will stick a little, but comes out nicely from my glass cake pans."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/203567/finnish-blueberry-pie/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/231/world-cuisine/european/",
+"name": "European"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/725/world-cuisine/european/scandinavian/",
+"name": "Scandinavian"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/203567/finnish-blueberry-pie/",
+"name": "Finnish Blueberry Pie"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

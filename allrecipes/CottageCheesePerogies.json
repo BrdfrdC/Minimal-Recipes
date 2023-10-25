@@ -1,0 +1,640 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Cottage Cheese Perogies"
+,"datePublished": "2019-04-03T23:32:32.000-04:00"
+,"dateModified": "2019-04-03T23:32:32.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Anonymous"
+}
+]
+,"description": "Very easy recipe to make, and a wonderful twist to an ordinary perogy. These cheese filled perogies taste great just boiled or fried with a little butter. Eat them with sour cream and you will have a wonderful dinner. You can easily double or triple the recipe and place extras in the freezer."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/shqQkBJtqoZOe3YyJfdqdaevWm0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/851389-ed75d535c5f3478da4e6211046603e46.jpg",
+"height": 250,
+"width": 250
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Cottage Cheese Perogies"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.4",
+"ratingCount": "46"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "131 kcal"
+,"carbohydrateContent": "18 g"
+,"cholesterolContent": "37 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "7 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "374 mg"
+,"sugarContent": "2 g"
+,"fatContent": "3 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"1.75 cups dry-curd cottage cheese",
+"2 egg yolks",
+"0.75 teaspoon salt",
+"2 cups all-purpose flour",
+"1 teaspoon salt",
+"0.5 teaspoon baking powder",
+"2 tablespoons vegetable oil",
+"0.75 cup cold water" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "In a medium bowl, mix together the cottage cheese, egg yolks, and 3/4 teaspoon of salt. Set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "In a separate bowl, mix together the flour, 1 teaspoon of salt, and baking powder. Pour in the vegetable oil and cold water, and mix or knead into a smooth dough."
+} ,{
+"@type": "HowToStep"
+,"text": "Roll dough out on a lightly floured surface, and cut into 3 inch circles using a glass, can, or cookie cutter. Place a spoonful of the cottage cheese filling onto each circle. Fold in half, and pinch the edges together to seal."
+} ,{
+"@type": "HowToStep"
+,"text": "Bring a large pot of lightly salted water to a boil. Carefully drop the perogies into the water, and cook for 3 to 4 minutes, or until they float. Remove from water with a slotted spoon, and place on a cooling rack set over a baking sheet to drain excess water."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT40M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I used wet cottage cheese and strained it out using cheesecloth. I put the 3/4 tsp salt in and they came out too salty. Next time no salt and they'll be perfect. Also used a little egg wash to help seal them."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chef Mix"
+},
+"reviewBody": "This is the recipe that I grew up with so I call this the ordinary perogy. It was usually served with a cream gravy. Fancy perogies had blueberries inside."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Trudy"
+},
+"reviewBody": "Yum"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bob Stevenson"
+},
+"reviewBody": "Incredibly good. a bit of a trick stuffing the perogies with the right amount of.cheese, but that was \"cook error\"."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Robert Sarah"
+},
+"reviewBody": "Sounds just like the ones my grandma but she use to fry them to crisp them up, she used lard to fry them. Brings back great memories of my childhood"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dslade"
+},
+"reviewBody": "Absolutely Delicious! After reading a few reviews I took their advice and sealed them with an egg wash. I had no issues whatsoever with them coming apart during the cooking process. I boiled them first then fried them in butter onion and garlic. Everyone in the family ate them up. (Including 3 picky kids). Will definitely make again, next time I’ll change up the filling as another suggested with mashed potatoes and cheddar cheese!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Glassneko"
+},
+"reviewBody": "Great dough, I used some different cheeses and it tasted great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sylveeya"
+},
+"reviewBody": "This is a very good recipe and I would make again and again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "brian"
+},
+"reviewBody": "this is awsome my grandma used to make these and havent had them in years,easy recipe,she served them with a creamed gravy which i havent been able to find or make"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "bandjmommy"
+},
+"reviewBody": "You can make your own cottage cheese. Buy a half gallon of buttermilk. Cook it on low till you can spoon out curds.(It takes maybe 2 hours). Cook on high just till it boils, take off heat and let it stand for 3 hours. Use a colander with small holes to seperate the cheese from the juice. Ready to use.\r\nI also use milk instead of water for the dough."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "nanciluv26"
+},
+"reviewBody": "my family has been making perogies for forever and this recipe gives me a different edge. I will use this again. I always make hundreds at a time foe all my family. They love them"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "ANN7258"
+},
+"reviewBody": "I don't know if all perogy recipes are like this one but if they are I will probably never make perogies again. I found the dough incredibly hard to roll out. Very stiff. It tasted okay but not really worth the effort it took to make them..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "SNOOT9"
+},
+"reviewBody": "I switched up the filling a little (using what I had on hand- leftovers) and these were pretty darn good. Can never have too much cheese though!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kpandolfi"
+},
+"reviewBody": "My family has made the cottage cheese perogies for years. We also make them with stewed prunes. The pasta, sweetness of the prunes and melted butter drizzled over....yum."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "candygirlclw"
+},
+"reviewBody": "These are perfect!!! Just like my Mennonite grandma used to make. The only change I made was blending 1/2 of the cottage cheese mix with 2 tablespoons of cream and 1/2 tsp of pepper until creamy and then combining it with the other 1/2 of the cheese. These are amazing served with a cream gravy and strawberries. So good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "BeachBabe36"
+},
+"reviewBody": "After making, I had to call my grandma and ask what I did wrong because they didn't taste \"right\" (the way she makes them and I'm used to). Use milk instead of water in the dough. It makes a world of difference. Also, our family boils them them fries them in butter and then boils them again in some milk or cream (depending on how healthy-ish we are feeling). I love them fried in lots of butter then covered in warm cream as a treat. If I'm particularly lazy, I won't even fill them, I will make the dough, cut it and fry it in butter, then add the fried dough pieces, cottage cheese and warm milk in a bowl and eat :D"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rich Thometz"
+},
+"reviewBody": "This is an awesome recipe! Salt generously! Love it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ava"
+},
+"reviewBody": "A lot of work but well worth it. I used the whole egg instead of just the yoke, then I blended the cottage cheese and egg together so it was smoother. I boiled them till they floated then set aside to drain then I fried them till lightly brown on both sides. I also made patato ones. just boiled the patato mashed it up threw in a little milk, oregeno and basil and salt to taste. I liked the cheese the best though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lucia"
+},
+"reviewBody": "Farmers cheese can be used in place of dry-curd cottage cheese. It's so much easier to find."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Some did fall apart but they are nummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dianne"
+},
+"reviewBody": "This is a great recipe! The baking powder addition makes the dough easier to roll out. Good idea. I beat lightly, together 1/4 cup of water + one egg and brush this onto my dough before filling and sealing. This helps to keep the perogies sealed. I highly recommend buying a HunkieBill's Perogy maker (originated in Winnipeg). This wonderful kitchen gadget makes 18 perogies in 5 easy steps. 1.Roll out dough and place on perogie maker. 2.Fill pockets. 3. Roll out another dough and place on top. 4.Press together and cut with rolling pin. 5. Remove excess dough and tap finished perogies from perogy maker! You can order one online."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MOM2K&A"
+},
+"reviewBody": "great recipe used homemade farmers cheese from this site instead of cottage cheese"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "HeatherB"
+},
+"reviewBody": "This was a fantastic recipe. The dough was very easy to make and work with. I used Michigan brand cottage cheese (dark blue tub) as it has a very low amount of moisture in it and it has small curds. I also added white pepper and sea salt in the mix. I boiled them and then cooked them in a frying pan with a little butter to give them a crispy coating that my family loves. I got 19 out of the batch I made."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Saraelgie"
+},
+"reviewBody": "My Grandmother has made these since I was a kid... Love them... she adds real bacon bits to the mixture and they are so yummy..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Rete"
+},
+"reviewBody": "Very good. Decided to use the cottage cheese instead of the farmer's cheese that my Polish ancesters used. Nice substitute. Farmer's Cheese is drier, however, and somewhat easier to use for forming the perogies."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "sbucha004"
+},
+"reviewBody": "This batch of perogies is possibly the most wonderful food I've ever made by myself. I gave it a 4-star rating because it needs some adjustments to get it that way. After reading another review, I made this batch half boiled and half pan fried to test it out. It's true, the boiled ones turned to soup and were edible but not that tasty. The fried ones are amazing though! I added pepper, italian seasonings and parmesan cheese to the filling and panfried them in olive oil for a few minutes. They broke but still turned out really wonderfully. Pan-frying in olive oil made them really crispy and fluffy but not too oily. They still had a little floury feel on the outside too. I highly recommend frying instead of boiling. \n\nI've never had perogies before! Thanks so much for this recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Nancy Cantrell Dyck"
+},
+"reviewBody": "This is a good recipe although I believe it takes alot of practice to make a good seal on the perogies and handling the dough with ease. My Ukranian mother-in-law made wonderful perogies but after boiling and draining them she would top them with boiled whipping cream that had fresh dill, sliced onion and salt and pepper incorporated! This is an additional extra flavor enhancement and delicious (and I don't even like dill!)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Renee Marie"
+},
+"reviewBody": "I filled mine with a mixture of peppered cottage cheese and ham, and fried them in a little canola. Then I used to oil to make country gravy (from this site), and covered the perogies in it. They make a great breakfast item that way. My husband thinks they would also be good filled with apple, so I'm going to try that later."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Anne-Marie Bullis"
+},
+"reviewBody": "delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mommy Emmy"
+},
+"reviewBody": "My Polish grandmother did her cheese perogies with dry-curd cottage cheese. She would also sprinkle a sugar/cinnamon mix over the dry-curd cottage cheese right before sealing the perogies !!!!!! Fry in butter. Eat plain or with sour cream. Out of this world taste! F.Y.I. - \"DRY-CURD\" is hard to find. Call around to your stores to see if they have it or can order it for you. You will see it next to the regular cottage cheese."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "kpicks"
+},
+"reviewBody": "not bad. they fell apart a lot and made a cottage cheese mess when I was boiling them... oh well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Laurin"
+},
+"reviewBody": "These weren't bad if you like perogies. A little difficult to roll out; I easily tired of putting them together about half way through. But, they weren't bad! I added fresh steamed broccoli to my cottage cheese and it made a great combination! Be careful how much you put in the middle; it takes a LOT LESS than you think it does before you've got a sloppy, un-stick worthy mess!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "wovillton"
+},
+"reviewBody": "Well, for my first venture into perogies, this went very well. The mix was easy, so these did not take very long to do. Thanks. Boyfriend thinks they are awesome."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MARLAD97124"
+},
+"reviewBody": "I love this recipe and have made it several times. Instead of adding egg yolk and onion to the dry cottage cheese I added a little heavy cream. After boiling the perogies, I melted some margarine in a frying pan, sauteed some onion rings and minced garlic then added the perogies. I also poured a little more heavy cream over the top. It is a delicious recipe. Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "BROKENCOWGIRL"
+},
+"reviewBody": "Like previous reviewer mentioned, they fall apart while cooking. I found that if you managed to close them without any leaking towards the edges (which was difficult) they stayed shut while cooking. Tasted great though, a good alternative to regular poatoe perogies. Ate them once with butter and cheese, the other time with tomato sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "These TASTED good, but turned into soup in the boiling water. I fried the rest in olive oil and they disappeared in nothing flat. Maybe it was the whole wheat flour, but the ants made sure I ran out of white. But since they tasted so fine, I'll play with the next batch. Thanks for freeing me from the freezer case!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "JEWELSTHEMONKEY"
+},
+"reviewBody": "The recipe took me more than 40 minutes, but that's no big deal. I used some oil in the water to put the perogies in... Also, I took the last reviewer's advice and used potatoes, onions, and cheddar, and they were also pretty good. My boyfriend, of course, thought it would be a bit better with meat (carnivore vs. vegetarian, I suppose.) Cutting up some mushrooms and adding them to the mix is also good. :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ben Piper"
+},
+"reviewBody": "I really enjoyed the dough for this one, and the cottage cheese filling was really easy to make and quite tasty. That being said, the filling doesn't taste like what you would expect.\r\n\r\nWhat I'll do is use this recipe for a quicker, lighter meal, then use a more standard filling of 4 medium potatoes, boiled and mashed with 1/2 cup cheddar and 3 onions, already chopped and sauteed in butter, when I have the will to make it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "The dough has to be boiled first before you eat these. Once you have boiled them you can then pan fry them with butter and onions if you wish.\nFor those who are having difficulty with them falling apart when they are being boiled, you must make sure no filling touches the edges of the raw dough as you are closing them shut. Give them a good pinch, let them rest for a bit and pinch them again just before you place them in the water. If they are not closed before you boil them, don't place them in the water. Scrap that Perogie and try again. And be sure not to over stuff them!\nDon't like cottage cheese? Perogies can be made with almost any filling. A lot of people use mashed potatoes with cheese, or onions and bacon."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/72791/cottage-cheese-perogies/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+"name": "Main Dishes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/535/main-dish/dumplings/",
+"name": "Dumpling Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/72791/cottage-cheese-perogies/",
+"name": "Cottage Cheese Perogies"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

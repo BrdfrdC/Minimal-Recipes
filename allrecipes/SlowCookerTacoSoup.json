@@ -1,0 +1,1457 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Slow Cooker Taco Soup"
+,"datePublished": "2000-01-15T17:40:56.000-05:00"
+,"dateModified": "2023-03-14T16:32:05.102-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Janeen Barlow"
+,"url": "https://www.allrecipes.com/cook/24323993"
+}
+]
+,"description": "This crowd-pleasing taco soup recipe is packed with all the flavors you&#39;d expect in a Tex-Mex chili, plus it&#39;s super easy to make in a slow cooker for a no fuss meal."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/O7dB5H1hcImxMwNlvLGSFP3JbHE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16678-slow-cooker-taco-soup-ddmfs-step-4-41b33a0ac182427880328395c4085a68.jpg",
+"height": 1125,
+"width": 1500
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=6319185867112",
+"description": "",
+"duration": "PT54S",
+"name": "How to Make Slow Cooker Taco Soup",
+"thumbnailUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/35cb2391-0534-4c8e-be09-e103585f770f/504f9b93-a5c9-4a91-8471-5166389fc923/1280x720/match/image.jpg",
+"uploadDate": "2023-01-29T14:22:06.917-05:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Slow Cooker Taco Soup"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "2360"
+}
+,"cookTime": "PT480M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "362 kcal"
+,"carbohydrateContent": "38 g"
+,"cholesterolContent": "49 mg"
+,"fiberContent": "9 g"
+,"proteinContent": "18 g"
+,"saturatedFatContent": "6 g"
+,"sodiumContent": "1356 mg"
+,"sugarContent": "9 g"
+,"fatContent": "16 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+, "recipeCategory": ["Dinner"]
+,"recipeCuisine": ["Mexican"]
+,"recipeIngredient": [
+"1 pound ground beef",
+"1 onion, chopped",
+"1 (16 ounce) can chili beans, with liquid",
+"1 (15 ounce) can kidney beans with liquid",
+"1 (15 ounce) can whole kernel corn, with liquid",
+"1 (8 ounce) can tomato sauce",
+"2 cups water",
+"2 (14.5 ounce) cans peeled and diced tomatoes",
+"1 (4 ounce) can diced green chile peppers",
+"1 (1.25 ounce) package taco seasoning mix" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/AzTGBgf3A-XLwHV91KLiO9yiH1o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16678-slow-cooker-taco-soup-ddmfs-step-1-1d73e609e68f458884ba7d6b4d01bb70.jpg"
+}
+]
+,"text": "Gather all ingredients."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/mQopRCFKe_wjVze5wI2ko4YMrEY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16678-slow-cooker-taco-soup-ddmfs-step-2-23c30221dc3b4469ba3cd2024442bb88.jpg"
+}
+]
+,"text": "In a medium skillet, cook the ground beef until browned over medium heat. Drain, and set aside."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/9Wyo8Vlb_QnKPfTelAMafsldLMg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16678-slow-cooker-taco-soup-ddmfs-step-3-a151bda7532b42c2ba069833028c009a.jpg"
+}
+]
+,"text": "Place the ground beef, onion, chili beans, kidney beans, corn, tomato sauce, water, diced tomatoes, green chile peppers and taco seasoning mix in a slow cooker."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/O7dB5H1hcImxMwNlvLGSFP3JbHE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16678-slow-cooker-taco-soup-ddmfs-step-4-41b33a0ac182427880328395c4085a68.jpg"
+}
+]
+,"text": "Mix to blend, and cook on Low setting for 8 hours."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT490M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I love this one. I like it thick, like chili. So I leave out the water and substitute tomato paste for tomato sauce. I make a double batch and freeze it for later."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "KJSMOM1"
+},
+"reviewBody": "1 lb of ground beef is not very much for 8 servings, but based on all of the great reviews I made exactly as called for in the recipe. This was not a favorite and I will not make it again. Very thin and soupy and not very flavorful, imo."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jayne"
+},
+"reviewBody": "Wow! So yummy. Substituted pinto beans because allergic to corn and used Mexican beer instead of water. Tastes amazing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I just realized my mom's been making this exact recipe for about ten years. I make this every few weeks during the winter months. I've subbed turkey and hot chili beans, and I use green hatch chiles and red onion. You can play with the amount of liquid to make it more soupy or less, and you can make it vegetarian by leaving the meat out. It's always better the next day and I always demolish the leftovers."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Whenever I try a recipe for the first time I follow it exactly how it is written, this was delicious. I think instead of adding water I will add broth and also served it with some shredded cheddar and a dollop of sour cream along with tortilla chips. Super easy to make, this one is a keeper,"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "brashears67"
+},
+"reviewBody": "This is a super easy meal to make for your family if you do not have time for the crockpot just make it in A big dutch oven. If you want it thick like a chilly use less liquid if you want more of a soup using the 2 cups. It makes a great tasting chilly. I only used 1 cup of liquid."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christi Williams"
+},
+"reviewBody": "We really enjoyed this! I added black beans, fresh diced jalapenos, and some shredded chicken that I had left over and wanted to use up. I also added taco seasoning to the ground beef as I cooked it. I didn't get it ready in time to put in the crock pot so I simmered it on the stove. Will definitely make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This turned out super well. I did make a couple tweaks that perfected it. First I used two seasoning packets. One while I cooked the meat and one in the crock pot. Also while I cooked the meat I added Chili powder, Pepper &amp; a little ranch seasoning. I put the same seasoning in the pot. Then I used black instead of chili beans. And for my diced tomatoes I got chili style tomatoes from the store plus pre seasoned diced tomatoes. Last instead of water I did beef broth. Make sure you use the liquid from all the ingredients. This helps it be more like soup than chili. If too thick just add more water or broth. Definitely serve with chips and sour cream. (P.S need it sooner? I did high for 4 hours and it was perfect but I could've also eaten it sooner. )"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christy Ratto-Bixby"
+},
+"reviewBody": "You know a recipe is a hit when both your kids and hubbs text you to tell you dinner was a amazing!!! Whoo hoo home-run. I did make a few changes and doubled it so we would have a few meals during this cold December. Added two cans of diced tomatoes with green chilies and cumin. This is a must try!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JRIVAL"
+},
+"reviewBody": "I left out the chili peppers and the picky 5 yr old ate it up."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "roguewonderer67"
+},
+"reviewBody": "It was delicious.. the only difference was the beans I used, which were ranch style beans and black beans."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gayle Dunnaway Harlan"
+},
+"reviewBody": "One of my favs! I add creamy Havarti Cheese when I serve it, just tops it off."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "FlyingTony"
+},
+"reviewBody": "Super easy to prepare and make. It is something you can prepare the night before and cook in the slow cooker the next day, if needed.\nI did modify the recipe slightly to my taste. I sauteed the onion with garlic after browning the meat, replaced the 2 cups of water with 2 cups beer. I also added ranch dip mix for more flavor. The family and kids loved it. We'll be making this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tallcoolpete713"
+},
+"reviewBody": "Loved it! Easy to make, great for lunch all week as a meal or an appetizer with chips."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dee"
+},
+"reviewBody": "I only had 2 cans of petite cut tomatoes in juice and used them. It turned out great and would make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Amy Dendy"
+},
+"reviewBody": "Great soup but needs more seasoning. Try adding two packets of taco seasoning."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Diddles"
+},
+"reviewBody": "Great soup! I drained the beans and corn instead of adding the extra sodium to the meal. At the end I stirred in a can of refried beans to thicken it as another user suggested. Amazing dish!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sharon"
+},
+"reviewBody": "I thought this recipe was a great inspiration, but too many ingredients would have made a vat of soup and they're only two of us to eat it. I substituted 2 and 1/2 cups of my own homemade tomato sauce, one cup of my home brined peppers and rinsed them before mincing. I used only one can of black beans and one can of whole kernel corn, but the taco mix was still inadequate for this amount of food. I had to add more cayenne, chili powder, cumin, and oregano to balance the flavors. I added three cloves of garlic that I pre-softened in the microwave for 15 seconds before pressing through the garlic press. We still ended up with a huge pot of soup that will be eating for a couple of days. It came out wonderfully, so I think this was a great recipe, for small families, with which to experiment."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Retro Rose"
+},
+"reviewBody": "Delicious easy meal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Miranda Torres"
+},
+"reviewBody": "Easy, Fast, Filing, Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Derek Coward"
+},
+"reviewBody": "I had to make it without the corn due to allergies. The recipe was easy to make and the end result tasted delicious (although it needed a little bit of salt added). I will probably make this again one day."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bmullins88"
+},
+"reviewBody": "Very cheap and easy taco soup it was so good, I did add some cumin and Mexican hot chili powder for a little more flavor as well as cutting down to 1 cup of water topped with Monterey Jack and cheddar cheese and a dollop of sour cream I make it like once a week!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "311Slinky"
+},
+"reviewBody": "This was simple and yummy. I cooked the ground beef in my Dutch oven, drained the fat, then threw everything in the Dutch oven and let it simmer for about an hour."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pam"
+},
+"reviewBody": "No changes necessary. This has the most complexity of flavor; everyone who tried it - including me - loved it. So easy and so good. It's already in my go-to recipes folder."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathy Landers"
+},
+"reviewBody": "Delicious as written!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jolene Smith"
+},
+"reviewBody": "Quick and easy dinner. I usually make it on the stove pot or instant pot and freeze the left overs."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "VeFig"
+},
+"reviewBody": "It was amazingly delicious! The first time I made it, I shortened the cook time a little due to circumstances, and it was good. But the second time I was able to let it cook the whole time, and boy oh boy was it so much more delicious! Everyone LOVED it! And it was easy enough to throw together. Definitely a really great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jay Meade"
+},
+"reviewBody": "I followed the recipe save for adding one packet of taco seasoning while the meat was browning, along with the onion. I also added two chopped jalapeños and half a green bell pepper"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jan"
+},
+"reviewBody": "I used fire roasted diced tomatoes. It gave it a nice smokey flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Daily Bread Bryan"
+},
+"reviewBody": "Excellent savory soup! Wonderful served with tortilla chips and a dollop of sour cream! After cooking the 8 hours, be sure to check for seasoning before serving, as mine needed more salt. This is a keeper for sure. Thanks for this easy and wonderful soup!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lori Kleven Welch"
+},
+"reviewBody": "The only thing I changed was that I used my Insta-pot for it. It takes 27 minutes to pressure cook rather than the 8-10 hours in the crock pot. I dont usually think of things that far in advance! Everyone whos had it loves it!!\nOk, oops, I did do one other different: I made my own taco , seasoning , (also from All Recipes) because I didnt have any packaged ones. The one I made, was awesome, I just left out the cumin."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amber Taylor"
+},
+"reviewBody": "All I added was a tablespoon of unsweetened Dutch cocoa powder. It gave it added depth of flavor. Delicious in the original, but amazing with the cocoa powder!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dad"
+},
+"reviewBody": "used Rotel for diced and doubled the chiles"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kirsten"
+},
+"reviewBody": "I swapped the tomato sauce for enchilada sauce. It was SO good. my whole family enjoyed it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda"
+},
+"reviewBody": "I just loved the ease and flavor of this Taco Soup. I used 2 jalapeño peppers instead of the green chilies. Delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Greg Dunlap"
+},
+"reviewBody": "Next time I will use 3 ears of fresh corn and not the canned corn."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Natalie Moore"
+},
+"reviewBody": "I used diced boneless skinless chicken thighs in place of ground beef. No need to precook the meat! And, I replaced the 2 cans of beans with a double sized can of refried beans. It was absolutely scrumptious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ken"
+},
+"reviewBody": "Made it in an Instapot. Very good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Darline Parish"
+},
+"reviewBody": "Jalapeños exchange for green Chile peppers."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Annette"
+},
+"reviewBody": "This is a great recipe! I did make a few adjustments as other reviewers did. I sauted the onion and 3 cloves of garlic with the ground beef. I also added the taco seasoning and 1 tsp of cumin, 1 tsp of chili powder before putting it in the crockpot. Instead of the canned tomatoes and chili peppers, I added 2 pint jars of my homemade salsa and only 1 cup of water. I added all the other ingredients and cooked it on low in the crockpot for 3 yo 4 hours. I'm sure this recipe would be great as it is, but after going to 3 stores that had no rotel of any kind. I decided I would try my homemade salsa in it, which I was glad I did, it was fantastic!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "resy"
+},
+"reviewBody": "Delightful! The cheddar and tortilla chips REALLY made it perfect.\nIt's on our list now"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "lashaun wheeler"
+},
+"reviewBody": "Turned out amazing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Julia Snyder McCann"
+},
+"reviewBody": "finally....a good version to lift spirits"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laura Li"
+},
+"reviewBody": "No changes. This recipe was easy and yummy. Will make it again......and again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Andromeda Aristy"
+},
+"reviewBody": "I substitute chili peppers with green bell peppers and use dollar store taco seasoning. my honey and I love it! We make it at least once a week and always have it on our grocery list! my only regret is I wish our crockpot was bigger so I could double it make more leftovers-- we can't stop eating it! Can't wait to experiment with it some more!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Herb120"
+},
+"reviewBody": "Browned beef with onion and seasoning. Used 2T of homemade taco seasoning instead of packet. Also left out the tomatoe sauce the first time just because I didn't have. Good over rice too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Dustin Gaj"
+},
+"reviewBody": "Very good and easy. I did the receipe as instructed except cooked it on high for less time so the tastes would not all run together. great recipe and super easy! 8/10"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Pat Dares"
+},
+"reviewBody": "Very tasty and easy. I used a can of Rotel (diced tomatoes with green chilies) in place of one of the cans of tomatoes and the green chilies); also added soup broth to give it more liquid."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stacy King"
+},
+"reviewBody": "Great recipe!!!! IT has become a family favourite"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "teel6ah"
+},
+"reviewBody": "This pie filling is to die for. I used half whipping cream and half 2% milk. I also used the vanilla wafer crust and saved some of it to sprinkle on top of the whip cream. Everyone loved it. The longer it’s refrigerated the better it sets up. Great recipe. Thanks!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pamela 'Yvonne' Grimmett"
+},
+"reviewBody": "I made it years ago, and since we are all on COVID-19 lock down, thought I would go through my recopies...\nForgot how easy and good it was... it was a rainy day and it was Perfect!! Made the whole house smell tasty!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tori Flesher"
+},
+"reviewBody": "Awesome added amore spice but was a great base for starting out."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Dustin Pankonien"
+},
+"reviewBody": "I made this for myself and a friend. Although the flavor wasn't bad, it was very bland in my opinion. I ended up spicing it up a little half way through, but still was okay and not great in my mind."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sheri"
+},
+"reviewBody": "It was wonderful. I did add a can of black beans and 1 pkg of ranch dressing mix. I made enough that I froze some so I can have it for later."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Quita B"
+},
+"reviewBody": "I love this soup! The only thing different I did was use left over taco meat from taco night. Perfect and hearty. Will be adding to my crock pot collection."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Can't cook"
+},
+"reviewBody": "I followed the recipe. I would make it again but add more ground beef and more seasoning. It didn't have much flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Teresa"
+},
+"reviewBody": "Very easy to make and taste great"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Granny"
+},
+"reviewBody": "Absolutely awesome. We as a family loved this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "angelglea"
+},
+"reviewBody": "This is one my favorite dishes. When I want an extra \"kick\", I use diced jalepenos instead of the green chiles."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ron"
+},
+"reviewBody": "We made it, but substituted hominy for the corn. It was very good and very hearty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Deborah"
+},
+"reviewBody": "This soup is excellent! I served the leftovers twice. I topped baked potatoes with the soup and then another night, I used it to make sheet pan nachos."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "laziestchefever"
+},
+"reviewBody": "Great recipe! This is my go-to mexican slow cooker soup recipe. I've made it many times and really enjoy it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Dylan Bard"
+},
+"reviewBody": "I made this as a meal prep for the week. I followed instructions exactly, besides adding Tostito chip cheese for a topping :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ILoveToBake"
+},
+"reviewBody": "Me and my Family LOVVVVE this recipe so much, I will totally make this a lot more, I did change a bit tho"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Serenity Barber"
+},
+"reviewBody": "I omitted the water, used black beans instead of chili beans, and added an extra packet of taco seasoning. Pretty good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marcia Lyons"
+},
+"reviewBody": "I increased the servings to 75 and made just as written. Great recipe that feeds way more than 75! Will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Marcia Ruter"
+},
+"reviewBody": "I was so excited to make this soup! It was disappointing that it had no flavor. I would substitute the tomatoes with salsa and use only one cup of water. I won't be making it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kim Lindeberg"
+},
+"reviewBody": "Added fresh garlic and omitted the corn. It was a delicious hit with my husband and friend. I served it with a salad and \nTexas toast."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "joyce russo"
+},
+"reviewBody": "Really Easy and Really Good !!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alicia "
+},
+"reviewBody": "I made it all in one pot on the stove and used a jar of salsa instead of the diced tomatoes and chilis.Came out great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Patricia Montoya"
+},
+"reviewBody": "I made this for my family. It was very easy and tasty. Warmed up on a cold night !"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Donna Jefferson"
+},
+"reviewBody": "Very tasty and super easy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Karen Hoffman"
+},
+"reviewBody": "little too soupy, I like it soups thicker."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JMac"
+},
+"reviewBody": "Pretty good. I added 1 package of ranch dressing mix as suggested. The two cans of diced tomatoes had oregano, basil &amp; garlic included. Also next time I will add salt before cooking."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "erin"
+},
+"reviewBody": "Amazing!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mz.Amazin McGruder"
+},
+"reviewBody": "This dish was Amazin,Simple and Delicious!! I used turkey meat instead of beef! I made mines more spicy by adding crushed red peppers,and I cut jalapenos to add to the crockpot!! To get that taco flavor I added more taco seasoning,when it was done I added cheese ,sour cream and I dipped it with some Italian /French Bread!! Finger licking GOOD :-)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Courtney Wilson"
+},
+"reviewBody": "I didn't have a can of chilies so instead I ground up a few fresh jalapenos, and it was great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cutie529"
+},
+"reviewBody": "It was amazing ....prep time wasn’t super long and it’s great for a cold day"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Heather Heatley"
+},
+"reviewBody": "This is more like chili than taco soup. Will not make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jmorganky"
+},
+"reviewBody": "I used extra taco seasoning and less water, but very tasty. My sons swear it's Mexican Chili not Taco Soup, but whatever you call it it's good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Arica "
+},
+"reviewBody": "Light, delicious flavors. Healthy, very easy meal. I omitted the can of chiles because I don't like the heat. I simmered it for two hours on the stove instead of in the slow cooker. It was very good, healthy, satisfying."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "goldilocks"
+},
+"reviewBody": "Delicious. Only change, didn’t have a crock pot. An hour on the stove did the trick. Add a little cheese on top and you’ve got a winner."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christina Venturi"
+},
+"reviewBody": "I made this last night, and it was great! I guess I really used this recipe as a stepping off point--I did not have tomato sauce, so I used salsa, and I did substitute a beer and a little bone broth instead of water, based on other reviews. I used petite diced tomatos and a little bit of Rotel I had leftover. The family loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Catherine Chapline"
+},
+"reviewBody": "This was awesome. I froze half and then put it in the fridge again because the first half was gone immediately. It even looked as good as the picture and that rarely happens for me. I like that is is easily thrown in a slow cooker and that you can adjust the ingredients to what you have on hand. This one is a keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "bhildreth"
+},
+"reviewBody": "Very easy. Needed to add more meat."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rengakaye"
+},
+"reviewBody": "I have made this several times and i love it!! Easy and yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mommyofthree Millbrook"
+},
+"reviewBody": "Family loved it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jen"
+},
+"reviewBody": "This soup was really good! My 7 year old son thought it was chili because it has beans, tomatoes &amp; beef but it more liquidity and tasted like a taco!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "cmkpsl"
+},
+"reviewBody": "tasted delicious! made a couple changes though, i drained and rinsed all the beans, added a can of black beans and doubled the ground beef and green chilis. defined a recipe i will make many more times."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer"
+},
+"reviewBody": "i love slow cooker meals this is one of my new favorites. i will defenitely make this again. the flavor was good and filled me up, i even freezed some i live alone so i look for foods i can freeze for later dinners :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "xocharli"
+},
+"reviewBody": "Turned out amazing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cathy Cambier"
+},
+"reviewBody": "Easy, delicious, great for leftovers and lunches."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Pat Foley McMillin"
+},
+"reviewBody": "Great soup. All the family loved it. Top it with shredded Mexican cheese and broken Tostitos pieces."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "GCR65"
+},
+"reviewBody": "This is my family favorite winter soup!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Frenchbone"
+},
+"reviewBody": "Added some fresh hatch chilies for better flavor. Also 1lb of chorizo!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tawny Weinhardt"
+},
+"reviewBody": "Easily one of my favourite things to make! So much flavour and it's so easy! The only thing is I like it more thick so I leave out the 2 cups of water... Also if I add the 2 cups my crock pot will overflow lol,"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bree Bree Wilson"
+},
+"reviewBody": "I loved this and so did the eight family members I fed! I doubled the recipe, drained the kidney beans and corn cans. Then I ended up with 5 cans of rotes diced tomatoes with green chilies due to a shopping error so I added all of those and no separate cans of green chilies. Then NO water. Mine still ended up having quite a lot of liquid so I made some cilantro lime rice in another pan and everyone poured it over a scoop of that with crushed chips, cilantro, and sour cream on top. Delicious!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Terri Haas"
+},
+"reviewBody": "Yes I will make it again. I tripled the recipe! I used 3 cups of beef broth, and rinsed the beans. And I added a little wahoo chili powder, 1 teas. I served it with tositos chips, sour cream and shredded Mexican cheese!!! DELISH!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ChrystalF"
+},
+"reviewBody": "This is absolutely amazing. Love this soup. I use beef broth instead of water. I top it off with cheese, sour cream and some southwester tortilla soup strips. AMAZING!!!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/16678/slow-cooker-taco-soup/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16369/soups-stews-and-chili/soup/",
+"name": "Soup Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16942/soups-stews-and-chili/soup/taco-soup/",
+"name": "Taco Soup Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/16678/slow-cooker-taco-soup/",
+"name": "Slow Cooker Taco Soup"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

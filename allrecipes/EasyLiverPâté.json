@@ -1,0 +1,399 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Easy Liver Pâté"
+,"datePublished": "2020-06-18T23:10:35.000-04:00"
+,"dateModified": "2023-01-28T00:40:49.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "DANI706"
+,"url": "https://www.allrecipes.com/cook/1008111"
+}
+]
+,"description": "This liver pâté is made with Braunschweiger, a smoked version of liverwurst. It is perfect for gatherings or parties. Seasonings may be adjusted to taste."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/g2-QmKDeJVRwRMSdBpo6qStOx6M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/488930-easy-liver-pate-Jessica-4x3-1-680d9ac59ce0426d82b592ff78f86b34.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Easy Liver Pâté"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "27"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "80 kcal"
+,"carbohydrateContent": "1 g"
+,"cholesterolContent": "39 mg"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "242 mg"
+,"sugarContent": "0 g"
+,"fatContent": "7 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"1 pound Braunschweiger (a liver sausage), pork",
+"0.5 (8 ounce) package cream cheese, softened",
+"1 tablespoon milk",
+"1 tablespoon finely chopped onion",
+"1 tablespoon Worcestershire sauce",
+"1 teaspoon chili powder",
+"0.5 teaspoon sugar",
+"0.5 teaspoon minced garlic" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Mix together sausage, cream cheese, milk, and onion in a medium bowl. Season with Worcestershire sauce, chili powder, sugar, and garlic, and mix until well blended."
+} ,{
+"@type": "HowToStep"
+,"text": "Wrap in plastic wrap, and refrigerate for at least 2 hours, until firm."
+} ]
+,"recipeYield": ["24"]
+,"totalTime": "PT150M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "We loved it! I cut the chili powder to ½ tsp. Turned out fantastic."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Melanie Moberg Bohl"
+},
+"reviewBody": "I used jalapeno cream cheese, added a little spice!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer Perez"
+},
+"reviewBody": "this is my Grandmother's recipe too but she also added dill and pickles and pickle juice. believe it or not it's amazing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This is so good that even people who don't like liverwurst like this...don't change a thing in the recipe.."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mooninvirgo1"
+},
+"reviewBody": "This is so good that even people who don't like liverwurst like this...don't change a thing in the recipe.."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mrs O"
+},
+"reviewBody": "My husband LOVES this, either as a snack on crackers or on bread for a sandwich...don't change a thing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MNfarmerswife"
+},
+"reviewBody": "Just made this for a family weekend. It was a hit! Even people who don't like liver sausage treid it and had more! We have some left over so I'm going to use it as sandwich spread for our lunches this week! Yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Beckye"
+},
+"reviewBody": "John loves this easy recipe and linda liked it too"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "daniel4inmi"
+},
+"reviewBody": "This recipe is very close to my mother's recipe. She adds chopped dill pickles and some pickle juice. She also frosts it with cream cheese. This recipe has always been a hit even with friends that have never tried liver sausage before."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "manda_shelley"
+},
+"reviewBody": "It just tasted like plain braunshweiger (sp?). I even added the whole brick of cream cheese, which bulked it up nicely, but didn't really add to the flavor. I like plain braunshweiger, so it wasn't bad, I was just expecting something with more pizazz."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "claire"
+},
+"reviewBody": "This is as close to the one I used to make 20 years ago. The only thing I do differently is place in a round bowl lined with plastic wrap. Place in freezer for a couple of hours. Flip it onto the platter and remove plastic. I then spread cream cheese over the ball and sprinkle parsley over the whole thing. Serve with crackers, cocktail bread or even fresh veggies (carrots, celery, etc). Thanks for the recipe. This is the closest recipe I've found to my original from years ago."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CHINADOL262"
+},
+"reviewBody": "I always wanted to try pate so i decided to try this recipe. IT WAS GREAT! And, i don't like pork liver sausage LOL! I did add a little more cream cheese. It has turned out to be one of my absolute favorites."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lin Coyle"
+},
+"reviewBody": "YUMMO!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Richard Willey"
+},
+"reviewBody": "Made this for Thanksgiving with friends, everyone loved it, even one person who didn’t like liver! It’s so easy to put together, I to added a whole block of cream cheese but don’t feel in lessoned the wonderful flavor of this pate. This one is definitely a keeper! Thanks for sharing it with us."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "claire"
+},
+"reviewBody": "love this recipe. I've been making it for a long time - lost the recipe and now found it again. Thank you, thank you. The only thing I do differently is that I line a round bowl with plastic wrap, let it set for 2 hours, flip it onto the platter, so that it's nice and round. I then cover the pate with cream cheese and then fresh parsley - this makes the presentation."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TaraAnne"
+},
+"reviewBody": "Very good. After mixing I rolled it in plastic wrap, but I think next time I would put it in the dish I want to serve it in and chill. The people who like pate loved this but some people didn't try it, probably because of the presentation. Still, the flavor was really really good and I will serve again, just in a different way."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CREEPER00"
+},
+"reviewBody": "This is the best pate' recipe I've ever tried. I normally modify a recipe to suit my own taste. Couldn't think of a thing to add to this recipe. It's wonderful exactly as is."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Suanne"
+},
+"reviewBody": "Delicious. I doubled the cream cheese and it still had a great flavor. The worstechire sauce is the secret flavor here. Thank you."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kelly M"
+},
+"reviewBody": "Delish and Easy! The mixture firms up a lot in the refrigerator. To make sure it held its shape I used a loaf-pan lined with waxed paper. I was a littl worried when I first but when I pulled it out of the pan, positioned it on a platter with some crackers, it looked fantastic! I always thought pate was really difficult to make... until I came across this recipe!!! Thanks for making me look good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bernice Dray"
+},
+"reviewBody": "Had this for Christmas appetizers. It was gone in no time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "RACHAEL"
+},
+"reviewBody": "This was really good, I made it at work today and a coworker and i ate it on fresh sourdough bread, toasted. I didnt have chili powder on hand, so I skipped that. Definately something I would make again."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/69121/easy-liver-pate/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/105/appetizers-and-snacks/dips-and-spreads/",
+"name": "Dips and Spreads Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/435/appetizers-and-snacks/dips-and-spreads/pate/",
+"name": "Pate Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/69121/easy-liver-pate/",
+"name": "Easy Liver Pâté"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

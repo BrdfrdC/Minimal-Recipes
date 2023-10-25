@@ -1,0 +1,179 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Make-Ahead Greek Yogurt Parfait"
+,"datePublished": "2018-06-22T21:30:34.000-04:00"
+,"dateModified": "2022-06-10T08:39:09.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Jenny Tovey"
+,"url": "https://www.allrecipes.com/cook/4627961"
+}
+]
+,"description": "Quick, easy, sweet, and nutritious, these Greek yogurt parfaits feature frozen fruit and granola cereal for a high-protein, make-ahead breakfast."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/rSIwrfho6_ZznpgOR0jCaPF9YwM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5645992-63053852193740bba385f0abb5334ad0.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Make-Ahead Greek Yogurt Parfait"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.3",
+"ratingCount": "4"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "359 kcal"
+,"carbohydrateContent": "61 g"
+,"cholesterolContent": "3 mg"
+,"fiberContent": "5 g"
+,"proteinContent": "14 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "106 mg"
+,"sugarContent": "16 g"
+,"fatContent": "8 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"4 cups nonfat plain Greek yogurt",
+"1 cup granular sucralose sweetener (such as Splenda®)",
+"1.5 teaspoons vanilla extract",
+"2 cups granola cereal",
+"8 cups frozen mixed fruit, no sugar added" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine yogurt, sweetener, and vanilla extract in a large bowl. Stir well."
+} ,{
+"@type": "HowToStep"
+,"text": "Place 1 cup of frozen fruit in each of 8 plastic cups. Top each with 1/2 cup yogurt mixture. Store in the refrigerator until needed."
+} ,{
+"@type": "HowToStep"
+,"text": "Top each cup of fruit and yogurt with 1/4 cup granola before eating."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT10M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Diane Shipp"
+},
+"reviewBody": "I didn't like the mixed fruit I got, the raspberries were really sour, but other than that, they turned out great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Audrey"
+},
+"reviewBody": "I made it 1 time :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Legend"
+},
+"reviewBody": "I used Yoplait Plain Yogurt rather than mixing my own. I tried it with frozen berries and made them ahead, but when I left the two together overnight, I got a little bit of a stomach ache when I ate it. I don't know why, but when I make and eat it right away I felt fine. \n\nIt's easy to make, and a perfect replacement for ice cream or other movie time snacks. Also perfect because you can't eat it super fast while the berries are frozen. Well, at least I couldn't. Thanks for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Happyschmoopies"
+},
+"reviewBody": "I love parfaits and this was simple to get together and an easy snack or breakfast. I did reduce the sucralose by quit a bit. I started with 1/4 cup and that was plenty of sweetness for our taste. I suggest starting at 1/4 cup and continue to add until you reach your desired sweetness. I was great with the frozen fruit, but, did get quite a bit of liquid in the bottom as the fruit defrosted."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/265838/make-ahead-greek-yogurt-parfait/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/79/desserts/",
+"name": "Desserts"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17203/desserts/specialty-desserts/",
+"name": "Specialty Dessert Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/265838/make-ahead-greek-yogurt-parfait/",
+"name": "Make-Ahead Greek Yogurt Parfait"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

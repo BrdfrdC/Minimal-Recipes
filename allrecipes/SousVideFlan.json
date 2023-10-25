@@ -1,0 +1,267 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Sous Vide Flan"
+,"datePublished": "2020-06-19T00:27:22.000-04:00"
+,"dateModified": "2020-06-19T00:27:22.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "registerednerd"
+,"url": "https://www.allrecipes.com/cook/registerednerd"
+}
+]
+,"description": "With a sous vide, you can cook flan in individual jars for a simple, custardy dessert that&#39;s perfect for company and so easy to clean up."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/SFJc4YfQc3gpBZLW6GSkWDoiquE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4612273-cd2052510bc7412f9f9e13c2c6045e40.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Sous Vide Flan"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "11"
+}
+,"cookTime": "PT65M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "325 kcal"
+,"carbohydrateContent": "51 g"
+,"cholesterolContent": "100 mg"
+,"proteinContent": "10 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "139 mg"
+,"sugarContent": "51 g"
+,"fatContent": "10 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"0.75 cup white sugar",
+"8 4-ounce Mason® jars with lids and rings",
+"1 (14 ounce) can sweetened condensed milk",
+"1 (12 fluid ounce) can evaporated milk",
+"3 eggs",
+"1 tablespoon vanilla extract" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place a sous vide cooker inside a large heat-proof container filled with water. Preheat the water bath to 179 degrees F (82 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Melt sugar in a small saucepan over medium heat until browned, about 5 minutes. Pour hot melted sugar into eight 4 ounce Mason jars, enough to cover the bottom of each."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix sweetened condensed milk, evaporated milk, eggs, and vanilla extract together in a separate bowl. Add to the jars; seal."
+} ,{
+"@type": "HowToStep"
+,"text": "Place jars in the water bath and set timer for 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove jars from the water bath. Let flan cool until safe to handle, about 20 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Unseal jars and run a small rubber spatula around the sides of the flan. Top each flan with a plate;invert and gently shake to release."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT95M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "nikyu7"
+},
+"reviewBody": "I found out that you need to pre-heat the mason jars before adding the hot sugar (cracked them). otherwise it was delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sedohnah"
+},
+"reviewBody": "Easy and delicious. Adding water to the sugar is a must. Keep a close eye on it, it goes from clear to amber quickly. Will make it again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Brian Drees"
+},
+"reviewBody": "Great flavor, a little too thick. It is even better the next day. Next time I might use two eggs and one egg yolk to see what changes.."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sharmaine Taaca Leiva"
+},
+"reviewBody": "Easy to follow and very yummy. Hint: Add 1/4 c water to the sugar when caramelizing as suggested by another user but watch carefully. Don’t want it to burn."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Anne Bickford"
+},
+"reviewBody": "Loved this recipe! Followed it exactly without any changes and it came out perfect! Just a tip for getting the flan out of the jars...once you have it flipped over with the plate on top, give it a FIRM shake, and it will pop right out!\n\nI had a little bit of caramel still left in the bottom after flipping it over that I used to drizzle on the white plate over the flan. I added some fresh whipped cream to the top and a few colored sprinkles (since I was making this at the holidays). BAM - yummy and impressed the guests!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "PAIGENH"
+},
+"reviewBody": "LOVED this! Watch that you don't overcook the sugar, I added a little water, stirred once, then let the stove do it's thing. I used a silicone brush dipped in water to get the sugar off the sides of the pan. Worked great. Such an easy and delicious dessert! \nthanks for sharing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "jodan"
+},
+"reviewBody": "For everyone butchering the caramel (this guy), trick is to add a 1/4 cup of water to sugar before you start. Put on medium heat. Do not stir, do not swirl, do not jostle when it gets to boiling. If you have a candy thermometer clip one on and wait until you either hit around 340 degrees f or the sugar has turned Amber. Once amber/at 340 go ahead and stir. Other then that rest of the instructions were great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Krista Hahn"
+},
+"reviewBody": "I've made this a few times and it's yummy!! I will say every time, I've overcooked the sugar. Not sure why, it could be the sugar, it could be me. Will try a slightly different technique with the sugar next time to see if I can improve it. It comes out rock solid with a bit of caramel that seeps into the flan. Ha! Over all, good stuff!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Vin"
+},
+"reviewBody": "I almost don’t have much to say. A super-simple and effective recipe. Flan came out great even though I think I took the sugar slightly past where it should have been (yeah, I was on the edge of burning it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rosie"
+},
+"reviewBody": "I did not have a Sous vide cooker..or 4 oz jars, but I did have the 8 oz sized jars. I still divided the recipe into 8 jars, I baked in the oven in a water bath. Turned out very nice, very pretty and tasty! The recipe is a little sweet for me, but very good:)"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/263114/sous-vide-flan/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/363/desserts/custards-and-puddings/",
+"name": "Custards and Puddings"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/14445/desserts/custards-and-puddings/flan/",
+"name": "Flan Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/263114/sous-vide-flan/",
+"name": "Sous Vide Flan"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

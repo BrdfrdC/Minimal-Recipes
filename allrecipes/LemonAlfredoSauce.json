@@ -1,0 +1,126 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Lemon Alfredo Sauce"
+,"datePublished": "2023-01-25T09:30:00.000-05:00"
+,"dateModified": "2023-01-25T09:30:00.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Bibi"
+,"url": "https://www.allrecipes.com/cook/bibi"
+}
+]
+,"description": "Homemade lemon Alfredo sauce with heavy cream, Parmesan cheese, lemon juice, and zest tastes delicious over pasta, vegetables, or fish."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/nYrbRhIPmP8ym6NP0faK1fvQoIo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1674513386Lemon20Alfredo20Sauce-38c38b0e801c4a988701b391b17952ec.jpeg",
+"height": 960,
+"width": 1280
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Lemon Alfredo Sauce"
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "357 kcal"
+,"carbohydrateContent": "6 g"
+,"cholesterolContent": "120 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "7 g"
+,"saturatedFatContent": "22 g"
+,"sodiumContent": "487 mg"
+,"fatContent": "35 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"3 tablespoons unsalted butter",
+"2 cloves garlic, minced",
+"0.25 teaspoon freshly ground black pepper, or to taste",
+"0.5 teaspoon salt, or to taste",
+"1 pinch ground nutmeg",
+"1 cup heavy cream",
+"1 medium lemon, zested and juiced",
+"0.33 cup grated Pecorino Romano cheese",
+"0.33 cup freshly grated Parmesan cheese",
+"chopped fresh parsley for garnish (optional)" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Melt butter in a 10-inch skillet over medium heat. Once butter is foamy, add garlic, pepper, salt, and nutmeg. Cook and stir until garlic is fragrant, about 30 seconds."
+} ,{
+"@type": "HowToStep"
+,"text": "Gradually whisk in cream, stirring constantly, to incorporate cream into butter. Drizzle in lemon juice, then add lemon zest, while stirring constantly. Keep stirring until sauce coats the back of a spoon, 3 to 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove from heat and stir in grated Pecorino Romano and Parmesan cheeses. Taste and adjust seasoning, if necessary. Serve garnished with parsley."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT30M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8532500/lemon-alfredo-sauce/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/563/side-dish/sauces-and-condiments/sauces/pasta-sauces/creamy/",
+"name": "Creamy"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17655/side-dish/sauces-and-condiments/sauces/pasta-sauces/creamy/alfredo-sauce/",
+"name": "Alfredo"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8532500/lemon-alfredo-sauce/",
+"name": "Lemon Alfredo Sauce"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,167 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Kabob Koobideh (Persian Ground Meat Kabobs)"
+,"datePublished": "2020-03-23T15:58:29.000-04:00"
+,"dateModified": "2022-01-03T12:56:47.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Nick Perry"
+,"url": "https://www.allrecipes.com/cook/26865537"
+}
+]
+,"description": "A mixture of ground beef and lamb is loaded with incredible flavor from grated onions, turmeric, and sumac in these tasty grilled Persian kabobs."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/qslMYD5_4vALMwhub1U0u8Hj08M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7603269-d484d711628244f8bef413617bd2dc60.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Kabob Koobideh (Persian Ground Meat Kabobs)"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "3"
+}
+,"cookTime": "PT25M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "260 kcal"
+,"carbohydrateContent": "4 g"
+,"cholesterolContent": "114 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "21 g"
+,"saturatedFatContent": "7 g"
+,"sodiumContent": "494 mg"
+,"sugarContent": "1 g"
+,"fatContent": "18 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"2 onions, peeled",
+"cheesecloth",
+"1 pound ground lamb",
+"1 pound ground beef",
+"1 green onion, diced",
+"2 teaspoons baking powder",
+"1 teaspoon salt",
+"1 teaspoon ground black pepper",
+"1 teaspoon sumac powder",
+"0.5 teaspoon ground turmeric",
+"2 eggs",
+"8 (10 inch) metal skewers" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Shave onions with a grater into a fine mesh strainer. Gently press pulp into the strainer to remove juices. Place pulp into the center of the cheesecloth and gently press until no further juice drips out."
+} ,{
+"@type": "HowToStep"
+,"text": "Place lamb and beef in a pot. Add green onion and onion pulp; mix until thoroughly combined. Mix in baking powder, salt, pepper, sumac, and turmeric. Add eggs and mix thoroughly. Cover the pot and place in the refrigerator until flavors have melded, at least 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat an outdoor grill for medium heat and lightly oil the grate."
+} ,{
+"@type": "HowToStep"
+,"text": "Mold meat mixture onto the skewers."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook on the preheated grill, rotating every minute, until nicely browned on all sides, and meat is no longer pink in the center, about 25 minutes."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT85M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dan Toomey"
+},
+"reviewBody": "Great recipe Nick! This is as good as what I order in my favorite Persian restaurant. I made a couple of small tweaks 1) is used 4 cloves of minced garlic instead of green onion, 2) used baking soda instead of baking powder, 3) I added 1 tsp of Aleppo Pepper just for fun. My wife loved this!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Andy McNeal"
+},
+"reviewBody": "Got my skewers on Amazon, and next I modified my bbq grill to hold the skewers above the grill top.\nI got 12 skewers and they are pretty big, I was only able to fit 8 on my grill top at once \nPay special attention to the way the ends of kabobs are formed to make sure the don't peal back during cooking.\nThis was delicious quick and cheap to make and my family loved it."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/279047/kabob-koobideh-persian-ground-meat-kabobs/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/235/world-cuisine/middle-eastern/",
+"name": "Middle Eastern"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/15937/world-cuisine/middle-eastern/persian/",
+"name": "Persian"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/279047/kabob-koobideh-persian-ground-meat-kabobs/",
+"name": "Kabob Koobideh (Persian Ground Meat Kabobs)"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

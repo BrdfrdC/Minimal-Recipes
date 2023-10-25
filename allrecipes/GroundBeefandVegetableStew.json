@@ -1,0 +1,411 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Ground Beef and Vegetable Stew"
+,"datePublished": "2020-04-24T21:24:58.000-04:00"
+,"dateModified": "2023-01-25T13:17:03.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "armom"
+,"url": "https://www.allrecipes.com/cook/4062729"
+}
+]
+,"description": "This rich and hearty ground beef and vegetable stew with potatoes, carrots, and green beans is perfect for a family dinner on a cold winter night."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/WeNqpq7e3uJr5cuo1Gk3YnI__ZQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9141836-0977a5607e294e5581af60ca144d837b.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Ground Beef and Vegetable Stew"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "21"
+}
+,"cookTime": "PT65M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "257 kcal"
+,"carbohydrateContent": "29 g"
+,"cholesterolContent": "35 mg"
+,"fiberContent": "5 g"
+,"proteinContent": "14 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "1096 mg"
+,"sugarContent": "5 g"
+,"fatContent": "10 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 pound ground beef",
+"1 small onion, finely chopped",
+"1 clove garlic, finely chopped",
+"4 cups water",
+"1 (8 ounce) can tomato sauce",
+"2 tablespoons beef base",
+"1 tablespoon Worcestershire sauce",
+"1 teaspoon ground black pepper",
+"0.5 teaspoon celery salt",
+"0.25 teaspoon ground marjoram",
+"5 large carrots, cut into rounds",
+"4 medium potatoes, peeled and cubed",
+"1 cup green beans, trimmed and cut into 1-inch pieces",
+"3 tablespoons all-purpose flour",
+"2 tablespoons water, or more as needed" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat a large skillet over medium-high heat. Cook and stir ground beef, onion, and garlic in the hot skillet until beef is browned and crumbly and onion is translucent, 5 to 7 minutes. Drain and discard grease."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir in 4 cups water, tomato sauce, beef base, Worcestershire sauce, pepper, celery salt, and marjoram; bring to a simmer. Add carrots and continue to simmer until tender, about 35 minutes. Add potatoes and green beans, simmer until tender, about 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix flour and 2 tablespoons water together in a small bowl until no lumps remain; add more water if necessary. Stir mixture into stew; simmer until stew has thickened, 5 to 10 minutes."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT75M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I cried when I ate it! I made plenty to go in the freezer! Love to my peeps!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Easy, bulk, and delicious! I was happy to try this given the reviews. It came it even more tasty than I expected. It was a quick hit. We used 1lb of lean ground beef instead and I cant say I tasted a difference."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Great stew! My family loved the flavor! I made a batch of corn bread with it and it was perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kim Williams"
+},
+"reviewBody": "So stinkin easy to make! I made this on a Sunday because I was under the weather. I will save it next time for a work day or a family get-together because it's so easy and delicious! Thank you so much for this little gourmet gift!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I used most of all the ingredients the recipe called for, but made my own rendition with a little yellow bell pepper and a mixture of different seasonings to make the broth since I didn't have any. Came in handy since kiddos had colds. Hope stew knows it right out of them."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sue"
+},
+"reviewBody": "Loved it, very delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brigida "
+},
+"reviewBody": "My family loved it. Did use oregano instead of marjoram (half the requested measurement as recommended). It was very tasty. Perfect blend of spices and vegetables."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Janet Mohrman"
+},
+"reviewBody": "Excellent!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jenifer"
+},
+"reviewBody": "12/21 Used ground turkey, left out green beans, added celery and canned mushrooms"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tonybark123"
+},
+"reviewBody": "My kids like it!! \n\nI made some substitutions though. No onions so I used onion powder to the taste. Drained meat, used beef broth instead of beef base. Added extra cup, so 5 cups. 1.5cups of tomato sauce, I used jar of tomato, basil, and garlic. And used frozen green beans and added corn. I also added steak seasoning to meat to frying it. \n\nFrugal way to feed a family with a pound of ground beef. Delish!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dtye"
+},
+"reviewBody": "This stew is absolutely perfect &amp; it's so simple to make. I'm the 'cook' in our home so I make a lot of meals and while I've only made this once, so far, I have actually been craving it, so we're having it again tomorrow."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Colleen"
+},
+"reviewBody": "Easy. Very tasty. I didn’t have green beans, but I had mushrooms, so I used them instead. I used 2 tablespoons of Worcestershire Sauce. I didn’t have base so I threw in a beef bouillon cube. I needed to add a bit of extra water."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "PookeyJ"
+},
+"reviewBody": "What a good way to stretch a pound of ground beef. It is delicious and there is enough to freeze for later. The only change I made was to add some celery with the onions and I added about a teaspoon of salt. So good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "radio robin"
+},
+"reviewBody": "Delicious! Great recipe! I didn’t have green beans so I used frozen peas and tossed in some mushrooms. Definitely will make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shelbre Petrie Balderrama"
+},
+"reviewBody": "Easy peasy and super tasty and hearty!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brittany Stonecypher"
+},
+"reviewBody": "Excuse my pic! I’d already eaten half of it when I took the pic lol. It’s absolutely delicious! I am a huge instant pot cooker so I cooked it that way. I browned the meat, onions and garlic together &amp; then drained. I tossed in the remaining ingredients in IP. I added a can of tomato paste bc I mistakenly opened that instead of the tomato sauce so I added both so it wouldn’t get wasted. I tossed in a can of rotel also bc it felt wrong making this without some type of tomato pieces. I added fresh carrots &amp; potatoes but frozen green beans and corn. Frozen veggies tend to work better for pressure cooking so they don’t get too mushy. The corn isn’t in the recipe but my kids LOVE it so I tossed in about a cup. I did a 7 minute cook and a 15 minute natural release. The veggies definitely weren’t mush but next time I’ll probably cook for 5 minutes instead so they will be a little firmer. I added the flour mixture after cooking it. I got lots of compliments from my picky eaters."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "joan"
+},
+"reviewBody": "Family loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Art Durbin"
+},
+"reviewBody": "Easy to make, tastes great"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Scott Ebert"
+},
+"reviewBody": "Classic dish, family absolutely loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sandy A"
+},
+"reviewBody": "Very flavorful! Didn’t modify anything. Will make again with different vegetables and chunkier burger pieces."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lutzflcat"
+},
+"reviewBody": "3.11.20 Hesitated to put 5 large carrots in this, but I did it, and they really made this stew. Wouldn’t change a thing, this was delicious. Served with Amish Buttered Egg Noodles, another recipe on this site. Thanks for sharing your recipe."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/278784/ground-beef-and-vegetable-stew/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/183/soups-stews-and-chili/stews/",
+"name": "Stews"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/14730/soups-stews-and-chili/stews/beef/",
+"name": "Beef"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/278784/ground-beef-and-vegetable-stew/",
+"name": "Ground Beef and Vegetable Stew"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

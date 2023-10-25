@@ -1,0 +1,128 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Overnight Mexican Breakfast Strata"
+,"datePublished": "2020-04-13T16:19:07.000-04:00"
+,"dateModified": "2020-04-13T16:19:07.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Krys "
+,"url": "https://www.allrecipes.com/cook/18066533"
+}
+]
+,"description": "Made with Mexican-inspired ingredients like poblano peppers, chorizo, bolillo rolls, and queso fresco, this overnight strata makes for an easy, delicious breakfast."
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Overnight Mexican Breakfast Strata"
+,"cookTime": "PT60M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "238 kcal"
+,"carbohydrateContent": "21 g"
+,"cholesterolContent": "114 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "12 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "462 mg"
+,"sugarContent": "5 g"
+,"fatContent": "11 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"8 ounces chorizo sausage",
+"2 medium onions, thinly sliced",
+"2 medium poblano peppers, seeded and thinly sliced",
+"1 medium red bell pepper, chopped",
+"8 cups cubed Mexican bolillo rolls",
+"6 large eggs, lightly beaten",
+"2.5 cups 2% milk",
+"1 teaspoon dried oregano",
+"0.5 teaspoon ground paprika",
+"0.5 cup crumbled queso fresco",
+"1 tablespoon snipped fresh cilantro" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Cook and stir chorizo in a large skillet over medium heat until browned and crumbly, 5 to 7 minutes. Transfer to a bowl using a slotted spoon, reserving 1 tablespoon of drippings in the pan. Add onions to the skillet and cook, stirring frequently, until tender, about 10 minutes. Stir in poblano peppers and bell pepper; cook until just tender, about 5 minutes. Remove from heat and return chorizo to the skillet."
+} ,{
+"@type": "HowToStep"
+,"text": "Lightly grease a 3-quart rectangle or oval casserole dish. Spread 1/2 of the bread into the prepared dish and top with 1/2 of the chorizo mixture. Repeat with remaining bread and chorizo."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk eggs, milk, oregano, and paprika together in a large bowl. Pour egg mixture evenly over bread and sausage. Cover and chill, 8 hours to overnight."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 325 degrees F (165 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven, covered, for 30 minutes. Uncover and bake until an instant-read thermometer pressed into the center reads 170 degrees F (degrees C), 30 to 45 minutes more. Sprinkle with queso fresco during the last 5 minutes of baking. Let stand for 10 minutes and sprinkle with cilantro."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT570M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/279608/overnight-mexican-breakfast-strata/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/148/breakfast-and-brunch/eggs/",
+"name": "Eggs"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1307/breakfast-and-brunch/eggs/breakfast-strata/",
+"name": "Breakfast Strata Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/279608/overnight-mexican-breakfast-strata/",
+"name": "Overnight Mexican Breakfast Strata"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

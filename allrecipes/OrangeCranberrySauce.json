@@ -1,0 +1,297 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Orange Cranberry Sauce"
+,"datePublished": "2020-06-18T23:57:06.000-04:00"
+,"dateModified": "2022-10-06T13:39:43.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "lmaniloff"
+,"url": "https://www.allrecipes.com/cook/5845187"
+}
+]
+,"description": "This easy, holiday cranberry sauce recipe is made with the zest and juice of two whole oranges for a little zing of citrus in every bite."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/OJ8-I_qWtZLiYztqzS5uLT8jNII=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1568889-0ac3b510552042d9a539b2675aec0425.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Orange Cranberry Sauce"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "17"
+}
+,"cookTime": "PT70M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "176 kcal"
+,"carbohydrateContent": "45 g"
+,"fiberContent": "4 g"
+,"proteinContent": "1 g"
+,"sodiumContent": "3 mg"
+,"sugarContent": "39 g"
+,"fatContent": "0 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"2 medium oranges",
+"1 pound fresh cranberries",
+"1 cup white sugar",
+"1.25 cups water, or as needed to cover" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Zest and juice oranges; set juice aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine cranberries, sugar, and orange zest in a saucepan; stir to combine. Cover with water and bring to a boil. Cook until cranberries begin to burst, 5 to 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Reduce the heat to low, stir in orange juice, and simmer until flavors blend, about 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove from the heat and cool to room temperature, about 20 minutes. Refrigerate until jelled, at least 1 hour."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT155M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Lizziebear"
+},
+"reviewBody": "The measurements like \"2 oranges\" and \"water to cover\" were a bit annoying, especially after I added too much water. There's also too much sugar. It tasted pretty good, though and I added a bit of cinnamon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Terry"
+},
+"reviewBody": "Easy and delicious! I added fresh mandarin orange segments and used orange, mango peach juice for a more tropical flavor. Everyone loved it. Thank you."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "IDYDELL"
+},
+"reviewBody": "As a base recipe, I added cinnamon and nutmeg to it and used brown sugar instead of white. Came out perfect for me. Thanks."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ellen Caldwell-Denisky"
+},
+"reviewBody": "I added clove and nutmeg to give it a little zing"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Georgine Trujillo"
+},
+"reviewBody": "Yummy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Diane"
+},
+"reviewBody": "It was super easy to make! I did add a little extra sugar! It came out great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Kris Norgaard Georgia"
+},
+"reviewBody": "My cranberries turned out TOUGH."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Anu Williams"
+},
+"reviewBody": "I added half a cup brown sugar and some cinnamon to the mix and it turned out out great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dolly"
+},
+"reviewBody": "Absolutely yummy! The combination of the sugar and orange juices and zest makes this so flavorful.\nReduced quantities to make 6 servings; even with 18 guests, there isn't need for more - our New Mexico family roots love Red and Green Chile \"gravy\" more than cranberry sauce, LOL!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carroll Calder"
+},
+"reviewBody": "Definitely make this every turkey bird holiday, delicious and easy! I only added a knob of ginger root while it simmered and removed it before it set."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "twinmom"
+},
+"reviewBody": "Been making this for years now. Some thought it was a bit too sweet, but you can change the amount of sugar. I've toned it down to about 1/2 c now and have not had any complaints."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Terri Wigginton Dubak"
+},
+"reviewBody": "I didn't add any water and I added a stick of cinnamon. It was delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Happyschmoopies"
+},
+"reviewBody": "This was an easy cranberry sauce to put together and had good flavor. I think you will have to adjust to taste and watch the liquids you put into the cranberries. \"Water to Cover\" and \"Juice of 2 Oranges\" can vary greatly depending on the size of the pan you use and the size of your oranges or the amount of juice the orange produces. Mine actually simmered down quickly, so, I had to add a little more equal amounts of water and juice. It was also a little sweet for us, so, I would start with a little less sugar, taste, &amp; adjust accordingly."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/235302/orange-cranberry-sauce/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1976/side-dish/sauces-and-condiments/sauces/",
+"name": "Sauces"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1260/side-dish/sauces-and-condiments/sauces/cranberry-sauce/",
+"name": "Cranberry Sauce Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/235302/orange-cranberry-sauce/",
+"name": "Orange Cranberry Sauce"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

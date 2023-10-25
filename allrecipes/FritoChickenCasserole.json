@@ -1,0 +1,167 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Frito Chicken Casserole"
+,"datePublished": "2022-11-03T12:11:18.000-04:00"
+,"dateModified": "2022-11-03T12:11:18.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Soup Loving Nicole"
+,"url": "https://www.allrecipes.com/cook/souplovingnicole"
+}
+]
+,"description": "This chicken casserole topped with chili cheese Fritos® is cheesy, crunchy, colorful, loaded with flavor, and the ultimate comfort food."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/sInnfQgJPoyxehlYXflk_Lyzt4s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Frito-Chicken-Casserole-b6789ae3104a44f7962fcf0a7630b5f7.jpg",
+"height": 957,
+"width": 1276
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Frito Chicken Casserole"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.3",
+"ratingCount": "3"
+}
+,"cookTime": "PT40M"
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 tablespoon unsalted butter",
+"1 small onion, chopped",
+"4 cups cubed cooked chicken breast",
+"1 (15.25 ounce) can black beans, rinsed and drained",
+"1 (15.2 ounce) can corn, drained",
+"1 (10.5 ounce) can condensed cream of chicken soup",
+"1 (10 ounce) can diced tomatoes and green chiles (such as RO*TEL®), undrained",
+"1 (4 ounce) can chopped green chilies",
+"1 (4 ounce) package cream cheese",
+"0.33 cup chopped fresh cilantro",
+"2 cups shredded Cheddar cheese",
+"1 (10 ounce) bag chili and cheese flavored corn chips (such as Fritos® Chili Cheese® Corn Chips)" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Melt butter in a large saucepan over medium heat. Add onion and cook until softened, about 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Add chicken, beans, corn, cream of chicken soup, tomatoes and chiles (with juice), green chiles, cream cheese, and cilantro. Cook until cream cheese has melted, about 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Spread out 1/3 of the chips on the bottom of a 9x13 inch rectangular casserole dish. Top with 1/2 of the chicken mixture. Top chicken mixture with 1/3 of shredded Cheddar cheese. Repeat the layer. Top the 2nd layer with remaining 1/3 of the chips and remaining 1/3 of Cheddar cheese."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until cheese has melted and is lightly browned, about 30 minutes. Remove from the oven, cover, and let sit for 30 minutes so it can set before cutting into squares."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT80M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Easy to make and full of flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Nellie J Varvel"
+},
+"reviewBody": "really spicy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Rosemary Ohara"
+},
+"reviewBody": "Great!!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8472782/frito-chicken-casserole/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/249/main-dish/casseroles/",
+"name": "Casserole Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/648/main-dish/casseroles/chicken/",
+"name": "Chicken"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8472782/frito-chicken-casserole/",
+"name": "Frito Chicken Casserole"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

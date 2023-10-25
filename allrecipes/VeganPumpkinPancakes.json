@@ -1,0 +1,140 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Vegan Pumpkin Pancakes"
+,"datePublished": "2019-04-04T00:13:27.000-04:00"
+,"dateModified": "2019-04-04T00:13:27.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "thedailygourmet"
+,"url": "https://www.allrecipes.com/cook/thedailygourmet"
+}
+]
+,"description": "These vegan pancakes take on a hint of fall with the savory goodness of pumpkin, cinnamon, and pecans!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/qNc5iD4m7mlxVVwrghFc3RQZX-g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5602228-cfb872a68685496da2438e68851092b0.jpg",
+"height": 2000,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Vegan Pumpkin Pancakes"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "1"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "288 kcal"
+,"carbohydrateContent": "45 g"
+,"fiberContent": "4 g"
+,"proteinContent": "6 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "1206 mg"
+,"sugarContent": "4 g"
+,"fatContent": "10 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"2 cups almond milk",
+"2 tablespoons distilled white vinegar",
+"5 tablespoons water",
+"2 tablespoons flaxseed meal",
+"2 cups all-purpose flour",
+"2 tablespoons coconut sugar",
+"1 tablespoon baking powder",
+"1 tablespoon ground cinnamon",
+"2 teaspoons baking soda",
+"1 teaspoon salt",
+"1 cup pumpkin puree",
+"2 tablespoons coconut oil",
+"0.25 cup toasted chopped pecans" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine almond milk and vinegar together in a measuring cup; set aside for 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine water and flaxseed meal together in a bowl; allow to rest until gelatinous, about 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine flour, coconut sugar, baking powder, cinnamon, baking soda, and salt in a medium bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Add almond milk mixture, flaxseed meal mixture, pumpkin puree, and coconut oil to the bowl with the flour mixture. Mix until well blended. Fold in pecans."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat a lightly oiled griddle over medium-high heat. Drop batter by large spoonfuls onto the griddle and cook until bubbles form and the edges are dry, 3 to 4 minutes. Flip and cook until browned on the other side, 2 to 3 minutes. Repeat with remaining batter."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT25M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/267120/vegan-pumpkin-pancakes/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/78/breakfast-and-brunch/",
+"name": "Breakfast and Brunch"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/151/breakfast-and-brunch/pancakes/",
+"name": "Pancake Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/267120/vegan-pumpkin-pancakes/",
+"name": "Vegan Pumpkin Pancakes"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

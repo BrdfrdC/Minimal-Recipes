@@ -1,0 +1,140 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "S&#39;mores Cookies"
+,"datePublished": "2023-02-13T09:00:00.000-05:00"
+,"dateModified": "2023-02-13T09:00:00.000-05:00"
+,"author": [ {"@type": "Person"
+,"name": "Colleen Weeden" }
+]
+,"description": "Try these copycat Girl Scout S&#39;mores Cookies at home if you didn&#39;t buy enough at the last cookie sale."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Y8jCgYuqALfodsph6Q9rfGoQ55Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8538411-Smores-Cookies-4x1-1-b6d4e18d58dc4e67ad4dbe57d2881b3f.jpg",
+"height": 639,
+"width": 851
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "S&#39;mores Cookies"
+,"cookTime": "PT7M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "167 kcal"
+,"carbohydrateContent": "24 g"
+,"cholesterolContent": "13 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "2 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "75 mg"
+,"fatContent": "7 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"0.33 cup milk",
+"0.25 cup honey",
+"1 tablespoon vanilla extract",
+"2 cups all-purpose flour",
+"0.75 cup packed brown sugar",
+"0.5 cup whole-wheat flour",
+"1 teaspoon baking soda",
+"0.5 teaspoon salt",
+"0.5 cup cold butter",
+"0.5 (7 ounce) jar marshmallow creme",
+"1 cup powdered sugar",
+"2 tablespoons butter, softened",
+"3 tablespoons milk, or more as needed",
+"12 ounces milk chocolate, chopped",
+"2 teaspoons vegetable shortening" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Stir together 1/3 cup milk, honey, and vanilla extract in a small bowl. In a large bowl, stir together all-purpose flour, brown sugar, whole-wheat flour, baking soda, and salt. Cut in 1/2 cup cold butter, using a pastry blender, until mixture resembles coarse crumbs. Stir in milk mixture just until combined. If needed, knead gently to form a ball. Divide dough into fourths. Wrap each portion in plastic wrap and chill until easy to handle, about 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat oven to 350 degrees F (175 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "On a lightly floured surface, roll 1 portion of dough into a 6-inch square. Cut into 2-inch squares. Arrange 1 inch apart on an ungreased cookie sheet. Prick with a fork. Bake until edges are firm, 7 to 9 minutes. Remove; cool on a wire rack. Repeat with remaining dough."
+} ,{
+"@type": "HowToStep"
+,"text": "For marshmallow icing, stir together marshmallow creme, powdered sugar, and 2 Tablespoons butter in a bowl. Stir in enough milk to reach dipping consistency. Dip cookies into icing, allowing excess to drip off. Arrange on wire racks set over wax paper; let stand until set."
+} ,{
+"@type": "HowToStep"
+,"text": "For chocolate icing, microwave chocolate and shortening in a small bowl, stirring twice, until smooth, about 90 seconds. Spoon about 1 tablespoon melted chocolate over each cookie to coat. Let stand on a wire rack set over wax paper until set."
+} ,{
+"@type": "HowToStep"
+,"text": "For sandwiches: Dip one side of cookie in marshmallow icing. Dip one side of another cookie in chocolate icing; sandwich cookies, icing sides facing in. Let set."
+} ,{
+"@type": "HowToStep"
+,"text": "For half and halfs: Dip half the cookie in the marshmallow icing and half in the chocolate icing. Let set."
+} ]
+,"recipeYield": ["36"]
+,"totalTime": "PT97M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8538411/smores-cookies/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/79/desserts/",
+"name": "Desserts"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/362/desserts/cookies/",
+"name": "Cookies"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8538411/smores-cookies/",
+"name": "S&#39;mores Cookies"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

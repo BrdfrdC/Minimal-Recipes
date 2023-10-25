@@ -1,0 +1,864 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "S&#39;mores"
+,"datePublished": "2000-10-04T12:11:37.000-04:00"
+,"dateModified": "2022-08-24T08:13:55.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Karen"
+,"url": "https://www.allrecipes.com/cook/255315"
+}
+]
+,"description": "S&#39;mores are graham crackers with melted marshmallows and chocolate that are prepared over an open flame for a deliciously simple camping treat!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/OH57zQODKWGZDhTnlim436T6dCk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/243390-d545f7959d7d49c284f97b549a9f900f.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "S&#39;mores"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "63"
+}
+,"cookTime": "PT2M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "277 kcal"
+,"carbohydrateContent": "38 g"
+,"cholesterolContent": "10 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "8 g"
+,"sodiumContent": "74 mg"
+,"sugarContent": "31 g"
+,"fatContent": "14 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT3M"
+,"recipeIngredient": [
+"1 large marshmallow",
+"1 graham cracker",
+"1 (1.5 ounce) bar chocolate candy bar" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat marshmallow over an open flame until it begins to brown and melt."
+} ,{
+"@type": "HowToStep"
+,"text": "Break graham cracker in half; sandwich chocolate between graham cracker and hot marshmallow. Allow marshmallow to cool a little before eating."
+} ]
+,"recipeYield": ["1"]
+,"totalTime": "PT5M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "it was very yummy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ecarrabine"
+},
+"reviewBody": "It's a classic - no frills - taste great recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Clifford Whitehead"
+},
+"reviewBody": "Simple yet satisfying"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "catmom"
+},
+"reviewBody": "A fire is not practical for us, so we put a marshmallow on half of a graham cracker and microwave it until the marshmallow puffs up, then press the chocolate and remaining graham cracker half against the marshmallow. We have also put peanut butter on the un-microwaved graham cracker half and omitted the chocolate, although you could probably use both peanut butter and the chocolate. Good with chocolate graham crackers, too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Abbey"
+},
+"reviewBody": "I liked the s’mores so much because they tasted so good. I liked them because they were chocolaty. They were sticky so you should wash your hands. I would make them forever."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Andrea Sims Atwood"
+},
+"reviewBody": "Try making them with chocolate covered shortbread or flavoured chocolate. Yummmm"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ruby jean"
+},
+"reviewBody": "I love s'mores and I eat them all the time during the summer when I have campfires at my lake. They taste great with peanut butter or caramel sauce... My favorite variations."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "House of Aqua"
+},
+"reviewBody": "Classic! I love to experiment with differant candy bars."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer Lynn Sheafer"
+},
+"reviewBody": "We love, LOVE, s'mores! We have tried different chocolates, and we all prefer Hershey. We have tried the campfire mallows, but they are TOO big! The BEST mallow to use? Coconut! Oh. my. they take a s'more over tht top!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marla"
+},
+"reviewBody": "I crave s'mores some days and when my step kids are in town we make them, for a fun dessert. Last summer 2012 the state I live in was in an \"no open flame\" ban so I busted out my Crème brûlée torch and voila! I microwaved the marshmallow for 15 sec until it started to puff, then once removed from the mircowave I torched until golden, added my grahams and my hershey chocolate bar and it was S'mores heaven."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ilkaisha"
+},
+"reviewBody": "Can you believe I'm 29 years old and just having my first S'more today? I'm not a huge graham cracker fan, so I've always just skipped them and enjoyed my burned marshmallows with a side of chocolate bar. However, I wanted to make special treats to send home with my son's class for Halloween. I read a tutorial online about cutting shapes into graham crackers, and immediately, I knew I had to make a special s'more. How you do that is to lightly wet each side of the graham cracker with water and microwave for 15 seconds. The cookie cutter of your choice will cut right through the cracker. Eventually, it will firm back up. To make the s'more, I lightly brushed the outside of the marshmallow with water and rolled it in black and orange sprinkles. I placed a square of chocolate upside down (so the design wouldn't show through) on top of the cut-out square, and I placed the marshmallow on the full half. I microwaved the chocolate graham for 10 seconds alone before adding the marshmallow graham to microwave for an additional 10 seconds. Carefully and quickly, I made the sandwich as soon as the timer went off. These are sure to delight the kids, and they are tasty, despite the graham crackers. :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lovinghappyhome"
+},
+"reviewBody": "It's officially summer when we kick it off with a campfire and s'mores! These things are addicting!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Faith N"
+},
+"reviewBody": "This was the 'recipe' I grew up using around the campfire each summer. I was thrilled to pass it along to my kids, they love them. I've used other various small chocolate candies inside them (along with flavored marshmallows) - one great variation for us was peppermint marshmallows with Andes candies in between!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lnmwrman"
+},
+"reviewBody": "It says not recomended for stove top but my grandkids sure have fun making them in the winter when the fire has died down in my earth stove. Ibelieve i read where recipe for S'mores was writen in something like 1927 or there about."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rae"
+},
+"reviewBody": "Gotta love a smore after a BBQ. Perfect dessert afterwards. And the kids have such a blast making these. Yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda"
+},
+"reviewBody": "A classic and Oh So Good! To change it up I use chocolate grahams and dark chocolate or dark chocolate flavored with something like orange or raspberry or sea salt and of course the toasted marshmallow; variations are endless. Easy and really hits the spot when you get a craving for something sweet. When indoors I simply turn on my gas stovetop (not recommended for children to do) and carefully toast my marshmallow that way."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Momi"
+},
+"reviewBody": "It usually works better to heat the marshmallow over glowing embers rather than an open fire for several reasons: less smoke, less danger of catching yourself on fire, embers have a more even temperature, and the marshmallow is less likely to catch on fire. In my family, we can't have a campfire without s'mores. I have made Broiler S'mores (there is a recipe on this site) when the weather does not cooperate for a fire."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MommyTalks"
+},
+"reviewBody": "A classic! I like to vary the ingredients, too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Love,Kye!"
+},
+"reviewBody": "I love s'mores!\n\nbut i can never get my chocolate to melt and get messy! /:"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "aliceandbrian"
+},
+"reviewBody": "How can anyone not like these?? I'll never be too old to enjoy S'mores! With the 4th of July right around the corner, I'm looking forward to eating these with my kids!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "IowaGirl65"
+},
+"reviewBody": "Actually, I love them on the stovetop! I just put the marshmallow on the roasting stick and Turn on the burner. Turns out just the same :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "pbandjmom"
+},
+"reviewBody": "~ for added ease, we use chocolate covered graham crackers or cookies [such as Thin Mints]. Add a smear of peanut butter, and it's amazing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amy Williams Hopkins"
+},
+"reviewBody": "In a word wonderful."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Yvette Garza"
+},
+"reviewBody": "Went camping and it was the first time I, and the kids had S'mores. We LOVED them. Actually my girl, added caramel sauce instead of chocolate. Messy but yummy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ulrich1"
+},
+"reviewBody": "hahahaa i was bored and looked up random things heehee i cant believe this is actually on here! smores? really? who doesnt know how to make em. theyre a classic!:)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah Jo"
+},
+"reviewBody": "My husband likes to make peanut S'Mores with Reese's Cups. I have to admit that it is good, but there's nothing like the old standby. I really like to use either cinnamon or chocolate grahams, if I can find them."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "amandak23k"
+},
+"reviewBody": "s\"mores = yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christina"
+},
+"reviewBody": "One of my favorite treats! Simple, classic goodness-YUM! :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jillian"
+},
+"reviewBody": "These are the best - a classic that never goes out of style no matter how old you are! Our neighbor's supply the kids, the graham cracker and marshmallows and we supply the rest. I love experimenting with different chocolate: dark, peanut butter filled, caramel filled, chocolate with almonds, peanuts or rice crispies - but plain milk chocolate is still my favorite."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Angela F."
+},
+"reviewBody": "Had to use what i had on hand, mini marshmallows and chocolate chips. Turned my oven to broil and held it right underneath the heat. It browned and melted in secs. So simply and delicious!! Will make these again for sure!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Emily"
+},
+"reviewBody": "I love smores. Try replacing the chocolate with a peppermint patty or add sliced bananas with your chocolate. Yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Katie"
+},
+"reviewBody": "Always a winner!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cheryl Kelley"
+},
+"reviewBody": "Extreme!!! Sometimes, for indoor s'mores, I microwave the marshmallow for 20 seconds. If I run out of chocolate bars, I substitute them with chocolate chips. These are soooo good!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "~TxCin~ILove2Ck"
+},
+"reviewBody": "Great little snack, but really messy to eat. Not an indoor food for little fingers unless you don't minds lots of sticky melted marshmallow and chocolate everywhere."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "strawbificial"
+},
+"reviewBody": "My, this is HEAVENLY :D\nI used chocolate grahams, and I happened to have cactus chocolate. The cactus chocolate was really good, it had a hint of mint without being without the icyness. I think this would work very nice if you used Andes mint chocolates or some other mint wafer chocolate!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CookinginFL"
+},
+"reviewBody": "You've gotta love S'mores!! We make them inside all-year long: break a graham cracker in half and place both halves on a piece of foil - place a marshmallow on one half and put the chocolate on top of the marshmallow. Use a toaster oven to toast (medium heat), and watch it - making sure it doesn't burn. Remove from the toaster oven and press the other graham cracker half on top!! P.S. I like to use Peeps marshmallows too! :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SLJ6"
+},
+"reviewBody": "A delicious classic...doesnt get any better....around the campfire or we toast the marshmellow on the stove...yumm!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Morgan Schultz"
+},
+"reviewBody": "Okay, this is probably one of my favourite recipes of all time. A couple things that I have found in my experience, however is to make sure you use campfire type marshmallows, they don't expand and fall off the fork as much. \n\nThe other thing is that if you like your chocolate melted instead of hard you can also, while you are roasting the marshmallow, put the chocolate on one half of your graham cracker for about a minute or so before your marshmallow is done and it will get it to just right. Make sure you be careful after that though as the graham cracker gets very hot. Tastes wonderful though!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jill"
+},
+"reviewBody": "I usually use caramilk bars for the chocolate. Regular chocolate is good too though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bleue"
+},
+"reviewBody": "AHH! SO GOOD!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tawny Aye"
+},
+"reviewBody": "this is actually the first time i ever ate s'mores, and these were delish! i used semisweet bakers chocolate and placed it in the oven on 350 to melt. definitely divine and easy dessert!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TinyWitch1229"
+},
+"reviewBody": "I have never seen an actual recipe for s'mores, but this one is perfect! I have been known to keep the ingredients on hand year-round and make them on the stove top. But if you have kids, don't let them catch you doing this!! Of course, there is nothing better than a bonfire, but I do love s'mores.."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kelli Tennison"
+},
+"reviewBody": "These are always great. Using different chocolates and using peanut butter is a great idea. What could be wrong with that????"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MADISONLIBERTY"
+},
+"reviewBody": "These are sooo good! I also have been known to make \"indoor s'mores\" when I have to by using the oven or microwave, but roasting the marshmallow over fire puts these over the top!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Momof2"
+},
+"reviewBody": "Made these for my son tonight (hubby and I ate the Microwave Peanut Brittle). He ate this up like nobody's business. I had forgotten how much I loved these as a kid...definately something for those warm winter nights. Thanks for the post."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "We love making S'mores on camping trips or in our back yard fire pit. But sometimes instead of a chocolate bar we use store bought chocolate icing. We have also used peanut butter as well. Both help keep everything sticking together and guaranteed your chocolate bar won't fall off!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Martha C."
+},
+"reviewBody": "Nothing beats a real s'more, when you've got a fire to toast the marshmallows. In a pinch, I've been known to toast the marshmallows over one of the burners on our gas range!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Fallinrose"
+},
+"reviewBody": "You want to REALLY jazz up your S'more? Use different chocolates and for that final touch wrap your finished S'more in tin foil and toss onto some hot coals from the fire, wait a 2-3 min or until the chocolate is nice and soft. Talk about a GOOEY treat!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "The Hyphenated Cook"
+},
+"reviewBody": "These are always a great idea! My oldest son's favorite variation is to use a peanut butter cup instead of a chocolate bar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JDVMD"
+},
+"reviewBody": "Kind of silly that this is even a recipe but we love 'em. Make several times a week with our outdoor fireplace. This week, we even held a tailgating wine tasting and we made smores. Went great with a Cab."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JENNIFER72_00"
+},
+"reviewBody": "A campfire tradition! I've tried it with different types of chocolate (rosebuds, chocolate chips, different candy bars) but plain milk chocolate candy bars are the best."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "HOLLY D"
+},
+"reviewBody": "These have been a favorite for bonfires and cookouts for decades. For a treat in the winter, you can make these in the microwave. Just heat until the marsmallow begins to expand."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lesley"
+},
+"reviewBody": "We make these up north all the time. There is nothing better than having a bonfire and making smores over an open fire in the evening after a long day on the lake up north Another true classic!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Butterfly Flutterby"
+},
+"reviewBody": "Had my first one at Girl Scout camp back in the 70's. Now make these with my family around our fire pit. Great comfort food and YUMMY!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TADAL"
+},
+"reviewBody": "nothing is better for dessert when camping than s'mores."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chrissy DeCosmo Fessler"
+},
+"reviewBody": "The kids on our camping trip really had fun making these. My niece said this was her first real smore and my daughter being a Girl Scout and myself a leader knew how much better a real smore tastes compared to the pre processed ones! She loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "IRONCHEF25"
+},
+"reviewBody": "The s'mores were so good that my family and I couldn't get enough. However due to the weather I decided to just put them in the oven and they still came out great. I put the chocolate bars and marshmallows on top of the graham crackers on a cookie sheet in a 400 degree oven for about 2 mins. We took them out and then put another graham cracker on top and it was excellent."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/22146/smores/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/79/desserts/",
+"name": "Desserts"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1557/desserts/chocolate/",
+"name": "Chocolate Dessert Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/22146/smores/",
+"name": "S&#39;mores"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

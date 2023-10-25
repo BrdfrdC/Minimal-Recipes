@@ -1,0 +1,201 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "South of the Border Shrimp and Grits"
+,"datePublished": "2020-04-03T16:59:06.000-04:00"
+,"dateModified": "2020-04-03T16:59:06.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "thedailygourmet"
+,"url": "https://www.allrecipes.com/cook/thedailygourmet"
+}
+]
+,"description": "Made with pantry staples and Mexican-inspired ingredients, this shrimp and grits dinner takes only 30 minutes to prepare."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/OX5jc-zKnpcynw3Om6LCcfMst-8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7852278-e8a43a5b7bd14d31aa6366caa237c39e.jpg",
+"height": 2000,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "South of the Border Shrimp and Grits"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "3.6",
+"ratingCount": "8"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "469 kcal"
+,"carbohydrateContent": "40 g"
+,"cholesterolContent": "148 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "27 g"
+,"saturatedFatContent": "12 g"
+,"sodiumContent": "867 mg"
+,"sugarContent": "13 g"
+,"fatContent": "22 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 (12 fluid ounce) can evaporated milk",
+"0.5 cup yellow grits",
+"0.5 cup chicken broth",
+"1 tablespoon salted butter",
+"0.33333334326744 cup grated sharp Cheddar cheese",
+"3 slices bacon",
+"0.75 cup frozen bell peppers",
+"0.33333334326744 pound frozen medium shrimp - thawed, shelled, and deveined",
+"0.5 teaspoon taco seasoning mix",
+"2 teaspoons hot sauce, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine evaporated milk, grits, chicken broth, and butter in a saucepan over medium-high heat; bring to a boil. Cook, stirring constantly, until thickened, 5 to 7 minutes. Add Cheddar cheese and stir until incorporated. Remove from the heat and set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until crisp and browned, about 3 minutes per side. Drain bacon slices on paper towels and chop when cool enough to handle."
+} ,{
+"@type": "HowToStep"
+,"text": "Add bell peppers to the bacon grease. Add shrimp and taco seasoning. Cook and stir until peppers are heated through and shrimp are bright pink on the outside and the meat is opaque, 3 to 5 minutes. Stir in chopped bacon."
+} ,{
+"@type": "HowToStep"
+,"text": "Place a dollop of grits in each bowl and top with shrimp mixture and hot sauce."
+} ]
+,"recipeYield": ["3"]
+,"totalTime": "PT30M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Susan Kallander"
+},
+"reviewBody": "Followed recipe. Grits were jus a thick lump. Added mot Chicken broth but the flavor wa odd. Didn't like the evap milk., although I use evap. milk in fish chowder and its delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Danielle Medina"
+},
+"reviewBody": "Evaporated milk in grits taste terrible!!! I had to remake the grits. You can substitute the evaporated milk with water or more chicken broth and the recipe turns out great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Rookie Cook"
+},
+"reviewBody": "Made it to the recipe, other than frozen bell peppers. Grits were like paste, or peanut butter. Definitely not gonna waste money on this one again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Claudette"
+},
+"reviewBody": "It turned out great! It was delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Elizabeth Larsen Santora"
+},
+"reviewBody": "I have had better, I need to trick this recipe for my family."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/279534/south-of-the-border-shrimp-and-grits/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/13292/main-dish/seafood/shrimp/",
+"name": "Shrimp"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16685/main-dish/seafood/shrimp/shrimp-and-grits/",
+"name": "Shrimp and Grits Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/279534/south-of-the-border-shrimp-and-grits/",
+"name": "South of the Border Shrimp and Grits"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

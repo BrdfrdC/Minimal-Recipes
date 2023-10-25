@@ -1,0 +1,142 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Sous Vide Beef Tenderloin Roast"
+,"datePublished": "2023-01-19T15:19:22.000-05:00"
+,"dateModified": "2023-01-19T15:19:22.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Nicole Leonard"
+,"url": "https://www.allrecipes.com/cook/2048673"
+}
+]
+,"description": "This elegant beef tenderloin roast is first cooked sous vide and then pan-seared in a cast iron pan for extra flavor and color."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/CNcFEqC2nFCcCuNgAGNv20Sl9AY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1672072170beef20tenderloin20roast-2000-974c848d8c25483081e332e4707e38fe.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Sous Vide Beef Tenderloin Roast"
+,"cookTime": "PT160M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "637 kcal"
+,"carbohydrateContent": "0 g"
+,"cholesterolContent": "154 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "37 g"
+,"saturatedFatContent": "22 g"
+,"sodiumContent": "101 mg"
+,"fatContent": "53 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"recipeIngredient": [
+"4.5 pounds whole beef tenderloin",
+"1 tablespoon sea salt/kosher salt (such as Redmonds®)",
+"1 teaspoon freshly ground black pepper, or more to taste",
+"6 cloves garlic",
+"3 fresh thyme sprigs, or to taste",
+"rosemary sprig",
+"3 tablespoons unsalted butter, divided, or more as needed",
+"2 tablespoons olive oil, or as needed",
+"1 splash red wine",
+"1 tablespoon gelatin powder",
+"1 cup cold water",
+"salt and freshly ground black pepper to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Trim and tie tenderloin together with kitchen twine the night before cooking. Combine salt and pepper in a bowl and season tenderloin on all sides. Place on a baking rack set over a cookie sheet and allow to rest, uncovered, in the refrigerator overnight."
+} ,{
+"@type": "HowToStep"
+,"text": "The next morning place tenderloin, garlic, thyme, and rosemary into a sous vide vacuum bag and seal using a vacuum sealer. Refrigerate until you are ready to sous vide."
+} ,{
+"@type": "HowToStep"
+,"text": "Attach sous vide cooker to a heat-proof container of water and set temperature to 133 degrees F (56 degrees C). Sous vide until tenderloin has reached the desired temperature, 2 1/2 to 3 hours, depending on thickness."
+} ,{
+"@type": "HowToStep"
+,"text": "About 30 minutes pour water in a metal bowl and sprinkle gelatin powder on top. Allow to sit for 30 minutes until gelatin blooms. Set on top of a double boiler over simmering water and stir until a clear liquid forms. Do not allow to boil."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove tenderloin from sous vide, pat dry, and let rest while preparing the gravy."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour au jus liquids from the sous vide bag into a sauce pan. Stir in 1 to 2 tablespoons butter and red wine. Add as much of the bloomed gelatin as you like depending on desired thickness and whisk until well combined. Season gravy with salt, pepper, and herbs to taste."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat cast iron pan to medium-high. Brush tenderloin with olive oil and sear in the hot pan until browned all over, 1 to 2 minutes per side. Melt extra butter in the pan as desired. Remove from pan, tent with foil, and allow to rest for 5 to 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Slice tenderloin and serve with gravy."
+} ]
+,"recipeYield": ["10"]
+,"totalTime": "PT650M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8524014/sous-vide-beef-tenderloin-roast/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/200/meat-and-poultry/beef/",
+"name": "Beef"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/469/meat-and-poultry/beef/tenderloin/",
+"name": "Beef Tenderloin Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8524014/sous-vide-beef-tenderloin-roast/",
+"name": "Sous Vide Beef Tenderloin Roast"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

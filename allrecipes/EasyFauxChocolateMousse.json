@@ -1,0 +1,351 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Easy Faux Chocolate Mousse"
+,"datePublished": "2012-06-27T14:10:44.000-04:00"
+,"dateModified": "2021-07-29T12:46:32.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "mistressmary"
+,"url": "https://www.allrecipes.com/cook/1151052"
+}
+]
+,"description": "Make an egg-less chocolate mousse with just Mascarpone cheese, cream, chocolate chips, and vanilla extract."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/3gDh9HqNDQPe3HAonCTHCp4ybQ0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9323087-98e91318d1984531ba3c4bd8674634aa.jpg",
+"height": 1203,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Easy Faux Chocolate Mousse"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "20"
+}
+,"cookTime": "PT5M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "319 kcal"
+,"carbohydrateContent": "7 g"
+,"cholesterolContent": "80 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "5 g"
+,"saturatedFatContent": "18 g"
+,"sodiumContent": "34 mg"
+,"sugarContent": "6 g"
+,"fatContent": "32 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 (8 ounce) container mascarpone cheese",
+"2 tablespoons heavy whipping cream",
+"1 teaspoon vanilla extract",
+"0.25 cup chocolate chips" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Mix mascarpone cheese, whipping cream, and vanilla extract in a bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Melt chocolate chips in the top of a double boiler over simmering water, stirring frequently and scraping down the sides with a rubber spatula to avoid scorching."
+} ,{
+"@type": "HowToStep"
+,"text": "Fold melted chocolate into the mascarpone cheese mixture."
+} ,{
+"@type": "HowToStep"
+,"text": "Refrigerate until set, 1 to 2 hours."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT75M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sanzoe"
+},
+"reviewBody": "This was a great alternative to regular mousse. I think this would make an excellent filling for cake or to dip fruit into for a less guilty treat."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "stormybeach"
+},
+"reviewBody": "The mousse was delicious both times we made it. The mascarpone cheese makes it really rich and it had great flavor. I’m already planning on making it again. A very quick and tasty recipe. I made this recipe a couple of times and experimented with it. I used two different brands of mascarpone. One brand was on the runny side and the other brand was super thick. This affected the consistency of the mousse. Keep in mind that your brand of cheese will affect the consistency. I substituted milk for the heavy whipping cream. If you want it mousse consistency I would recommend using milk or heavy whipping in until you get the consistency you want. I also microwaved my chocolate chips. The key is getting the chocolate chips hot enough otherwise they instantly harden when you mix it into the mascarpone mixture. For my microwave 90 seconds was perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lindsay"
+},
+"reviewBody": "Absolutely delicious! Very easy to make too. I like that its not very sweet, just enough to be dessert. Texture is light and smooth."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kris"
+},
+"reviewBody": "Very good! Has a nice rich chocolate flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Talita K"
+},
+"reviewBody": "Made recipe as given. Bland."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "fadano"
+},
+"reviewBody": "This is a gem of a breezy-easy dessert recipe! I didn't bother to get out the double boiler, just melted the chocolate chips in the microwave on low. It turned out great. Now I am tempted to try the same mousse idea with butterscotch or peanut butter flavored chips instead of chocolate"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hallielouya"
+},
+"reviewBody": "Made it last night and it was really good! My diabetic hubby really liked it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sr5242"
+},
+"reviewBody": "Omg delicious and super easy. Easy to make, but not easy to stop at one serving!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cheri"
+},
+"reviewBody": "So good!! And very easy to make!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Deb"
+},
+"reviewBody": "This recipe is great as a filler for chocolate cupcakes. Just tube in into the center."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "vatech90"
+},
+"reviewBody": "This was a really easy and very tasty \"mousse\". I used it to fill mini sugar cookie cups for a Memorial Day dessert I took to a cookout. I piped it into the cups and it held it's shape very well. Thanks for a quick and easy recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "hwt"
+},
+"reviewBody": "Outstanding! For a low-carb diet, this is a HEAVENLY treat! Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "emilyv"
+},
+"reviewBody": "I added Hazelnut liqueur to this along with half of a dark chocolate candy bar and some cocoa. It is rather thick but still very good. I can see using this as a layer between cakes, on top of layered desserts, etc. Imagine this would also be wonderful with some prepared coffee and coffee liqueur. The possibilities are endless in terms of diversity. Thanks for sharing this recipe!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anne Soie"
+},
+"reviewBody": "So good. My doctor just put me on an egg-free diet. So I was very happy to find this recipe. I used it as a mousse pie filling and topped it with freshly whipped cream. My hubby loved it too!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alex123"
+},
+"reviewBody": "Replaced the chocolate chips with unsweetened cocoa powder to make it low carb and low sugar, and it turned out fantastic. Didn't end up needing to refrigerate it very long without the melted chocolate."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lissa Wicked"
+},
+"reviewBody": "I've made this a few times now and love that it is incredibly easy to make and doesn't contain raw egg. This most recent time I made it, I used Nutella instead of melting chocolate; it was even easier to make and was very yummy! Served just with fresh raspberries, mmmm!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "June Buchanan Evers"
+},
+"reviewBody": "This is super yummy! I made with Ghirardelli 60% dark choco chips to keep it as low-carb as possible (used 40 chips). I also did not use the heavy cream. I used Rodelle gourmet vanilla. My thinking was to make a choco-type bread spread like Nutella to abate my morning sweet tooth, but this is worthy of eating by the spoonful. I put the mixture back into the 8 ounce cheese container and 1/16 of the container is 6.5 carbs. For those not counting carbs, this is still a wonderful tasting treat. Try it, you won't be disappointed."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/223398/easy-faux-chocolate-mousse/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/365/desserts/mousse/",
+"name": "Mousse Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1566/desserts/mousse/chocolate-mousse/",
+"name": "Chocolate Mousse Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/223398/easy-faux-chocolate-mousse/",
+"name": "Easy Faux Chocolate Mousse"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

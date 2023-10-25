@@ -1,0 +1,563 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Veggie Goulash"
+,"datePublished": "2020-06-18T23:10:41.000-04:00"
+,"dateModified": "2023-01-25T16:43:56.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "ButtercupBento"
+,"url": "https://www.allrecipes.com/cook/860336"
+}
+]
+,"description": "This yummy vegetable goulash recipe makes a rich dish minus the meat. Serve with rice, noodles, or potatoes for a hearty vegetarian entrée to enjoy."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/jKhKHE6tSDeTMm_ONR8qEs288fU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/873723-veggie-goulash-Carla-December-4x3-1-584a7132ace74127bbfec300d31bc0ad.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Veggie Goulash"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.1",
+"ratingCount": "42"
+}
+,"cookTime": "PT35M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "185 kcal"
+,"carbohydrateContent": "22 g"
+,"fiberContent": "7 g"
+,"proteinContent": "10 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "420 mg"
+,"sugarContent": "10 g"
+,"fatContent": "5 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 teaspoon olive oil",
+"0.5 medium onion, thinly sliced",
+"1 small green bell pepper, thinly sliced",
+"4 ounces mycoprotein pieces, e.g., Quorn™",
+"1 clove garlic, chopped",
+"1 teaspoon paprika",
+"1 (14.5 ounce) can whole peeled tomatoes, chopped, juice reserved",
+"0.5 cup red wine",
+"1 teaspoon dried oregano",
+"1 teaspoon tomato puree",
+"1 teaspoon sugar",
+"salt and pepper to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat olive oil in a large skillet over medium heat, and sauté the onion until tender, 5 minutes. Mix in green pepper and mycoprotein pieces, and sauté until pepper is tender, another 5 minutes. Mix in garlic and paprika."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir tomatoes with their juice into the skillet. Mix in wine, oregano, and tomato purée. Bring mixture to a boil. Reduce heat to low, and simmer until thickened, about 25 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Just before serving, stir in sugar and season with salt and pepper."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT50M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Heidi Lichon"
+},
+"reviewBody": "It was great. Used vegan meat crumble for the protein and added mushrooms too. Loved it! I did not have any red wine on hand so I substituted red wine vinegar and water mixture at 1:1 ratio. I left out the sugar and was glade I did because the red wine vinegar gave it a nice sweet flavor without the added sugar. I will definitely be making this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "asspadtycoon"
+},
+"reviewBody": "I lived in Bavaria and have experienced some of the best goulashes in the world, this recipe doesn't come close to replicating the flavor that I expected. It was just OK. I used tofu and ended up doubling the paprika amount and it was still lacking. Maybe my expectations were too high."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Barb"
+},
+"reviewBody": "Didn’t like it! Not to my taste"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Miranda Nealy"
+},
+"reviewBody": "I doubled the spices and sugar and added extra bell pepper as well as zucchini. Overall, a great goulash."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Soetkin De Boever"
+},
+"reviewBody": "Easy to make and a favourite of ours. We love this dish!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah Capper"
+},
+"reviewBody": "I used tofu instead of mycroprotein and veggie stock instead of wine."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Regena Pardy"
+},
+"reviewBody": "i added a 1/2 cup of spaghetti sauce with basil ..and chopped spinach for extra iron.. tastes yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carolyn Geduld"
+},
+"reviewBody": "Wonderful! I doubled the recipe to have enough for two nights. I made some modest changes: used a whole package of Morningstar crumbles because that's what I had on hand. We don't eat onions, so I added more garlic. Also added a stalk of celery, a cup of sautéed mushrooms, extra smoked paprika, cumin, and thyme. Served it over whole wheat bow tie pasta."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "harley69by69"
+},
+"reviewBody": "Husband is a meat &amp; potato man, if he could eat that every night for dinner he would. Read a review that someone else wrote about her husband liking it &amp; he like meat as well,so figured I would give it a try. Just so happens another friend of ours dropped in who is a really big eater &amp; meat lover. Gave him a bowl of it as well &amp; they both really loved it. Husband said this is a keeper. So this will be made again. :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "angie"
+},
+"reviewBody": "Would be a lot better with ground beef."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "charlow"
+},
+"reviewBody": "So what what makes this goulash? Only ONE teasponn of paprika? I do not think so. Tomatoes and e overpowering that small amount of pakrika and i would try making it without tomato s and 1 TABLESPON paprika instead"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "William Mihalo"
+},
+"reviewBody": "Very good recipe. I substituted vegetable burger crumbles for the Quorn and served this with vegetable quinoa elbow pasta. I will definitely make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "APATCHES8"
+},
+"reviewBody": "Yes!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carla December"
+},
+"reviewBody": "This was excellent! I did make a couple of mods based on what was on hand. I drizzled some honey in to give it a little punch of sweetness, and I subbed an unmeasured amount of worchestire for red (I was out). I subbed 2 stalks of celery for GP since I wanted to use it up. We loved it. Thank you so much!:)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dlwiesner"
+},
+"reviewBody": "Very good! I took out the oregano and added 1 tbl spoon Worcestershire sauce and used Quorn meat crumbles"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Melanie"
+},
+"reviewBody": "This pretty much tastes like Italian, what with the tomato and oregano and all. I do not know what Quorn is, so I substituted tofu using the following methodology: Press a block of extra firm tofu in a kitchen towel to get as much water out as possible. Cut into half inch cubes. Coat cubes in a mixture of 3T firmly packed brown sugar, 1T paprika, and 1/4t ground ginger powder. Bake in 400F oven on parchment until edges get firm. Mix into recipe where Quorn is used. Also, I used a can of \"Pear tomato strips in puree and basil\", Great Value brand from Wal-Mart, then left out the tomato puree addition. Served over spiral noodles. This was easy, satisfying, not too strange for my husband, so I'll make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jo"
+},
+"reviewBody": "I lacked a few ingredients, so substituted the green bell pepper for a red one, and replaced the red wine for vegetable stock. Also didn't have any whole canned tomatoes so I just used chopped ones. I omitted the sugar in the end, and used a bit more tomato puree for sweetness. Having read other reviews, I added about 1 tsp of carraway seeds, which was a great touch. I also added a handful of frozen green beans. I doubled the recipe and it made four standards size portions. This is a great dish that I will be making many more times!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Katherine"
+},
+"reviewBody": "REALLY good! The only changes I made: I used a red pepper instead of green, because that's just what I had. And I forgot to add sugar at the end. But it was still really tasty and since I almost always have these ingredients at hand, I will definitely be making this quite often. I think the only change I'd make next time is I might perhaps use a wee bit less wine. :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cookin' for cash"
+},
+"reviewBody": "YUM!! Thanks for the recipe using Quorn - a product I use a lot. Using crumbles as others have done would make a completly different recipe than intended, try this with Quorn. It can be found in the freezer section of larger supermarkets, and health food stores (either in the meat substitute section, or the health food section.)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Michael Riley"
+},
+"reviewBody": "Excellent. I increased the paprika, and used more oil (olive), my family loves it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Not impressed. I don't use Quorn, so I used ground, seasoned seitan instead. The second day I added braised cactus leaf and was able to salvage the leftovers."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "AiMeilian"
+},
+"reviewBody": "This is a great vegetarian recipe, though like most reviewers I made it with mushrooms (portabella caps) instead of Quorn. As written, I thought it was missing a little something as I tasted it cooking. So I added more (LOTS more) paprika and a dash of cayenne (since I've never been able to find good hot Hungarian paprika). That added measurably, but it was still missing a note. Finally, when I reheated some leftovers, I added some caraway -- and that made the dish shine! NOTE: This recipe makes about double what I'd call \"2 servings.\" YMMV."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dconsolaro"
+},
+"reviewBody": "Fantastic! I did this recipe tonight and my partner loved it, even if he is not vegetarian! Great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Shanda"
+},
+"reviewBody": "Loved it! I added carrots and green beans to the mix. I think next time I might play around with the spices a little. Over all great dish! Will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Daniel den Hoed"
+},
+"reviewBody": "I liked this but just thought it needed a few more spices or flavoring. I followed the directions except used white wine instead of red. I served over egg noodles. My husband seemed to enjoy this since he even ate the leftovers which he hardly ever does!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Leah"
+},
+"reviewBody": "So delicious! I made it using sliced fresh mushrooms instead of the Quorn, and served it over naan (indian flatbread). Hubby and I are fairly new to the vegetarian thing, and I was nervous that it wouldn't satisfy us. But it did! So delicious, the texture and combination of just enough spices were divine! This will definitely become a staple for us."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anna Montgomery"
+},
+"reviewBody": "Carnivourous husband even liked this! \nI made lots of substitutions because I don't like peppers and was short on a few items, but this was really easy and tasty. Used Mushrooms and Zucchini instead of peppers and Morning Star Steak Strips because I'm not sure what this Quorn stuff is. It was great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "MRS. F."
+},
+"reviewBody": "we really liked this! I served it over buttered egg noodles and used crumbles for the protein. Next time, I will change the order of the MOP, though -- I would add things at different times, but really good all around!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JoseD"
+},
+"reviewBody": "Used mushrooms over rice. Quick easy and very tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "HEXTHECAT"
+},
+"reviewBody": "I made 4 servings of this recipe, and it tasted wonderful. Instead of the meat substitute listed, I used another one that was sold at Wild Oats. (I don't recall the brand, but it was a crumbly type of \"meat\" that looked like hamburger.) I also added caraway seeds, doubled the garlic, and added some pasta. We will definitely be making this recipe again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "kristinmgilbert"
+},
+"reviewBody": "I added celery,pasta, and more tomatoes to this recipe. I will make this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Yum! Easy to make also. I used Boca meatless ground burger instead of Quorn, and it turned out great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ljameslaw"
+},
+"reviewBody": "I really enjoyed this recipe! Its nice to have vegetarian options for dishes that normally require meat. Used sliced mushrooms instead of mycoprotein. Added celery and green beans (used canned but im sure fresh would be tasty!)Also used 2 cloves of garlic and low-carb elbows. Very easy to make."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/70480/veggie-goulash/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/183/soups-stews-and-chili/stews/",
+"name": "Stews"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17046/soups-stews-and-chili/stews/goulash/",
+"name": "Goulash Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/70480/veggie-goulash/",
+"name": "Veggie Goulash"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,517 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Curry Chicken Salad with Grapes"
+,"datePublished": "2016-06-04T10:02:51.000-04:00"
+,"dateModified": "2016-06-04T10:02:51.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "KJ0601"
+,"url": "https://www.allrecipes.com/cook/4549341"
+}
+]
+,"description": "Curry chicken salad with grapes, almonds, and parsley is a nice salad topper, filling for a croissant, or a snack simply eaten with a fork."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/ZHcdyM7K53y0hTnzwdXkeUz4BO4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1019464-82cefef34c3b434095aaa86ca5cb9333.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Curry Chicken Salad with Grapes"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.4",
+"ratingCount": "34"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "440 kcal"
+,"carbohydrateContent": "8 g"
+,"cholesterolContent": "58 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "10 g"
+,"saturatedFatContent": "10 g"
+,"sodiumContent": "284 mg"
+,"sugarContent": "5 g"
+,"fatContent": "42 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"0.5 cup butter",
+"2 cups mayonnaise",
+"0.25 cup minced garlic",
+"2 tablespoons chopped fresh parsley",
+"1 teaspoon curry powder",
+"4 cups shredded cooked chicken",
+"2 cups halved red grapes",
+"0.5 cup toasted slivered almonds" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat butter in a large saucepan over low heat until melted; remove from heat and cool to room temperature."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir mayonnaise, garlic, parsley, and curry powder into butter until evenly incorporated. Fold in chicken, grapes, and almonds. Transfer mixture to a serving bowl and cover with plastic wrap. Refrigerate until flavors have blended, at least 1 hour."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT80M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "susieq68"
+},
+"reviewBody": "Very delicious. Love it just with a fork straight from the bowl. Made just as written."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Melissa Siwiec"
+},
+"reviewBody": "Delicious! The recipe makes a ton so we cut it in 4ths. We added onion and celery and kept the curry powder at 1 tsp. (I wonder if that’s a typo in the recipe because that’s not much curry for that much chicken salad). Yumminess."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Oksana Tyson"
+},
+"reviewBody": "add mango chutney to add flavor"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "MegP"
+},
+"reviewBody": "This was very good, but next time I make it i will use chopped celery instead of parsley. I didn't care for the texture of the parsley in this salad. I will also substitute l cup Greek yogurt for one cup of the mayo to make it healthier. Although I like garlic, I would also reduce the amount next time, as there is plenty of flavour from the curry powder. Overall though a good recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Martina Buccellato"
+},
+"reviewBody": "No matter how you tweak it it seems to work. i like a drenched mixture if you dont then cut back on the mayo. i substituted half the mayo with yogurt. I think the curry powder varies in potency so the first time i made this i doubled it and it still seemed weak. this time i quadroupled it. I sunbstituted crasins and apple for grapes. I also cut the butter in half. I think you can omit without noticing a big diff, especially if you are tryung to make a healthier version. I added a sprinkle of cayenne, not enough to really nitice spice but to round out the curry a bit more. As i mentiined mine is kind of muted flavor. I love making this out of my chicken roast leftovers."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stephanie Davis Ensign"
+},
+"reviewBody": "Delicious, but fattening! Especially when you eat almost all of it yourself!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Isabella123"
+},
+"reviewBody": "I feel bad giving it such a low review but, unless I somehow made a mistake, I found the 1/2 cup butter the recipe called for almost nauseating after it cooled in the mixture. I actually rinsed it out so I wouldn't lose all my chicken. I'd been especially intrigued because I too had had a place I used to buy curry chicken salad from but I moved and never thought of and regretted not asking before I moved for the recipe. Without the butter, it would have been good, though nothing out of the ordinary."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "yekibe"
+},
+"reviewBody": "This recipe is quick and simple. It was so easy to make. I love the curry flavor. I improvised a little with the ingredients. I added mango and granny smith apples to give it a crunchy texture. Also, adding the fruit made for a nice sweet and spicy contrast."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pjae Stanley"
+},
+"reviewBody": "I love Curry Chicken salad. This is the first recipe I've tried that is exactly right. At first I wondered what was going on, as it asked for butter, then melt the butter, etc. But man, it was excellent. I substituted cilantro for parsley, as I don't like the taste of parsley. Turned out amazing! My husband loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jillann"
+},
+"reviewBody": "The butter in this is a game changer !! Doesn’t matter what kind of chicken salad you make add a little butter. This recipe is great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah"
+},
+"reviewBody": "This was good. Make sure to add salt and pepper too, though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "iverjack"
+},
+"reviewBody": "Flavor basically good however, recommend: one or two cloves of garlic NOT 1/4 cup. My family loves garlic, but in this recipe, it was overwhelming. Additionally, I would substitute or eliminate the butter as the taste doesn't enhance the recipe and adds a ton of calories."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Diana Torline"
+},
+"reviewBody": "I eliminated the butter, used only half of the mayonnaise and substituted a cup of minced celery for the parsley. The recipe still had plenty of moisture and I got rave reviews from men and women at the luncheon where it was served. Would definitely make this again. I don't consider this a healthy salad due to the mayo but it is nice for a special event since it is so flavorful."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "What's Cookin'"
+},
+"reviewBody": "Cut the mayo in half, cut the garlic in half, double the curry and try it. We like garlic but not sure if it even belongs in this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Al . Morgan LMT"
+},
+"reviewBody": "I liked this a lot, but then I added some diced apples. Now I LOVE this!! Definitely making this again ."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Becky H"
+},
+"reviewBody": "Great salad! I did make a few adjustments. I used half the butter, and for the other half I used coconut oil. I didn't replace all the butter because you really need some of the butter flavor. I used half the mayo and subbed plain yogurt for the other half. I also more than doubled the curry, and used about 2/3 the garlic. I also added about a tsp of salt. I don't like drenched salad so after making the dressing up I gradually added dressing to the chicken and grapes until it hit the right mix. I saved the rest of the dressing to use on sandwiches. It's too good to waste! Lastly I recommend at least 8 hours in the fridge before serving for the flavors to really develop. The salad was a hit at a potluck and I will definitely make again....in fact I think this will become my signature potluck dish - doubling the recipe of course!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "fullercook"
+},
+"reviewBody": "Way to much mayonnaise. This dish made me sad."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "allyc23"
+},
+"reviewBody": "Amazing!!!!! I've been looking for one similar to a local cafe and this is pretty darn close! I used 1/4 cup plain non fat Greek yogurt with 1/4 cup butter and one cup mayo with olive oil with one cup regular mayo to try to make it less fattening. Still tastes awesome!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CoolCakes"
+},
+"reviewBody": "This chicken salad is just so good and quite refreshing! Yummy!!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sandra scott"
+},
+"reviewBody": "love this recipe. I tried using rotisserie chicken and red grapes..... didn't care for it as much as I do this recipe. I do, however, double the curry."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ashley"
+},
+"reviewBody": "So good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TWally"
+},
+"reviewBody": "My hubby loves chicken salad with curry and red grapes. Lots of recipes to choose from but this sounded good. Very, very flavorful...which isn't surprising since the first ingredient is butter:) One suggestion...try it with sea salt &amp; cracked pepper almonds (the salad topping kind). This will be my go-to recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "petshopgirl"
+},
+"reviewBody": "Really good with toasted pecans. I like to serve it with buttery round crackers."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Renee"
+},
+"reviewBody": "Been doing this for awhile I like walnuts in mine and either apples raisins or craisins with the grapes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Barbara Hughes"
+},
+"reviewBody": "My new favorite, halfed the recipe because I am only 1 person"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "eatme"
+},
+"reviewBody": "Delicious! I didn't have almonds on hand, so I added 1.5 stalks of diced celery which made it nice and crunchy. This one is a keeper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ty Furman"
+},
+"reviewBody": "I made this as directed except substituted coconut oil for the butter. It turned out fantastic. Years ago I had a great chicken salad like this and have been looking for a recipe that matched that. This is it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BigShotsMom"
+},
+"reviewBody": "We all enjoyed this. In an effort to save calories, I omitted the butter, just toasted the almonds and curry powder in a dry pan until fragrant. I used garlic powder because I just do not care to bite into garlic in a salad and then I found someone had eaten the grapes I was hoarding to make this so I added a handful of raisins (dried grapes, right?). I also added some green onions that needed to be used. I chilled this for an hour as stated, but next time, when I actually have grapes, I will make the salad either in the morning or night before. This only gets better. Thanks for a great chicken salad."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Petrina"
+},
+"reviewBody": "I liked this recipe. I gave it 4 stars because I substituted low-fat plain yogurt for the butter. I will definitely make this again. I might try it with craisins or perhaps dried cherries."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MIDCENDEB"
+},
+"reviewBody": "I prepared this exactly as directed and took it to a party. It was a hit with people going back for seconds and thirds, Great recipe!!!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/232743/curry-chicken-salad-with-grapes/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/96/salad/",
+"name": "Salad"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/15947/salad/curry-salad/",
+"name": "Curry Salad Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/232743/curry-chicken-salad-with-grapes/",
+"name": "Curry Chicken Salad with Grapes"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

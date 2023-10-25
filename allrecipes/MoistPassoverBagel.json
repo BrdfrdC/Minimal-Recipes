@@ -1,0 +1,159 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Moist Passover Bagel"
+,"datePublished": "2020-06-18T23:29:50.000-04:00"
+,"dateModified": "2022-01-04T09:24:34.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Eva's Kitchen"
+,"url": "https://www.allrecipes.com/cook/1725199"
+}
+]
+,"description": "Who said you can&#39;t have a sandwich on Passover? These moist bagels are soft and fluffy, made from matzoh meal and eggs, and no yeast needed."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/aXmhn4HLC4xKUBjfpnhXG0XiKko=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7964865-a89acdd439854b73a1540de0c07412f7.jpg",
+"height": 2000,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Moist Passover Bagel"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.3",
+"ratingCount": "3"
+}
+,"cookTime": "PT50M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "220 kcal"
+,"carbohydrateContent": "19 g"
+,"cholesterolContent": "93 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "5 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "231 mg"
+,"sugarContent": "1 g"
+,"fatContent": "15 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"cooking spray",
+"1.3333333730698 cups water",
+"0.66666668653488 cup peanut oil",
+"1 teaspoon salt",
+"1 teaspoon white sugar",
+"2 cups matzo meal",
+"6 eggs" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat oven to 375 degrees F (190 degrees C). Lightly grease a baking sheet with cooking spray."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine water, oil, salt, and sugar in a saucepan and bring to a boil. Remove from heat. Add 2 cups matzoh meal; allow to cool for at least 5 minutes. Add eggs, 2 at a time, stirring to incorporate into dough."
+} ,{
+"@type": "HowToStep"
+,"text": "Form 2 tablespoons of dough into a ball using wet hands. Transfer to the prepared baking sheet. Repeat with the remaining dough. Poke a hole into the middle of each ball."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until lightly brown, 50 minutes to 1 hour."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT70M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "It was very plain tasting. It has no flavor, which is why it only gets 3 stars. I recommend to increase salt, sugar, or as some spices. I added Kosher for Passover baking powder to add more of fluffy texture."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mark"
+},
+"reviewBody": "Very tasty. Softer than a regular bagel, but expected that. Only things I changed, was used Canola oil vs peanut oil (didn't have any) and let the mix rest for 15 minutes before I formed the balls."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/140020/moist-passover-bagel/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/156/bread/",
+"name": "Bread"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/360/bread/quick-bread/",
+"name": "Quick Bread Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/140020/moist-passover-bagel/",
+"name": "Moist Passover Bagel"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

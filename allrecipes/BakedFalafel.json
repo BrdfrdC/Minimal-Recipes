@@ -1,0 +1,1424 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Baked Falafel"
+,"datePublished": "2019-04-02T02:51:25.000-04:00"
+,"dateModified": "2022-01-21T14:15:07.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Bette"
+,"url": "https://www.allrecipes.com/cook/2909093"
+}
+]
+,"description": "This falafel is lightly pan-fried, then finished in the oven."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/K3g_Yg0AXWKB99oosiHZp-zQOSs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/597389-f2cbb6dbbdd54405bade66a6947574b2.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Baked Falafel"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.4",
+"ratingCount": "248"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "281 kcal"
+,"carbohydrateContent": "39 g"
+,"cholesterolContent": "93 mg"
+,"fiberContent": "7 g"
+,"proteinContent": "11 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "909 mg"
+,"sugarContent": "1 g"
+,"fatContent": "9 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"0.25 cup chopped onion",
+"1 (15 ounce) can garbanzo beans, rinsed and drained",
+"0.25 cup chopped fresh parsley",
+"3 cloves garlic, minced",
+"1 teaspoon ground cumin",
+"0.25 teaspoon ground coriander",
+"0.25 teaspoon salt",
+"0.25 teaspoon baking soda",
+"1 tablespoon all-purpose flour",
+"1 egg, beaten",
+"2 teaspoons olive oil" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Wrap onion in cheese cloth and squeeze out as much moisture as possible. Set aside. Place garbanzo beans, parsley, garlic, cumin, coriander, salt, and baking soda in a food processor. Process until the mixture is coarsely pureed. Mix garbanzo bean mixture and onion together in a bowl. Stir in the flour and egg. Shape mixture into four large patties and let stand for 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat an oven to 400 degrees F (200 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat olive oil in a large, oven-safe skillet over medium-high heat. Place the patties in the skillet; cook until golden brown, about 3 minutes on each side."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer skillet to the preheated oven and bake until heated through, about 10 minutes."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT55M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Angela"
+},
+"reviewBody": "I love the concept of baked falafel. This came together pretty easily but it was quite blah. I will make these again but alter the spices, add some lemon juice and increase the salt."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "There is NO way that falafel made with anything other than soaked dried garbanzos will be excellent. I couldn't bring myself to try (and fail) with another canned bean recipe. Sigh."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Barb"
+},
+"reviewBody": "I used fresh garbanzos and followed Lauren’s tweaks. It came out perfect, better than fried!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "paula"
+},
+"reviewBody": "Fantastic Falafel Recipe \nNo changes made . I prepared it as stipulated in the recipe. Every loved them. Culinary success!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Karen Mazzei"
+},
+"reviewBody": "So delicious and easy! I've made filafel before that fell apart when I cooked them, this made the perfect texture, and loved the technique for baking them. I'll make these again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marsha Brooks"
+},
+"reviewBody": "I made this falafel and it turned out perfect. my husband and I loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shane Muller"
+},
+"reviewBody": "Mushy balls that fry up and bake nicely, really enjoy this recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lulu's kitchen"
+},
+"reviewBody": "sorry about all the photos! came out good. I skipped the pita and had cukes, lettuce, and avocado on the side. yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "abogo715"
+},
+"reviewBody": "Overall very good. Great texture but lacking flavor a bit. Next time will increase herbs &amp; spices, and maybe add some additional seasoning."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lkimmel"
+},
+"reviewBody": "I made this recipe exactly as posted. I used my cast iron skillet and it was delicious. The patties were slightly difficult to flip, but the stayed together. I might add a little more flour next time, but it is a keeper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Isabela Seabra"
+},
+"reviewBody": "Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rloupus"
+},
+"reviewBody": "Great recipe! I read several recipes before settling on this one. Mostly bc it does not use bread crumbs and I am limiting my family’s carb and starch intake. I can do a Tbsp of AP flour. Changes I made to this recipe include hand mashing the chick peas and putting the onion in the blender with the garlic/parsley blend. I also added a dash of cayenne. Mashing the peas gave the parry more texture. I was very happy with the browning method in the frying pan using some avocado oil. I got it toasty on both sides then popped into the oven to finish off while I cut veggies for our lentil bowls. My kiddos and hubby loved this recipe and it is a new “go to” in our house. Next time I am going to try wheat flour instead of AP. Thanks for the inspiration!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Catherine"
+},
+"reviewBody": "Though it only says to put in one fourth teaspoon salt I would really suggest more."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DianeRobertson"
+},
+"reviewBody": "I love falafels, but I have deep fat frying. These are perfect. YOu crisp the outside in a small amount of olive oil in the frying pan and then bake them. We make naan bread to go with them. Even my kids who refuse to eat any form of beans will eat these."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anabet Barr"
+},
+"reviewBody": "Turned out wonderful! Twice as good as our local Mediterranean restaurants.Doubled the batch and seasonings as suggested. Used a hand chopper for beans, onions and garlic. Added hot sauce, lemon pepper and lemon juice. No need for oven cooks quickly just dropped by spoonfuls into pan. Best when eaten warm."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Steve"
+},
+"reviewBody": "I didn't drain the beans, so I had to double the recipe to get the right consistency."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ronald McIntire"
+},
+"reviewBody": "Turned out well"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jax"
+},
+"reviewBody": "This was delicious! I made 3 changes. I sautéed the onions and garlic in the olive oil before adding them to the chickpea mixture. I made 6 smaller balls instead of 4, and I did not sautée the falafel balls before putting them in the oven. The falafel was crispy and perfect in a whole wheat pita with tzatziki and feta, lettuce and tomato."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "spartina"
+},
+"reviewBody": "Falafel always seems a bit dry to me so I replaced the flour with canned butter beans. The patties were great when eaten freshly cooked. However, the extras that went into the fridge were a bit dry when eaten a couple of days later. Perhaps foil or tighter plastic wrap would have preserved more moisture. I'll continue to tweak this recipe. Stand by ...."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Queen Esti"
+},
+"reviewBody": "Loved this recipe. I baked them at 400 for ten min on each side instead of ftying. Delish! Def will do again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Brookexox"
+},
+"reviewBody": "Would recommend using either salted chickpeas or adding salt. These held together very well too!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kick'n Kitchen"
+},
+"reviewBody": "Made it exactly as in the recipe. Wonderful!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dee"
+},
+"reviewBody": "Excellent -easy, healthy and super tasty! My hubby liked them better than from a restaurant. Baked at 400 for 20min, spayed w oil again and flipped for 10 more min. Put all ingredients in food processor together, except egg and flour. Used half parsley, half cilantro and doubled cumin n coriander. Refrigerated patties overnight and baked next day. Fast n Easy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Orlino"
+},
+"reviewBody": "Excellent!!! Authentic taste and easy to make!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Norma Lininger"
+},
+"reviewBody": "I didn't have parsley so I used kale . The texture was same as meat . The next time I make this recipe I'm going to try it with spinach . This was a good meat substitute My daughter gave them a thumbs up !"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "My vitamix pureed the mixture too much so I ended up with a bright green mushy goo which could not be eaten. Sadly I had doubled the recipee too!! :("
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "mquast1"
+},
+"reviewBody": "My vitamix pureed the mixture too much so I ended up with a bright green mushy goo which could not be eaten. Sadly I had doubled the recipee too!! :("
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MsCoco"
+},
+"reviewBody": "Love this recipe! I've made it multiple times now. I make these falafel in advance and they have fit perfectly into my weekly meal planning! :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Temperance"
+},
+"reviewBody": "I substituted gluten free all purpose flour and it turned out wonderfully!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Bob Bob"
+},
+"reviewBody": "They came out like baby food with cooked chick peas. I don't know why I trusted this author. Always use uncooked (but soaked) chick peas for falafel."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Shaili"
+},
+"reviewBody": "used others recs to double cumin and coriander. pulsed onion and garlic in food processor, added more onion and more garlic, then sauteed them in 1 tsp olive oil. used 1/8th cup gluten free bread crumbs, baked in the oven. made each about 1/4 cup size for 6 patties. tasty and will make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Solimar Caban-Ritchie"
+},
+"reviewBody": "This was great! I added coconut flour instead of regular flour because it was what I had and it came out delicious and lower carb friendly ?? could probably use almond flour next time don't even taste the flour ! Your only using a tbsp of it anyway!. I highly recommend this recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "msfitz"
+},
+"reviewBody": "Delicious! I ended up just pan frying to get them nice and crispy. Also threw in some cucumber skin that I had pealed off when making a Greek Salad - it mixed well and added some good nutrients while avoiding waste, win win!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Katie Ryan"
+},
+"reviewBody": "A few of them fell apart but overall, this was a great recipe. My sister loved them, which says a lot. Just kidding. Highly recommend this recipe to people who don't mind garbanzo beans."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cowgirll"
+},
+"reviewBody": "This might be the first time that I've successfully made falafel, and I've tried numerous times. I'm never deep frying them again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Daniel J Shannon"
+},
+"reviewBody": "Great in a pita with yogurt sauce. Will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jen Franklin"
+},
+"reviewBody": "I added bread crumbs and skipped the frying part. They were delicious and super healthy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jessicasa"
+},
+"reviewBody": "This mixture does indeed look runny but don't let that intimidate you! It will turn out perfectly fine. Also, the recipe is a bit bland but I actually prefer it this way so that I can add some flavorful extras like salsa and feta cheese! I was going to try the Tzatziki sauce but I wasn't able to find any."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Peter"
+},
+"reviewBody": "As someone who is counting calories, I found this to be a great dish and was super simple to make. Put on top of a lettuce of baby spinach, red onion, banana peppers, pickled turnip, cucumber dressing, and a little roasted garlic hummus. Very tasty, low calories,. This will be a regular dinner in my home."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Andy"
+},
+"reviewBody": "Just so-so. I found that these were bland and not so flavorful. I would recommend adding more onion and garlic (sautéing them in advance sounds like a good idea). I would definitely double the cumin"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Elizabeth "
+},
+"reviewBody": "I used Lauren's review to make changes to this recipe. Thank you Lauren! Your changes make the recipe worthy of FIVE STARS. I loved how they turned out; just like fried without the fat!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Erica Brown"
+},
+"reviewBody": "The mixture came together really well and so ridiculously easy to put together. It's becoming a weekend lunch ritual at our place."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Janis"
+},
+"reviewBody": "I would like to reduce the amount of Cayenne Pepper, from 1/4 tsp to 1/8 tsp."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hunca Munca"
+},
+"reviewBody": "This was super easy and super fast! I don't have a blender or food processor, but used my NutriBullet and it worked fine. Instead of keeping them on the skillet, I used a wire rack, which kept the patties nice and crispy on each side, and they came off the rack very easily. Will make this again - probably once a week from now on!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "BevKat"
+},
+"reviewBody": "It is rather flavorless, bland. Add more spices of your choice. I topped it w/ Spaghetti Sauce bc of blandness. But i will make it again bc I like eating Bean Patties."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kimberly ReNee"
+},
+"reviewBody": "Followed some of Lauren's suggestions, because I like mine crispy - keeping this one!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "aifornelli"
+},
+"reviewBody": "Oops! Didn't have enough eggs! So I substituted with some Greek yogurt. Used bread crumbs instead of flour, and pureed everything till it was smooth. I ended up using a lot of bread crumbs so the dough wouldn't be too sticky to handle. The falafel came out well. Good to know, as we're to eat more legumes"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Joanna Tice-Stepanski"
+},
+"reviewBody": "I followed some of the tips others had mentioned. I didn't fry them in oil but baked them at 400 degrees for 20 mins on one side, flipped over and baked another 10 on the other side, spraying with cooking spray. I didn't have fresh parsley so I substituted dry. I did saute the onions and garlic first before adding and pulsing in food processor with the rest. I also added the 1/4 cup dry bread crumbs. They held together very well and I didn't find them to be runny like others mentioned. Servng them in pita bread is a great tip. And there is a pita dough recipe (\"Peppy's\") on this website that I found very easy to follow using a breadmaking machine."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary W."
+},
+"reviewBody": "I followed the recipe but had to make a few changes because I didn't have all the ingredients. I used a little over a tablespoon of all purpose flour because I didn't have baking soda. I gambled on the fact that the all purpose flour had it in there already and hoped it would be enough. I didn't have coriander so I added a little turmeric instead. I also didn't have fresh parsley so I used dried. I followed other reviewer's suggestions and just baked them at 400 degrees turning them over after 30 minutes. They were perfect! Totally satisfied my falafel craving with very little fat. It made 6 nice sized patties, and I'll definitely make this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SakiFiz"
+},
+"reviewBody": "So this wasn't really falafel, but I really enjoyed them. I skipped browning in a frying pan and baked them longer, flipping halfway through."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "gluten free girl"
+},
+"reviewBody": "This was really good. I served it with a homemade taziki sauce I found on all recipes on a bed of lettuce. Very good. And I just subbed gluten free all purpose flour for regular flour."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "susie"
+},
+"reviewBody": "Made it following recipe exactly. It was delicious! My daughter even asked me to make more for her lunches."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Veggie-cita"
+},
+"reviewBody": "I made this to bring to a BBQ and was so pleased that my vegetarian dish was a hit! Lots of compliments! Thank you."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linn"
+},
+"reviewBody": "I absolutely loved the flavor. I sometimes find the spices overpowering but this recipe has just the right amount of everything! Thank you for a wonderfully easy recipe.....this is going in my recipe box."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mama Jett"
+},
+"reviewBody": "Made this tonight for the my Husband, myself and my 3 year daughter and we loved it! \nI didn't use a cheese cloth because I didn't have one. I just chopped the onion small and dabbed off any moisture with a paper towel. Lightly browned the falafel in a pan and then stuck them in the oven for 10 minutes. Served them in warm pita bread with my homemade tzatziki sauce and side tabouli salad over some arugula! Healthy and delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I loved this recipe. It was so easy and quick to make. I did not use a food processor because mine was dirty from another dish I made. I just used the back of a fork to mash the chickpeas and cut up the parsley. I love that I had very few dishes to clean at the end. I served this with a tahini sauce and tzatziki. The tahini adds some liquid if you find falafel a bit dry."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "SoCal Cook"
+},
+"reviewBody": "Sadly, very underwhelming. Very bland even though I doubled the spices. I'll try to find a more flavorful recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "aimeelynn"
+},
+"reviewBody": "Very good. This was my first time making falafel, and I can't wait to go back and tweak the seasoning to suit personal preference. This was a delicious meal as written though. Thanks for sharing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "coco14"
+},
+"reviewBody": "I made these for the first time and they tasted great! I baked them for about 30 minutes also turning them once. Great alternative to meat!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ViXXiE"
+},
+"reviewBody": "Fabulous! Substituted flour for bread crumbs just because I like the texture. Made 16 ping pong ball sized patties instead of the four large...way too big. Served on pita with tabouli. Perfect!! :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Julia"
+},
+"reviewBody": "The recipe was okay. The patties didn't fall apart on me but they were dry and bland. I'm not crazy about it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "jessicay"
+},
+"reviewBody": "Eh. The batter was so runny I added extra flour. Baked them for the entirety of cooking. Better after they'd sat for maybe 20 minutes, but overall just eh. Update almost three years later: Hadn't realized I'd made these before and made them again. The batter was runny; I did not add more flour and it cooked to an okay, firm consistency. Just doesn't really taste like much. Probably won't make again. Took my rating down a star."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Courtney R"
+},
+"reviewBody": "AMAZING! but instead of parsley i added cilantro and green onion. i had never made felafel before but it turned out fantastic. didnt use the skillet either, just baked them on 400 for 20 min. thanks for such a great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "SAMJJ"
+},
+"reviewBody": "I was surprised this turned out as well as it did, considering the changes I made and my inability to read directions. I substituted light red kidney beans (blasphemy, I know, but it was that or black beans) and a tablespoon or so of dried parsley for the fresh (working with what I had on hand here). I also just mashed everything together with a potato masher since I don't have a food processor. And by everything, I mean I included the oil, since I didn't pay attention to the directions. Speaking of which, I let the mixture sit for 15 minutes prior to shaping it instead of after. I decided to skip the baking part, since it was too hot out, and just scooped heaping spoonfuls onto the skillet (ungreased) and cooked them like pancakes, a few minutes apiece. Tasty! But they were best when piping hot, and seemed to lose flavor as they cooled. This made about 8 silver-dollar falafelcakes (really 6, plus about 2 more worth of scraps and broken bits)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "PIGGALETTE"
+},
+"reviewBody": "Really easy and good. They held together very nicely. I'll make a few changes to suit our tastes next time (more salt, cilantro instead of parsley, some hot pepper sauce), but this recipe is going into our rotation!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "HappyKathy"
+},
+"reviewBody": "I agree with another tester here...I doubled the spices as well, and I suggest you do if you've had this kind of ethnic food and are used to the stronger spice flavours, which makes this recipe wonderful. I used whole grain flour..it made me feel better!! I made smaller patties, fried them up in a frying pan as instructed and finished them in the oven for the required 10 minutes...this helps alot with expelling more moisture. I paired this with Chef John's Tzatziki sauce and soft warmed up pita bread....OMG, it's a staple now at our house."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "idlehands"
+},
+"reviewBody": "Be careul not to over-process the chickpeas! The flavours are good and adding a bit of tzatziki... divine! Also, don't over-fry or they will end up dry. Other than that, so good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "CatieR"
+},
+"reviewBody": "Loved that I had everything in my pantry already!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "jolley900"
+},
+"reviewBody": "a tad dry but good. thought seasonings as written were good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kells_bells"
+},
+"reviewBody": "Recipe was great as is!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kristin M."
+},
+"reviewBody": "Amazing. No changes just the way it is!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Angela"
+},
+"reviewBody": "I skipped the whole pan-frying step, and just baked them in my oven on a Silpat. The outside was crisp, and the inside was tender. Great flavor! I doubled the recipe so that I could have enough for lunch the next day. I did add double the amount of coriander, but that is just my own preference."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christine Purnell-Berberich"
+},
+"reviewBody": "Made this tonight and loved how easy it was. I didn't bake it in the oven though. Now I wonder if that would have made it crunchier? I wonder if dredging in cornmeal would add more of the crunch I had the first time I tried falafal at a local restaurant."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jenniferjt"
+},
+"reviewBody": "Very Good! I sauteed the onions and garlic before adding to the rest of the ingredients."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Extra Foamy"
+},
+"reviewBody": "These are really good and super easy to make. I have to admit I made lots of adjustments based on what things I had on hand; I used lentils instead of chickpeas, leeks instead of onion, and a stalk of celery instead of parsley. In any case they still came together great, crispy on the outside and moist on the inside, and very flavourful. I cooked them for 3 minutes on my pancake griddle before transferring to the oven for 15 minutes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ANJACKSON"
+},
+"reviewBody": "These were super yummy! As I have no recipe to compare these with, I rated a 4 :) I have never even eaten Falafel prior to making these!! I decided as others did, not to fry them first, though I did spray them with some Pam. I also made them into 8 mini patties instead of 4 large ones! They came out great...now I just need to try another batch - either restaurant style or make some more :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "KJR"
+},
+"reviewBody": "these were yummy but VERY dry, even w tsp of lemon juice added... cured by serving w roasted veggies and Tzatziki Sauce from this site!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "monjfr"
+},
+"reviewBody": "I liked it as a healthy lite sandwich that keeps U full . but it taste almost nothing like the real Falafel . I doubled the coriander to make it 1/2 tsp , and for more flavor I add 1/4 cup fresh Cilantro and one TBS of fresh dill . I use the following toppings for my sandwich: crumbled feta cheese , tomato , lettuce, onion, cucumber and Kalamata olives ."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "muffinpatch"
+},
+"reviewBody": "Very good! Time consuming though. Of course, I did increase the serving size to 6! I had no idea it would make way way WAY more than 6 servings. I will freeze some of them to have for later."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lauren"
+},
+"reviewBody": "After making this many times I've settled on the following changes, which I highly recommend: 1) Pulse half an onion and several cloves of garlic in a food processor, then sauté until the onions are tender and most of the moisture has cooked off. 2) Double the cumin and coriander, and add onion and garlic powder. 3) Add 1/4 cup breadcrumbs, preferably panko. 4) Form 8 smaller patties rather than 4 big ones. This has proven to be essential! 5) Spray Pam, also essential, on a baking sheet and bake the falafel at 400 for 20 minutes. Then spray Pam on the patties, flip them, and bake for another 10-15 minutes. This actually results in a crunchier crust than when pan frying this recipe. The first picture I uploaded of this recipe is the pan-fried version and the second is completely baked."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amanda Leigh Smith"
+},
+"reviewBody": "These were a little bland for me---I added garam masala and ground red pepper---but otherwise great! I used a 19oz can of chickpeas and subbed wheat germ for the flour, and didn't have a problem with the batter being too thin. Even my husband, an avid carnivore, raved about these!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Manda"
+},
+"reviewBody": "Delicious! I used dried, powdered onion to avoid the juice draining process from fresh onions and reduce the amount to compensate. Overall, I'd make this recipe again and again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nicole"
+},
+"reviewBody": "A bit scary when the patties were so soft and not molding before frying. I just dropped them in the pan like pan cake batter almost and then they became beautiful. \n\nEasy, delicious, and meat free"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Natasharenae"
+},
+"reviewBody": "This falafel came out great! I don't own a food processor so I finely chopped the onion and garlic. I added a little bit of salt too for more flavor. I then combined everything in a bowl mashing it with my hands and rolled them like meat balls on a pam sprayed cooking sheet. Baked them at 400 degrees for 20 minutes. Make a yogurt dipping sauce or put them in a pita pocket with hummus, tomato, alfalfa,lettuce,sunflower seeds and cheddar cheese. YUM!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Runner Rose"
+},
+"reviewBody": "I liked the flavor of it, but I found the patties to be too crumbly...maybe I didn't chop the onions fine enough"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "stephanied"
+},
+"reviewBody": "I had an awful falafel at a high end restaurant last weekend and thought to myself \"allrecipes.com can do better than this\" and sure enough, this recipe pulled it off. I found like other reviewers that they did fall apart but that was remedied by making a more fine chop in the processor instead of a coarse chop. I followed the directions to a T but doubled it and stuffed it inside pita pockets with red onion, spinach, cucumbers, tomatoes and tzatziki for a vegetarian gyro. I also misted the patties with olive oil before baking so they didn't dry out at all. \nMy recipe for tzatziki: seed and grate 1/2 q cucumber and blot with paper towel, dust with coarse salt and let sit for 10 min. Combine 1tbsp minced garlic, 1 1/2 c greek yogurt, 1 tsp fresh mint, 1/2tsp dill, 1-2tbsp olive oil and half a squeezed lemon. Add cucumber and refrigerate for several hours for flavors to full merry. \nI think this was by far the best falafel I've ever had. Thanks so much for the recipe! Awesome!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KateHollstrom11"
+},
+"reviewBody": "Great! I skipped the pan frying option and just put them straight in the oven. They were a little soft, but soooo good. I used red onions and dried parsley."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "bluestarrgurl"
+},
+"reviewBody": "Although my husband and I love falafel, we weren't thrilled with this dish. He (the eater) was put off by the texture, calling the insides 'mushier' than typical. As the cook, I thought the prep took considerably longer than 20 minutes. The wet mixture was difficult to work with. Patties didn't retain their shapes and clung to my hands as I tried to transfer from plate to pan for cooking. \n\nAlso, it would have been helpful to know in advance that spices could all be measured into same bowl, to avoid using (and having to wash) multiple vessels."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Mrs. Brazier"
+},
+"reviewBody": "I followed the recipe, except I baked for 30 minutes at 400; no frying. I should have fried them first, because they turned out a little dry in the oven... Today, when I warmed up the leftovers, I lightly fried them in olive oil, and they were absolutely delicious! Sitting overnight probably helped the flavors merge better as well, although I may add more garlic and spices next time. Served the falafel with the Tzatziki II recipe and lettuce and tomatoes on a warm pita. Yum."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Becky Giberson"
+},
+"reviewBody": "Really good and a nice alternative to meat. The falafels come out nice and crispy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LEDEJ13"
+},
+"reviewBody": "Relatively simple to make and was a big hit with my !no beans! husband. He watched me smash them up and he still loved it =]. Like the top says - wuld go great with tzatziki and pita!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "fondukes"
+},
+"reviewBody": "I thought it wasn't that crucial to drain the onions... I was wrong! They did not get crispy enough for my taste. Next time I will either drain the onion or use onion powder!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "debweb"
+},
+"reviewBody": "I did not care for this recipe. This was so flavorless, and we kept adding toppings to try to improve it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Moon1Shadow"
+},
+"reviewBody": "Next time I will spray with cooking oil before baking to provide a little more fried feeling."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Teri Knapp"
+},
+"reviewBody": "I thought these were very bland, and I was disappointed. I probably won't make this recipe again without adjusting the spices/seasoning."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "margaree"
+},
+"reviewBody": "this was great! loved it! i've made falafels before but they either fell apart in frying pan or they had too much flour and stuck to pan. perfect at last! i also added some hot pepper flakes and ground cardamom to batter. thanks for sharing"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Snow Queen"
+},
+"reviewBody": "not to my liking"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "jae"
+},
+"reviewBody": "I changed a lot, but it turned out great and this recipe was the inspiration.\n\nUsed dry beans, and soaked them for 24 hours (no cooking necessary as the consistency was perfect after 24 hours) - used the equivalent amount as 1 can. Left out the egg and baking soda. Just popped an an onion in the food processor with everything else, didn't chop or squeeze it. Processed it all until smooth and fried quickly and then put in the oven. Absolutely delicious. I did forget the salt, and regretted it because it did need it, but that was my mistake. This was enough for 3 servings, albeit small ones."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Vbkelly1"
+},
+"reviewBody": "Best falafel I have ever eaten!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/183947/baked-falafel/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1642/everyday-cooking/",
+"name": "Everyday Cooking"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/87/everyday-cooking/vegetarian/",
+"name": "Vegetarian"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/183947/baked-falafel/",
+"name": "Baked Falafel"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,752 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Easy Candy Yams"
+,"datePublished": "2000-10-24T21:40:54.000-04:00"
+,"dateModified": "2022-09-20T05:59:34.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Sara"
+,"url": "https://www.allrecipes.com/cook/1744"
+}
+]
+,"description": "Chopped sweet potatoes are baked with brown sugar, caramel topping, and butter, then finished with a layer of roasted marshmallows."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/3BQUg1LCzKPGUPgrUp-mfcuwsRg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/524430-f5bc19f3cf7544a2939f79a85a680825.jpg",
+"height": 250,
+"width": 250
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Easy Candy Yams"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.3",
+"ratingCount": "57"
+}
+,"cookTime": "PT40M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "413 kcal"
+,"carbohydrateContent": "69 g"
+,"cholesterolContent": "41 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "10 g"
+,"sodiumContent": "532 mg"
+,"sugarContent": "19 g"
+,"fatContent": "16 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"4 cups chopped sweet potato",
+"1 (12 ounce) jar caramel topping",
+"0.125 cup brown sugar",
+"0.5 cup butter",
+"1 cup miniature marshmallows" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 325 degrees F (165 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Place sweet potatoes in an 8x8-inch square baking dish. Pour caramel over potatoes. Sprinkle with sugar and dot with butter."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in preheated oven 30 minutes, until potatoes are tender and mixture is bubbly. Remove from the oven and sprinkle marshmallows evenly over potatoes. Return to oven until marshmallows are melted and browned, 5 to 10 minutes more."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT45M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ray"
+},
+"reviewBody": "Amazing no changes"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "VREV"
+},
+"reviewBody": "Sweet Potatoe Marshmallow"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cynthia Chalton"
+},
+"reviewBody": "I made it without the caramel because we are not a fan of it but it was still very delicious!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kaylin210"
+},
+"reviewBody": "loved it. so did everyone else. very easy to make, pretty sweet though, you could probably use 1/2 the carmel and it would still be just as sweet. but I like them all dressed up :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jim Halliday"
+},
+"reviewBody": "Major hit with the tribe. Did do a couple of things differently but stayed with the main theme. Because they were going to be part of Thanksgiving dinner and it was a big group I tried to get as much done day before as possible so I used fresh yams, boiled them and mashed them. The next day I nuked the bowl just to warm them and then cut the butter and brown sugar into the mash. Topped it with the marshmallows and baked according to the recipe. Turned out so good we had to set some aside just to make sure late arrivals got a bit and my wife, who usually doesn't like \"sweet\" wanted me to make them again the next day."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Micah Gould"
+},
+"reviewBody": "Had this recipe saved over 12 years and it’s become our family tradition for Thanksgiving and Christmas."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Sonia Besares"
+},
+"reviewBody": "I baked it at 425 degrees not 325. It took 1 hour and 40 min total."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ponytail Goddess"
+},
+"reviewBody": "These are so good! The caramel made the sweet potatoes so rich! I mashed the sweet potatoes with the sugar, a little milk, and 2 TBSP of butter. Then, I swirled caramel into them and baked them, stirring once about 20 minutes in to mix in the caramel with the potatoes better. Then, I broiled it with the marshmallows on top. I accidentally burnt the marshmallows during the chaos of multitasking during Thanksgiving, but it gave it a \"campfirey\" taste that I enjoyed. Next time, I'm sure I'll get them golden brown … This was amazing! I can't wait to make it again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laurie"
+},
+"reviewBody": "Loved it!! The only thing I would change is the amount of butter; was a bit runny after cooking. Next time, I will try using about 1/2 of the butter, maybe a little less of the caramel sauce too! So delicious, family LOVED it! Thank you!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jas"
+},
+"reviewBody": "Super easy and very yummy!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Heather Archer"
+},
+"reviewBody": "Tried this recipe last Thanksgiving and it was a huge hit. Cooking it again today for Thanksgiving. I'm not a huge fan of candied yams but after tasting this I loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lorna129"
+},
+"reviewBody": "My family raved about this recipe! I rate according to if my kids and husband get seconds or if I have to throw it out. Nothing was left. Thanks for the recipe, Sal!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle Finley Baker"
+},
+"reviewBody": "This was a great recipe, but does not need any butter AT ALL. I cut the butter in half and was still scooping it off the top. I used canned potatoes, chopped them up a bit and then topped it with caramel sauce, butter brown sugar and marshmallows. After the butter sludge was gone, it was FABULOUS! Very easy recipe. Next time I will probably mix the caramel and potatoes more, and add some pecans on top!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "elfpearl"
+},
+"reviewBody": "I was not a huge fan of these candied yams...and here's why. The brown sugar along with the caramel (I only added about half of the caramel) was WAY too sweet for me and my family. Also, as some other reviews have said, the amount of butter listed in the recipe made them absolutely swimming in grease. So, if you love melted butter and super syrupy sweetness, make them as the recipe states. Otherwise, I would suggest cutting the caramel down to just 1/4 of the jar, half the amount of butter, and add some pumpkin pie spice for flavor, as well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kinnelon Mom"
+},
+"reviewBody": "This is a great recipe, I was surprised at negative reviews regarding instructions, you do have to start with cooked potatoes, but you do for almost all recipes like this. You can use canned or fresh, and sweet potatoes or yams have not seemed to have an impact on recipe. I cook mine in 400 degree oven, just rub a little oil first over skin of Potato, cook for just about an hour. They will be soft inside when you squeeze them. Let them cool a bit, 30 minutes or so, and the remove skin and rough chop, then follow the instructions. Marshmallows cook quick so keep eye on them or just put under broiler for a couple minutes. Wonderful recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Karisma"
+},
+"reviewBody": "Okay, this recipe has potential it is divine but it needs MAJOR re-writing. First off, get a bigger dish 9x9 doesnt even have to be square.Use cooked yams or canned yams (drained) and increase the 4 cups to about 6 or 7. Mash them...not chop. Leave out the butter (unless greasing the sides of your dish to keep the marshmallows from sticking. Double the amount of marshmallows and Broil them under a guarded eye for a heavenly browning. Do this and the dish will be the best thing you ever tasted. If not then you will get a big bowl of uncooked potatoes swimming in grease."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This was actually a very good recipe. I had to cook my sweet potatoes for 2 1/2 hrs before they were soft enough to eat but it was worth the wait per my husband and kids. We all loved the flavor the caramel gave to the dish along with the melted marshmellows. I did sprinkle 2 tbls more brown sugar on top and periodically stirred the potates during the cooking time to make sure the caramel sauce was evenly coated. This is a KEEPER!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "estelle"
+},
+"reviewBody": "This was actually a very good recipe. I had to cook my sweet potatoes for 2 1/2 hrs before they were soft enough to eat but it was worth the wait per my husband and kids. We all loved the flavor the caramel gave to the dish along with the melted marshmellows. I did sprinkle 2 tbls more brown sugar on top and periodically stirred the potates during the cooking time to make sure the caramel sauce was evenly coated. This is a KEEPER!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "mayolewis"
+},
+"reviewBody": "Always wanted to make candied yams...this was really easy and delicious...I got a little shy about using so much caramel..thought it would be too sweet...turned out very good and buttery...!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CMDKQB"
+},
+"reviewBody": "Excellent! Very rich and rewarding. However, along from the other reviewers suggestions, I must stress DO NOT USE BUTTER. You will wind up pouring it off, its not needed at all except to butter the dish. Also, a tip, if you travel with this dish, dont add the marshamllows until you get to your destination and throw it into the oven to warm it up. I baked mine in the morning and let the dish completely cool before traveling and the marshmallows still melted, so we didnt have a yummy gooey topping for mine. Dont do them until RIGHT before serving."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MKL92"
+},
+"reviewBody": "Super easy, tasty, and a wonderful side dish to your holiday meals!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Erin"
+},
+"reviewBody": "They were very good when I followed other people's comments!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Your Mom o' Fun"
+},
+"reviewBody": "This is the best yam recipe ever!!! I used canned yams, so there was no problem with undercooking them. I believe I used all the butter, but you don't really need to, it would be fine with less or none at all. I made these to take to Thanksgiving dinner last year, and have been asked to make them again this year. (High praise- this was for my in-laws, they are a tough crowd.) I did one pan with marshmallows, and one without. I like them better without. I used the thick caramel dip for apples (Marzetti's or something like that?) and it was easy and heavenly. I made more for myself afterwards and ate them like dessert. Thanks you for these yams o' goodness! One of my favorite recipes ever."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Connie"
+},
+"reviewBody": "Perfect! Exactly what I was looking to make!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Shannon"
+},
+"reviewBody": "When I found this recipe on here I was really excited because I love caramel and I knew this would be wonderful. I made this recipe last year and everyone loved it. I am making them again this year, but this time I am going to try mashing them. Not sure which is best, but I suppose it's just a matter of preference. I will not ever use another recipe for sweet potatoes or yams ever again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Candice Isaacson"
+},
+"reviewBody": "Fantastic! I used canned yams and mashed them and also added toatsed pecans. They were perfection!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Katy Blythe"
+},
+"reviewBody": "I used canned yams and only half the butter. My family loved them and asked that I always make this for Thanksgiving dinner."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chris Raseta"
+},
+"reviewBody": "This was so easy to make. I had 14 people for Thanksgiving, everyone from adults to children just loved it. I would however suggest the following changes. I fully cook fresh yams and then mash them adding the rest of the indredients and briefly putting them under the broiler until the marshmellows are lightly browned. I will make this on every holiday thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "kari"
+},
+"reviewBody": "Overall, very good. It was a little soupy though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "These instructions seriously stink. I have never used allrecipes.com before, so I didn't know to check the review before making them. I used fresh yams instead of canned. I think this is a pretty important element to include in the instructions."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "LBENNEY"
+},
+"reviewBody": "Way to sweet"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Debbie D"
+},
+"reviewBody": "These are the best, absolutely yummy, the only yams I have found that I like. I doubled the recipe and people were fighting to lick the dish. Next time, I will quadruple the recipe and hope I can get seconds."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "luv2cook4familyof6"
+},
+"reviewBody": "my kids dislike yums but loved this recipe..****"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "BABALICIOUSB"
+},
+"reviewBody": "Very good - I have made this recipe 3 times, and each time there seems to be a bit much 'sauce' but still super tasty and easy! My fiance who has never cooked more than a grilled cheese sandwich has actually made this all by himself."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LORRIEC13"
+},
+"reviewBody": "I made these for my husband on Thanksgiving. He loved them. I used the canned yams instead of fresh, and this dish was ready in a snap--which is really great for those of us stuck in the kitchen on Thanksgiving day. ;)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I give these four stars for taste and one for the directions. Having never made candied yams before, I didn't know what is apparently obvious to the pro-this recipe calls for CANNED sweet potatoes. I naively chopped fresh sweet potatoes and THREE HOURS (not 30 minutes) later, they were delicious! Please, avoid my frustration. If you are not a yam-making pro, remember, either cook the potatoes first, or use canned."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gina Carbonaro Millett"
+},
+"reviewBody": "Rave reviews from the sweet potato eaters at Thanksgiving. Definitely drain canned potatoes. I used half the caramel &amp; only @ 3T butter! Thanks for the recipe Sara!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I had never ever made sweet potatoes before, even yams for that matter. This recipe was perfect for my first Christmas with my boyfriend...now my fiance!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ALINESZY"
+},
+"reviewBody": "I love this recipe. It is super easy and fast."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "VALERETTE"
+},
+"reviewBody": "I'm giving this rating for how it tasted after I made a few changes. The recipe doesn't specify whether the yams should be cooked or not; mine weren't and were still hard after 45 minutes of cooking. So I would recommend precooking. I also felt that the recipe had WAY too much butter, so I poured alot of it off as well. But after cooking what I had left in the microwave until the potatoes were soft, I mashed them with the butter and caramel sauce left in the pan, put marshmellows on top and cooked them in the oven for the last 10 minutes. They were delicious!!! The best candied yams I've ever made--they disappeared very quickly."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Chrystal"
+},
+"reviewBody": "I made this last year with canned yams, and ended up with way too much liquid for my pan. Maybe I didn't drain the yams, who knows. Still good, will try again sometime!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This dish was the hit of Thanksgiving dinner. Everyone wants this recipe. There was nothing left for leftovers. Thanks for sharing"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Juliana"
+},
+"reviewBody": "This recipe was very easy and VERY good. Thank you Sara for sharing it with all of us."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Too messy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Excellent and easy. With veggies like this, who needs dessert? Works fine with canned yams, too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This is delicious. I use Marzetti's Caramel Apple Dip for the topping and the rest the same. Everyone had at least seconds on my first try. Used fresh yams but am sure canned would be good too. I don't even like yams but love this."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tara Besares"
+},
+"reviewBody": "I made this using canned yams (i drained the syrup from them first) and it still turned out wonderful... and even faster to cook!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I loved this recipe!! The flavor of the sweet potatoes and the caramel was excellent."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/23130/easy-candy-yams/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/927/side-dish/vegetables/sweet-potatoes/",
+"name": "Sweet Potatoes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16951/side-dish/vegetables/sweet-potatoes/sweet-potatoes-with-marshmallows/",
+"name": "Sweet Potatoes With Marshmallow Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/23130/easy-candy-yams/",
+"name": "Easy Candy Yams"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,887 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Taco Slaw"
+,"datePublished": "2017-06-22T09:02:18.000-04:00"
+,"dateModified": "2022-11-15T16:38:14.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "mixingmedias"
+,"url": "https://www.allrecipes.com/cook/4766599"
+}
+]
+,"description": "This easy slaw for tacos brings something extra to a dish. Mexican-inspired cabbage is the perfect topping for grilled fish, chicken tacos, and more."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/lME19JVrspm9aiD9c0VfTiX1GoY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5397998-a6e8cd8fea164fe4a2936f99afcf38c8.jpg",
+"height": 844,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Taco Slaw"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "75"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "27 kcal"
+,"carbohydrateContent": "7 g"
+,"fiberContent": "2 g"
+,"proteinContent": "1 g"
+,"sodiumContent": "19 mg"
+,"sugarContent": "3 g"
+,"fatContent": "0 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"0.5 small head cabbage, chopped",
+"1 carrot, chopped",
+"1 jalapeno pepper, seeded and minced",
+"0.5 red onion, minced",
+"1 tablespoon chopped fresh cilantro",
+"1 lime, juiced" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Mix together cabbage, carrot, jalapeño pepper, red onion, cilantro, and lime juice in a bowl."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT20M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "craig jones"
+},
+"reviewBody": "very good on tacos , or by itself will make again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carolyn"
+},
+"reviewBody": "This was a great slaw, which I served along with grilled fish and homemade fries. Switching from mayo based salads is a big deal, and this salad is fresh, crunchy, flavorful. I did not have a jalapeño, so used chopped pickled jalapeños instead. It was also great on day 2."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Farmer's Wife"
+},
+"reviewBody": "Just what I was looking for - flavorful crunch to add to our chicken fajitas!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sheila"
+},
+"reviewBody": "I added extra shredded carrot and some avocado dressing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipesfan"
+},
+"reviewBody": "So good, give it some time to marinade in the lime juice, enhances it...YUM!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Miltymann"
+},
+"reviewBody": "Perfect as written! Thanks."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda Johnson"
+},
+"reviewBody": "Excellent recipe just as it is written. Love it??"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anna H."
+},
+"reviewBody": "Delicious, added some salt. Next time may add a little sugar substitute."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sushi"
+},
+"reviewBody": "Loved it exactly as written. I sauted the last serving and it made an excellent hot side dish too"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amy Keating"
+},
+"reviewBody": "Makes everything better and is so simple. I buy the already chopped slaw with carrots in the produce section, and the whole thing comes together in 5 minutes!\nGreat on tacos or bbq chicken sandwiches or just straight up!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jerseywine"
+},
+"reviewBody": "Fresh and light! Made this for our fish tacos. YUM! Only change I did was I bought the cole slaw mix at the store which had cabbage, red cabbage and carrot already shredded. Gave the tacos a nice light and crunchy texture. Jalapeno gave it a nice kick which we loved."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "MaryJaneHarrison"
+},
+"reviewBody": "Felt it needed just a little more \"oomph\", though it was fine as is. I think it is a matter of taste. I added garlic and a little more lime juice. Perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Paige"
+},
+"reviewBody": "Yum - No Cilantro for me though"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "gragers"
+},
+"reviewBody": "It needed something else. Not much flavor"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bstodg"
+},
+"reviewBody": "This was a huge hit with my family! Made exactly as written and the leftovers didn't even last 24 hours. We're even making again this weekend."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "myk"
+},
+"reviewBody": "I made this with what I had in the fridge so there were a few adjustments: red cabbage &amp; vidalia onion. I kind of did the measurements to what I thought it should look like. Honestly, the recipe gave me just enough direction. The right amount of heat with some crunch (IG: @whatsferdinner)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Mardrissa"
+},
+"reviewBody": "Needs more seasoning. We added salt and pepper and upped the amount of lemon juice, was still very bland."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "SZYQ1"
+},
+"reviewBody": "Made as written and this was OK. Can't put my finger on it, but something is missing. Since I have leftovers of this slaw, I'm hoping as it sits longer it will be better today."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Maggie"
+},
+"reviewBody": "I made this recipe as written, and had chicken tacos with leftover rotisserie chicken and soft corn shells that I fried just a little. Topped the slaw with Bolthouse Farms cilantro avocado dressing, and they were the bomb. Better than any restaurant tacos. Also great with grilled fish tacos."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "PPK"
+},
+"reviewBody": "Ok as is. Used with the Tuna Lime Tostadas &amp; even put on top of the tostadas which was good also. We'll make again but use little less lime juice &amp; equal parts of sour cream &amp; chili sauce. The sour cream &amp; chili sauce is a recipe we found in an old Joy of Cooking cookbook. I think this will help a lot."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "James"
+},
+"reviewBody": "Tasty and necessary for any self respecting fish taco"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Susan Gleason"
+},
+"reviewBody": "This is a tasty slaw. I made it last night to accompany roasted cauliflower tacos -- perfect side dish for that. I like the simplicity and freshness of the flavors (onion, jalapeno, lime, cilantro). I added salt, and I think next time I'll add a little cumin too. I added some red cabbage, for more color. Seems like it could become an easy go-to at our house."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Judy Jordan"
+},
+"reviewBody": "good, followed recipe, family liked it. I thought it was good, but felt it was missing something, may tweak it next time!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "JohnnyLove"
+},
+"reviewBody": "both thumbs up!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "DotDot"
+},
+"reviewBody": "added some cole slaw dressing to make a little more creamy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "lutzflcat"
+},
+"reviewBody": "5.15.18 Enjoyed today with quesadillas and charro beans. Bright, fresh flavor, the perfect dish for any Mexican-themed meal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carrie"
+},
+"reviewBody": "I made this receipe as written and loved it so did my husband. only thing I did different was buy the coleslaw mixture already shredded. we ate this on ground beef tacos and will be using this over lettuce from here on out."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Delicious!!!! I didn't change a thing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "yo_gwhatup"
+},
+"reviewBody": "Delicious!!!! I didn't change a thing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chef Mo"
+},
+"reviewBody": "So simple and yet so good! Light and refreshing. It took my fish tacos to another level. Thanks"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Davis"
+},
+"reviewBody": "I loved how fresh this tasted and the fact there was no mayo or vinegar!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LD83"
+},
+"reviewBody": "I made tacos for dinner tonight but realized that i forgot to buy lettuce too late in the day to run to the store. I knew i had cabbage on hand, so i just searched for a recipe for a Mexican-inspired slaw and i found this gem. Excellent flavor &amp; better than lettuce by far! I will forego lettuce by choice in the future &amp; use this slaw recipe to top my tacos, it's a great idea!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amber Shults"
+},
+"reviewBody": "This is an excellent slaw for our favorite fish tacos. Also deliscious with tortilla chips"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jeff Cummings"
+},
+"reviewBody": "Very good. I thought the slaw itself was a bit sour but it turned out fine with the saltiness of the shrimp and with a little crema drizzled over it. I will definitely make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Skyview"
+},
+"reviewBody": "Excellent! I added chicken to the recipe for a main course and my husband loved it. Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mariapedretti"
+},
+"reviewBody": "You wouldn't think something so simple would have such great flavor but it does! I added this as a topping to brisket tacos and it was perfect- everyone raved about the slaw"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "David"
+},
+"reviewBody": "Have made alternative slaws like this for years. My favorite version is to add as many veg(bell pep, celery....)as you care to. Add a little more flavor with fresh garlic,sugar, and Siracha instead of the jalapeno. I like to add a small amount of mayo to give it a little creaminess. Good job guys!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle Rosenthal"
+},
+"reviewBody": "Really good and easy to make!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Cynthia Tejeda McKeever"
+},
+"reviewBody": "This dish was refreshing and super easy to make. I did not change a thing. We ate it both ways: as a side dish and in the chicken tacos. I will def make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennydiver"
+},
+"reviewBody": "I made this with the slow cooker pork recipe and I had to make this 3 times in one day since my family loves it so much and every time I turned around, it was gone! I know now to scale the recipe to make more. I made this as written and then made it with about a teaspoon of honey, which I recommend."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Roser"
+},
+"reviewBody": "Delish!! We use a half pkg of coleslaw mix in place of the cabbage and carrots in the recipe, and increase the cilantro to about 1/4 cup, and use 2-3 T bottled lime juice instead of fresh. We make soft-floured burritos by putting the slaw on top of Dee's Roast Pork for Tacos (on this sight) and Green Chili Rice (will have to submit the recipe). Love it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Christa Sheehan"
+},
+"reviewBody": "Not bad. We liked it will be doing it again. Next time we will be adding chicken!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "STOLZS"
+},
+"reviewBody": "Delicious and healthy. Great on shrimp and chicken tacos. Next time I will just us the coleslaw cabbage mix and add lime onion and jalapeneo"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hank"
+},
+"reviewBody": "this is so unbeliavable you will never be able to eat fish tacos out again...............THANK YOU"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rebecca G"
+},
+"reviewBody": "YUM! Definite bite, and a great addition to grilled Mahi Mahi tacos, and cilantro serrano lime sauce (also from Allrecipes). Great on wraps and on tacos. This will become a staple mexican food item at our house!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carey Stolz Gavaert"
+},
+"reviewBody": "LOVED this! So easy and very tasty. It is addicting...I ate it with chips and couldn't stop!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "amb520"
+},
+"reviewBody": "Fast, easy and tasty. I made it to go with fish tacos and was quite pleased how it turned out.\n\n I sliced everything (except the pepper) thin in the food processor and used a Serrano pepper because I prefer the flavour."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Isabelle Brooks"
+},
+"reviewBody": "I've made this several times to go on fish tacos and it's very good. I've also added a touch of sugar and white vinegar to the lime juice and also added chopped tomatoes. There's alot you can do with this recipe. My husband will eat this alone, but for me that's a bit much."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "nadiajc"
+},
+"reviewBody": "Loved it. Refreshing and crunchy on chicken tacos."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Molly"
+},
+"reviewBody": "Great topping for Mexican food. Someone of \"the buzz\" was talking about slaw for Mexican food. I had never heard of such a thing. Well I looked and found this recipe. It is so good and I will probably make it every time I make Mexican food. This would also be good on hot dogs, smoked sausage, hamburgers and sloppy joes. I bought a package of pre-cut slaw and it had the carrots already included, but I added the rest of the ingredients. This was a wonderful topping for \"Mexican Beef Supreme\" on AR. The leftovers were a bit spicier the next day, due to the jalapeños, but it was still wonderful. Thanks mixingmedia for sharing this recipe. This is my 400th recipe made and posted in the year 2011. Happy New Year's eveyone!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ROBERTL6"
+},
+"reviewBody": "loved it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carol J Wilson"
+},
+"reviewBody": "Perfect just as is, don't change a thing. I'm glad to find this recipe because our favorite Mexican restaurant serves it with tortilla chips. I make this often and everyone raves about it. One thing to point out; it is NOT spicy hot. If you'd rather have it that way just add more jalapenos. But try the recipe as is first."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mrscrazyed"
+},
+"reviewBody": "I've made this several times and have yet to have it as a slaw on tacos. I halve this recipe, add 1/2 small avocado if on hand, and have it for lunch. It's good with or without the avocado. Even DH likes it, which is saying a lot. Eventually I'll try it on tacos. This is definitely a keeper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "GINGERLY88"
+},
+"reviewBody": "I love this..we eat it all the time now instead of lettuce on our tacos :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "PMtz19"
+},
+"reviewBody": "Let me just start off by saying that it drives me crazy when people rate a recipe but completely change it. If you're rating a recipe, rate it as it was written. With that being said, I give this recipe 5 stars as written. I'm on a diet and so tired of eating plain veggies, so I was looking for something different to do with cabbage and found this recipe. I ate it more like a salad than a topping, but it was so very tasty. Finally, something I can eat guilt free. Thank you for sharing mixingmedias."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "amandak23k"
+},
+"reviewBody": "I made this as a side dish to mexican lasagna II from this site, so I added a little oil and white vinegar so it wouldn't be too dry (you wouldn't need it if you were topping tacos with it) I didn't have carrot or red onion so I used red and green pepper along with green onion and I didn't have cilantro. Nice and spicy, gets spicier the longer it sets in the fridge."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah Jo"
+},
+"reviewBody": "This was a great base recipe for what I needed for a Take-Out Fake-Out Mexican Dinner. I tossed this with my own \"Fiesta For Your Greens\" dressing and we used this to make mission burritoes. Great way to get your taco take out fix without spending a ton on takeout. NOTE: Because I used my own dressing, I cut back a bit on the lime juice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Foodie Family"
+},
+"reviewBody": "loved it on my fish taco and pork taco, added tomatoe . yum"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "glendalee"
+},
+"reviewBody": "This is simliar to a recipe I use but double the ingredients and add 1 cup of day old cooked rice and a small jar of taco sauce. Yours is great as is so I am giving it 5 stars."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/215030/taco-slaw/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/218/salad/coleslaw/",
+"name": "Coleslaw Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16684/salad/coleslaw/no-mayo/",
+"name": "No Mayo"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/215030/taco-slaw/",
+"name": "Taco Slaw"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

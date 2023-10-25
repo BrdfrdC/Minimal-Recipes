@@ -1,0 +1,1423 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Mushroom Risotto"
+,"datePublished": "2000-02-29T14:48:55.000-05:00"
+,"dateModified": "2022-07-14T17:50:08.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Sarah Franklin"
+,"url": "https://www.allrecipes.com/cook/15900"
+}
+]
+,"description": "Delicious mushroom risotto made with vegetable broth, cream, and a variety of fresh vegetables. Serve as a side dish or filling main course."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/s1OOEIG8zigFnr3xFdvSLlfnCTU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1397542-aa179008e07c46aea54962ce35a0e2f6.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Mushroom Risotto"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "407"
+}
+,"cookTime": "PT35M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "439 kcal"
+,"carbohydrateContent": "49 g"
+,"cholesterolContent": "50 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "17 g"
+,"saturatedFatContent": "10 g"
+,"sodiumContent": "768 mg"
+,"sugarContent": "7 g"
+,"fatContent": "20 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 tablespoon olive oil",
+"3 small onions, finely chopped",
+"1 clove garlic, crushed",
+"1 teaspoon minced fresh parsley",
+"1 teaspoon minced celery",
+"salt and pepper to taste",
+"1.5 cups sliced fresh mushrooms",
+"1 cup whole milk",
+"0.25 cup heavy cream",
+"1 cup rice",
+"5 cups vegetable stock",
+"1 teaspoon butter",
+"1 cup grated Parmesan cheese" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat olive oil in a large skillet over medium-high heat. Saute the onion and garlic in the olive oil until onion is tender and garlic is lightly browned. Remove garlic, and stir in the parsley, celery, salt, and pepper. Cook until celery is tender, then add the mushrooms. Reduce heat to low, and continue cooking until the mushrooms are soft."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour the milk and cream into the skillet, and stir in the rice. Heat to a simmer. Stir the vegetable stock into the rice one cup at a time, until it is absorbed."
+} ,{
+"@type": "HowToStep"
+,"text": "When the rice has finished cooking, stir in the butter and Parmesan cheese, and remove from heat. Serve hot."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT45M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Mary Hennessey"
+},
+"reviewBody": "The art of risotto is to let it simmer and reduce for a long time. I followed this recipe exactly, with the exception of subbing 1% milk for whole and chicken stock for veggie stock. By no means was the rice ready by the given - and short - cooking time. I let it slow simmer for a couple of hours, adding the broth over time. Taste testing at given cook time, the rice was chewy and the flavor was bland. Taste testing after two hours, the rice was soft and creamy and the flavor was rich and robust. Risotto takes time. This recipe works if you give it time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "fiona"
+},
+"reviewBody": "This was so, so tasty, ,I also added chicken or my fussy teens won't eat it, also added parmasan rind when adding milk,homemade chicken stock and small cut broccolini,will keep this up the top of my recipes,winner,winner."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kevin Lynn Huyler"
+},
+"reviewBody": "DELICIOUS. \nDefinitely do not need 5 cups of broth, 3 cups are enough. Be sure to use Carnaroli or Arborio. You can also cut back on the cheese if you like. I didn't."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cathy W"
+},
+"reviewBody": "This recipe is delish"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amelie Guerra"
+},
+"reviewBody": "Loved it! Takes time, but turns out delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "RicRocket591"
+},
+"reviewBody": "Great recipe! Make sure to use Arborio rice....only way to make real risotto."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chris Eastman"
+},
+"reviewBody": "So easy and SOOOO good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kristine"
+},
+"reviewBody": "Used a little over half of the broth. It was perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rick P."
+},
+"reviewBody": "Great rice side dish! I made a number of changes based on what I had in the house. I used chicken stock and canned mushrooms. Next time I'll probably use at least partly rehydrated porcini mushrooms, but I was in a time crunch today. I didn't have any celery, and only dried parsley, but I don't think that made a big difference. I used the recommended cream, but with lactose free milk. I like this because it came out really creamy without needing the arborio rice that \"real\" risotto requires. It only took 4 cups of stock, and for the last cup I covered the pan to be sure that the rice finished cooking instead of just boiling off the liquid. All in all a successful recipe that is easy to modify for what you might have in the house."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "nicolehh"
+},
+"reviewBody": "I really liked it! I used 1 medium onion rather than 3 small ones, and upped the celery just a tiny bit since it seemed like an odd amount. In the end, I only needed about 3-3.5 c stock (I used chicken). It was delicious and definitely more than 4 servings, so there are leftovers, which was fine with me."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Holly"
+},
+"reviewBody": "The basic recipe was a great start. But...of course I changed it. I used basmati rice as suggested by another cook. I only used 3 cups of broth and only had 2% milk so I used \n1 1\\4 c milk. I added spinach at the end. I put 2 chicken breasts in a casserole dish, put the rice on top and baked it until all was hot. ( my Chicken breasts were pre cooked).\nCame out sooooo yummy.."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sharon"
+},
+"reviewBody": "This was excellent. I used crimini mushrooms and added a half pound of chicken. We felt it could use additional mushrooms. Next time I may try to combine the crimini and button mushrooms."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dora J Mose"
+},
+"reviewBody": "When I look for a vegan recipe it has to be total plant based, no dairy of any kind. If anything comes from an animal I can't eat it. (Medical and allergy reasons) So, any and all recipes are picked apart right down to the least detail. So swap out the cream for canned coconut milk undiluted, swap the grated cheese for vegan style grated cheese and it made up to a nice creamy main dish for me! I'll share my \"grated cheese\" recipe if you wish..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "luv2cook"
+},
+"reviewBody": "Didn't have vegetable broth so I used chicken broth. Wonderful flavor! It looks as if the celery was used as an herb, so I used the center leafy part, minced. I also added a bit of fresh rosemary because I had it. One note: it took a bit longer to cook the rice through than I expected. It's not very risotto-like to cover it and allow it to steam, but that's what I would recommend to ensure you don't end up with half-cooked rice. I also added some fresh baby spinach leaves near the end (just to fake myself out into thinking I was eating veggies)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Crostam"
+},
+"reviewBody": "Delicious! I would hold off on the salt next time as the vegetable bullion I used is fairly salty. I also only used about 3 cups but found it to be perfect at that point. Will definitely make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Alieta Drake"
+},
+"reviewBody": "This will make a fairly tasty mushroomy-rice dish, but it is not a real risotto."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nyla_Ryn"
+},
+"reviewBody": "YUM"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michael"
+},
+"reviewBody": "Followed the recipe exactly, and this turned out amazingly! Everyone went back for more!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JJP__Foods__"
+},
+"reviewBody": "Simply just perfect"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Still Sasha"
+},
+"reviewBody": "This turned out phenomenal!! I used just regular sticky rice No Celery No parsley just mushrooms onion and garlic. I used chicken stock 1 box was enough and probably used about 3 cups of rice. If you notice it’s super souppy add more rice I also just used regular shredded Parmesan cheese. I will be making this again !!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "charleneschuenemann"
+},
+"reviewBody": "First time making Risotto ever. I was a little confused about the broth but after reading the reviews I knew to wait longer between adding the broth a cup at a time and adjusted my temperature a little. I added more mushrooms, carrots and asparagus (at the end, I covered it and added the carrots and asparagus). Turned out amazing! only used 3 cups broth and stirred stirred stirred. I will make again. I will add a few more spices to our taste, leave out the celery (didn't need it I thought) but easy peasy and loved it! Didn't have the parm, only had 2% milk but did have heavy cream, but it was still creamy and rich."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "First time making Risotto ever. I was a little confused about the broth but after reading the reviews I knew to wait longer between adding the broth a cup at a time and adjusted my temperature a little. I added more mushrooms, carrots and asparagus (at the end, I covered it and added the carrots and asparagus). Turned out amazing! only used 3 cups broth and stirred stirred stirred. I will make again. I will add a few more spices to our taste, leave out the celery (didn't need it I thought) but easy peasy and loved it! Didn't have the parm, only had 2% milk but did have heavy cream, but it was still creamy and rich."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Makayla Greger Sejkora"
+},
+"reviewBody": "So yummy and fairly easy to make! It did take almost 2 hours though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gregg Gruber"
+},
+"reviewBody": "Decided last minute to make this and it was easier then I thought and was delicious, it only took 45 minutes from start to finish"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Paul Rivera"
+},
+"reviewBody": "Got a lot of good reviews"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Mariette Ferreira"
+},
+"reviewBody": "Absolutely delicious.\nI love this even though it's not truly italian, yes, it contains milk but it's amazing.\nIf you want to add wine, try a nice pinot noir or a nice oaky chardonnay it compliments the nice earthy taste of the mushrooms.\nThe timing was very off though. For the rice to absorb all that fluid took almost an hour. It was worth it though. Creamy, mushroom-y and delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LBI215"
+},
+"reviewBody": "This was delicious! I made it with regular rice and it was amazing. Used Pecorino Romano instead of Parmesan cheese."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SusanP"
+},
+"reviewBody": "Yes I will make this again! It was awesome and so easy. I also substituted non fat half and half and you wouldn’t know!! Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "John Scime"
+},
+"reviewBody": "I made this and followed the recipe exactly. I had never made risotto before, I should have read reviews first I think 5 cups of broth is too much however after reading reviews you stop when rice is done. Looks like 2 to 3 cups is all you need. Mine turned out a little mushy however it still was delicious it got all eaten up"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ignazio Eterno"
+},
+"reviewBody": "Awesome recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Cindy P."
+},
+"reviewBody": "I added some Worcestershire sauce to give it more flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Janelle McIntyre"
+},
+"reviewBody": "This is my go-to website for anything I want to cook. They’ve never steered me wrong.\n\nAnd now they have done even better. This is my favorite recipe that I have come across so far. It’s delicious!\n\nI did use 2% milk instead of whole milk, though.\n\nI will be making this often"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Richard"
+},
+"reviewBody": "Excellent"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "cowgirll"
+},
+"reviewBody": "If you've never made risotto before, this is probably not the best recipe to start with. But if you're familiar with the mechanics of making risotto (Arborio rice, hot stock, constant stirring, etc.), it's not bad. I liked this much more than my hubby did, and there are other risotto recipes on this site that we've both liked, so I probably won't make this one again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Oguz Kanca"
+},
+"reviewBody": "That was the first risotto I cooked and it was delicious. Thanks a lot for the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer Halstead"
+},
+"reviewBody": "This recipe is the good - with a few modifications. The one instruction that cracks me up is \"Saute the onion and garlic in the olive oil until onion is tender and garlic is lightly browned. Remove garlic, and stir... \" Remove the garlic? Really. I don't do that. \n\nMy modifications are:\n- Don't remove the garlic\n- 1.5 cups of rice\n- Double the mushrooms\n- 3 cups of stock. I prefer chicken stock\n- NO celery... it dominates too much\n- After the rice has cooked down to about 90% of desired amount I top with parmesan and stick in the oven at 350 for 10 minutes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Safiya Shirazi"
+},
+"reviewBody": "I wound up making a lot of changes. I added wine (1c, before any other liquid) and I feel like if I hadn't, this recipe would have been kind of bland. The milk and cream weren't readily absorbed by the rice, which made this dish pretty soupy. The recipe also calls for a lot more broth than I needed, but that's kind of subjective so better safe than sorry. \n\nAll in all, I'm probably always going to like a dish that has mushrooms in, but this could have been stronger."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "pmsabo"
+},
+"reviewBody": "I made the for the 1st time tonight. It was delicious and the hubby loved it!. I added an extra clove of garlic and used chicken broth as I didn't have vegetable broth. I followed the directions using one cup of broth at a time. I only used 4 cups instead of the 5 in the recipe as I was afraid it wouldn't all absorb. I will make this again as a main dish. I know what I will be having for lunch tomorrow! Simple ingredients for a fabulous flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Yancando"
+},
+"reviewBody": "It was good, but as with any risotto, my shoulder hurts from constantly stirring for 30 minutes. Rice is somewhat gummy in texture. I don't know if that means I over cooked it. My fear was that I would have hard partially cooked pieces, and that is not the case. I doubt that I will fix it again due to the intensity of labor. But I am glad I tried it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brinly"
+},
+"reviewBody": "Made it exactly as directed. It was delicious and everyone at the dinner party enjoyed it. I've made it twice now and anticipate making it in the future. A good neutral dish for any potluck also!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "julee"
+},
+"reviewBody": "I read several comments about changes people had made. The only change I made was the type of rice I used- Arborio. It was creamy and delicious. It was THE hit of Easter dinner!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sdt555"
+},
+"reviewBody": "This will go into the rotation of my dishes!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jasmine "
+},
+"reviewBody": "I think this is beyond delicious. I used regular long grain rice and left out the celery and pepper since I don't like those things. I ended up using 6 cups of broth and it took 2 hours and 15 minutes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jasmine Couillard"
+},
+"reviewBody": "I think this is beyond delicious. I used regular long grain rice and left out the celery and pepper since I don't like those things. I ended up using 6 cups of broth and it took 2 hours and 15 minutes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "JoshHaylee"
+},
+"reviewBody": "Added 2 green chillis and a little more stock"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Melanie Stefiuk"
+},
+"reviewBody": "The majority of the ingredients are good (like the mushrooms and celery, onions, etc) but why would you remove the garlic? Just mince it and cook it with the onions. Risotto (made with Arborio rice) by sheer definition is creamy; it doesn't need milk or cream to make it great. I used unsalted chicken broth (preference). I also added the parsley at the end with the butter so it kept it's colour and used about 1/4 cup of parsley rather than a teaspoon. With these modifications, it was SUPER tasty!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jame Easteppe"
+},
+"reviewBody": "Loved this recipe after using a 50/50 mix of broth and white wine. Really great flavor!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Monica Menchaca"
+},
+"reviewBody": "Easy to make and simply delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kayla"
+},
+"reviewBody": "I just made this recipe for the first time. the difference that i did was i used 1.5 cups of rice. italian cheese(i put a bit too much cheese on top) and i used only 2 cups of vegetable broth. i also covered the dish to help it thicken. i reccomend using 2% milk and half n half creamer like some people suggested this is thick n creamy and loaded with calories. i used minced garlic instead of cloves, diced onions, and i left our parsley and celery (because i dont like either) it serves a lot!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "kookyukie"
+},
+"reviewBody": "Nice flavor. I too omitted celery because I had none, but added celery seed and rosemary. Not sure why folks struggled with Time required for cooking. Used basmati rice and done in an hour, including prep. Tyvm!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MiniMoo"
+},
+"reviewBody": "Have made this several times. Thank you for reviewers calling to use Arborio rice. I didn't use cream and it turned out great. Very hearty dish to be enjoyed on its own, with salad and cheese, or as a side."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Belb"
+},
+"reviewBody": "I just used 1% milk and this still turned out yummy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Maria Pressley"
+},
+"reviewBody": "Made this for a dinner party and again for my husband and myself. Was delicious both times. I used Tuscan infused olive oil and Tuscany broth - only 4 cups though. It was a hit."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joseph Smith Jr"
+},
+"reviewBody": "When I suggested this to my wife, she was like \"We, mushrooms.\" When it was done cooking, she couldn't stop picking at it. Nice and creamy dish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JennyHH"
+},
+"reviewBody": "Delicious! I skipped the celery and used 2% milk and chicken broth! So good!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Vero"
+},
+"reviewBody": "I used soya milk with subtle sweet taste instead of milk and cream, and added chopped carrots and it tasted greatt (to me)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gwen J"
+},
+"reviewBody": "This was delicious. It will now be a family favouite"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "heather"
+},
+"reviewBody": "Absolutely delicious. I used regular rice. I made 2 cups of rice. I omitted the celery and used 2 cups of half and half and 1/2 cup of slim milk and used chicken broth instead of begetable and used only one cup of parmesean cheese and omitted the butter. Wow. It was amazing Restauran quality. I will definitely make it again and again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rex Hutcheson"
+},
+"reviewBody": "I made this without the parsley or celery and used white rather than arborio rice and it still turned out well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Simon Rolfe"
+},
+"reviewBody": "Made this twice now and first time used extra milk and no cream. Second time used cream both times it was Resturant quality. Thank you so much x"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Steph"
+},
+"reviewBody": "Made this tonight as a side dish. I did a few alterations though, I learned to sauté the risotto rice before adding any liquids. So after I sautéd the veggie part (which I will use more parsley next time to season), I added the rice and after I \"crisped\" that for a moment, I added the HOT broth. As many others I did not use any milk to the recipe, but added a tablespoon of heavy cream, although it was quiet creamy already. I also suggest adding a bit of white wine for flavor if available."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "crystal"
+},
+"reviewBody": "a little salty. i wont add any salt next time"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joanna Jamil"
+},
+"reviewBody": "This was a BIG hit with my family. Instead of the milk &amp; cream combo I used fat free half &amp; half. I went by something I saw on Martha Stewart a few years ago and sauteed the arborio rice first, then started adding the broth a little at a time while continuously stirring. I added the half &amp; half towards the end. Served it with fontina cheese and a few roasted red pepper slices on top."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Debbie"
+},
+"reviewBody": "I have cooked this a few times and the family love it. I don't add cream but do add the milk. Wine is added if available. Different mushrooms and lots of them chopped small with onions work well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lisa"
+},
+"reviewBody": "Absolutely delicious though I made the following changes based on other comments: 1 medium onion instead of 3 small, substituted and extra 1/4 cup milk for the heavy cream, 2 cups of veggie broth instead of 5, 3-4 cups mushrooms instead of just 1 1/2 cups, and 1/3 cup parsley instead of a measly teaspoon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle"
+},
+"reviewBody": "Absolutely delicious! I used cooked white rice, 2% milk and only 2 cups of the vegetable stock. Restaurant-quality meal!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Country Girl"
+},
+"reviewBody": "This was delicious! My husband and kids loved it! Will make this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kelly Silver Burnett"
+},
+"reviewBody": "I love this recipe! So flavorful and delicious. That being said, am I the only one who thinks 3 onions, even small ones, sounds like A LOT of onion for a recipe that is supposed to only serve 4 people? I like onions as much as the next person, but that seems really excessive. When I make this recipe I switch the onion and garlic quantities; so 3 cloves garlic and one onion. I also replace both the milk and the cream with fat free half and half. The recipe doesn't state what type of rice to use, so I generally use brown. I have used the generic take-forever-to-cook brown rice and it works fine, but I have found 2 pouches of Trader Joe's frozen brown rice works great and cooks so much faster. Which is great because, well, sometimes a girl is just too hungry to wait!\nP.S. It's a good idea to wait until all the vegetable stock is in before you add the salt!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tom Calcara"
+},
+"reviewBody": "Cooking this right now. A co-worker and I do a food swap every couple weeks. He makes puerto rican and spanish foods and I make him italian. This week was rice so I'm making him this. He has a mushroom allergy so I just replaced them with carrots. Haven't made risotto in years and this recipe was very good! :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michel"
+},
+"reviewBody": "Easy and so good. I used Chicken broth, half and half (didn't have heavy cream). I also didn't have Parmesan anymore, so i used a mix of kraft dinner cheese. Sound silly, but it was Terrific:-)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Alicia"
+},
+"reviewBody": "Really good. Next time I will add less cheese. The parm seemed a bit over powering. Overall delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Chris Weir"
+},
+"reviewBody": "I have made this twice, first time \"to the letter,\" second time with some alterations. Though as-is it is very good, the second go-round I halved the onions, eliminated the heavy cream and used chicken broth - only because I didn't know I was out of veggie when the process began. Though not a monumental difference,the 2nd effort was better. It was a little bit lighter (though no less creamy), the chicken broth added more flavor, and the onions were more on par with my preference. I hate when onion overpowers the dish. All in all a great recipe and one I shall return to to tweak yet again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "mbsagan"
+},
+"reviewBody": "I made this recipe to the exact detail and I loved it but it was so rich I could only eat a little at a time. I would recommend using half and half instead of heay cream and 2% or even skim milk for the whole milk. I also used 1/2 parm and 1/2 romano cheese and it was delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ja"
+},
+"reviewBody": "Kept the same basics but as follows : no garlic, 1/2 teaspoon of celery seeds and parsley added fresh at the end.The mushrooms I used were dry sliced Asian ones I had re-hydrated in hot water for 1 night and they cooked with the rice. Also I used broth and no milk, only a little bit of cream at the end. Very good risotto but I would recommand to be light on the Parmesan cheese who can be overpowering."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "reneejkim"
+},
+"reviewBody": "Yum!! Arborio rice, melted butter instead of olive oil, didn't have garlic or parsley or celery (hate celery), used skim milk and no cream! Also used a mixture of vegetable broth and chicken broth. Loved!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Elenita"
+},
+"reviewBody": "Made this for romantic Valentine's dinner. It was my first time making risotto and it was absolutely superb. Used skim milk and 5%, instead of the higher fat options above. Turned out perfect! My boyfriend loved it. Keeping this in my arsenal as a sure ire showstopper when I entertain. Try it, you will not regret it. I used some oyster mushrooms along with plain white sliced ones I had in the fridge. I now understand that with risotto, you really have to \" keep your eye on it and keep stirring\", for the duration of cooking. \r\nCoupled it with halibut steaks and sautéed kale and grilled peppers. Thank you for this delicious recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "day"
+},
+"reviewBody": "Took alot longer to get rice to cook, would definately recommend covering during the cooking process. Did not have the taste that I was expecting, did not have the rich creaminess that you'd expect with a risotto. Not worth the time it took to cook."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dave"
+},
+"reviewBody": "We made the 6 portions recipe, it askes for 7.5 cups of broth, but we only used 5 cups and we think it would've been better with just 4 cups for a more hearty texture. It probably depends on the type of rice used. We used the rice shown in the previous entry"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer Lomax Wu"
+},
+"reviewBody": "Not a spoonful of this hot number was left! I used Aborio rice and used greater amount of celery and mushrooms to add volume. I don't usually have whole milk so I substitued fat free milk and reduced it by 1/4 cup and increased the heavy cream by 1/4 cup. Next time, I want to experiment with different varieties of mushrooms and some other spices as well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kelley James Magestro"
+},
+"reviewBody": "This is a delicious dish, whether it's authentic or not. I've made this recipe several times - a couple of times exactly as the recipe says and several times with variations, and it's always a hit with my family and company. That's why I like this particular recipe so much, it's easy to play around with if you don't have all the ingredients the recipe calls for - I've made it without the mushrooms, several times by using chicken broth instead of vegetable broth, one time with evaporated milk (yes, don't gasp foodies!), with 2% milk and no cream, many times using only a quarter cup of the Parmesan, and sometimes with no Parmesan cheese at all...and all varieties were very good and received compliments. My husband did say he preferred this dish with less than half of the Parmesan or none at all. I had to agree - using the full cup made it a bit overpowering to our taste. \nI do think works best to prepare it in a heavy-bottomed, good quality skillet, as I noticed that when I used a lightweight skillet it took quite a bit longer for the risotto to cook."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JerBare"
+},
+"reviewBody": "awesome! any rice will do."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "yesaire"
+},
+"reviewBody": "Absolutely delicious!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "luv2cook"
+},
+"reviewBody": "This recipe was horrible. I would never make it again. Ever."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lv2plyglfgal"
+},
+"reviewBody": "My first attempt at Risotto, I always heard it was hard. I too only used fat free milk and no cream and it was plenty creamy enough. I forgot fresh parsley and used dry and it was fine. I omitted celery and did not feel it was missing anything the mushroom taste really came through. I will be adding this to one of my all time favorite sides. Even my non eating mushroom son thought it was tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stacey Frost Walters"
+},
+"reviewBody": "My favorite risotto recipe. I’ve left the celery out before and subbed chicken broth, and it turned out great. I add minced garlic from the jar, so I don’t remove the garlic per the directions. It’s good to toast the risotto in the pan a little before adding the liquid, and use the widest pan you have (I use a paella pan)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lori60"
+},
+"reviewBody": "I so enjoy risotto rice, and you must use the arborio rice to give it a good flavor. I wonder why though why people change the reciepe? It's great just the way it is. this is a great recipe and does not need to be changed."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "lst45"
+},
+"reviewBody": "This recipe is magnificent! tasted it the whole way through, the flavors were perfect, the missing star is because the Parmesan at the end kind of ruined the flavor, deadened it if you will. Next time I will leave off the cheese, it is unnecessary!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "kwatson242"
+},
+"reviewBody": "The taste is all there, and I like that it starts with milk because it seems creamier than most risotto recipes I have used. I am giving it 4 stars out of 5 because it calls for about a cup more liquid than it needs. Not perfect but very tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sdavis"
+},
+"reviewBody": "First time making it and really enjoyed it. I only used 3 cups of chicken stock."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle Amarante"
+},
+"reviewBody": "I loved this recipe! Very rich and creamy and I will definitely make it again. Very generous servings for a family of four. We had this as a main dish with a salad on the side."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "tlcbrew"
+},
+"reviewBody": "Very tasty...and deliciously creamy. I used chicken broth instead of vegetable stock, and minced garlic in place of whole. I think I could have got by with less milk or cream, so I will perhaps try that next time. Overall, a nice tasting side dish served with yummy steak today!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "tracy norton"
+},
+"reviewBody": "Strongly recommend dropping the celery and doing a shallot instead of onion. I also do not add the mushrooms until there is only a few ladles of broth left."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "allison2714"
+},
+"reviewBody": "NOTE: This was my first risotto, so maybe my rating should be dismissed. :-)\nI felt this was kind of a lot of work for an \"okay\" dish. I really like mushrooms, but I was disappointed in the flavor. Also, it made a TON--we were eating it for days!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Barb Banbury"
+},
+"reviewBody": "Authentic or not, this was amazing. I did add some mushroom flour from morells we picked (maybe a T or so) and also a dash of nutmeg. I only needed about 4 C of broth for a double recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Josette Grima"
+},
+"reviewBody": "This is a very good risotto! All the family loved it. I made it more filling meal by adding cubed cooked chicken."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "food_luver123"
+},
+"reviewBody": "Amazing!! Everyone went back for seconds, and my brother kept going back to the pan with a clean spoon..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "huskerfan"
+},
+"reviewBody": "This was the first time I have ever made risotto. I might use a little less cheese next time and more mushrooms. Other than that it was really good. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "stannius"
+},
+"reviewBody": "My family agreed they would eat it again. They guess. Success I guess? I added chicken to make it into a main dish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DaisySoup"
+},
+"reviewBody": "This is a delicious recipe! I didn't have any cream on hand so I just added more milk and it was still marvelous!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/17323/mushroom-risotto/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17743/main-dish/rice/",
+"name": "Rice"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/14362/main-dish/rice/risotto/",
+"name": "Risotto Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/17323/mushroom-risotto/",
+"name": "Mushroom Risotto"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

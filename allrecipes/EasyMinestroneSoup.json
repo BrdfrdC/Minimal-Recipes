@@ -1,0 +1,190 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Easy Minestrone Soup"
+,"datePublished": "2020-03-09T22:53:38.000-04:00"
+,"dateModified": "2022-01-07T13:58:50.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Bibi"
+,"url": "https://www.allrecipes.com/cook/bibi"
+}
+]
+,"description": "Using leftover marinara sauce is a smart shortcut in this easy minestrone soup packed with beans and veggies."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Vo6OSVGOX-sHN0-fSw95E-j6b7Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5920696-1dbdee8f42f5439aba13da9b4eefd570.jpg",
+"height": 1420,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Easy Minestrone Soup"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "6"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "365 kcal"
+,"carbohydrateContent": "64 g"
+,"cholesterolContent": "3 mg"
+,"fiberContent": "10 g"
+,"proteinContent": "15 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "789 mg"
+,"sugarContent": "14 g"
+,"fatContent": "7 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT25M"
+,"recipeIngredient": [
+"1 tablespoon extra-virgin olive oil",
+"1 cup diced celery",
+"1 cup sliced carrots",
+"0.66666668653488 cup diced onion",
+"3 cloves garlic, minced",
+"4 cups vegetable broth",
+"1.75 cups jarred marinara sauce",
+"0.25 cup tomato paste",
+"1 teaspoon Italian seasoning",
+"2 cups small shell pasta",
+"2 cups quartered and sliced zucchini",
+"1 (14.5 ounce) can great northern beans, rinsed and drained",
+"1 cup stemmed and thinly sliced kale",
+"salt and ground black pepper to taste",
+"2 tablespoons grated Parmesan cheese, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat olive oil in a large pot or Dutch oven over medium-high heat until shimmering. Add celery, carrots, and onion. Cook, stirring frequently, until onion begins to turn translucent, about 4 minutes. Add garlic and stir until fragrant, about 30 seconds."
+} ,{
+"@type": "HowToStep"
+,"text": "Add vegetable broth, marinara sauce, tomato paste, and Italian seasoning. Stir to combine. Bring to a boil. Reduce heat to medium-low and simmer, uncovered, until carrots are soft, about 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Add pasta and zucchini. Cook until pasta is tender, about 10 minutes. Stir in beans, kale, salt, and pepper. Remove from heat and allow soup to cool slightly. Spoon into individual bowls and garnish with Parmesan cheese."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT55M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "stevewillis7779gmailcom"
+},
+"reviewBody": "This recipe, and all recipes should indicate the serving size. It is not sufficient to just tell us how many servings it will make. Have made it twice. Had to add extra 3 cups of veggie broth both this to make it a soup, rather than just pasta with veggies."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cm614"
+},
+"reviewBody": "Sooo good! I used Barilla spinach and cheese tortellini instead of the pasta, simply because I already had it on the shelf, but otherwise I followed the recipe exactly. It made enough for my husband and I for dinner, with enough leftover to freeze for another meal. We both loved it, and I will definitely be making this a lot this winter!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anne L"
+},
+"reviewBody": "oh my goodness, this soup is so flavorful! I substituted fresh spinach--2 handfuls--for the kale. Next time will make with fresh garden herbs, but it was so good even with store-bought dried Italian seasoning. Yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SunnyDaysNora"
+},
+"reviewBody": "Thanks Bibi, this was great! So versatile, too. I added potatoes but this would be good with any number of veggies- corn, green beans, whatever. I did add some extra spices but that speaks more to the jar of marinara than the recipe! I did end up adding 2 extra cups of broth to make up for the broth absorbed by the pasta but that was the only significant change I made. The family loved it!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/268510/easy-minestrone-soup/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/14734/soups-stews-and-chili/soup/vegetable-soup/squash-soup/",
+"name": "Squash Soup Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16159/soups-stews-and-chili/soup/vegetable-soup/squash-soup/zucchini-soup/",
+"name": "Zucchini Soup Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/268510/easy-minestrone-soup/",
+"name": "Easy Minestrone Soup"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

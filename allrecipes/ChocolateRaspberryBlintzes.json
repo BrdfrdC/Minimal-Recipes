@@ -1,0 +1,167 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Chocolate Raspberry Blintzes"
+,"datePublished": "2020-06-19T00:21:10.000-04:00"
+,"dateModified": "2020-06-19T00:21:10.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Tyni"
+,"url": "https://www.allrecipes.com/cook/1562756"
+}
+]
+,"description": "Slices of white bread replace pancakes in this quick and easy recipe for blintzes stuffed with berry cream cheese and Nutella® spread."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/a9Q-y-mFcct4ltZYq_sDcPhoMDo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6400939-cc4f57aaa6884606a19ab1d1b37703ff.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Chocolate Raspberry Blintzes"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "2"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "573 kcal"
+,"carbohydrateContent": "68 g"
+,"cholesterolContent": "75 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "8 g"
+,"saturatedFatContent": "16 g"
+,"sodiumContent": "619 mg"
+,"sugarContent": "38 g"
+,"fatContent": "31 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT25M"
+,"recipeIngredient": [
+"1 (8 ounce) package cream cheese, softened",
+"0.33333334326744 (13 ounce) jar chocolate-hazelnut spread (such as Nutella®)",
+"0.5 (8 ounce) package mixed berry cream cheese, softened",
+"1 tablespoon milk",
+"2 teaspoons vanilla extract",
+"0.5 cup butter, melted",
+"1 cup white sugar",
+"2 tablespoons ground cinnamon",
+"1 loaf sliced white bread, crusts removed" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat oven to 350 degrees F (175 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix cream cheese, chocolate-hazelnut spread, berry cream cheese, milk, and vanilla extract together in a bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour melted butter into a shallow bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine sugar and cinnamon in a separate shallow bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Flatten bread slices out on a work surface. Spread cream cheese mixture over each slice. Roll up each slice. Dip rolls in melted butter; coat with cinnamon sugar. Arrange seam-side down in a baking dish."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until lightly golden, 15 to 20 minutes."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT40M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ayylmel"
+},
+"reviewBody": "Instead of using any chocolate or mixed berry, I put fresh fruit. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "lutzflcat"
+},
+"reviewBody": "2.23.19 Not sure why the recipe has raspberry in the title because if you’re looking for a raspberry flavor, don’t think you’ll find it in the filling. The “mixed berry” cream cheese has strawberries and blackberries in addition to raspberries. The filling is flavorful, but chocolate dominates over the fruity cream cheese. And that’s not necessarily a bad thing. Would suggest you brush on your butter because the rolls just soak it up when you dip, and you most likely won’t have enough to coat all the rolls. Also, if I make these again, I’ll bump up the temperature to 375-400ºF, as it took so long for these to brown up that the filling started to ooze out. IMO a blintz is more like a crepe, and this reminds me of the French Toast Roll-Ups on this site, so we used warm maple syrup for dipping rather than sour cream. Don’t mean to sound negative as this recipe’s first reviewer or discourage somebody from trying it. There were no breakfast leftovers today, but I think a little tweaking is necessary."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/257970/chocolate-raspberry-blintzes/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/78/breakfast-and-brunch/",
+"name": "Breakfast and Brunch"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/147/breakfast-and-brunch/crepes/",
+"name": "Crepes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/257970/chocolate-raspberry-blintzes/",
+"name": "Chocolate Raspberry Blintzes"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

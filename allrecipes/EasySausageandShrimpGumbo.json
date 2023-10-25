@@ -1,0 +1,446 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Easy Sausage and Shrimp Gumbo"
+,"datePublished": "2018-06-13T09:03:02.000-04:00"
+,"dateModified": "2018-06-13T09:03:02.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Papa Jay"
+,"url": "https://www.allrecipes.com/cook/2017396"
+}
+]
+,"description": "Sausage and shrimp gumbo is a nice twist on the classic Cajun stew traditionally served over rice and is perfect for cold evening meals."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/fFq35SBMj6SPw32ar_JPy_9UsDQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6717016-63c2bdb491754d7ea86db14c1238972d.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Easy Sausage and Shrimp Gumbo"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "29"
+}
+,"cookTime": "PT72M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "568 kcal"
+,"carbohydrateContent": "19 g"
+,"cholesterolContent": "122 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "21 g"
+,"saturatedFatContent": "8 g"
+,"sodiumContent": "1070 mg"
+,"sugarContent": "3 g"
+,"fatContent": "45 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1 cup canola oil",
+"1 cup all-purpose flour",
+"1 onion, diced",
+"1 green bell pepper, diced",
+"3 stalks celery, diced",
+"1 pound andouille sausage, chopped",
+"2 tablespoons Cajun seasoning",
+"2 cloves garlic, chopped",
+"1 teaspoon freshly ground black pepper",
+"6 cups low-sodium chicken stock",
+"1 pound peeled and deveined small shrimp" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Cook and stir oil and flour in a skillet over medium heat until mixture is thick and the color of peanut butter, about 20 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir onion, green bell pepper, and celery into flour mixture; cook and stir until softened, about 5 minutes. Add sausage; cook and stir until browned, about 5 minutes. Add Cajun seasoning, garlic, and black pepper; cook and stir until fragrant, about 2 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour chicken stock over vegetable-sausage mixture; reduce heat to low and simmer for 30 minutes. Add shrimp and cook until shrimp are pink and cooked through, about 10 minutes."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT92M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dsoldsmobilehotmailcom"
+},
+"reviewBody": "So very easy and tasty. Tweeked a little bit with creole seasoning, Frank's hot sauce and a little chili powder. Served over rice. Everyone loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ccarder"
+},
+"reviewBody": "GREAT TASTING AND EASY !"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jenn Kajiwara"
+},
+"reviewBody": "This was yummy! I've never made gumbo before but saw this recipe and decided to give it a try. Definitely lives up to its name as being easy to make! I added some diced tomatoes, okra, and used louisiana hot link sausages for a little bit more spice. Will be making this again :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "zzvpbxphfb"
+},
+"reviewBody": "Way, way too much oil. UGh! It’s like drinking grease. Please please modify this recipe to be healthier and tastier. Also, too much black pepper. Should include rice or something else or substance. It was just meat and shrimp swimming in oily soup base, basically. Sorry."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Daniel Nilssen"
+},
+"reviewBody": "Absolutely delicious. A lot of prep and I used carrots instead of okra but over all great"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ann"
+},
+"reviewBody": "This was an easy recipe to follow I added chicken to the recipe and substituted 3 cups of water for the six cups of stock. Because I did not buy enough chicken stock. It still turned out well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Elaine Deltoro"
+},
+"reviewBody": "I personally didn't measure out the Cajun Seasoning, I just let my heart be my guide, so of course mine was heavier on the spice because that's how I like it. It was delicious! I'm having trouble uploading a photo, but it came out just like the picture. I highly recommend this recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "zonker17"
+},
+"reviewBody": "Used avocado oil instead of canola, 4 garlic cloves, and 2 lbs shrimp. My wife could not stop taking samples during the simmer. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bob"
+},
+"reviewBody": "Made a 1/2 recipe with 1 can of diced tomatoes as wel as 2 tablespoons salted butter. It turned out excellent. Will definitely make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Curtis"
+},
+"reviewBody": "Made it like the recipe except I added a little bacon. \nI will definitely make it again. Easy and taste great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Springtrap179"
+},
+"reviewBody": "As a learning curve my dad asked me to make a dish by myself. So the first dish that came to mind was gumbo. so I was searching online for an easy recipe and came across this. And for the first time cooking something myself it tasted really good! if ya want some more spice. After you have finished plating it, a couple of drops of tobasco improved the taste. (if you can handle the heat that is)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Holly Fernandez"
+},
+"reviewBody": "great recipe but I added a can of tomatoes, peppers, onion and instead of celery I added red cabbage and it was amazing sooo good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jeanne Ciuffo"
+},
+"reviewBody": "Wonderful"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jo Ann Sinclair"
+},
+"reviewBody": "Followed recipe to a tee. Added pickled okra when shrimp went in, only change ....delish..j"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hudson's Mama"
+},
+"reviewBody": "I don't write a lot of reviews but I had to for this one. I was looking for an easy gumbo recipe after my 8-year-old loved the gumbo at a Bubba Gump restaurant. (Who'd have thought?) I had never made gumbo before and some of the recipes just look so laborious. This took a little time but was so worth it! Everyone loved it! The only change was I added a can of diced tomatoes and I used half a cup of canola oil and half a cup of butter for the roux, just because I think roux should have butter in it and I can't help myself. \n\nThe Cajun seasoning I had was Tony Chachere's Original Creole seasoning and I only used one tablespoon of it because I didn't want it too spicy and people could add more after if they wanted it hotter. I served it with Jasmine rice and garlic bread. Really happy with this one!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mashby"
+},
+"reviewBody": "It was easy but of course I had to change the recipe. This recipe didn't call for okra so I added that in with the vegetables. I had fresh in my kitchen. Trying to make it friendly for my son to eat I added pre-cooked, cut up, chicken thighs in addition to shrimp and sausage. I took the advice of folks and used Old Bay seasoning so I didn't have to buy one more bottle of seasoning then added a can of diced tomatoes with jalapenos. Well my husband loved it! My son not so much cause that small can of tomatoes had just enough spice to turn him off. A do-over for sure."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sheri"
+},
+"reviewBody": "Loved this. It was easy to make and my husband said it was delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kira"
+},
+"reviewBody": "It was very good.. my husband loved it!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "legoiago"
+},
+"reviewBody": "I used my own Cajun seasoning mix, since I didn’t have one. I think that it would work best, if it didn’t have so much spices. The flavor of the shrimp was very good. Highly recommended for any seafood fans."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Gooch Sapp"
+},
+"reviewBody": "This is not what I had in mind for a good Gumbo, I ended up with a large pan of shrimp, sausage and veges in a pan of gravy. The flavors were good but, it was like eating gravy with meat and veges."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Annette Moton"
+},
+"reviewBody": "I made this today! It was great. I did alter a few things. I added more flour and less oil plus one half stick of land o lakes butter (salted) I made my own broth using chicken bullion cubes and water. I didn't have any any Cajun seasoning, so I used old bay seasoning with a little sea salt and added a bit of ground thyme. I also added mixed vegetables in place of okra cause I didn't have okra at home. My roux was my desired consistency of thickness."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Denise"
+},
+"reviewBody": "I have never made a roux with oil before, but it works. Guest went for 3rds. Great reciepe as is."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Andrew Reid"
+},
+"reviewBody": "It was great. Easy to make. This was the first actual intensive meal I have ever made. I took the advice of the other reviewer and added a diced tomato. I also added a few mushrooms and jalapeno peppers since I had them laying around. Thanks for the recipe. If shrimp wasn't so expensive I would make this more often. It cost roughly 20 bucks to make the entire batch. Love it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Yoly"
+},
+"reviewBody": "From the beginning I noticed that the recipe did not call for tomatoes. I followed the recipe and at the end it was more like a thick gravy. I then added a can of diced tomatoes. This made it taste more like gumbo and less like shrimp and sausage in a roux/gravy."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/256344/easy-sausage-and-shrimp-gumbo/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/183/soups-stews-and-chili/stews/",
+"name": "Stews"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1426/soups-stews-and-chili/stews/gumbo/",
+"name": "Gumbo Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/256344/easy-sausage-and-shrimp-gumbo/",
+"name": "Easy Sausage and Shrimp Gumbo"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

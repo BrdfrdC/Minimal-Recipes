@@ -1,0 +1,149 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Buffalo Chicken Dip with Sour Cream"
+,"datePublished": "2011-02-04T10:39:38.000-05:00"
+,"dateModified": "2023-03-16T16:33:58.199-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "carin"
+,"url": "https://www.allrecipes.com/cook/3358037"
+}
+]
+,"description": "If you find you&#39;re without cream cheese, try this delicious baked Buffalo chicken dip made with sour cream, ranch dressing, hot sauce, and Cheddar cheese."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/9AkREj5tZdmCbs6lRoOOvMvSFRk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/282490-buffalo-chicken-dip-with-sour-cream-Soup-Loving-Nicole-4x3-1-97d13ea3d5d34722a695e12875e7181b.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Buffalo Chicken Dip with Sour Cream"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4",
+"ratingCount": "1"
+}
+,"cookTime": "PT40M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "271 kcal"
+,"carbohydrateContent": "3 g"
+,"cholesterolContent": "44 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "9 g"
+,"saturatedFatContent": "8 g"
+,"sodiumContent": "641 mg"
+,"sugarContent": "1 g"
+,"fatContent": "25 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+, "recipeCategory": ["Appetizer","Snack"]
+,"recipeCuisine": ["American"]
+,"recipeIngredient": [
+"2 (5 ounce) skinless, boneless chicken breast halves",
+"1.5 cups ranch dressing",
+"1 cup sour cream",
+"0.5 cup hot sauce",
+"1.5 cups shredded Cheddar cheese, divided" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Bring a large pot of water to a boil. Add chicken, cover, and reduce heat to medium. Simmer until chicken is no longer pink in the center and juices run clear, about 10 minutes. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C). Remove chicken and shred when cool enough to handle."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine ranch dressing and sour cream in a saucepan over low heat. Stir and heat until warm, about 5 minutes. Stir in hot sauce and 1/2 cup Cheddar cheese, followed by shredded chicken."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer to an 8-inch round baking dish and top with remaining Cheddar cheese. Place in the refrigerator to cool for 1 to 2 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove dip from the refrigerator and bake in the preheated oven until cheese is bubbly, 20 to 30 minutes. Let cool slightly before serving."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT110M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Soup Loving Nicole"
+},
+"reviewBody": "Made as written and this turned out pretty good. It was a little too sour tasting for me and I would have preferred some cream cheese. Husband however liked this better than the version made with cream cheese so 4 stars it is. The ranch dressing was also a nice touch."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/282490/buffalo-chicken-dip-with-sour-cream/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/105/appetizers-and-snacks/dips-and-spreads/",
+"name": "Dips and Spreads Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17660/appetizers-and-snacks/dips-and-spreads/buffalo-chicken-dip/",
+"name": "Buffalo Chicken Dip Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/282490/buffalo-chicken-dip-with-sour-cream/",
+"name": "Buffalo Chicken Dip with Sour Cream"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

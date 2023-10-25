@@ -1,0 +1,165 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Vegetarian Borscht"
+,"datePublished": "2019-04-04T00:10:57.000-04:00"
+,"dateModified": "2019-04-04T00:10:57.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Allrecipes Member"
+,"url": "https://www.allrecipes.com/author/the-allrecipes-community/"
+}
+]
+,"description": "This vegetarian borscht recipe is a rustic, hearty Eastern European classic dish originating from Ukraine with beets, potatoes, and lentils."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Q0AdUsVqFnCNT_JcGIrGYbwuW7o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4971683-94d7b2d97a1945d493dc8b7438cfb5d2.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Vegetarian Borscht"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "3"
+}
+,"cookTime": "PT60M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "264 kcal"
+,"carbohydrateContent": "44 g"
+,"cholesterolContent": "2 mg"
+,"fiberContent": "13 g"
+,"proteinContent": "10 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "135 mg"
+,"sugarContent": "7 g"
+,"fatContent": "6 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"2 small beets, peeled and coarsely grated",
+"3 tablespoons vinegar",
+"2 tablespoons vegetable oil, or as needed",
+"1 onion, chopped",
+"2 carrot, coarsely grated",
+"8 cups water",
+"0.25 medium head cabbage, shredded",
+"0.75 cup dry yellow lentils",
+"3 medium potatoes, peeled and diced",
+"salt and pepper to taste",
+"2 tablespoons tomato paste",
+"2 tablespoons sour cream, or more to taste",
+"2 tablespoons chopped fresh dill" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine beets and vinegar in a small frying pan over low heat. Cook, while stirring, until soft, about 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat oil in a large frying pan over low heat while beets are cooking. Add onion and stir for 2 minutes. Add carrots and cook, stirring occasionally, until soft, about 10 minutes. Set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Bring water to a simmer in a large saucepan. Add cabbage and lentils; cook for 10 minutes. Add potatoes and cook for 10 minutes more. Stir in cooked beets and onion-carrot mixture. Season with salt and pepper."
+} ,{
+"@type": "HowToStep"
+,"text": "Add tomato paste and simmer until all vegetables are tender, about 10 minutes more. Serve with sour cream and dill."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT75M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Terry Ridgway"
+},
+"reviewBody": "Had no cabbage, so used the beet greens. Used half veggie broth and half water. \n\nDelicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Oksana"
+},
+"reviewBody": "I like to boil beets first separately. And start with frying carrot and onion then pour water, always."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/262176/vegetarian-borscht/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/184/soups-stews-and-chili/soup/vegetable-soup/",
+"name": "Vegetable Soup Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/14768/soups-stews-and-chili/soup/vegetable-soup/borscht/",
+"name": "Borscht"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/262176/vegetarian-borscht/",
+"name": "Vegetarian Borscht"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

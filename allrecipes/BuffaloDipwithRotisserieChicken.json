@@ -1,0 +1,125 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Buffalo Dip with Rotisserie Chicken"
+,"datePublished": "2020-12-21T18:57:34.000-05:00"
+,"dateModified": "2020-12-21T18:57:34.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Bibi"
+,"url": "https://www.allrecipes.com/cook/bibi"
+}
+]
+,"description": "Enjoy all the great flavors of Buffalo wings without the bones in this oven-baked dip made with leftover rotisserie chicken, ranch dressing, and Cheddar cheese."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/-Ruju4rrVF4oQt7kq7WzLXK5sB4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8867387-b5a90df06d444647ad7ad9095b26b847.jpg",
+"height": 999,
+"width": 999
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Buffalo Dip with Rotisserie Chicken"
+,"cookTime": "PT25M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "126 kcal"
+,"carbohydrateContent": "1 g"
+,"cholesterolContent": "34 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "8 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "331 mg"
+,"sugarContent": "0 g"
+,"fatContent": "10 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"cooking spray",
+"1.5 cups shredded skinless rotisserie chicken breast",
+"0.5 (8 ounce) package cream cheese, cut into chunks",
+"0.5 teaspoon cayenne pepper",
+"0.33333334326744 cup ranch dressing",
+"0.33333334326744 cup Buffalo-style hot pepper sauce (such as Frank's® Red Hot®)",
+"3 ounces shredded Cheddar cheese",
+"2 tablespoons crumbled blue cheese, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C). Grease a 3-cup oven-proof serving dish with cooking spray."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine shredded chicken, cream cheese, and cayenne in a 10-inch nonstick skillet over medium heat. Stir until cream cheese has melted, 2 to 3 minutes. Stir in ranch dressing, remove from heat, and pour into the prepared dish. Spread Buffalo sauce evenly over top and sprinkle with Cheddar."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until dip is warmed through and cheese is melted, about 20 minutes. Remove from the oven and sprinkle with blue cheese. Serve warm."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT40M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/282783/buffalo-dip-with-rotisserie-chicken/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/105/appetizers-and-snacks/dips-and-spreads/",
+"name": "Dips and Spreads Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17660/appetizers-and-snacks/dips-and-spreads/buffalo-chicken-dip/",
+"name": "Buffalo Chicken Dip Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/282783/buffalo-dip-with-rotisserie-chicken/",
+"name": "Buffalo Dip with Rotisserie Chicken"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

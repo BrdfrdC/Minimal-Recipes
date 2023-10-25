@@ -1,0 +1,231 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Homemade Blackberry Lemonade"
+,"datePublished": "2020-06-12T06:41:15.000-04:00"
+,"dateModified": "2022-06-20T05:33:42.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Soup Loving Nicole"
+,"url": "https://www.allrecipes.com/cook/souplovingnicole"
+}
+]
+,"description": "This light and refreshing lemonade is easy to make from scratch and gets a beautiful flavor and color boost from blackberries."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/7Iuwxx4QlKoZ3htfJsFWTEsSxKE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8217568-39561529d3d943aaa7b03f6233eef431.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Homemade Blackberry Lemonade"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "9"
+}
+,"cookTime": "PT2M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "200 kcal"
+,"carbohydrateContent": "53 g"
+,"fiberContent": "2 g"
+,"proteinContent": "1 g"
+,"sodiumContent": "16 mg"
+,"sugarContent": "47 g"
+,"fatContent": "0 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"0.75 cup white sugar",
+"4.5 cups water, divided",
+"1 cup blackberries",
+"2 tablespoons white sugar",
+"1 cup freshly squeezed lemon juice",
+"ice cubes" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat 3/4 cup sugar and 1/2 cup water in a small saucepan over medium heat. Cook and stir until sugar has dissolved, about 2 minutes. Let cool."
+} ,{
+"@type": "HowToStep"
+,"text": "Place blackberries and remaining 2 tablespoons of sugar in a blender. Blend until smooth."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine simple syrup, blended blackberries, remaining 4 cups of water, and lemon juice. Place a fine-mesh sieve over a pitcher and pour lemonade into the pitcher; discard solids. Serve over ice."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT7M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Salsa Baby"
+},
+"reviewBody": "Great summer beverage. I made the original recipe; later I was too lazy to make simple syrup and squeeze lemons, so the next two times I made it, I mixed with organic bottled lemonade. The first iteration I used 1 T of sugar instead of 2 and it was a tad sweet for my taste. The second time I did not add any sugar, just poured the bottled lemonade through the pulp. It was just right!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "marvellambkin"
+},
+"reviewBody": "I made the recipe but added some lime juice to the lemon juice. It was very good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kim"
+},
+"reviewBody": "Delicious and easy to make! Drank it all while making blackberry jam!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Emily Doss"
+},
+"reviewBody": "I and my family loved it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "manella"
+},
+"reviewBody": "Made as directed, delicious and refreshing.\nWill make again.\nThank you for the recipe.\nJune/2020"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KAYLEE CRAWFORD"
+},
+"reviewBody": "\"This Blackberry Lemonade is so good and I wish I had found this earlier!\""
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Badila Ecommerce Inc"
+},
+"reviewBody": "I will make it again. This gave me ideas"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Angelina"
+},
+"reviewBody": "VERY DELICIOUS, but waaay too many calories &amp; carbs per serving. Personally, I'd rather eat my calories, rather than drink them."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/280577/homemade-blackberry-lemonade/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/77/drinks/",
+"name": "Drinks Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/2817/drinks/lemonade/",
+"name": "Lemonade Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/280577/homemade-blackberry-lemonade/",
+"name": "Homemade Blackberry Lemonade"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

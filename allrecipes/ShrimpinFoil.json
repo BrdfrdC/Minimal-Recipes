@@ -1,0 +1,174 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Shrimp in Foil"
+,"datePublished": "2018-06-16T18:06:29.000-04:00"
+,"dateModified": "2022-12-20T14:05:49.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "barbara"
+,"url": "https://www.allrecipes.com/cook/3031597"
+}
+]
+,"description": "Learn how to grill shrimp in a foil packet with this delicious, mess-free recipe that features a flavorful olive oil, garlic, and parsley marinade."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/moXYee7hYmQ7lIx8Yoc742BddWo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5493511-695e179ff4534955b45d9cb42243deb9.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Shrimp in Foil"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "4"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "343 kcal"
+,"carbohydrateContent": "6 g"
+,"cholesterolContent": "173 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "20 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "248 mg"
+,"sugarContent": "0 g"
+,"fatContent": "28 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 cup chopped fresh parsley",
+"0.5 cup olive oil",
+"2 cloves garlic, minced",
+"1 pinch red pepper flakes, or to taste",
+"salt and freshly ground black pepper to taste",
+"1 pound uncooked medium shrimp, peeled and deveined",
+"1 sheet heavy-duty aluminum foil",
+"1 lemon, juiced",
+"0.5 lemon, sliced into wedges" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine parsley, olive oil, garlic, red pepper flakes, salt, and black pepper in a large bowl. Add shrimp and mix well. Allow to marinate for 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, preheat an outdoor grill for high heat."
+} ,{
+"@type": "HowToStep"
+,"text": "Lay 1 sheet heavy-duty aluminum foil on a flat surface; fold in half. Fold up edges to create a pouch in the middle. Spread marinated shrimp in the pouch and drizzle with lemon juice. Lightly close to make a packet."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook packet on the preheated grill until shrimp are bright pink on the outside and the meat is opaque, 8 to 10 minutes. Serve with lemon wedges."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT30M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dayle Keogler-lynt"
+},
+"reviewBody": "Outstanding. I would add a tad more crushed red peppers if you like it a bit more spicy. But very delicious per the instructions."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chef Boy R Drew"
+},
+"reviewBody": "Yummy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Soup Loving Nicole"
+},
+"reviewBody": "Simple and great! I do think there was too much oil so I will reduce it by half next time."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/265558/shrimp-in-foil/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/412/seafood/shellfish/",
+"name": "Shellfish"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/430/seafood/shellfish/shrimp/",
+"name": "Shrimp"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/265558/shrimp-in-foil/",
+"name": "Shrimp in Foil"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

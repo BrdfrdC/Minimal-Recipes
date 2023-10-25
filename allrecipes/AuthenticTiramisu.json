@@ -1,0 +1,813 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Authentic Tiramisu"
+,"datePublished": "2009-11-12T20:34:36.000-05:00"
+,"dateModified": "2009-11-12T20:34:36.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Kim's Cooking Now"
+,"url": "https://www.allrecipes.com/cook/kimscookingnow"
+}
+]
+,"description": "This recipe for authentic tiramisu includes all the key components of the favorite Italian dessert: ladyfingers soaked in espresso, mascarpone cheese, and cocoa powder."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/J6oHAoMl-e5FifNatD6ibS1tJs4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Authentic-tiramisu-by-Renee-Paj-3416470_original-c312ad679e254f8da85767bf61061984.jpg",
+"height": 960,
+"width": 960
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=5569400197001",
+"description": "The classic Italian “pick me up!”",
+"duration": "PT1M3S",
+"name": "Authentic Tiramisu",
+"thumbnailUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/90b53879-2a83-4f44-90e8-008b224f3054/23eeb527-224a-4434-8d65-3f91bec22df3/1280x720/match/image.jpg",
+"uploadDate": "2021-07-07T11:58:51.371-04:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Authentic Tiramisu"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "62"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "324 kcal"
+,"carbohydrateContent": "26 g"
+,"cholesterolContent": "155 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "8 g"
+,"saturatedFatContent": "11 g"
+,"sodiumContent": "84 mg"
+,"sugarContent": "9 g"
+,"fatContent": "22 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"3 large eggs, separated, divided",
+"0.5 cup white sugar",
+"2 tablespoons brandy",
+"2 cups brewed espresso, cooled, divided",
+"2 (8 ounce) packages mascarpone cheese",
+"1 pinch white sugar",
+"30 ladyfingers (such as Savoiardi®)",
+"3 tablespoons unsweetened cocoa powder" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Beat together egg yolks, 1/2 cup sugar, brandy, and 1 tablespoon espresso in a bowl with an electric mixer until smooth, 2 to 3 minutes. Add mascarpone cheese; beat until well blended, 3 to 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Beat egg whites and a pinch of sugar in a separate, clean bowl with an electric mixer until stiff peaks form. Gently fold egg whites into mascarpone mixture; set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour remaining espresso into a shallow dish. Dip 1 side of each ladyfinger into espresso and arrange on a serving platter in 2 horizontal rows of 6 and 2 1/2 ladyfingers in opposite directions on both ends to form a rectangular shape."
+} ,{
+"@type": "HowToStep"
+,"text": "Spread 1/2 of the mascarpone mixture onto ladyfingers and dust with 1/2 of the cocoa powder. Top with remaining ladyfingers dipped in espresso, mascarpone mixture, and cocoa powder."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/J6oHAoMl-e5FifNatD6ibS1tJs4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Authentic-tiramisu-by-Renee-Paj-3416470_original-c312ad679e254f8da85767bf61061984.jpg"
+}
+]
+,"text": "Refrigerate tiramisu until ladyfingers have softened, 2 to 3 hours."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT150M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Peter"
+},
+"reviewBody": "This recipe was super easy to make and super delicious to eat! Needless to say, it didn't last long. Thank you for sharing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lori B Howe"
+},
+"reviewBody": "The.Best..!\n2nd time I didn't have enough espresso so substituted some chocolate coffee from my Nespresso (oh the sacrifices we make)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rob O."
+},
+"reviewBody": "Great recipe. But two tablespoons of cocoa powder is plenty for me."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gina Pagani-Belcastro"
+},
+"reviewBody": "Tried different recipes and this was the winner. My family loved it and is requesting it again. So quick and easy to make!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "It'sme"
+},
+"reviewBody": "Great, authentic Tiramisu!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Melanie Lambert Micale"
+},
+"reviewBody": "I used a mix of strong coffee and Kahlua. My company loved it so I am making it for another group of friends"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer Baker"
+},
+"reviewBody": "I was fortunate to have this homemade by Kim, the recipe creator. It’s INCREDIBLE!! It will be my go-to recipe for authentic tiramisu. Try it, you won’t be sorry!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer Bellows"
+},
+"reviewBody": "Amazing as is. Great recipe! I make sure my egg whites are extra firm and I gently fold it in the mascarpone mixture just enough until incorporated. The texture is to die for! Almost like a mouse! I also use a an Italian coffee pot that makes espresso on the stove. The best coffee makes the best dessert."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "vegasgirl17"
+},
+"reviewBody": "Fabulous recipe . I didn’t add the alcohol to the recipe as I’m allergic to alcohol ( yeah , I know - luck me) ; plus my kids are really young. I used the Nespresso double espresso capsules and followed the recipe . I did have two mixing bowls that I used . The mascarpone part I used a blade and one mixing bowl while the second mixing bowl and whisk attachment was stored in the freezer until I was ready to whip the egg whites . The egg whites whip up in no time and then I just folded the egg whites with the mascarpone. I use the Dutch brand Coco and it elevates the dessert . Thank you to the author for sharing such a nice dessert !"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "livelife"
+},
+"reviewBody": "Excellent. People gobbled it up! Initially used Kahlua like some other recipes, but that was way too sweet, so I bought some Brandy per this recipe and that was just right. In fact, doubling the amount of Brandy was delicious even to non-drinkers! I pasteurized the eggs using sous vide (134 degrees for 1 hour, per ATK) for some peace of mind. Honestly, it was hard to imagine that raw egg would end up tasting so good, but no one would know that's what it was from the delicious and creamy result. Thanks for a great recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sandy Pelletier-Richnafsky"
+},
+"reviewBody": "Just right. prepared as written. Turned out perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Juzer Hassanali"
+},
+"reviewBody": "I wasn’t sure about making it but after reading the comments I am definitely going to try it\n\nThanks for posting"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KB"
+},
+"reviewBody": "A-MAZ-ING!!! Loved this recipe. I didn't have brandy, but I did have white rum. It worked great. I also added some grated bittersweet chocolate to the top to add some visual texture. This is my first time making a tiramisu. I have found my go to recipe. My husband, who historically doesn't love tiramisu, loves this! Thanks so much for sharing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Buckwheat Queen"
+},
+"reviewBody": "Excellent! Just like nonna used to make! No need to change a thing. Method is perfect. Thanks Kim's Cookin Now! for sharing this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tina rosine"
+},
+"reviewBody": "First time I've every made this- easy, elegant, and delicious!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Deb C"
+},
+"reviewBody": "Heaven, absolute heaven. No adjustments are needed for this recipe, it's perfect. Thanks Kim!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christina"
+},
+"reviewBody": "This recipe is fantastic! No need to change or add anything. My whole family loves it. I had no issues with the mixing times listed, like another reviewer stated. Egg/cheese cream mixture came out great. I like letting this sit overnight, so the flavors really have time to marry. It's pretty hard to do though! :D Thank you for this wonderful recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Paul Small"
+},
+"reviewBody": "i make almost the same i useunsweetened chocolate and hennessey and ammereto mix"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "She loves to cook"
+},
+"reviewBody": "Awesome! Scaled the recipe back by a third and used a 8x8” glass pan. Cognac instead of brandy and enough lady fingers to fit the dish. For my cookies, 3/4 cup of espresso was more than enough to soak them and not have a soggy dessert. I will certainly make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "mhsally"
+},
+"reviewBody": "Needs really strong coffee and a little more liquor less than 2 cups of coffee"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Janet"
+},
+"reviewBody": "This dessert made two people quesey. I made it for Xmas eve and my sis and I ate a piece each we compared notes and for me this made me has digestive issues. I am lactose intolerant. Usually I can have some dairy so I saved my daily dose to have a piece of this dessert. Later that night I had severe stomach pain and spent time on the pot. My sis said she had stomach issues after that too. It does have raw eggs in it so maybe that was why."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rita Meier Pupo"
+},
+"reviewBody": "BEST tiramisu recipe. I would say it's for intermediate bakers since you kind of have to know what textures to look for. I put some chocolate milk into the coffee and that was a total hit!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alley P."
+},
+"reviewBody": "I made this EXACT to the recipe except I had to use coffee instead of espresso (they aren't done building our Starbucks yet!) This was incredible!! Its exactly like my neighbor, who is Italian, used to make. It brought back soooo many childhood memories. I'm so excited about finding this gem, I am going to make a batch for everyone at work! Everybody should have a true tiramisu and not that garbage you buy at most grocery store bakeries. \n\nI found that many of the comments from people complaining about parts of the recipe not being specific enough for them (causing them to ruin their dessert) had to be made by very novice bakers/cooks. \n\nWith a recipe like this its more of a 'to suit your taste' and the times given for beating the egg whites is merely a suggestion and not the exact science of the recipe. I preferred mine more whipped and that's what I did; someone else may not and that's perfectly fine too. \n\nThank you so much for sharing this incredible recipe. You've made me a very happy girl!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "joycewhetstone"
+},
+"reviewBody": "I will make it again. I used Kahlua and it was great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Thomas Robison"
+},
+"reviewBody": "Mmm, mmmm, good, no, make that GREAT! This is such a delicious recipe, and since it's no-bake, even better! The mascarpone filling is to die for. It, alone, can be used to make a fruit parfait, layering the mascarpone and fresh fruit in a tall parfait glass. Yum!\n\nCan hardly wait 'til it's time to make another round!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anna"
+},
+"reviewBody": "This was wonderful. I made a few substitutions to accommodate what I had at hand. I made the ladyfingers with a recipe I found submitted by Roxanne. I also made the mascarpone by blending together 2 (8oz) cream cheese packages, 1/3 cup sour cream, and 1/4 cup whipping cream. It was a lovely texture and was slightly less sweet, perfect for me! I will definitely make this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Denise M Hansen"
+},
+"reviewBody": "Easy, quick, and delicious. Used Grand Marnier instead of brandy and also added a bit to the coffee. Topped with dusting of cocoa powder, mini choc chips, and fresh organic raspberries. Then dusted primarily the berries with a lot of icing sugar. *Tip: Buy extra lady fingers just in case and make sure they are soaked well if they are the large sized ones so you have no dry parts."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rkurly"
+},
+"reviewBody": "First time to make tiramisu and am over the moon with this recipe. Used Americano and Bacardi Rum. Also let it sit overnight. Deeeeelish!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Diana Soto"
+},
+"reviewBody": "I'm sure I will give it more stars if the recipe specify that you need to beat the yolks and the sugar for longer than 5 minutes, which was way too little and my cream came out all clumsy. I had to make it again with another recipe that clearly told me to beat the yolks with the sugar for 12 minutes, you get a consistently of a caramel is so different, it's so nice and fluffy. I guess that's the price you pay when you don't know about baking/creams/desserts"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Faisal Al-Nakeeb"
+},
+"reviewBody": "We did it exactly as written. Fantastic."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "girlrobbie"
+},
+"reviewBody": "made for a book club-everyone loved it! super easy. I felt I needed more of the marscapone mixture. I read other reviews and made sure not to soak lady fingers. came out great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dest inee"
+},
+"reviewBody": "Best tiramisu recipe I have ever used. Though I left out the brandy- I don't really drink and I didn't see the sence in buying a bottle of it for the rest to go to waste. Do make sure to use real mascarapone cheese and high quality ingredients though (even for the eggs. Afterall you are consuming them raw.) It may be a little pricey for some people to make but it is way worth it. I make tiramisu for my husband's birthday every year- I think I have found a staple recipe now! =) I had to stop him from eating the whole thing himself! He was in ecstasy. Oh and I also made this one day in advance to let it sit in the fridge and \"marinate\" and it really put it on a whole other level."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jackie Denevan-Brown"
+},
+"reviewBody": "Completely authentic tiramisu. Simply, the best I've ever had and it's my favorite dessert... I order it whenever possible. Use quality ingredients, you'll be glad you did. Straight up amazing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "yayyayyay"
+},
+"reviewBody": "Amazing. Simple. Lower in fat than some."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kolache Kitchen"
+},
+"reviewBody": "I, my neighbor, and my mother have tried many recipes over the years for Tiramisu hoping to find \"The One.\" Well this my friend is it! I made it exactly as written and it was not only perfect, beautiful, but also spot on in texture and taste. My first time I could not find lady fingers so I made them and they worked out perfectly. I will not be trying any other recipe and can put our search to rest. Thank you Kim for sharing a piece of your families culinary legacy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Robin"
+},
+"reviewBody": "The first time I made it, I couldn't find lady fingers, so I made it with pound cake. It worked well. I have since made it with the lady fingers--also delicious! I did not use the brandy, instead I added a tsp of vanilla extract."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "August Leo"
+},
+"reviewBody": "Substituted 1/2 tsp rum extract for brandy. Added fresh whipped heavy cream (added 1 tbsp white sugar to heavy cream when whipping)on top layer with cinnaminon"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cathy basso"
+},
+"reviewBody": "A M A Z I N G!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ReneePaj"
+},
+"reviewBody": "I wish I could give this recipe 6 stars, because, yes, it is THAT good! Just perfect in every way. Don't be fooled by those tiramisu impostors that use whipped cream or standard cream cheese in the recipe. This one is the real deal! And it's so easy anyone can make it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "michael r"
+},
+"reviewBody": "I didn't care for this recipe. no substitution for the whip cream."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "annie"
+},
+"reviewBody": "The most amazing tiramisu I've ever had! The only change I made was using regular coffee as a substitute since I didn't have espresso. The next day is even better! Thank you for the recipe!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MrsBee"
+},
+"reviewBody": "Amazing! Made this as a last minute dessert for Christmas and everyone raved. Only thing o changed is that I didn't end up needing 2 cups of espresso. I used less than one and the texture was perfect. Definitely a keeper for me!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "racabuh"
+},
+"reviewBody": "This recipe is absolute perfection! It's simple and classic and tastes incredible! I'll never use any other."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "thedailygourmet"
+},
+"reviewBody": "This is my second time to make this recipe, and it is absolutely wonderful there is no need to change anything about it, it is exquisite!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Oweary1"
+},
+"reviewBody": "I'm not a big tiramisu fan but wanted to experience it again; perhaps my taste buds can appreciate it now that I'm older. This recipe is surprisingly easy to make, and comes together really well once you begin assembling it. The only change I made is to quickly dip both sides of the ladyfingers in the espresso, just to see what it'll do; the taste of the mascarpone mixture is spot on. I didn't have a pretty dish to put it in, since I'm testing it out on my little family. It's presently chilling in the fridge and I will update after we eat it; if the mascarpone mixture is anything to go by, I'm sure it'll be delish. The amount of brandy is just right -- a hint without overpowering my taste buds.\n\n8/16/15\nI just made this again to finish off the ladyfingers I had leftover from the first time I made this dish. Again, this is spot on. The only change I made is to double the amount of espresso because I like to dip both sides of the cookie (so it requires more liquid). I don't like tiramisu, but this recipe converted me! It's actually quite easy to make and the only time consuming part is the assembling, which really doesn't. Take that's good at all. Thank you so much for sharing this user friendly, DELICIOUS dessert!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MAryT"
+},
+"reviewBody": "Loved this recipe ! I added a bit more rhum and used whisky glasses as individual containers. Very easy to make. Thank for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ChefAl"
+},
+"reviewBody": "This was my first attempt at Tiramisu and I'm so pleased that this is the recipe I chose. I just followed the directions and ended up with the most amazing dessert. The only change I made was using regular coffee as a substitute since I didn't have espresso. Also, in the future I will make sure to dip the ladyfingers for just a second because I might have let them absorb a little too much coffee giving it a slight soggy texture. All in all, an awesome dessert recipe. It will be perfect next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Barbara"
+},
+"reviewBody": "Just came back from Italy &amp; had to have more...excellent recipe...authentic just like the name of the recipe!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Fulgdenea"
+},
+"reviewBody": "The most amazing tiramisu I've ever had! Thanks for sharing!\nI like that only eggs and mascarpone are used and not the whipped cream replacement that I often see. I find this very important. \nI made a version with strawberries, because I had some pink ladyfingers available, but I'm sure the original recipe is also really good.\nI made the espresso with instant coffee because i don't have an espresso machine and I like to have a good kick of coffee. I think the coffee taste is essential for having a good tiramisu.\nI didn't have brandy available, so I used some chocolate flavored vodka, which I also mixed through the coffee. The alcohol is also one of the key-ingredients and should not be left out.\nI didn't spread the cocoa powder between the layers, because I didn't read the instructions at that moment. I'm not sure if it's traditional to have this in-between layer of cocoa powder."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cooking_Aly"
+},
+"reviewBody": "Oh my gosh! So yummy! I made it with honey gram cracker sticks because I couldn't find lady fingers and forwent the brandy, but it turned out so good! My mother is upset now that she wasn't here when I made it! :-)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jenny Aleman de Bolaños"
+},
+"reviewBody": "I have tried this Tiramisu 3 times. The more I eat it, the more I love it. The blend of flavors transport you to Italy in one second. So reach and well balanced. Nothing to change, just perfect."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/239639/authentic-tiramisu/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17203/desserts/specialty-desserts/",
+"name": "Specialty Dessert Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/375/desserts/specialty-desserts/tiramisu/",
+"name": "Tiramisu Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/239639/authentic-tiramisu/",
+"name": "Authentic Tiramisu"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

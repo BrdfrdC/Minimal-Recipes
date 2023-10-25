@@ -1,0 +1,220 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Orange Blintzes"
+,"datePublished": "2020-06-18T23:39:31.000-04:00"
+,"dateModified": "2020-06-18T23:39:31.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Fr4v4shi"
+,"url": "https://www.allrecipes.com/cook/3751475"
+}
+]
+,"description": "Orange zest is added to cottage cheese and rolled up in a thin pancake."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/eaaiAHSp9WNxFYZmWynOm18tQTY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1444887-13e8a4b782234a73a0044bfa7c43d385.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Orange Blintzes"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "6"
+}
+,"cookTime": "PT45M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "611 kcal"
+,"carbohydrateContent": "56 g"
+,"cholesterolContent": "282 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "28 g"
+,"saturatedFatContent": "14 g"
+,"sodiumContent": "1057 mg"
+,"sugarContent": "23 g"
+,"fatContent": "31 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"2 tablespoons white sugar",
+"1 teaspoon grated orange zest",
+"0.75 teaspoon salt",
+"1 cup all-purpose flour",
+"0.25 cup milk",
+"0.25 cup vanilla yogurt",
+"2 tablespoons extra-virgin olive oil",
+"4 eggs",
+"0.5 cup orange juice",
+"1 egg",
+"3 tablespoons white sugar",
+"2 tablespoons unsalted butter, melted",
+"1 (16 ounce) package small curd cottage cheese",
+"5 tablespoons dry bread crumbs",
+"1 tablespoon grated orange zest",
+"2 tablespoons unsalted butter" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Mix 2 tablespoons of sugar, 1 teaspoon of orange zest, salt, and flour in a small bowl. Combine milk and yogurt in a separate bowl. Stir in olive oil and mix until smooth. Beat 4 eggs in a large bowl, then add orange juice. Stir in the yogurt mixture followed by the flour mixture. Beat until smooth. Allow batter to rest at room temperature for 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Beat 1 egg with 3 tablespoons of sugar, then add butter and cottage cheese, mixing until smooth. Stir in the bread crumbs and 1 tablespoon of orange zest. Refrigerate until the batter is ready."
+} ,{
+"@type": "HowToStep"
+,"text": "Lightly butter a 6 inch skillet, and heat over medium heat. For each crepe, pour 1/4 cup of the batter into the skillet, and immediately rotate the skillet until the batter evenly coats the bottom in a thin layer. Cook until the top of the crepe is no longer wet and the bottom has turned light brown. Run a spatula around the edge of the skillet to loosen; flip the crepe, and cook until the other side has turned light brown. Stack the crepes in a clean kitchen towel, placing waxed paper between each."
+} ,{
+"@type": "HowToStep"
+,"text": "Place 2 to 3 tablespoons of the filling onto the golden side of the crepe. Roll the crepe up and repeat until all the blintzes are made. Heat 2 tablespoons of butter in a large skillet and fry 4 to 5 blintzes at a time until golden brown, about 2 minutes on each side."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT120M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Piper White"
+},
+"reviewBody": "delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Julie Sailor"
+},
+"reviewBody": "Very tasty, just has a lumpy filling - I would blend it and use 1/2 cream cheese next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sheryll Lyn"
+},
+"reviewBody": "I must keep this recipe, because it's fabulous! All the more I can say is \"Have Mercy!\""
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "mrs. kosmos"
+},
+"reviewBody": "I made two minor changes: In batter, I used plain yogurt with a tsp sugar and a splash of vanilla. In the filling, I used only 2/3 C of cottage cheese (all I had left) and used graham cracker crumbs. Even with less cottage cheese, I had a lot of filling left over and had to make a second batch of batter. Hubby and I thought these were really good. 22 month old didn't like them at all."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sophi Zimmerman"
+},
+"reviewBody": "I am going to try subbing matzah meal for the flour and bread crumbs. I love the texture of these blintzes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "FREEMAN HOUSEHOLD"
+},
+"reviewBody": "AWSOME"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/199579/orange-blintzes/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/78/breakfast-and-brunch/",
+"name": "Breakfast and Brunch"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/147/breakfast-and-brunch/crepes/",
+"name": "Crepes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/199579/orange-blintzes/",
+"name": "Orange Blintzes"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

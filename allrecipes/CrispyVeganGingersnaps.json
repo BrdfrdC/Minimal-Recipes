@@ -1,0 +1,152 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Crispy Vegan Gingersnaps"
+,"datePublished": "2020-06-17T20:35:43.000-04:00"
+,"dateModified": "2023-01-04T13:56:29.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Anastasia Pilato"
+,"url": "https://www.allrecipes.com/cook/23257152"
+}
+]
+,"description": "These gingersnap cookies are crispy, spicy, and perfect with a hot drink in autumn and winter. You won&#39;t miss the dairy or eggs."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/qF9mDCHLIWx0kY3NuQ6OYmladbE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9441806-5a935e8b620240ca836f94550c8bd1ad.jpg",
+"height": 960,
+"width": 1280
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Crispy Vegan Gingersnaps"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "1",
+"ratingCount": "1"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "120 kcal"
+,"carbohydrateContent": "10 g"
+,"fiberContent": "1 g"
+,"proteinContent": "2 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "73 mg"
+,"sugarContent": "6 g"
+,"fatContent": "9 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"0.75 cup almond flour",
+"0.25 cup coconut flour",
+"1 tablespoon ground ginger",
+"2 teaspoons ground cinnamon",
+"0.5 teaspoon ground allspice",
+"0.25 teaspoon baking soda",
+"0.25 teaspoon ground nutmeg",
+"0.25 teaspoon salt",
+"0.75 cup almond butter",
+"0.5 cup honey",
+"0.25 cup melted coconut oil" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine almond flour, coconut flour, ginger, cinnamon, allspice, baking soda, nutmeg, and salt in a bowl. Whisk almond butter, honey, and melted coconut oil together in a separate bowl. Pour wet ingredients into dry and mix together until a dough forms."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 325 degrees F (165 degrees C). Line a baking sheet with parchment paper."
+} ,{
+"@type": "HowToStep"
+,"text": "Form dough into balls, then press to flatten onto the prepared baking sheet using the palm of the hand, the back of a spoon, or a fork."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until cookies are browned but still soft, 15 to 18 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove cookies from oven and let cool 5 minutes. Transfer to a wire rack to cool completely; store in an airtight container to keep cookies crispy."
+} ]
+,"recipeYield": ["24"]
+,"totalTime": "PT35M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "kjkdpsx48s"
+},
+"reviewBody": "I should have known 3/4 of a cup of almond flour and 1/4 of a cup coconut flour would not be enough dry ingredients. The dough was a greasy mess. When baked, they spread out and burned black by minute 10. What a waste of good ingredients."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/267119/crispy-vegan-gingersnaps/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/362/desserts/cookies/",
+"name": "Cookies"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17794/desserts/cookies/gingersnaps/",
+"name": "Gingersnap Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/267119/crispy-vegan-gingersnaps/",
+"name": "Crispy Vegan Gingersnaps"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

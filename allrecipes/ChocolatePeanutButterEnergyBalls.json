@@ -1,0 +1,216 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Chocolate Peanut Butter Energy Balls"
+,"datePublished": "2018-05-20T01:38:31.000-04:00"
+,"dateModified": "2018-05-20T01:38:31.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Dylan Kitz"
+,"url": "https://www.allrecipes.com/cook/23696056"
+}
+]
+,"description": "These no-bake energy balls are made with oats, peanut butter, coconut, chocolate chips, and cranberries. They make an excellent pre-workout snack."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/1fvNTwaXA2kUdkHr0VWbrGw-LZk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5388164-ebf6adbe25204d03a833e16b2b3731ab.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Chocolate Peanut Butter Energy Balls"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.4",
+"ratingCount": "8"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "240 kcal"
+,"carbohydrateContent": "22 g"
+,"fiberContent": "4 g"
+,"proteinContent": "7 g"
+,"saturatedFatContent": "6 g"
+,"sodiumContent": "58 mg"
+,"sugarContent": "11 g"
+,"fatContent": "16 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"4 cups quick cooking oats",
+"2.5 cups natural peanut butter",
+"2 cups dry unsweetened shredded coconut",
+"1 cup chocolate chips",
+"1 cup dried cranberries",
+"1 cup almond milk",
+"0.5 cup honey, melted" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine oats, peanut butter, shredded coconut, chocolate chips, cranberries, almond milk, and honey in a bowl and mix thoroughly."
+} ,{
+"@type": "HowToStep"
+,"text": "Roll mixture into bite-size balls and arrange on a baking sheet. Refrigerate until set, at least 15 minutes."
+} ]
+,"recipeYield": ["34"]
+,"totalTime": "PT30M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary2"
+},
+"reviewBody": "LOVE these!! I have made this recipe at least half a dozen times already and always end up sharing the energy balls and the recipe. I change the recipe slightly every time I make them and they are simply delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "mamaknits4us"
+},
+"reviewBody": "These turned out great. I did make a few adjustments. I used maple syrup instead of honey, and I added more peanut butter until the mixture stuck together well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Elizabeth Currier"
+},
+"reviewBody": "Very sticky! Doesn't look like the pictures really. Also extremely sweet. Thank goodness I didn't make the entire recipe either. I ended up with like 36 balls even halving the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Swampfever"
+},
+"reviewBody": "I used butterscotch chips instead of chocolate. Was very good though a bit too sweet. Will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Julie Trombley"
+},
+"reviewBody": "Made a half recipe. Added ground flax. Very tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Peggy Lapadat"
+},
+"reviewBody": "Will try soon"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marci sprinkles"
+},
+"reviewBody": "I loved this recipe! I used raisins instead of cranberries since I has no cranberries the taste was great and pallet pleasing"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/264656/chocolate-peanut-butter-energy-balls/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/",
+"name": "Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/76/appetizers-and-snacks/",
+"name": "Appetizers and Snacks"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/264656/chocolate-peanut-butter-energy-balls/",
+"name": "Chocolate Peanut Butter Energy Balls"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,136 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Corn and Pea Samosas in Caraway Seed Pastry"
+,"datePublished": "2020-02-19T01:50:28.000-05:00"
+,"dateModified": "2020-02-19T01:50:28.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Joanna"
+,"url": "https://www.allrecipes.com/cook/1825934"
+}
+]
+,"description": "Coconut milk and Indian-style spices enliven the corn and pea filling inside these caraway-studded samosas."
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Corn and Pea Samosas in Caraway Seed Pastry"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "1"
+}
+,"cookTime": "PT25M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "164 kcal"
+,"carbohydrateContent": "9 g"
+,"cholesterolContent": "6 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "1 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "14 mg"
+,"sugarContent": "0 g"
+,"fatContent": "14 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"1.5 cups all-purpose flour",
+"2 tablespoons ghee (clarified butter)",
+"1 tablespoon caraway seeds",
+"0.5 cup warm water",
+"1.5 tablespoons ghee (clarified butter)",
+"0.5 small onion, finely chopped",
+"2 cloves garlic, crushed",
+"2 teaspoons grated fresh ginger",
+"2 teaspoons garam masala",
+"0.5 teaspoon ground cumin",
+"0.5 teaspoon ground coriander",
+"0.25 teaspoon ground turmeric",
+"0.25 teaspoon chile powder",
+"0.5 cup corn, drained and rinsed",
+"0.5 cup frozen peas, or to taste",
+"0.25 cup coconut milk",
+"1 cup vegetable oil for frying" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Sift flour into a bowl. Add ghee and caraway seeds. Mix and gradually stir in enough water to form a firm dough. Knead on a floured surface until smooth. Cover with plastic wrap and refrigerate dough for 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat ghee in a pan over medium heat. Add onion, garlic, ginger, garam masala, cumin, coriander, turmeric, and chile powder. Cook and stir until onion is soft, about 5 minutes. Add corn, peas, and coconut milk. Bring to a boil. Remove filling from heat and cool to room temperature."
+} ,{
+"@type": "HowToStep"
+,"text": "Roll dough on a floured surface to 1/16-inch thickness. Cut into 3 3/4-inch rounds and place a rounded teaspoon of filling into the center of each round. Brush edges with water and press together using your finger or a samosa presser."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat oil in a deep-fryer or large saucepan to 350 degrees F (175 degrees C). Deep-fry samosas until browned, about 5 minutes per batch."
+} ]
+,"recipeYield": ["20"]
+,"totalTime": "PT85M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/266523/corn-and-pea-samosas-in-caraway-seed-pastry/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/76/appetizers-and-snacks/",
+"name": "Appetizers and Snacks"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/113/appetizers-and-snacks/pastries/",
+"name": "Pastries"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/266523/corn-and-pea-samosas-in-caraway-seed-pastry/",
+"name": "Corn and Pea Samosas in Caraway Seed Pastry"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

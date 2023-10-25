@@ -1,0 +1,172 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "The Best Buffalo Chicken Dip"
+,"datePublished": "2021-06-02T17:11:33.000-04:00"
+,"dateModified": "2021-06-07T15:46:49.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Nicolemcmom"
+,"url": "https://www.allrecipes.com/cook/28183721"
+}
+]
+,"description": "Super rich and creamy with the perfect amount of tang, this Buffalo chicken dip made with freshly cooked chicken is one of the very best."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Caguvq2qLbbN_VLHwcq7r9L1n2w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9235836-c59b5721fdee411fb7fbdebfd7225d3d.jpg",
+"height": 1000,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "The Best Buffalo Chicken Dip"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "2"
+}
+,"cookTime": "PT90M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "175 kcal"
+,"carbohydrateContent": "1 g"
+,"cholesterolContent": "44 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "8 g"
+,"saturatedFatContent": "7 g"
+,"sodiumContent": "558 mg"
+,"sugarContent": "1 g"
+,"fatContent": "15 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"3 (6 ounce) skinless, boneless chicken breast halves",
+"1 teaspoon kosher salt",
+"0.5 teaspoon ground black pepper",
+"0.25 teaspoon garlic powder",
+"cooking spray",
+"2 (8 ounce) packages cream cheese, softened",
+"1 cup ranch dressing",
+"1 cup hot sauce (such as Frank's RedHot ®)",
+"1.5 cups shredded Cheddar cheese",
+"0.33333334326744 cup crumbled blue cheese",
+"3 stalks green onion, green parts only, thinly sliced" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Place chicken on a large sheet of foil and sprinkle evenly with salt, pepper, and garlic powder. Wrap foil around chicken to form a pouch, sealing it around the edges. Place foil pouch on a rimmed baking sheet."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven for 1 hour. Remove from the oven and let stand for 15 minutes to cool slightly."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, increase oven temperature to 375 degrees F (190 degrees C). Lightly grease a baking dish with cooking spray."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir together cream cheese, ranch dressing, and hot sauce in a large bowl until well combined."
+} ,{
+"@type": "HowToStep"
+,"text": "Roughly chop or shred cooked chicken. Add to cream cheese mixture along with Cheddar cheese; stir to combine. Pour mixture into the prepared baking dish and sprinkle with blue cheese."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake, uncovered, until bubbly and golden around the edges, about 30 minutes. Remove from the oven and let stand for 10 minutes. Sprinkle with green onions and serve."
+} ]
+,"recipeYield": ["24"]
+,"totalTime": "PT130M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "dessenbes"
+},
+"reviewBody": "I added half blue cheese half ranch for the dressing. Used a slow cooker for the chicken. Excellent flavor and creamy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rebecca Johnson"
+},
+"reviewBody": "Made this as listed except I prepared it the night before and baked it the next morning before tailgating. Everyone loved it!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/284604/the-best-buffalo-chicken-dip/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/105/appetizers-and-snacks/dips-and-spreads/",
+"name": "Dips and Spreads Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17660/appetizers-and-snacks/dips-and-spreads/buffalo-chicken-dip/",
+"name": "Buffalo Chicken Dip Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/284604/the-best-buffalo-chicken-dip/",
+"name": "The Best Buffalo Chicken Dip"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

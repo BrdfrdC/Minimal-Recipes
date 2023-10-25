@@ -1,0 +1,407 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Mahi Mahi Ceviche"
+,"datePublished": "2014-10-31T17:29:22.000-04:00"
+,"dateModified": "2021-06-17T17:48:18.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Chef John"
+,"url": "https://www.allrecipes.com/cook/foodwisheswithchefjohn"
+}
+]
+,"description": "Mahi mahi is &#34;cooked&#34; in a citrus marinade and mixed with orange, radish, cucumber, and cilantro in Chef John&#39;s recipe for mahi mahi ceviche."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/safDOZcbWgoGs4CuBOoIo_Y69wo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-153-01c4f6d16c2f4b9c981cba11879219bc.jpg",
+"height": 720,
+"width": 1280
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=2676470349001",
+"description": "See how to make a refreshing chilled fish salad.",
+"duration": "PT5M43S",
+"name": "Chef John's Mahi-Mahi Ceviche",
+"thumbnailUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/49c53bc0-9955-4207-b907-d556f3407bc9/23ef99bf-624a-4d32-bf9a-71ae8e779b06/1280x720/match/image.jpg",
+"uploadDate": "2021-07-22T20:25:12.287-04:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Mahi Mahi Ceviche"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "27"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "117 kcal"
+,"carbohydrateContent": "7 g"
+,"cholesterolContent": "42 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "11 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "247 mg"
+,"sugarContent": "2 g"
+,"fatContent": "6 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"0.75 pound mahi mahi fillets, diced, or more to taste",
+"0.33333334326744 cup lime juice",
+"0.33333334326744 cup lemon juice",
+"1 tablespoon minced jalapeno pepper",
+"0.5 teaspoon salt, or to taste",
+"1 pinch dried oregano",
+"1 pinch cayenne pepper",
+"0.5 cup diced avocados",
+"0.5 cup peeled and seeded diced cucumber",
+"0.5 cup diced orange segments",
+"0.5 cup chopped fresh chives",
+"2 tablespoons radishes, sliced",
+"1 tablespoon chopped cilantro",
+"1 tablespoon olive oil" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Stir mahi mahi, lime juice, lemon juice, jalapeno pepper, salt, oregano, and cayenne pepper together in a bowl. Press down fish to completely immerse in liquid. Cover the bowl with plastic wrap and press plastic wrap down so that it is touching the fish. Refrigerate for at least 1 hour, or up to 6 hours."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/safDOZcbWgoGs4CuBOoIo_Y69wo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/image-153-01c4f6d16c2f4b9c981cba11879219bc.jpg"
+}
+]
+,"text": "Stir avocado, cucumber, orange, chives, radish, cilantro, and olive oil into mahi mahi mixture until completely coated. Season with salt."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT90M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Diane Bowen"
+},
+"reviewBody": "Great! Used cod, added tomatoes and onions and left out orange slices. Would definitely make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KELLAY"
+},
+"reviewBody": "Great base recipe for ceviche. Made a few times. I like changing up the fish/vegetable ratio and leaving out the oranges just based on personal tastes, but i found this to be a great starting place."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Chris Poland"
+},
+"reviewBody": "Excellent"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Niecey Andrea Terrell"
+},
+"reviewBody": "I used everything, except the Jalapeño pepper. I couldn’t find any; so instead of salt, I replaced it with Jalapeño salt. Being from Florida, now living in Oklahoma, I grew up eating a lot of Cuban, Jamaican and Caribbean dishes; so I am a fan of spices. I added Orange Peel, ‘Slap ya Mama’ spice and a dash of the Tony Chachere’s Creole Seasoning."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pirate Chef"
+},
+"reviewBody": "Used crab and shrimp instead of fish. Awesome!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Roger"
+},
+"reviewBody": "I used frozen(thawed) mahi mahi-it was excellent.\nreccomend an avocado that is on the \"firmer\" side and I added a couple tbl spoons of red onion. I will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gloria Moore"
+},
+"reviewBody": "I will have to cook the Maui Maui in the cervechi"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Angela Smith Lamont"
+},
+"reviewBody": "I’ve been looking for the right Ceviche recipe. This was excellent. I followed the recipe exactly and it was a hit! Thanks, Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shauna"
+},
+"reviewBody": "I made it with shrimp and green onions. Doubled everything but the lemon and lime. It's delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "fcragility"
+},
+"reviewBody": "We liked this recipe. My first time making ceviche. It was just a little too acidic for my taste, otherwise it was very tasty. I made this pretty much exactly as directed. I did drain most of the lime/lemon juice before mixing the rest of the ingredients. I also used an unripe or hard avocado so it would hold up better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Espi65"
+},
+"reviewBody": "Love! Love! Love this ceviche! I’ve made it several times and this last time I added 1/3 cup of juice from a juice orange and it added a nice touch."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "therealogjedi"
+},
+"reviewBody": "Thank you, Chef John! This ceviche was delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sylvia"
+},
+"reviewBody": "I have made this recipe many times, sometimes tweaking just a bit, and it's always the best. I've used mahi mahi and halibut and also adding scallops at times. the best!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carol"
+},
+"reviewBody": "Very good, great with Tostitos scoops."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CINDY18LOU"
+},
+"reviewBody": "This was fabulous. I prefer this type of fish to others I have tried. It's just right tender, but not chewy like scallops or shrimp tend to be. I cut down on the radish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "josh gracia"
+},
+"reviewBody": "Civiche was bomb!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Upton"
+},
+"reviewBody": "Awesome! Came out perfect! Our first attempt with cerviche :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "chefdouda"
+},
+"reviewBody": "Made no changes, but I sliced everything a lot smaller than the pictures on here. Make sure you get a firm avocado so the chunks don't fall apart when you mix the ingredients."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Guy Cunningham"
+},
+"reviewBody": "Loved it.. left out the orange..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brad Edwards"
+},
+"reviewBody": "I used fresh albacore tuna I found on sale at Whole Foods for $8 a lb. I used a whole jalapeño, minced, about twice as much as called for, but thought it could have used more. A wonderful dish, easy to prepare, can make it several hours before serving except for mixing the last parts in. We loved it!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/240093/mahi-mahi-ceviche/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/108/appetizers-and-snacks/seafood/",
+"name": "Seafood"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/15133/appetizers-and-snacks/seafood/ceviche/",
+"name": "Ceviche Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/240093/mahi-mahi-ceviche/",
+"name": "Mahi Mahi Ceviche"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

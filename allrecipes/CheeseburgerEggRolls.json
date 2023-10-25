@@ -1,0 +1,679 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Cheeseburger Egg Rolls"
+,"datePublished": "2019-04-02T02:48:21.000-04:00"
+,"dateModified": "2022-08-27T16:32:30.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Amy Williams Hopkins"
+,"url": "https://www.allrecipes.com/cook/1679770"
+}
+]
+,"description": "A deep-fried egg roll with the flavor of a cheeseburger."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/P6NtY5IPs1s-tn3YPlmkl6cgIIk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8267396-cheeseburger-egg-rolls-samlawali-4x3-1-ecc1a6a9e2ef4090bb74ddf1a9b0649b.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Cheeseburger Egg Rolls"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.3",
+"ratingCount": "54"
+}
+,"cookTime": "PT25M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "189 kcal"
+,"carbohydrateContent": "19 g"
+,"cholesterolContent": "29 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "10 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "369 mg"
+,"sugarContent": "1 g"
+,"fatContent": "8 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT25M"
+,"recipeIngredient": [
+"1 pound ground beef",
+"1 onion, chopped",
+"1 cup chopped dill pickles or sweet pickles",
+"1 cup shredded Cheddar cheese",
+"1 tablespoon prepared yellow mustard, or to taste",
+"1 (16 ounce) package egg roll wrappers",
+"1 cup vegetable oil for frying" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place the ground beef and onion in a skillet over medium heat, and cook and stir for about 10 minutes, breaking up the beef into crumbles as it cooks. Drain the meat and transfer to a bowl. Stir in the chopped pickles, shredded cheese, and mustard, and mix together well."
+} ,{
+"@type": "HowToStep"
+,"text": "Line a baking sheet with parchment paper. Place a bowl of water next to your work surface. Remove an egg roll wrapper from the stack, and cover the remaining wrappers with a damp paper towel to prevent them from drying out."
+} ,{
+"@type": "HowToStep"
+,"text": "Place the wrapper on the work surface with a corner facing towards you. Place about 1/4 cup of filling on the wrapper, and fold the top corner down over the filling. Tightly roll the wrapper into a cylinder, tucking in the corners as you roll, until the wrapper completely encloses the filling. Moisten the last corner with a little water, and finish wrapping so the moistened corner tightly seals to the egg roll, and there are no gaps to let the filling leak out. Place filled egg rolls on the parchment-lined baking sheet, covered with a slightly damp paper towel, while you finish making the egg rolls."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat the oil in a deep saucepan or deep fryer until a thermometer registers 365 degrees F (185 degrees C). Carefully place 2 or 3 egg rolls at a time into the hot oil, and fry for about 4 or 5 minutes, turning the egg rolls over once, until golden brown. Remove the egg rolls with a tongs, and drain on paper towels."
+} ]
+,"recipeYield": ["15"]
+,"totalTime": "PT50M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "khatkat2003"
+},
+"reviewBody": "So good!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I added bacon to make them a bacon cheeseburger egg roll. They were a big hit."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "mskossen"
+},
+"reviewBody": "These weren't terrible as is but they weren't what I was expecting. Very strong mustard flavor but I do love mustard. Made copycat Mac sauce to dip and the flavors did not compliment each other. Might make again using ketchup instead of mustard but not any time soon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chad Haslett"
+},
+"reviewBody": "Added fried bacon to mine, and substituted pepper jack cheese. Turned out great!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "huetherfamily"
+},
+"reviewBody": "I put bacon in it, no pickles. Put mustard and catch up and garlic salt. Made a dip with mayonnaise ketchup and mustard. Big hit"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "samlawali"
+},
+"reviewBody": "Loved it. Used ingredient suggestions and oil cooking time &amp; temperature but guessed at amounts and made 40 rolls for Father's Day. Was a hit. Husband said it tasted like really good hamburgers. I added cooked crumbled bacon. Would totally make for a party. Going into the rotation for special events. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jessika K"
+},
+"reviewBody": "Used velveeta instead of cheddar to make it creamier! And used a little less than the recommended serving of pickles. They were so good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "SuperSlim"
+},
+"reviewBody": "These were good but not great. I would definitely not hesitate to make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KIMTYME"
+},
+"reviewBody": "Delicious, and pretty easy to make, I was very happy these turned out so well. First time using egg roll wrappers, but everything was explained step by step, and we enjoyed the flavors together. We used chipotle ranch as a dip."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lan Garrett"
+},
+"reviewBody": "the kids loved it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Crystal Snyder Zombek"
+},
+"reviewBody": "The first time I made these I followed the recipe to the letter. My daughter and I loved them (but wanted more cheese) but my husband did not, he's not a fan of pickles and thought the pickles were overwhelming. So...the next time I omitted the pickles and used chunks of velveeta instead and they were AMAZING!! Making them again tonight (with revisions of course) as a matter of fact!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Arkerei"
+},
+"reviewBody": "These were so good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "SunnyDaysNora"
+},
+"reviewBody": "While I did make a few changes, we really enjoyed these. I doubled the cheddar and added worcestershire sauce, salt, and pepper. The onion did give it a Krystal burger flavor, though it turned off my picky 9 year old so I would probably make some filling without onion next time. I think other reviewer's bacon idea would be a nice addition too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "KarmaKrissy"
+},
+"reviewBody": "Add salt\r\nOnly a quarter of an onion\r\nDoubled mustard"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "missrochester"
+},
+"reviewBody": "Yummmmmm! These are Delicious! I did omit the pickles just a personal preference. I fore sure will make these again! Next time im going to add crumbled up bacon!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "NetPhantom"
+},
+"reviewBody": "Tried this recipe. Loved it. Grandkids ask for it everytime they come over, about every two weeks. Did not change recipe, but did change a little in cooking style. I prepared 5 eggrolls at a time. Started those cooking then rolled up 5 more while they cooked. Saves a little bit of time and gets the grandkids to the eggrolls a little faster."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rossi2013"
+},
+"reviewBody": "I like food with flavor so i changed this some but it came out amazing. i didn't add the pickles and I added worcestershire sauce, montreal steak seasoning, garlic powder and adobo to the meat and instead of cheddar cheese i used american and added shredded lettuce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "karataronno"
+},
+"reviewBody": "My hubby didn't like these at all!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christina"
+},
+"reviewBody": "I have to first say that I used this more for the idea of making cheeseburger eggrolls, as I did not use the same filling. I basically used the filling from 'Slider-Style Mini Burgers' from this site and added in the chopped dill pickles. We thought these were great and was a fun twist on a regular cheeseburger. Served them w/ ranch and 'Roasted Onion Mayonnaise' from this site for dipping. I would make these again! Thanks for sharing. :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "mrsrunway13"
+},
+"reviewBody": "Didn't like them!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Cristy Karr"
+},
+"reviewBody": "This recipe was edible but not impressive. Granted I baked instead of fried but the mixture itself was overall bland. My husband who made it with me said, \"That was a lot of work for a plain cheeseburger.\" I have to agree. He told me to toss this recipe and I plan on it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lyndsey Bennett"
+},
+"reviewBody": "SO good! i made them into breakfast eggrolls; used cajun andoullie sausage and scrambled eggs with provolone and grilled onions. new favorite sausage dish!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kristi Loftin"
+},
+"reviewBody": "I make these all the time! They are great when my boyfriend has his friends over since they are so easy and are extremely filling!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "miss karen"
+},
+"reviewBody": "No, no, no. This did not go over well at my house. Tasted like gooey pickles with crunchy paper. Sorry."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "jbaker5"
+},
+"reviewBody": "Tasted just like you would expect. Not bad but probably won't make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Tracy"
+},
+"reviewBody": "Awesome, but a little too much pickle. I would also add some bacon to make bacon cheeseburger egg rolls. Mmmm, bacon!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "daisy37311"
+},
+"reviewBody": "Delicious! I used mayo instead of mustard since I have some that don't like mustard, and dill pickles. Kind of reminded us of Krystal burgers, only better!! I also made a mexican version with refried beans, a bit of salsa and shredded cheddar mixed with the beef, and a slice of pepper jack chs...dipped in sour crm and salsa...YUM!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Karen H."
+},
+"reviewBody": "My kids liked it, but I thought it was a bit bland. I like the BBQ sauce idea and may have to try that next time. Use the Egg Roll Wrappers recipe also on this site!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sara Smith"
+},
+"reviewBody": "I found the filling to be very tasty, but i do not like egg rolls. Thoes who are egg roll fans will love them. They were fun to make. Thanks for sharing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Used won ton wrappers to make these as apps. Would only change the cheese from cheddar to american for a creamier texture. Can't wait to serve them with some ketchup &amp; mayo!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "shelby2003"
+},
+"reviewBody": "These were great! I had leftover egg roll wrappers to use up and this was the perfect way without having to make regualr egg rolls again. The only thing I changed is instead of mustard we used ketchup. My hubby doesn't like mustard. I think next time we might try to put bacon in them too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Wanda Marshall Doty"
+},
+"reviewBody": "Great recipe as is and with lots of potential. Even my picky son took a couple of bites...he's not big on pickles so he didn't eat much but thought they were okay. Next time we're going to try it with mushroom &amp; swiss instead of the pickles &amp; cheddar. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "mippyjean97"
+},
+"reviewBody": "Made these for my husband tonight, he really liked them. I tried a bite and they did taste good. Next time I make them I will try and lower the calories and fat. I took the suggestion of adding bacon and some Bar-b-q sauce to the mix. I also mixed a bit of breadcrumbs and mayo in too. I didn't have any problem with the wrappers busting, fried very fast. Pretty heavy meal, not for everyday, but fun for a change every now and then."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "NessaNCincinnati"
+},
+"reviewBody": "What a great little recipe. I also added Onion powder to my mix. I left out the mustard. I also added chopped portabella mushrooms that i saulteed in garlic. MMMM Very good recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "inounvme"
+},
+"reviewBody": "I added salt, pepper, garlic powder, and onion powder. The pickle/relish and mustard was omitted. Very good. Couldn't cook them fast enough."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Carrie Hershey Young"
+},
+"reviewBody": "I am giving this 4 stars because I didnt' follow the recipe exactly. I baked these on a parchment paper lined baking sheet versus frying them. The kids liked them. I thought they were ok. I didn't think they had a whole lot of flavor. Would probably add salt and pepper like another reviewer suggested if I made these again. Maybe even some garlic."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kelly D"
+},
+"reviewBody": "These were fun to make and eat. I totally forgot the onion because I was watching TV at the same time. I would suggest some seasoning though, after I made the first two, I went back and seasoned the meat with a bit of salt, pepper, and italian seasoning. Delicious! Will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Heather"
+},
+"reviewBody": "This was a hit at my house, something rare with a 3 and 5 year old. I did change the filling a bit. I made half of it the way it was written and for the other half I used the meat, cooked and crumbled bacon, onion, bbq sauce and cheddar cheese. One pound of meat definitely is not enough to use all of the egg roll wrappers, but it easily fed my family. Like someone else suggested, I thought it wasn't enough oil, but I just let them cook on one side and then flipped them. It was less than 4-5 minutes on each side, but just watch them and you'll be fine. I'm definitely making these again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "newcook"
+},
+"reviewBody": "Pretty good. Must be a mistake about the amount of oil. Easy to make and great to eat."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "cindi"
+},
+"reviewBody": "This recipes was actully super yummy. Right after they come out of the deep fryer place on a metal wire rack with papertowels under to make sure all the greece gets drained! I also made the dipping sauce added a tsp of mustard and a drop of worcestershire - perfect! I will make again !"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sumfarm"
+},
+"reviewBody": "I made these yummy morsels for a party and people were standing in line for them! Adults and kids love them. Tastes like a McDonald's cheeseburger in a wrapper. The dipping sauce is fantastic!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Desirea84"
+},
+"reviewBody": "WOW!! So good! I made them with almost 2lbs of hamburger meat, it made 13 egg rolls. I used 1/4 cup in each as suggested. I added a little extra cheddar, and a few slices of american to give it more of a cheeseburger taste. It also made it a little creamier. The cooking time was too long, I burnt my first batch. Then I followed the directions on the wrap package, the rest came out fine. Oh, and I left out the pickles because hubby doesn't like them. We dipped in fry sauce. (ketchup and mayo) Next time we will be trying mushroom swiss burger egg rolls. :)"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/105904/cheeseburger-egg-rolls/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/115/appetizers-and-snacks/wraps-and-rolls/",
+"name": "Wraps and Rolls"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16366/appetizers-and-snacks/wraps-and-rolls/egg-rolls/",
+"name": "Egg Roll Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/105904/cheeseburger-egg-rolls/",
+"name": "Cheeseburger Egg Rolls"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

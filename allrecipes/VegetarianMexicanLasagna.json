@@ -1,0 +1,330 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Vegetarian Mexican Lasagna"
+,"datePublished": "2020-06-23T17:53:21.000-04:00"
+,"dateModified": "2022-03-30T22:41:14.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "My Hot Southern Mess"
+,"url": "https://www.allrecipes.com/cook/myhotsouthernmess"
+}
+]
+,"description": "Mexican-inspired ingredients are layered lasagna-style with a ricotta and spinach mixture between corn tortillas in this vegetarian baked dish."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/bvOYcmEXjkB2axNxgsOxfBME-ZM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7687154-9b8041e914484edfa83e709f5d79ef9b.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Vegetarian Mexican Lasagna"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "20"
+}
+,"cookTime": "PT60M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "411 kcal"
+,"carbohydrateContent": "40 g"
+,"cholesterolContent": "70 mg"
+,"fiberContent": "8 g"
+,"proteinContent": "19 g"
+,"saturatedFatContent": "10 g"
+,"sodiumContent": "863 mg"
+,"sugarContent": "4 g"
+,"fatContent": "21 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"cooking spray",
+"2 tablespoons olive oil",
+"1 cup diced sweet onion",
+"2 jalapeno peppers, seeded and diced",
+"1 red bell pepper, diced",
+"4 cloves garlic, minced",
+"1 (16 ounce) jar salsa",
+"1 (15.5 ounce) can black beans, rinsed and drained",
+"1 (15.25 ounce) can whole kernel corn, drained",
+"1 teaspoon chili powder",
+"1 teaspoon ground cumin",
+"1 (10 ounce) package frozen chopped spinach, thawed and drained",
+"3 cups shredded pepper Jack cheese, divided",
+"2 cups ricotta cheese",
+"1 egg, beaten",
+"0.5 teaspoon salt",
+"0.5 teaspoon ground black pepper",
+"18 corn tortillas",
+"1 cup enchilada sauce" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C). Spray a 9x13-inch baking dish with cooking spray."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat olive oil in a large skillet over medium heat. Add onion, jalapenos, bell pepper, and garlic; cook and stir until onion is translucent, 5 to 7 minutes. Reduce heat to medium-low and add salsa, black beans, corn, chili powder, and cumin. Bring to a simmer; let simmer for 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine 2 cups pepper Jack cheese, ricotta cheese, spinach, egg, salt, and pepper in a bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Place 6 corn tortillas in the bottom of the prepared baking dish. Add 1/2 of the vegetable mixture using a slotted spoon, followed by 1/2 of the cheese and spinach mixture. Add a layer of 6 tortillas and follow with remaining vegetables and remaining cheese mixture. Top with remaining tortillas. Spread enchilada sauce across the top and remaining pepper Jack cheese."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until cheese is melted and bubbly, 45 minutes to 1 hour."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT80M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Virginia Mott"
+},
+"reviewBody": "This was better than I thought it would be! And it happens to be gluten free too! I couldn't find enchilada sauce so I used another jalapeno sauce I found at the store. Excellent!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "twd"
+},
+"reviewBody": "Loved this dish. Great flavor and it appealed to my vegetarian grandson and everyone one else. They all ask for the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Diane "
+},
+"reviewBody": "This recipe is absolutely delicious! I added pepper jack cheese between the layers as well as more on top, omitted corn while doubling the beans, and used low carb tortilla wraps. My husband and I will most definitely enjoy this lasagna again and again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Jessica Wilson"
+},
+"reviewBody": "I'd make ti again because it's easy, but wasn't great. May even leave ricotta out next time and jsut use cottage cheese"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Maggie Dechene"
+},
+"reviewBody": "We really enjoyed this recipe. I substituted cottage cheese for the ricotta and chopped chilies for the jalapeno. This will go into my menu rotation for sure."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SarahMc"
+},
+"reviewBody": "Great vegetarian recipe for my collection - everyone liked this. Used cottage cheese instead of ricotta. Cooked frozen spinach in the microwave first, then mixed into cheese mixture. Topped with cheddar/pepper jack mixture. Didn't use the full two cups of cheese in the cheese layer, probably 1 3/4 cup."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kimberly Hartwell"
+},
+"reviewBody": "I thought it was amazing The only change I made was the cumin as I didn't have any even though I thought I did. So I subbed and curry instead.\n\nIt was so filling and overall not difficult."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Inks"
+},
+"reviewBody": "oh this was GOOD! thank you for the great recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MFC"
+},
+"reviewBody": "One of the best recipes I have tried from here....it's delicious!! Made a few adaptations to make putting the casserole together a bit easier. Used 3/4 tsp crushed red pepper instead of jalapeno. Next time I might cut back to 1/2 tsp. I used 2 tsp chopped garlic from a jar. I suggest using chunky salsa that is refrigerated at the store. I also added a bit of brown sugar to the salsa to pacify some of the acidity of the tomatoes. I substituted cottage cheese for the ricotta. Makes the cheese layer so much easier to spread. The recipe makes a large casserole and it does freeze well. BIg hit with my husband and neighbor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cindy"
+},
+"reviewBody": "This dish is something I make every week, cut into 8 servings and send out for lunches as well as dinners! I leave out cheeses and use cottage cheese instead of ricotta for extra creaminess and it turns out amazing! Give it a try!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kelly"
+},
+"reviewBody": "I prepared and served this dish at our weekly pot-luck dinner. It was well received, even by the “gotta have meat” group. Changes I made: extra red bell pepper, about 1/2 cup extra pepper jack cheese on top and 2oz extra enchilada sauce (the can was 10oz). I’ll definitely prepare this dish again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "adale"
+},
+"reviewBody": "The changes made:\nLowest salt salsa possible\nUsed rehydrated dry black beans\nNo enchilada sauce\nWhole wheat tortillas\nLess cheese and for 1/2 of the recipe, one 5oz bag of fresh spinach, wilted and scissor “chopped”\nAnd low fat small curd cottage cheese\n\nThat’s probably a lot of changes but worked well is worth doing again. I have to prepare low fat, low salt meals."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "midcenturymoderngirl"
+},
+"reviewBody": "This dish was a hit with the whole family. Followed recipe exactly, other than adding a little extra spinach since we love it. The ratio of veggies and cheese and corn tortillas is perfect ! The enchilada sauce and salsa you use can vary the flavors to your liking, which is perfect. I used green enchilada sauce, next time I will try using red."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sue"
+},
+"reviewBody": "Very good and such a alternative to Italian lasagna! I did not have spinach so left that out and it was fine. My guests loved it as they only have had the same kind of vegetarian lasagna. Thanks will make againz!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/278588/vegetarian-mexican-lasagna/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/237/world-cuisine/latin-american/",
+"name": "Latin American"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/728/world-cuisine/latin-american/mexican/",
+"name": "Mexican"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/278588/vegetarian-mexican-lasagna/",
+"name": "Vegetarian Mexican Lasagna"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

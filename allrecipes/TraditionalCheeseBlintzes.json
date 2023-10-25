@@ -1,0 +1,140 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Traditional Cheese Blintzes"
+,"datePublished": "2020-06-19T00:24:43.000-04:00"
+,"dateModified": "2022-01-04T08:25:43.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "mizz_melanie"
+,"url": "https://www.allrecipes.com/cook/8718261"
+}
+]
+,"description": "These blintzes are thin pancakes, like crepes, stuffed with a sweet cottage cheese filling and perfect as a sweet or savory brunch addition."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/hwTmAV8qS3R9g2wZ-92a1gK1Z-c=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4564399-b911d5509bf845159e1567688f348fe5.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Traditional Cheese Blintzes"
+,"cookTime": "PT19M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "253 kcal"
+,"carbohydrateContent": "17 g"
+,"cholesterolContent": "119 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "15 g"
+,"saturatedFatContent": "6 g"
+,"sodiumContent": "527 mg"
+,"sugarContent": "8 g"
+,"fatContent": "14 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT25M"
+,"recipeIngredient": [
+"3 eggs",
+"1 cup milk",
+"2 tablespoons vegetable oil",
+"1.5 teaspoons salt, divided",
+"0.75 cup all-purpose flour, sifted",
+"1 (16 ounce) package dry small curd cottage cheese",
+"3.5 tablespoons white sugar",
+"3 tablespoons sour cream",
+"1 egg yolk",
+"0.25 teaspoon ground cinnamon",
+"0.25 cup butter, or as needed, divided" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Beat eggs in a bowl. Add milk, oil, and 1/2 teaspoon salt. Beat in flour using an electric mixer until well blended. Let batter stand for 15 to 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix the remaining 1 teaspoon salt, cottage cheese, sugar, sour cream, egg yolk, and cinnamon together in a bowl to make the filling."
+} ,{
+"@type": "HowToStep"
+,"text": "Melt butter in a 6- to 7-inch skillet. Spoon a portion of the batter onto the skillet; cook until lightly browned on the bottom, about 3 minutes. Turn out onto a tea towel. Repeat with the remaining batter, thinning with small amounts of water if necessary and greasing the pan after every 2 to 3 blintzes."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat oven to 400 degrees F (200 degrees C). Grease a baking sheet."
+} ,{
+"@type": "HowToStep"
+,"text": "Melt the remaining butter in the skillet over low heat, about 1 minute."
+} ,{
+"@type": "HowToStep"
+,"text": "Place a blintz on a clean work surface with the uncooked side up. Add 1 tablespoon filling and roll up, completely covering the filling. Place on the prepared baking sheet. Repeat with the remaining blintzes. Brush filled blintzes with melted butter."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until brown, 15 to 20 minutes."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT59M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/260547/traditional-cheese-blintzes/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/78/breakfast-and-brunch/",
+"name": "Breakfast and Brunch"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/147/breakfast-and-brunch/crepes/",
+"name": "Crepes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/260547/traditional-cheese-blintzes/",
+"name": "Traditional Cheese Blintzes"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

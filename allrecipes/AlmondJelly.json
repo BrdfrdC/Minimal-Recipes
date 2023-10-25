@@ -1,0 +1,437 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Almond Jelly"
+,"datePublished": "2020-06-18T23:10:03.000-04:00"
+,"dateModified": "2022-02-15T14:36:32.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "YELLOWMNM81"
+,"url": "https://www.allrecipes.com/cook/836621"
+}
+]
+,"description": "Plain gelatin powder and water are transformed, via the addition of sugar, milk, and almond extract, into this tasty Chinese dessert."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/MPE8awjacOrCXRwQD7CusFbIIdE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/601672-621484d60d474526b3c53a8425767958.jpg",
+"height": 250,
+"width": 250
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Almond Jelly"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "31"
+}
+,"cookTime": "PT5M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "148 kcal"
+,"carbohydrateContent": "29 g"
+,"cholesterolContent": "7 mg"
+,"proteinContent": "5 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "39 mg"
+,"sugarContent": "29 g"
+,"fatContent": "2 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"1 cup water",
+"2 (.25 ounce) envelopes unflavored gelatin powder",
+"1 cup water",
+"2 cups milk",
+"0.75 cup sugar",
+"1.5 teaspoons almond extract" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Pour 1 cup water in a bowl; sprinkle the gelatin over the water; stir until the gelatin is partially dissolved. Set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Bring 1 cup water to a boil in a large saucepan. Reduce heat to medium-low and slowly pour in the gelatin mixture. Add the milk, sugar, and almond extract; stir until the sugar and gelatin are completely dissolved; pour mixture into a large, shallow container. Refrigerate until firm, 3 to 4 hours. Cut into small squares to serve."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT190M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Love this recipe. I don't add the milk and almond extract to the pot until I am sure the gelatin and the sugar has completely dissolved. It is a little hard to tell with the milk added."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "carebear"
+},
+"reviewBody": "My almond jelly didn’t set properly and it has bubbles. What is the cause?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "shobah"
+},
+"reviewBody": "After 4 hours mine was not hardened at all , so I left it over night and when I woke up it was still very watery. So I tried putting some in a bowl and putting it in the freezer and it worked"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joyce D. Huang"
+},
+"reviewBody": "It is very simple, I will but a bit vanilla to make it a bit nice smell."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Juju"
+},
+"reviewBody": "I changed the water to milk."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lu Ann Hsue Flechsig"
+},
+"reviewBody": "I love this stuff. Cut down the sugar as mentioned by others. Second time I made it I actually used low fat milk and Splenda because I was trying to go low cal. Of course it's not quite as good, but it was a very low cal treat."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "val"
+},
+"reviewBody": "My daughter and I love this. I did cut down the amount of sugar to 1/2C and the almond to 1t. The full amounts made it too sweet and too overwhelmingly almond. Otherwise, yum."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "beejinSF"
+},
+"reviewBody": "I followed the directions in this recipe but it didn't gel properly. After 4 hours in the refrigerator, I tried cutting the gelatine into cubes, but it was so wobbly. Much of it fell apart, leaving the final product (lychee syrup and all) cloudy.\nIt tasted ok, though. \nIf I were to make it again, I would use less liquid, because I want my almond gel to hold its shape."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shino"
+},
+"reviewBody": "Delicious and refreshing. My family ate all immediately. I used only 1/2 cup of sugar in the gelatin, and topped each serving bowl with canned mandarin orange slices and some of the light syrup it comes with."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mist47"
+},
+"reviewBody": "I replaced the sugar with 12 little packets of Pure Via brand stevia.\n\nEasy to make and really easy to eat. My friends loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carolyn Busch"
+},
+"reviewBody": "Very adaptable. Cut down the sugar to 1/4 cup and used 1/4 cup equivalent Splenda ( 6 packets). Used 1 cup unsweetened almond milk and 1 cup whole milk. Increased almond flavoring to 3 teaspoons and added a dash of salt. Used a shallow rectangular glass pan to cut the gelatin into cubes. Refreshing with canned lychees and pitted sweet Bing cherries. Better than ice cream and probably healthier."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "cwong"
+},
+"reviewBody": "This recipe needs more gelatin and almond extract. I waited for 4 hours and it was like pudding. There must be something missing out of this recipe. It probably is a good idea to try this recipe before having it with your friends."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Cherie"
+},
+"reviewBody": "This was okay just not to my liking."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Charlene"
+},
+"reviewBody": "I couldn't find agar agar so I tried this gelatine-based recipe. I used less sugar too (1/2 cup) but still turned out to be too sweet. I also substituted part of the milk with evaporated milk (like 1/2 cup of evaporated milk and 1 1/2 cup of milk) to get a stronger milk taste but it probably added to the overall sweetness. And I used less water (like 1.75 cups in total) for a firmer texture. \n\nThe traditional recipe with agar agar uses 1/4 oz agar powder, 2 cup water, 1/5 cup milk, 1/5 evaporated milk, and few drops of almond extract. Procedures are the same"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "RMSR"
+},
+"reviewBody": "As many have said, this isn't like the Asian-style almond jelly in texture because this recipe calls for gelatin as opposed to agar-agar (sp.?). However, it is tasty and a great addition to a fruit salad whether you're using fresh or canned fruit. I used only 1/2 cup of sugar (it was still plenty sweet; will use less next time) and 2 tsps. of almond extract."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "andrea92fl"
+},
+"reviewBody": "Was good, but not something I'd make again. Cheap and easy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennalee003"
+},
+"reviewBody": "Awesome! I loved this the first time I made it, making it again tonight! Tastes creamy yet firm and just the right amount of almond."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "RoseRover"
+},
+"reviewBody": "Very nice and light. so easy to make. Served with fresh fruit salad. As per other reviews, I reduced the sugar to only 1/2 cup and it was sweet enough. I might use more gelatin next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BONBON"
+},
+"reviewBody": "This is so good, so refreshing. I would suggest using the fruit cocktail with extra cherries \"Very Cherry\" I believe its called. I used whole milk, turned out perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle Graham"
+},
+"reviewBody": "I had a craving for this the other day and was SO happy to find this recipe. I upped the almond to 2 tsp, cause I wanted to make sure it really had an almond flavour, and it was great. The only thing I might change is to lessen the amount of liquid so that the jello is more firm. Thanks for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ivy"
+},
+"reviewBody": "I love to add fruit cocktails in this. I also halve the milk into 1 cup of milk, and substitute the other cup of milk of 1 cup of table cream milk (nestle kind). I noticed when I use kiwis or pineapple, they seem to become icky. I found that if I blanched fruits like kiwi, figs, guava, pineapple, gingerroot and papaya, the enzymes are gone. Also, fruits in heavy syrup, fresh seedless grapes, canned peaches, canned pears, and fruit cocktail sink. Fresh fruit, fruit in light syrup, including fresh orange and lemon slices, sliced apples, peaches, or bananas float."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jo C."
+},
+"reviewBody": "I grew up making this with my mom so it's such a nostalgic treat!! I substitute soymilk now since I've become lactose intolerant. Don't pass this up - it's so so delicious!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CornellJJ"
+},
+"reviewBody": "My family enjoyed this so much that I ended up making it twice this week! It's really good and easy to make. The only modification I made is that I used slightly less sugar (1/2 cup) the second time I made it, because I found the first try too sweet. We felt that it was still sweet enough with only 1/2 cup sugar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "JINGSHI"
+},
+"reviewBody": "This is a quick standby for a classic Chinese dessert. It took minutes to prepare and set within hours. The only modification I made the first time round was to reduce the sugar from 3/4 to 2/3 cup. It was still plenty sweet especially with canned fruit cocktail in syrup, so I may reduce the sugar a bit more the next time round. Classic almond jello is made with agar agar, and I have yet to find a good recipe for this. Gelatin has a slightly different texture, more spring and elasticity, but is a good substitute. My toddler loves it, and it's a good way to get calcium in him! The next times I try it, I will experiment with unsweetened soy instead of milk, using 3 cups milk to 1 cup water, substituting coconut milk for 1 cup of milk, etc. This is a keeper!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/62723/almond-jelly/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/227/world-cuisine/asian/",
+"name": "Asian"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/695/world-cuisine/asian/chinese/",
+"name": "Chinese"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/62723/almond-jelly/",
+"name": "Almond Jelly"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

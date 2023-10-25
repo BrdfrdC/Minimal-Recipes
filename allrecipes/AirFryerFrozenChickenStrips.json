@@ -1,0 +1,119 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Air Fryer Frozen Chicken Strips"
+,"datePublished": "2022-08-31T09:01:38.000-04:00"
+,"dateModified": "2022-08-31T09:01:38.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "lutzflcat"
+,"url": "https://www.allrecipes.com/cook/lutzflcat"
+}
+]
+,"description": "Use an air fryer to quickly and easily cook frozen chicken strips to golden, crispy perfection in minutes."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/V3F5MOU8ZrwpdgvxnI9h2Dc-ToQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Air-Fryer-Frozen-Chicken-Strips-lutzflcat-f1cba8dd065340cbbee48b7503c92443.jpeg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Air Fryer Frozen Chicken Strips"
+,"cookTime": "PT11M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "106 kcal"
+,"carbohydrateContent": "3 g"
+,"cholesterolContent": "58 mg"
+,"proteinContent": "20 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "411 mg"
+,"fatContent": "2 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"25 ounces frozen cooked, breaded crispy chicken strips (such as Tyson®)" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Set the air fryer temperature to 380 degrees F (180 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Place frozen chicken strips in the air fryer basket, without touching or overcrowding."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook until crispy, 11 to 12 minutes. The color will not change much. You may have to cook in batches depending on the size of your air fryer, and cooking time may vary depending on the brand and size of your air fryer."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove from the air fryer and serve immediately."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT16M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8463459/air-fryer-frozen-chicken-strips/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/201/meat-and-poultry/chicken/",
+"name": "Chicken"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/659/meat-and-poultry/chicken/chicken-breasts/",
+"name": "Chicken Breast"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8463459/air-fryer-frozen-chicken-strips/",
+"name": "Air Fryer Frozen Chicken Strips"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

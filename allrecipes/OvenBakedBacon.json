@@ -1,0 +1,760 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Oven-Baked Bacon"
+,"datePublished": "2020-05-02T19:27:52.000-04:00"
+,"dateModified": "2023-03-10T10:07:35.081-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "barbara"
+,"url": "https://www.allrecipes.com/cook/3031597"
+}
+]
+,"description": "Learn how to cook bacon in the oven for a great, less mess way to get perfectly crispy bacon to serve with breakfast, crumbled in salads, and more."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/7b9u0RVfGg_5L73WslvoF5iw404=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/267904-oven-baked-bacon-ddmfs-step-4-2047b87a02bb4cf5babe2ef0b99fbe20.jpg",
+"height": 1125,
+"width": 1500
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=6153726534001",
+"description": "Bacon is crispy and delicious when you bake it in the oven!",
+"duration": "PT42S",
+"name": "How to Make Oven Baked Bacon ",
+"thumbnailUrl": "https://static.onecms.io/wp-content/uploads/sites/43/2022/11/09/267904-oven-baked-bacon-3x4-1.jpg",
+"uploadDate": "2022-06-07T12:58:50.558-04:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Oven-Baked Bacon"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "59"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "134 kcal"
+,"carbohydrateContent": "0 g"
+,"cholesterolContent": "27 mg"
+,"proteinContent": "9 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "574 mg"
+,"fatContent": "10 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+, "recipeCategory": ["Breakfast","Side Dish"]
+,"recipeCuisine": ["American"]
+,"recipeIngredient": [
+"1 (16 ounce) package bacon" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/B4zRycavzk3NbwAegFrl46R80D8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/267904-oven-baked-bacon-ddmfs-step-1-037cad0f3a3a4fd6b443aae985c2a7b4.jpg"
+}
+]
+,"text": "Preheat the oven to 350 degrees F (175 degrees C). Line a baking sheet with parchment paper."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/d4YRXycExkslORoBsMeOm-ZThnQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/267904-oven-baked-bacon-ddmfs-step-2-42dac5e288b44defbd6245cc764d55de.jpg"
+}
+]
+,"text": "Place bacon slices, one next to the other, on the prepared baking sheet."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven for 15 to 20 minutes."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/qJIrVcp7zK8R5SEE_QM8lEguQKc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/267904-oven-baked-bacon-ddmfs-step-3-1d679b0edab44c59a4e0b21d5a4415ab.jpg"
+}
+]
+,"text": "Remove from the oven to flip bacon slices with kitchen tongs and then return to the oven."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/7b9u0RVfGg_5L73WslvoF5iw404=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/267904-oven-baked-bacon-ddmfs-step-4-2047b87a02bb4cf5babe2ef0b99fbe20.jpg"
+}
+]
+,"text": "Bake until crispy, 15 to 20 minutes more. Thinner slices will need less time, about 20 minutes total. Drain on a plate lined with paper towels."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT35M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jane Charlie's recipes"
+},
+"reviewBody": "It is easy, does not splatter and Yummy! Awesome way to make bacon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Deb C"
+},
+"reviewBody": "This is a no fuss way to cook a pound of bacon, but it does take a little longer than frying. It you are busy, this is definitely worth making."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Really good! Less messy and dangerous with kids around!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kimber Parotta-Chipman"
+},
+"reviewBody": "Cooking bacon in the oven is fantastic!! I line a cookie sheet with foil, cover in parchment paper, transfer bacon to paper towels. When the grease cools, roll up the foil and throw it away!! I’ll never cook bacon any other way again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "midd0053"
+},
+"reviewBody": "Who ever said the bacon is charred, you are a very, very stupid person.\nDo you leave a soup on the stove until it burns?\nDo you warm up your car until it runs out of fuel?\nGrow up and change your review.\nYour oven runs hot."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Leslie Ann"
+},
+"reviewBody": "It was in many ways so much easier then the old cook top method. Easy to clean up after...And the bacon turns out terrific. If the recipe calls for cut up bacon it still works just fine. Thank you very much!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michael Sims"
+},
+"reviewBody": "I use a bacon tray with foil under it to catch the grease and I set the oven for 350 for 10 minutes ... not crispy but not undercooked either ... spread some brown sugar on it before putting into the oven for a real treat!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mark Branyon"
+},
+"reviewBody": "I set it for 15 min, turned it &amp; re-set for 15 min. At that point I checked for doneness &amp; removed about half the bacon to a tray lined with paper towels. I re-oriented &amp; turned the remaining bacon that was less done, set the timer for 5 minutes &amp; it was all perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Benz Babecki"
+},
+"reviewBody": "I followed this almost as written and it worked well. I used a shallow copper roasting pan with a rack. It allows the grease to drain away. Takes a bit of time though. I raised the oven temp to 400 degrees F and shaved about 10 minutes off the cook time. Though I feel this did make the bacon a bit drier."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chelsea"
+},
+"reviewBody": "The best bacon I've ever tasted! So perfectly cooked. The parchment paper is everything. Easy to clean and to store the fat in another container. Do crispy &amp; delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tony finley"
+},
+"reviewBody": "Love the easy clean up, turned out crispy they way I like. Could actually taste the Applewood flavor!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Trying_to_cook"
+},
+"reviewBody": "Loved it, but do take note if your bacon is thinner. As the recipe says, reduce the baking time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Raine"
+},
+"reviewBody": "My preferred method of cooking bacon. Big plus that I get all that bacon grease to cook with later."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "gjoe k"
+},
+"reviewBody": "I followed the recipe exactly, as I always do the first time I use a recipe. I had two baking sheets of very thick bacon. One went to the middle rack of the oven, the other to the lower rack. The lower rack came out perfect in 40 minutes (20 minutes to a side). The upper rack took 4 minutes longer. The bacon was perfect! I've used other baking bacon techniques. They work. So does this one, and it's easier that most."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shaka"
+},
+"reviewBody": "This is the only way to cook bacon. But I crank the oven to 400."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Patricia Briggs"
+},
+"reviewBody": "Worked great"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lj"
+},
+"reviewBody": "Thinking I will increase temperature to 375 degrees - had to fry most of bacon after 40 minutes in the oven at 350."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "gretch"
+},
+"reviewBody": "I read several reviews, but didn't see a suggestion to line a rimmed baking sheet with foil, put bacon on a grate over it to cook. Grease drips off, toss the foil when grease has congealed."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jacquelyn Allen"
+},
+"reviewBody": "I always do bacon in the oven and only difference is that I place the bacon on a cooling rack over the pan."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Timothy Knox"
+},
+"reviewBody": "Turn the oven up to 400 degrees and don't worry about flipping it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Paula"
+},
+"reviewBody": "Best way to make bacon, no splatters , and easy clean up using aluminum foil to line your cookie sheet/pan."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Robogranma "
+},
+"reviewBody": "I like my bacon a bit crispy so I bake it a bit longer. This is the only way to go. I have a extra large pan with a rack it’s perfect for this recipe. No need to turn the bacon it cooks beautifully on both sides. It’s bacon so yeah 5 Stars"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Richard Janice Armstrong"
+},
+"reviewBody": "Nice and Crisp! I used thick Bacon and turned out great! \nMaking BLT’s is a breeze now!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Marshall Faught"
+},
+"reviewBody": "Set time at 15 per side .. bacon is black as char"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Buehler"
+},
+"reviewBody": "I cooked the bacon for 19 minutes per side at 400 degrees. Not too crispy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Loves2eat"
+},
+"reviewBody": "This is really good, that said, I followed Beth's VERY useful advice. Turned out perfectly. \n\nThe only change I made was because i made an entire pound of bacon, I had to use 2 sheets, turned sideways; which cooked some pieces better than others, so i removed the better ones (around 16 mins) to a waiting plate (with paper towels to absorb grease) and reduced the remaining limper bacon to one pan and returned it (turned around properly) to the oven to finish (maybe 4 or 5 minutes longer). \nIt was all PERFECT!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lillian Anderson"
+},
+"reviewBody": "This works well with thick-sliced bacon. After it cools, I pulse it in the food processor to make bacon bits."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kevin Iggens"
+},
+"reviewBody": "I let it cook longer at 350 before flipping, about 25 minutes per side to get it a little more crispy without turning up the heat and risk burning it. Love cooking it this way so it doesn't curl up on you."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Boo22Babes"
+},
+"reviewBody": "Love this method. So much easier to cook for a crowd or just a large amount for the rest of the week. Thanks Barbara for a great method which will be used often in our home."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lucia9"
+},
+"reviewBody": "This is a great way to cook bacon without the mess. I also can bake as fifteen strips of bacon at the same time. Thank you for this tip!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tristan28"
+},
+"reviewBody": "amazing! with a crispy exterior, yet still juicy on the interior. I always worry about under-cooking bacon in the skillet and of oil splatter issues, so cooking it in the oven all at once with minimal effort was beautiful. There is more control over the cooking intensity and also the bacon doesn't come out dry and incinerated, but still has crispy edges. \nThis recipe told me what I needed to know in super simple terms."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "49er Fan"
+},
+"reviewBody": "350 is waaaaaaaaaaaay too low. After 35 minutes I had to bump it to 400. Unless you like it raw take the temp up to 400."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Superdawg"
+},
+"reviewBody": "I will NEVER make bacon any other way! After the 40 minutes of baking when I take them out I drizzle with real New York Maple Syrup and let them sit 5 minutes before serving...O My Lord..take me now! Thank you and God bless! Laura :-)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "terster"
+},
+"reviewBody": "Used thick bacon, took about 20 minutes per side at 400 degrees vs. 350."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ibscarry"
+},
+"reviewBody": "This turned out well &amp; it had a good taste. I don’t know why, but it didn’t seem any easier than frying bacon in a skillet."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Susan Heins"
+},
+"reviewBody": "Perfect way to make bacon! Clean-up was a breeze with the Parchment Paper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Theresa Baker"
+},
+"reviewBody": "Yes, I would no grease spatter. I love it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Monique"
+},
+"reviewBody": "No I would not make any change I loved it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bonnie Simpson"
+},
+"reviewBody": "I bake it at a higher temp. 400, I use tinfoil and it’s a easy clean up. May take less time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Eileen Hollerbach"
+},
+"reviewBody": "I do this all the time ! I learned this from working in a restaurant. So much easier than babysitting a frying pan on the stove. Parchment paper is a lifesaver for this and you will have no sticking and really no mess. After removing the bacon strips, let the bacon grease cool and harden a bit, then throw away."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Susan"
+},
+"reviewBody": "I use aluminum foil to bake my bacon. I fry up a big package and refrig the rest for use during the week. Quick sandwiches and recipe ingredient ready for use. Pour off the grease and most of the time I could just put the baking sheets back in the cabinet. Very little mess and clean up."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Maria carey"
+},
+"reviewBody": "Tip - Make sure you use a heavy duty baking sheet, one that doesn’t warp. Be careful when taking the baking sheet from out of the oven, that the oil does spill over the sheet."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Joanne Read"
+},
+"reviewBody": "My Mother in law always cooked her bacon this way. So this is how I cooked it when I stayed with her after we got married. Comes out nice and crispy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Janet Lapsley"
+},
+"reviewBody": "I sometimes use the new copper crisper sheet and rack so grease drips off as it cooks. So much easier and great for bigger groups that bacon. You can sprinkle brown sugar on the bacon for a real treat!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Beth"
+},
+"reviewBody": "I’ve been making this for years, only much easier!! Put bacon on foil-covered cookie sheet and place in a COLD oven. Turn to 425, close oven an take out in 16 minutes (if bacon is fairly thick). Let the grease solidify, gather the foil and throw it out. VERY easy— we love it. If your oven runs hot or is real new, I suggest you check it out in 14 minites.\nBeth"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marianne"
+},
+"reviewBody": "That's exactly how I cook bacon - perfection every time and much less clean-up. The bacon grease stays nice and white as well."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/267904/oven-baked-bacon/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/",
+"name": "Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+"name": "Side Dish"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/267904/oven-baked-bacon/",
+"name": "Oven-Baked Bacon"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,305 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Fresh Tuna Ceviche"
+,"datePublished": "2019-07-10T02:53:28.000-04:00"
+,"dateModified": "2022-07-14T15:51:28.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Brian"
+,"url": "https://www.allrecipes.com/cook/564970"
+}
+]
+,"description": "This ceviche made with fresh, raw tuna chunks. Great as an appetizer or side dish. I learned this one from my grandparents and found it to be a winner among my college buddies."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/SQm-AvVycfU11WTDLZd2HYfgSKw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/613607-bf6651adc0864ae193ba501da45d150a.jpg",
+"height": 250,
+"width": 250
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Fresh Tuna Ceviche"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.4",
+"ratingCount": "16"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "117 kcal"
+,"carbohydrateContent": "6 g"
+,"cholesterolContent": "38 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "21 g"
+,"saturatedFatContent": "0 g"
+,"sodiumContent": "58 mg"
+,"sugarContent": "2 g"
+,"fatContent": "1 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT25M"
+,"recipeIngredient": [
+"12 ounces sashimi grade tuna",
+"0.75 bunch green onions, thinly sliced",
+"0.5 medium onion, finely diced",
+"2 teaspoons minced fresh ginger root",
+"1 fresh jalapeno pepper, seeded and minced",
+"0.25 cup lemon juice, or to taste",
+"0.25 teaspoon soy sauce, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Cut tuna into 1/2 inch cubes, and place into a bowl. Stir in the onion, green onions, ginger, jalapeno, lemon juice, and soy sauce; mix to combine. Cover and refrigerate for 2 to 3 hours. Taste before serving and add more lemon juice or soy sauce as needed."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT145M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "rsteedley09"
+},
+"reviewBody": "I've made this dish several times and wanted to give the ones that tried it and didn't like it a few pointers. Use Thai chili pepper or a hot Asian/South Pacific pepper instead of jalapeno. You can find them in Asian markets. Also, I would never marinate the tuna over the 2-3 hour time frame before eating. You don't want the tune to lose its texture completely. This is a very popular dish in South Pacific island countries like Micronesia. Enjoy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer McD"
+},
+"reviewBody": "I tried it but I didn't have ginger or jalapeno. I used tomato and cayenne pepper and it turned out great. I also added a pinch of sugar as my mother always told me to add to all my savory dishes. Reminds me of poke not ceviche but who cares when its good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "jsamaras"
+},
+"reviewBody": "I loved this recipe although I did change it up a bit. i added chopped tomato, freh cilantro and avacado. even my husband liked it and he does not typically like tuna."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Gabby"
+},
+"reviewBody": "I don't know what happened. I love ceviche and don't mind the raw tuna, but this didn't turn out great for me. Maybe marinating it overnight was too long. The texture of everything didn't turn out great. I liked my friend's ceviche better that used fresh cooked shrimp."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Quida Cooke"
+},
+"reviewBody": "Fear not! The lemon (or use lime)literally cooks the fish so it's not raw. If you haven't tried ceviche, now is the time. Scallops are another great option."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "igigsti"
+},
+"reviewBody": "Simple and delicious. I added some shitake mushroom for a lil xtra flavor.. oh my."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "NancyW"
+},
+"reviewBody": "I added fresh diced avocado, some fresh lime juice &amp; cilantro just before serving. This was a hit, even in Minnesota with a \"non-sushi\" crowd."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jim A Staples"
+},
+"reviewBody": "Absolutely incredible!I added tomatoes as well and what a fantastic dish. I also tried a little bit with some balsamic vinegar. Just a wonderful dish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "HollyN82"
+},
+"reviewBody": "very yummy. probably a safer choice if you're not totally confident in your ability to pick out sashimi quality fish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Roxanne"
+},
+"reviewBody": "It was delicious but we had to double if not triple the amount of soy sauce. Being from Louisiana we are a little numb to spice but we couldn't taste the jalapeño at all. we probably would have doubled that as well if we had another. After all, it was still very good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Karen Coyne Downes"
+},
+"reviewBody": "Excellent! I threw some toasted sesame seeds on top before serving."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jeanlucsgirl"
+},
+"reviewBody": "Simple and so tasty!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JenBo SoCal"
+},
+"reviewBody": "My husband caught a couple of bluefins so I decided to try this recipe... absolutely delicious! I added chopped tomatoes and chopped cilantro before serving, which gave it a different twist in flavor. I'll send the hubby back out to fish for more bluefin!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "HSKLEIN"
+},
+"reviewBody": "This is a fantastic appetizer for the sashimi tuna lover. I served in clear martini glasses to showcase the beautiful colors and garnished with avocado slices and asian rice crackers."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/45934/fresh-tuna-ceviche/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/108/appetizers-and-snacks/seafood/",
+"name": "Seafood"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/15133/appetizers-and-snacks/seafood/ceviche/",
+"name": "Ceviche Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/45934/fresh-tuna-ceviche/",
+"name": "Fresh Tuna Ceviche"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,470 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Mexican Chorizo"
+,"datePublished": "2019-04-03T23:48:58.000-04:00"
+,"dateModified": "2022-11-18T16:19:40.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "James"
+,"url": "https://www.allrecipes.com/cook/moodock"
+}
+]
+,"description": "This chorizo sausage recipe uses a meat grinder to blend boneless pork, Aleppo peppers, and spices into a mildy hot mixture for patties or links."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/8N2YilpGjNW6U_8jqZQH5RAhSXI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5353589-f8d9d5b7477a472c96c5e3c72297095c.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Mexican Chorizo"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "35"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "155 kcal"
+,"carbohydrateContent": "3 g"
+,"cholesterolContent": "45 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "14 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "629 mg"
+,"sugarContent": "0 g"
+,"fatContent": "10 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT25M"
+,"recipeIngredient": [
+"2 pounds boneless pork butt (shoulder), cut into 3/4-inch pieces",
+"1.5 tablespoons crushed Aleppo peppers",
+"1.5 tablespoons chili powder",
+"4 cloves garlic, minced",
+"2 teaspoons salt",
+"1 teaspoon freshly ground black pepper",
+"0.5 teaspoon dried oregano",
+"0.5 teaspoon ground cumin",
+"0.25 teaspoon ground cloves",
+"0.25 teaspoon ground coriander",
+"0.5 cup distilled white vinegar",
+"2 tablespoons water",
+"1 teaspoon vegetable oil" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Chill your meat grinder&#39;s head assembly and grinder hopper in the refrigerator for 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix pork, Aleppo peppers, chili powder, garlic, salt, black pepper, oregano, cumin, cloves, and coriander together in a large bowl until thoroughly blended. Cover and refrigerate for 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Fill a large mixing bowl with ice cubes; place a smaller metal bowl onto the ice cubes to catch the ground meat. Assemble the chilled meat grinder."
+} ,{
+"@type": "HowToStep"
+,"text": "Grind pork mixture with a coarse cutting plate into the small bowl. Return ground meat to the refrigerator for 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Gently stir vinegar and water into pork mixture until thoroughly mixed. Form into eight patties, cover, and refrigerate until flavors develop, 8 hours to overnight."
+} ,{
+"@type": "HowToStep"
+,"text": "When ready to cook, heat oil in a heavy skillet over medium-low heat. Pan-fry patties in batches until browned and no longer pink in the middle, 5 to 8 minutes per side. An instant-read thermometer inserted into the center should read at least 160 degrees F (70 degrees C)."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT615M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Tim"
+},
+"reviewBody": "I made some quantity changes, used different chili powders (ancho,cayenne,guaillo,paprika blend)and added a bit more fat because the Butt I used was only about 10-15% fat. As a 45 year sausage maker, I have agreed with most traditional experts, that sausage needs a minimum of 20% fat and 25% is likely better for a juicy and flavorful sausage. Overall, this was good basic recipe ."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Matt Reed"
+},
+"reviewBody": "I lived in the Phoenix-Metro area for a few years in my early twenties. It was there I learned to love chorizo. I moved back Pennsylvania and was never able to find anything close to what I had experienced in the southwest. Several (many) years passed and l found Allrecipes, and eventually this recipe. \n\nI've been making this chorizo 6-8 times a year for the past several years. It's fantastic. Nice job.\n\nAs others cited, I didn't have Aleppo pepper, either. I did have Hungarian hot paprika. It's what I always use, because I can find it locally."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mehitabel"
+},
+"reviewBody": "I have made this recipe many times and our family loves it. I usually use ground beef instead of the pork; sometimes I use chicken. This is an unusual sausage in that it's truly good made from every meat I've tried. \n\nI sometimes decrease the vinegar just a bit, and use cider vinegar or white vinegar depending on what I have on hand. \n\nWe portion the bulk sausage into 1/2-1 pound amounts and flatten into quart bags in the freezer. They thaw in a few minutes and are wonderful. Thank you so much for this recipe- it's one of our true mainstays."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ann Miranda"
+},
+"reviewBody": "Loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brittny Glaser"
+},
+"reviewBody": "Make it vegan by using lightlife smart meatless crumbles"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CarlFC"
+},
+"reviewBody": "An excellent start to perfect chorizo. It really doesn't need tweaking, but I will anyway."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alan Oliver"
+},
+"reviewBody": "This recipe was excellent, the entire family enjoyed it as a burger and used just mayo, lettuce and tomatoes to accompany the burger. The spices were spot on did't need any fancy dressings the pattie was center stage. The Cloves and Aleppo Pepper stood out as did the Cumin, \"Love that Spice\". Used half pork and beef , will use pork and buffalo next, and increase spice level a bit. Like others had mentioned really like the idea of not having to remove all that extra fat!This I see will be excellent for breakfast ideas as well! Thanks for the Awesome recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Danny Deraney"
+},
+"reviewBody": "I made this tonight and it was spot on. Instead of pork, I used ground chicken and made tacos. I did not use any oil and it still tasted fantastic. Being Lebanese, I always have Aleppo pepper and it was a perfect match."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Drake"
+},
+"reviewBody": "This is a good starting place for a chorizo recipe in my opinion. I did not have, nor could get, the Aleppo peppers unfortunately. In place of the Aleppo peppers, I used paprika, and crushed chili de arbol, all other ingredients were added as specified in the recipe. While the chorizo had a good flavor, I personally felt that it tasted too much of vinegar and garlic. For my next attempt I will cut the vinegar and garlic down by 25%. I'll also increase the amount of chili powder, most likely add another 2 tablespoons of California chile powder."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Bluebill"
+},
+"reviewBody": "i only rated this 1 star cuz im reasonably certain i did something wrong. i used store ground pork. i covered it and let it sit in the fridge over night. when i took it out to cook it was seasoned pork in a pool of oil, water and vinegar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jane Smith"
+},
+"reviewBody": "Tastes just like the chorizo I buy at the store, but with much better texture and no by-products."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "kmtod1"
+},
+"reviewBody": "I have to admit I did not use Aleppo pepper, I used ancho chili instead. I found it odd to use a middle eastern pepper in a Mexican sausage, plus with the state of Syria, Aleppo pepper is harder and harder to find. That said, I was underwhelmed with this recipe. It was too vinegary and did not achieve the depth of flavor that a great chorizo has; rich, smoky and garlicky."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "JohnMarzy"
+},
+"reviewBody": "There did not seem to be a depth of flavor. Will keep searching for more of a traditional taste that I was looking for."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer Maklary Prince"
+},
+"reviewBody": "Loved this recipe! Had to special order the Aleppo pepper but it is well worth it. Glad I tripled the recipe and vac packed!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Crystal"
+},
+"reviewBody": "Made beef burger patties out of this. Seasonings are spot on, but next time I might reduce the amount of vinegar because mine came out a bit too tangy for me (or perhaps this was because I used apple cider vinegar instead of white?)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lynnette DuFord"
+},
+"reviewBody": "My Son made this and I don't think he changed a thing.It was gone in a day or 2! He is quite a good cook and gives me a run for my money!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Valorie"
+},
+"reviewBody": "Made this exactly as written, including grinding the pork. I found the Aleppo pepper on Amazon. ($12.00 for 2.5 oz.) In all honesty, I will buy ground pork next time because my Kitchen Aid grinder did NOT handle it well. My husband loved the recipe, so there will be a next time. Thank you for the recipe, James. And COOKINGCOWGIRLS, maybe freeze the meat, as I will before using the grinder next time. That seems to make a big difference, rather than just chilling it in the fridge."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lece"
+},
+"reviewBody": "Delicious! We added some chipotle and a few more spices. Made it from wild boar meat and it was to die for. Best Chorizo we've ever had. Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "caguilar"
+},
+"reviewBody": "I come from a family in Mexico who owned a Chorizo making Co. Many people and restraunt owners would come and flock around the business to make advanced orders, since it ran out so quickly!! My Uncle had a similar recipe but used basically all the same ingredients listed here but also used cinnamon sticks, dried chile pods, chile tepin and grounded all this ingredients in a blender till they became powdery then added the vinegar, water and olive oil. He also used half ground pork and half ground beef. It was the best Chorizo in the world. I use that same recipe handed down from generations to this day and have handed it down to my daughter and my granddaughters."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "COOKINCOWGIRLS"
+},
+"reviewBody": "Used ground pork, as I am not enamoured of my new meat grinder. Sub 1 tbs. paprika and 1/2 tsp. cayenne for Aleppo."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Trish Gillogly"
+},
+"reviewBody": "Where do I find Aleppo pepper?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christina"
+},
+"reviewBody": "EXCELLENT! I used already ground pork and just followed the directions from there. The next day, I cooked up a small portion just to taste it and it was delicious! My little guy loved it so much that I had to cook up some more for him to eat, lol. I just divided it into approx. 1/2# portions and froze it that way, so I'll have it ready for any recipe that calls for it. I loved that this was not at all greasy like the traditional chorizo, but had all the flavor. Definitely will be using this recipe again! Thanks for sharing. :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stacey"
+},
+"reviewBody": "While I didn't follow the directions - I used ground beef because I needed chorizo NOW so I just used the spice blend - which is dead on! IMHO, the cloves push this over the top - dead on! THANK YOU - can hardly wait to use this correctly from now on!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Muttley"
+},
+"reviewBody": "This is the real deal. I added a 1 teaspoon of liquid smoke."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hazel"
+},
+"reviewBody": "This recipe works wonderfully well with store-bought ground turkey. You have all of the flavor of Mexican chorizo without the fuss and extra fat. I love spicy food and this met all of my criteria. If you don't have all of the spices or have others that you would prefer to use you should still get an excellent chorizo. I give this recipe five stars!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/214089/mexican-chorizo/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/237/world-cuisine/latin-american/",
+"name": "Latin American"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/728/world-cuisine/latin-american/mexican/",
+"name": "Mexican"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/214089/mexican-chorizo/",
+"name": "Mexican Chorizo"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

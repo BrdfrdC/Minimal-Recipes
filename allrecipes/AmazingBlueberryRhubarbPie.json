@@ -1,0 +1,509 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Amazing Blueberry Rhubarb Pie"
+,"datePublished": "2020-06-18T23:59:00.000-04:00"
+,"dateModified": "2020-06-18T23:59:00.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Katy Smith"
+,"url": "https://www.allrecipes.com/cook/13544609"
+}
+]
+,"description": "This amazing blueberry rhubarb pie recipe has been handed down through several generations."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/z5tvKQchJBBMfHTS-WKmXA7TMf8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4519427-520167ac21dd4e28a0681d1dcf5733ba.jpg",
+"height": 844,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Amazing Blueberry Rhubarb Pie"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "31"
+}
+,"cookTime": "PT45M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "324 kcal"
+,"carbohydrateContent": "45 g"
+,"fiberContent": "4 g"
+,"proteinContent": "4 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "310 mg"
+,"sugarContent": "17 g"
+,"fatContent": "15 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"0.25 cup white sugar",
+"0.25 cup light brown sugar",
+"0.25 cup quick-cooking tapioca",
+"0.25 teaspoon salt",
+"3 cups diced rhubarb",
+"3 cups fresh blueberries",
+"1 pastry for a 9-inch double crust pie" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat oven to 400 degrees F (200 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir white sugar, brown sugar, tapioca, and salt together in a large bowl. Add rhubarb and blueberries; toss to coat."
+} ,{
+"@type": "HowToStep"
+,"text": "Divide the pie dough in half and roll each half out into a 9-inch round. Place 1 round of dough in the bottom of a pie plate. Pile rhubarb-blueberry mixture on top of the dough and top with the remaining dough round. Trim excess dough from the top crust to leave a 1/2-inch border below the top rim of the pie plate. Tuck the top edges of the crust under the bottom crust and crimp border together. Place pie plate on a rimmed baking sheet."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven for 20 minutes. Reduce oven temperature to 350 degrees F (175 degrees C) and continue baking until the crust is golden brown and the filling is bubbling, 25 to 30 minutes more. Cool for 2 hours."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT180M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This recipe was delicious! Just the right amount of sweet and tart. The crust was fully cooked through, and didn't become soggy on the bottom. I baked it and then chilled it fully for a whole day before cutting, and it was perfectly firm, super-easy to get out of the pie plate. I made the recipe as described, other than brushing the crust with milk and sprinkling it with turbinado sugar. I think any extra sugar in the filling would have made it too sweet. It's a very adult flavor combination. I accidentally used a 10 inch pie plate, but I think it made for a good ratio of crust to filling."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Packers Fan"
+},
+"reviewBody": "Made the recipe as stated and it was dynamite! Will definitely be making it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Judy"
+},
+"reviewBody": "I followed recipe exactly, but used thawed frozen rhubarb since I couldn't find fresh. I found it too tart for my taste. Next time I will increase sugar from 1/2 to 3/4 cup."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Paulahs"
+},
+"reviewBody": "Delicious. Easy fabulous. Great use of home brown rhubarb!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jeffrey131"
+},
+"reviewBody": "This makes a delicious pie. I used dark brown sugar because I didn’t have any light."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Darla Carlson"
+},
+"reviewBody": "Okay too much fruit. Cut by 3/4 each\nYummmm"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ann Loveless"
+},
+"reviewBody": "A little tart, but delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "rbad"
+},
+"reviewBody": "I followed the recipe; used fresh blueberries and rhubarb and I agree with another reviewer.... it was not juicy at all and the quick cooking tapioca never cooked enough. Disappointing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Debra Foldoe"
+},
+"reviewBody": "A great pie recipe! I tend to like it with a little more rhubarb than blueberry, but who knew they pair together so nicely! Low on sugar too. A keeper, thanks for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathy Crnkovich"
+},
+"reviewBody": "It was delicious! Definitely will make it again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Zenovia Moroz"
+},
+"reviewBody": "Amazing awesome pie. Our family loves it. I have made it twice and it disappeared. The only change is that I used the 3T cornstarch like other reviewers as I didn't have Tapioca. What I especially love is that it has only 1/2 a cup of sugar total and it's sweet as can be. Having less sugar is great and beats the 2 cups I need for a full rhubarb pie. This one is going to be a family favorite every year when our Rhubarb and Blueberries are ready in the garden."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jenn"
+},
+"reviewBody": "Very good, especially if you do not prefer super sweet pie recipes. When I took it out of the oven, bits of tapioca were visible and I thought it was going to be a bust. However, as the pie cooled the tapioca absorbed the liquid and was no longer visible after an hour. For extra assurance, I did poke a few blueberries through the vents to give the tapioca something to absorb."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gail"
+},
+"reviewBody": "Followed the recipe exact with fresh fillings. Big hit with us! Definitely in my recipe box!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Leslie"
+},
+"reviewBody": "Used 3 Tablespoons of cornstarch instead of tapioca. Used Pillsbury refrigerated pie crust instead of homemade due to time constraints. This pie was so good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Brenda Barkley Lunden"
+},
+"reviewBody": "I will NOT be making this pie again. I followed the recipe exactly and was SO disappointed. My pies were so dry...no juices came out of the rhubarb or blueberries, the tapioca remained crunchy. I ended up throwing away 2 pies and starting over with a Betty Crocker recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Andrea Di Salvo"
+},
+"reviewBody": "I made this recipe as written and it was fantastic! The rhubarb was a little more tart than I usually like, but when combined with the blueberries, the balance of sweetness was perfect. I'll be making it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "buttercup101"
+},
+"reviewBody": "I had only one pie crust in the fridge, so I made a topping of flour, oats, brown sugar &amp; butter. My husband and kids fought over the last piece."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "William Mihalo"
+},
+"reviewBody": "I followed this recipe exactly except I substituted 3 tablespoons of corn starch for the quick cooking tapioca (I didn't have tapioca available). The recipe came out great and I will definitely make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shari"
+},
+"reviewBody": "This pie is a winner, delicious. I too cut back on the sugar as others suggested. This will be a summer staple in our home."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "penguinite"
+},
+"reviewBody": "I love this combo. However I need to add more sugar since my blueberries are natural Georgia blueberries and not as sweet as the ones you buy. ."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathy Isaac Hamm"
+},
+"reviewBody": "Just perfect! Not too sweet, not to tart. That bit of extra salt is perfect. No need to look further for an ideal rhubarb/ blueberry recipe. Wonderful, too, with JUST rhubarb (6cups), nothing else altered."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TheCatThatBakes"
+},
+"reviewBody": "Delightful! ;-)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michael Rosencrants"
+},
+"reviewBody": "Definite make again, great combo of sweet and just the right sour. About the only thing I would reinforce is letting the pie cool completely as we could not resist and ate it almost right out of the oven and it was runny. Delicious, but runny. Thank you for this one, it's a keeper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "polly"
+},
+"reviewBody": "Made this at our camper and used the grill to bake it took about 5 minutes longer than in the oven but well worth the wait. I didn't have tapioca so I substituted corn starch and it was perfect . Definitely will make again ."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jajacque"
+},
+"reviewBody": "I made this pie yesterday. It is delicious ! I only have 10inch deep pie plates so I increased the fruit to 4 cups each and added a little more sugar and tapioca. I also made an oat crumb topping. Loved it! Will make again to use my rhubarb. Thanks."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Charmin"
+},
+"reviewBody": "My husband loved it better than blueberry alone! I too was concerned there wasn't enough sugar - wrong. Just enough for the right combo of sweet/tart. And less sugar = more flavorful. Great consistency also. It's a keeper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mawof9"
+},
+"reviewBody": "I followed the recipe as is. It was easy to put together and turned light and flaky with a good flavor. I have made five pies using this recipe and they all have turned out really great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Grangrt"
+},
+"reviewBody": "I looked at the amount of sugar in this recipe and thought it would never be sweet enough. Wrong! This is probably the best pie recipe I've ever tried. I have been making pie for over 50 years and this is my new favorite!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "nakabc0"
+},
+"reviewBody": "This will have to go in every mother's recipe book. It is delicious, not to mention healthier than some of the alternatives, and the filling makes a great cobbler too!!! Thank you Katy for sharing this wonderful recipe!!!!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/237514/amazing-blueberry-rhubarb-pie/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/808/desserts/pies/fruit-pies/",
+"name": "Fruit Pies"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/12953/desserts/pies/fruit-pies/rhubarb-pie/",
+"name": "Rhubarb Pie Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/237514/amazing-blueberry-rhubarb-pie/",
+"name": "Amazing Blueberry Rhubarb Pie"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

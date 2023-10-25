@@ -1,0 +1,234 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Microwave Divinity"
+,"datePublished": "2020-06-18T23:52:41.000-04:00"
+,"dateModified": "2022-01-14T01:18:39.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Crystal"
+,"url": "https://www.allrecipes.com/cook/2723057"
+}
+]
+,"description": "Traditional divinity candy is a quick and easy dessert to prepare when cooked in the microwave, and this version comes out perfectly every time."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/CGcFN_5sJEKlmC09IzG6Np3g0iU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1885644-3f3329a57ac14aa483e0aa9d13655a2c.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Microwave Divinity"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "3.8",
+"ratingCount": "10"
+}
+,"cookTime": "PT3M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "79 kcal"
+,"carbohydrateContent": "20 g"
+,"proteinContent": "0 g"
+,"sodiumContent": "8 mg"
+,"sugarContent": "18 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"2 cups white sugar",
+"0.33333334326744 cup light corn syrup (such as Karo®)",
+"0.5 cup water",
+"2 egg whites",
+"1 teaspoon vanilla extract" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Mix sugar, corn syrup, and water together in a microwave-safe bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook sugar mixture in the microwave until mixture is 250 degrees F (120 degrees C), or until a small amount of sugar mixture dropped into cold water forms a rigid ball, 3 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Beat egg whites in a glass or metal bowl until stiff peaks form. Lift your beater or whisk straight up: the egg whites will form sharp peaks."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir sugar mixture into egg whites until no longer glossy, about 7 minutes. Stir in vanilla extract."
+} ,{
+"@type": "HowToStep"
+,"text": "Drop candy by teaspoonfuls onto a sheet of waxed paper. Let stand until cooled, 15 minutes."
+} ]
+,"recipeYield": ["24"]
+,"totalTime": "PT33M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JoAnne Moran"
+},
+"reviewBody": "Takes longer than stated."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Melinda"
+},
+"reviewBody": "I nuked the sugar mix for 7 minutes and beat together for 8 minutes. It wasn't drop ready, more like peanut brittle where it has to set up in the fridge. I poured it out onto wax paper in a cookie sheet and popped it in the refer. Very tasty, and reminded me of my Grandma's!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Julia Zubia"
+},
+"reviewBody": "it turned out perfect. Just use your thermometer to reach hardball stage and beat with mixer on high until it looses it's gloss. I even added walnuts. It's beautiful and I'm not all exhausted"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Shelly Scofield"
+},
+"reviewBody": "Came out lway too soft. didn't ever set. Flavor was great, but defititely not divinity."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Linda Freasier Bailey"
+},
+"reviewBody": "times (both cooking &amp; beating with mixer were way under actual time needed --7 min cooking &amp; 14 min beating still left it a bit sticky) flavor was good &amp; recipe is still much easier than traditional so I will probably make it again modifying the time accordingly."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Msmomof2"
+},
+"reviewBody": "Very easy recipe, I have never made divinity and this turned out perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Jessica Adams Williams"
+},
+"reviewBody": "This recipe did NOT work!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "G. Kathie Bettencourt"
+},
+"reviewBody": "I grew up making Divinity with my grandmother for ever holiday that came along plus. It was definitely a labor of love. As someone helped themselves to my KitchenAid Mixer and double boiler when I was moving, I thought this might be an easier way to bring a bit of old home into the holiday.\n\nIt took 8 1/2 minutes in the microwave, checking temp and stirring every three minutes, not just 3 as stated. \n\nWhile it doesn't compare to the tried and true full recipe, it is good. \n\nA nice variation is to take maraschino cherries. dry them so no excess moisture remains. Chop them up and add in after the vanilla,it is all mixed. It turns the divinity a pale pink and makes for a nice change."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/230540/microwave-divinity/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/372/desserts/candy/",
+"name": "Candy Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/752/desserts/candy/divinity/",
+"name": "Divinity Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/230540/microwave-divinity/",
+"name": "Microwave Divinity"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

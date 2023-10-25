@@ -1,0 +1,164 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Cheese and Lemon Blintzes"
+,"datePublished": "2020-06-19T00:24:43.000-04:00"
+,"dateModified": "2020-06-19T00:24:43.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "onlyrose"
+,"url": "https://www.allrecipes.com/cook/3144381"
+}
+]
+,"description": "Blintzes make a traditional Shavuot holiday breakfast or dessert; these thin rolled pancakes are filled with cheese, raisins, and lemon peel."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/n9NUBc0e1pywB8rZKZWdNk5y7sg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6814227-c5212658d6424b5f9db2d07817cdebfc.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Cheese and Lemon Blintzes"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "2"
+}
+,"cookTime": "PT4M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "237 kcal"
+,"carbohydrateContent": "18 g"
+,"cholesterolContent": "124 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "6 g"
+,"saturatedFatContent": "10 g"
+,"sodiumContent": "234 mg"
+,"sugarContent": "8 g"
+,"fatContent": "16 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"1 cup all-purpose flour",
+"3 eggs",
+"0.5 teaspoon salt",
+"cooking spray",
+"2 (8 ounce) packages cream cheese, softened",
+"0.5 cup raisins",
+"3 tablespoons white sugar, or to taste",
+"2 egg yolks",
+"1 tablespoon lemon zest",
+"0.5 teaspoon vanilla extract",
+"0.25 teaspoon ground cinnamon",
+"1 tablespoon butter, or as needed" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Mix flour, eggs, and salt together in a bowl until smooth and creamy."
+} ,{
+"@type": "HowToStep"
+,"text": "Lightly coat a small skillet with cooking spray. Pour 2 to 3 tablespoons of batter into the skillet. Swirl around until even and then place skillet over medium heat. Cook until sides begin to curl away, about 2 minutes. Turn and cook other side until lightly browned, about 1 minute more. Put onto a plate."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix cream cheese, raisins, sugar, egg yolks, lemon peel, vanilla extract, and cinnamon together in a bowl to make the filling. Place 2 to 3 teaspoons of filling on each blintz and roll up like a small burrito."
+} ,{
+"@type": "HowToStep"
+,"text": "Melt 1 tablespoon butter in a skillet over medium heat. Cook the filled blintzes, turning carefully, until lightly browned, about 30 seconds each."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT34M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Deb C"
+},
+"reviewBody": "I did not add the raisins, instead I topped the blintzes with assorted fruit and whipped cream. It made a delicious late morning meal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joshua Patterson"
+},
+"reviewBody": "I've made this twice now. Great, simple delicious!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/260548/cheese-and-lemon-blintzes/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/78/breakfast-and-brunch/",
+"name": "Breakfast and Brunch"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/147/breakfast-and-brunch/crepes/",
+"name": "Crepes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/260548/cheese-and-lemon-blintzes/",
+"name": "Cheese and Lemon Blintzes"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

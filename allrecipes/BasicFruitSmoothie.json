@@ -1,0 +1,908 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Basic Fruit Smoothie"
+,"datePublished": "2000-09-13T12:54:28.000-04:00"
+,"dateModified": "2023-02-14T10:24:23.132-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "STARGIRL577"
+,"url": "https://www.allrecipes.com/cook/109934"
+}
+]
+,"description": "A tasty fruit smoothie recipe with strawberries, banana, peaches, fruit juice, and ice. Feel free to experiment with your favorite fruits!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Vo03XpUygPiqvxb4T-u1oITQDNg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/23553-basic-fruit-smoothie-ddmfs-step3-0704-4x3-e11ed6968fe246359c5fa06e6966aca1.jpg",
+"height": 1125,
+"width": 1500
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=3019964544001",
+"description": "Fresh fruit, fruit juice, and ice—that’s all there is to it!",
+"duration": "PT1M14S",
+"name": "Basic Fruit Smoothie",
+"thumbnailUrl": "https://static.onecms.io/wp-content/uploads/sites/43/2022/09/01/23553-basic-fruit-smoothie-ddmfs-4x3-0706.jpg",
+"uploadDate": "2021-06-22T05:23:21.832-04:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Basic Fruit Smoothie"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.4",
+"ratingCount": "81"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "118 kcal"
+,"carbohydrateContent": "29 g"
+,"fiberContent": "4 g"
+,"proteinContent": "2 g"
+,"saturatedFatContent": "0 g"
+,"sodiumContent": "16 mg"
+,"sugarContent": "20 g"
+,"fatContent": "1 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+, "recipeCategory": ["Breakfast","Snack","Beverage"]
+,"recipeCuisine": ["American"]
+,"recipeIngredient": [
+"1 quart strawberries, hulled",
+"2 fresh peaches - peeled, pitted, and sliced",
+"1 banana, broken into chunks",
+"2 cups ice",
+"1 cup orange-peach-mango juice" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/1sCBMuEUFue21vgrwaKoLdSxfb8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/23553-basic-fruit-smoothie-ddmfs-step1-0702-4x3-5bfcc610bc524d3e8e790aa355c1beec.jpg"
+}
+]
+,"text": "Gather all ingredients."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/EZQHPEQqz-BNt7onHmamVK-9EME=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/23553-basic-fruit-smoothie-ddmfs-step2-0703-4x3-4d6e3ec1cc8840a497c321da88209a2e.jpg"
+}
+]
+,"text": "Combine strawberries, peaches, and banana in a blender; blend until smooth."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Vo03XpUygPiqvxb4T-u1oITQDNg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/23553-basic-fruit-smoothie-ddmfs-step3-0704-4x3-e11ed6968fe246359c5fa06e6966aca1.jpg"
+}
+]
+,"text": "Add ice and pour in juice; blend again to desired consistency."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT10M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "partyforproducts"
+},
+"reviewBody": "Was one of the best i have had yet. I'm not big on smoothies but this one is one i can handle."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Janet"
+},
+"reviewBody": "Very versatile--I also throw in a hand full of fresh spinach."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KBNTN"
+},
+"reviewBody": "Made this for lunch today, we had a peach that needed to be used and all the other ingredients! Threw everything in the blender and it's delicious. I added a couple of scoops of vanilla flavored protein since we were having it as a meal replacement. Thank you for the excellent smoothie!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "slocooker"
+},
+"reviewBody": "I added a banana. Liked it but will continue to try adding other fruits. This was my first ever smoothie. I'm hooked. I'm sure I'll be making plenty more."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marsha in Asheville"
+},
+"reviewBody": "Super easy, super yummy, super fruity! I used V8 Peach Mango juice and it is very healthy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "jkweigle"
+},
+"reviewBody": "This is the hard way to make a smoothie. We use frozen fruit right from the freezer. No need to add anything else. You can get an amazing variety of single and mixed fruit. So delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "michelle ann"
+},
+"reviewBody": "Made it with the suggested fruits and the only change I made was to add vanilla yogurt instead of juice which made it creamy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "selena"
+},
+"reviewBody": "Our first try EVER making smoothies and this was our first stop for a recipe. We had everything minus the mango juice,but it tasted a little sour so we added honey to give it a boost of sweet, not much but some! Thanks for the recipe, we will be testing W/ other fruits as well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rae"
+},
+"reviewBody": "Love smoothies. I used mango strawberry and Banana. Left out the juice though. and added some greek yogurt."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Bailey"
+},
+"reviewBody": "I made one change I used fresh squeezed orange juice. My bearded dragon loved it!Only because she cant have that sugar stuff in the store bought juice.It was a happy birthday smoothie"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Leandra Saunders"
+},
+"reviewBody": "Tastes amazing!!!!! Would definitely make this again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sandra Clayton"
+},
+"reviewBody": "Added some blueberry,raspberry,banana and 1/2 peach with oj"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "susie morgan"
+},
+"reviewBody": "I make this all the time but I use 7 to 8 strawberries add about 1/2 cup of sugar fill the blender with ice and add milk to the mix. It is delicious and my granddaughters love it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "racqs"
+},
+"reviewBody": "Smoothie came out great! This is a good base for any fruit smoothie. I tweaked the recipe by substituting the strawberries with more peaches. Also used only mango juice and added almond milk. Tastes good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SweetAndSpicyPepper"
+},
+"reviewBody": "I love smoothies! So healthy, quick, and delicious. I use a half cup of orange juice, a half cup of mango nectar, one half a very ripe banana frozen in chunks, frozen pineapple tidbits, 4 oz. peach low-fat yogurt, several frozen strawberries, and some frozen raspberries. I make coconut water ice cubes and use only a couple in this smoothie. Everything's frozen, so it comes out very cold and icy....almost like a sherbet! A good smoothie-maker blender makes it perfect. Using less ice makes it very sweet....adjust the amount of ice the way you like it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ilovefood;-)"
+},
+"reviewBody": "Excellet!!I really like this..great recipe.."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "SpartanECHO"
+},
+"reviewBody": "Great recipe! I was limited on fruit, so I chunked up an orange and an apple along with my banana, and threw in some pineapple juice. Takes a while to blend it down to smooth, but quite delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sphil"
+},
+"reviewBody": "Amazing smoothie, it reached a perfect fruit:juice:ice ratio"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah Jo"
+},
+"reviewBody": "I used frozen strawberries, bananas and peaches. My juice was just plain ol' orange juice. I didn't need the ice because of my frozen fruit. Very good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Garrett B."
+},
+"reviewBody": "Since I use frozen strawberries I had to cut the ice to half a cup and double the juice to smooth it out like I prefer. \n\nI may try this someday with fresh strawberries and see if it's better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "HurdBird"
+},
+"reviewBody": "I thought that the amount of strawberries in this smoothie overpowered the other fruits. If I make this again, I think I will half the amount of strawberries."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "booboo"
+},
+"reviewBody": "Control your sugar by the sweetness of your strawberries."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Erimess"
+},
+"reviewBody": "Sorry, but I thought this was flavorless. I even only used about half the ice cause I used mostly frozen fruit - all of it would just water it down more. I added an entire 1/2 cup of juice *concentrate* (and a squirt of honey) to make it taste like anything, and I thought that a pretty drastic move just to give it flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Laurie Kane"
+},
+"reviewBody": "Great basic smoothie recipe. I always use frozen fruit for at least one of the fruits so I don't need to add ice. I usually add apple juice and a dollop of plain yogurt. Refreshing and healthy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sherbear1"
+},
+"reviewBody": "This was good. I used 1 peach, 1 banana, 5 strawberries, 1 mango added the ice blended lightly. Then added about 3-4 tablespoons sour cream, 2 tablespoons sugar a pinch of cinnamon and a squirt of honey. I know i made several changes, thats why im still giving this 5 stars. It turned out great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ASSASSASSASSASSASS"
+},
+"reviewBody": "AWESOME!!!!!!!I LOVE THIS RECIPE"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KEFIRA"
+},
+"reviewBody": "Super simple and oh so delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kim"
+},
+"reviewBody": "As the title says, this is a good Basic Smoothie. We also added a banana for a little different flavor and as berries become in season we'll try those too. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Pam Timms Richmond"
+},
+"reviewBody": "I like to use frozen bananas and no ice. That way the smoothie doesn't get watered down and it's more like a shake. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "JnJ"
+},
+"reviewBody": "I added 1 tsp Splenda and 1 tsp vanilla extract. And I used frozen strawberries and peaches, no ice, and only orange juice. This is a great smoothie, esp for those of us on a dairy-restricted diet!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jlombardo09"
+},
+"reviewBody": "Quick, easy, delicious! Love that it is all fruit, too"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "littlesmoothieblender"
+},
+"reviewBody": "There was way too much strawberry in this one... it drowned out the other fruits.i used a whole box of srtawberries in this one!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Fit&Healthy Mom"
+},
+"reviewBody": "Nice combination of fruits. I used all frozen fruits, so there was no need to add any ice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Traci"
+},
+"reviewBody": "This was great. It tasted just like like a smoothie I would buy from the mall!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "clementplanet"
+},
+"reviewBody": "Yummy! I used pinapple juice for the sweetener. This is great in my vita mix. I use frozen fruit so no ice is needed. I also added tofu."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Andrea Parker"
+},
+"reviewBody": "I used nectarine instead of peach and added a bit of honey. Yum-O!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amanda in Austin"
+},
+"reviewBody": "We make simple healthy smoothies with only fruit and real juice daily. Instead of crushed ice, try frozen blueberries or other frozen fruit. No need for anything else for a great tasting way to use up ripe fruit and start the day right."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Nandabear"
+},
+"reviewBody": "Very good! Added a little more sugar to suit our tastes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kim C"
+},
+"reviewBody": "This is a good recipe to start with. I had to add sugar to make it sweeter. I also added lemon juice to get the taste that I was looking for. But this is a recipe I would use again adding my own variations."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jona Sandau"
+},
+"reviewBody": "This was great! I loved it. We made it while we were on vacation in Hawaii and it was the perfect tropical beverage--and super easy with only a few fresh ingredients."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DDEVANEY"
+},
+"reviewBody": "I agree with the reviewer that said this is a basic smoothie recipe. We have been making smoothies for years and have found that adding yogurt to the mix helps smooth out the texture and adds to the nutritional content. We have also added other nutritional supplements to the smoothie such as spirulina - with strawberries for a purple-ish color - my daughter thought it was great. Get creative and enjoy! One other thing - we do not use ice. We use frozen fruit instead."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "MaxMama"
+},
+"reviewBody": "My family really enjoyed this breakfast treat!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "basg101"
+},
+"reviewBody": "I made this with a mango, a banana, some pineapple chunks and orange juice. It was fabulous! I'll keep trying new combinations. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lauren Brown"
+},
+"reviewBody": "I loved this recipe! We used some frozen berry medley that I had kicking around in the freezer, orange juice and banana. I did add some plain yogurt to make it a little smoother... but the basic recipe is awesome! My kids (1 &amp; 3) even came back for seconds. I made it for desert, but will make it for mornings for me. What a great way to start the day!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "B_32"
+},
+"reviewBody": "I like this smoothie recipe as is, however, my husband and kids prefer a sweeter taste, so for theirs I'll add either sugar or fruit syrup. Tip: freeze your fruit first if you can, makes it extra cold and you don't have to use as much ice! I keep frozen bananas that have gone ripe just for this purpose! Super yummy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Darbie Esther"
+},
+"reviewBody": "As the name states, it's a BASIC recipe. I hate seeing people lower a recipe's rating because they don't know how to cook. This recipe is perfect as a starting point to alter to one's tastes. Try different fruits, different juices, different amounts of everything to your taste. Another alternative is to add vanilla flavored soy milk for a hint of vanilla or cream. But remember, if you alter a recipe too much, don't blame the recipe, blame the cook. ;)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Great drink but dont over do it on the OJ cuz it over poweres the fruit taste. Id say half the amount recommened...or atleast a little less."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Steve Miller"
+},
+"reviewBody": "This recipe is a nice starting point... it's got a good balance between ice, fruit, and juice. I used 1 peach, 1/2 quart of strawberries, 1 small banana, 1/2 cup of orange pineapple juice, and a handful of ice. It turned out well!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LHALLOW"
+},
+"reviewBody": "I've been making them with blueberries, raspberries, strawberries, a banana and apple juice and it is stiff competition for my favorite juice bars 'banana berry' flavor!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Only O.K. It just tasted like a lot of fruit blended together. Not very smooth, not very sweet. Will look for another smoothie recipe next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ARKBUCKS"
+},
+"reviewBody": "Delicious recipe! We scaled it down to 2 servings and used frozen strawberries &amp; bananas, orange juice, and a 4oz can of peaches in heavy syrup. We left out the ice. We will make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "We enjoyed trying your basic smoothie recipe in\r\ndifferent ways. The first time we made it with\r\ntropical fruits, papaya, mango, canned and orange\r\njuice. Other times we just used what we had around\r\nthe house...which is usually ripe bananas and strawberries, our family likes to add a couple of\r\nteaspoons of vanilla and we sprinkle it with a bit\r\nof cinnamon powder just to give it an extra kick.\r\nAnother possibility is making it with milk instead\r\nof water, this is great when you do not have time\r\nto have a sit-down meal. Good basic recipe. Thank\r\nyou Janelle!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JAZZY-GIRL"
+},
+"reviewBody": "Enjoy how adaptable this recipe is to almost any fruit combination. Thanks for sharing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DREGINEK"
+},
+"reviewBody": "We loved this!! I used half a can of pineapple chunks and its juice instead of peaches and just plain orange juice instead of the mango-orange juice(didn't have any of either ingrediant on hand). Will make many mornings to come. And this is very \"basic,\" you can add/subtract fruits you prefer or have around the house."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DREGINEK"
+},
+"reviewBody": "We loved this!! I used half a can of pineapple chunks and its juice instead of peaches and just plain orange juice instead of the mango-orange juice(didn't have any of either ingrediant on hand). Will make many mornings to come. And this is very \"basic,\" you can add/subtract fruits you prefer or have around the house."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MCARTHUR"
+},
+"reviewBody": "This was a great recipe. Thanks for submitting."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Great mix of flavors.My 6 year old loved the taste.Thanks for a quick and tasty treat!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "The mango juice makes this basic smoothie recipes great!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/23553/basic-fruit-smoothie/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/138/drinks/smoothies/",
+"name": "Smoothie Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16127/drinks/smoothies/strawberry/",
+"name": "Strawberry"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/23553/basic-fruit-smoothie/",
+"name": "Basic Fruit Smoothie"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

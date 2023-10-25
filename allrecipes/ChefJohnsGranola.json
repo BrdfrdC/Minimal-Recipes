@@ -1,0 +1,632 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Chef John&#39;s Granola"
+,"datePublished": "2012-10-04T14:11:22.000-04:00"
+,"dateModified": "2022-10-06T16:34:58.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Chef John"
+,"url": "https://www.allrecipes.com/cook/foodwisheswithchefjohn"
+}
+]
+,"description": "Try this granola recipe for maple-flavored granola with nuts, seeds, and dried fruit. It makes a great snack or breakfast treat."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/uMF5A6ikCdSmnsipY0z6gc9QDwE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3956850-afdc05dd4e794c8ea598aab1e692eb28.jpg",
+"height": 960,
+"width": 960
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=1966920085001",
+"description": "See how to make your own granola from scratch.",
+"duration": "PT3M2S",
+"name": "How to Make Homemade Granola",
+"thumbnailUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/ca7f4dc2-dbe0-4637-93f8-60dd27c2b5b6/73e14506-d719-4668-9d34-e189f82d2616/1280x720/match/image.jpg",
+"uploadDate": "2021-07-17T23:52:56.486-04:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Chef John&#39;s Granola"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "47"
+}
+,"cookTime": "PT60M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "339 kcal"
+,"carbohydrateContent": "44 g"
+,"fiberContent": "5 g"
+,"proteinContent": "8 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "213 mg"
+,"sugarContent": "25 g"
+,"fatContent": "16 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"0.25 cup packed brown sugar",
+"3 tablespoons maple syrup",
+"2 tablespoons vegetable oil",
+"0.5 teaspoon salt",
+"1.5 cups rolled oats",
+"0.5 cup chopped almonds",
+"0.5 cup raw pumpkin seeds",
+"0.33333334326744 cup shredded coconut",
+"0.5 cup dried currants" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 250 degrees F (120 degrees C). Line a baking sheet with a silicone liner."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine brown sugar, maple syrup, oil, and salt in a bowl. Add oats, almonds, pumpkin seeds, and coconut. Mix well until all ingredients are evenly coated."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour mixture onto the prepared baking sheet and distribute in an even layer."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven, lightly stirring every 10 to 15 minutes with the tines of a fork, until evenly toasted and golden brown, about 1 hour."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/uMF5A6ikCdSmnsipY0z6gc9QDwE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3956850-afdc05dd4e794c8ea598aab1e692eb28.jpg"
+}
+]
+,"text": "Remove from the oven. Transfer hot granola into a large bowl and mix in currants. Let cool to room temperature, about 30 minutes."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT105M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chris"
+},
+"reviewBody": "We love it. I have followed this recipe for years. While cooling, I add about 1/3 cup of dark chocolate chips and it makes clumps. I double the recipe because it’s so delicious. I do cut back on the sugar and use real maple syrup."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Regina"
+},
+"reviewBody": "This was simply delicious! My husband and I really enjoyed it. March 8, 2022."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carol"
+},
+"reviewBody": "This is one of our favorite recipes. I make it at least weekly. My only change is to use walnuts instead of pumpkin seeds. I also use a different variety of dried fruits each time. We love it with yogurt and fruit. Thanks Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "anne"
+},
+"reviewBody": "This is good as a cereal. It's not a true Granola. He really should call it Granola cereal. I use this when I want a cereal and follow it nearly exactly. When I want a chunky snacking granola I nearly double the wet ingredients (I also use honey, depending on whats in the pantry.) I only toss/turn it once in the oven, then leave in the oven 20 mins (open and off) then break apart. Great for snacking."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Betsy G"
+},
+"reviewBody": "Best Granola Ever!! It’s so good I’ve been making a batch a week. Crispy and very tasty without being too sweet."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "River Dawn"
+},
+"reviewBody": "Delicious! Like a crumbled cookie. And so much cheaper than buying granola! This recipe came out a little on the sweet side for my taste so I’ll just be using a bit less sugar next time. I’m excited to make granola for everyone now. Maybe holiday presents!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ree’s pieces"
+},
+"reviewBody": "I make this for the family, multiplying the recipe by 6 to make enough for about 2 weeks’ breakfasts for hubby and teens. I make it 100% according to the recipe, and it never lasts in the house!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "donna"
+},
+"reviewBody": "Yummy! Good stuff! I used unsweetened coconut and golden raisins to try to keep the sugar down and it was still plenty sweet! Whole family ENJOYED this recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Adele Siesel"
+},
+"reviewBody": "Wonderful, not too sweet. Used pumpkin seeds, sunflower seeds, walnuts (didn't have almonds), used raisins (next time will likely double raisins or add cranberries too). omitted coconut. Family loved it. Used as a snack, mixed with yogurt and topped ice cream with it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "momo3"
+},
+"reviewBody": "Delicious! I add a fruit and nut trail type mix instead of the individual fruit and nuts."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Fitzy"
+},
+"reviewBody": "Yummy! I made this as the recipe as written and I'm so pleased! Next time I'm going to add cinnamon. Really easy and it makes just the right amount of granola."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "23421"
+},
+"reviewBody": "added chia seeds...can't wait to have on morning yogurt. Taste good alone."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Daanya"
+},
+"reviewBody": "If you do not have maple syrup you can you can substitute it with honey."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Karen"
+},
+"reviewBody": "Easy and delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rtbrwn"
+},
+"reviewBody": "This was great! I added cinnamon and cayenne pepper when adding spices. I will not purchase my favorite granola at the local market again because I will be making it. It is addictive. I will try the banana later on. Thanks for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Karen Lee"
+},
+"reviewBody": "I love this granola recipe and will never buy again. Weening my husband off cakes and pies seemed impossible until I found Chef John. Yogurt parfaits fill the need for him. Go figure. I changed out vegetable oil for coconut oil. You can put almost anything in this. I’ve used fake syrup and real syrup. Both tasty. I make two batches every week. \n\nThank you, Chef John for sharing this recipe. You could be a life saver!!\n\nUPDATE: since my original posting in October, I have made 2 batches every single week. This is hands down the best granola recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Beth"
+},
+"reviewBody": "My favorite granola. I start with Chef John’s recipe then I add any nuts, cereal or dried coconut I want to get rid of. Everyone loves it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kate SW"
+},
+"reviewBody": "This granola is delicious and super-easy to make. And it's pretty economical, too, if you buy from the bulk foods section of the supermarket (I think the coconut cost me 22 cents)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stacie Houlker"
+},
+"reviewBody": "Whoever the person was that figured out that you could substitute banana for brown sugar is a genius! This recipe is amazing,! I didn’t have vegetable oil so I submitted with avocado oil.... this"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "michelle cichocki"
+},
+"reviewBody": "It was soo easy!!! So easy for someone who is the worst cook! but i forgot the oats. Is there anyway i cd maybe toast the oats and add? Or cut my losses and deal... 4 stars bc i know if i added the MAIN ingredient lol. It wd of been great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary"
+},
+"reviewBody": "Awesome! Perfect every time!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "she's learning"
+},
+"reviewBody": "this recipe is my favourite! I make double so it lasts longer and I eat it with yogurt and berries. instead of maple syrup, I put water to make it a little healthier. if you still want the sweetness from the syrup, half of each is also good enough. the recipe is a much healthier alternative compared to the granola you buy in stores. I also add sunflower seeds and cranberries because my brother is allergic to all nuts. I love this recipe and so does my family."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "chriscrooke"
+},
+"reviewBody": "I've used various types of nuts. Couldn't find unsalted pumpkins seeds so used salted pumpkin seeds and did not add salt. Since making it quite a few times, I change the currants to chocolate chips or raisins - always adding after the mixture is still hot but not in the oven. Excellent. I also use gluten free oatmeal and give as gifts to my gluten intolerant friends."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "islandgirl"
+},
+"reviewBody": "I followed the tips from the latest reviewer (adding banana and coconut oil instead of sugar and oil) It was very good. It would have been too sweet for me with the added sugar. Great recipe and lots you can do with it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "BroMama"
+},
+"reviewBody": "Me and Chef John have a difference of opinion on what the finished product should be. I guess he was making a loose granola that could only be used as a topping. While I was looking for a granola that would set into big pieces that could be grabbed as a snack to go. When I realized this granola was not setting in the oven I started topping with honey and then light corn syrup when the honey ran out. I added enough to get the effect but I will go back to my old recipe. Also, I always bake with the dried fruit mixed in, I actually like it better. The fruit plumps and sticks to the oat mixture when you bake it in."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tammy T"
+},
+"reviewBody": "I love this granola."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Missi"
+},
+"reviewBody": "really good.. but man! it has a lot of calories!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "madsci75"
+},
+"reviewBody": "I skipped the currants, replaced the pumpkin seeds with sunflower, replaced the vegetable oil with coconut oil, and put it over yogurt and fruit as suggested. It was superb."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SueandBob Butler"
+},
+"reviewBody": "I was shocked at how good this recipe was when I Meade it minus the nuts and minus the fruit. The flavor was great. I actually doubled the ingredients except for the sugar, in addition to omitting the nuts and fruit. I cooked it in 2 trays and it was done in under and hour. I'm sure the original recipe was fantastic but I needed to bring it to a party where nut allergies are a problem. Overall great recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "brunerca"
+},
+"reviewBody": "Loved this easy recipe. It makes a lot of granola."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sfine"
+},
+"reviewBody": "Delicious, simple and quick to make. Wow, I have not bought store-made cereal since discovering this recipe. I double the recipe because it goes really fast and eliminate the sugar because it doesn't really need it. Sooo good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "mary loue"
+},
+"reviewBody": "I did not care for this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bongocook"
+},
+"reviewBody": "Great, flexible recipe. I actually think it has less sweetener than most, which is a plus. I am going to try to cut down on the brown sugar next time to see if it is still good with less sugar..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kelly Sabin"
+},
+"reviewBody": "My whole family really liked it BUT, we changed a whole lot. I am sure it tastes great as is. But we are trying to cut out all refined sugar and vegetable oils. so I substituted a banana and coconut oil. Smelled like banana nut bread while baking and had excellent flavor. We ate almost all of it in a day so now I am making a double batch today (not even 24 hours since the last batch)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jaeeeed"
+},
+"reviewBody": "This smells AMAZING while cooking!\nI think this is pretty much my favourite thing I've ever made! however, I did add extra coconut, still tastes amazingly good :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lea"
+},
+"reviewBody": "Best Granola ever, I love to play around with adding different dried fruits and nuts, my friends rave whenever I make this. (I add cinnamon too)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tansey4"
+},
+"reviewBody": "Very tasty, a little on the sweet side so next time I might try to reduce the amount of maple syrup. I'll definitely make it again."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/229448/chef-johns-granola/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/145/breakfast-and-brunch/cereals/",
+"name": "Cereals"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1311/breakfast-and-brunch/cereals/granola/",
+"name": "Granola Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/229448/chef-johns-granola/",
+"name": "Chef John&#39;s Granola"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

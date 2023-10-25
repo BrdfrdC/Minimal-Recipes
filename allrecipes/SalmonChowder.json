@@ -1,0 +1,1421 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Salmon Chowder"
+,"datePublished": "2019-04-02T02:43:39.000-04:00"
+,"dateModified": "2022-07-04T16:56:45.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "KENULIA"
+,"url": "https://www.allrecipes.com/cook/68282"
+}
+]
+,"description": "Rich and creamy salmon chowder made with easy ingredients: cooked salmon, evaporated milk, potatoes, creamed corn, and lots of Cheddar cheese."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/m7CRCPR8EhKfjI52euQ8Tl2t9s8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2653867-af0925971e6e4c559be63664f509d542.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Salmon Chowder"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "863"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "490 kcal"
+,"carbohydrateContent": "27 g"
+,"cholesterolContent": "104 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "39 g"
+,"saturatedFatContent": "13 g"
+,"sodiumContent": "1140 mg"
+,"sugarContent": "9 g"
+,"fatContent": "26 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"3 tablespoons butter",
+"0.75 cup chopped onion",
+"0.5 cup chopped celery",
+"1 teaspoon garlic powder",
+"2 cups chicken broth",
+"2 cups diced potatoes",
+"2 carrots, diced",
+"1 teaspoon salt",
+"1 teaspoon ground black pepper",
+"1 teaspoon dried dill weed",
+"2 (16 ounce) cans salmon",
+"1 (15 ounce) can creamed corn",
+"1 (12 fluid ounce) can evaporated milk",
+"0.5 pound Cheddar cheese, shredded" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Melt butter in a large pot over medium heat. Add onion, celery, and garlic powder; sauté until onions are tender. Add broth; stir in potatoes and carrots. Season with salt, pepper, and dill. Bring to a boil; reduce heat, cover, and simmer 20 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir in salmon, corn, evaporated milk, and cheese. Cook until heated through."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT45M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Absolutely perfect! Substituted chicken stock with water and chicken soup base, skipped the extra salt, and added a little bit more potatoes and celery. Delicious! Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Donna Adams"
+},
+"reviewBody": "Very good chowder. I did crumbled a slice of bacon to the chowder."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Mash some of the potatoes next time for a creamier consistency. Corn makes it very sweet, but is still savory."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lori Crow"
+},
+"reviewBody": "I agree! Leave out the cheese and it's a great chowder!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carolyn"
+},
+"reviewBody": "This is good and easy to make. I love making giant pots of soup and sharing or freezing it so I made 4 X the recipe but kept the salmon at 2 can, it was plenty. I also used powdered milk and made it thicker than normal for the evaporated milk. It worked great and you couldn't tell it wasn't evaporated milk. I didn't have creamed corn so I just threw in frozen corn. It was delicious and I will definitely be making it again. I used garlic cloves not powder."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "meredithwillems"
+},
+"reviewBody": "This turned out great. Sooo tasty. I made a few changes, not all were planned! Turned out I had no celery, so I used about 1 tsp of celery salt instead of the celery and the salt. For spiciness I added 2 chopped jalapenos when the onions were cooking and it added just a little heat. I could have doubled the jalapenos. I had no problem with the canned salmon, I just removed what skin I could. I followed the recipe amount which we like, though it was meaty and you could halve if that's your taste. we like a chunky soup so I kept the carrots. I forgot to add the liquid smoke (suggested by others) and the cheese at the end, and it didn't need it. For leftovers I will sprinkle some cheese on top. Froze half so we can see how that does. I will definitely make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "cvillehome"
+},
+"reviewBody": "Meh. I won't make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "heatherholstege"
+},
+"reviewBody": "This chowder is fantastic. I used fresh salmon and fresh garlic but otherwise followed exactly. Delicious! Definitely going on the monthly rotation."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sherri B"
+},
+"reviewBody": "I made a couple small modifications but it was delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jayne Bartusek"
+},
+"reviewBody": "We loved it....didn't know what to do with leftover salmon that was on the dry side. This was new to us and it was so delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "misslissy"
+},
+"reviewBody": "Oh man, this is delicious! Based on other’s suggestions I omitted the cheese and used fresh salmon. Yum-o!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Destiny Sunshine"
+},
+"reviewBody": "So good!! I used canned salmon, lots of dill, and about 1/2 of the cheese. Turned out amazing"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Haley Rose"
+},
+"reviewBody": "Delicious! I forgot the cheese until the end so we added it on top and it was still very good! Thank you for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "liz"
+},
+"reviewBody": "I made I loved it, made a few changes with what I had still delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JosephA"
+},
+"reviewBody": "This turned out awesome! I used leftover grilled salmon and added less shredded cheese (as others suggested) than the recipe called for. Otherwise I followed the recipe as written was very happy with the results!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christina Lopez Robison"
+},
+"reviewBody": "This chowder was extra yummy! I did not add any salt or cheese and it was simply delicious. Thank you for your recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "John"
+},
+"reviewBody": "I thought overall this recipe was okay but I do agree with a lot of the tweaks that have been recommended."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary Ann"
+},
+"reviewBody": "Let me start by saying I really don't like salmon. I made this recipe for my husband who does. OMG, are you kidding me? This chowder is to die for. I only changed a couple of items as it was what I had instead of what was called for. I used fresh frozen salmon - 1 pound- and 3 cloves of garlic instead of garlic powder. Wow! Definitely a keeper. Thank you allrecipes!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "antonia"
+},
+"reviewBody": "This was one of the best meals I’ve ever made! With that said I did use a whole fresh salmon fillet, I forgot to buy creamed corn so my husband made some from scratch. I also added a liberal sprinkle of cayenne (really it was very subtle). But it was mmmmm good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Noeller67"
+},
+"reviewBody": "This was a hit and easy to make too. Used 2 cloves of fresh garlic and reduced the cheese to about 4 oz. We used fresh salmon and tossed the cubed fish into the broth during the last 10 minutes of simmer time, then flaked it before adding the corn and evaporated milk."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Tiffany"
+},
+"reviewBody": "I liked it. I added a dash of basil and rosemary as well as a handful of bacon cooked to crispy. I also added a splash of heavy whipping cream and parmesan, and substituted the cheddar for colby jack. The soup was fragrant and delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Donald"
+},
+"reviewBody": "It was great I liked it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "barbykue"
+},
+"reviewBody": "I used fresh salmon. The soup was delicious, but the delightful flavor of fresh salmon seemed to be in the background. I will probably follow this same recipe again using fresh cod."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda Gibson Peabody"
+},
+"reviewBody": "So good! My husband is lactose intolerant so, while I did use a can of evaporated milk (he popped a lactaid tablet) I used vegan cheese which made it a little healthier. I also used 2 cloves fresh garlic along with the powder. I always keep canned salmon on hand from Costco and used up some celery that was looking pretty sorry and would have gone to waste, but didn’t affect the taste of the recipe. A filling, delicious and economical recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JennH"
+},
+"reviewBody": "This was delicious, made changes outlined in a few reviews. Uncooked salmon cooked so fast &amp; ended up with the perfect bite of salmon! Definitely a recipe I will make again. Perfect for a weeknight! Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brenda Sue"
+},
+"reviewBody": "YUMMO!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CLewis"
+},
+"reviewBody": "Added liquid smoke and a few red pepper flakes. This was really good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Miladys Velez"
+},
+"reviewBody": "This recipe was fast and fun. I of course gave it my own twist, used cream of mushroom soup and added diced up hash potatoes which made it super easy. Didn’t have celery or carrots but it was ok because it was delicious...,"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cathy Miller"
+},
+"reviewBody": "Very good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sam"
+},
+"reviewBody": "Made it with cream instead of condensed milk for something a bit thicker. I misread the ingredient amounts and added too much celery and too many carrots, but in the end it didn't seem to be a problem. Was very filling and nice for a cozy toasty day indoors :o)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "monterrapin"
+},
+"reviewBody": "Had some leftover salmon, I thought it would make a great soup... so found this one. Pretty darn good. Only variation I made was using a bit more broth, skipped the cream corn for just a regular can of sweet corn and used fresh dill instead of dried."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Liette"
+},
+"reviewBody": "Made this and the whole family ate it up. Only change I made was add some smoked paprika."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Illona Santillan"
+},
+"reviewBody": "This soup really hit the spot, great for cold day and filling, good with grilled bread with butter."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Malora Butler"
+},
+"reviewBody": "Flavourful and so easy to make during the week!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LaurindaO"
+},
+"reviewBody": "I didn't expect much from this list of open-and-dump ingredients, but it was DELICIOUS. I used 4 6 oz cans of salmon (what I had on hand), but otherwise generally followed the recipe. I debated omitting the cheese, but ended up using it and the result was rich and creamy and delicious. I'm on day four of left-overs and it has held up well. I would definitely make this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Kimberly Ness"
+},
+"reviewBody": "This was just ok for my boys. I reduced the pepper to 1/2 tsp and they still said the soup was way too spicy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "melinda"
+},
+"reviewBody": "I followed the suggestions of Marnz01 and liked it very much."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary Tovell"
+},
+"reviewBody": "Wonderful recipe. Only minor changes: fresh salmon, no dill because it’s not a favourite, a tiny bit of lemon pepper powder and extra corn from fresh peaches and cream corn we had on hand. Delicious and a welcome addition to our family!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Powell"
+},
+"reviewBody": "Soup lovers unite!! :) I was shocked by how well this came out. I’ve never made a chowder of any kind &amp; this was absolutely perfect. I didn’t have dill so I subbed dried thyme &amp; used fresh salmon instead of canned. It was so good, I didn’t feel the need to add the cheese- it didn’t need it. The bonus was that it was so quick &amp; easy! Adding this to my soup rotation!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Steph C"
+},
+"reviewBody": "Made this soup for my 37 senior residents' supper menu recently. It was a huge hit with them and I felt good about feeding them something so healthy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Karrie Mabry"
+},
+"reviewBody": "Delish. has left over salmon we smoked over the weekend, used frozen O’Brien potatoes, simple, came together quick. Great Flavor!!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Melinda Yaeger Crockett"
+},
+"reviewBody": "Made it. The family loves it. Perfect recipe. Hubby likes a bit of Cayenne in everything, so added that. Didn't have celery, used celery salt. Used regular can of corn because I didn't have creamed."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Wendy Leilani Nahanee"
+},
+"reviewBody": "Delisious! Simple yet flavourful! Used coconut milk instead of condensed for dairy restrictions."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nathan LaSalle"
+},
+"reviewBody": "Delicious. Used diced garlic and heavy cream instead of condensed milk. Also used frozen salmon filets, thawed and cut small. Turned out great. Will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jasmine Nicholson"
+},
+"reviewBody": "I liked adding mushrooms and peas as well, also seasoning the salmon while it cooks before you put it in the soup is yummy too :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carol"
+},
+"reviewBody": "This is a new family favorite. I'm sure fresh salmon would be delightful, but if I had fresh salmon I would grill it, not put it in a soup! The canned salmon works wonderfully, and it's usually in the pantry. Perfect recipe as is. Perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DrCarrie"
+},
+"reviewBody": "Sweet potato instead of white potato- yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alfonso"
+},
+"reviewBody": "What a grate recipe and thanks to all of you for the tips . I used fresh Salmon and garlic I cut out the cheese completely I made the creamed corn from scratch (basic recipe) and I added red chili flakes . Next time I'm going to deglaze with white wine as someone suggested. WOW AMAZING"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SS"
+},
+"reviewBody": "I didn't have cream corn so I used frozen corn and blended it with milk. Turned out really well. Great tasting soup."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nevin"
+},
+"reviewBody": "I used fresh salmon. I only had 16 ounces and so I cooked it at 350° in the oven for 20 minutes, so I could scoop it out in chunks separating it from the skin and then put it in my soup. I used 12 ounces of half-and-half instead of condensed milk. Because I was light on fish I added an extra cup of potatoes. And I had a little bit of corn in my fridge so I added a little bit more beyond the cream corn. I did not add cheese into the soup, but had sharp cheddar cheese on the table for people to add to their bowls as they desired. I also had red pepper flakes on the table for those who wanted to give it a little bit more zing without changing the flavor. It was delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jacqueline Slaughter"
+},
+"reviewBody": "I used real garlic... it was wicked good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Diego Rodriguez"
+},
+"reviewBody": "Great recipe! I added a touch of cream cheese to make it a bit creamier and cayenne pepper for a bit of a kick. Don’t forget to make some croutons to go with it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kevin Lehman"
+},
+"reviewBody": "I boiled a salmon head and used the stock to make the chowder. Otherwise I used the recipe as is. Delicious to the nth degree."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sherry"
+},
+"reviewBody": "I cut down the butter to 1 Tbsp, and I omitted the salt since everything else in the cans contains plenty of salt. Also, since I don't like garlic or onions, I used just a dash of garlic powder and a dash of onion powder instead of what the recipe called for. It tasted great! I also used just a small sprinkle of grated cheese, but it could be omitted."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Jason Powell"
+},
+"reviewBody": "Do not use canned Salmon. Made a the recipe exactly as stated with canned Salmon and it was terrible. I recommend fresh a salmon and a different recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michele Zippert"
+},
+"reviewBody": "I drained the salmon and added lemon into each bowl. Easy pantry soup with left over veg."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ana Regla"
+},
+"reviewBody": "Super yummy! I didn’t have evaporated milk but I added 1/2 cream cheese bar and about 4 tablespoons of heavy whipping cream"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jonathan Arment"
+},
+"reviewBody": "Outstanding recipe!! I use frozen salmon that I buy from Aldi's, and it is SOOOO GOOD!! Stop looking through recipes and start making this salmon chowder... you'll thank me later."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "redheadnb"
+},
+"reviewBody": "I omitted the dill weed just not a fan of it, I prepared it the day before I wanted to serve this dish to let the flavors develop and the Chowder was DELICIOUS!! My guests raved about this dish!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "miriyummy"
+},
+"reviewBody": "I made a number of changes based on other reviews and my family's food issues. I used oil instead of butter, soy milk instead of evaporated milk, and left out the cheese entirely to make it non-dairy. I used malanga instead of potato to avoid nightshades. I used one 14.75oz can of salmon, fresh garlic instead of garlic powder, and left out the carrots. I also used vegetable broth instead of chicken broth. The resulting chowder was very tasty! Even my husband asked for seconds, and he rarely likes soups and stews. It was a little peppery, so next time I may reduce the black pepper by half."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chanelle D"
+},
+"reviewBody": "This is an awesome recipe. It’s fast and delicious! I can’t wait to make this again!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "eastham79"
+},
+"reviewBody": "Delicious! Used frozen salmon and frozen corn."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cgallaher"
+},
+"reviewBody": "Beautiful basic chowder recipe just waiting for your personal touch! Everyone who comments makes suggestions, so I borrowed and combined some of them. The best salmon chowder EVER!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathryn Fyffe Harrison"
+},
+"reviewBody": "This chowder is hearty, filling and easy to make. It's really yummy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "LindaM"
+},
+"reviewBody": "Yummy if you like fish chowders. I was making it in my crockpot and didn't have room for two cans of salmon as the recipe called for. I also cut salt in half and the cheese to 1 cup using a blend that was labeled \"smooth melt.\" Worked great and my husband said he didn't think it needed more salmon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dcdude"
+},
+"reviewBody": "As others mentioned, not sure if the cheese is necessary. It tasted pretty good without. Maybe just 4 oz. next time or not at all? I used three 10-oz. fillets of slightly defrosted fresh salmon that I placed right in the pot. No need to cook in advance. Peeled the skin off at the end."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "RT Wellman"
+},
+"reviewBody": "Fresh salmon, garlic, dill and a splash of white wine made this chowder come alive. A little bit of heat with a dash of chipotle powder was nice too! Skipped the cheese and milk, not because I don’t like them, but because the chowder was complete without!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mark"
+},
+"reviewBody": "Followed the variant written by MommyFromSeattle. It was a hit. I would keep the added smoke and cheddar cheese to the low side of what is recommended there. Also used shredded carrots to avoid chunkiness and reduced fat components to keep calories down. Will definitely make it again. ."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joyce LaMonda"
+},
+"reviewBody": "Perfect, but even better with half smoked salmon!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "paige"
+},
+"reviewBody": "Used fresh salmon, fresh dill, almond milk and roasted fresh corn. Omitted sour cream, cheese and celery and it turned out soo good still!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alex Stailey"
+},
+"reviewBody": "used fresh salmon 2 salmon steaks(2 Cans of Canned salmon (RED,not Pink)would be ok too, but I had fresh ,so thats what I used. ,used a bit more dill and added red pepper flakes! and only used about 1/4 c. cheese,just for a \"Little\" taste..Awesome Chowder!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jerimiah797"
+},
+"reviewBody": "I added smoked fresh salmon instead of canned and it was divine."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Husky"
+},
+"reviewBody": "I used fresh salmon and I also made it with bay scallops. I also sometimes use vegetable broth. You can double the size as it freezes well\n\nTHIS IS AN AWESOME CHOWDER !!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ava Nikole"
+},
+"reviewBody": "Very good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle"
+},
+"reviewBody": "I loved it. I made it for work when we had a pot luck soup &amp; grilled cheese day. We fish a lot and had a ton of smoked salmon so I used that instead of the canned salmon and I added bacon. I also like my chowder thick so I thickened it with some corn starch and flour to my preferred thickness. The flavor was fabulous and the entire crock pot was empty before I knew it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "auntie ginny"
+},
+"reviewBody": "We loved this soup in Sweden so much that I wanted to make it when I got home! The soup we had there definitely didn’t have any corn or Cheddar Cheese in it! 1 tsp of pepper is too much and the entire can of evaporated milk is too much(20 calories per Tablespoon). I doubled the broth and used a 1/2lb of fresh salmon placed in the soup raw and in chunks. Going to try someone’s review that said use fat free evaporated milk next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lynda Dewit"
+},
+"reviewBody": "Don't make the mistake of just adding in the milk whenever. Freezes well for future enjoyment."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Cynthia Lee Steele"
+},
+"reviewBody": "Used half-and-half instead of canned milk. Use corn on the cob scraped off instead of cream corn"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lorilooooo"
+},
+"reviewBody": "delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jeanne"
+},
+"reviewBody": "I can't wait to make this for my Dad! It was fantastic. I used fat-free evaporated milk and vegetable broth. Next time I'm going to use a variety of fresh fish for fish chowder."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Madli"
+},
+"reviewBody": "Perfect as is. An easy dish for dinner."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Diane Robinson"
+},
+"reviewBody": "I kicked it up with red pepper flakes, minced garlic and smoked paprika. Next time I’m going to cut back on the sugar in the condensed milk. It was a little too sweet for me."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Diana Blackstone-Helt"
+},
+"reviewBody": "So yummy! I took other reviewers’ advice and used fresh garlic and salmon that my husband and son pulled out of the Pacific Ocean. I baked the salmon filet for 10 minutes so that the bones would come out more easily. I also reduced the cheese to about 2 cups. I loved the touch of dill and sweetness of the creamed corn in this."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christine Holman-Day"
+},
+"reviewBody": "I did not put in the cheese... I added cheese to my bowl as per serving. \nI will definately make it again. \nNeed to know if it can be frozen in individual servings, I live alone and made a double batch due to gain so much salmon to use (overcooked a 3 pound salmon roast the night before). So happy I came across this recipe to salvage the salmon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Janet1"
+},
+"reviewBody": "This recipe turned out great! I made a few changes. I used 2 1/2 cups of broth, cup of onion, used 3/4 can of evaporated milk, used 1/2 cup shredded Swiss and 1/2 cup shredded cheddar, only used 1/2 tsp of salt, fresh dill and 4 carrots instead of 2. I also used two frozen salmon fillets instead of canned salmon and a cup of frozen corn instead of creamed corn. I’m definitely making this again!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Maureen Foster"
+},
+"reviewBody": "Excellent chowder even though I didn’t have everything listed. I used the corn off 3 cobs I had, cooked in a white sauce made with butter, flour and milk. Also used fresh salmon which I cooked in the sauce with the corn, then added this to the vegetables and broth. Really enjoyed it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Diana Jo"
+},
+"reviewBody": "Loved this recipe! I used leftover baked salmon from a few nights ago and substituted 4 garlic cloves for powdered garlic but otherwise followed original recipe. Served with corn bread and was absolutely delicious. Will make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Deb2"
+},
+"reviewBody": "Would definitely make again. I used to think all the alterations were a weird thing but I’ve learned that sometimes you must adapt. The ‘bones’ of this recipe is great, yes 2 pounds of salmon is probably a typo. I sauted some fresh salmon chunks, removed from pan cooked veggies as described. I didn’t have evaporated milks so used a can of condensed celery soup and some 1% milk. Didn’t have corn but added crab meat. Went easy on potatoes and cheese (used about 1/4 cup asiago shredded). And oh my stars, this was delisious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Bartee"
+},
+"reviewBody": "Really good! I used fresh baked salmon rather than canned, and frozen corn rather than creamed."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Justine Tadena"
+},
+"reviewBody": "This is the BEST soup recipe. I’ve made it many times, the flavors are incredible I love it so much and so does my family :) everyone just try this"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "schatzi"
+},
+"reviewBody": "This was excellent!! The only changes I made was using half and half instead of evaporated milk because I didn't have any, and frozen corn instead of canned corn for same reason. Next time I will make it as written."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "AlaskaJenn"
+},
+"reviewBody": "This is our go to receipt when needing to eat through our salmon. So delicious every time!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sandhedspile"
+},
+"reviewBody": "I used the broth from the carrots, potatoes as a substitute for chicken broth. I added VODKA for reduction purposes. I sued a frozen seared corn and a canned Canadian smoked salmon. The smokey essence is memorable, earthy and savory. I substituted sage for dill. Sage is more \"American\" than dill. I also substituted diced Mexican \"queso crema\" (a hard white drier cheese) for the cheddar cheese. OUT OF THIS WORLD! Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Cindy Lynne"
+},
+"reviewBody": "Very good. Simple to make. I cooked fresh salmon instead of canned. Didn't have cheddar so I used about 4oz Monterey instead. I'll make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ildie"
+},
+"reviewBody": "Very tasty, but the evaporated milk became grainy. I thought there was something wrong with the milk so I made it again. The same thing happened."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TroyBoy"
+},
+"reviewBody": "Wow, this chowder is excellent. I followed the recipe exactly and it came out superb. When I make it the next time I will use a fresh salmon fillet and add bacon. I found the canned salmon had too many bones for my liking. My Wife and I ate half of the pot of chowder the first night. I added 8 oz. of cooked bacon to the last half of the chowder and it made a huge difference. I really like this Salmon chowder...."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cindy"
+},
+"reviewBody": "This was very good. I used the liquid smoke as one reviewer suggested and I think that gave it a good flavor. I used two tuna steaks that I wanted to use up, so didn’t use canned tuna. Will definitely make again. Thanks!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "DianeK"
+},
+"reviewBody": "I didn't have evaporated milk so substituted cream of mushroom soup. This worked.\n\nI used the full teaspoon of pepper but will probably cut back to just over a 1/2 tsp as it was spicy hot."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Klindy75"
+},
+"reviewBody": "Made it almost exactly as it said except I used up some baked salmon instead of using canned salmon. My family loved it!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/26463/salmon-chowder/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/174/soups-stews-and-chili/chowders/",
+"name": "Chowders"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/14772/soups-stews-and-chili/chowders/fish-chowder/",
+"name": "Fish Chowder Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/26463/salmon-chowder/",
+"name": "Salmon Chowder"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

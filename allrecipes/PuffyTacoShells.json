@@ -1,0 +1,289 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Puffy Taco Shells"
+,"datePublished": "2016-04-13T17:20:27.000-04:00"
+,"dateModified": "2022-09-23T21:21:29.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Chef John"
+,"url": "https://www.allrecipes.com/cook/foodwisheswithchefjohn"
+}
+]
+,"description": "These taco shells puff up when fried so you can fill them with your favorite fixings."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/LrHhzVLcmjMibh9yzRDy4uZyGPw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3536279-puffy-taco-shells-Chef-John-1x1-1-738c299d531f452f8b5179bc4bffc952.jpg",
+"height": 960,
+"width": 960
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=4892583983001",
+"description": "Fresh-puffed taco flavor!",
+"duration": "PT7M8S",
+"name": "Puffy Taco Shells",
+"thumbnailUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/3eb7f8fc-7db1-47c1-a165-1bb2838a1940/ac57c0ae-2847-45b8-a773-61dd2ce57a8a/640x360/match/image.jpg",
+"uploadDate": "2021-07-14T00:48:45.797-04:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Puffy Taco Shells"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "12"
+}
+,"cookTime": "PT3M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "128 kcal"
+,"carbohydrateContent": "22 g"
+,"fiberContent": "4 g"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "243 mg"
+,"fatContent": "4 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 cup masa harina",
+"0.5 teaspoon kosher salt",
+"0.5 cup lukewarm water",
+"2 tablespoons lukewarm water",
+"0.5 cup canola oil for frying" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Mix masa harina, salt, and 1/2 cup plus 2 tablespoons water together in a bowl using your fingertips until dough forms and pulls away from the sides, 2 or 3 minutes. Form into a firm, flattened ball and divide into 8 equal portions. Roll each portion into a ball. Keep dough balls covered with a damp paper towel as you fry them, one at a time."
+} ,{
+"@type": "HowToStep"
+,"text": "Place dough ball between 2 sheets of plastic or a split open zip top bag. Flatten to form a small circle about 1/8 to 3/16 inch thick."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat oil in a skillet over medium-high heat. When oil is hot, slide in the first circle. Very carefully baste hot oil over the top of the shell with a spoon to keep oil circulating over the top surface. When shell has puffed (after about 15 seconds), cook another few seconds and flip it over and cook another 30 seconds. Remove with a slotted spoon and drain on paper towels. Repeat for each shell."
+} ,{
+"@type": "HowToStep"
+,"text": "When shells are still warm and pliable, gently push down puffed tops to create room for the fillings and slightly crease the shells for folding."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/LrHhzVLcmjMibh9yzRDy4uZyGPw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3536279-puffy-taco-shells-Chef-John-1x1-1-738c299d531f452f8b5179bc4bffc952.jpg"
+}
+]
+,"text": "Fill with your favorite taco fixings and serve while shells are still warm."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT18M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Angela Hines Severson"
+},
+"reviewBody": "So amazing! Crispy and delicious! Will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allie"
+},
+"reviewBody": "Growing up a lady at my church would make puffy tacos every year for our church NYE party, they were delicious and I've missed them since I've moved away (12+ years ago). \nI recently decided to give them a try myself using this recipe. They turned out great and were very easy! Some people in the comments mention needing a tortilla press, but I made do with pressing them down with a cake pan (still putting dough between ziplock bag). \nI'm not a confident fryer, but these didn't require much oil and didn't spit any oil. All and all this was a fairly easy recipe. I will definitely be making these again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This recipe says masa de harina, which is flour masa and incorrect. You need masa de maiz (Corn masa). If anyone is using flour you aren't getting a delicious puffy taco. I was raised in San Antonio and lived here my whole life. My mom made puffy tacos when I was growing up. She says, what are you going to do when you want a puffy taco because I had already learned most of our dishes, even tamales. I thought I would just go to a restaurant here, but nothing is better than homemade. I am in my forties and just now picking up the tradition I will pass on to my girls because home cooked meals are so better. So, long story short corn masa not flour. I like the glass pie plate hack though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Debbie Pritko"
+},
+"reviewBody": "Made these for the first time, had been wanting to make puffy tacos, but was a little intimidated about making them. This recipe was so easy, and they turned out really nice. With a little more practice, I hope to have them puff up a little more, but the flavor was very good!!! Thank you!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kookeedoe"
+},
+"reviewBody": "Great recipe!!! Only a few ingredients needed and the taste is amazing. Thank you for sharing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Myaerica10"
+},
+"reviewBody": "If you don’t have a tortilla press use the cut plastic bag and a clear glass pie plate. Just place on top of the dough and tilt the dish in a circular motion. Voila! Perfect round tortillas and they can be made thin enough to puff perfectly with this method."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Lynn"
+},
+"reviewBody": "Way to much work and too time consuming for me to just get a few little shells"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Magzamilia"
+},
+"reviewBody": "I just want to let everyone know that I tried this recipe with wheat germ because I had it at hand and was lazy enough not to go to the store. I might have added more dry wheat germ because it was sticking when I was pressing it out and they didn't puff up as much as it the video. Still Loved the flavor, naturally but just letting everyone know that you are not going to get the same outcome. Will try again with the right ingredients and tools!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Debbie Bishop"
+},
+"reviewBody": "I am from San Antonio and this is a healthier version of how we make them. However, you do need a tortilla press. And you must make them larger to have them come out like the originals. To avoid the \"volcano\" effect, start making the fold after flipping them and Viola! San Antonio style puffy tacos!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Yoly"
+},
+"reviewBody": "In order to have these puff up, in my opinion, you really do need a tortilla press. It wasn't until I made the 5th one that I finally pressed it thin enough and it puffed up nicely. I'm going out and buying a tortilla press and making these again, that's how good they are."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary Geiger"
+},
+"reviewBody": "Chef John will you share the chicken recipe you used?"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/246974/puffy-taco-shells/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/360/bread/quick-bread/",
+"name": "Quick Bread Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/15855/bread/quick-bread/tortillas/",
+"name": "Tortilla Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/246974/puffy-taco-shells/",
+"name": "Puffy Taco Shells"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

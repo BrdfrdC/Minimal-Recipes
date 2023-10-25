@@ -1,0 +1,364 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Potato Scones"
+,"datePublished": "2018-06-08T10:19:47.000-04:00"
+,"dateModified": "2023-01-18T14:10:52.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Lindsay O"
+,"url": "https://www.allrecipes.com/cook/13775917"
+}
+]
+,"description": "These tattie scones are a traditional Scottish breakfast side dish made with leftover mashed potatoes cooked on a hot griddle until golden brown."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/qOJffx8c9hFDhbeNZsM70sjJQRo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/241419-potato-scones-ddmfs-4X3-0028-22b684c81c784fc1aa62ce783497eb11.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Potato Scones"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "24"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "198 kcal"
+,"carbohydrateContent": "29 g"
+,"cholesterolContent": "20 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "308 mg"
+,"sugarContent": "1 g"
+,"fatContent": "8 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 pound cooked potatoes",
+"4 ounces self-rising flour",
+"2 ounces butter",
+"0.5 pinch salt" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat a lightly greased griddle or cast iron skillet over medium-high heat."
+} ,{
+"@type": "HowToStep"
+,"text": "Mash potatoes with flour, butter, and salt in a large bowl until a stiff dough forms."
+} ,{
+"@type": "HowToStep"
+,"text": "Turn dough out onto a lightly floured work surface. Knead dough lightly and roll dough out to a 1/2-inch-thick circle. Cut into 6 equal wedges."
+} ,{
+"@type": "HowToStep"
+,"text": "Working in batches, cook scones on the hot griddle until golden brown, 4 to 5 minutes per side."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT25M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mh_preciosa"
+},
+"reviewBody": "Easy to make!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "gcmaclean1"
+},
+"reviewBody": "Perfect recipe, my ma used to make these and they brought back wonderful memories, I just got a find black pudding."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "LoVe"
+},
+"reviewBody": "I would also not call this a \"scone\". I agree with those who posted it is more like a potato pancake or lefse, both of which I've made. If the title is changed, I would rate it differently. But if someone is looking for a scone, I would recommend a different recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "plates4u"
+},
+"reviewBody": "I made half of this recipe as I was a bit hesitant. They are in fact easy and fast to make. I followed the suggestion of adding some kind of flavoring. I opted for a tiny bit of powdered garlic. It was very good. My only advice would be to keep an eye on them as they can burn quickly. Other than that, a dab of sour cream sounds good to me!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Andrea Boyle"
+},
+"reviewBody": "My husband was very excited about this recipe and it did not disappoint. I will definitely make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "priyabella"
+},
+"reviewBody": "Made it pretty much exact, but added garlic and onion powder and a tiny bit of shredded cheese. So good!!! And so easy!!!! Mine might not be the prettiest, but they taste amazing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Myke McDonald"
+},
+"reviewBody": "Same as my Nana made. She would also use leftover mashed potatoes. \nPart of a real Northern Irish fry up (called an Ulster Fry)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joannayarbrough"
+},
+"reviewBody": "I've made this several times. It's been delicious every time. Like someone else says, the amounts of the ingredients aren't set in stone. It depends on the moisture amount in the potatoes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christine Harris"
+},
+"reviewBody": "Delicious. I may have made them thicker than in the authentic way, but they were yum. Some other reviews said they added a lot more flour. I only added a little more. I want to taste potatoes not flour. I added a teaspoon of vegetable stock powder, chives and a touch of garlic powder."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ken Stevens"
+},
+"reviewBody": "Rolled them thinner but other then that it was great"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Trimada"
+},
+"reviewBody": "Agreeing with another review here, you cannot use exact measurements for this to work, potatoes are different and some will be more watery than others. Pick a good mashing potato (russet etc) and for ME took more flour. Basically if your dough is still sticking to things, its needs more flour… I also think adding finely chopped onions and a bit of garlic powder adds to the flavor but that is preference.. Oh and you can use “All purpose” flour if that is all you have but as recipe suggests use self rising if possible."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Suky Bee"
+},
+"reviewBody": "so simple &amp; a really tasty alternative to mash &amp; roast..lovely with a runny egg"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Janet Gilbert"
+},
+"reviewBody": "good recipe for 'tattie ' scones but not enough flour- my mum states that you keep on adding until the potato can't take any more. In other words until it forms a firm dough.Enjoy with square (Lorne) sausage &amp; plain (Scottish) bread."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Penelope M"
+},
+"reviewBody": "I read this recipe several times - 4 oz of flour seemed too little. What I got for the first batch were gigantic, gummy gnocchi. So I doubled the flour. Not much improved. I am certain I followed the recipe exactly. These are like unfortunate potato pancakes when I tried it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Fiona Turro"
+},
+"reviewBody": "Yes, exactly how I make Irish potato pancake (griddle) cakes, aka Farls."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sheila"
+},
+"reviewBody": "I make this exact recipe, altho I like abit of green onion and garlic sprinkled in mine. My husband was born and raised in Ireland, and there, they call this farl. one thing to note, depending on how wet your potatoes are, you should adjust your flour accordingly.this is a great and easy recipe. Also it's easily tweaked to suit your family's taste. one of my favorites alterteration... even tho It's not traditional is to add a nice slice of Monterrey jack on top when it's nearly done..so it's all melty... omg. YUM"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "serenilla"
+},
+"reviewBody": "Mine turned out very ugly but the flavor was great !"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Susan"
+},
+"reviewBody": "I made this recipe (or one exactly like this) just before Thanksgiving 2014. I made it because it is so similar to the Norwegian Lefse recipe (there is one on this site) that I make and I was curious. I made it as directed and it tasted very similar to Lefse. I rolled some of the dough paper thin, like we do for lefse, and it was identical. Lefse adds a pinch of sugar, for browning, and some cream for a moister dough and also is cooked on a dry griddle. This recipe is a treat and because you don't roll it so thin, it's much easier to make. I'll make this again! It's wonderful to eat plain with a little butter or you can spread it with jam. Try it, it's a wonderfully tender bread."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/241419/potato-scones/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/156/bread/",
+"name": "Bread"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/360/bread/quick-bread/",
+"name": "Quick Bread Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/241419/potato-scones/",
+"name": "Potato Scones"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

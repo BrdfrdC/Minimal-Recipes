@@ -1,0 +1,165 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Sheet Pan Breakfast Bake"
+,"datePublished": "2023-01-05T14:24:10.000-05:00"
+,"dateModified": "2023-01-05T14:24:10.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "thedailygourmet"
+,"url": "https://www.allrecipes.com/cook/thedailygourmet"
+}
+]
+,"description": "A layered breakfast bake with two ingredient dough, eggs, and bacon."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/yqND_Pje1JXFq1QCPbxbhwguRLY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/sheet-pan-breakfast-bake-72dpi-717cf150ab7e4aafb4d531ca5b585c49.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Sheet Pan Breakfast Bake"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "2",
+"ratingCount": "1"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "286 kcal"
+,"carbohydrateContent": "19 g"
+,"cholesterolContent": "147 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "13 g"
+,"saturatedFatContent": "8 g"
+,"sodiumContent": "642 mg"
+,"fatContent": "18 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 cup Greek yogurt",
+"1.25 cups self-rising flour, plus more for kneading",
+"1 teaspoon carne asada seasoning (such as Lawry's®)",
+"cooking spray",
+"5 large eggs",
+"1 cup shredded Colby cheese",
+"1 cup frozen shredded hash brown potatoes, thawed",
+"2 tablespoons salsa",
+"4 slices bacon",
+"green onions for garnish (optional)" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C). Spray a sheet pan with nonstick cooking spray."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix Greek yogurt, flour, and carne asada seasoning together in a medium bowl until a shaggy dough forms. Transfer to a surface dusted with self-rising flour, and knead for about 5 minutes until smooth. Continue adding flour as needed if the dough is too sticky."
+} ,{
+"@type": "HowToStep"
+,"text": "Knead dough for about 5 minutes until smooth."
+} ,{
+"@type": "HowToStep"
+,"text": "Shape dough to fit into sheet pan."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake dough in the preheated oven for 12 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, stir together eggs, cheese, hash browns, and salsa in a bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 7 minutes. Remove bacon to a drip line tray. Let cool before roughly chopped bacon."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour egg mixture over dough. Sprinkle bacon over the top."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook until eggs are set, about 25 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove from oven and top with chopped green onions. Allow to cool slightly before serving."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT47M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "NanC"
+},
+"reviewBody": "Dough was awful. The topping was very good."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8516222/sheet-pan-breakfast-bake/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/78/breakfast-and-brunch/",
+"name": "Breakfast and Brunch"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/148/breakfast-and-brunch/eggs/",
+"name": "Eggs"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8516222/sheet-pan-breakfast-bake/",
+"name": "Sheet Pan Breakfast Bake"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

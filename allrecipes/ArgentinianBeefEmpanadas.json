@@ -1,0 +1,384 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Argentinian Beef Empanadas"
+,"datePublished": "2015-06-10T20:33:49.000-04:00"
+,"dateModified": "2022-08-22T14:43:57.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "MariaZoroza"
+}
+]
+,"description": "Beef, raisins, and olives make a flavorful mix inside a toasty pocket of bread for easy transportation and even easier eating. Enjoy this Argentinian empanadas recipe."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Zx4Gt6baFJm3i40AS3dyxxvjLM4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2338675-4941f6e266ed437b942635a4f647a866.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Argentinian Beef Empanadas"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.3",
+"ratingCount": "23"
+}
+,"cookTime": "PT25M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "823 kcal"
+,"carbohydrateContent": "61 g"
+,"cholesterolContent": "102 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "17 g"
+,"saturatedFatContent": "17 g"
+,"sodiumContent": "687 mg"
+,"sugarContent": "5 g"
+,"fatContent": "57 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT60M"
+,"recipeIngredient": [
+"0.5 pound ground beef",
+"3 tablespoons butter",
+"2 medium onions, chopped",
+"1 green onion, chopped",
+"2 hard-boiled eggs, chopped",
+"14 pitted green olives, such as Manzanilla, finely chopped",
+"3 tablespoons raisins",
+"1 teaspoon cumin",
+"0.5 teaspoon salt",
+"0.25 teaspoon black pepper",
+"2 (17.5 ounce) packages frozen puff pastry (each with 2 sheets), thawed",
+"1 raw egg, lightly beaten" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 450 degrees F (230 degrees C). Set racks in the upper and lower thirds of the oven and line 2 large baking sheets with parchment paper."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook beef in a large, heavy skillet over medium-high heat, stirring and breaking up lumps, until no longer pink, 4 to 5 minutes. Transfer beef to a small bowl with a slotted spoon, and pour off grease from the skillet. Melt butter in the skillet and saute onions and green onion, stirring occasionally, until tender, about 5 minutes. Return beef to skillet and stir in hard-boiled eggs, olives, raisins, cumin, salt, and pepper. Transfer mixture to a shallow bowl and chill until cooled, 10 to 20 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Unfold one pastry sheet, keeping remaining sheets chilled, onto a lightly floured surface, dust lightly with flour, and roll out into a 12-inch square. Cut four 5 1/2-inch rounds from pastry. Brush a 1/2-inch border around the edges of one round with water, using a small brush or fingertip. Spoon about 3 tablespoons of filling onto half of the round. Fold other half over filling and press edges together firmly. Crimp edges with a fork and transfer to one of the prepared baking sheets. Repeat with three remaining rounds. Form 12 more empanadas in the same manner with remaining pastry and filling, arranging them about 1 1/2 inches apart on baking sheets."
+} ,{
+"@type": "HowToStep"
+,"text": "Brush tops of empanadas with beaten egg. Bake in the preheated oven, switching position of sheets halfway through, until golden brown, about 15 minutes."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT85M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Delicious and easy to make . A real crowd pleaser"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dave Staples"
+},
+"reviewBody": "Awesome first time experience. I did substitute dried cranberries because cooked raisins are not allowed in this house, lol."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rui Gaspar"
+},
+"reviewBody": "Made it today, replaced raisins with corn. Everyone loved them.\nThanks for sharing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "LCD “LCD”"
+},
+"reviewBody": "I bought just one $5.00 package of frozen puffy pastry shells instead of two so I had a lot of filling left over. Fortunately I had a $1.00 (on sale) tube of Pillsbury flaky biscuits that I could roll thin and stuff. The two versions seem equally tasty and were well received. I can see a bunch of variations to this basic recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Logan 49X"
+},
+"reviewBody": "These are delicious. I did add some spices to the meat. I would suggest throwing the raisins in last, once the meat has cooled down, and before stuffing the empanadas. The reason is, they get really plumpy and soft, I don't know about you, but it gives me goosebumps, and the hairs in the back of my neck, stand up. Hence the reason, I always told my mother as a child, not to add raisins to my rice pudding, or bread pudding. :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Oleg"
+},
+"reviewBody": "This was bad. No flavor"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Heidi Steger"
+},
+"reviewBody": "Not exactly “juicy” but that may be because I used venison burger. Bottoms needed more time but tops were browned too much to extend time. Next time I’ll cook at a lower temp for longer time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Karen Orvik Noland"
+},
+"reviewBody": "Made this for a family gathering. Everyone raved. I was actually able to prepare this in my airfryer oven."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Strawberry"
+},
+"reviewBody": "I made this recipe just today! It was infact delicious, although it lacked flavor. It definitely need A LOT more salt, and I mean a lot. I also added a few additional spices to make it a little more flavorful. Overall, great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Edie Adamo"
+},
+"reviewBody": "Love this! I was apprehensive about the raisins and olives but it was so delicious! I did add a few things to address the \"lack of seasoning\" that is in other review and I think it was perfect. I added one clove of garlic and two serrano peppers to the onion mixture for a little spice. I also did a dash of paprika and I salted and peppered to taste. The cuman was a little powerful when I tasted the mixture before it baked in the dough but after it was all said and done it was perfect. I used three frozen puff pastry sheets and still had scraps left over but that can be refrozen and used at a later date. \nI used my convection oven on 450 and baked for 10 min before I switched racks and then did an additional 3-5 and they came out golden and flaky. I will absolutely be making these again. THank you for the amazing recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Susan MacFarland"
+},
+"reviewBody": "Why would anyone leave out the raisins and olives? They are crucial to the overall flavor of the empanada. And, if you switch the position of the baking sheets betweens racks as suggested, the bottoms won't burn. I love empanadas with raisins and we put olives (black or green) in our enchiladas too. Hubby loves them that way. Our Mexican family makes empanadas differently but I love a change."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Matthew Smith"
+},
+"reviewBody": "Delicious!\n\nI did make a few edits based my tastes and on the comment section here. \n\n1 Onion ( two was too much)\n1tsp Oregano\n2tsp Cumin\n3tsp Paprika\n\nI used two Pillsbury croissant packages for the dough and the portions were right on!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "goodnightpurple"
+},
+"reviewBody": "First, the filling is very bland. It definitely could use more spices. Second, DO NOT bake these at 450 degrees for 15 minutes! I followed the directions exactly and after 12 minutes I could smell them burning. The parchment paper was burned up and the empanadas were perfectly golden on top but the bottoms were completely black. I've made empanadas before that were wonderful. These are not."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Yoly"
+},
+"reviewBody": "I added a bit more seasoning and threw in some minced garlic in with the meat. They turned out really good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Shree"
+},
+"reviewBody": "I followed the recipe, except omitted raisins and olives so Mr Wonderful would eat it. As others mentioned, it needed more seasoning. My experiment turned out quite dry. I think next time I might add Cream of Mushroom to the meat mixture. Overall, a good base recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "merlion"
+},
+"reviewBody": "I do think the filling can do with more seasoning."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Doug"
+},
+"reviewBody": "I boosted the black pepper to 1/2 teaspoon, and it was great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Beth Mower Dodge"
+},
+"reviewBody": "These are wonderful and so easy to make. I leave out the raisins (because I don't like cooked raisins) and use a mix of green and black olives. My 11-year-old daughter enjoys making them for the family. We serve them with refried beans and Spanish rice to round out the meal. This recipe can easily be halved. I'm so happy they were featured in the allrecipes magazine!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Laurel"
+},
+"reviewBody": "Good filling! It could use some more spices i think."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/244265/argentinian-beef-empanadas/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/252/main-dish/savory-pies/",
+"name": "Savory Pie Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/2253/main-dish/savory-pies/beef-pie/",
+"name": "Beef Pie Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/244265/argentinian-beef-empanadas/",
+"name": "Argentinian Beef Empanadas"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

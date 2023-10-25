@@ -1,0 +1,377 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Perfect Creme Brulee"
+,"datePublished": "2020-06-18T23:45:44.000-04:00"
+,"dateModified": "2020-06-18T23:45:44.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Bobo"
+,"url": "https://www.allrecipes.com/cook/sugams"
+}
+]
+,"description": "This ultra-rich, smooth creme brulee achieves the classic crunchy browned sugar topping by broiling it in the oven."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/XwrXOd5uZjTyhekJlN_wSaUxHj4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2691003-e09f44c79ec94f739e5c32ce25706309.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Perfect Creme Brulee"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.4",
+"ratingCount": "26"
+}
+,"cookTime": "PT35M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "333 kcal"
+,"carbohydrateContent": "24 g"
+,"cholesterolContent": "235 mg"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "15 g"
+,"sodiumContent": "30 mg"
+,"sugarContent": "22 g"
+,"fatContent": "25 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"3 egg yolks",
+"0.25 cup white sugar",
+"1 teaspoon vanilla extract",
+"1 cup heavy cream",
+"1 tablespoon brown sugar",
+"2 tablespoons white sugar" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat oven to 300 degrees F (150 degrees C). Move a rack to the bottom of the oven."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk the egg yolks, sugar, and vanilla together in a stainless steel bowl until smooth. Bring the cream just to a simmer in a saucepan over medium-low heat; pour into the egg yolk mixture, whisking continually until combined."
+} ,{
+"@type": "HowToStep"
+,"text": "Bring a couple of inches of water to a simmer in an oven-safe saucepan over medium low heat; set the bowl with the cream mixture over the saucepan to form a double boiler."
+} ,{
+"@type": "HowToStep"
+,"text": "Place the entire double boiler into the preheated oven; bake until the mixture sets, about 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Chill in refrigerator 2 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven&#39;s broiler and set the oven rack about 6 inches from the heat source."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine the brown sugar with 2 tablespoons of white sugar in a bowl; sprinkle evenly over the cold creme."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat under the preheated broiler until the sugar melts and browns, 2 to 3 minutes; return immediately to the refrigerator and chill until the sugar is set, about 15 minutes."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT185M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Love this recipe, just would add that it needs to be baked on convection to cook evenly. And faster. The time frame on this recipe isn’t correct from my experience."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kaira"
+},
+"reviewBody": "I only had creme that was frozen and was worried it would not make a smooth brulee. Fortunately it did but a layer of butter rose to top that I caramelized to toffee using just one tsp brown sugar and heating under broiler.( I tried my torch but found it too easy to burn them.) The result was delicious and slightly different from what I set out to make but everyone liked them. I will make this again when I have the ingredients."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Cilla"
+},
+"reviewBody": "25-30 mins was NOT enough to allow the custard part of the creme brulee to set. Most other recipes call for 45-50 mins... Believe those!!! Otherwise, the taste of this one was indeed delicious...just not the right texture at all. Waaaay too liquidy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Robert J Falla III"
+},
+"reviewBody": "This is my and my Fiancée's favorite dessert!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ILOVEFOOD"
+},
+"reviewBody": "#IMADEIT!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Ines Guyton"
+},
+"reviewBody": "I made it. I doubled the recipe. It came out runny. Not cooked for long enough or should have cooked at a slight temperature. The taste was excellent but wished it had solidified."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Collin"
+},
+"reviewBody": "I put the ramekins in a glass dish with hot water to reach the level of the creme brulee within it and that seemed to work in place of a double boiler."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "hramirez8"
+},
+"reviewBody": "Simmer heavy cream for at least 5 minutes... and bake for 45 depending on your oven... use the torch, works much better!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lynn"
+},
+"reviewBody": "I would make again, easy and great taste."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "pammy"
+},
+"reviewBody": "made this with two and six and now with four servings i am hook on this recipe.. i did omit the brown sugar and only used white sugar ... its simple and fun to make and even funner to eat... guest love it and i love the small batches i make depending on how many guests we are having for the night...."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Troy1325"
+},
+"reviewBody": "Great recipe! Easy to follow. This was my first time making creme brulee so I was intimidated, but following this recipe made it a breeze. I topped with caramelized banana quarters (nice addition) but this recipe would have stood on its own."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SunnyGrrl1"
+},
+"reviewBody": "I followed the recipe and thought it was very tasty! Thanks for sharing it!!:-)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Britt"
+},
+"reviewBody": "I was away from home and was making this for friends, and this recipe followed nearly as close to the one from Cooks Illustrated Best Recipes formula. I used: per 1/4 cup cream, 1 yolk, 1 T sugar and I strain the hot mixture before I put it in the ramekins. There are so many sizes of ramekins now~a serving can be quite relative!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ctreadaway"
+},
+"reviewBody": "It came out perfect and very good. I put a little too much sugar on top. Next time I will know to use just a little on top."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tracy"
+},
+"reviewBody": "After reading another review, I read a few more recipes to see how to make this. I mixed the egg yolks and sugar and vanilla together, heated the cream, added it a little at a time to the egg yolks. Worked fine. I didn't put it through a sieve, and cooked it in ramekins- but it only fit into 3 6oz ramekins. Loved the taste. It was quite thick. I used a torch for the sugar- still getting the hang of that, but overall it was very good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Judy"
+},
+"reviewBody": "Too \"course\"."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "kami194u"
+},
+"reviewBody": "i love the taste but a bit sad when i tried to caramelised the top with oven broiler and the whole contents shinks.. i was left with a small amount of creme brulee to eat. I would recommend to add more egg yolks and whipping cream."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "thedailygourmet"
+},
+"reviewBody": "The directions are sketchy at best. I had good results only b/c I know how to make creme brulee. I chose a different method entirely to make this. I blended the egg yolks &amp; sugar together and placed this in a double boiler, and added the vanilla and cream. I continually stirred this mixture until it had thickened. I then poured it into ramekins and refrigerated it. After it cooled I used a finally ground turbinado sugar (raw sugar) and carmelised it w/ my butane torch. Simple recipe but given the instructions wouldn't recommend this to a beginner."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/218988/perfect-creme-brulee/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/363/desserts/custards-and-puddings/",
+"name": "Custards and Puddings"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/14444/desserts/custards-and-puddings/creme-brulee/",
+"name": "Creme Brulee Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/218988/perfect-creme-brulee/",
+"name": "Perfect Creme Brulee"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

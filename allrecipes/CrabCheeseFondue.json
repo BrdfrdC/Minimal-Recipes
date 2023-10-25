@@ -1,0 +1,121 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Crab Cheese Fondue"
+,"datePublished": "2020-01-18T04:46:19.000-05:00"
+,"dateModified": "2022-02-16T12:59:13.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Anne"
+,"url": "https://www.allrecipes.com/cook/5791375"
+}
+]
+,"description": "Fresh snow crab is added to a decadent white wine cheese fondue that everyone will love at your next party or potluck."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/XXUrUm1OtfLqqqIYjKdRHKxaM2A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/730840-6e69ff35c9814203855c411d84cfc1d8.jpg",
+"height": 250,
+"width": 250
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Crab Cheese Fondue"
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "197 kcal"
+,"carbohydrateContent": "3 g"
+,"cholesterolContent": "51 mg"
+,"proteinContent": "8 g"
+,"saturatedFatContent": "10 g"
+,"sodiumContent": "143 mg"
+,"sugarContent": "1 g"
+,"fatContent": "16 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 (8 ounce) package cream cheese, softened",
+"0.5 cup dry white wine",
+"6 ounces shredded Swiss cheese",
+"1 teaspoon cornstarch",
+"2 Snow Crab clusters, shelled and chopped",
+"3 tablespoons milk",
+"2 teaspoons Worcestershire sauce",
+"1 teaspoon snipped fresh parsley" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Melt cream cheese and wine together in an electric fondue pot or saucepan over low heat, stirring constantly until smooth, about 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Toss Swiss cheese with cornstarch in a bowl to coat. Stir into wine mixture with crabmeat, milk, Worcestershire, and parsley until the cheese is smooth and crab is heated thoroughly, 5 to 10 minutes. Transfer to a fondue pot if not using already, or chafing dish; keep warm."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT25M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/278144/crab-cheese-fondue/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/104/appetizers-and-snacks/cheese/",
+"name": "Cheese"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/433/appetizers-and-snacks/cheese/cheese-fondue/",
+"name": "Cheese Fondue Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/278144/crab-cheese-fondue/",
+"name": "Crab Cheese Fondue"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

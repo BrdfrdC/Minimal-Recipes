@@ -1,0 +1,183 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Seitan Fajitas"
+,"datePublished": "2016-06-04T10:08:01.000-04:00"
+,"dateModified": "2016-06-04T10:08:01.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "MFord"
+,"url": "https://www.allrecipes.com/cook/7336639"
+}
+]
+,"description": "Replace meat with seitan, a wheat gluten-based meat alternative, to make vegetarian-friendly fajitas. Serve with taco sauce, sour cream, and guacamole."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/BU-vgkViKawHVHsDTI_xiIOxBCs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2110057-0647fdf0eacb40cd88f6f498c7906ab1.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Seitan Fajitas"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "6"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "424 kcal"
+,"carbohydrateContent": "67 g"
+,"fiberContent": "7 g"
+,"proteinContent": "30 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "925 mg"
+,"sugarContent": "3 g"
+,"fatContent": "11 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"3 tablespoons olive oil",
+"1 red bell pepper, cut into strips",
+"1 green bell pepper, cut into strips",
+"1 yellow bell pepper, cut into strips",
+"0.5 red onion, chopped",
+"1 pound seitan, cut into strips",
+"2 tablespoons reduced-sodium soy sauce",
+"3 cloves garlic, minced",
+"1 teaspoon chili powder",
+"1 teaspoon paprika",
+"1 teaspoon ground cumin",
+"10 whole grain tortillas" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat oil in a large skillet over medium heat; cook and stir red bell pepper, green bell pepper, yellow bell pepper, and onion until tender, 3 to 5 minutes. Add seitan, soy sauce, garlic, chili powder, paprika, and cumin; cook and stir until seitan is heated through, 7 to 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Spoon seitan filling onto each tortilla and fold tortilla around filling."
+} ]
+,"recipeYield": ["5"]
+,"totalTime": "PT25M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Matt T"
+},
+"reviewBody": "Great recipe. I’ve made it a few times, but with only 8oz seitan and using all of the bell peppers instead of half of each. That made for a better ratio in my opinion. You can’t also leave some seitan and bell peppers off on the side without seasonings for picky young kiddos do they’ll enjoy making their own fajitas!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jmfrease"
+},
+"reviewBody": "made it exactly the way the recipe note. Fantastic! Quick, easy and healthy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Bob Alba"
+},
+"reviewBody": "There is no cilantro on the list but it's definitely a necessity. Add it to the pan after adding the seitan and spices."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Linda T"
+},
+"reviewBody": "This was tasty.. seasonings good. The only change I would recommend is cooking the seitan a bit more until it gets some texture and bit browned rather than just warmed"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/237343/seitan-fajitas/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17504/world-cuisine/latin-american/mexican/main-dishes/",
+"name": "Main Dishes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1220/world-cuisine/latin-american/mexican/main-dishes/fajitas/",
+"name": "Fajita Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/237343/seitan-fajitas/",
+"name": "Seitan Fajitas"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

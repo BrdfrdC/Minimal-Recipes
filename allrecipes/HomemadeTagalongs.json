@@ -1,0 +1,138 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Homemade Tagalongs"
+,"datePublished": "2023-02-15T15:00:00.000-05:00"
+,"dateModified": "2023-02-15T15:00:00.000-05:00"
+,"author": [ {"@type": "Person"
+,"name": "Colleen Weeden" }
+]
+,"description": "Try these Copycat Girl Scout Tagalongs if you didn&#39;t score enough boxes at the last cookie sale."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/H0Ue3_QvSQThnMyDtyA2a4t94nA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Chocolate-Peanut-Butter-Cookies-4x3-1-2000-88e41df0a489434991a2d146cc13986d.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Homemade Tagalongs"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "2"
+}
+,"cookTime": "PT7M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "173 kcal"
+,"carbohydrateContent": "17 g"
+,"cholesterolContent": "24 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "6 g"
+,"sodiumContent": "53 mg"
+,"fatContent": "11 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"1 cup butter, softened",
+"0.75 cup white sugar",
+"0.5 teaspoon salt",
+"2 large egg yolks",
+"2 teaspoons vanilla extract",
+"2 cups flour",
+"1 cup powdered sugar",
+"1 cup peanut butter",
+"0.5 cup heavy cream",
+"8 ounces milk chocolate, chopped",
+"8 ounces chocolate-flavor candy coating, chopped" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Beat butter in a large bowl with an electric mixer at medium speed for 30 seconds. Add sugar and salt and beat until well combined. Beat in egg yolks and vanilla. Mix in flour until dough forms. Chill, covered, until dough is easy to handle, about 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 375 degrees F (190 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "On a lightly floured surface, roll dough to 1/4-inch thickness. Cut dough with a 2-inch cookie cutter, rerolling scraps if needed. Arrange cutouts 2 inches apart on an ungreased cookie sheet."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until light brown, 7 to 8 minutes. Transfer to a wire rack to cool completely."
+} ,{
+"@type": "HowToStep"
+,"text": "In another bowl, stir together powdered sugar, peanut butter, and cream. Spread 2 teaspoons . onto each cookie, leaving centers slightly mounded. Arrange on wax paper."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, arrange a wire rack over wax paper. Heat milk chocolate and candy coating in a small saucepan over low heat until melted. Spoon over cookies to cover, allowing excess to drip off. Let stand on prepared rack until set."
+} ]
+,"recipeYield": ["46"]
+,"totalTime": "PT157M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8534935/homemade-tagalongs/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/362/desserts/cookies/",
+"name": "Cookies"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/852/desserts/cookies/peanut-butter-cookies/",
+"name": "Peanut Butter Cookie Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8534935/homemade-tagalongs/",
+"name": "Homemade Tagalongs"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

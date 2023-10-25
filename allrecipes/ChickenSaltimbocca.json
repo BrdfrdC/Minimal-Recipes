@@ -1,0 +1,703 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Chicken Saltimbocca"
+,"datePublished": "2015-06-12T14:27:47.000-04:00"
+,"dateModified": "2023-01-12T12:25:22.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "SandyG"
+,"url": "https://www.allrecipes.com/cook/SandyG"
+}
+]
+,"description": "Chicken saltimbocca is a mouthwatering combination of chicken cutlets and sage, wrapped in Italian prosciutto and pan-fried with a buttery sauce."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/XHJ8yiCj6ZjVDDAC_gQfSjNbIuk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2338678-7c6cb6355b3b4f598f069ae93d00d77f.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Chicken Saltimbocca"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "50"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "350 kcal"
+,"carbohydrateContent": "1 g"
+,"cholesterolContent": "116 mg"
+,"proteinContent": "36 g"
+,"saturatedFatContent": "7 g"
+,"sodiumContent": "694 mg"
+,"sugarContent": "0 g"
+,"fatContent": "19 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"8 (6 ounce) chicken cutlets",
+"1 teaspoon salt",
+"0.5 teaspoon black pepper",
+"16 large fresh sage leaves",
+"16 thin slices prosciutto",
+"3 tablespoons olive oil",
+"1 cup dry white wine",
+"1 cup low-sodium chicken broth",
+"0.5 stick butter" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "If cutlets are thick, lay them between 2 sheets of wax paper and pound to 1/2-inch thickness with flat side of a meat mallet or bottom of a small, heavy skillet. Sprinkle with salt and pepper. Put 2 large (or 5 small) sage leaves on top of each cutlet, then wrap 2 slices of prosciutto crosswise around each cutlet, holding sage in place."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat 1 1/2 tablespoons oil in a large skillet over medium heat. Add 4 cutlets and cook until no longer pink in the center and the juices run clear, about 2 minutes per side. Transfer to a platter; tent with foil to keep warm. Repeat with remaining 1 1/2 tablespoons oil and remaining 4 cutlets."
+} ,{
+"@type": "HowToStep"
+,"text": "Add wine to skillet and simmer, scraping up any browned bits, 1 minute. Add broth and simmer until slightly reduced, 4 to 5 minutes. Remove from heat; add butter and swirl skillet until butter has melted and sauce is creamy. Spoon 2 tablespoons sauce over each cutlet and serve."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT30M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Last minute decision for tonight, it was terrific! Will be on the menu in the future."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Heathins"
+},
+"reviewBody": "So tasty! Served it on a bed of Parmesan polenta and pan seared garlic green beans."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Richelle"
+},
+"reviewBody": "I highly recommend to add 1/2 tbsp of lemon juice near the end, before the butter goes in. Very tasty and fancy looking dinner!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Ok, I didn't have any sage leaves and made it with basil leaves instead. Totally awesome. I'm going to have to try it with the sage leaves. It was so good. I covered the prosciutto wrapped chicken breasts while they were cooking and they were juicy and sweet. Totally excellent."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "powellsandrayshepard"
+},
+"reviewBody": "Because the deli in my market was closed for remodeling, I substituted the prosciutto with bacon. It was delicious 😋."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "n5y7ry2vc4"
+},
+"reviewBody": "My family LOVED this simple recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Primadonna11"
+},
+"reviewBody": "Absolutely delicious! One thing you need to do is dredge it in flour before you put it in the pan. Then when you deglaze the pan with wine, the sauce will thicken. I also didn't salt the chicken, just used peper and it was devine! Definite crowd pleaser."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "brendon"
+},
+"reviewBody": "a little lemon juice in the sauce. I used homemade chicken broth which didn't need the extra butter in the sauce on the end."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Shere Rolo"
+},
+"reviewBody": "This was AWESOME. Didn't have sage so used Rosemary instead. Agree with another poster, I would use less white wine in reduction for next time. Took way too long and chicken was lukewarm by the time the sauce was ready. But the taste! FANTASTICO"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "THE DM"
+},
+"reviewBody": "Turned out wonderfully. Added a few things to guild the Lilly."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KathiJ44"
+},
+"reviewBody": "Delicious! Will make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nana"
+},
+"reviewBody": "This was delicious and comes together very easily. Hubs loved it. Didn’t add extra salt, in my opinion didn’t really need it. I will make this again and share with my son, who loves to cook also."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gail Fabiani"
+},
+"reviewBody": "Made it for company and everyone loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rebecca"
+},
+"reviewBody": "Terrific!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shaw Kitty"
+},
+"reviewBody": "I saw this recipe in the Allrecipes Magazine and it reminded me that a neighbor had made this for our family after I had some surgery about a year ago--we loved it then and loved it again tonight after making it myself. I used fresh basil leaves from my herb garden instead of the sage --it was a wonderful substitution. Also, I made half the sauce amount and it seemed adequate. I just wish thin slices of prosciutto were less delicate to handle and wouldn't keep breaking up as I work with it. Great for low carb watchers!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tom McCullough Sr."
+},
+"reviewBody": "Loved it! I like the suggestion by one of the cooks that added capers to the sauce. I will try that next time instead of salting the chicken. We used large sage leaves from our erb garden. They were a little too pungent but probably because they were cooked within minutes of picking. We will definitely make again. Thanks for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "ALK5B"
+},
+"reviewBody": "I made this because it was in the most recent Allrecipes magazine. It was featured as a \"weeknight winner\". No way, it was way too time-consuming for a weeknight. In addition, it was way too salty even though I didn't salt the chicken. Lastly, the sage flavor was nearly nonexistent. Will not make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Jl50563"
+},
+"reviewBody": "It was ok but I don’t know if I’d make it again. It just didn’t seem to have the pizazz I was expecting from reading the other reviews. And fighting the prosciutto slices that were stuck together was a bit of work."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "msurges"
+},
+"reviewBody": "I will make it again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda"
+},
+"reviewBody": "My husband and I did not care for the spooning sauce. It didn't matter, though, because the meat was terrific and can stand on its own."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Siu Chan"
+},
+"reviewBody": "I love it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Melinda McManus"
+},
+"reviewBody": "Family loved this! I marinated the chicken in Italian dressing for a couple hours first. Didn’t have sage leaves so used a small amount of ground sage. I did use fresh basil leaves to get the look of the sage leaves. I dusted the tops with a small amount of Italian bread crumbs and put that side down first in the hot oil. The gravy topping is important so I made a corn starch/water mixture and put that in the drippings with enough chicken stock to make all the sauce I knew my family would want. Delicious!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lonnie"
+},
+"reviewBody": "SO good! Added a few capers at the end and a little garlic powder with the salt and pepper. Quick and easy. I could serve this to company!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shelley W"
+},
+"reviewBody": "Second time making, loved both, no substitutions. Will be making often this summer because our sage is very happy! Daughter and husband loved it! Very filling...served with Gouda/thyme petite red potatoes and salad, Yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sheila Taft Mackie"
+},
+"reviewBody": "This is in my favorites now. I make it almost every week. Easy and delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Katie Goldsmith"
+},
+"reviewBody": "Made this for my parents, including my poor mother who currently has a broken leg. It was so delicious, I think it made her forget about the leg for 30 min or so. Made as written with sauteed garlic and spinach and couscous on the side, as well as a good chianti. Pretty easy, but feels fancy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Pat St John Parker"
+},
+"reviewBody": "To get the total meal calories 350 - 400, and to lower sodium, I used thin-sliced chicken breasts and then wrapped with just one slice of proscuitto, and used low sodium broth. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Fréderique"
+},
+"reviewBody": "My family loved it with their pasta!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jigsawgirl87"
+},
+"reviewBody": "So yummy! Maybe the one thing I would change is using less chicken broth. The amount called for takes a long time to reduce while the chicken is waiting."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mmoloney"
+},
+"reviewBody": "This dish is so easy to make and the flavor is great. I made it as written."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bakerbabe05"
+},
+"reviewBody": "So easy and delicious!! The sauce had flavor but not a ton - if you want to add more flavor to it try garlic!:) I will make this again:)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tricia Davis"
+},
+"reviewBody": "I have made this twice and love it. It's so easy and tasty. Once I made it with provolone and the other without, it was fantastic both ways!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dale"
+},
+"reviewBody": "I made this dish exactly as described and it was fantastic. I am attempting to duplicate my success again tonight . Really tasty dish, and mine turned out just like the photo illustration."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cicischwartz"
+},
+"reviewBody": "My family loves this (chicken+bacon=no brainer). I cook the chicken in butter and skip making the sauce. I serve this with cheesy mashed potatoes. Really, good. It seems 'fancy' but is relatively simply."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Sadie Kennedy"
+},
+"reviewBody": "Way to much Sage!! We took the Sage off after awhile and that helped mellow the dish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Natalie Hubner"
+},
+"reviewBody": "My new favorite! I followed the recipe as is and it is wonderful! I served it over orzo pasta and just used the sauce to flavor plain orzo and it was yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "April"
+},
+"reviewBody": "Really simple, tender and tasty. No adjustments necessary, perfect as is!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kaveryp"
+},
+"reviewBody": "Excellent! Saw it in the magazine and it turned out exactly like the photo! Served with couscous and sautéed spinach. Next time will add a little corn starch to thicken up the sauce and will cook the chicken a little longer than recommended (mine was a little under-done at 2 minutes per side.) Will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "RAL"
+},
+"reviewBody": "Very, very easy and my whole family loved it. We will definitely make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cmcgraw"
+},
+"reviewBody": "I think this is the first recipe that I've made that looks just like the picture in magazine! Fabulous taste, my husband said it is his new favorite chicken dish. Didn't modify the recipe; simple ingredients, great flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jessica H."
+},
+"reviewBody": "Made this last night for dinner with blanched home grown green beans and mashed potatoes. Wonderful recipe. I did not have the dry white wine so I used low sodium chicken stock instead. I also slightly thickened the sauce with 1t of cornstarch since we were running behind and didn't have time to let it simmer for a bit longer to reduce. :) It is now in our regular rotation for dinner."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gotrecipe?"
+},
+"reviewBody": "5 Stars and More!!! Made this after seeing it in the Allrecipe's Magazine and just couldn't resist. Made exactly to recipe and it turned out so tasty. The sauce was delicious and added to the overall flavor. I think next time I make this I will not add any extra salt. Other than that....perfect! Thanks SandyG for submitting this and to Allrecipes for publishing it. I might not have tried it otherwise."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jp"
+},
+"reviewBody": "This dish was delicious! The only thing I changed was to add 2 tbsp of corn starch to the wine sauce to thicken it up a bit. will definitely put this into the rotation! :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Becky Parker"
+},
+"reviewBody": "Great recipe! I made it exactly as written and wouldn't change a thing. Husband loved it. I cooked chicken on med/low heat and put a lid on to assure chicken was moist when finished. I have added to my recipe box and will make again. Great way to jazz up chicken."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/244274/sandys-chicken-saltimbocca/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16767/world-cuisine/european/italian/main-dishes/",
+"name": "Main Dishes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1796/world-cuisine/european/italian/main-dishes/chicken/",
+"name": "Chicken"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/244274/sandys-chicken-saltimbocca/",
+"name": "Chicken Saltimbocca"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

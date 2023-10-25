@@ -1,0 +1,436 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Beef Gyro"
+,"datePublished": "2018-06-08T10:09:40.000-04:00"
+,"dateModified": "2022-01-03T10:28:52.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "jennifer_russell"
+,"url": "https://www.allrecipes.com/cook/jenniferfletcher081"
+}
+]
+,"description": "Beef gyros loaded with homemade tzatziki sauce, feta cheese, tomatoes, and onion is a hearty Greek-inspired sandwich served in a pita bread."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/15l0ZHB4Sc12HLzrX2BU872GBao=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1042829-2dfd295853a44999a5dc54f5c9e5d896.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Beef Gyro"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "3.9",
+"ratingCount": "28"
+}
+,"cookTime": "PT5M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "497 kcal"
+,"carbohydrateContent": "42 g"
+,"cholesterolContent": "74 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "29 g"
+,"saturatedFatContent": "9 g"
+,"sodiumContent": "733 mg"
+,"sugarContent": "9 g"
+,"fatContent": "24 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"2 (8 ounce) containers plain yogurt",
+"2 cucumbers - peeled, seeded, and diced",
+"3 tablespoons olive oil, divided",
+"1 tablespoon chopped fresh dill",
+"0.5 lemon, juiced",
+"3 cloves garlic, peeled",
+"salt and ground black pepper to taste",
+"1 (1 pound) beef top sirloin steak, cut into thin strips",
+"5 pita bread rounds",
+"1 tomato, chopped",
+"0.5 small onion, thinly sliced",
+"1 (4 ounce) package crumbled feta cheese",
+"0.5 cup shredded lettuce",
+"1 (2.25 ounce) can sliced ripe olives, drained" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Blend yogurt, cucumbers, 2 tablespoons olive oil, dill, lemon juice, garlic, salt, and pepper in a blender until tzatziki sauce is evenly combined."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat remaining 1 tablespoon olive oil in a large skillet over medium heat; cook and stir beef in the hot oil until no longer pink, 5 to 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Layer half of each pita with steak, tomato, onion, feta cheese, lettuce, olives, and tzatziki sauce. Bring edge of each pita over the filling and secure with a toothpick."
+} ]
+,"recipeYield": ["5"]
+,"totalTime": "PT20M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Juliette Rachelle"
+},
+"reviewBody": "I’m definitely obsessed with this recipe now. Even my picky grandmother loves this! It’s perfectly balanced with salt and acidity. It makes an easy meal to prep for work/school lunches! Definitely worth a try."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Bigbrow"
+},
+"reviewBody": "Loved this. Super easy and quick. I cheated and bought the tzaki sauce pre made and used pita pockets instead of rounds. id recommend no bigger than 1/2 in strips of the sirloin as well. Great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Morgan Adams"
+},
+"reviewBody": "The sauce was too watery and bland."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Rich Pipkin"
+},
+"reviewBody": "Didn't use the blender, cut out the seeds, and marinated the meat. Great meal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "LoveFood"
+},
+"reviewBody": "Ugh,took forever to make the sauced"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Taryn Stemler"
+},
+"reviewBody": "This was excellent."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "emily"
+},
+"reviewBody": "I will make again, but make less sauce"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stacy"
+},
+"reviewBody": "I will definitely be making this again but I will season the meat a bit before cooking. It was a bit bland. Otherwise my mom and dad loved it as well as my very picky kids! I had macaroni and cheese on standby just in case. Haha!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alex the Frog"
+},
+"reviewBody": "This was very good.\nThe next time I will be using half the amounts for the tzatziki, I had enough for 10 people. :-)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "colleen mckee"
+},
+"reviewBody": "Sauce way too thin, bland."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Carigan Soria"
+},
+"reviewBody": "This recipe was really good! Instead of regular yogurt I used Greek yogurt to help thicken the sauce and seasoned the meat before hand . My husband and mom really enjoyed it would definitely do this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Desiree Staffeldt-Gyger"
+},
+"reviewBody": "this was excellent. easy and tasty. I marinated the steak before grilling it. Kids and picky hubby all gave a thumbs up. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Heather Renee Tuggle"
+},
+"reviewBody": "it was edible but will not be making again. nothing wrong with it just did not like the combination."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nakiah Burnes"
+},
+"reviewBody": "My hubby and I loved this! I think I put too much lemon juice in the tzatziki for my hubby's taste so he used some Trader Joe's goddess dressing instead. I added Salt and Pepper to the meat. Also, I added some sesame seeds and a dab of prepared horseradish on my gyro. For the kids sake, I put the onions, cucumbers, and tomatoes as a salad on the side with oil &amp; vinegar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Samsbc12"
+},
+"reviewBody": "This was great. I made a few changes. I used a naan like break, so it was fluffier then the pita bread. \n\nI also, based on other reviews hand chopped the cucumber vs blending it to avoid the tzatziki from having too much liquid."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "I like to eat"
+},
+"reviewBody": "People who are having trouble with it being watery. Try running the cucumbers through a food processor, blender, or grate really fine on a cheese grader first then put on a terry cloth or a lot of paper towles and ring out the extra mosture form the cucumbers. This will help remove the extra liquid and make the tzatziki thicker."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "joerulz53"
+},
+"reviewBody": "It was very good, but gonna make it my own way now that I know the basics. Gonna have to double the portions next time too, what I made was gone within 15 minutes"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Brian Dodd"
+},
+"reviewBody": "Made it the fist time as written, yep it was way to thin. It took a little thought, but to thicken it:\n1) shred the cucumber\n2) wrap in paper towels and squeeze the moisture out\n3) MIX BY HAND DON'T USE THE BLENDER.\nNow you have a great tzatziki ;)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "kathy"
+},
+"reviewBody": "Sauce was very watery... Next time I'll try with only one cucumber and maybe an extra yogurt..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Alice"
+},
+"reviewBody": "The sauce was too thin, and the beef is bland. Great recipe for people who don't like spices."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jenny Withers"
+},
+"reviewBody": "this was quick and easy and I would definitely make again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Maria Whitesell"
+},
+"reviewBody": "The flavors in this recipe were great, but my tzatziki sauce was very watery! I ended up doubling the amount of yogurt and that helped, but it was still quite thin. I will definitely make this again, but I will have to do some tweaking of measurements to fix the sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christina"
+},
+"reviewBody": "This was delicious! I used some bison skirt steak that I had on hand in place of the beef. Also, I had to omit the lettuce b/c I was out of it. LOVED the addition of the feta! What a great take on a gyro...a keeper, for sure~YUM! Thanks for sharing. :)"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/233766/beef-gyro/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/231/world-cuisine/european/",
+"name": "European"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/731/world-cuisine/european/greek/",
+"name": "Greek"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/233766/beef-gyro/",
+"name": "Beef Gyro"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

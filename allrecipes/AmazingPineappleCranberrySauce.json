@@ -1,0 +1,424 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Amazing Pineapple Cranberry Sauce"
+,"datePublished": "2020-06-18T23:56:59.000-04:00"
+,"dateModified": "2022-09-26T14:54:35.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Summer Jeremy Womack"
+,"url": "https://www.allrecipes.com/cook/2529273"
+}
+]
+,"description": "The secret in this classic cranberry sauce variation is pineapple juice!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/i9w6O6Ny1huavO32d6TtBMd45WQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1758265-67b315956a3f43ad833ad6a447bfd5ee.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Amazing Pineapple Cranberry Sauce"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "27"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "120 kcal"
+,"carbohydrateContent": "31 g"
+,"fiberContent": "2 g"
+,"proteinContent": "0 g"
+,"sodiumContent": "1 mg"
+,"sugarContent": "28 g"
+,"fatContent": "0 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 (16 ounce) can pineapple chunks with juice",
+"water as needed",
+"1 cup white sugar",
+"1 (12 ounce) bag fresh cranberries" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Drain juice from canned pineapple into a measuring cup. Fill the measuring cup with enough water to equal 1 cup liquid altogether."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir pineapple juice mixture and sugar together in a saucepan; bring to a boil, stirring constantly. Add cranberries and return to a boil. Reduce heat to low and simmer until cranberries burst, about 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix pineapple chunks into cranberry mixture. Cool to room temperature before serving."
+} ]
+,"recipeYield": ["10"]
+,"totalTime": "PT50M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christy "
+},
+"reviewBody": "I've been making this for over 20 years but never had an actual recipe!! So, this was great to find with actual measurements!🙌 I've just always made it by the seat of my pants! And it never came out the same way consistently! I've used pineapple tidbits, crushed and chunks. (Prefer a mix of crushed AND tidbits btw!) But I also make a way bigger amount!! I've done versions with a can of Mandarin oranges, added spices (or not), used apple cider, fresh oranges, orange juice, plain water, even pomegranate juice and pins, you name it!! But THAT'S the beauty OF THIS recipe!! Use it as your base and then YOU can add or omit whatever suits your family and personal taste preferences!!!👍😁👌 Your kitchen, your rules and decisions! (I've seen the comments where people get so upset IF you alter a recipe!🙄) But I think that's the fun and best part OF cooking!! Use THIS recipe!!🙌 As is! OR wing it and just experiment!!😁 It'll never come out \"bad\"!! Thanks for posting!!👍 As I now HAVE actual measurements!!🙌😂"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jamie Hamblin Hirschi"
+},
+"reviewBody": "Great variation! I had a few oranges I needed to use so I juiced them instead of using water. The pineapple really adds a nice flavor. We also added pumpkin pie spices and cinnamon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Gloria"
+},
+"reviewBody": "This is both sweet and tart! My husband thought it was really good but it was still a bit too tart for me. The pineapple gives it a good flavor but I think next time, I will try it with oranges."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Mine did not turn out good ...the chunky pine apple was toooooo chunky and big and looked disproportionate and amateurish .... maybe it would have turned out better with shredded pineapple ..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Petrak"
+},
+"reviewBody": "Delicious. I made it with a 16oz can of crush and 6 oz can of round slice pineapple with juice that I cut into pieces, added water to fill the 1 cup with the juice, about a half cup of honey, with 2 dashes of cinnamon and 2 of ginger. It was a hit. Will make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tara"
+},
+"reviewBody": "Made it last year and it was a hit. Normally used canned. Plan to make it again this year."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tbrindley"
+},
+"reviewBody": "My boys like this much better than the traditional kind."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Gayla"
+},
+"reviewBody": "I used canned pineapple and it tasted tinny! Next time would use FRESH pineapple."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kay Taylor"
+},
+"reviewBody": "Instead of 1 C sugar, I used 1 tsp stevia and 1/4 C sugar. Great recipe. Pineapple gives a really nice balance to the tartness of the fresh cranberries. I prefer this to cranberry - orange juice recipes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "tarthur717"
+},
+"reviewBody": "Love this recipe I used a bit more than the recipe calls for I am lucky enough to get fresh cranberries from the bogs so the berries are big. Use same amount of sugar and cooked a little longer as I like it a little thicker."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mbabby"
+},
+"reviewBody": "I make this every year for Thanksgiving. The sweet pineapple offset the tart cranberries, even the kids love it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Miranda D Nogaki"
+},
+"reviewBody": "If you love yourself, make this recipe! You deserve to taste this! My 9 year old made it himself, and added half the sugar. It was still not too tart at all. \nHe also used a potato masher to make sure most of the cranberries burst before we let it cool.\nYUM."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Rhonda Beach- Newsom"
+},
+"reviewBody": "I have made this wonderful thanksgiving side dish twice. Now a Holiday favorite. I think I will change to Pineapple Tidbits next time. The chucks seem to be too large. Great recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amy"
+},
+"reviewBody": "Omitted the sugar and added 2 packets of stevia. Excellent"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jeannine Noel Helveston"
+},
+"reviewBody": "This is the best cranberry sauce I've tried. The pineapple offset the tartness of the cranberries without making it too sweet. My family loved it and I will make it again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah Gramiak"
+},
+"reviewBody": "I love this recipe!! I did use organic cane sugar instead of white and a little less of it, more water, and a dash or two of cinnamon and a pinch of ginger."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lsims1"
+},
+"reviewBody": "Was easy &amp; will definitely make again. I used 2 small cans of crushed pineapple and juice from small can of mandarin oranges. Chopped up the mandarin oranges &amp; added about 1/2 of the can of oranges when adding in the pineapple. By adding mandarin orange juice, didn't need to add water to make a cup of liquid. Was a big hit - people were gobbling it up!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "awakenedone"
+},
+"reviewBody": "absolutely wonderful! I typically do not like cranberry sauce, but am a fan when combined with other fresh ingredients. This version is the best by far as I love pineapples! I used organic cane sugar in place of white sugar, and used 2 cans of crushed pineapple, which gave me 2 cups of pineapple juice for the syrup base. I used 3/4 of the remaining crushed pineapple and this dish was spectacular. Will be a favorite for many years to come!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Janet Donnelly"
+},
+"reviewBody": "This is a simple and different type of cranberry sauce but we were happy to try it... it's very tasty. The only thing we did slightly different is that we used crushed pineapple and we added about 2 tablespoons of honey.\n***We also doubled the recipe to can some for the winter! We got a nice bowl full for Thanksgiving, three jelly jars and 2 pints out of the double recipe.***"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Foody"
+},
+"reviewBody": "Good, simple, and fast!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jessica Geriene"
+},
+"reviewBody": "It's soo tasty goes well with chicken and ham and turkey just so festive for the holiday season."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ONIOND"
+},
+"reviewBody": "Tried this while still warm--awesome! I did add a dash of salt. I made a half recipe, using an 8 oz can of crushed pineapple that needed using up. Thanks for sharing your grandma's recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "None"
+},
+"reviewBody": "Easy. Good. The pineapple is a nice addition. Crushed is fine also."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/235235/amazing-pineapple-cranberry-sauce/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1976/side-dish/sauces-and-condiments/sauces/",
+"name": "Sauces"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1260/side-dish/sauces-and-condiments/sauces/cranberry-sauce/",
+"name": "Cranberry Sauce Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/235235/amazing-pineapple-cranberry-sauce/",
+"name": "Amazing Pineapple Cranberry Sauce"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

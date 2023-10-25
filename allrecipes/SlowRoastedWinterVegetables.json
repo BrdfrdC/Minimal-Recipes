@@ -1,0 +1,148 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Slow-Roasted Winter Vegetables"
+,"datePublished": "2012-02-26T16:59:24.000-05:00"
+,"dateModified": "2022-02-11T13:47:31.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Janis"
+,"url": "https://www.allrecipes.com/cook/7728695"
+}
+]
+,"description": "Perfect for using up winter vegetables like yams, sweet potatoes, and parsnips, this slow-roasted recipe is easy and makes enough to feed a crowd."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/TDYy8FgJxvz4BwLPJ1gr9BvWiF0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/796939-3e4c12c06d1b43fdaa709526a9f316dd.jpg",
+"height": 250,
+"width": 250
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Slow-Roasted Winter Vegetables"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "2"
+}
+,"cookTime": "PT90M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "247 kcal"
+,"carbohydrateContent": "50 g"
+,"fiberContent": "8 g"
+,"proteinContent": "4 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "207 mg"
+,"sugarContent": "8 g"
+,"fatContent": "5 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT40M"
+,"recipeIngredient": [
+"1 medium butternut squash, chopped into 1/2-inch cubes",
+"2 medium yams, chopped into 1/2-inch cubes",
+"2 medium sweet potatoes, chopped into 1/2-inch cubes",
+"2 medium parsnips, chopped into 1/2-inch cubes, or more to taste",
+"4 medium carrots, chopped into 1/2-inch cubes, or more to taste",
+"1 large turnip, chopped into 1/2-inch cubes",
+"8 fresh mushrooms, quartered, or more to taste",
+"3 shallots, roughly chopped",
+"1 bulb garlic, cloves sliced lengthwise in half",
+"2 sprigs fresh rosemary, coarsely chopped",
+"1 teaspoon coarse sea salt",
+"0.25 teaspoon ground black pepper",
+"0.25 cup olive oil" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Place butternut squash, yams, sweet potatoes, parsnips, carrots, turnip, mushrooms, shallots, and garlic in a large bowl. Add rosemary, salt, and pepper. Toss until evenly mixed, then add oil and toss until coated. Pour into large baking pans so that the vegetables are no more than 1 1/2 inches deep."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven, tossing and scraping the bottom every 30 minutes, until vegetables are very tender, at least 90 minutes; longer is better."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT130M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gayle's Kitchen"
+},
+"reviewBody": "Fantastic and full of flavour!! Thanks"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/280359/slow-roasted-winter-vegetables/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/225/side-dish/vegetables/",
+"name": "Vegetables"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/927/side-dish/vegetables/sweet-potatoes/",
+"name": "Sweet Potatoes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/280359/slow-roasted-winter-vegetables/",
+"name": "Slow-Roasted Winter Vegetables"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

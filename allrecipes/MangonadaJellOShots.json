@@ -1,0 +1,140 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Mangonada Jell-O Shots"
+,"datePublished": "2019-06-30T08:43:06.000-04:00"
+,"dateModified": "2022-10-18T14:56:16.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "MamaGee805"
+,"url": "https://www.allrecipes.com/cook/13102458"
+}
+]
+,"description": "If you like the popular Mexican mangonada treat, you&#39;ll love these shots made with vodka, chamoy, and Tajin."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/_vNMvzFbdCEb7YYeNVVE85uG3Ok=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6785851-274f753479d64bc8bdaa659d5530273e.jpg",
+"height": 844,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Mangonada Jell-O Shots"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4",
+"ratingCount": "1"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "49 kcal"
+,"carbohydrateContent": "5 g"
+,"proteinContent": "1 g"
+,"sodiumContent": "28 mg"
+,"sugarContent": "5 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"0.25 cup water",
+"2 (.25 ounce) packages unflavored gelatin",
+"2 cups mango puree",
+"0.5 cup white sugar",
+"1 tablespoon lemon juice",
+"1 cup vodka",
+"1 teaspoon chamoy sauce, or to taste",
+"1 teaspoon chile-lime seasoning (such as Tajin®), or as needed" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat water and gelatin in a small saucepan over medium-high heat; whisk until dissolved, about 5 minutes. Add mango purée, sugar, and lemon juice; whisk until dissolved, about 5 minutes. Remove from heat to cool slightly, about 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk vodka into cooled mango gelatin until combined."
+} ,{
+"@type": "HowToStep"
+,"text": "Add a few drops chamoy and a sprinkle Tajin to twenty (2-ounce) cups. Fill each cup evenly with mango gelatin and sprinkle with more Tajin. Let set in the refrigerator for 4 hours."
+} ]
+,"recipeYield": ["20"]
+,"totalTime": "PT265M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Meagan R Rodriguez"
+},
+"reviewBody": "I just made them im concerned if its enough gelatin though"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/277691/mangonada-jell-o-shots/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/237/world-cuisine/latin-american/",
+"name": "Latin American"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/728/world-cuisine/latin-american/mexican/",
+"name": "Mexican"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/277691/mangonada-jell-o-shots/",
+"name": "Mangonada Jell-O Shots"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

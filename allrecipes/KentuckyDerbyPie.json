@@ -1,0 +1,184 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Kentucky Derby Pie"
+,"datePublished": "2020-06-19T00:21:30.000-04:00"
+,"dateModified": "2022-01-14T01:16:35.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Noel_W"
+,"url": "https://www.allrecipes.com/cook/3501184"
+}
+]
+,"description": "This Kentucky Derby pie, filled with pecans and chocolate chips, is a sweet dessert to serve with ice cream at your next derby party."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/QN1NvEaW1ZYes8HJiOx8CMo8vIY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8505568-66765cf6d08f473aab7462ce5ee687c1.jpg",
+"height": 1000,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Kentucky Derby Pie"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.2",
+"ratingCount": "5"
+}
+,"cookTime": "PT45M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "694 kcal"
+,"carbohydrateContent": "86 g"
+,"cholesterolContent": "124 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "7 g"
+,"saturatedFatContent": "15 g"
+,"sodiumContent": "262 mg"
+,"sugarContent": "51 g"
+,"fatContent": "39 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 (9 inch) pie crust pastry",
+"1 cup light corn syrup",
+"1 cup white sugar",
+"4 eggs",
+"1.25 cups chocolate chips",
+"1 cup chopped pecans",
+"0.5 cup butter, melted",
+"2 tablespoons bourbon",
+"1 teaspoon vanilla extract" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat oven to 350 degrees F (175 degrees C). Press pie crust into a 9-inch pie plate."
+} ,{
+"@type": "HowToStep"
+,"text": "Beat corn syrup, white sugar, and eggs together in a bowl using an electric mixer on low speed until well blended; stir in chocolate chips, pecans, butter, bourbon, and vanilla extract. Pour mixture into the prepared pie crust."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until set, 45 to 50 minutes."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT60M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Love Derby Pie😋. Been making it many years."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "It was soooo watery! I had to finally look up another recipe and found out you are supposed to let it sit for 2 hours. This is something that needs to be noted and included for overall time to complete recipe. Anyway it was a little too sweet and the directions were very unclear."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jriess"
+},
+"reviewBody": "Love this pie! Tastes great, easy to make and looks amazing. Will make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chef Mo"
+},
+"reviewBody": "Cut the slices thin and add the ice cream! This is one rich and yummy pie! I did need to add to the cooking time for the pie to set. Be sure to cover it with foil too."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/258239/kentucky-derby-pie/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/367/desserts/pies/",
+"name": "Pies"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/2411/desserts/pies/pecan-pie/",
+"name": "Pecan Pie Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/258239/kentucky-derby-pie/",
+"name": "Kentucky Derby Pie"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

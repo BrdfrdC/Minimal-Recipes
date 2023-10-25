@@ -1,0 +1,369 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Corn Relish"
+,"datePublished": "2000-09-01T21:44:18.000-04:00"
+,"dateModified": "2022-11-15T10:13:09.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Paula"
+,"url": "https://www.allrecipes.com/cook/24327367"
+}
+]
+,"description": "This colorful corn relish is easy to make with fresh corn, tomatoes, bell peppers, and cucumber for a delicious way to preserve summer vegetables."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/wXtOXc_dSAig8pGQV4C1FT10D6w=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/994914-d48fa8d453df49798045c89330aaf4d6.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Corn Relish"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "21"
+}
+,"cookTime": "PT60M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "17 kcal"
+,"carbohydrateContent": "4 g"
+,"fiberContent": "0 g"
+,"proteinContent": "0 g"
+,"sodiumContent": "64 mg"
+,"sugarContent": "2 g"
+,"fatContent": "0 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT60M"
+,"recipeIngredient": [
+"8 ears corn, husked and cleaned",
+"2 pounds tomatoes - peeled, seeded, and coarsely chopped",
+"1.5 cups chopped green bell peppers",
+"0.75 cup chopped red bell pepper",
+"1 cup chopped onion",
+"0.5 cucumber, chopped",
+"2 cups apple cider vinegar",
+"1 cup white sugar",
+"1 tablespoon salt",
+"1 teaspoon celery seed",
+"1 teaspoon mustard seed" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Cut corn from the cobs. Scrape the cobs with a large spoon to remove any remaining juices."
+} ,{
+"@type": "HowToStep"
+,"text": "Place corn and juices in a large saucepan; add tomatoes, green bell peppers, red bell peppers, onion, and cucumber."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine apple cider vinegar, sugar, salt, celery seed, and mustard seed in a medium bowl; pour over vegetable mixture in the saucepan. Bring to a boil; reduce heat and simmer for 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Pack relish into hot, sterilized jars, filling to within 1/4 inch of the top. Run a clean knife or thin spatula around the insides of the jars to remove any air bubbles. Wipe rims with a moist paper towel to remove any residue. Top with sterile lids and screw rings on tightly. Refrigerate until serving."
+} ]
+,"recipeYield": ["112"]
+,"totalTime": "PT120M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "alleykat"
+},
+"reviewBody": "No changes but looking for sugar free corn relish?? Any ideas??"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jerri"
+},
+"reviewBody": "I cooked it as is, except used canned shoe peg corn. When I make it again I will not cook it as long"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Aida E"
+},
+"reviewBody": "I made it for hubby who likes it on cottage cheese. He tried it and continued to add more between bites. I used our garden tomatoes and peppers. Also adjusted recipe to 28 servings since I had only two ears of corn."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kenneth Pereira"
+},
+"reviewBody": "Excellent; refreshing and festive!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Rich d"
+},
+"reviewBody": "adding jalapeno, green chiles, tumeric cayenne pepper to create a Stonewall taste"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mimi"
+},
+"reviewBody": "Yummy! I used grape tomatoes and did not remove the seeds since they are so tiny. Great relish on a roast beef and cheese sandwich! I use my favorite corn on the cob from our local farm produce which is so fresh and sweet!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Janene Stricker"
+},
+"reviewBody": "use frozen corn in microwave packages...and don't cook the ingredients together...all are raw and super crunchy except the cooked corn...anyone who tastes some always wants more or some to take home with them, even my 79nyr old crotchety husband loves the stuff"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stephanie Coleman"
+},
+"reviewBody": "Better than store bought for sure! Served with sour cream and chips...I halved the recipe and it was almost all gone in one day! Didn't have the celery seeds on hand so I threw in a little celery salt. Thank you for the recipe!\nUsed the food processor for all the chopping this time...doesn’t look quite as pretty but MUCH faster prep ??"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sharon Texada"
+},
+"reviewBody": "If you like a little spicey add a little jalapeño pepper cut into small pieces... Yummy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gramamag"
+},
+"reviewBody": "Delicious and so easy. Made last week and am making again today!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "zoesmom"
+},
+"reviewBody": "Second year making this... SO GOOD over cooked purple hull peas!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jamie b"
+},
+"reviewBody": "excellent. can be made ahead. Excellent as relish or tangy side dish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lutzflcat"
+},
+"reviewBody": "Oops, I forgot to add the tomato, but it still was good, and I'm sure it would be even better with the tomatoes. Tastes like good, old fashioned, freshly-made corn relish and has the right balance of sweet-sour. We had it last night served over grilled chicken, and my husband raved about it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CKL"
+},
+"reviewBody": "I love this recipe. It always is a hit and so easy to make. To make it even easier, I use 4 cans of white shoepeg sweet corn rather than fresh husked corn - just as good and often better. I also add more cucumber than recipe calls for. Great with Thanksgiving turkey and you can make it a day ahead."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kristy Hopkins"
+},
+"reviewBody": "This is excellent...super easy, I wouldn't change a thing! I would suggest cutting up the veggies one day &amp; cooking the next. It freezes well. I love to mix it w/ sour cream or cream cheese &amp; eat w/ tortilla chips. Yummy!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "CHELS"
+},
+"reviewBody": "Oh, this is delicious!! In the summer, we serve it over hamburgers. Beats the stuff from the jar any day, too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SHARONCOOKIE"
+},
+"reviewBody": "This was great and Iam goinng to make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MICHELLESS"
+},
+"reviewBody": "GREAT, I made this last year and I am making again this year. Everyone loved it. I ended up make numerous times just to give away. Fast, very easy and good directions. Would highly recommend. I am making it again this year 2004"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/21668/corn-relish-ii/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17031/side-dish/sauces-and-condiments/",
+"name": "Sauces and Condiments"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/13378/side-dish/sauces-and-condiments/relishes/",
+"name": "Relish Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/21668/corn-relish-ii/",
+"name": "Corn Relish"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

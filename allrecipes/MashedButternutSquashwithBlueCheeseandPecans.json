@@ -1,0 +1,136 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Mashed Butternut Squash with Blue Cheese and Pecans"
+,"datePublished": "2022-11-21T16:52:48.000-05:00"
+,"dateModified": "2022-11-21T16:52:48.000-05:00"
+,"author": [ {"@type": "Person"
+,"name": "Virginia Willis" }
+]
+,"description": "Hints of natural sweetness make these veggie sides perfect partners for your favorite recipes."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/VBA0PoLKVAeEI4xokGuuOdNuC1o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/KH_012422_AR3893-4x3-1-0e076110596b45b282227fb09c06113e.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Mashed Butternut Squash with Blue Cheese and Pecans"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "1"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "256 kcal"
+,"carbohydrateContent": "29 g"
+,"cholesterolContent": "11 mg"
+,"fiberContent": "5 g"
+,"proteinContent": "6 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "449 mg"
+,"fatContent": "15 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1.5 pounds butternut squash, cubed",
+"0.5 teaspoon salt",
+"0.125 teaspoon black pepper",
+"0.5 cup chopped toasted pecans",
+"2 tablespoons pure maple syrup",
+"2 ounces blue cheese crumbles",
+"1 teaspoon fresh thyme leaves" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Put butternut squash in a microwave-safe baking dish with a lid. Season with salt and pepper. Microwave, covered, until squash is tender, 8 to 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Coarsely mash with a potato masher or fork. Stir in pecans, maple syrup, blue cheese crumbles, and fresh thyme leaves until combined."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT20M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kitchenista Jane"
+},
+"reviewBody": "This is a really refreshing take on a favorite squash: butternut! The addition of the toasted pecans, bleu cheese and thyme gave it a true uplift! I would have liked more salt to offset some of the sweet, but that is a personal choice. I also would like to try it substituting honey for the maple syrup. It took NO TIME to bring together; making it an easy fix for a side dish. It does take a trip to the store, most items are not in my pantry. But, while there, I just bought more ingredients to use in a couple of other dishes. I truly loved this and highly recommend as a holiday favorite, or just as a favorite!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8509695/mashed-butternut-squash-with-blue-cheese-and-pecans/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1097/fruits-and-vegetables/vegetables/squash/winter-squash/",
+"name": "Winter Squash"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/13394/fruits-and-vegetables/vegetables/squash/winter-squash/butternut-squash/",
+"name": "Butternut Squash"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8509695/mashed-butternut-squash-with-blue-cheese-and-pecans/",
+"name": "Mashed Butternut Squash with Blue Cheese and Pecans"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,139 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Super Easy Chilaquiles"
+,"datePublished": "2020-06-23T17:53:06.000-04:00"
+,"dateModified": "2020-06-23T17:53:06.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Alona Sandoval-Grenacher"
+,"url": "https://www.allrecipes.com/cook/7224461"
+}
+]
+,"description": "Chilaquiles are a quick and easy brunch item with scrambled eggs, salsa, cheese, and tortillas. They can easily be scaled up and down to feed more people."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/fAP2QoB0CKfcxmTYfuI5BxWXIwo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1018304-f3e38e59c27e4ae89ca22daff456b574.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Super Easy Chilaquiles"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "1"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "1074 kcal"
+,"carbohydrateContent": "65 g"
+,"cholesterolContent": "629 mg"
+,"fiberContent": "10 g"
+,"proteinContent": "42 g"
+,"saturatedFatContent": "22 g"
+,"sodiumContent": "1519 mg"
+,"sugarContent": "6 g"
+,"fatContent": "74 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"5 tablespoons corn oil",
+"8 (8 inch) corn tortillas, cut into triangles",
+"6 eggs",
+"1 cup chipotle salsa",
+"1 cup shredded pepper Jack cheese",
+"salt and ground black pepper to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat oil in a large skillet over medium-high heat and pan-fry tortilla triangles until they are just starting to turn golden brown and crisp, 3 to 5 minutes. Add salsa, reduce heat to medium-low, and carefully mix tortillas and salsa with a spatula. Cook for 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Beat eggs, salt, and pepper in a small bowl. Add eggs to tortillas and increase heat to medium-high. Scramble eggs gently until just set. Top with pepper Jack cheese, cover, and turn off the heat. Let sit for 3 minutes until cheese is melted."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT20M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "andreachavez6060"
+},
+"reviewBody": "This recipe was so easy to make and very delicious. Yummy"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/271115/super-easy-chilaquiles/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/148/breakfast-and-brunch/eggs/",
+"name": "Eggs"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1308/breakfast-and-brunch/eggs/scrambled-eggs/",
+"name": "Scrambled"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/271115/super-easy-chilaquiles/",
+"name": "Super Easy Chilaquiles"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

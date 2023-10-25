@@ -1,0 +1,174 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Pan-Fried Cube Steaks with Simple Pan Sauce"
+,"datePublished": "2022-09-21T11:22:44.000-04:00"
+,"dateModified": "2022-09-21T11:22:44.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Bibi"
+,"url": "https://www.allrecipes.com/cook/bibi"
+}
+]
+,"description": "A quick and easy recipe for pan-fried cube steaks served with a simple pan sauce."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/1zGLHHDMtWezXk8tQoS2YRT06VM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1662922811Pan-Fried20Cube20Steaks20with20Simple20Pan20Sauce-469133ce51034a188e65e0aac965df8f.jpeg",
+"height": 1280,
+"width": 1280
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Pan-Fried Cube Steaks with Simple Pan Sauce"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "3"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "393 kcal"
+,"carbohydrateContent": "4 g"
+,"cholesterolContent": "127 mg"
+,"proteinContent": "37 g"
+,"saturatedFatContent": "12 g"
+,"sodiumContent": "307 mg"
+,"fatContent": "25 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"24 ounces cube steak, cut into 4 portions",
+"3 tablespoons unsalted butter, divided",
+"salt and freshly ground black pepper to taste",
+"0.33 cup Worcestershire sauce, divided",
+"0.5 cup water" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Lightly season both sides of each cube steak with salt and pepper. (See Cook&#39;s Note)."
+} ,{
+"@type": "HowToStep"
+,"text": "Melt 1 Tablespoon unsalted butter in a large, non-stick skillet over medium heat. Once butter is foamy, add cube steaks and sprinkle about 2 teaspoons Worcestershire sauce on top of each cube steak. Cook until brown, 3 to 4 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Turn the steaks, and sprinkle each with an additional 1 to 2 teaspoons Worcestershire sauce. Cook until steaks are firm and reddish-pink and juicy in the center, about 3 minutes more. An instant-read thermometer inserted into the center should read 135 degrees F (57 degrees C). Remove to a platter and tent with foil."
+} ,{
+"@type": "HowToStep"
+,"text": "To make the pan sauce, pour about 1/2 cup water into the skillet and stir all the browned bits from the bottom of the pan. Bring to a boil and cook for about 2 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove from heat and stir in remaining butter, until melted."
+} ,{
+"@type": "HowToStep"
+,"text": "Evenly divide pan sauce over each cube steak and serve warm."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT15M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joe DeMonte"
+},
+"reviewBody": "Quick and easy, and full of flavor. I served it with Basmati rice and whole kernel corn. It is also a money saving meal when you find a good deal on cube steak."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Florence Rochon Flo"
+},
+"reviewBody": "Loved it yhe whole family enjoyed the dinner Thank you"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Samantha Holland"
+},
+"reviewBody": "Cooked til they were brown in the center...my picky husband liked it very much"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8472764/pan-fried-cube-steaks-with-simple-pan-sauce/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/200/meat-and-poultry/beef/",
+"name": "Beef"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/475/meat-and-poultry/beef/steaks/",
+"name": "Steaks"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8472764/pan-fried-cube-steaks-with-simple-pan-sauce/",
+"name": "Pan-Fried Cube Steaks with Simple Pan Sauce"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,588 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Chicken Broccoli Salad"
+,"datePublished": "2020-06-18T23:48:17.000-04:00"
+,"dateModified": "2020-06-18T23:48:17.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "JeriM in Austin, Tx"
+,"url": "https://www.allrecipes.com/cook/5104942"
+}
+]
+,"description": "This broccoli salad is a great way to use up leftover grilled chicken. The tangy mayonnaise dressing is easy to whip up, too."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/EMZSQFrKsDe4y-ouYeReg8Gc448=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3609313-1e1976ec0d0d47a5aa869662eafafa8b.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Chicken Broccoli Salad"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "43"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "341 kcal"
+,"carbohydrateContent": "13 g"
+,"cholesterolContent": "28 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "11 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "266 mg"
+,"sugarContent": "7 g"
+,"fatContent": "29 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"8 cups broccoli florets",
+"3 cooked skinless, boneless chicken breast halves, cubed",
+"1 cup chopped walnuts",
+"6 green onions, chopped",
+"1 cup mayonnaise",
+"0.25 cup apple cider vinegar",
+"0.25 cup white sugar",
+"0.25 cup crumbled cooked bacon" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine broccoli, chicken, walnuts, and green onions in a large bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk mayonnaise, vinegar, and sugar together in a bowl until well blended."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour mayonnaise dressing over broccoli mixture; toss to coat."
+} ,{
+"@type": "HowToStep"
+,"text": "Cover and refrigerate until chilled, if desired. Sprinkle with crumbled bacon to serve."
+} ]
+,"recipeYield": ["10"]
+,"totalTime": "PT75M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tonimccoy1891"
+},
+"reviewBody": "It was absolutely delicious! My husband had two bowl fulls and took the rest for lunch"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bree Cox"
+},
+"reviewBody": "Amazing ~ put over a bowl of greens and add olive oil drizzle to the top!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "augboilerdawes"
+},
+"reviewBody": "Added cherry tomatoes. Used leftover rotisserie chicken. Really good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Volfan"
+},
+"reviewBody": "This is a great salad for summer: it's easy to put together, it tastes good, and it's filling. I didn't have walnuts on hand so I added celery for crunchiness. These ingredients do make a lot, but I think it would serve 8 better than 10. I paired it with macaroni salad, and toasted Italian bread! Yummy! I will make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amelia"
+},
+"reviewBody": "I made this without the bacon, for the nuts I chose walnuts. My family loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Barbara Hultman"
+},
+"reviewBody": "I took the suggestion of throwing the broccoli in the microwave for one minute. Also, instead of plain walnuts, I added a craisin/glazed walnut salad topper from the salad section of the grocery store and mixed in two packages. I grilled the chicken breasts to add a little depth to the flavor. Turned out fantastic!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kerry"
+},
+"reviewBody": "This salad is delicious. I did substitute 1/4 c. honey for the sugar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jessica"
+},
+"reviewBody": "I put freshly shredded cheese on top and then the bacon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JanetSue3"
+},
+"reviewBody": "Made it as written. Big hit with family and friends. Passed on the recipe. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cassandra Ruth Story"
+},
+"reviewBody": "I don't use any sugar in my household, so I used a stevia blend instead. I'm also picky with mixing any type of nuts with other foods. But other than that, I actually loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "PRMur23"
+},
+"reviewBody": "Amazing! I subbed a 1/4 cup of honey mustard dressing for mayo and we could hardly stop eating it. So good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Coffee/CoCo Lover"
+},
+"reviewBody": "Made it just like the recipe called for. Followed the tip of steaming the broccoli in the microwave for 4 minutes, then chilled it in the fridge immediately after. The salad was tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rosie Lisi"
+},
+"reviewBody": "DELICIOUS!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alicia Garcia"
+},
+"reviewBody": "Very tasty and super simple to prepare!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "sammylee7"
+},
+"reviewBody": "I loved this salad! But I did change it to one red onion instead of green. Tiny less sugar, add cherry tomatoes, and a sprinkle of parmesan cheese.Also sliced hard boil egg on top with a sprinkle raisins on top! What a nice sweetness touch it made! Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Grandjoy"
+},
+"reviewBody": "Loved it added black olives . Also parsley to the dressing . A very pretty salad"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MarissaRae"
+},
+"reviewBody": "I loved it. I am not a huge fan of broccoli usually but the dressing is amazing and makes it taste so good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "NB Roy"
+},
+"reviewBody": "This was an awesome recipe. My husband and I loved it. I cut the recipe in half...grilled 4 boneless chicken thighs lightly seasoned with salt and pepper with my stovetop grill pan. Used sliced almonds as I didn't have walnuts, and threw in sliced orange pepper and a half a red apple coarsely chopped. Threw the bacon and the chicken still warm into the salad and ate it immediately. Will definitely be saving this recipe for future use."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lori "
+},
+"reviewBody": "This salad is exceptional! I adore the bacon/chicken combo it is super in this salad. Love the crunch of the walnuts. Simply added S&amp;P to the dressing before whisking it up. I used raw broccoli. Thanks for sharing"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CAMPPJPATTY"
+},
+"reviewBody": "I made this exactly as the recipe called for. I used seasoned salt on the chicken and sauteed it in olive oil. My husband and I thought it was so good that I am making it again tomorrow!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Community"
+},
+"reviewBody": "A great discovery! I microwaved the broccoli just enough to leave it still crispy. It's worth the time to fry up the bacon. The combination of flavors was just right!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "butterfly"
+},
+"reviewBody": "The chicken &amp; broccoli mixture was good. I used chicken cooked with lemon &amp; herbs. Since we have nut allergies, I omitted the nuts and added craisins and half a bell pepper diced and half a cucumber diced."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BARNKITTY"
+},
+"reviewBody": "Excellent! Subbed honey for the sugar by warming up the vinegar slightly, stirring in the honey, then mixing in. Also added a few cut up dried cherries and a little bit of freshly ground black pepper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah Sar-Neri"
+},
+"reviewBody": "Uber yummy! Made some substitutions: skipped the bacon and added a cup of raisins, used agave instead of sugar and reduced the mayo. My husband (the picky eater) wanted to know what I was going to eat for the rest of the week. A household WIN!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sheila LaLonde"
+},
+"reviewBody": "I thought this salad was very good, with a nice combination of flavors that went very well together. I even tried some without bacon (GASP!) and found it to be equally as good as the portions that included bacon. Thanks for sharing this recipe, JeriM in Austin, TX!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Larry161"
+},
+"reviewBody": "Made this for dinner one hot night and my wife and son both loved it. Tonight I'm omitting the chicken and adding orange bell pepper and using it for a side with grilled pork loin from this site and mac n' cheese."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "priceca"
+},
+"reviewBody": "This has very little flavor. Neither my husband thought it was worth making again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joanne Marie"
+},
+"reviewBody": "An excellent main dish salad! I added a yellow bell pepper, slivered almonds, craisins, and small grape tomatoes. It looked and tased wonderful! Thanks for a great recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "daniellesMuse"
+},
+"reviewBody": "Delicious, never had this before and I've always hated Waldorf salad so I was leery. Excellent, thanks for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Mege222"
+},
+"reviewBody": "Very Tasty! How could you go wrong; fresh veges, chicken and bacon- YUM! We had this for dinner and there are no leftovers."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rickisuzanne"
+},
+"reviewBody": "Fantastic salad! I don't use sugar, so subbed honey instead. Fried up a whole pkg of uncured bacon and added to the salad instead of sprinkling on top as a garnish. The dressing is perfect! Will make this salad A LOT!! There is a lot, but leftovers will be perfect for lunches."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ann"
+},
+"reviewBody": "Great summer salad. I added half a red apple, chopped small, and that extra sweetness added a lot. I put the salad on top of lettuce when I served it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "F.S. ohio"
+},
+"reviewBody": "Easy to make, healthy with healthy substitutions available to make it healthier. Wonderful picnic or party cover dish to share!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "phyllismmc"
+},
+"reviewBody": "i used sweet vidalia onion dressing instead and it is fantastic :) thank you for posting this :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "pixiestix"
+},
+"reviewBody": "This was the perfect warm weather meal! I followed the directions exactly with the exception of reducing the sugar in half"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/221062/chicken-broccoli-salad/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/219/salad/vegetable-salads/",
+"name": "Vegetable Salad Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/15103/salad/vegetable-salads/broccoli-salad/",
+"name": "Broccoli Salad Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/221062/chicken-broccoli-salad/",
+"name": "Chicken Broccoli Salad"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,206 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Blackberry Dump Cake"
+,"datePublished": "2022-03-21T12:45:05.000-04:00"
+,"dateModified": "2022-03-21T12:45:05.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "JA Taylor"
+}
+]
+,"description": "Juicy, ripe blackberries form the base of this easy, crowd-pleasing dump cake that is ready to be served with vanilla ice cream in under an hour."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/dUrOq5Nab7d8g2CTDCwsVkUBhj4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Blackberry-dump-cake-fabeveryday-4x3-1-c1df3807448d4e62af6d642f06a99f84.jpeg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Blackberry Dump Cake"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "6"
+}
+,"cookTime": "PT45M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "398 kcal"
+,"carbohydrateContent": "60 g"
+,"cholesterolContent": "41 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "2 g"
+,"saturatedFatContent": "11 g"
+,"sodiumContent": "237 mg"
+,"fatContent": "18 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"4.5 cups fresh blackberries",
+"1.5 cups white sugar",
+"1 cup unsalted butter, thinly sliced",
+"1 (15.25 ounce) package French vanilla cake mix" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix blackberries and sugar together in a bowl. Transfer to a 9x13-inch glass baking pan and spread evenly over the bottom."
+} ,{
+"@type": "HowToStep"
+,"text": "Sprinkle cake mix evenly over the berries. Place butter slices evenly over the cake mix; most of the cake mix should be covered with butter slices. Do not mix or stir."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until topping is golden brown, about 45 minutes. Serve warm."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT55M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Thus was so easy and so good !!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "It was so freaking delicious. It's the best thing I ever had!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CarolV"
+},
+"reviewBody": "Everyone loved it so much there weren't any leftovers."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Diana K."
+},
+"reviewBody": "It is very sweet. So I used lemon cake mix to help break up the sweetness. I think it really brought it up a notch!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bertha"
+},
+"reviewBody": "It was very good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "fabeveryday"
+},
+"reviewBody": "This was so yummy! Made exactly as decribed, topped with Cool Whip, and my family really loved it."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8369328/blackberry-dump-cake/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/386/desserts/cakes/cake-mix-cakes/",
+"name": "Cake Mix Cake Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/378/desserts/cakes/cake-mix-cakes/dump-cake/",
+"name": "Dump Cake"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8369328/blackberry-dump-cake/",
+"name": "Blackberry Dump Cake"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

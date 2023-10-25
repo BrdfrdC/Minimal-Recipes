@@ -1,0 +1,565 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Strawberry Tarts"
+,"datePublished": "1998-07-04T12:04:29.000-04:00"
+,"dateModified": "2022-08-22T14:32:24.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Carol"
+,"url": "https://www.allrecipes.com/cook/Carol"
+}
+]
+,"description": "This easy recipe makes twelve miniature tarts, the perfect offering for a tea party. A cooked apple glaze is brushed over the bottom of each pre-baked tart shell. Sliced strawberries are spooned in and more apple glaze is poured on. The tarts are chilled and served with a dollop of whipped cream."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/wQGhUZaTyfSyQ2ScF1g9XIVt8gA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1015830-69d5051b45694dbda84bd35c92e1a371.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Strawberry Tarts"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "45"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "643 kcal"
+,"carbohydrateContent": "97 g"
+,"fiberContent": "2 g"
+,"proteinContent": "8 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "288 mg"
+,"sugarContent": "45 g"
+,"fatContent": "25 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"recipeIngredient": [
+"12 (4 inch) prepared tart shells, baked",
+"0.66666668653488 cup white sugar",
+"2.5 tablespoons cornstarch",
+"1 pinch salt",
+"1 cup apple juice",
+"3 cups fresh strawberries" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "To Make Glaze: Blend the sugar, cornstarch, and salt; stir into apple juice. Cook over a medium heat, stirring constantly until smooth and thick. Allow to cool for 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Spread a small quantity of the glaze over the bottoms of the shells. Arrange washed and hulled fresh berries over the glaze, slicing if necessary to fit into the tarts. Spoon remaining glaze carefully over the berries, covering them well. Chill for 2 to 4 hours. Serve garnished with whipped cream if desired."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT0M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chris Solomon"
+},
+"reviewBody": "I uses pineapple juice instead of apple juice for the glaze and cut the recipe in half and it was perfect for 12 tarts. I’m on my way to a garden club meeting so I shaped the strawberries sort of like flowers and made the tart cups out of pie dough—delicious?!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Charlotte Findley"
+},
+"reviewBody": "I loved this recipe! But I would recommend to add some lemon zest and juice to make the glaze a little less sweet."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Angiethemom"
+},
+"reviewBody": "These tarts were sooo easy to make with apple juice already on my grocery list I had to make them....were soo delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Keiara Leye"
+},
+"reviewBody": "So good! The glaze tastes amazing and goes so well with the strawberries. Definitely good to make with kids, as they are easy and look great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lorgan Likes"
+},
+"reviewBody": "THIS WAS AMAZING"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Karen"
+},
+"reviewBody": "I used lactose free cool whip instead whipped cream."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Mag"
+},
+"reviewBody": "The tart was delicious. I couldn't get the glaze to set but I'll have to try again. I used an easy crust recipe I had and molded it into a cupcake pan."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tommy Irwin"
+},
+"reviewBody": "Easy to make and delicious to eat. This will be a regular on my list of deserts."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jash007"
+},
+"reviewBody": "Nice and easy. You can substitute any fruit and it will taste just as good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "pricesunbury"
+},
+"reviewBody": "Love these and so does my family, we love strawberries and these are great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Missd"
+},
+"reviewBody": "This is an easy recipe and a nice light dessert anytime of the year......to make it have a bit more eye appeal...I added a couple of drops of red food coloring to the glaze.....with just the juice it is rather bland looking. Also tried this recipe using keebler graham cracker 8\" crust...came out delicious. ...good presentation."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sunflower25"
+},
+"reviewBody": "I've used this recipe twice now. Each time my family has gobbled it up. I like others could not find the ready made tart crusts. I just used the ready made pie crust and made one big strawberry pie. The second time I mixed blueberries with the strawberries. Thanks for the delicious, light recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisabeaton"
+},
+"reviewBody": "Amazing!! I brought these to a party and my best friend and mom were fighting over the last of them... Thanks for sharing!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "andrea"
+},
+"reviewBody": "Amazing! These are the best tarts ever!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MelodyDawn"
+},
+"reviewBody": "I used pie crust to make my tart shells and I didn't have apple juice, so substituted with orange juice and they are AWESOME! :) I also didn't have fresh berries, so using frozen was a bit tricky!! Next time I will let them defrost in my colander over a bowl and use a bit of their juice in the glaze too! This is my first stab at tarts and this recipe was great to use. I will make my own lil modifications next time around! Thanks for this!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "angelink05"
+},
+"reviewBody": "I like the overall taste. Though I'm not used to make strawberry tarts. Did you make this recipe?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "SpasticChef"
+},
+"reviewBody": "MUST MAKE SURE TO POUR ALL SAUCE OVER BERRIES AT SAME TIME AND SAME TEMP AS SAUCE SETS UP QUICKLY WHEN ITS COOL."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "cookingismylife"
+},
+"reviewBody": "I loved this recipe! However, I found it difficult to find prepared tart shells, so I had to bake my own. The glaze was incredible and the strawberries were the perfect compliment!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "RadioactiveHz"
+},
+"reviewBody": "This glaze is easy and it works. Thanks again Carol!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "eveeken"
+},
+"reviewBody": "This is a simple, yet fantastic, dessert to make. I didn't have apple juice so used mango juice in place and it turned out very yummy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lswebs"
+},
+"reviewBody": "This was very good! There was way too much glaze, and I ended up throwing a lot of it away. Next time I will make 1/2 the amount of glaze. Great flavor!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mildredpalmos"
+},
+"reviewBody": "I really love strawberries. This recipe is very delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chef4Six"
+},
+"reviewBody": "Very good! I made this as one large strawberry tart - and used \"pecan Nut Crust\" from this site. I added some lemon juice and a nit of ginger to the strawberry sauce which gave the sauce wonderful flavoring! I placed the strawberry sauce and then slice strawberries on top of the crust right before serving to prevent the crust from getting soggy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "calarie"
+},
+"reviewBody": "Very good recipe! I added strawberry jello powder to the glaze for colour and extra flavour. Mmmmm so good! Thanks for the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "derem"
+},
+"reviewBody": "AMAZINGLY GOOD AND SO SIMPLE MY HUSBAND CAN MAKE IT!!!!! :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "JIZNIL"
+},
+"reviewBody": "I used piecrust for the tart cups and that seemed to work just as well. Very good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MELUNGLE"
+},
+"reviewBody": "Totally the recipe I was looking for - not custard based, just pure strawberries &amp; glaze. This is an awesome recipe (although I will likely reduce the sugar slightly next time) :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "PHARMCAT"
+},
+"reviewBody": "Very tasty. One piece of advice: Do NOT take these tarts to a picnic! The glaze gets runny very fast in warm weather."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JMWJSKASICK"
+},
+"reviewBody": "not too bad, although the holders that they go in were hard to find"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Forbidden Fruit Cocktail"
+},
+"reviewBody": "The apple glaze was a little weird tasting, but otherwise than that this was an easy way to satisfy my sweet tooth. I used frozen strawberries, which I heated in a saucepan for about 10 minutes on medium; took them out an sliced them, added corn starch to the liquid left in the pan, then added the strawberries again to let thicken. Yum."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Great recipe. Very easy to make and delicious. Kids loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "CCSargent"
+},
+"reviewBody": "Used the mini-graham cracker crusts, couldn't find small pastry crusts. Very easy to make. Tasted good, but wasn't anything incredible. The apple-juice glaze was yummy, but since it was clear it looked a little strange when it set-up."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This is soooo good!! I made it for a huge family picnic and it was such a hit! Very easy to make. My husband is begging for me to make some more already!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "These tarts are yummy yummy in your tummy!!!!!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/12334/strawberry-tarts/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/824/desserts/pies/tarts/",
+"name": "Tarts"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17645/desserts/pies/tarts/fruit-tarts/",
+"name": "Fruit Tart Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/12334/strawberry-tarts/",
+"name": "Strawberry Tarts"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,861 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Tomato Soup Cake"
+,"datePublished": "1998-05-31T00:22:42.000-04:00"
+,"dateModified": "2023-01-10T10:36:10.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Debbie Budd"
+,"url": "https://www.allrecipes.com/cook/24322672"
+}
+]
+,"description": "This tomato soup cake is a moist, aromatic, sweet spice cake flavored with cinnamon and ground cloves. Top with your favorite cream cheese frosting."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/NWSRvEAHqCy-kzeBS2cthZ8h8pY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7956-bce29e1a492a40f08e6d39679aba0481.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Tomato Soup Cake"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "63"
+}
+,"cookTime": "PT60M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "169 kcal"
+,"carbohydrateContent": "31 g"
+,"cholesterolContent": "22 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "2 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "439 mg"
+,"sugarContent": "19 g"
+,"fatContent": "5 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 (10.5 ounce) can condensed tomato soup",
+"1 teaspoon baking soda",
+"1 cup white sugar",
+"0.33333334326744 cup butter",
+"1 egg",
+"1 teaspoon ground cinnamon",
+"0.5 teaspoon ground cloves",
+"0.5 teaspoon salt",
+"1.5 cups self-rising flour",
+"1 cup raisins" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 325 degrees F (165 degrees C). Lightly grease a 10-inch square baking dish. Combine tomato soup and baking soda in a bowl; set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Beat sugar, butter, egg, cinnamon, cloves, and salt in a large bowl with an electric mixer until smooth. Mix in tomato soup and soda mixture; stir in flour and raisins. Pour cake batter into a greased baking dish."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until a toothpick inserted into the center comes out clean, about 1 hour."
+} ]
+,"recipeYield": ["16"]
+,"totalTime": "PT75M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Rita Stroup"
+},
+"reviewBody": "I reduced the salt to 1/4 tsp. and added a tsp, of baking powder after all ingredients were mixed. I also increased the sugar by 1/4 cup and added about 1 1/2 tsp. allspice to the spice mixture. I wanted to add golden raisins but discovered I had no raisins at all. I baked these in muffin wrappers at 325 degrees for about 24-25 minutes. I'm going to frost with cream cheese icing. I no longer have my old recipe which was terrific but this recipe combined the soup and soda in the same manner as the old one. I'm making them as a gift for my son's 35th birthday as he always loved these as a youth whenever I would make them. He doesn't have a sweet tooth but tomato soup cupcakes were one of the few desserts that he loved and would eat. Am hoping these will be just as good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JonnyAmerica"
+},
+"reviewBody": "I went with other reviews and omitted the salt. I also used a buttercream center and a light frosting for the top."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Darlene Oster"
+},
+"reviewBody": "Love this cake, old time favorite."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "luci"
+},
+"reviewBody": "Awesome and moist. A family favourite. I used 2 eggs though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rye"
+},
+"reviewBody": "Pretty good! Baked it in an 8” square glass pan. Everyone liked it a lot. Added 1 1/2 tsp vanilla, chopped pecans. Didn’t have self rising flour, so added 1 1/tsp baking powder. It’s very moist, and next time I will frost it with the cream cheese icing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "nursechele"
+},
+"reviewBody": "I really liked this cake. Tastes like a spice cake, very moist, not too sweet."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bzme"
+},
+"reviewBody": "This is a great recipe. Easy and tastes great. Thank you"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Erin Maureen"
+},
+"reviewBody": "Substituted chopped walnuts for raisins. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "shelbigirl"
+},
+"reviewBody": "great cake recipe, which i've made before. my lesson here is that when a recipe calls for self rising flour, use it. the old recipe i had only called for regular flour so it must have baking powder in it. i prefer to bake vs regular cooking( not that i can't, just my preference) so i guess i'll have to invest in self rising flour, still good tasting, also maybe some rasins or walnuts next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Faye"
+},
+"reviewBody": "A must keep recipe. I could not believe how moist this cake could be. Did not change any thing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Billie"
+},
+"reviewBody": "My Mother made this cake all through WW11, in Canada where we lived. This is exactly the taste of hers! Thankyou so very much.."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "TA2009"
+},
+"reviewBody": "This turned out really dry for me. And the flavor was just ok. I remember seeing this recipe flipping through my grandma's old recipes and cookbooks. At least I can say I tried it though. Sorry"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Theresa Levesque"
+},
+"reviewBody": "awesome.It's the recipe my mom used to make.I never thought i would find it again.Thank You so much.It's been over 30years.Whow"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "TheFlamingAmarant"
+},
+"reviewBody": "Thanks for this recipe Debbie! It is a very good tomato soup cake. I have been trying to emulate my great-grandmother Jenke's cake and this one gets pretty close. I didn't find it too salty However, I always use unsalted butter, and I'm from the south, so that might have something to do with it!\nA very simple tip I picked up over the years is to toss the raisins in with 1/4 of the flour before you combine everything. It keeps them from sinking down to the bottom of your cake. Overall, it was the tiniest bit bland, so I might add a bit more of the spices next time. Very good though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Morning Star"
+},
+"reviewBody": "This waz such a yummy cake!! but i dont use raisans, it sorta gave it a pulpy kind of taste. Go reely easy on the salt and butter. Plus, don't worry if your cake smells a bit like baking soda, its perfectly nomal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "JamieTND"
+},
+"reviewBody": "Sorry I just didn't like your version."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Heidi"
+},
+"reviewBody": "I left the salt out like everyone said and used all purpose flour with a tsp of baking powder. This was amazing. You can't taste tomato at all and it is so fluffy and moist."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Donna65738"
+},
+"reviewBody": "This sounds disgusting if you tell them before they eat it that is is a \"tomatoe soup\" cake but if you wait they will be delighted. The consistancy is wonderful and the taste is fabulous. I remember my grandmother baking it and I am now 64 years old myself. I add chopped walnuts to it also and an extra egg."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "veganalex"
+},
+"reviewBody": "I remembered my grandmother making this when I was a kid, so I searched for a recipe and this is the one I used, and it's perfect. I would suggest omitting the raisins, they seem to compete with the natural flavor of the cake. Frosting isn't really needed either, again I like to let the flavor stand on it's own. I omitted the salt and used whole wheat pastry flour plus one tsp baking powder in place of self rising flour. I also substituted egg replacer for the egg and replaced the butter with half canola oil/half soymilk. It comes out just moist enough and has a really unique flavor. I only had to bake it for 50 minutes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jackie"
+},
+"reviewBody": "YUMMY! My entire family loves this. I wouldn't dare call it by its real name though! I call it Spice Cake. Sneaky!! ;)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MissAlisa"
+},
+"reviewBody": "My mom always used to make this cake when I was growing up but I've since lost her recipe. This one was almost exactly the same and turned out perfect.\n\nThis time, I made it in mini-muffin form and it turned out so cute and sooo tasty! I used an ice cream scoop and filled them almost to the top of the pan so that they'd get all puffy and domed. \n\nWhat I changed;\n\nLike others, I omitted the salt. If you're using a low or no sodium soup then you might want to add a little but most soup already has it in there so it's not needed. I wanted to make them more healthy so I cut half the butter and replaced it with apple sauce (makes them even more moist and delicious) and I cut the sugar by about 1/4 and they were still sweet and amazing. I used cake flour as well and they turned out just fine. No icing needed...just pop in a bag and go!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MummaDee2006"
+},
+"reviewBody": "LOVE the flavor of this cake! I think I may have added too much powdered cloves, but it was till amazing. I used reduced salt soup, added extra cinnamon as it's a favorite in our house, a splash of amber honey and omitted the raisins and salt.\n\nMy only suggestion, on the advice of my husband (whose a chef), would be to cream the sugar, butter, eggs and spices together and then add the soup. The baking powder should be added to the flour, and then the dry ingredients should slowly be mixed into the wet. Otherwise, as I found out, the cake doesn't rise very well and becomes very dense.\n\nOther than those few little tweaks, I still give this recipe a 5 as it's very tasty and easy to make. This recipe's definitely a keeper :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "the4taals"
+},
+"reviewBody": "I made this for a friend who remembered his mom making it.\r\nI halved the baking soda, omitted the salt, halved the sugar and used brown sugar instead of white, used 1 tsp cinnamon and 1 tsp pumpkin pie spice.\r\nBaking time was way off, my 9 inch square pan was done in 25 minutes.\r\nFrosted with Brown Sugar Cream Cheese Frosting, definitely tastes better the next day."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "awhite2010"
+},
+"reviewBody": "I am going to try this recipe, Mom used to make this and I remember all my friends thought it was carrot cake."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "IzyMoe"
+},
+"reviewBody": "By far our favorite cake.\nThanks, Cake Doctor!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah Jo"
+},
+"reviewBody": "Really quick muffin I could whip up in a matter of minutes. I used whole wheat white flour and added a teaspoon of baking powder and a pinch of salt because I don't keep self-rising flour on hand. I cut the sugar down to a scant half cup. I soaked my raisins in unsweetened hot chai before adding it to the batter, making sure to drain it well before adding it not only to \"plump\" them but to also add a little more spice. Because I wanted to add a little more fiber, I threw in a half cup of shredded organic carrot. I got twelve big muffins out of this recipe that smelled amazing while baking. 350* for a little over twenty minutes and they were ready to go. I always like tomato soup muffins better the next day so they're great today but they'll be even better tomorrow."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Teresa's dishes"
+},
+"reviewBody": "I also grew up with this recipie, I can remember when I was 6 years old and my mother makeing batch apon batch of tomato soup cake and banana bread lol the 2 most fav's in my house hold lol and I still today make it for my kids the vary same recipie of my mothers and her mothers wow now a 4th generation hand me down got to love it ......"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Debbie"
+},
+"reviewBody": "About that photo of the cake... (I've been meaning to put a note on here about this photo for years...finally doing it now.) I posted the recipe but not the photo. I don't know who put that photo on here. I would never make this cake in a bundt cake pan. I do it in a large rectangle pan. The cooking time would probably never work properly in a bundt cake pan as it's too deep. Thanks to all you folks out there who tried this recipe. All the suggestions about less salt are good ones. Can't be too healthy can we? Happy eating and I'm glad so many of you are trying one of my family favourites."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Arizona Desert Flower"
+},
+"reviewBody": "It was excellent! I omitted the salt and used reduced sodium soup. I also used straight flour with baking soda and baking powder instead of self rising flour. I did mine in a bundt and it was done in 50 minutes. Made a nice cream cheese frosting and added 1/4 tsp almond flavoring to the frosting. YUM!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Timolyn"
+},
+"reviewBody": "This cake turned out great. What a nice surprise. The cake was very moist and tasty. I used 2 tsp of cinnamon and iced the cake with cream chees frosting. I will be making this cake again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Anna Louise Bates"
+},
+"reviewBody": "I made this for the meticulous Methodists at my church. They're a tough crowd. They figured out the \"secret ingredient\" right away, and griped a little about the \"blonde\" raisins that I added. We found the cake a little salty. I will eliminate the salt next time. Very good otherwise, though, and I liked it very much."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Juliette, London, UK"
+},
+"reviewBody": "A really interesting cake, not the best cake ever, but pretty good. It was moist but we couldn't detect the tomato at all, which is probably a good thing. I omitted the salt, used low sodium soup and unsalted butter and it was fine."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Elisabeth Grenier Shoupp"
+},
+"reviewBody": "This was really good. After reading about other's salt concerns, I used unsalted butter, cut the salt down to 1/4 tsp., used all-purpose flour and added 1 1/4 tsp. baking powder. That made it just about perfect! I also added 1/2 cup walnuts instead of the raisins (personal preference) and cooked it for 55 minutes at 325 in an 8 in. glass pan."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lorrie"
+},
+"reviewBody": "Great cake! I took the advise of others and did not use any additional salt. Unsalted butter would have been better though and I will use it next time.\n\nMy grandmother used to make this cake many years ago and to hold with tradition, I used 2 19fl oz soup cans. (wash, remove the label and grease well). Fill to just over 1/2 to allow for rising. When cool, use a can opener to open the bottom of the can and press the cake through. Makes it easy to slice.\n\nI also made my own self-rising flour by adding 1.5 tsp baking powder and 1/2 tsp salt for every cup of all purpose flour."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Frog_Prince"
+},
+"reviewBody": "I love spice cakes, and this cake was delicious! I would have never guessed it had tomato soup in it. I had some extra cinnamon to get rid of, so I made a cinnamon cream cheese frosting for it - AWESOME!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CJ"
+},
+"reviewBody": "Made the recipe with all-purpose flour (not self-raising). Cake didn't rise much, but still had a light texture.\nCake was a bit salty. Will try with less salt next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shelly"
+},
+"reviewBody": "I love this recipe my mother made it a lot when I was a kid. I have added a few things in mine that makes it great. Try slicing and adding an apple or two, some raisins and walnuts. It really turns out great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ScarletCleo"
+},
+"reviewBody": "This is more of a comment to those who think this cake is salty. \n\nSuggestion: cut the salt by using unsalted butter."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DebbieB"
+},
+"reviewBody": "I posted this recipe years ago and much to my amazement it's still the first one that comes up when you enter \"tomato soup cake\" in Google. \n\nI'm glad so many of you like this recipe. I'll have to try it the next time with the lower salt suggestions you've made.\n\nThanks for trying it. It's been a family favourite for as long as I can remember.\n\nDebbie Budd"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Theopa"
+},
+"reviewBody": "This is a recipe that my family has used for years! We have always substituted dried fruit bits for the raisins, a twist on a fruit cake!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "MSZ71"
+},
+"reviewBody": "I came across this recipe by accident, and it was so strange that I had to try it. My husband really enjoyed it, but I tasted the salt in it. I will make this again with low sodium soup and a dash (maybe) of salt."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "pixeldust"
+},
+"reviewBody": "One of my favourite recipes, works really well as a cupcake recipe too!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "jlandhen"
+},
+"reviewBody": "I came across this recipe by accident looking for a recipe to make tomato soup. Wow-weird idea but so good! I did not have self rising flour so I added 1 tsp of baking powder,and I left out the raisins and salt as suggested by other readers. It came out more loaf like in texture but so nice. I iced it with brown sugar icing that I have a recipe for. This is a keeper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Duckball"
+},
+"reviewBody": "I followed the recipe with four changes: I omitted the salt, I used all-purpose flour and added 1 tsp baking powder, I omitted the raisins (we're out), and I added maybe 3/4 or 1 tsp of lemon extract. I used a silicone bundt pan sprayed with Pam, and, for whatever reason, it took 1 hour and 20 minutes to bake. It was awesome! I might add a little more baking powder next time but maybe not. It wasn't dense, it just didn't rise a whole lot. My husband HATES tomato soup, and he couldn't guess what was in the cake. Success! Oh, and I iced it with 'cream cheese' icing (8 oz soft neufchatel cheese, 2 TBS soft butter, maybe 1½ cups icing sugar, 1 tsp vanilla, 1 tsp lemon extract, maybe 1 or 2 TBS milk). Fabulous! Thanks for sharing, Debbie!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kswifty"
+},
+"reviewBody": "I must say that i really love this recipe it taste nothing like tomatos and believe it or not my family just loves it.\nI lost my recipe about 2 years ago and was so happy that i found it on this web site\nyes this year my family will be having tomato soup cake this year for thanksgiving and christmas\nTHIS IS A MUST TRY RECIPE"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KimJag"
+},
+"reviewBody": "Thanks for submitting this awesome recipe! This is the same recipe I grew up on and lost mine. After I made yours I found mine and the recipe is exact except that our family recipe adds 1 teas. baking powder also. It rises the cake a bit more and doesnt resemble a loaf but the same great taste. Added walnuts also with cream cheese frosting. Thanks for satisfying my sweet tooth :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lesley"
+},
+"reviewBody": "Great cake. Made with Cream Cheese frosting II from this site. Followed directions to a \"T\"."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kolie Patrick"
+},
+"reviewBody": "I baked this in a bundt pan and it came out perfect. No one was able to guess the 'secret' ingredient. The texture was really moist like a banana cake! But the flavor was more like a spice cake! I also paired a homemade cream cheese frosting to top it off!! So good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DELTAQUEEN50"
+},
+"reviewBody": "Thank you so much! I grew up enjoying this cake, but I lost the recipe some time ago. I was so happy to see this on the site, I made it right away. I topped it with a thin icing glaze and had my first piece while it was still warm - yummy. (I did leave out the salt as the soup has more than enough.) Thanks again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "THEINSANECHEF"
+},
+"reviewBody": "I didn't include the salt and it turned out just fine. Makes an excellent 9x9 cake, and i frosted it with lemon-vanilla frosting, turned out good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This cake was moist and had a nice flavour. But it was way too salty! My suggestion - omit the salt in the recipe or use low-sodium tomato soup."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Arcticwoman"
+},
+"reviewBody": "Absolutely delicious. Definitely will make again. I replaced the tomato soup for low-sodium tomato soup and I omitted the salt. Also, I had no cloves so I added extra cinnamon and some nutmaeg and allspice and it was so spicy and yummy. Great recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "MAGGIE MCGUIRE"
+},
+"reviewBody": "I found this to be quite salty. I should have realized this since the baking soda, self-rising flour, soup and butter all have salt in them. I'll be making this recipe again without the 1/2t salt and probably use low sodium soup and unsalted butter. I think the cinnamon should be increased to 1.5 or 2t for those who love the extra spicey version. The overall flavor was very good. I baked this in a tube pan for 30 minutes. It turned out light and moist. I frosted it with a chocolate cream cheese icing. This is a definite keeper. Thanks for sharing Debbie."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This is the MOST wonderful cake I've ever had. I personally think it tastes more like a spice loaf, not so much a cake. After making it, the consistancy of it resembled that of a bannana nut bread, only it tasted like a spice cake. I can't describe it, it was so great. We ate it with just powered sugar as the topping, and it tasted just wonderful!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "We found it a little salty, and either use extra sweet frosting, or add a little sugar to the recipe. It was by far the easiest of the four recipes I found, with the fewest ingredients."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "So-o-o good! My guests couldn't guess the \"secret ingredient\" &amp; they raved over the spicy zang."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/7583/tomato-soup-cake-i/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/276/desserts/cakes/",
+"name": "Cakes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/396/desserts/cakes/spice-cake/",
+"name": "Spice Cake Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/7583/tomato-soup-cake-i/",
+"name": "Tomato Soup Cake"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

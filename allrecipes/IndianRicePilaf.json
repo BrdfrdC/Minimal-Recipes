@@ -1,0 +1,415 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Indian Rice Pilaf"
+,"datePublished": "2019-04-03T23:52:45.000-04:00"
+,"dateModified": "2022-11-24T23:34:56.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "TIBM"
+,"url": "https://www.allrecipes.com/cook/3076358"
+}
+]
+,"description": "Indian-inspired rice is nicely spiced with curry powder, cinnamon, and garlic powder for a delicious and aromatic side dish."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/XwLAo34jQ_cDarXp_c8Zf-fc75g=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/878288-indian-rice-pilaf-LatinaCook-4x3-1-cc23e6a3e473402184a73ac46944b613.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Indian Rice Pilaf"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.4",
+"ratingCount": "33"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "188 kcal"
+,"carbohydrateContent": "40 g"
+,"cholesterolContent": "2 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "4 g"
+,"saturatedFatContent": "0 g"
+,"sodiumContent": "440 mg"
+,"sugarContent": "1 g"
+,"fatContent": "1 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"0.25 cup water",
+"1 (14.5 ounce) can chicken broth",
+"1 cup long grain rice",
+"1 teaspoon curry powder",
+"0.5 teaspoon garlic powder",
+"0.25 teaspoon ground cinnamon",
+"0.125 teaspoon paprika",
+"2 pinches ground cloves",
+"1 small onion, coarsely chopped" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Bring water and chicken broth to a boil."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine rice, curry powder, garlic powder, cinnamon, paprika, and cloves in a bowl; stir to mix. Add spiced rice and onion to the boiling broth. Cover and cook until rice is tender, 20 to 25 minutes."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT30M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MontyG"
+},
+"reviewBody": "Good Recipe.\n\nI made a few adjustments to a great recipe. Brown Basmati was used. I substituted chives to give a more delicate onion flavor and then golden raisins were added. It was served inside pita bread. Our family decided to call it \"Pita Pilaf.\""
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Vicki"
+},
+"reviewBody": "I made this as a side for \"Curried Honey Mustard Chicken\" from this site. I cut the recipe in half because I only needed enough for 2. Made it exactly as written. Before serving I did add a small can for sliced carrots which I had drain; you know, got to get those veggies in. I was expecting the rice to have a more bold flavor. I will make it again but I think I will up all the spices by 1/8 teaspoon to start."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Judy Vergalla"
+},
+"reviewBody": "Yes, we liked it. Minor change: Used less than 1 teaspoon of Better than Bullion chicken flavor base instead of a can of chicken broth. Mixed that in 2 cups water and made it in my Instant Pot using the Rice setting. It was delicious, everyone loved it and I will make it again, and again. Even hubby came back for seconds, and he doesn't like \"spicy\" stuff. Nice flavor!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MJS"
+},
+"reviewBody": "Five stars with my changes and I adapted it for pressure cooker/Instant Pot. I sautéed the onion in the pressure cooker insert with olive oil, and once translucent added the spices to bloom. I used a few whole cloves instead of ground. Added the 1 cup of rice and sautéed to coat with oil and lightly toast. Added 1.5 cups chicken broth and a pinch of salt. Cooked on Rice setting (low pressure about 12 minutes), and let it natural release for 10 minutes. Released remaining pressure and added 1/2 cup peas. Then fluffed. Full of flavor and the rice was nicely separated."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ian"
+},
+"reviewBody": "Very good!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle Arthur"
+},
+"reviewBody": "It wasn't as flavorful as I expected. A little extra salt &amp; pepper helped."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sandra Judkins"
+},
+"reviewBody": "Everyone in the family loved this rice dish. My husband, the teenagers and the 5 year old all cleaned their plates and barely left enough for my lunch the next day. I will be adding this dish to our family favorites rotation. I didn't have any curry powder so I made my own. It was easy and tasty. I also cooked the onions in the broth with the spices and then added the rice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "arosspowell"
+},
+"reviewBody": "Added 2 Tbsp coconut milk and ginger."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "gem bee"
+},
+"reviewBody": "made this tonight, did not use raisins as some did. i did use a splash of cayenne for WOW, and otherwise followed the rest of the ingredients except using beef broth instead of chicken broth for all the water content, low sodium. as i was using beef broth for the San Francisco pork chops to go with this. my husband was very happy with the meal. oh, and i used the creamy Italian rice, aborro i think it is called."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Schinagel"
+},
+"reviewBody": "This is an AWESOME recipe. I also just did 100% broth for the liquid and I toasted the rice with the onion...otherwise, I followed the recipe and LOVED IT!!! =)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Toni"
+},
+"reviewBody": "My first time ever trying to make an Indian rice and it was so delicious! It was so fragrant and it made the house smell lovely. I found the flavor to be excellent and I will definitely make this a regular recipe. The only thing that I did differently was to saute the onions before adding them to the boiling water."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Blondiegirl"
+},
+"reviewBody": "I loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Nadine"
+},
+"reviewBody": "I made this rice as written and yes it is very good but felt the flavours needed a little waking up. So next time will do one of the following tweaks 1. add the onion and spices to the broth so this way they will blend better with the liquid or 2. as the broth is coming to a boil in a small fry pan sauté the onion and spices in a little oil and butter. Once the broth is at the boil add along with the rice. Will be making again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "reneabeth"
+},
+"reviewBody": "This was very yummy. My family loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Deborah Ann Inniss"
+},
+"reviewBody": "Excellent. I did not change a thing and my whole family loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "merlion"
+},
+"reviewBody": "This is good stuff! Great with curries and any other dishes, really!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Shyla"
+},
+"reviewBody": "This was very good and I will make it again. I substituted scallions for the onion, cayenne for paprika to add some heat which it needed in my opinion, and added golden raisins the last five minutes of cooking for a little tartness."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tracie Bare Carter"
+},
+"reviewBody": "Flavor is delicious, but I did substitute bouillion/water and added salt to the water to be boiled. I paired with Easy Indian Butter Chicken here and rated that recipe too. This recipe made sticky rice, not finely separated Indian rice we're used to in restaurants. Next time I will toast rice in some butter or oil and boil bouillion salt water separately to add to it and see if that solves the sticky rice outcome.\n\nServing size was right on. My four kids under 10 asked for leftovers in their lunches so I had to forgo my own leftover hopes. Next time I will double the rice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "tperry1234"
+},
+"reviewBody": "This was pretty good, though I had expected something amazing. My kids ate it well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Marklvscooking"
+},
+"reviewBody": "we made it exactly as listed in instruction and is was very bland. It needed some kick so we added cayenne pepper to it while we were eating at the table."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "rme841"
+},
+"reviewBody": "I used brown rice instead of white to add more nutrition and it turned out tasty still. It's a nice change from ordinary pilaf or boiled rice- smells delicious when cooking and it's the perfecy comfort food on chilly evening."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LatinaCook"
+},
+"reviewBody": "Really easy and very delicious rice! I served it with Bobotie"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/222806/indian-rice-pilaf/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/224/side-dish/rice/",
+"name": "Rice Side Dish Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/14364/side-dish/rice/pilaf/",
+"name": "Pilaf"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/222806/indian-rice-pilaf/",
+"name": "Indian Rice Pilaf"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

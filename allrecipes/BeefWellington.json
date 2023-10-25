@@ -1,0 +1,1500 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Beef Wellington"
+,"datePublished": "1999-12-22T23:11:26.000-05:00"
+,"dateModified": "2023-03-07T21:09:14.515-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Marla"
+,"url": "https://www.allrecipes.com/cook/24326332"
+}
+]
+,"description": "This beef Wellington recipe features a filet of beef tenderloin topped with liver paté and mushrooms wrapped in puff pastry. Guaranteed to impress!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Y6Wp_5jcdkTEwjNJH-YN1V3x1RY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16899-Beef-Wellington-DDMFS-step10-3332-4x3-7250d9fabed941debc0751334bc1c052.jpg",
+"height": 1125,
+"width": 1500
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=6320500828112",
+"description": "",
+"duration": "PT2M41S",
+"name": "We Tried Making Beef Wellington",
+"thumbnailUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/fb2bf0e7-0bc4-4366-97ca-4e02ab4ae44e/7972c6e9-ff2b-40ff-a80e-57233f4796f7/1280x720/match/image.jpg",
+"uploadDate": "2023-02-17T15:12:25.880-05:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Beef Wellington"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "381"
+}
+,"cookTime": "PT40M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "744 kcal"
+,"carbohydrateContent": "30 g"
+,"cholesterolContent": "131 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "26 g"
+,"saturatedFatContent": "21 g"
+,"sodiumContent": "434 mg"
+,"sugarContent": "1 g"
+,"fatContent": "57 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+, "recipeCategory": ["Dinner"]
+,"recipeCuisine": ["British"]
+,"recipeIngredient": [
+"2.5 pounds beef tenderloin",
+"4 tablespoons butter, softened, divided",
+"2 tablespoons butter",
+"1 onion, chopped",
+"0.5 cup sliced fresh mushrooms",
+"2 ounces liver pate",
+"salt and pepper to taste",
+"1 (17.5 ounce) package frozen puff pastry, thawed",
+"1 large egg yolk, beaten",
+"1 (10.5 ounce) can beef broth",
+"2 tablespoons red wine" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 425 degrees F (220 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/_P2N3j1QpYURcOMDIOH9uCo-d7Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16899-Beef-wellington-DDMFS-step1-3301-4x3-04f0ce39f5af467fa5e39849d95d7455.jpg"
+}
+]
+,"text": "Place beef tenderloin in a small baking dish. Spread 2 tablespoons softened butter over beef."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/hPcNslaGvGZbHTDFtFT7ydECl5Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16899-Beef-wellington-DDMFS-step2-3303-4x3-2d3a0fb79cb141bab03214369fa6c62f.jpg"
+}
+]
+,"text": "Bake in the preheated oven until browned, 10 to 15 minutes. Remove beef from the pan and reserve pan juices; allow beef to cool completely."
+} ,{
+"@type": "HowToStep"
+,"text": "Increase oven temperature to 450 degrees F (230 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/u9X2PvaSZi9B8yW71M6nCf5EVB4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16899-Beef-wellington-DDMFS-step3-3305-4x3-120657f0fe274356b1968700a11a5186.jpg"
+}
+]
+,"text": "Melt 2 tablespoons butter in a skillet over medium heat. Sauté onion and mushrooms in butter for 5 minutes. Remove from heat and let cool."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/_wCTG1mIjpSwRJE2jVWIdu2UntM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16899-Beef-Wellington-DDMFS-step5-3307-4x3-6477a4c9f80b45028386765d532cc9dd.jpg"
+}
+]
+,"text": "Mix together paté and remaining 2 tablespoons softened butter in a bowl; season with salt and pepper. Spread paté mixture over beef. Top with onion and mushroom mixture."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/NED-_kQpsiKx9g17K8D24pulvCM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16899-Beef-Wellington-DDMFS-step6-3308-4x3-d0fe503a484b4b6a89589498c3ead0c9.jpg"
+}
+]
+,"text": "Roll out puff pastry dough to about 1/4-inch thickness and place beef in the center."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/p36NNT4Zaik48imTcLQpCTOJ3FA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16899-Beef-Wellington-DDMFS-step8-3312-4x3-706b111ea7d843c3abc31a988af74e35.jpg"
+}
+]
+,"text": "Fold up and seal all the edges, making sure the seams are not too thick. Place beef in a 9x13-inch baking dish, cut a few slits in the top of dough, and brush with egg yolk."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/q7AZNE_TC9moZwxCcwKtggXO-7o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16899-Beef-Wellington-DDMFS-step9-3330-4x3-0237dca8579c4a0cadf82753d3b3e693.jpg"
+}
+]
+,"text": "Bake in the preheated oven for 10 minutes. Reduce heat to 425 degrees F (220 degrees C) and continue baking until pastry is a rich, golden brown, 10 to 15 minutes. Set aside to rest."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Y6Wp_5jcdkTEwjNJH-YN1V3x1RY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/16899-Beef-Wellington-DDMFS-step10-3332-4x3-7250d9fabed941debc0751334bc1c052.jpg"
+}
+]
+,"text": "Meanwhile, place reserved pan juices in a small saucepan over high heat. Stir in beef broth and red wine; boil until slightly reduced, about 5 minutes. Strain and serve with beef."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT70M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Judy"
+},
+"reviewBody": "It was good. The bottom of the pastry remained soggy and underdone."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "sfrobinett"
+},
+"reviewBody": "I'd make a lot of changes. The beef filet should be seared on all sides, there was no mushroom duxelle, just some sliced mushrooms. It also looked like it was overcooked. Should be rare to medium rare, not well done. And speed up the video. I have better recipes"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Leo Schick"
+},
+"reviewBody": "When I make Beef Wellington, I do not use liver pate as I don't like a beautiful tenderloin tasting like liver. In old England they liked very savory dishes. I substitute pork sausage which I brown with the onions and mushroom."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Helen Parnell"
+},
+"reviewBody": "Made this for Valentines day as a special treat. It was wonderful. The only changes I made was not to use red wine (doing liquor free February) and could only purchase herb rather than liver pate. It tasted beautiful. My only recommendation for next time would be slighly less meat. I would choose a smaller peice each, but that was our prefrence as we thought we ate too much meat!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chris Geer"
+},
+"reviewBody": "Beef Wellington is my boyfriend’s favorite dish and he said this was as good if not better than the expensive restaurant we usually go to before COVID. Made it with mashed potatoes (butter, sour cream, and ranch seasoning)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Michael Graham"
+},
+"reviewBody": "I made this Christmas is it was very good. However, as others have said you may need to add some cooking time to the recipe, as it was very rare."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joe Kessler"
+},
+"reviewBody": "I have made this recipe twice now and the second one was much better. You must make sure that you spend the necessary time to really trim this cut. Sometimes butchers really do a poor job of dressing these up."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chef Don"
+},
+"reviewBody": "Didn't change a thing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Grace"
+},
+"reviewBody": "So flavorful. Great for Christmas dinner"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Waterknave"
+},
+"reviewBody": "Mine was a dud! I way overloaded it with onions and mushrooms and as a results the puff pastry did not do well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "G Crevier"
+},
+"reviewBody": "Would definitely make it again, but will try with individual filets."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sara Herrera"
+},
+"reviewBody": "I made this for a random friends dinner! IT was fabulous, however I could not find liver pate so I just used prosciutto and it was salty enough to season the meat. I had never even tasted this recipe Beef Wellington so it was nice to receive so many compliments."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "stu"
+},
+"reviewBody": "Follow the recipe exactly"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jadekwang"
+},
+"reviewBody": "Thanks to this classic recipe, I made beef Wellington for the very first time and my In laws seriously believe I’m a gourmet chef. They said it is absolutely the best thing they ever had."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "nzp"
+},
+"reviewBody": "Excellent recipe and will absolutely make this again. My 20-something son and I made this Christmas Day. We made individual fillets and really the only change we made was that we chopped the mushrooms rather than slicing them. Made it a bit more manageable when eating it. I would encourage readers to not be intimidated by the pate as it adds a richness to the recipe. This was my first time making Beef Wellington and I now have my recipe for life!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Trumpet Mom"
+},
+"reviewBody": "So amazing! left out the liver but the rest was word for word."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Judith"
+},
+"reviewBody": "I followed the directions and it was perfect. The whole family loved it. I did as someone recommended and placed it on a rack... note: do NOT use a roasting rack because the dough fell through and thinned out the top. Next time I am using a rack with smaller slots."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cindy"
+},
+"reviewBody": "I don’t understand why people are saying it was under cooked. I always use a meat thermometer"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lc Banks"
+},
+"reviewBody": "OH-MY-GOSH this was good! Made 4 individuals and substituted the \"Pesto Sauce\" rub for the pate (the \"most helpful\" reviewer gives recipe). I served it with Chef John's Fondant Potatoes (recipe on site) and a salad. Expensive, but worth EVERY penny!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Trish"
+},
+"reviewBody": "I didn't use the live pate, I made the mushroom duxelles spread over 12 slices of prosciutto . My first attempt and loved it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "NatalieT"
+},
+"reviewBody": "The puff pastry not cook well and get soggy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Community"
+},
+"reviewBody": "I made this wonderful recipe for the first Valentine's day with my husband when we first started dating. Excellent recipe. We loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Erich J"
+},
+"reviewBody": "Excellent. I used two big prime fillets and followed the recipe except for the cooking techniques. I followed other reviewers who seared the beef first for about 1 1/2 minutes per side and then cooked on an over rack at 400 for 25 minutes. Unfortunately, that resulted in over-cooking. I was hoping for medium rare, but got medium +. Served with au gratin potatoes, garlic green beans, and of course a great Cab."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marisol"
+},
+"reviewBody": "I made it fot new years eve and totally worth it!!!! Will definitely repeat it!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sally Schuyler Wieringa"
+},
+"reviewBody": "Made this for our Christmas dinner and it was truly awesome! This was my first time making this and the only advice I would give is to make sure on the first go in the oven, be sure to get to 125 internal temp to be sure it isn’t too rare when finished off with the crust. Delicious!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cathy Gaber"
+},
+"reviewBody": "Will definitely make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stephanie Tiedel"
+},
+"reviewBody": "I made this for the first time today, and it was delicious. I would reccomend browning the meat a little longer, probably 15-20 minutes versus 10. Mine came out extremely rare, but since it was just family we stuck the sliced meat in the broiler for a few minutes. I used pillsbury pizza dough for my cover. Was very delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cherry A. Dunbar"
+},
+"reviewBody": "easy to make and even easier to eat."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Emma McFarland"
+},
+"reviewBody": "Yum. I followed the cooking directions exactly and got medium beef, though this was likely to because I had smaller fillets rather than one big one. If I managed to get my hands on the right size fillet I think this would have been great. I do like the idea of adding whole mustard to the beef before the mushroom mix - this would add a lovely flavour to the finished dish. Will play with this one and likely make again. Not bad for my first attempt at a Wellington."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TomNY"
+},
+"reviewBody": "Great recipe. It is so incredibly quick and easy and yet you end up with a dish that is special enough for any holiday. I definitely recommend it. \n\nI had sous vide cooked some petite fillets ( they look like tenderloins but cost about half as much) the night before and needed something to do with two remaining fillets so they wouldn't become one of those leftovers that stayed in the fridge until thrown out. This recipe was perfect. \n\nI was able to skip the searing step since the fillets were already cooked to perfection (rare-medium rare) the night before. The only other substitution I made was that I used chopped liver (from my local bagel store) instead of pate' . \n\nMy family loved it and we practically fought over each bit of the leftovers the next day."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "alexmarie"
+},
+"reviewBody": "Recipie needs more seasoning. It calls for no salt or pepper except for pate. It had no pronounced taste. The kids loved it. Meat cooked well and looked gorgeous. If we made again would def season our own way."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jsinanis"
+},
+"reviewBody": "I would consider cooking it a bit longer than the times indicated. I made twice and it was quite rare in the center. It’s a great recipe and pretty easy to make. ."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennie Ballard"
+},
+"reviewBody": "This was beautiful only change I made was to cook at 200 c for 40 minutes as my OH doesn’t like it too rare"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary Thorpe"
+},
+"reviewBody": "I've made this twice and it is spectacular! In both instances, I purchased 2 filet mignon roasts, both about 1.5 lbs and I roast them simultaneously. I've followed the cook times exactly and miraculously, the beef is perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Bob Caravona"
+},
+"reviewBody": "Agree with KIM20 the Cooking time is incorrect. Had 2 1/4 pound tenderloin that also came out bloody red. Could it be my oven's temp -- doubtful. Other than a BIG misjudgment on cooking time, overall a good recipe. The pate provides a nice strong flavor for a delicate meat. Next time, meat thermometer which was my mistake."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jonell Gottlieb"
+},
+"reviewBody": "my family loved it, this will be our Christmas dinner from now on. I froze it for half an hour after I put it all together it made it easier to move. It was great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Oscar Alberto Arreola"
+},
+"reviewBody": "I made this for my wife, and she loved it. The recipe is simple to follow. The meat came out very tender. I loved it. \n\nI'm making this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda S"
+},
+"reviewBody": "Grilled filet first for flavor instead of baking. Added garlic to onions and mushrooms and mixed fra gras with truffles with it to make my spread. Very tasty. I am a private chef. My customer cleaned his plate."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sharon Boles"
+},
+"reviewBody": "Turned out beautifully! My daughter even posted it on FB! Will definitely make it again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Tpodoloff"
+},
+"reviewBody": "This was excellent made it for New Years eve and it was a big hit. The prep is intense and takes time but once everything is done it is easy to prepare for the oven and it was a perfect medium rare and very tender."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rv8erdonna "
+},
+"reviewBody": "This is an excellent recipe!!! The pate' took it to another level. I highly suggest you place it on a rack when cooking as the juices will make the bottom soggy. The only thing I did differently, I chopped the mushrooms in a blender to make them like crumbs. Also, I didn't cook the whole tenderloin, I cooked individual filets."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DH"
+},
+"reviewBody": "This recipe was amazing. I haven't tried to cook a Beef Wellington before, so was a little nervous, but it came out great and the family raved about it. I did modify a bit. I thought it might be too rich with the Pate, so I whisked some melted butter with dijon mustard and used that instead. I also used 2 tbsp. chopped scallions from a jar and sauteed with about 1 lbs of chopped white button mushrooms. I layered prosciutto on plastic wrap, set the roast on top, covered with the dijon mixture and then the mushroom duxelles and wrapped the roast with the prosciutto. This helped to keep it all together before wrapping in the phyllo dough. Cooking also took about 10 mins longer than recommended time, but it came out super delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laxdad"
+},
+"reviewBody": "I made this for a New Years Day get together with my girlfriends family . I followed the recipe with only one difference and that was using store bought prepared chopped chicken liver ( with eggs and chopped onions) instead of the butter/pate mixture and OMG !!!! How delicious!!! I did have a problem with the bottom of the pastry shell sticking to the rack but the flavor was absolutely delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CharlotteCook"
+},
+"reviewBody": "Outstanding. Like other reviewers, i made individual filets rather than a whole beef tenderloin. First i sauteed the mushrooms and onion in some butter then sherry until absorbed, removed from pan, added a bit more butter, and then seared the filets (seasoned with S&amp;P) about 2-3 minutes on each side. Rather than pate, I used prosciutto based on some online replacement recommendations. Prosciutto on the bottom of the pastry, then the seared steak, then the mushroom/onion mixture on top. i chose 425 the whole time, cooked about 1/2 an hour and covered with foil for about 20 minutes. It was a PERFECT medium. Oh definitely use a rack so that the pastry doesn't get soggy on the bottom, my toaster oven rack fit nicely into the 9x13 dish i used. thanks for a fabulous recipe with rave reviews!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "hoytr99"
+},
+"reviewBody": "We're not pate fans, so I substituted blue cheese. Amazing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Russ T"
+},
+"reviewBody": "My first attempt was just okay. Some thoughts... Novices, know that beef tenderloin is expensive. 2.6 lbs at Sprouts, was $50 at $19/lb. Be prepared. Also, allocate more time.\n\nI merged this with other methods. I didn't use the pate, I used English mustard on the beef. I diced the mushrooms really fine and added green onions, a shallot and garlic to the mushrooms. I also I laid down prosciutto and put the mushrooms down on that. But I didn't have enough prosciutto - mistake #1, have enough prosciutto to cover the beef. I had all of this on cling wrap which I used to help me roll the beef... but I had standard size wrap and I should of had a longer one, so that was mistake #2. Result left me with a soggy bottom that broke when I tried to move it. Had I had more prosciutto that covered the mushrooms, I think I would have avoided this.\n\nThis was also my first time working with puff pastry and I need more practice. My ends were thick and lumpy. And after baking it one side had ripped open exposing the mushroom filling. I'm not sure what I did wrong to cause this. I need more practice.\n\nMy review is mostly an account of what I learned from my mistakes. My presentation wasn't that good but the meat cooked well and was tasty. I want to try this again, it was a nice cooking adventure."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "karyn"
+},
+"reviewBody": "Yum! Don't like pate so just made a pate out of sauteed mushrooms and onions and red wine and cream. Use a meat thermometer."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Buck & Suzy's Kitchen"
+},
+"reviewBody": "Um, this was sooooo good! I used a filet mignon for Christmas dinner. I made it the day ahead... good thing because I was super sick Christmas day. My son baked it in the oven for me and it was perfect. Very easy to make and so delicious. I can't wait to make it again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Taylor"
+},
+"reviewBody": "My boyfriend requested this as a treat, and I can see why! This was my first time buying beef tenderloin- hold onto your socks! This was an excellent meal and a for sure indulgence. \n\nMade the recipe as suggested, but could not find liver pate for the life of me so saw another reviewer recommend pesto and tried that. Also added parsley and parmesan cheese. \n\nServed with risotto, excellent! Reduction is good for veggies, potatoes etc."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michaela Lizaso"
+},
+"reviewBody": "This is a great recipe to follow. Like others I opted out the liver pate and added a layer of pesto. I also used individual cuts of meat, but kept the cooking time the same. The result was medium rare steak. To prevent less juices from soaking the puff pastry, I seared the meat in a frying pan with high heat and let it sit for 15 min. Then used the juices with mushrooms and onions and added a few spices. By far the greatest meal I've made."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jimnathill"
+},
+"reviewBody": "Literally just the beef and the pastry--pour some beef broth over it. Very tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Candice Soule"
+},
+"reviewBody": "I did not use the pate per my husband's request. Although it takes some time to make this meal it is quickly becoming a favorite. I use individual tenderloins for a single serve portion."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Danasouris"
+},
+"reviewBody": "I remember the first time I made this. You know in cartoons when someone is extremely satisfied with something, and the angelic music would play in the background? That's what happened the first time I tried the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Ken Underhill"
+},
+"reviewBody": "The cooking time was way too long."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Calvin112"
+},
+"reviewBody": "Deeelish!! Followed recipe very closely, just used a little smaller cut and browned a little longer in the beginning as I didn't want it too rare and have the puff pastry get too brown if I it needed it in there longer. Cooked it to an internal temp of 140 F when I took it out to rest at the end for 10 minutes. The pan jus was also good, though pretty salty since the butter I used in the browning process was salted...so added a bit of water then thickened with wondra flour for a bit of a thicker consistency. I didn't have a wire rack, so just used the one from my grill and put that over a cookie sheet! Worked perfectly!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ZypherJen"
+},
+"reviewBody": "Great recipe! I read MANY reviews and came up with these changes: onions, mushrooms, garlic, and parsley sauteed, drained and cooled; cut loin into fillets and seared in cast iron skillet for 3 mins all sides, cooled; brushed a mixture of dijon and spicy grain mustard all over fillets; egg washed inside of pastry (hoping it would hinder the sogginess), added mushroom mixture, and a few tbsps of shredded parmesan; egg washed the outside; placed sheet pan and rack in oven during preheat; baked at 425 for 15 mins then lowered temp to 350 for another 10 mins or so. Even after doing some of the \"preventative\" measures the puff pastry was still soggy on the bottom, but it didn't hinder taste at all. I'm glad I went with a quality cut of beef. It didn't need sauce/au jus at all! Served with potato stacks and asparagus."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "poidog"
+},
+"reviewBody": "needed to cook longer. use a meat thermometer to check doneness."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "HappyChef"
+},
+"reviewBody": "I made this for a special Christmas Eve dinner and it was very impressive especially considering how simple the recipe is. I took MRSMAC8's suggestion of subbing the paté with pesto because I thought the paté would be too rich and it turned out wonderfully! The flavors really worked well with the meat and the mushrooms. I followed the cooking time exactly to the recipe and the meat was cooked perfectly. As all of the other reviewers note, the star of this recipe is the meat itself so it's important to use a very high quality piece of meat."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jeff Foulsham"
+},
+"reviewBody": "have made this a few times for my parents and family on \"special\" occasions ranging from holidays to \"Hey kid, you wanna live here, rent free? Then make dinner once and a while!!\" \n\n...Gotta say this recipe is good enough to let me keep living at home rent free for at least a little while longer :D"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hannah McPherson"
+},
+"reviewBody": "I made this today using two venison tenderloins. I was worried at first how the pâté would taste with it but wow, it was so delicious. It presented so well and both Wellingtons were out of this world tasty. The reduced sauce paired so well with it too. Can't wait to make this again for a special occasion."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Aja"
+},
+"reviewBody": "A perfect recipe to make for a romantic dinner. This recipe does take some time, but in the end results in a very rich dish. My boyfriend is not a big fan of pate, but this turned him on to it. Serve it alongside some cauliflower puree or for a lighter option (since this dish is so rich) a side salad."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "FrankliDelicious"
+},
+"reviewBody": "Made his for my hubbys bday dinner and it turned out great after a few changes. I used filets and seared them in a pan with 1tbsp butter and 1tbsp olive oil to start, then let them cool and cooked the onions and mushrooms in the same pan and reserved them. I didn't use live pate and instead coated the filets with spicy mustard before topping them with the mushroom and onion mix and rolling them up. I used the same pan filets, onions and mushrooms cooked in to make the red wine sauce. Wellingtons came out perfectly pink and delish!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Magan and Amanda"
+},
+"reviewBody": "Loved it. If you haven't tried the pate don't knock it till you try it, its awesome. the only thing I would do different than what the recipe calls for is add salt to the meat before cooking initially. The au jus is phenomenal. This time we purchased the fillets that are already wrapped in bacon and it was the perfect accent for the dish. We never made beef wellington before but it was so worth it. Thank you for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "neil"
+},
+"reviewBody": "Followed the instructions but used individual boned venison loins, seared them off in a very hot fry pan. After chilling, wrapped and roasted to medium rare on using a meat thermometer. Perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "deb3me"
+},
+"reviewBody": "Wow! I made this as a special occasion dinner, and it came out fantastic! I took the advice of several other reviewers and used individual filet mignons. I also baked it on a wire rack to keep the bottom from getting soggy. It was rich and delicious, and not nearly as difficult as I thought it would be."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "hopeitsapar2"
+},
+"reviewBody": "super easy and outstanding"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "drsmileyt"
+},
+"reviewBody": "Husband's fav bday dinner. He doesn't like mushrooms so the earthiness and richness of the pâté completely replaces and even adds a dimension and level to the palate of the dish. Looking forward to trying the individual filets other have suggested here. I like to pair it with a purée of mashed potatoes, roasted cauliflower and parsnips and a green veggie. Enjoy! Thanks for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Vanclaners"
+},
+"reviewBody": "This was a very easy recipe to make, and it was delicious. My family thought I was a Rock Star for making it! I took the advice of the previous reviewers roasted the pastry-wrapped tenderloin on a rack. It was perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BAMM"
+},
+"reviewBody": "I have made Beef Welington many times before so I am familiar with the process and what the outcome should be. The timing and temperature in this recipe is perfect. I made it twice in a week, once with a 2 1/2 lb tenderloin and the second time with a 6 lb tenderloin. It was perfect each time. The first browning in the oven is key. Resist the temptation to keep the beef in longer than 10 minutes for the small roast. Cooling between each step is essential as well. The assembly is quick and the final roasting is 25 minutes regardless of how big the roast is. (because the thickness is the same) Once the pastry is uniformly brown, take it out and let it sit for at least ten minutes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ilovetacos"
+},
+"reviewBody": "We followed this recipe and loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Patrice"
+},
+"reviewBody": "I have made this recipe (or this slightly tweaked) for more than a decade, typically on Christmas. Delicious. A lot depends on the quality of the beef. I find that the hardest part of this is getting the pastry to work. Here's my tip: have plenty of puff pastry. Roll it out and place the bottom part in the baking dish, which has been buttered. Spread pate on pastry, cover it with mushroom and onion mix, then place meat on top. Cover top and sides of meat with pate, then mushroom and onions. Finally, place a separate piece of pastry on top, and connect by crimping the sides. Much easier than trying to cover the whole thing with one piece then transferring to baking dish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chris Reynolds"
+},
+"reviewBody": "Made this into individual Wellingtons, and used a mushroom/walnut/pecan pate. Added fresh ground horseradish root to the sauce above and everything came out grand!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "gclive"
+},
+"reviewBody": "Lots of work and it turned out okay"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chef_Mama_Star"
+},
+"reviewBody": "Amazing recipe!!! I recomend it to anybody who wants a easy, fancy and delicate dinner. I didn't use all the puff pastry so I cut out some flowers and leafs to hide the lines. The picture I put on here is before baking (I forgot to take a picture after we ate it very quickly lol) but it turned out to be beutifully gold."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Marissa "
+},
+"reviewBody": "Was my first time making it and it was pretty easy. My husband enjoyed it very much."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CoraGregory"
+},
+"reviewBody": "Great, but I followed others advice. I used onion, garlic and mushrooms around the beef, instead of the pate mixture."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "bill torbitt"
+},
+"reviewBody": "Tried this (with a bit of cheese sauce added), but just resulted in a big mess. At least the meat could be retrieved afterwards and was edible. How do you prevent the pastry just falling apart? Is there some kind of 'adhesive' you can use?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Luis4prez"
+},
+"reviewBody": "For all those who said the bread gets soggy from the juicesthe trick is to season and sear the meat first"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Princetonista"
+},
+"reviewBody": "I prepared this the night before, following directions carefully and baked it on a rack to avoid soggy bottom layer. Overnight, I left it in fridge, on an oven ready serving dish, lightly covered in aluminum foil. The next day, I removed it from fridge for about 30 minutes and then put it in oven, at 300 degrees for 15 minutes, covered in foil, to avoid overcooking crust. It was delicious! next time i would let it sit at room temperature closer to 45 minutes and then put in oven. Spray the rack so it is easy to pry off the puffed shell."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Barb A."
+},
+"reviewBody": "This is a stellar recipe, which a friend and I made for a reunion of a dinner club (we hadn't met for over 30 years!). The recipe is relatively easy to prepare if you watch the video a few times, read the allrecipe reviewers comments, and start with a quality tenderloin. We used a meat thermometer, cooked the Wellington on a rack in a pan, and did use the pate. The flavour was exceptional - the slices weren't the easiest to cut so I might let it stand a tad longer the next time, or make individual servings as others have suggested. From another site, a suggestion was made to put the uncooked but prepared Wellington in the fridge for a few hours, which we did - so the times given (needless to say) were off, but that's another reason why the meat thermometer was so helpful. A great recipe for a reunion dinner club - all the people in attendance raved!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Carol Q."
+},
+"reviewBody": "I enjoyed it, but it wasn't quite good enough to persuade my husband that tenderloin can be baked."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "onlysigneduptoreview"
+},
+"reviewBody": "If you aren't a pâté fan, you can substitute with humus. Also, I've used a mixture of cooked carrots, onions, and garlic that I'd strained and mashed instead of pâté."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Raquel"
+},
+"reviewBody": "Prepared this for my husbands 49th Birthday dinner. Needed a little more cooking time due to the fact that the cut of meat was so thick but WOW! Rave reviews by all of our guests, even young children. I will definitely be adding this one to my recipes often used."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lorraine"
+},
+"reviewBody": "Delicious! Made for Christmas dinner. Turned out perfectly!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Vicki Rogers Kelly"
+},
+"reviewBody": "Wonderful, followed exactly. Big hit"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lyssnyss06"
+},
+"reviewBody": "OMG, yum! I consider myself a decent cook, but have never made Wellington until last night for Valentines day. This recipe is amazing and incredibly easy! (I officially don't get what all of the intimidation is about). It was juicy and absolutely bursting with flavor! If you think this is bland, you must have left out some of the ingredients. \n\nI took the advice of others below and used two individual fillets (about 6-8 oz each). I then followed the steps above (pate is a must), but before wrapping in the pastry, I wrapped in prosciutto. I also added pastry hearts on top of each wellington for a special (corny) touch. I cooked on a rack and placed a sheet of vegetables below to cook at the same time (asparagus, red pepper, cubed red potato, and carrots). Finally: YOU MUST USE A MEAT THERMOMETER! Check EACH fillet throughout cooking because they may need different timing depending on thickness and position in the oven (mine did). Enjoy!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "barone"
+},
+"reviewBody": "A very nice recipe, as far as the beef is concerned I would really brown it in a skillet before placing in in the oven. \nI did omit the softened butter and used a softened herb liver sausage mixed with finely chopped shallots and crimini mushrooms.\nI took this mixture and spread it thinly on the pastry and left a edge that I moistened with egg wash.\nI put a very light coat of Dijon mustard on the cooled beef prior to wrapping."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jackie C"
+},
+"reviewBody": "Made this recipe for Christmas Eve dinner followed exactly as written and it came out wonderful. Make sure your puff pastry isn't too thick where you pinch it together."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda"
+},
+"reviewBody": "I just made this for Christmas Eve dinner and followed recipe exactly including timing and it turned out perfect. I agree that baking on a rack might be a good idea. Next I am going to try this using individual filets. It's really an easy great recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Nkasia"
+},
+"reviewBody": "definatey try again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sara Nunez"
+},
+"reviewBody": "Recipe was very straightforward and easy to follow. I had been afraid to try making this, as I see people fail on this recipe on TV all the time. My Beef Wellington turned out wonderful!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "starlit123"
+},
+"reviewBody": "I agree that the cooking time is off for this recipe. I had a 1 lb tenderloin that I seared first then cooked in the oven at 425 for 15 mins and it came out a perfect medium rare. Thank goodness I read the other reviews! \n\nTo keep the pastry from getting soggy I drained the mushrooms and onions really well by putting it in a strainer and pressed down on it with a spatula to get rid of all the liquid. I then used the leftover liquid for the sauce which was divine! I saw a video that had Gordon Ramsey cooking beef wellington and he mentioned mushrooms hold a lot of water so instead of cooking off the liquid I just drained it. \n\nGreat, simple recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "benj3"
+},
+"reviewBody": "Although I do not eat beef, I prepared this dish for Sunday night family dinner, we always have extended family over on Sundays. Everyone loved it...even said it was the best dish I had ever served,and I pride myself and never skimp on my cooking. Prepared as noted except the pate...didn't have it, but it didn't seem to make a difference with the like factor. My hubs wants to try it next time with the pate to compare. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ziggy"
+},
+"reviewBody": "My husband made that recipe for our guest. We all loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "stephanie"
+},
+"reviewBody": "Thought this was great. Pastry puff kind of fell apart, but I think that was more me than anything."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rex Hutcheson"
+},
+"reviewBody": "I had trouble rolling out the dough, but the result tasted and looked good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "divvie76"
+},
+"reviewBody": "I made this for New Year's dinner. FANTASTIC!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mandyloubelle"
+},
+"reviewBody": "Made this for my loves--BF and two teens for Valentine's day. They thought it was something super special. The pate makes a huge difference don't skip it even if you have to buy it canned (which i did). The packets were so pretty before and after you cut into them. I was so proud of my presentation that I facebooked the pics :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "shanz1"
+},
+"reviewBody": "Will never make again :("
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/16899/beef-wellington/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+"name": "Main Dishes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/446/main-dish/beef/",
+"name": "Beef"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/16899/beef-wellington/",
+"name": "Beef Wellington"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

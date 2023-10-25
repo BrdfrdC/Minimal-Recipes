@@ -1,0 +1,547 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Simple Canadian Butter Tarts"
+,"datePublished": "2020-03-04T23:56:02.000-05:00"
+,"dateModified": "2022-07-26T13:39:50.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Lynda"
+,"url": "https://www.allrecipes.com/cook/94001"
+}
+]
+,"description": "A simple recipe for baked tarts filled with raisin-studded brown sugar custard flavored with lemon and vanilla."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/L2Kk5QH6R7-Jj-I3WJCnuGxsv74=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/52363-1d75d49c74314931a3d65df92978b0c5.jpg",
+"height": 250,
+"width": 250
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Simple Canadian Butter Tarts"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.2",
+"ratingCount": "41"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "243 kcal"
+,"carbohydrateContent": "41 g"
+,"cholesterolContent": "27 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "151 mg"
+,"sugarContent": "25 g"
+,"fatContent": "9 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 egg",
+"0.5 cup brown sugar",
+"0.125 teaspoon salt",
+"0.5 teaspoon vanilla extract",
+"0.25 teaspoon lemon extract",
+"1 tablespoon melted butter",
+"0.5 cup raisins",
+"8 (3 inch) unbaked tart shells" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 400 degrees F (200 degrees C.)"
+} ,{
+"@type": "HowToStep"
+,"text": "Beat egg in a large bowl. Mix in brown sugar and salt. Stir in vanilla and lemon extract. Beat until light and bubbly, then stir in melted butter. Fold in raisins. Drop filling by spoonfuls into tart shells."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven for 10 minutes. Reduce oven temperature to 350 degrees F (175 degrees C); bake until filling is set and pastry is golden brown, 20 to 25 minutes."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT35M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Sara Kos"
+},
+"reviewBody": "I made these for a special occasion my husband loved the lemon flavor. He gave them 4.5 stars out of 5. I used good quality vanilla. I say leave in Vanilla but lose the lemon extract. I hated the flavor of the extract personally. Lemon juice might work better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Artteacher99"
+},
+"reviewBody": "I made them following the recipe. I didn't have lemon extract so I used 1 tsp of lemon juice. Overall EXACTLY what a butter tart tastes like."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Abigail"
+},
+"reviewBody": "These were pretty good - would like to find a recipe that is even better"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "sarahg"
+},
+"reviewBody": "Made these as written. It was easy, but they turned out kind of dry. Would look for a different recipe next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "J-squared"
+},
+"reviewBody": "This recipe was simple, but so was the taste. Its fine if you're looking for an OK tart. I personally prefer a butter tart with a gooier center and more filling. The addition of lemon extract was interesting, but I did find it took away from the sweetness a bit. If that's what you're looking for in a tart, its great. Personally, I've had better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "cocktailqueen"
+},
+"reviewBody": "I thought this recipe was great. I added pecans because that's what I had on hand, no raisins though and didn't bother with the lemon. I didn't want a runny recipe so this was perfect. I'll be making these again for a Christmas get together, I'm sure they'll be a big hit."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JillianD"
+},
+"reviewBody": "Made these for my parents the other night. Rave reviews!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "tidem"
+},
+"reviewBody": "Super easy and delisious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "buggaboo"
+},
+"reviewBody": "I was hesitant to use this recipe as didn't seem to be traditional. Well, throw those worries away! My Fiancée playfully proposed again after his first one...and as he gobbled up the last one announced \"Make these again...tomorrow!\". I used a whipped shortbread for the tart shell. (Pastry isn't my strong point.) It worked out really well. I forgot to put in the lemon juice and they were still amazing! Great recipe, thank you so much for sharing! : )"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "S. Chan"
+},
+"reviewBody": "These were quick and easy to whip up. As recommended, I omitted the lemon extract and did the second bake for only 10-12min only. Yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "FoodsTeacher"
+},
+"reviewBody": "Great recipe. I use this with my Food Studies students and they love it! Sometimes we add craisins and double the recipe. Yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cass*"
+},
+"reviewBody": "Awesome! This was my first time making butter tarts and they were a hit with my family and very easy to make. I might have overfilled them, however, as I could only fill about 6 tart shells per batch of filling. Nonetheless they were really tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ropel"
+},
+"reviewBody": "Delicious! I omitted the lemon and vanilla extract, as well as the raisins. I put a pecan half on the tops, and baked at 400 for 10 minutes, and at 350 for 15 minutes and mine were perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Nichole Davies"
+},
+"reviewBody": "Very tasty, I left out the lemon like some suggested. I also made my own tart shells."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "weekendchef"
+},
+"reviewBody": "I have always wanted to make butter tarts, and this was a great first try. I had my husband go out and buy me lemon extract. Don't waste your money, it's really not that nice of a taste. Will be leaving that out the next time I make them. Also, i used pre-made mini tart shells and only cooked them for about 12 minutes instead of 20-25 min. Oh- I almost forgot, a little to heavy on the raisins for me. Otherwise a nice butter tart!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Susie"
+},
+"reviewBody": "Couldn't have asked for a better tart recipe. I didn't have lemon extract but the vanilla was perfect. They rose up and browned beautifully!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ANGEL207"
+},
+"reviewBody": "These are lovely and amazingly quick to make. I wish they were just a little runnier in the center but the flavour was wonderful. I've already made these twice since the first time and have gotten many compliments!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "zuan"
+},
+"reviewBody": "This recipe is quick and easy and the butter tarts taste pretty good. My personal preference, though, is a butter tart with more of a gooey filling and perhaps fewer raisins."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Alina"
+},
+"reviewBody": "I loved the simplicity of this recipe. I made this with my mini muffin pan and cut out pre-made pie dough into tiny circles and filled them according to the recipe. The only thing I did not like was the lemony after taste from the extract. Next time I will only use vanilla- otherwise...YUMMY!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle"
+},
+"reviewBody": "These were very easy to make and were pretty darn tasty. I used chopped walnuts with my filling and cooked them for 10 minutes at 400, then another 10 at 300 and that was enough! I did find the consistency to be a little too granular."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rebecca Sangster-Kelly"
+},
+"reviewBody": "Delicious! I made two batches, the first with raisins and the next with pecans and they both turned out well :) I did however I did make my own smaller pastry cups and so I didn't leave them in as longs as suggested."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Linda S"
+},
+"reviewBody": "I followed the directions to the \"T\" and had to reduce the baking time to almost half. Also not runny enough in the centre. Won't make them again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tanille Turner"
+},
+"reviewBody": "i make these all the time. they're quick, easy and don't last long. definitely recommend for anyone with a sweet tooth. i alternate raisins and pecans and do half a batch of each. love em!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "#1mumm"
+},
+"reviewBody": "I loved these. I did not add the Lemon Extract as I did not have any and they turned out wonderful. I cooked mine for about 14 minutes and that was plenty of time. I also used pre made tart shells. Highley Recommend this tart."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This one is close to tasting like traditional Canadian butter tarts, but does not include walnuts and is not runny enough in the center if the recipe is followed to the T."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "An easy recipe to follow. Perfect for those store-bought tart shells. The filling did \"puff-up\" for me in the oven, but goes down as it cools off. Excellent recipe! Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "These were all right but I have had better. I left out the lemon as a previous poster had mentioned. I think I would try a different recipe next time. It also seemed like I had an awful lot of raisins."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Miss Priss"
+},
+"reviewBody": "These were great little tarts! I agree that the cooking time was a little too long. I didn't read all of the reviews before I made them and mine were just a little too brown. I left out the raisins and thought they were wonderful!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "These are scrumptious! I left out the lemon extract the second time I made them and we liked them even better. Also good with pecans substituted for the raisins!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "KRANENBURG"
+},
+"reviewBody": "This was the fastest &amp; yummiest recipe ever. My husand LOVED these butter tarts and has already asked me to make another batch. I did cut the cooking time by 8 minutes, they turned out perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "this was an excellent recipe, although I found out on all three times I made this that you need to reduce the final cooking time by half and at a much lower heat or else they over cook, then they turn out wonderful. I have already made 10 batches since I used this receipe and my freinds and family love them!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "A really good, easy and fast recipe. I used mini tart shells and it made 22 tarts. The cooking time has to be reduced so watch closely. I will use this recipe from now on."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/23770/butter-tarts-ii/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/283/desserts/pies/vintage-pies/",
+"name": "Vintage Pie Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/12957/desserts/pies/vintage-pies/chess-pie/",
+"name": "Chess Pie Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/23770/butter-tarts-ii/",
+"name": "Simple Canadian Butter Tarts"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

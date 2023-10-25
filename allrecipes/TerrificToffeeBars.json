@@ -1,0 +1,550 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Terrific Toffee Bars"
+,"datePublished": "2020-03-05T00:09:02.000-05:00"
+,"dateModified": "2020-03-05T00:09:02.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Hannah Bushong"
+,"url": "https://www.allrecipes.com/cook/3225683"
+}
+]
+,"description": "These shortbread bars are really easy and have a great toffee taste!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/2DS5S_1Zn5iK27h4iZ5RTeKbsGU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/877082-38ab660ec843464da40de7fa74fbacf6.jpg",
+"height": 250,
+"width": 250
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Terrific Toffee Bars"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "39"
+}
+,"cookTime": "PT25M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "91 kcal"
+,"carbohydrateContent": "10 g"
+,"cholesterolContent": "15 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "1 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "41 mg"
+,"sugarContent": "6 g"
+,"fatContent": "5 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 cup butter, softened",
+"1 cup packed brown sugar",
+"1 teaspoon vanilla extract",
+"1 large egg yolk",
+"2 cups all-purpose flour",
+"0.25 teaspoon salt",
+"0.66666668653488 cup milk chocolate chips",
+"0.5 cup chopped walnuts" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat oven to 350 degrees F (175 degrees C). Lightly grease a 9x13-inch baking dish."
+} ,{
+"@type": "HowToStep"
+,"text": "Beat butter, brown sugar, vanilla extract, and egg yolk in a large bowl; stir in flour and salt. Press dough into prepared baking dish."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in preheated oven until crust is light brown, 25 to 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Immediately sprinkle chocolate chips over hot crust. Let stand until soft, about 5 minutes, and spread evenly; sprinkle with nuts. Cool pan on wire rack for 30 minutes."
+} ]
+,"recipeYield": ["48"]
+,"totalTime": "PT70M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "pjstack"
+},
+"reviewBody": "Fabulous! My mom used to make these delicious cookies as dessert for dinner parties and we 4 kids got to eat the edges. We loved them! We lost mom 6 years ago, so memories like this are priceless!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "mas"
+},
+"reviewBody": "I used mix of semi sweet and milk chocolate"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "pumkinpie04"
+},
+"reviewBody": "They are delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Trish"
+},
+"reviewBody": "Very tasty and very easy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Kathy Lee"
+},
+"reviewBody": "No real flavor other than the milk chocolate. I was extremely disappointed in these bars. They were super easy to make, but not much in toffee flavor. Nothing like the ones my mom made. I won't make them again from this recipe. No one seems to like them in my house."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Karyn"
+},
+"reviewBody": "Out of this world and super easy to make. Will teach my granddaughters. So very good. I substituted Heath pieces on top and used dark, milk and white chocolate chips. Out of all the toffee recipes this is TERIFFIC!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "EnglishProf"
+},
+"reviewBody": "Oh my goodness--these shortbread cookies are amazing. I have brought them to church and school, and they always get scarfed down in no time.\n\nMy change: Instead of plain chocolate, I mix milk chocolate and caramel chips. I let them sit for 5 minutes, and then I gently swirl them across the top. Finally, I sprinkle the cookies with sea salt and slivered almonds before cutting. I press the almonds gently into the melted topping to help them stick. A-bloody-mazing and absolutely addictive."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "theoriginalkim"
+},
+"reviewBody": "Dry, crust was tasteless, and knew it before I put it in the oven. Not sure what the toffee part of this is. Certainly not the crust."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "marilyn"
+},
+"reviewBody": "Delicious and oh so simple &amp; quick!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SudzyGirl"
+},
+"reviewBody": "This is an easy recipe, even for beginners. I prefer a cookie sheet (lower sides makes it easy to work and take out). Make sure to pierce with a fork to release steam and cut while still warm."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Janet Grigg"
+},
+"reviewBody": "I have made this recipe for years and it is a family favorite made according to the recipe. At Christmas we double the recipe and use white chocolate morsels and chopped dried cranberries."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LeAnn Tucek"
+},
+"reviewBody": "I've been making these for 30+ years except I use 4-5 Hershey chocolate bars.. My mother used to make them when I was a kid. I believe it was Betty Crocker recipe. Anyway, you can use any kind of nuts. I almost always use walnuts, but sometimes I switch it up with pecans and toffee pieces. Then drizzle a little salted caramel sauce on top!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Karen Bianucci Bonick"
+},
+"reviewBody": "Great cookie bar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CSIEFER"
+},
+"reviewBody": "I doubled the shortbread recipe and pressed it into a buttered parchment lined cookie sheet. Then topped it with a simple caramel sauce that would harden when cooled. While the caramel was still warm, I sprinkled the top with good quality chocolate chips and popped it back into a warm, turned off oven for 4 minutes to soften the chocolate but not get it too warm. I spread the chocolate chips with an offset spreader, then pressed crushed pecan pieces into the top of the chocolate before cooling. \n\nAmazing! Chewy, cookie bottom but with yummy caramel, chocolate, and pecans. This is what toffee is!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "chin"
+},
+"reviewBody": "I couldn't find my mother's old recipe so decided to give this one a try. Very disappointing, not a lot of flavor. Crust was very sticky and hard to press into pan. I think more chocolate is needed and maybe dark chocolate would have given it more flavor. I pressed my nuts down as some reviewers indicated, but many still fell off. I think the nuts fell off because there just isn't enough chocolate to hold them on. I would try a different recipe, as it just doesn't have much for flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Theresa @ Shoestring Elegance"
+},
+"reviewBody": "I have been making these for years! My family and I love them. Truly the taste of toffee, but softer than that of the candy. Great Recipe. I like to use a lager pan for a thinner square, you get a bit more of a crunch to it. You will enjoy these."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Elena McMillin"
+},
+"reviewBody": "I was looking for more of a candied toffee recipe and should've read the directions more carefully before I bought the ingredients. This is more of a toffee flavored cookie bar. Still yummy! I used unsalted butter and 1/2 teaspoon of salt. The dough seemed too dry at first, but was just right once I spread it into the baking dish. The bars came out slightly flaky and chewy, and tasted even better the next day!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Megan Mazzella"
+},
+"reviewBody": "I also added about 3/4 cup of dark brown sugar, gives it a great maple taste. Love these and will definitely be making more!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Renee"
+},
+"reviewBody": "Easy to make and so good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dana"
+},
+"reviewBody": "Super easy and quick to make. Very addicting"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Theresa"
+},
+"reviewBody": "This was an awesome, easy recipe. The only difference I made was I used Wilton's melting chocolate (melted it in microwave and then spread it on) and then sprinkled a bag of Heath pieces on top. Delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary Ann"
+},
+"reviewBody": "Great classic recipe! Feel free to use semi sweet chocolate chips and use more than recipe calls for. Same goes for the nuts. I added more until there was more nut coverage on top. I also used the back of the fork to tap nuts into the chocolate topping. Yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "BriggsFam3449"
+},
+"reviewBody": "Close to how I remember from when I was young. Undercooking is a must! Also, melt the butter for 10-15 seconds in the mic and use some elbow grease."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Reineke"
+},
+"reviewBody": "I use 4 Hershey's milk chocolate bars to melt on top. We always had these at Christmas but good any time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Donna Gallant"
+},
+"reviewBody": "easy to make and tasted delicious just as recipe is."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "EatinGood"
+},
+"reviewBody": "This is a really good recipe! I knew the bars would end up tasting good because the dough tastes delicious. The bars come out really buttery (flavor) with a very nice chew. At first I thought they were going to be hard, because it was difficult to get a knife through them, but they turned out to have a great texture. I'll be making these again for sure."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Mary B"
+},
+"reviewBody": "I love this recipe. It is the easiest, most delicious, and I have tried many over the decades. Can't go wrong"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cheenosc"
+},
+"reviewBody": "I really enjoyed this recipe. I followed it exactly except that I used foil instead of greasing the dish- just thought it would be easier cleanup, and nothing seemed to change. The bars were delicious and very rich :) I used pecans on top. The only advice I might give would be to press the nuts into the chocolate- mine kinda fell off some. Next time I might add a layer of actual toffee so there's more toffee flavor here, but they were still really good bars!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "robin"
+},
+"reviewBody": "I like putting the chocolate chips on the top and putting back in the warm oven to let them melt, then spreading the melted chocolate over the bars. Sprinkle heath chips, toasted coconut, chopped almonds or chopped almonds (whatever your family's favorite).... delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "AZ93"
+},
+"reviewBody": "I have found this same exact recipe on most sites, but this one uses a larger pan than most. And for that reason this baby gets all 5 stars. It seems like that's a large pan for the amount of dough, but trust me it's not. It's perfect!! This recipe is delicious. Keep in mind it's not actually toffee, but instead it's like a toffee tasting, chewy, buttery cookie dough. I use toffee bits on the top but honestly I think you could put any nuts you like, too (betting almonds would be fabulous). Very easy to make and a huge favorite with everyone at Thanksgiving. They are best (chewier) when they're not refrigerated."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "oldfashion"
+},
+"reviewBody": "finaly found my grandmothers recipe. it is easier to put hershey bars on top instead of chocolate chips"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MN Nice"
+},
+"reviewBody": "Quick, easy,and delicious! They turn out super tender and chewy."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/222745/terrific-toffee-bars/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1557/desserts/chocolate/",
+"name": "Chocolate Dessert Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17158/desserts/chocolate/milk-chocolate/",
+"name": "Milk Chocolate"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/222745/terrific-toffee-bars/",
+"name": "Terrific Toffee Bars"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,1433 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Waffles"
+,"datePublished": "2000-05-26T13:50:50.000-04:00"
+,"dateModified": "2022-12-02T11:45:58.935-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "OneShyOfABunch"
+,"url": "https://www.allrecipes.com/cook/51217"
+}
+]
+,"description": "This waffle recipe makes tasty waffles with simple pantry ingredients. Skip the boxed mix and use this batter now or refrigerate for up to a week."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/XXQAy1OVBpIptAOcXS2y4jrEnkI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/22180-waffles-mfs-79-4dd6912e769840f1a5f17cdac0aa9950.jpg",
+"height": 1500,
+"width": 1500
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=6316471311112",
+"description": "",
+"duration": "PT58S",
+"name": "How to Make Waffles",
+"thumbnailUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/b8804f39-e31d-426d-952e-3a072ba6aa72/ec4b82cc-bda1-49bd-8a67-1365c9f68bf4/1280x720/match/image.jpg",
+"uploadDate": "2023-01-30T15:48:21.371-05:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Waffles"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "5203"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "382 kcal"
+,"carbohydrateContent": "38 g"
+,"cholesterolContent": "68 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "9 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "390 mg"
+,"sugarContent": "6 g"
+,"fatContent": "22 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"2 large eggs",
+"2 cups all-purpose flour",
+"1.75 cups milk",
+"0.5 cup vegetable oil",
+"1 tablespoon white sugar",
+"4 teaspoons baking powder",
+"0.25 teaspoon salt",
+"0.5 teaspoon vanilla extract",
+"nonstick cooking spray" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat a waffle iron according to manufacturer&#39;s instructions."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk eggs in a large bowl until light and fluffy. Add flour, milk, and vegetable oil and mix to combine. Whisk in sugar, then mix in baking powder, salt, and vanilla just until smooth, being careful not to overmix."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/XXQAy1OVBpIptAOcXS2y4jrEnkI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/22180-waffles-mfs-79-4dd6912e769840f1a5f17cdac0aa9950.jpg"
+}
+]
+,"text": "Spray the preheated waffle iron with nonstick spray. Pour batter onto the hot waffle iron and cook until golden brown and the iron stops steaming, 3 to 5 minutes."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT25M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "throw in a shot of whiskey and 🤌👌. Makes it easy when you are not feeling good and need to make breakfast for the family! Tasty to boot!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Earl Willison"
+},
+"reviewBody": "The recipe is easy to make but kind of bland I will stick with my Belgium waffles"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SandyS"
+},
+"reviewBody": "These waffles turned out great - so fluffy and just the right sweetness. Very quick and easy, but I probably will premix the dry ingredients together next time. I hit a lump of baking powder in my waffle and it was a bit unpleasant."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I used whole wheat flour and had no trouble at all making my very first waffles. I halved the recipe, also. They were nice, light waffles. I still have enough for more and the rest of the batter is in a container in the fridge. Um. I used almond milk, with vanilla, unsweetened, so I did not use vanilla. Well, putting it all together, I had more modifications to the basic recipe than I thought! But the recipe is obviously robust enough to allow such."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I loved this recipe! I made a few changes though... 1. I added about 2 tablespoons more flour 2. Instead of just adding the eggs I wipped the egg WHITES then added those at the end for a fluffier texture. 3. I used coconut milk 4. I added about 2 tbsp. more sugar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This is a very good standard recipe. To the people who say it taste like cardboard... you're using sub par flour or old flour. This recipe is great. I've added chocolate chips and yeast to the batter for more flavor and texture. But alone the recipe is spot on."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "They were very good and I used oat flour and oat milk. They were super fluffy and delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Deyon"
+},
+"reviewBody": "Made using the suggestions , butter instead of oil, extra sugar, extra vanilla. Still very bland. Will not be using"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Definitely tasted like cardboard, I definitely don’t care for these at all"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I liked this recipe but definitely have had better. The couple of changes that I made were instead of vegetable oil i used 3 TBLS of butter, instead of 1 TBLS of sugar I used 2 1/2 TBLS of sugar and instead of 4 tsp of baking powder I used 3 tsp of baking powder. After I did that every one in my family ate these waffles."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kristina"
+},
+"reviewBody": "Made this recipe as written using high quality ingredients. It was a big hit. Great flavor and texture. I was initially nervous that the batter was too thin and that it may taste like baking powder given the amount required. However, the batter consistency when following the recipe is perfect and there was no baking powder taste!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Amanda Loveless"
+},
+"reviewBody": "Tasteless. Good texture and fluffy though. Would try with more salt, sugar and vanilla."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "jallred"
+},
+"reviewBody": "Very Tastiy! Husband wants pecans in them next time.. Judy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "These made great waffles but please mix the baking powder with the flower before adding. We absolutely got bitter little pockets of the baking powder it was nasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I can’t see any reason to wait to mix baking powder in, unless you actually like sour pockets of baking powder in your waffles. The recipe is good, but mix the baking powder in with the flour before adding."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ninnieshka"
+},
+"reviewBody": "This recipe was easy, quick and delicious. I just put 2 tablespoon of sugar and a full teaspoon of vanilla extract, that's the only thing I change, but that's to taste. I will do this recipe again for sure."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Curtis"
+},
+"reviewBody": "I found the order in how things were mixed made a difference in the taste. I made four batches, two with recipe mixing order, two with classic cake style, mixing dry together, then making a well, adding eggs, milk, mixing in, then the oil and finally extract. The recipe order tasted more oily and a bit more flat, the cake style was more to my liking and fluffier. This was with a full sized Cuisinart 4 panel waffle maker."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joyce H"
+},
+"reviewBody": "Easy and tasty. It will be my go to recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This was AMAZING. Best waffle recipe ever. Super simple and tasty. My daughter actually baked them! They STILL turned out delicious. Thank you SO much for posting this!!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kwdah"
+},
+"reviewBody": "So good! This is a wonderful waffle recipe. Doubled the recipe for our large family and it turned out perfectly. I really whisked the eggs for 3-4 minutes before adding the rest of the ingredients and they came out perfectly light and fluffy. Would definitely recommend!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "PAYTONSMOMMY"
+},
+"reviewBody": "These waffles smelled great and tasted even better. They are nice and fluffy. My grandkids loved them."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "h82cook"
+},
+"reviewBody": "I made no changes. I used two different waffle makers and found that my large typical waffle sized maker turned out flat dense waffles. My small maker, think eggo waffle sized, turned out light fluffy waffles. So maybe this is the reason for so many complaints of waffles that did not rise. For me it's the waffle iron. Otherwise this is simply a standard waffle recipe. Easy and a good medium for the blackberry compote recipe I found on this website."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "These tasted awful. Nothing like a waffle."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Courtney Wason"
+},
+"reviewBody": "Cooked exactly as written. Then, made it again the same with added chocolate chips. Delicious both ways, fluffy, crispy outside. Cooked on “3” on my waffle maker (the middle setting). Came out great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LuluMarshmallow"
+},
+"reviewBody": "I subbed out the oil for melted margarine because I ran out- still turned out great! Tasted delicious. I did double the vanilla, but I think it would've tasted good had I not, as well ."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Nice fluffy waffles recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "michaelpait14"
+},
+"reviewBody": "Added some crushed pinapple to the mix and they were wonderful."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Very bland mixture! We added some blueberries butter and syrup to our waffles and there is something off with this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "kristen"
+},
+"reviewBody": "These taste terrible. And my waffles didn’t fluff up at all. They were limp and soggy. If you have to follow adjustments from previous comments to even make them edible then it’s not really a good recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gary Scott"
+},
+"reviewBody": "This is like the recipe my mother used growing up only difference is she used baking soda as well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Best waffles i have ever made ( only waffles I ever made but wont be the last!)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Earthgal"
+},
+"reviewBody": "I substituted self rising flour so I could leave out the salt and baking powder. Still came out amazing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "It had no flavor. I did as others recommended and doubled the vanilla and sugar and it just tastes like flour. Won't be making it again. Sorry. Butter instead of oil might have saved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "andreawebster"
+},
+"reviewBody": "I thought this recipe was great! i loved how the waffles turned out! 5 star!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Fsfsunshine"
+},
+"reviewBody": "Love this recipe! I've made it per the instructions and I also tried a protein version. Basically I substituted 3/4 cup of the flour for Orgain chocolate protein powder and my family loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "You should half the baking powder (a little goes a long way) double the sugar and vanillla and omit oil."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Mike Case"
+},
+"reviewBody": "Recipe had ok flavor. Waffles however were flat, no lift."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "My kids love waffles and this recipe. When I make the batter, I let it rest for 15 minutes. That helps get rid of the lumps without overworking the dough."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "These are pretty good but require a couple adjustments for taste and texture improvements. I added cinnamon, more vanilla than stated, and a bit of cornstarch. They would otherwise be pretty soft and flavorless. For a recipe with few frills, it works well but there are better waffle recipes"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Teresa Hansen"
+},
+"reviewBody": "Doubled recipe, substituted melted butter for oil and went generous on vanilla flavoring. Used Cuisinart Belgium waffle iron. Made flavorful delicious waffles 🧇 😋"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Peter Parker"
+},
+"reviewBody": "It is very easy, but the shortcuts aren't worth the end result. Dry and tasteless (like an eggo waffle)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Floppy and soft, I reduced the baking powder and use butter on my pan. Top with honey. Don't over beat the batter"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tatoun"
+},
+"reviewBody": "Ok so I’m not sure why ppl are saying this recipe sucks or that it tastes like cardboard… clearly you can’t make waffles 🤷‍♀️ When sugar and vanilla is added it has flavour.. you want sweeter? Add chocolate chips and bananas or anything you want really. Only thing I did diff was I added 1/4 cup oil (mine was extra virgin olive oil and I had no issues like some did..) and 1/4 cup apple sauce so I wasn’t adding too much oil. I also added the 3tbsp’s of cornstarch and it did infact make my waffles crispier :) Other than that with maple syrup I saw no issues :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "fast easy simple and delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I added olive oil instead of vegetable oil and it was disgustingggggg. Definetely do not do. I had to add some flavour to cover the oily taste but that made it burn easier."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I am a cook in a Seniors Home and have tried many waffle recipes over the years and this recipe is by far the very best. I make the waffles as written (adjusting the amounts accordingly since I make so many) BUT mix in about 3 Tbsp cornstarch to the 2 c of flour when making them at home for a crispier waffle."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This is still the best waffle batter recipe. Using Bobs Red Mill Organic All Purpose flour, organic eggs, organic sugar, Clabber Girl baking powder, Morton Lite salt and Simple Truth Organic Vegetable Oil. Sprayed my Krups waffle iron and set it to level 3 (out of 5) and these are light on the inside and crisp on the outside!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Karen L. Boettcher McDonald"
+},
+"reviewBody": "Unfortunately couldn’t eat, made recipe exactly. Came out very metallic tasting from the baking powder?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I made these for the first time today. These waffles rose beautifully. Next time I make them, I will use more vanilla extract as the taste was a tad bland before adding toppings like butter and syrup."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Wow it's incredibly tasteless. The first bite is bland but the after taste hits you and it's even worse. Tried adding spices and more salt but it just tastes like paper and cardboard. I made an account just to write this review. Don't be deceived with all the other reviews. No amount of syrup or spices could fix it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Per the reviews, I added extra sugar, cinnamon, salt, and vanilla. I also added vinegar to give it a buttermilk flavor - and it was still super bland."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lisah"
+},
+"reviewBody": "Great, easy recipe. I added an extra tablespoon of sugar, a dash of cinnamon and a full teaspoon of vanilla as other suggested. We loved this recipes and kept the extra batter in the fridge for fresh waffles in the morning. I won’t use box mix again. Thank you for this recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "The recipe is great as written. For topping, I add approximately 1/8 inch of sour cream over all of the waffle, and then top that with pure Canadian Maple Syrup. Delish!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ryan Schroeder"
+},
+"reviewBody": "This is a great, basic waffle recipe. I love it because I usually have everything on hand. For more flavor swap 2/3 of the milk with full fat, plain yogurt."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carolyn Weber Haas"
+},
+"reviewBody": "I made 1/2 recipe, used melted coconut oil and these turned out great. Very easy, browned nicely and made 3 waffles. Served with braised pears and whipped cream."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "It’s a good waffle recipe, next time I would add a little more salt"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This is a great recipe they were light and fluffy I just added a extra tablespoon of sugar...... You don't want them to sugary because your gonna put syrup 🙄 DUH"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I created a profile just to write this review. These are 100% completely flavorless. Nothing there at all. You're better off eating butter and syrup by themselves and skipping this terrible recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "The best waffle recipe I’ve tried! I do a mix of oat flour, whole wheat flour, and all-purpose flour (I go by weight rather than volume) and add a bit extra vanilla, as well as some cinammon. I also add some hemp hearts and ground flaxseed if I remember. Even my husband, who doesn’t like healthier versions of original recipes, loves these. I have to make a weekly batch and freeze for my 3 year old’s breakfasts. Love them!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "It’s eggy! But pretty good. Unused bread flour, and allowed the batter to rest for 15 minutes after combining."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I made it exactly as written. Perfect. Wouldn’t change a thing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TTCOOKIN4TWO"
+},
+"reviewBody": "Made as directed. Used avocado oil as that is all I had. Delicious! Ate mine will grilled BGQ chicken thighs and Mylove had his with a fried bratwurst patty and scrambled eggs with cheese. Will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JamMa"
+},
+"reviewBody": "Great recipe. Made just as recipe called for. Will add a bit more flavoring next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Way too soupy! Needs at least 1/2 cup more dry or a 1/3rd cup less wet to make a useful batter. DO NOT make it as shown--you'll just waste your time and ingredients"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Nice and crispy waffles! We make extras and pop them in the freezer. In the morning we just put them in the toaster. They taste just like Eggos!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ruth Atkins"
+},
+"reviewBody": "Very good waffle made from scratch. May never go back to boxed batter mix again. Note: waffles, even after cooking, were much lighter in color than I expected. But taste delicious. Light and fluffy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle Vaccaro"
+},
+"reviewBody": "Recipe is awesome! I make it ahead and store batter in the fridge so I can make fresh waffles but great option for busy mornings. My son asks quite often I make them."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "i did half of the vegtable oil half butter"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Antonia"
+},
+"reviewBody": "Came here after being disappointed at the taste of store-bought mix. My first time making homemade waffle batter and it was PERFECT. Added a pinch of cinnamon and nutmeg into the batter per other comment suggestions. Thanks for such a great recipe, we loved every bite!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stacey Lowden"
+},
+"reviewBody": "This was an excellent recipe, i substituted buttermilk for milk, added a little more because buttermilk is thicker, and they were awesome!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Running low on pancake/waffle mix so came her to find a some waffles cuz the kids really wanted some and this was really good. My kids love them so that's a win to me. Might just make these and not buy the mix anymore. So tasty"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I added 1/2 tsp cinnamon and doubled vanilla and they turned out perfect. Thank for the recipe :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Judi"
+},
+"reviewBody": "Great basic recipe. I've made couple minor changes that make it a bit healthier and tastier for me. I use coconut oil instead of veg oil, so I warm my milk to keep everything liquid. Also, use coconut oil brushed on in lieu of spray. Also, more generous with my vanilla."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "It was good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I followed the recipe exactly and they came out great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Elizabeth Nelson"
+},
+"reviewBody": "This was a hit at home. I did substitute one cup of flour with whole wheat flour. They were still fluffy. Definitely making them again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tiffany washington"
+},
+"reviewBody": "Almond milk Extra vanilla Have not eaten yet but recipe was simple had all ingredients in pantry I have hi hopes Ok they turned out ok"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Overall good, and simple to make with staples at home, but not quite as good (texture wise) as buttermilk based recipes IMO. (Might have been better if I’d had whole milk at home instead of 2 percent.) I accidently splashed in a little extra vanilla, and chose to add a little cardamom (1/4-1/2 tsp). I think those additions helped the flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nada Pellom"
+},
+"reviewBody": "Wonderful"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I did use about an extra teaspoon of baking power, and little extra vanilla. My son just likes them that way. Other than that. Recipe is perfect as it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Really dense waffle despite fluffing the eggs and gently folding in the baking powder. Doubled the vanilla and sugar but still not great flavor. There’s just no substitute for prepping yeast based waffles the night before ."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MissMocha"
+},
+"reviewBody": "I've been making this for a few years and it is a family favorite! The only thing I do differently is separate the eggs and whip the egg whites until fluffy. Then I add the sugar to the egg whites and whip them again for about 30 seconds. After mixing the egg yolks with the other ingredients, I fold in the egg whites mixture. The waffles always come out with light &amp; crispy outsides while soft in the middle."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I’m Brazilian, I’ve been in the USA and ate a lot of waffles, OMG I loved it! This recipe make me reminds me of the USA! Thanks"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I followed the recipe, no changes. The waffles were so light and fluffy. I'm very pleased - my kids loved them!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This was a great recipe easy to follow fast put together took me like 10 minutes to make the batter together and have the waffle maker ready to use they tasted scrumptious I added a little cinnamon and nut Meg to change the flavor of them and Bam it’s a great deal. If you over cook them they will taste like cardboard like any waffle does being cooked till the light goes off or comes on to say it is finished, A 4 year old could put this waffle together and cook them easy as pie. To them less worthy to cook a good waffle remember just don’t over cook and this waffle and it will taste EPIC! 5***** all day long…"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Excellent waffles. I made these exactly as the recipe stated. I was a but concerned because they looked a little lumpy, but once I had mixed all the ingredients in they were fine. Lovely taste and very light and fluffy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I think it could of had more vanilla but other than that it was good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "It was AMAZING. Usually I don’t love waffles but these ones were off the charts! Definitely five stars!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Oh. My. Gosh!!! Unbelievably wonderful! Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shelli Homer"
+},
+"reviewBody": "Best basic waffle recipe! I add an extra tablespoon of sugar. They have the right consistency. They also freeze and reheat well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This is a very easy recipe. I suggest swapping the vegetable oil for melted butter or that's all you will taste. It also fails to instruct you to blend the dry ingredients and wet separately first, then add the dry to the wet. It's fast to make though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Fireside"
+},
+"reviewBody": "I read others comments and made these waffles with some adjustments. Balance of dry to wet ingredients was fine. Do not add extra flour as one person suggested. I did change as follows... Use real butter instead of oil for better flavor Added another teaspoon of sugar Added dash of cinnamon as someone suggested Used 2 teaspoons of vanilla I added a blueberry topping. Here's how... Add one pint blueberries, 1 tablespoon of sugar, one tablespoon water to saucepan and stir then simmer 15 mins. Use immersion blender to blend into syrup. Pour hot syrup over waffles! Yum!,, P.S. My first time making waffles and this turned out great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "perfect the way it is!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This recipe is amazing. I have been craving waffles for a while and this was perfect. I had a large waffle maker so I doubled the recipe and it made 8 waffles which for a house of 6 was perfect. Everyone loves them."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chelsea VanPetten"
+},
+"reviewBody": "So fast and easy using everyday ingredients.. actually made this for dessert because me and my two boys had a craving for something sweet. Belgian waffles with butter and syrup did the trick thsnks for the recipe. I hooked up the waffle maker and had the first waffle done within 15 min of starting"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I've tired over 20 different waffle recipes, and this one, I halved and made the most crisp dense yet fluffy waffles with my cheap little iron, 10/10 recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "desertphinxhotmailcom"
+},
+"reviewBody": "Good , yes added blueberries"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Melissa Robertson"
+},
+"reviewBody": "They were easy to make, and even though I goofed and put my ingredients in the wrong order they were great!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/22180/waffles-i/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/78/breakfast-and-brunch/",
+"name": "Breakfast and Brunch"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1316/breakfast-and-brunch/waffles/",
+"name": "Waffle Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/22180/waffles-i/",
+"name": "Waffles"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

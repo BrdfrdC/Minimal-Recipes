@@ -1,0 +1,326 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "How to Make Cream Cheese"
+,"datePublished": "2013-10-30T17:00:03.000-04:00"
+,"dateModified": "2021-12-16T14:59:05.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Chef John"
+,"url": "https://www.allrecipes.com/cook/foodwisheswithchefjohn"
+}
+]
+,"description": "Your guests will rave when they see a beautiful round of hand-crafted homemade cream cheese on your appetizer tray."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/O56ziVoL4MJ81EezBEkGhWtKOxI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7788138-70af58994aad4918bf17ad2d7f8b307d.jpg",
+"height": 960,
+"width": 960
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=2746260359001",
+"description": "See how to turn yogurt into simple homemade cream cheese.",
+"duration": "PT6M42S",
+"name": "How to Make Cream Cheese",
+"thumbnailUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/a3b37021-2850-4ed1-b310-909b2d581f71/e478e805-02b6-44f6-9a84-65c22d4d2dd5/1280x720/match/image.jpg",
+"uploadDate": "2021-07-20T18:25:00.456-04:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "How to Make Cream Cheese"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "16"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "48 kcal"
+,"carbohydrateContent": "5 g"
+,"cholesterolContent": "5 mg"
+,"proteinContent": "4 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "213 mg"
+,"sugarContent": "5 g"
+,"fatContent": "1 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1 package of cheesecloth",
+"1 (32 ounce) container plain yogurt (such as sheeps' milk yogurt)",
+"1 teaspoon kosher salt" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Line a colander with 6 thin layers of cheesecloth set over a bowl, letting the edges of the cheesecloth hang over the sides. Pour in the yogurt and gather the cheesecloth at the top. Tie the bundle together at the top with kitchen twine and hang the yogurt partially inside a large bowl or large measuring cup set in the refrigerator to drain for 24 hours. Check liquid level in container and pour off if it gets too high."
+} ,{
+"@type": "HowToStep"
+,"text": "Unwrap the cheesecloth and place cream cheese into a mixing bowl, sprinkle with salt, and mix until smooth and thoroughly combined."
+} ,{
+"@type": "HowToStep"
+,"text": "Line a 4 1/2-ounce ramekin or a small bowl with 4 thin layers of clean cheesecloth. Spoon the salted cream cheese into the ramekin, avoiding creating air pockets. Smooth top of the cream cheese and place a small circle of plastic on top, cut out of a plastic bag. The plastic should just fit inside the ramekin. Fold the cheesecloth over the top and cut off excess cheesecloth. Place another piece of plastic wrap over the ramekin."
+} ,{
+"@type": "HowToStep"
+,"text": "Cut out a small cardboard circle, just barely smaller than the inside of the ramekin, and place the cardboard circle on top of the plastic wrap. Place a small heavy object (such as a can of food) onto the cardboard. Refrigerate to press and age the cream cheese for 2 days."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/O56ziVoL4MJ81EezBEkGhWtKOxI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7788138-70af58994aad4918bf17ad2d7f8b307d.jpg"
+}
+]
+,"text": "Carefully unwrap all the layers of plastic and cheesecloth to reveal the pressed cheese. Transfer to a serving plate with the flat side down to show the cheesecloth marks. Refrigerate leftovers."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT4340M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Comes out like cream cheese and spreadable"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Bilal Maassarani"
+},
+"reviewBody": "I did a little experimental shortcut. Since the first few steps are the same ones you'd take to make Labneh (firm Greek yogurt), I just added the salt to store bought fresh Labneh. It worked but it had the sourness of Labneh.\n\nIt tastes good and fresh but it's not really cream cheese like other reviewers pointed out."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bowline"
+},
+"reviewBody": "Very easy and delicious way to keep the fat off and enjoy cream cheese at the same time :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Will Hesselton"
+},
+"reviewBody": "Much, much better tasting than store bought. And, healthier too!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Much, much better tasting than store bought. And, healthier too!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LadyCharlane"
+},
+"reviewBody": "Didn’t make it myself. My aunt from Iran used to make this for me about 40 yrs ago when I was in college. It was actually just one of the ways she got rid of extra yogurt as we made our own weekly She would give me a small óleo plastic of it but it was mixed with a variety of herbs (like mint, tarragon and basil) and dried flower petals (rose was especially good) We also made our own cracker bread and I recommend one With poppyseeds and or sesame is especially good with this!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Lainey Drake"
+},
+"reviewBody": "while a nice way to use up yogurt, this is NOT cream cheese! It's just firm yogurt!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "green cheese"
+},
+"reviewBody": "thanks, chef John! my new favorite way to use up old plain\nyogurt, i use generic brand greek yogurt &amp; every time it comes\nout great. Tie tightly, and don't be afraid to give the dripping\nbundle an extra squeeze when you walk by the fridge. I serve\nmine drizzled with just softened minced garlic in hot butter, &amp;\nsprinkle with oregano and crushed black pepper"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Eric Frendo-Cumbo"
+},
+"reviewBody": "Want to thank you for this recipe works great for me. I only use the first part of this recipe and use pineapples. Its a great recipe love it and so does the family!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "redbourn"
+},
+"reviewBody": "Unwrap the cheesecloth and place cream cheese into a mixing bowl, sprinkle with salt, and mix until smooth and thoroughly combined.\nLine a 4 1/2-ounce ramekin or a small bowl with 4 thin layers of clean cheesecloth. Spoon the salted cream cheese into the ramekin, avoiding creating air pockets. Smooth top of the cream cheese and place a small circle of plastic on top, cut out of a plastic bag. The plastic should just fit inside the ramekin. Fold the cheesecloth over the top and cut off excess cheesecloth. Place another piece of plastic wrap over the ramekin.\n\nObviously yogurt was meant and not cream cheese."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SunnyxSpot"
+},
+"reviewBody": "I make home made yogurt and used this. Excellent!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Gina Bisaillon"
+},
+"reviewBody": "This is good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Teri313"
+},
+"reviewBody": "This was fun to make and it really worked! Creamy and yummy. Thanks Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jules"
+},
+"reviewBody": "Yum! Used 2% greek yoghurt, added minced garlic and chopped chives with the salt. Fantastic on French bread straight out of the oven."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/235277/how-to-make-cream-cheese/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17192/appetizers-and-snacks/dips-and-spreads/cheese-dips-and-spreads/",
+"name": "Cheese Dips and Spreads Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/404/appetizers-and-snacks/dips-and-spreads/cheese-dips-and-spreads/cheese-balls/",
+"name": "Cheese Ball Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/235277/how-to-make-cream-cheese/",
+"name": "How to Make Cream Cheese"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

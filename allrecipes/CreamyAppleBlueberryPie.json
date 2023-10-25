@@ -1,0 +1,418 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Creamy Apple Blueberry Pie"
+,"datePublished": "2020-06-18T23:50:12.000-04:00"
+,"dateModified": "2020-06-18T23:50:12.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Megan Karlowsky"
+,"url": "https://www.allrecipes.com/cook/2752280"
+}
+]
+,"description": "Sweet and tender apples and blueberries fill this luscious blueberry apple pie with a crisp crumb topping."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/cPA11aREBzANiLk-rUx82OLuy5A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/970222-225f8b89f025460cbe1ba56871f20dc3.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Creamy Apple Blueberry Pie"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "26"
+}
+,"cookTime": "PT60M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "464 kcal"
+,"carbohydrateContent": "55 g"
+,"cholesterolContent": "56 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "6 g"
+,"saturatedFatContent": "11 g"
+,"sodiumContent": "335 mg"
+,"sugarContent": "29 g"
+,"fatContent": "26 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"3 cups sliced apples",
+"1 cup blueberries",
+"1 (9 inch) unbaked deep dish pie crust",
+"0.25 cup all-purpose flour",
+"0.5 cup white sugar",
+"0.25 teaspoon salt",
+"0.25 teaspoon ground nutmeg",
+"0.25 teaspoon ground cinnamon, or more to taste",
+"1 cup plain yogurt",
+"1 egg",
+"1 teaspoon vanilla extract",
+"0.5 cup all-purpose flour",
+"0.5 cup chopped pecans",
+"0.5 cup rolled oats",
+"0.25 cup brown sugar",
+"0.5 cup butter" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 400 degrees F (200 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Toss apples and blueberries in unbaked pie crust."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix 1/4 cup flour, white sugar, salt, nutmeg, and cinnamon in a bowl. Stir in yogurt, egg, and vanilla extract; pour batter over apples and blueberries."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine 1/2 cup flour, pecans, oats, and brown sugar in a mixing bowl. Cut in butter with a knife or pastry blender until mixture resembles coarse crumbs; set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven for 15 minutes; reduce heat to 350 degrees F (175 degrees C) and continue baking until pie crust is lightly browned, about 30 minutes. Sprinkle crumb mixture over pie and bake until golden brown, about 15 minutes more. Cool before serving."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT100M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rita rodrigues"
+},
+"reviewBody": "This is my grandchildren’s fav recipes, requested every time they visit. I always halve the sugars often in any recipe. I did the same here - 1/2 c instead of 1."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cheryl"
+},
+"reviewBody": "Loved the pie. Used blueberry yogurt which I had on hand."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cheri madden"
+},
+"reviewBody": "It has become my go-to apple pie recipe. The only change I made is to use a gluten-free crust and flour. I love how easy it is to make, cook and cut. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ALLFROMSCRATCH"
+},
+"reviewBody": "Like another reviewer (I couldn't believe it), I was searching ingredients using yogurt, blueberries and apples. This was a very nice and different twist on an apple pie. Also, looked so nice!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "HockeyMom"
+},
+"reviewBody": "I made this with mulberries from my tree instead of blueberries. It was perfection! Thank you for the amazing recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Danielle Fredine"
+},
+"reviewBody": "yum! I feed 8 to 11 family members every Sunday, as life allows and not a one could find anything not to love about this pie!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "emelia"
+},
+"reviewBody": "My husband loved this pie!!! It was not too sweet and the flavors and texture were perfect. I still have many apples, so, now I am going to try this recipe with cranberries:)\n\"Thanks\"!!!:D"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rita Rider"
+},
+"reviewBody": "It is great with cherries and blueberries."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Esther Hamm"
+},
+"reviewBody": "I loved it! I've made very few pies in my life, but when I had more apples and blueberries than I knew what to do with, I figured they'd make up a nice treat. I didn't have plain yogurt, so I used the honey flavored Greek yogurt I already had in the fridge and found it to be plenty tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Barbara502"
+},
+"reviewBody": "This is by far my favorite so far. Topped with a small scoop of vanilla ice cream. It was heavenly."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mrs. Jabaay"
+},
+"reviewBody": "My family absolutely loved this pie! I didn't have any nuts for the topping, so I doubled the oats. I also baked it for 15 minutes longer to thoroughly cook the topping. It was ready to eat hot out of the oven!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pauline"
+},
+"reviewBody": "Truthfully, I didn't feel like doing the bottom crust, so I just patted about half of the crumb mixture in the bottom of my pie plate (someone had commented it was too much on top anyway), threw in the apples with some blueberries &amp; poured the creamy mixture on top. Then I crumbled the remainder of the topping over it... Baked at 350 about 40 minutes &amp; it was delicious!\nPS. I used sour cream in place of the yogurt because that was what I had on hand- wonderful!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amanda Graham"
+},
+"reviewBody": "Made it for Thanksgiving dessert &amp; it was very delicious! I was out of plain yogurt but had a blueberry greek yogurt in the fridge so i used that instead. I mixed my apples (about 4 C total) half/half with McIntosh and Honey Crisp. Also added cinnamon and nutmeg to the yogurt mixture for a little extra spice. Topped it with vanilla bean ice cream. I'll make this one again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "BARNKITTY"
+},
+"reviewBody": "The only change we made was to dust the fruit with just a teeny bit of flour, since we were using frozen blueberries. The pie filling is very good, but found there to be too much of the topping for my taste; need a lot of whipped cream or ice cream to make up for the thick, rather dry topping."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stella Rocket"
+},
+"reviewBody": "Great pie! Easy to make!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kwiltcrazy"
+},
+"reviewBody": "This pie had amazing texture &amp; the layers looked lovely - wonderful for presentation. The only difference was that I used thick Greek style plain yogurt. Next time (and there will be many next times!), I plan to add a 1/2 tsp of cinnamon to the crumble topping. \n\nThis recipe is a definite keeper!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "KatieLee"
+},
+"reviewBody": "Not very impressed with this recipe. The \"cream\" just set on top of the fruit and really added nothing to the flavor of the pie."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "yenergy"
+},
+"reviewBody": "I skipped the egg but really enjoyed this pie! Used vanilla yogurt instead of plain, so I cut the sugar by a little bit. It was a huge hit!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "paula"
+},
+"reviewBody": "I tried this recipe after reading many reviews. I too tweeked the recipe with vanilla, half the sugar and a bit more sour cream. It was fabulous!! I made four pies for a large group, and they all raved. I went home and made another for my family who couldn't get enough! This is the perfect pie. I used fresh berries and also covered the edges with foil for protection and after 55 min. it was perfect. I bake constantly always looking for new recipes. this is my new \"go to\" pie. I look forward to trying it with different, seasonal fruit."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "pksmith"
+},
+"reviewBody": "Very Good! We have an abundance of apples this year and looking for ways to use them. I used Vanilla Yogurt and left out the vanilla flavoring. I think next time I would omit the nutmeg. I also threw in a cup of Red Raspberries. Wonderful!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "cakes"
+},
+"reviewBody": "This is a really tasty pie. I found it while looking for something to make as a use up for: apples, blueberries and plain yogurt. I didn't expect to find anything when I put in those ingredients to search. This recipe came up so I made it last night. Very good, the crumb topping really makes the dish!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/223280/creamy-apple-blueberry-pie/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/808/desserts/pies/fruit-pies/",
+"name": "Fruit Pies"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/12946/desserts/pies/fruit-pies/blueberry-pie/",
+"name": "Blueberry Pie Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/223280/creamy-apple-blueberry-pie/",
+"name": "Creamy Apple Blueberry Pie"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,286 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Mama&#39;s Whoopie Pies"
+,"datePublished": "2020-06-18T23:54:14.000-04:00"
+,"dateModified": "2020-06-18T23:54:14.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "hb936"
+,"url": "https://www.allrecipes.com/cook/3235189"
+}
+]
+,"description": "Chocolate drop cookies are sandwiched with a fluffy marshmallow creme icing in this traditional treat."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/qtQIJ1kuHrlbH7O49gDEyQ0rOQg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7685917-2168ae8110e44250876078eef44b2169.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Mama&#39;s Whoopie Pies"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.2",
+"ratingCount": "12"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "316 kcal"
+,"carbohydrateContent": "45 g"
+,"cholesterolContent": "50 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "4 g"
+,"saturatedFatContent": "9 g"
+,"sodiumContent": "249 mg"
+,"sugarContent": "25 g"
+,"fatContent": "14 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"4 cups all-purpose flour",
+"1 cup unsweetened cocoa powder",
+"1 teaspoon salt",
+"1 teaspoon baking powder",
+"0.5 teaspoon baking soda",
+"1 cup butter at room temperature",
+"2 cups white sugar",
+"2 eggs",
+"2 teaspoons vanilla extract",
+"1.5 cups milk",
+"0.75 cup butter at room temperature",
+"1 cup confectioners' sugar",
+"2 teaspoons vanilla extract",
+"2 cups marshmallow creme" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat oven to 350 degrees F (175 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk flour, cocoa powder, salt, baking powder, and baking soda in a bowl. Beat 1 cup butter and white sugar in a separate large bowl, with an electric mixer on medium speed, until mixture is creamy. Beat eggs and 2 teaspoons vanilla extract into butter mixture."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir half the flour mixture into wet ingredients, followed by milk; stir remaining flour mixture into dough. Drop dough by tablespoonfuls onto baking sheets. For 25 whoopie pies, make 50 cookies."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake cookies in the preheated oven until set and lightly browned, about 10 minutes. Let cool completely."
+} ,{
+"@type": "HowToStep"
+,"text": "Beat 3/4 cup butter with confectioners&#39; sugar in a bowl, using an electric mixer; beat 2 teaspoons vanilla extract and marshmallow creme into filling. Spread at least 1 teaspoon filling on the bottom of a cookie and top with a second cookie. Repeat with remaining cookies and filling."
+} ]
+,"recipeYield": ["25"]
+,"totalTime": "PT70M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jason"
+},
+"reviewBody": "It was very good and fun to make. I put lemon extract and chocolate sprinkles for the filling. Definitely keeping this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Bren"
+},
+"reviewBody": "This was not a good recipe. The cookie is dry and the cream was too runny. The cookies looked horrible with the cream in the middle; the cream wouldn’t set and kept running down the bottom cookie. My kids liked the taste, but I thought it was just so so since the cookie was dry."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kate"
+},
+"reviewBody": "We liked this! We made a little extra filling and found that it was too much for our liking. We also added a 1/4 teaspoon mint extract and some oreo crumbs for texture! Rich and delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cherise Agnew"
+},
+"reviewBody": "Really easy and really yummy!! I added one teaspoon of mint extract to the frosting and it was amazing!! I'll be using this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "NancyK"
+},
+"reviewBody": "These are delightful! The amount of filling is just right if you follow the recipe and use the amount specified. This is a keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Katie Bringuier"
+},
+"reviewBody": "Very disappointed. These tasted nothing like the ones I was used to."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "smokingalleykat"
+},
+"reviewBody": "very dense"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tiffia"
+},
+"reviewBody": "Sooooo good!!! Definitely make more filling though!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CELTICFANATIC"
+},
+"reviewBody": "Very easy recipe, but like one of the other reviewers, I ran out of filling. I would say that 1.5 times the filling would be absolutely perfect! I also only cooked the cookies/cake for 8 minutes and that was spot on."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dawn C. Harmon Murphy"
+},
+"reviewBody": "Just made these! Fantastic and easy! Added to my repertoire!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "lostrom526"
+},
+"reviewBody": "These whoopie pies are awesome! I gave only 4 stars because they need more filling....next time I will double the filling recipe. Overall, they are delish! :)"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/232347/mamas-whoopie-pies/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/362/desserts/cookies/",
+"name": "Cookies"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16417/desserts/cookies/whoopie-pies/",
+"name": "Whoopie Pie Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/232347/mamas-whoopie-pies/",
+"name": "Mama&#39;s Whoopie Pies"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

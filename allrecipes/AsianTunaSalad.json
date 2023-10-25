@@ -1,0 +1,393 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Asian Tuna Salad"
+,"datePublished": "2020-02-19T01:50:10.000-05:00"
+,"dateModified": "2022-01-04T08:11:18.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "mimilulu"
+,"url": "https://www.allrecipes.com/cook/3215170"
+}
+]
+,"description": "This Asian-style tuna salad features vegetables and dried cranberries in a mayonnaise-based dressing with Asian-style chile paste, soy sauce, and honey."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Cs70JOPXKvz8cr_M0bS3YOExThk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7388284-61866b4ce76b43d3a5bf67fc4d47e96f.jpg",
+"height": 1000,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Asian Tuna Salad"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "21"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "156 kcal"
+,"carbohydrateContent": "10 g"
+,"cholesterolContent": "19 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "14 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "306 mg"
+,"sugarContent": "7 g"
+,"fatContent": "7 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"5 (5 ounce) cans chunk light tuna in water, drained and flaked",
+"0.5 cup sweetened dried cranberries (such as Craisins®)",
+"0.5 cup finely chopped carrot",
+"0.25 cup chopped green onions",
+"0.25 cup finely chopped cilantro",
+"1 tablespoon sesame seeds",
+"1.5 teaspoons ground ginger",
+"1.5 teaspoons ground red chile pepper",
+"0.75 teaspoon kosher salt",
+"0.5 cup light mayonnaise",
+"0.25 cup Asian chile paste (such as sambal oelek)",
+"2 tablespoons sesame oil",
+"1 tablespoon light soy sauce",
+"1 tablespoon honey" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Mix tuna, cranberries, carrot, green onions, cilantro, sesame seeds, ginger, ground chile pepper, and kosher salt together in a large bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk mayonnaise, chile paste, sesame oil, soy sauce, and honey together in a separate bowl; add to tuna mixture and stir to coat."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT20M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "If you love Asian flavors, you’ll love this tuna salad! I didn’t have any cranberries so I substituted those for mandarin oranges and I left out the salt and just used light soy sauce. I ended up making power bowls with mine on top of sesame kale and quinoa, then I drizzled some Sriracha over the top and ate it with some avocado slices. Absolutely delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "trendjeff"
+},
+"reviewBody": "Amazing, but a wee bit salty. I’ll omit salt next time!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Elgie"
+},
+"reviewBody": "Delicious, it was a hit even with picky family member. I was looking for different tuna recipe, a new take on the traditional, and I’m so glad I chose this one. I adjusted the recipe to 2 portions but I’m not sure it worked OK because I ended up with one portion. Next time I will put a little more of everything per tuna can."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Yucagringa"
+},
+"reviewBody": "This recipe is Incredible. I have made it several times, I only made one small change as I did not have chile paste (Not sure what chile it is, but I live in Mexico, and the first time I made it I used I small canned Chipotle peper, cut up very fine, with a bit of the paste it is in, and it was delicious, so I make that substitution. I also have used the same sauce for other saldas. The combination is just really really tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Angelika"
+},
+"reviewBody": "This recipe blew my husband away (and me, too!) He is very keen to stick with his favorite recipes, so when I embarked on a mission to deliver a much different tuna salad, he was hesitant! However, the asian flair really works here, it was delicious. I found myself just eating it out of the bowl. Thank you for the wonderful combo!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Candis"
+},
+"reviewBody": "Very good. A little spicy, so I'll adjust that next time. I put it on lettuce wraps to serve."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lutzflcat"
+},
+"reviewBody": "11.30.19 This one’s certainly “outside the box” for tuna salad, but man, does it work. Liked everything about this. Not so sure I’d like it on a tuna salad sandwich, but it was delicious served as an appetizer on Trader Joe’s Rosemary Fig crackers. And I certainly could see a scoop on fresh salad greens for lunch. This will be frequently making its way onto my summer menu when we have a lot of salad plates for dinner. If you have time, put it in the fridge for a couple hours, as I think the flavor even improves. This has been on the site for a while, and I’m so glad I finally found it. In a word, this is “tantalizing!”"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chickadee"
+},
+"reviewBody": "This is the bomb! I didn't use as much chili paste as my stomach can't hang with too much heat, but left everything else the same. Think these would be great for a party in small portion size sandwiches. My husband says this is a keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chickadee"
+},
+"reviewBody": "This is the bomb! I didn't use as much chili paste as my stomach can't hang with too much heat, but left everything else the same. Think these would be great for a party in small portion size sandwiches. My husband says this is a keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "alanE"
+},
+"reviewBody": "Very good recipe! It tasted great in tortilla wraps"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sally"
+},
+"reviewBody": "awesome! so yummy, will use fresh ginger though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stepmc10"
+},
+"reviewBody": "What an odd combination for tuna salad but so delicious. I accidentally left the soy sauce out on first batch and figured out I liked it better that way and I am not a fan of ginger so I never include that in my recipes. I used 2 small cans of tuna with the same measurements the recipe calls for."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "curtsyloo"
+},
+"reviewBody": "Wow! Yum! I had some leftover Ahi Tuna. I didn't have pepper paste, so I used a couple of teaspoons of Sriracha in its place. Delish! I will make this again and again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "thiya9"
+},
+"reviewBody": "I would recommend ditching the salt. The soy sauce is plenty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "AJN"
+},
+"reviewBody": "Great for broke college students! I hate the fishy taste of regular tuna salad, and this is creative, completely different flavor. It's seasoned thoroughly enough that your friends won't complain about the smell when you eat it in front of them.\n\nIt's become one of my staple recipes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "karinav"
+},
+"reviewBody": "This is a very different style of tuna salad but a winner for sure. the flavours just go so well together and is very refreshing! I highly recommend it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LivingRedRose"
+},
+"reviewBody": "so much flavor, this was a great change from the usual tuna salads!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brenda Hamil Martens"
+},
+"reviewBody": "This was very very good! This is a fresh way to make tuna salad plus I love Asian food. I followed the directions as was written and I ate mine on an English muffin with lettuce and toasted. My husband ate his on toasted white bread with lettuce. He loved it also. The only thing I would do different next time is add lemon zest and lemon juice. I think that would add a nice fresh flavor to it. I have a lot left over so I may go ahead and add the lemon zest and juice to it now."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "The Sage"
+},
+"reviewBody": "This was really flavorful! I iced canned chicken because I'm pregnant, but it turned out great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "alextrex"
+},
+"reviewBody": "The best tuna salad I've had."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/237687/asian-tuna-salad/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/408/salad/seafood-salad/",
+"name": "Seafood Salad Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/2809/salad/seafood-salad/tuna-salad/",
+"name": "Tuna Salad Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/237687/asian-tuna-salad/",
+"name": "Asian Tuna Salad"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

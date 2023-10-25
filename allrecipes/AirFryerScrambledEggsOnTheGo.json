@@ -1,0 +1,123 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Air Fryer Scrambled Eggs On The Go"
+,"datePublished": "2022-11-04T16:19:59.000-04:00"
+,"dateModified": "2022-11-04T16:19:59.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Soup Loving Nicole"
+,"url": "https://www.allrecipes.com/cook/souplovingnicole"
+}
+]
+,"description": "A quick and easy way to make scrambled eggs in your air fryer to take on the go if you&#39;re in a hurry."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/DRmKCMBgZ2UpJ5SbFCDiHCehH_o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1666670216Air20Fryer20Scrambled20Eggs-690553babe2d4fca8c43b506305374d3.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Air Fryer Scrambled Eggs On The Go"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4",
+"ratingCount": "1"
+}
+,"cookTime": "PT6M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "143 kcal"
+,"carbohydrateContent": "1 g"
+,"cholesterolContent": "372 mg"
+,"proteinContent": "13 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "140 mg"
+,"fatContent": "10 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT4M"
+,"recipeIngredient": [
+"cooking spray",
+"2 large eggs, beaten",
+"salt and freshly ground black pepper to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Lightly spray a ramekin dish with non-stick cooking spray. Pour in beaten eggs."
+} ,{
+"@type": "HowToStep"
+,"text": "Set air fryer to 370 degrees F (185 degrees C) and place the ramekin into the air fryer basket."
+} ,{
+"@type": "HowToStep"
+,"text": "Air fry for 3 minutes. Stir egg mixture and cook for 3 minutes more. Fluff with a fork and season to taste with salt and pepper. Grab and go."
+} ]
+,"recipeYield": ["1"]
+,"totalTime": "PT10M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8499615/air-fryer-scrambled-eggs-on-the-go/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/148/breakfast-and-brunch/eggs/",
+"name": "Eggs"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1308/breakfast-and-brunch/eggs/scrambled-eggs/",
+"name": "Scrambled"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8499615/air-fryer-scrambled-eggs-on-the-go/",
+"name": "Air Fryer Scrambled Eggs On The Go"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

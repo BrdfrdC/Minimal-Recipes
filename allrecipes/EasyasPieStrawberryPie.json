@@ -1,0 +1,291 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Easy as Pie Strawberry Pie"
+,"datePublished": "1999-12-28T23:04:55.000-05:00"
+,"dateModified": "2020-06-18T23:00:18.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Michelle Hubbell"
+,"url": "https://www.allrecipes.com/cook/24326728"
+}
+]
+,"description": "Strawberries and canned strawberry glaze are combined, piled into a baked crust, and topped with whipped topping in this pie recipe using canned strawberry pie filling."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/UkB1o42RzDqfV7KQQfJ29VagtKQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5746577-ba7581af8cfe441190b594ddee6422a0.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Easy as Pie Strawberry Pie"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.1",
+"ratingCount": "17"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "220 kcal"
+,"carbohydrateContent": "26 g"
+,"fiberContent": "1 g"
+,"proteinContent": "1 g"
+,"saturatedFatContent": "8 g"
+,"sodiumContent": "138 mg"
+,"sugarContent": "17 g"
+,"fatContent": "12 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 (9 inch) pie crust, baked",
+"1 (10 ounce) package frozen strawberries",
+"1 (8 ounce) jar ready-to-use strawberry glaze",
+"1 (8 ounce) container frozen whipped topping, thawed" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Mix together strawberries and glaze in a medium bowl. Pour strawberry mixture into pie shell."
+} ,{
+"@type": "HowToStep"
+,"text": "Top with whipped topping."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT10M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Samantha"
+},
+"reviewBody": "Wow brings back memories, my mom would make this for my brother and I."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ja 9"
+},
+"reviewBody": "This was great!!!! Fresh is always better ...."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jane R"
+},
+"reviewBody": "This pie I made with fresh strawberries. Kids love it too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dee"
+},
+"reviewBody": "I made this for my family's Memorial Day cook-out. I used graham cracker crusts and even used the mini-crusts for the grand children to have their own pie. These were a great hit as always!!! This is the first time I used a different crust and my family raved about these pies and asked me to keep making them with the graham cracker crust. I also used fresh berries. This is an easy, refreshing summer treat when strawberries are plentiful. I have never tried it with the frozen berries, but this is a 5+ with fresh berries!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Barbara A"
+},
+"reviewBody": "need to use corn flakes"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "KWISER"
+},
+"reviewBody": "Good, but hard to serve after it is totally frozen- take out of the freezer about 10-15 min. before hand"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "mimi"
+},
+"reviewBody": "Hmmm,just exactly the recipe on the container of strawberry glaze that's in every store!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "MamaToNikolas"
+},
+"reviewBody": "Very yummy and very quick!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Tina "
+},
+"reviewBody": "good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle Morvant"
+},
+"reviewBody": "Great pie!! I make it for my family on plenty of occaisions. It is the perfect summer pie! YOu could also try mixing bananas into the strawberry mix!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "STAMPFRAN"
+},
+"reviewBody": "Easy, awesome result! I used fresh strawberries &amp; whipped cream from the can. It looked like I bought it from the store. My family ate the WHOLE pie in less than an hour."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ADACHIC"
+},
+"reviewBody": "I actually made this today. I didn't even know it was a recipe on this site (my mom gave me the directions... I'm pretty bad when it comes to \"real\" cooking. lol). It was simple to make and tastes delicious, especially on a hot day like today! This recipe was simple to make, yet awesome!! The only difference I used was I cut up fresh strawberries as opposed to the frozen ones."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TN-Buckeye"
+},
+"reviewBody": "I found a strawberry pie recipe once that instructed me to mix chopped strawberries with cornstarch and boil to create a glaze -- what a horrid mess it made! I ended up dumping it all down the drain. I use Marie's strawberry glaze and use my own real whipped cream as it tastes so much better than Cool Whip. Using small-medium sized berries makes for a better presentation -- turning them pointed side up. This recipe is simple and delicious! It reminds me of the pie served at Bob's Big Boy. Thanks Michelle!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/15838/easy-as-pie-strawberry-pie/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/808/desserts/pies/fruit-pies/",
+"name": "Fruit Pies"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/12954/desserts/pies/fruit-pies/strawberry-pie/",
+"name": "Strawberry Pie Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/15838/easy-as-pie-strawberry-pie/",
+"name": "Easy as Pie Strawberry Pie"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

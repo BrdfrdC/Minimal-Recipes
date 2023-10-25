@@ -1,0 +1,193 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Smoked Chicken Drumsticks"
+,"datePublished": "2020-08-23T21:49:09.000-04:00"
+,"dateModified": "2020-08-23T21:49:09.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "France C"
+,"url": "https://www.allrecipes.com/cook/francecevallos"
+}
+]
+,"description": "These smoked chicken legs are so versatile and easy. Use applewood chips or maple and season with your favorite barbecue rub for delicious legs."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/tBJ_7IEm_BMwzmS_ZlU0mQPpUew=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8475252-2f4e5916de48415ea671156fc4fb181b.jpg",
+"height": 1000,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Smoked Chicken Drumsticks"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "3.4",
+"ratingCount": "5"
+}
+,"cookTime": "PT120M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "165 kcal"
+,"carbohydrateContent": "1 g"
+,"cholesterolContent": "62 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "20 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "1280 mg"
+,"fatContent": "9 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"12 chicken drumsticks",
+"0.25 cup vegetable oil, or as needed",
+"0.33333334326744 cup BBQ rub" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place drumsticks on a rack over a drip tray or baking sheet. Air-dry in the refrigerator, 8 hours to overnight."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat an electric smoker to 275 degrees F (135 degrees C) and add wood chips according to manufacturer&#39;s instructions."
+} ,{
+"@type": "HowToStep"
+,"text": "Brush drumsticks lightly with vegetable oil. Place drumsticks in a resealable plastic bag and sprinkle with the rub. Toss to coat evenly."
+} ,{
+"@type": "HowToStep"
+,"text": "Place drumsticks on the rack in the smoker. Smoke until chicken has reached an internal temperature of 165 degrees F (74 degrees C), about 2 hours."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT610M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "whoshungry"
+},
+"reviewBody": "These were a hit with my guests. I smoked the full 2 hours to get more smoke flavor, as suggested by recipe creator. I then brushed a thin layer of bbq sauce and threw them on the grill to get a bit of char. Cheap to make for a crowd too. next time i will try the rub suggested in the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Rog"
+},
+"reviewBody": "Misleading cooking time. Mine took maybe 50 minutes tops. \n\nThe rub I used was spicy and heavy on the chili powder [not fault of recipe creator]"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "KatieW9908"
+},
+"reviewBody": "Followed the recipe exactly, using an electric smoker and a temp monitor (so my process was fairly precise). These were done in about 35 minutes, so I have no idea why the recipe says it should take 2 hours. I had hoped this technique would give me the crispy skin, but unfortunately it was still tough. However, the meat was smoky, moist and delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "France C"
+},
+"reviewBody": "I am the recipe creator and just a note on cook time. Yes, the legs will very well be done before the 2 hour mark, however, the point of leaving them in longer is to get a good amount of smoke flavor on them. In addition, the use of chicken drumsticks ensures the meat won't dry out and can therefore accept a longer smoke time. If you prefer yours with a light smoke flavor, feel free to take them out when they reach 165F. Enjoy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Chuck Batherson"
+},
+"reviewBody": "The rub I used was a bit hotter than expected. The drumsticks cooked quicker than suggested. Still easy to do and tasted pretty good. I can adjust those thing for the next time."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/281393/smoked-chicken-drumsticks/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/201/meat-and-poultry/chicken/",
+"name": "Chicken"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/660/meat-and-poultry/chicken/chicken-legs/",
+"name": "Chicken Leg Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/281393/smoked-chicken-drumsticks/",
+"name": "Smoked Chicken Drumsticks"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

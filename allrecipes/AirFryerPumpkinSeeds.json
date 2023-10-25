@@ -1,0 +1,171 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Air Fryer Pumpkin Seeds"
+,"datePublished": "2019-01-11T04:07:34.000-05:00"
+,"dateModified": "2023-02-18T07:33:14.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Bren"
+,"url": "https://www.allrecipes.com/cook/9292325"
+}
+]
+,"description": "These air fryer pumpkin seeds are wonderfully crunchy. Tossed in avocado oil with salt and smoked paprika, they&#39;re a tasty snack to have on hand."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/V1DhSPJ9IS_HBFRX7r8tblMn0XQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6298332-air-fryer-pumpkin-seeds-Yoly-4x3-1-fb59be9f265849a9994507ea37aa1682.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Air Fryer Pumpkin Seeds"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4",
+"ratingCount": "3"
+}
+,"cookTime": "PT35M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "234 kcal"
+,"carbohydrateContent": "7 g"
+,"fiberContent": "2 g"
+,"proteinContent": "10 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "395 mg"
+,"sugarContent": "0 g"
+,"fatContent": "20 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1.75 cups pumpkin seeds",
+"2 teaspoons avocado oil",
+"1 teaspoon smoked paprika",
+"1 teaspoon salt" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place pumpkin seeds in a colander and rinse well."
+} ,{
+"@type": "HowToStep"
+,"text": "Cover a plate with two paper towels. Spread pumpkin seeds over top and cover with two more paper towels. Gently press to remove most of the water. Let sit until thoroughly dried, at least 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat an air fryer to 350 degrees F (180 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer dried seeds to a medium bowl. Add avocado oil, paprika, and salt and mix until seeds are well coated. Transfer to the air fryer basket."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook in the preheated air fryer for 35 minutes, shaking the basket frequently. Watch carefully during the last 5 minutes; the pumpkin seeds can go from perfectly cooked to burned very quickly."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT60M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "87apples"
+},
+"reviewBody": "These are so good. I used garlic powder and a very small amount of cayenne and cut the salt by about half. They were done and very crispy at 15 minutes, next time I might shorten the time a minute or two. I can't imagine what would have happened if I had left them in for 35 minutes! Thanks for an excellent, super-quick recipe for pumpkin seeds!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Buckwheat Queen"
+},
+"reviewBody": "This is a great way to cook pumpkin seeds. I doubt I’ll ever cook them in the oven again. They cook evenly with just a shake or two. However, the temperature here was a bit high for my air fryer. But turning it down a few degrees helped cook without burning. Thank you for the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Yoly"
+},
+"reviewBody": "I skipped step 1 &amp; 2 , I don't think it was necessary. I did find the pumpkin seeds a bit on the salty side. Next time I will cut the salt back to 1/2 tsp. I had to line my air fryer basket with parchment paper to prevent the seeds from falling out. Other than that, it was quick and easy."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/269968/air-fryer-pumpkin-seeds/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/114/appetizers-and-snacks/nuts-and-seeds/",
+"name": "Nuts and Seeds"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/969/appetizers-and-snacks/nuts-and-seeds/pumpkin-seeds/",
+"name": "Pumpkin Seed Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/269968/air-fryer-pumpkin-seeds/",
+"name": "Air Fryer Pumpkin Seeds"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

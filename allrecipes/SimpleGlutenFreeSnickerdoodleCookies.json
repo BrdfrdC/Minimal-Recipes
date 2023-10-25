@@ -1,0 +1,436 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Simple Gluten-Free Snickerdoodle Cookies"
+,"datePublished": "2020-06-19T00:26:58.000-04:00"
+,"dateModified": "2021-11-30T18:07:44.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Fioa"
+,"url": "https://www.allrecipes.com/cook/fiorellasrecipes"
+}
+]
+,"description": "These perfectly baked gluten-free snickerdoodle cookies are soft on the inside and crisply coated with that sweet cinnamon-sugar mixture."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/CBghFtm4gLqk8P13nIkUcqJTKms=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9426863-55928b86011f42d990b7eb1c244b8f85.jpg",
+"height": 1000,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Simple Gluten-Free Snickerdoodle Cookies"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.4",
+"ratingCount": "24"
+}
+,"cookTime": "PT12M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "95 kcal"
+,"carbohydrateContent": "14 g"
+,"cholesterolContent": "18 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "1 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "88 mg"
+,"sugarContent": "9 g"
+,"fatContent": "4 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1.3333333730698 cups gluten-free all-purpose flour",
+"1 teaspoon baking powder",
+"0.25 teaspoon salt",
+"0.25 teaspoon baking soda",
+"0.5 cup butter at room temperature",
+"1 cup sugar, divided",
+"1 egg",
+"1.5 teaspoons ground cinnamon" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (180 degrees C). Line 2 baking sheets with parchment paper."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine flour, baking powder, salt, and baking soda in a bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk butter and 3/4 cup sugar with an electric mixer in a separate bowl until soft and creamy, about 2 minutes. Add egg; whisk until well combined. Add flour mixture gradually; whisk on low speed until a soft dough is formed, about 2 minutes. Shape dough into 1 1/2-inch balls."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine remaining 1/4 cup sugar with cinnamon in a bowl. Roll balls in cinnamon mixture and place on the prepared baking sheets."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until edges are golden, 12 to 15 minutes. Cool on the baking sheet for 1 minute before removing to a wire rack to cool completely."
+} ]
+,"recipeYield": ["24"]
+,"totalTime": "PT30M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "georgesherry373"
+},
+"reviewBody": "I made this recipe for our coffee shop. It was inedible. Had to throw them out as I wouldn't serve them to our customers."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Des"
+},
+"reviewBody": "Really good! I added a tsp of vanilla and baked for 14 mins (also, I’m in “high altitude” and this seemed to work great)!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "LOVED these!!! They were super light and fluffy and SO GOOD! Will definently make this recipe again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Ruth Mc"
+},
+"reviewBody": "Dough remained in a ball and was so dry it was inedible. It crumbled to pieces when I bit into it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Angela Sackett Superhotmama"
+},
+"reviewBody": "Simple and sweet (pun intended!). These are fast and easy to make and just the right amount of crispy/chewy. One note: the did not make as many cookies for us as the recipe indicated."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Karla Harmer"
+},
+"reviewBody": "I would have never guessed that these were gluten-free. Will make them again. The cinnamon and nutmeg enhanced the flavor!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Edible Times"
+},
+"reviewBody": "As other reviewers mentioned, this recipe doesn't call for cream of tartar which is the signature ingredient of true snickerdoodles. That aside, my family found the cookies to be bland in flavor. \n\nI also found the recipe and instructions very lacking, i.e. what size egg is missing, whether or not to use xanthan gum (I did or the cookies would've spread if it's not in your particular gluten-free flour blend), and it's also missing the technique of first chilling the dough balls before baking which also prevents severe spread during baking. The amount of leavening is also more than necessary for a cookie recipe with such a small amount of flour. \n\nBe aware this would only make 24 cookies if you shape tiny dough balls. As stated with 1.5\" balls of dough you get about a dozen. I'd also recommend baking for much less time, especially with smaller cookies. 12-15 minutes is way too long for smaller cookies and will result in rocks once they cool."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Danielle Stadelman RDN"
+},
+"reviewBody": "Making this for the first time and it was very crispy. even the sugar cracking was so tasty. Highly recommend!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "stormybeach"
+},
+"reviewBody": "I followed the recommendation of another reviewer and added 1 tsp of vanilla to the recipe. They were delicious and we are already planning on making them again. The cookies had a really good flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Orsi"
+},
+"reviewBody": "This was my first time baking gluten free cookies. Great recipe. I rolled them in cinnamon/sugar twice"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sanzoe"
+},
+"reviewBody": "These got 2 thumbs up from our gluten free friends. They aren't a true snickerdoodle since they are missing cream of tartar which gives that classic cookie its tang. For a cinnamon sugar cookie these were really good! The longer the dough rests the more fluffy the cookies are."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nita"
+},
+"reviewBody": "Delicious cookies. This is the second year making them. This year we used buckwheat flour instead of gluten free. Turned out just as yummy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anne Bonnie"
+},
+"reviewBody": "Oh these are fantastic. I made *one* change. Splashed a little vanilla in the dough. Otherwise made exactly as written. No grainy, no dry, no issue at all. Slightly crunchy and yet soft inside, perfect chew. These are the best cookies yet."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Irmz Bakes"
+},
+"reviewBody": "I loved this recipe. I made this as a sugar-free recipe. The simplicity of the recipe and the 30 min total time frame was magnificent!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Pamela"
+},
+"reviewBody": "I would add cream of tartar because these don't taste like snickerdoodles. They taste like sugar cookies. They are good, just not like snickerdoodles should taste. I think I would also add more cinnamon. I can't even taste it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Heidi Cooper"
+},
+"reviewBody": "These are the best snickerdoodle cookies I’ve ever had"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gifted2heal"
+},
+"reviewBody": "Perfect! Nice crunch in the outside and soft inside. I put the full cup of sugar in the batter and butter was melted. Rolled the batter in cinnamon only. “Mom these are the best cookies ever.” We will be making these a lot. Thank you for the goodness."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ronda Christensen"
+},
+"reviewBody": "Can't tell they're gluten-free, absolutely scrumptious! I'd potentially double the recipe and make the cookies slightly larger. Slightly dry, but I love them. Would recommend!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chris"
+},
+"reviewBody": "Thank you ! Will definitely make again ! Did find that in my oven 10 min was sufficient time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Erin Herbert Rivard"
+},
+"reviewBody": "The kids loved them. Switching to GF has been hard, but yummy treats like this make life so much sweeter!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hailey Pister"
+},
+"reviewBody": "yum yum yum!! This is my first time making cookies since I was told to not eat gluten, and I didn't miss the gluten! They are crumbly but that is to be expected. Would make these again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa"
+},
+"reviewBody": "First time making this recipe and used ghee instead of regular butter. Very tasty with a crisp outside and soft middle. Just slightly grainy in texture, but it is gluten-free. Would definitely make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nicole Webb"
+},
+"reviewBody": "10 out of ten would recommend."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/262556/simple-gluten-free-snickerdoodle-cookies/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/362/desserts/cookies/",
+"name": "Cookies"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16420/desserts/cookies/snickerdoodles/",
+"name": "Snickerdoodle Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/262556/simple-gluten-free-snickerdoodle-cookies/",
+"name": "Simple Gluten-Free Snickerdoodle Cookies"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

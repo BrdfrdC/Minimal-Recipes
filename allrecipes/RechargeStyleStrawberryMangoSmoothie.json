@@ -1,0 +1,127 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Recharge-Style Strawberry Mango Smoothie"
+,"datePublished": "2023-02-14T15:17:08.000-05:00"
+,"dateModified": "2023-03-06T18:00:30.113-05:00"
+,"description": "If you&#39;re in need of a vitamin boost- this recharge cafe copy cat smoothie with strawberry and mango will hit the spot!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/tsDABXb7r1DUY5UJOrgYcz2lZyE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Recharge-StyleStrawberryMangoSmoothieTammyLynn4x3-fdca8bb911f8431ca6fee263329d3c41.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Recharge-Style Strawberry Mango Smoothie"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "1"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "254 kcal"
+,"carbohydrateContent": "64 g"
+,"fiberContent": "8 g"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "0 g"
+,"sodiumContent": "96 mg"
+,"fatContent": "1 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 banana - peeled, sliced, and frozen",
+"0.5 cup frozen mango cubes",
+"0.5 cup frozen sliced strawberries",
+"0.33 cup orange pineapple apple juice blend (such as Welch’s®)",
+"0.33 cup unsweetened coconut water",
+"strawberry for garnish" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Add banana, mango, strawberries, juice, and coconut water to a blender. Blend until smooth, stopping to scrape sides as needed. Pour into a glass; garnish with fresh strawberry."
+} ]
+,"recipeYield": ["1"]
+,"totalTime": "PT10M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tammy Lynn"
+},
+"reviewBody": "This was the perfect consistency smoothie for me. It also made just the right amount for one serving. The main flavors I tasted were banana and strawberry, and I used a small banana. You dont taste anything from the coconut water. I really like this. It's icy and no added sweetener."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8536123/recharge-style-strawberry-mango-smoothie/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/77/drinks/",
+"name": "Drinks Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/138/drinks/smoothies/",
+"name": "Smoothie Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8536123/recharge-style-strawberry-mango-smoothie/",
+"name": "Recharge-Style Strawberry Mango Smoothie"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,205 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Cheesy Grits"
+,"datePublished": "2019-11-16T00:40:34.000-05:00"
+,"dateModified": "2019-11-16T00:40:34.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "elljoymit"
+,"url": "https://www.allrecipes.com/cook/2770420"
+}
+]
+,"description": "Serve up these easy, cheesy grits as quick and side dish for any meal--you&#39;ll love the combination of Cheddar and Parmesan cheese in each bite."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/aUPWBfNCtUIH7UNTmROs8fyTtIc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7430091-6d66a35b1792408bb2f9f5b60fdc511c.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Cheesy Grits"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "6"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "353 kcal"
+,"carbohydrateContent": "32 g"
+,"cholesterolContent": "54 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "14 g"
+,"saturatedFatContent": "11 g"
+,"sodiumContent": "958 mg"
+,"sugarContent": "1 g"
+,"fatContent": "19 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"4 cups water",
+"1 teaspoon salt",
+"1 cup uncooked quick-cooking grits",
+"1 cup shredded Cheddar cheese",
+"0.5 cup shredded Parmesan cheese",
+"2 tablespoons butter",
+"ground black pepper to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Bring water and salt to a boil in a saucepan. Whisk in grits, reduce heat to medium-low, and cook until thickened, 5 to 6 minutes. Remove from heat."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir in Cheddar cheese, Parmesan cheese, and butter until fully combined and cheeses have melted. Season with pepper and serve immediately."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT15M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jonesstines"
+},
+"reviewBody": "Prepared as described…wouldn’t change a thing. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tom Bowlin"
+},
+"reviewBody": "Fantastic!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SColson782"
+},
+"reviewBody": "Excellent recipe! Left off the Parmesan cheese - the Cheddar was enough for me!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Bryant Hayward"
+},
+"reviewBody": "Used some \"Taco Bell Salsa Verde\" shredded cheese that we had, in place of cheddar, and it was just meh. Plain cheddar is much better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "carlaconduff"
+},
+"reviewBody": "This was quick and very good!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "thedailygourmet"
+},
+"reviewBody": "No changes, except to make this in my instant pot. As simple as pouring the water in the pot, adding the grits, sealing and locking the lid into place, hitting porridge and cooking for 5 minutes. Quick release, add remaining ingredients and stir. Easy easy easy!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/277285/cheesy-grits/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/223/side-dish/grains/",
+"name": "Grain Side Dish Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/15899/side-dish/grains/grits/",
+"name": "Grits"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/277285/cheesy-grits/",
+"name": "Cheesy Grits"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

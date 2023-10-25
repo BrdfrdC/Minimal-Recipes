@@ -1,0 +1,361 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Spicy Beef Bulgogi"
+,"datePublished": "2020-06-19T00:06:09.000-04:00"
+,"dateModified": "2022-01-04T08:13:00.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Joel Sticha"
+,"url": "https://www.allrecipes.com/cook/10859476"
+}
+]
+,"description": "Flank steak is marinated in a fiery soy sauce and sesame marinade then grilled until slightly charred in this spicy take on Beef Bulgogi."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Ls7h2SP_AaGJ6Q2oqRHqY88OH9I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3391030-9afa30b21cd34f3db1c03c14b688db6e.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Spicy Beef Bulgogi"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "19"
+}
+,"cookTime": "PT2M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "248 kcal"
+,"carbohydrateContent": "15 g"
+,"cholesterolContent": "25 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "16 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "1792 mg"
+,"sugarContent": "8 g"
+,"fatContent": "14 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 pound flank steak, thinly sliced",
+"5 tablespoons soy sauce",
+"0.25 cup sriracha sauce",
+"0.25 cup chopped green onion",
+"2.5 tablespoons white sugar",
+"2 tablespoons whole dried cayenne peppers",
+"2 tablespoons minced garlic",
+"2 tablespoons sesame seeds",
+"2 tablespoons sesame oil",
+"1 teaspoon ground cayenne pepper, or to taste",
+"0.5 teaspoon ground black pepper" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place flank steak slices in a shallow dish."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix soy sauce, sriracha sauce, green onion, sugar, whole dried peppers, garlic, sesame seeds, sesame oil, ground cayenne, and black pepper together in a bowl. Pour over steak. Cover with plastic wrap and refrigerate to marinate, at least 1 hour but preferably overnight."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat an outdoor grill for high heat, and lightly oil the grate."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove steak slices from marinade and grill on preheated grill until slightly charred and cooked through, 1 to 2 minutes per side."
+} ,{
+"@type": "HowToStep"
+,"text": "Simmer marinade in a wok or skillet over medium heat until thick and the consistency of gravy; pour over grilled steak."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT77M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CMenning"
+},
+"reviewBody": "My husband was stationed in S. Korea for about 13 months. While he said this recipe isn't 100% authentic, it's still delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "willpharmd"
+},
+"reviewBody": "Delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Naomii Large"
+},
+"reviewBody": "Sooooooooo tasty! I didn’t have cayenne peppers so I just used extra cayenne power and it was so spicy and so yummy! (Our family loves spice)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cook4myLoves"
+},
+"reviewBody": "If I could give this more than five stars, I would. You know how you have a dish in a restaurant, and even if you go back it still doesn't taste as good as it did the first time? This is that good. But you can recreate it. Highly suggest marinating overnight. And, oh yeah- price performer!! Yes, you might need to invest in a few things for the marinade, but I doubled the recipe, and we fed a hungry family of four with at least three lunches. Two pounds of beef, $9. Cooked with basmati rice and a steamed veggie, like snow peas or broccoli. Great flavor, heat and sweet. Excellent."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chef Jeff"
+},
+"reviewBody": "Great dish and so easy to make. Made a minor substitute to turn up the heat... replacing the dry cayenne with a minced red hot pepper. (Still added the cayenne powder though). Marinated for about 6 hours and cooked the meat and marinade in a Wok vs on the grill (about 3 min per batch.. turning half way through). Served over white rice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "annaellieee"
+},
+"reviewBody": "used this recipe as a jumping off point and made the spiciest and most delicious beef I've ever had! I used Gochujang instead of siracha and added more of basically every spice, as well as a couple shakes of tabasco. I marinated my beef for 16 hours and pan seared it because I don't have a barbeque, then put it over rice. it was delicious! thanks for a great recipe :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DebiAZ"
+},
+"reviewBody": "Great recipe, awesome flavor. But, how do you add 2 Tbsp of whole cayenne pepper? I just threw in two dried Hatch Chile Peppers (amazing)...just asking, making again this weekend."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sara Sadler"
+},
+"reviewBody": "We love this recipe. Never been to Korea so I dont know how it compares to Korean bulgogi, but it is super spicy. Sweet, with an amazing taste. We make it once a week when we can. No changes to the recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Julie B Kaufman"
+},
+"reviewBody": "I made it just as it says! Perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "helen baillie"
+},
+"reviewBody": "it was hot lol it was delicous but the heat was a little too much"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mad Bill"
+},
+"reviewBody": "Absolutely delicious! I'll make it again and again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dana Martinez"
+},
+"reviewBody": "Delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ada"
+},
+"reviewBody": "Loved it! The whole family ate up! I thought it would be too spicy but it had a little heat but not too much. I didn't change a whole lot. I did it on the stove instead of the grill. I didn't have sesame seeds or whole dried cayenne peppers so just skipped them. Even the picky eater ate three portions. The best part is that it is super easy to throw together - you just have to remember to marinate in advance. I made up the rice and made a bed of rice and put this over it. Really lovely - thanks for sharing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nancy"
+},
+"reviewBody": "Delicious!!!!! Second time I've made it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Nettie"
+},
+"reviewBody": "I may try it again. Flavor was good but I would have liked it moister or more sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Noel Page"
+},
+"reviewBody": "Used honey to cut done on the on spicey hotness"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Soup Loving Nicole"
+},
+"reviewBody": "5 star all the way! I've always loved Bulgogi and then you go and add spicy to it? Yes please! This recipe rocked. In the footnotes the recipe creator mentions reducing the spiciness by eliminating the cayenne pepper, the chile, and then some of the Sriracha if necessary. We both like heat but cayenne is not our favorite way of achieving it so here is what I did. I eliminated both the cayenne pepper and chile but then upped the Sriracha from 1/4 cup to 1/3 cup and this was perfect for us. One thing the recipe did not mention and that is that you need to slice your beef against the grain . That is very important with this cut of meat in keeping it tender. This is a great recipe and one I will make often!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/246592/spicy-beef-bulgogi/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/86/world-cuisine/",
+"name": "Cuisine"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/227/world-cuisine/asian/",
+"name": "Asian"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/246592/spicy-beef-bulgogi/",
+"name": "Spicy Beef Bulgogi"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

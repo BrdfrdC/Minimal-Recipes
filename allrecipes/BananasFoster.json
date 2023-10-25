@@ -1,0 +1,1429 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Bananas Foster"
+,"datePublished": "2020-03-04T23:56:16.000-05:00"
+,"dateModified": "2023-02-06T11:56:01.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "BUTTERMEBREAD"
+,"url": "https://www.allrecipes.com/cook/241618"
+}
+]
+,"description": "Elegant bananas foster made with bananas cooked in a bubbling mixture of brown sugar, butter, rum, walnuts, and cinnamon, served over ice cream."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/TEWm8mn7zGVC_RFzme9bEntRbf0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1099911-075863dd3fa3418bb6d7fb5ed92cc9e3.jpg",
+"height": 960,
+"width": 960
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=2255625262001",
+"description": "An easy, elegant dessert with sautéed bananas, ice cream, and rum sauce.",
+"duration": "PT2M30S",
+"name": "Bananas Foster II",
+"thumbnailUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/7069cb3b-971f-442b-817b-91fa813fca59/dd5a3f4a-9bad-4076-bd44-1dd88a49a4bc/1280x720/match/image.jpg",
+"uploadDate": "2021-07-02T12:39:31.179-04:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Bananas Foster"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "1115"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "534 kcal"
+,"carbohydrateContent": "73 g"
+,"cholesterolContent": "60 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "5 g"
+,"saturatedFatContent": "12 g"
+,"sodiumContent": "146 mg"
+,"sugarContent": "61 g"
+,"fatContent": "24 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"0.25 cup butter",
+"0.66666668653488 cup dark brown sugar",
+"3.5 tablespoons rum",
+"1.5 teaspoons vanilla extract",
+"0.5 teaspoon ground cinnamon",
+"3 bananas, peeled and sliced lengthwise and crosswise",
+"0.25 cup coarsely chopped walnuts",
+"1 pint vanilla ice cream" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Melt butter in a large, deep skillet over medium heat. Stir in brown sugar, rum, vanilla, and cinnamon; bring to a low boil."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/TEWm8mn7zGVC_RFzme9bEntRbf0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1099911-075863dd3fa3418bb6d7fb5ed92cc9e3.jpg"
+}
+]
+,"text": "Place bananas and walnuts in the pan. Cook until bananas have softened, 1 to 2 minutes. Serve at once over vanilla ice cream."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT20M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I’m this is my go to brunch recipe and it’s delicious. I can’t believe it took so long to rate it but I’ve been using it for ages. I usually just omit the walnuts because I don’t like them. I made the last round with vanilla infused bourbon and it was amazing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I had no rum so I used Cointreau. Awesome flavor! I also flambéed it for fx."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Great recipe. Only change I made was Candied pecans instead of walnuts try it it’s phenomenal"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This was absolutely phenomenal! I did use vodka instead of rum (because that's all I had) but it was still one of the best desserts I've ever had. Thanks for sharing this!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Made it and it was delicious. Everyone devoured it. I couldn’t get the flambé to work. Assuming I burned off the alcohol to fast."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JoAnna Pigford Guelker"
+},
+"reviewBody": "The only alteration I made to this recipe was I used brandy instead of dark rum because that was what I had on hand and it was delicious! Will definitely make again after I go buy some dark rum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I left the run out. It was really good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "chefsteve421"
+},
+"reviewBody": "I made this for years in the restaurant, this is the same recipe we used. With the exception, we served it over pound cake and ice cream."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Karen R"
+},
+"reviewBody": "Made for my son's birthday today. add banana and strawberries plus less rum so I could add strawberry and banana extract."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "JMac"
+},
+"reviewBody": "It was good. I liked the addition of the walnuts. I will still look for another recipe for this because I have had better in the past."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Desiree"
+},
+"reviewBody": "Delish, easy and everyone loved it! Will definitely make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allie"
+},
+"reviewBody": "Delicious!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ladyfox8501"
+},
+"reviewBody": "Quick and easy. Delicious! We ate it before we realized pictures would be nice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marguerite Downer"
+},
+"reviewBody": "This was so easy and simple to make! Tasted fablouus!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Tish Baldez"
+},
+"reviewBody": "Very good, but it was very sweet. I made it to put on waffles. I did not have rum so I used about 1.5 tsp rum flavoring. Worked well for me!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bradley Miller"
+},
+"reviewBody": "Just right! Delicious and simple. Making sure the sugar is completely dissolved is very important for a great bananas foster."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nori Lee"
+},
+"reviewBody": "So good! No rum in the house so I used brandy and it was still delicious. I toasted the walnuts too before I added them to the pan"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Dina Klomp"
+},
+"reviewBody": "Very tasty agree with other reviewers just warm the bananas in the sauce. I would have preferred if the sauce was a bit thicker, but soooooo yummy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CoraJeske"
+},
+"reviewBody": "I love this on top of toasted banana bread slices. I make mini loaves, take 2 slices and butter both sides, toast in a frying pan like you would a grilled cheese. Top with ice cream then the sauce. So, so good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Janet"
+},
+"reviewBody": "Easy and delicious. I had to sub a little maple syrup since I didn't have enough brown sugar, and subbed cognac for not having rum. Oh, and subbed chopped roasted almonds for the walnuts, and used whipped cream on top! How decadent!!! Takes all of about 10 min to make, start to finish. Yummmmm."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tom Polak"
+},
+"reviewBody": "Tasty dessert, I added the juice of one 1 1 n orange and 1oz. of Triple Sec for a tangier note. I really liked it with the walnuts, a nice crunch."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "downeynicole33"
+},
+"reviewBody": "I made this super quick, easy recipe for our pancakes this morning. It was amazing! I altered nothing but the quantity for the servings and it came out perfect. Though, I am not very familiar with precisely how Bananas Fosters ‘should’ taste, so I may not be the best reference. :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kristin"
+},
+"reviewBody": "Omg so delicious and so quick and easy to make. I used pecans instead of walnuts, light rum and light brown sugar only because thats what I had on hand. Family raved about it. Will definitely make again and again and again. Thanks for a great recipe ??"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Nicholas"
+},
+"reviewBody": "Came out really nice, used light brown sugar, Papa Pilar Rum and pistachio ice cream. Ice cream melts fast so be ready to eat."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tinalouise"
+},
+"reviewBody": "Great recipe, we had some extra bananas and wanted to do something different. Love bananas foster so this is it! We enjoyed it. Only thing about the recipe we did differently was the addition of an extra banana. Thanks, easy and delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Chastity Cooper"
+},
+"reviewBody": "Rich and Delicious! Can't forget the rum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tim Granahan"
+},
+"reviewBody": "Use 100 proof rum and make sure you light it, it brings the flavors together properly"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Krystal"
+},
+"reviewBody": "This is good but way too sweet for my taste. I am use to cooking bananas down with 1/8-1/4c sugar, constantly stirring, until the bananas caramelize (it takes a VERY long time) then I pour rum over it and light it on fire. I was excited to see a much shorter version of the recipe. I will likely make this again but with a fraction of the sugar because I genuinely appreciate the saved time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Eman"
+},
+"reviewBody": "This dish is the perfect way to deal with an overripe banana or two or three, and you get to practice spitballing measurements of the other ingredients. Follow this recipe verbatim or not — it’s hard to mess up bananas foster."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Oldair"
+},
+"reviewBody": "Fantastic recipe and so easy to make, if I close my eyes I am almost at Brennan’s!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lynne"
+},
+"reviewBody": "I'm a huge fan of ridiculously easy and yet impressive desserts, and this is pretty high on the list. I cooked it a little longer to burn off the alcohol since I wasn't going to set it on fire-- maybe 5 mins, just until it didn't taste so rummy. Then I sliced the bananas up on a diagonal and just warmed them like another reviewer mentioned. The second time I made this, I added a tablespoon or so of butter and it was even better. This is so impressive just to whip up in 5 minutes!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ann Szyndler-Martin"
+},
+"reviewBody": "This is good recipe, but I make a couple of changes and make it Great. Whenever I make this recipe I always double the recipe. To make it better I add a shot of banana liquor and I cut up 3 bananas into slices from end to end. Let it simmer in the mixture for a few min then scoop it out and put it over ice cream."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Renee Goldsmith"
+},
+"reviewBody": "Great recipe! It turned out delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "teddykpitts"
+},
+"reviewBody": "Incredible. I made it as a morning topping for French toast."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "AliKat75"
+},
+"reviewBody": "Added Nutmeg and more cinnamon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Myra"
+},
+"reviewBody": "Actually used apple slices and we put it over vanilla ice cream! So yummy. Of course if your using apples you need to sauté the slices until soft, set aside then continue with the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Catch610"
+},
+"reviewBody": "This was delicious!!! Having it again for Mother’s Day."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jer99"
+},
+"reviewBody": "Easy and wonderful....."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bricco54914"
+},
+"reviewBody": "Delicious and easy. We used pecans as we had no walnuts. I want to eat it all up!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TLATEEF"
+},
+"reviewBody": "Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Elizabeth Wohler Stowe"
+},
+"reviewBody": "This was amazing! I put it over pancakes and it was to die for."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Smitty City"
+},
+"reviewBody": "We needed rum in our liquor cabinet. But next time, let's try to avoid that $40 expense."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "baseballmom3"
+},
+"reviewBody": "Use coconut rum. You will be happy you did. It’s incredible. Great recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Colette Castro"
+},
+"reviewBody": "Only had two bananas, and coconut rum. Served over homemade waffles and vanilla ice cream. Yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "alk02g"
+},
+"reviewBody": "omitted walnuts. Probably could've used a fourth banana for the amount of sauce. Way more than four people could eat though, probably would serve six. I waited to add bananas until sauce had been bubbling several minutes so that the flavors could marry together better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Molly Gray"
+},
+"reviewBody": "This was so easy and delicious. I’ll make this again and again. Everyone loved it. I didn’t change a thing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary Frederick"
+},
+"reviewBody": "Excellent, I substituted the dark brown sugar with light brown sugar. I will use this recipe again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bryan Huffman"
+},
+"reviewBody": "I’ve wanted to make this for such a long......this was soo good and wish I would have made it sooner!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cindy Beukema"
+},
+"reviewBody": "I did not have rum and it still was delicious! So easy to make!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ian Grieve"
+},
+"reviewBody": "I used this recipe with light brown sugar (because I didn't have any dark) and Kraken Black Rum instead of dark rum. The flavor was very deep and rich, like molasses without all the metallic notes. It melded beautifully with vanilla ice cream. As a matter of personal preference, I would leave out walnuts next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Darci Darci"
+},
+"reviewBody": "Add 1 tsp salt"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer Medina"
+},
+"reviewBody": "Husband approved! He is not big on desserts so this speaks volumes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Johnny McDonald"
+},
+"reviewBody": "My family doesn’t drink and so I made it for them with rum Extract and it turned out great to everyone involved!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "DocZ"
+},
+"reviewBody": "The recipe was delicious, but I would like it a little thicker. Next time I will try Adding a-little flour ."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DUPREEC"
+},
+"reviewBody": "I also used a vanna rum cream. Also I used non- dairy vanilla ice cream and vanilla wafers. It was fabulous!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SKaaya"
+},
+"reviewBody": "I used the Bananas Foster on my Baked Pancake...Awesome!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah M"
+},
+"reviewBody": "Followed the instructions exactly...perfection!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gigi"
+},
+"reviewBody": "Wow! Delicious and easy to make! None of the ingredients were overpowering-just the right blend. My bananas were a little too ripe to begin with so next time I’ll use perfect-to-eat bananas. If the sauce appears too thick before adding the bananas don’t worry as the liquid in the bananas makes it the correct consistency."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stephen McQuaid"
+},
+"reviewBody": "Awesome!!! I used 151 Proof Rum. That is all I had. I had to be really careful as it is highly flammable. This recipe is as good as you would get in any restaurant."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hig"
+},
+"reviewBody": "Absolutely delicious! The flavor SMELL......is AWESOME!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "hubkap28"
+},
+"reviewBody": "This was soooooo good!! I didn't have rum but I had bourbon maple syrup on hand and used that instead. otherwise I made the recipe as it was written. It was fantastic!! Just warmed the bananas like people suggested and they were just right!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ThrowDownInTheKitchen"
+},
+"reviewBody": "Ooooooooh my goodness! BETTER than Perry’s Steakhouse! I used light brown sugar ( I don’t know if you’re supposed to, but I packed it) instead of dark brown. I used 4 Tbs. of rum, which I added last and didn’t cook too long. DELICIOUS!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Samantha Lane"
+},
+"reviewBody": "Delicious &amp; Super easy. Growing up this recipe always intimidated me but this is incredibly simple to make and a crowd pleaser, for sure!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Deborah Korbel"
+},
+"reviewBody": "OMG this is to die for! Make it flaming to impress your guests. 1st tell them to get their cameras ready; stand back just a bit, you don't want to burn your long hair or the sleeve of your favorite blouse. The last ingredient to add is the rum and a little banana liquor is great too. Increase the rum to 1/4 to 1/3 cup and tilt your pan enough to catch the flame. Wola, you have flambe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "wors01"
+},
+"reviewBody": "Perfect! No frills, exactly how it should be!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Perfect! No frills, exactly how it should be!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tresa"
+},
+"reviewBody": "go a little lighter on Rum and do not put bananas in too long"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Vicky C."
+},
+"reviewBody": "I made this for 11 people last night tripling the recipe. I had pre-measured everything so that when it came time to make it the wait wasn't so long. My sister cut the bananas while I got the sauce going. IT WAS SO GOOD!! Everyone was quiet while eating it and then raved about it! I am going to make this any chance I get."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "FaerieChef"
+},
+"reviewBody": "The only changes I made were using 4tbs rum instead of 3 1/2 (it was the very end of the bottle and who saves 1/2 tbsp of rum, anyway?? Lol), 2 bananas instead of 3 (all I had on hand, but it was a dessert for only two so that didn't matter), and pecans instead of walnuts (because I prefer them). It came out lovely, buttery and decadent and I saved the leftover sauce to have in a day or two. I'll take pictures next time. I forget to prepare to do that before the food is ready. I'll definitely make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hangry"
+},
+"reviewBody": "Very satisfying dessert. Recipe was a big hit here."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Emily Rose LeShea Lantry"
+},
+"reviewBody": "Used real irish butter and it was delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MomX4"
+},
+"reviewBody": "I substituted pecans for the walnuts and kept everything else the same. Nice quick desert for a large group!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MiMi’s Kitchen"
+},
+"reviewBody": "This was perfect...long family tradition. We did use 1/4 c. Banana Liqeaur with it, like our Mom did."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle Embrey Hembree"
+},
+"reviewBody": "I have made this for years. It is so delicious! The only thing I do differently is substitute brandy for the rum. It’s a favorite at my house. I usually make a double batch and it will all be gone that night or the next day. Yum!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Karin"
+},
+"reviewBody": "no changes\nI will make it again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kylie"
+},
+"reviewBody": "delicious and pretty easy! substituted apple juice as the rum but it’s fantasic"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Al Cohol"
+},
+"reviewBody": "I made this for my girlfriend last night and she absolutely loved it! I kept the recipe basic and simple (omitted the nuts due to allergies), but it was excellent. Now I'm making it again. A definite crowd pleaser!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "motherbear"
+},
+"reviewBody": "Quick and easy to make and tasty on French Toast for breakfast. I think next time I would ease up on the rum a bit. We only had a dark rum, maybe that was the thing? Still, all and all, pretty yummy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mrs. Z"
+},
+"reviewBody": "I made this the other night for company. It got rave reviews from my guests. So the next night I made it again for my husband and I. Delicious, all I did was cut the recipe in half."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christine Ferguson"
+},
+"reviewBody": "sooooooo good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Bob"
+},
+"reviewBody": "5 star"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "chrisvermillion"
+},
+"reviewBody": "Quick and tasty! Didn’t have bits so substituted peanut butter. Worked out."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Monnika Chapman Morey"
+},
+"reviewBody": "SURPRISINGLY, I was out of rum so I used Irish whiskey. I don't like walnuts, so I used pecans. Tastes amazing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "deb"
+},
+"reviewBody": "It was tasty but way too sweet for us,"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mrange03"
+},
+"reviewBody": "Edits that I made, but you don't have to: I doubled the vanilla, I used light brown sugar, I used 4 ounces of very expensive wheated Kentucky bourbon whiskey, I allowed the mixture to bubble for 6 to 7 minutes instead of just a few (stirring frequently), and I allowed the bananas to remain in the skillet (turning a few times to coat) for 4 to 5 minutes. This was an amazing dish. I highly recommend it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kate Preston"
+},
+"reviewBody": "Delicious and oh so simple. Made as written, except reduced the sugar by about half and didn’t add the nuts. Elegant dessert to make with short notice! Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kbflyer60"
+},
+"reviewBody": "I have used this recipe many times, with great success. I usually leave out the walnuts, just because I don’t have them, but if I have them, I add them. I think it’s a great recipe, and I couldn’t believe how easy it was to make bananas foster! I usually serve it over French toast, but you can put it on anything that suits your fancy. I’ve gotten compliments every time I serve it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Jill Sullivan"
+},
+"reviewBody": "It was good, but I was surprised that nothing tasted like bananas. Other recipes call for banana liquor and this is probably why. The rum sauce is delicious over vanilla ice cream. I also wanted to have a flambé experience so I added the rum at the end and lit the skillet on fire which was cool!! I’d make it again with the banana liquor as other recipes suggest and I’d try dark rum. I just used regular rum because the grocery store didn’t have dark rum."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "homebody"
+},
+"reviewBody": "This was tasty but reminded me more of french toast with bananas than of Bananas Foster. Maybe next time I would not add as much cinnamon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ms Jean"
+},
+"reviewBody": "So delicious and easy to make! Even overly ripe bananas work here. I had one of those and just sliced it regular and scaled the recipe down a bit. In place of the rum I used rum extract (less than if using rum). This time, I also added a few shakes of salt, which I liked. Cooks up in a minute or two, as the recipe states. I just have to have this with vanilla ice cream! It's creamy coolness really complements the banana mixture. Just like something you'd get in a fine restaurant. Thanks for the recipe! UPDATE: If you have sugar issues, I found a recipe from another site that used NO sugar. It was delicious! You sprinkled the slices with cinnamon and it called for using coconut oil in place of the butter. A ripe banana will have it's own sweetness. I wouldn't change the vanilla ice cream, though!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pixie Brittany Blodgett"
+},
+"reviewBody": "I love this recipe it tastes great and is my family's favorite now. also could be used on waffles either taste amazing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathy Burke"
+},
+"reviewBody": "I've made this several times and love it. I don't make any substitutions, although I don't always add the walnuts if I don't have them or am feeding people who don't like them. I do use real rum and don't burn it off, though I've seen that done in restaurants, and it's really beautiful. I'd probably just start a kitchen fire, though. Cooking burns off the alcohol, too. My favorite way to serve this recipe is over french toast for brunch, and it gets rave reviews!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LJ Shaw"
+},
+"reviewBody": "Made this on the weekend with pecans and had to omit the vanilla (because I ran out) but it was so good. Used the remaining little bit on pancakes the next morning and I now have a new favorite pancake topper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nancy Zoll"
+},
+"reviewBody": "Made for friends last night to rave reviews!!!! Such a easy recipe for such a big pay-off. Literally took less than 10 minutes.\nOnly change was I used the sm. bottles of spiced rum from the grocery store that sell for a couple of dollars.\nVery yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Elena"
+},
+"reviewBody": "I served this on Belgian waffles, and it was DIVINE. Just on the tasty edge of too sweet--a little of this goes a long way. I subbed one tablespoon of rum for banana liqueur because another reviewer suggested it and I happened to have some on hand. This is so easy and so tasty, I'm sure to make it again and again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "David Humphrey"
+},
+"reviewBody": "I made this for my wife on her birthday...she's in love with Banana's Foster. This recipe was easier than any I've done before and tastes great! Instead of ice cream, I coupled it with Belgian Waffles and Whip Cream (I made it for brunch)...it was the hit of the morning! Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa"
+},
+"reviewBody": "ad a little milk"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Stephanie Ou"
+},
+"reviewBody": "This recipe for basically banana, walnuts, and vanilla ice cream was excellent. \n\nThe bananas used for the recipe were just ripened. Bought the walnuts chopped. a little on the pricey side, but convenient.\n\nAlso used softened ice cream for presentation purposes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sara Hopkins"
+},
+"reviewBody": "Saw this dish on an infomercial and just had to make it. I came across this recipe and the whole family really enjoyed it. Make sure your bananas are a little firm, otherwise they get a little mushy and mess up your presentation."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/24705/bananas-foster-ii/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17140/desserts/fruit-desserts/",
+"name": "Fruit Desserts"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17527/desserts/fruit-desserts/banana-desserts/",
+"name": "Banana Dessert Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/24705/bananas-foster-ii/",
+"name": "Bananas Foster"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

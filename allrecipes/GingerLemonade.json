@@ -1,0 +1,918 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Ginger Lemonade"
+,"datePublished": "2008-06-30T19:10:59.000-04:00"
+,"dateModified": "2020-06-18T23:02:24.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Jennifer Madigan"
+,"url": "https://www.allrecipes.com/cook/63275"
+}
+]
+,"description": "What a great twist on lemonade. Freeze some of this into ice cubes to use in the drinks, so it won&#39;t be diluted!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/cFSgJlmeruoJJ6GbWWji147aEyg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1012494-6dc0aab515b840cf9154b5ac1e9127fc.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Ginger Lemonade"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "74"
+}
+,"cookTime": "PT5M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "132 kcal"
+,"carbohydrateContent": "36 g"
+,"fiberContent": "1 g"
+,"proteinContent": "0 g"
+,"sodiumContent": "7 mg"
+,"sugarContent": "31 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"3 cups white sugar",
+"4 quarts water",
+"14 slices fresh ginger root",
+"4 cups fresh lemon juice",
+"2 lemons, sliced" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "In an 8-quart saucepan combine sugar, water and ginger root. Heat to boiling, stirring occasionally. Remove from heat."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir in lemon juice. Cool 15 minutes. Remove ginger. Refrigerate lemonade at least 1 hour, or until chilled."
+} ,{
+"@type": "HowToStep"
+,"text": "Serve over ice, and garnish with lemon slices."
+} ]
+,"recipeYield": ["20"]
+,"totalTime": "PT85M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I tried a ginger lemonade while traveling. I looked up recipes as I wanted to recreate that refreshing taste. This recipe did it. Next level lemonade. Very satisfied family."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Super easy. If you like the taste of ginger, double the number of slices!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Karina Babayan"
+},
+"reviewBody": "My family loved it a lot! And asked to make it everyday! Thanks for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tiger “goldenlight” Wooster"
+},
+"reviewBody": "Best lemonade I ever had.. I added Basil to this for more flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Wendy Moore"
+},
+"reviewBody": "No followed the recipe, made it for family and friends. And they love it. I am making it right now for someone. I made it for my dinner at school and they loved it. 10 thumbs up."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Paula"
+},
+"reviewBody": "I really like this! It’s fresh tasting! I even subbed my stevia blend for the sugar called for in the recipe. Your guests will like it but will wonder what that added flavor is."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Susie"
+},
+"reviewBody": "It turned out great. Sweet and tart but in just the right amounts."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DebbieSue"
+},
+"reviewBody": "Half a recipe was plenty to get me hooked on this yummy beverage! I didn’t have time to squeeze fresh lemons, but I did find a large bottle of organic pure lemon juice at Fresh Thyme."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cltncook"
+},
+"reviewBody": "Good, but could barely detect any ginger flavor. Will cut pieces smaller next time and steep longer--like maybe an hour. Tasted it chilled, without ice, so ice wasn't the problem. I will make again because the flavor combination just sounds so good. UPDATE: Added the ginger pieces back into the pitcher and by the next morning, a nice ginger taste in the background. This stuff is delicious! It will now be my only way to make lemonade. Love it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christina"
+},
+"reviewBody": "LOVED this! I really liked the ginger in this, and agree with others that said they would add more next time. The adults really enjoyed this (some even added vodka, lol) I will def be making this again~YUM! Thanks for sharing. :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Katherine Diaz"
+},
+"reviewBody": "I squeezed 8 large lemons and used the zest of about 4. I put the ginger with some of the simple syrup and juice in the blender before combining it with the rest of water/juice. I loved this - will be making it again!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Aingyll"
+},
+"reviewBody": "Fantastic recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Janine Anderson"
+},
+"reviewBody": "If I try it again, I'll use a tip I read elsewhere, to not add the lemon juice until the concoction is completely cooled to help avoid the bitter taste- probably close to an hour. I'll also try adding the recommend amount of sugar and maybe more ginger.( I used 17 of the orange colored lemons on my tree)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Windi Burns"
+},
+"reviewBody": "easy and mmmm good! Added more ginger, half the sugar and some caramel syrup. sounds like overkill, but mellows the edge of the lemons. Serving this at our women's bible study. A sure hit."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MaHawaii"
+},
+"reviewBody": "I have made this recipe many times and love it. It is great hot or cold. When I have a sore throat I make it up and it is so comforting. I am lucky to have a neighbor with Meyer lemons and I get them, juice them in 2 or 4 cup quantities and freeze the juice for use all year. If you do not have a lot of keep ginger frozen and then thaw it the ginger and squeeze out the juice and use that. . .careful it is strong but immediate flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Monique M."
+},
+"reviewBody": "I just made this with some changes according to the reviewers' suggestions. I did a half recipe. Used 1/2 cup sugar and 1/4 cup + 2tbsp honey. Used a load more ginger because I didn't feel the ginger really came through strong enough with the amount the recipe says. I used about 4 or 5 pretty decent sized chunks of ginger because I like it quite spicy, otherwise it just tastes like normal lemonade with a really faint aftertaste of something you can't quite make out. Recipe as is, I'd give it 4 stars. With changes, definitely 5."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Meagan Brown Fast"
+},
+"reviewBody": "Good stuff! I substituted 3 cups white sugar for 1 1/2 cups Truvia baking blend and used 3 frozen cubes (3 tsp) ginger instead of fresh ginger. My favorite drink!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DEEPFRIEDMONKEY"
+},
+"reviewBody": "Fantastic! We first had ginger lemonade from the Bahn Mi food truck in Boston and enjoyed it so much that I HAD to make it @ home. This recipe is so good that it's actually better than anything else you can get. Makes it hard to go back to normal lemonade now. I enjoy adding more ginger to the recipe to give it some real zing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Deb C"
+},
+"reviewBody": "This is a wonderful lemonade. I loved the hint of ginger, in fact I would add more in the next batch. Also, I would cut back a little of the sugar the next time. Even with any future minor tweaks for my personal preferences, it was still very good. Thanks for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "CrimsonCountess"
+},
+"reviewBody": "Let me start by saying I LOVE GINGER! I mean really, really love it. With that said, this recipe was pretty good. Next time I make this, I will use even less sugar than I used (recipe called for 3c - I used 2.5c), I will use the same amount of ginger. Overall, it was very tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Penelope Karagouni"
+},
+"reviewBody": "This is an excellent recipe.I have made it a lot of times and everybody has asked for the recipe.\nAnd I need to say sth else. I really think it is unfair to change a recipe completely and then rate it with less stars.\nCongratulations Jhercik!!!! You have made all the kids in my son's birthday party very happy!!They come every year and they ask for it!! This year I also experimented and made the recipe with orange,tangerine and red orange juice (seperately) using less sugar and no ginger so I didn't buy any sodas at all as I had 4 different beverages this way.Nothing was left after the party!!!They kids went crazy and the moms too.\nThank you again :-)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Maybull"
+},
+"reviewBody": "I tweaked the recipe a bit; only used 2 cups of sugar, juiced 2 cups of lemons and limes and mixed with 2 cups of RealLemon juice. It was great and I received many compliments!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "SacredLaughter Perkins"
+},
+"reviewBody": "this is so cool and refreshing!!!!1"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mallory Kitzmann"
+},
+"reviewBody": "What a cool and refreshing way to use my left over ginger! I didn't find the ginger flavor was too over powering like I thought I might at initially reading the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lindsey Joy Burkey"
+},
+"reviewBody": "This was really tasty. My only complaint is that there wasn't a super strong ginger flavor in my lemonade, in spite of the amount of ginger I used. I'm not sure if maybe grating the ginger into the lemonade would disperse the flavors a bit more. Also, I was trying to make this in a hurry so I just threw in regular ice, but that did water it down a bit too much for me. Next time I will plan ahead and freeze some of the lemonade into ice cubes beforehand. Other than that it's a great grown up twist on a summertime classic. :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Richard S"
+},
+"reviewBody": "Excellent! The ginger adds a very nice, refreshing flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "CARIA"
+},
+"reviewBody": "The first sip - wasn't sure. After that - this is quite refreshing. Definitely a keeper. I made simmer the ginger root first with some water then made a simple syrup with it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laughter"
+},
+"reviewBody": "Yummy! I reduced the sugar by 1/3 and it was still too sweet. I also added extra ginger &amp; boiled it for 5 - 10 minutes to get the ginger flavor. Yum. Note: I love lemons and ginger!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "food48"
+},
+"reviewBody": "This was a great way to use up some lemons! I made this as a concentrate by halving the water in the ginger syrup. I had guests that then customized their own lemonade by adding vodka, raspberry juice, or just water to taste. Thanks for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mssyann8"
+},
+"reviewBody": "I love ginger in tea so when I saw this recipe I knew I would like it.. I took other the advice from other reviewers who like tart lemonade and only used 2 cups of sugar. I did not realize how many lemons 4 cups of lemon juice would make and I ended up needing 3 small bags!! Just a little FYI do not under estimate how many you will need! Thanks for the recipe it is great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "coraskitchen"
+},
+"reviewBody": "This was wonderful! Maybe a little less water would be good, and mint or basil would make the flavor burst. I made it for my sister &amp; I and we LOVED it. We made it with lime, and it was exelent! I reccomend this. it is great for little kids but i would add a little more sugar because they like it sweet. Older kids like me would like it even without adding a little more water! Overall, a great recipe. Thanks for sharing, JHERCIK!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pam Witzig"
+},
+"reviewBody": "Wow. Delicious! Remember when \"awesome\" was a good word? This is awesome! This recipe should follow the word, \"refreshing\" in the dictionary."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "From My Plate to Yours"
+},
+"reviewBody": "Absolutely delicious! I wanted this just to drink, as we eat and cook a ton of Asian-style food, but I'm probably going to save this for mixed drinks now :) I didn't have whole ginger so I used a heaping teaspoon (I halved the recipe) of crushed ginger, which dissolved nicely. Will make again and again, as we have a neverending supply of fresh lemons here in sunny SoCal!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SBR"
+},
+"reviewBody": "fantastic! this is my \"new favorite thing\" this needs MINT added though. an easy alternative is to use a micro planer to shred ginger directly into the glass your going to use, add 2 mint leaves and muddle before adding regular lemonade. mmmmmmm!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dyslexia"
+},
+"reviewBody": "This one's a winner! It's delicious as is. However, I will try the additional steeping for stronger ginger flavour next time, and see how that goes. I like a *strong* ginger element. It's just fine as is -- more of a hint of ginger blended with the lemon. Definitely a hit in my household!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "honey chile"
+},
+"reviewBody": "I reduced the sugar to 3/4c and used 1/2c honey as well. After I brought the sugar, ginger and water to the boil, I let it simmer for 15 min then steeped. This intensified the ginger flavour. This recipe is perfect for when you're feeling under the weather!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sam Nemati"
+},
+"reviewBody": "Great Recipe! I recommend letting the syrup \"steep\" with the ginger slices in itfor 4 hours as written to ensure a spicy-ade. I've been looking for this one for a while, because years ago my family used to buy carbonated ginger lemonade :) Just buy some dry ice from any store and put it directly into your cups to carbonate this yummy summer drink!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "catie"
+},
+"reviewBody": "Ok this is really good. There is a restaurant here in Asheville that takes this further and even better. In a glass of ice pour a jjgger of vodka. Crush a couple of mint leaves and toss in. Pour over some of this ginger lemonade and then a dash of carbonated water. OMG!!! It is delicious, refreshing, goood!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Tracy Hannah Sullivan- Lewis"
+},
+"reviewBody": "Made this last summer, was very good, but I would cut back on the sugar next time by 1/3."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah Jo"
+},
+"reviewBody": "This is most excellent for sore throats.\nAdd a little bourbon or rum and you'll feel even better!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "smbelaen"
+},
+"reviewBody": "Tried it, loved it! Made 2 batches and served at a party. Everyone loved it and most were curious as to what was so different about this particular lemonade. This is a keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "evlilvxn"
+},
+"reviewBody": "this recipe is fabulous with vodka added to it! i was looking for a good summery alcoholic beverage and decided to give this one a try.\n\nwithout the vodka i thought it was ok at best- i wasnt sure if it was too tangy or too sweet. but once i added the vodka to it it mellowed the taste out nicely.\n\ni added one shot of vodka per serving (so i put 20 shots of vodka in the batch)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "EndoMom"
+},
+"reviewBody": "only 4 stars because I cut the sugar to 1 1/2 cups and it was still way too sweet. Otherwise, a great drink. Next time I'll cut the sugar to only 1 cup and add more ginger."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Beth"
+},
+"reviewBody": "The combination of ginger/lemon is great! The ginger adds a second level of flavor to a classic. I made this for a vegitarian pot luck I was invited to last minute, not being a vegitarian and not wanting to look uncultured showing up with spaghetti from a jar I whiped this up. It was a big hit with guests. I used concentrated lemon juice so before I served it I squeezed the lemon slices to hide some of the processed taste that concentrate has. It tasted great and no one noticed! I'll try it with fresh squeezed next time though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Asphyx"
+},
+"reviewBody": "Im not to sure about this one. I love ginger, but i found this to be kind of bitter and im not sure if the lemonjuice compliments it alright. Can't say i love it, can't say i hate it. will probabaly not make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kazoo"
+},
+"reviewBody": "I love this, but made one change which I feel is imperative - simmer lemon zest with the simple syrup and ginger - perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Penelope Karagouni"
+},
+"reviewBody": "EXCELLENT!!!! Whoever tried it was thrilled! My son can't get enough!The best lemonade I've ever tasted!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CJAYOSBURN"
+},
+"reviewBody": "I add more ginger than the recipe called for, and serve it mixed half and half with unsweetened tea"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "meep234"
+},
+"reviewBody": "Ginger makes all the difference, and it is a good alternative to the traditional 'ade, but I didn't like the smell and found it a bit too sweet."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cowgirll"
+},
+"reviewBody": "This lemonade is delicious! I can't stop drinking it! 5 stars!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "WhatADish"
+},
+"reviewBody": "5 stars!!! This is so delicious!! I did cut down on the sugar some and added a little extra lemon juice. I cut the recipe in half but left the ginger the same. It is so good. If you've ever had Trader Joe's ginger lemonade (in their dairy case), this is just as good. My husband had fun helping me make this."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Great drink! I boiled about 3 of the cups of water with the ginger and sugar to make a simple syrup. I strained that, let it cool down, then mixed it in a pitcher with the lemon juice and the rest of the water. This made it easier since their was just one little pot. If you don't like things super sweet you may want to use more sugar. Or you could just add more lemon juice and water."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Steph"
+},
+"reviewBody": "I used 2 cups sugar (I like my lemonade tart) and LOTS of ginger. I was really short on time, so used bottled lemon juice (I know, not as good) and subbed about 1 cup lime juice for 1 cup of the lemon. I thought it was great, but I took it to a cookout and although everyone was polite, I don't think they were as enthusiastic about it as I was... I ended up taking most of it back home, which was fine with me!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "amydoll"
+},
+"reviewBody": "Wow. I loved this. I decreased the amount of sugar a bit because I like lemonade more tart than sweet, and used a veggie peeler to slice the ginger. The drink had just a hint of ginger. Very refreshing. I will definitely make this again. Here's a handy tip when juicing the lemons: have them at room temp and roll them on the counter before you cut them in half. The juice will come out a lot easier."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "RBISH"
+},
+"reviewBody": "it was ok, but nothing special. not worth the trouble to make it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Luvs2Cook!"
+},
+"reviewBody": "Excellent, unless your my husband and don't like ginger!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "CSANDST1"
+},
+"reviewBody": "Didn't care for this much. The lemonade sticks to your mouth and isn't particularly refreshing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "not a big lemonade fan but loved this."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "MOLLIBEE"
+},
+"reviewBody": "This was a very refreshing beverage. I love the ginger! The recipe is a little sweet, so if you like your lemonade more tart (like me), scale back the sugar some."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This is the best lemonade I've ever tasted! My whole family loves it. I've shared some with my friends and they ask for more! The ginger smooths the edges of the tart lemon juice and adds a wonderful dimension to an old favorite. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "What a GREAT lemonade!!!\r\nI even used my home soda maker to add some carbonated \"fizz\" to the lemonade... very refreshing!!!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/18937/ginger-lemonade/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/77/drinks/",
+"name": "Drinks Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/2817/drinks/lemonade/",
+"name": "Lemonade Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/18937/ginger-lemonade/",
+"name": "Ginger Lemonade"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

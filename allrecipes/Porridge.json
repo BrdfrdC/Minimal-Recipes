@@ -1,0 +1,439 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Porridge"
+,"datePublished": "2020-06-18T23:10:56.000-04:00"
+,"dateModified": "2022-09-19T15:16:38.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "AnneDuncan"
+,"url": "https://www.allrecipes.com/cook/1082106"
+}
+]
+,"description": "This porridge recipe is a comforting favorite that builds on a traditional British breakfast dish. Add toppings like raisins, bananas, and cinnamon."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/iSRth631r0KKaOK6b0Apu-h-lVw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Porridge-2000-17e03710414c47319d080ba4e72b6d74.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Porridge"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "3.7",
+"ratingCount": "28"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "157 kcal"
+,"carbohydrateContent": "32 g"
+,"cholesterolContent": "2 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "4 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "600 mg"
+,"sugarContent": "12 g"
+,"fatContent": "2 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"2.5 cups water",
+"1 cup rolled oats",
+"1 tablespoon white sugar",
+"1 teaspoon salt",
+"2 bananas, sliced",
+"1 pinch ground cinnamon",
+"0.5 cup cold milk" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine water, oats, sugar, and salt in a saucepan. Add bananas and cinnamon. Bring to a boil, then reduce heat to low, and simmer until the liquid has been absorbed, stirring frequently."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour into bowls, and top each with a splash of cold milk."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT15M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I changed substituted the water wth milk, used brown sugar instead of white, and used apples instead of bananas. I didn't add any salt and put a large knob of butter at the bottom of the bowl and the hot porridge on top. For a twist you can grate an inch of ginger into it as well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "It was better than expected! I thought it would be way too salty, so I just added a bit of brown sugar and it was amazing. I was freaking out that it wouldn’t work without bananas because I realized I didn’t have them, but any fruit works just fine (I used apples). It was warm and ooey-gooey and just altogether delicious! My mom, sister and me ate it gladly. 10/10 would recommend, I’ll be making it again soon!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Tammy Lynn"
+},
+"reviewBody": "This is a nice hot breakfast cereal. I think the bananas would have been better mashed before they were cooked. I thought the recipe called for too much salt, so I used just a dash. I used a whole teaspoon of cinnamon. I added the golden raisins/sultanas as the submitter suggested, and they were a nice addition. I topped with almond milk."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "tacnayomi7"
+},
+"reviewBody": "Amazing Porridge, but I recommend heating the milk up."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Nancy Laurencelle"
+},
+"reviewBody": "Too salty. I do not recommend this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Annie Callen"
+},
+"reviewBody": "The porridge was much too salty. I recommend adding just a pinch or none at all. Next time I will not cook the bananas with the porridge but add after cooking.\nOtherwise it was lovely"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Annie"
+},
+"reviewBody": "I used brown instead of white sugar and apples instead of bananas for an apple cinnamon flavoured porridge. It turned out pretty well but I have to say this: do NOT put salt in this!!! Nix the salt completely unless you're going for a savoury dish. The salt very nearly RUINED my porridge but I managed to make it palatable by adding heaps more sugar. In short, this recipe should be: 1 part oats to 2.5 parts water plus any flavouring you want. Heat and mix."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cute Sniper"
+},
+"reviewBody": "I made it and it was sooooo good! Instead of white sugar, however, I used stevia. Stevia is not only healthier, but more powerful, so it really gave it the bang it was missing. I'll def make this dish again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Misskaplinski"
+},
+"reviewBody": "Turned out so well! :) thank you for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I loved the smell but it tasted awful! To much banana flavor even after reducing the amount of bananas to 1 banana."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "nsteel"
+},
+"reviewBody": "too much salt. needs more flavour"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "pgsigmon"
+},
+"reviewBody": "I enjoy this recipe but I leave off the sugar and salt and let the banana reduce completely and then add a handful of blueberries and a sliced strawberry (single serving) to top it off once I put in a bowl - excellent!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "eliz"
+},
+"reviewBody": "This is a great starting point recipe. I modified it quite a bit (no bananas, brown sugar instead of white, pinch of salt instead of full amount) and it turned out great. It was my first time making porridge, and it was a huge success. Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Happyschmoopies"
+},
+"reviewBody": "Very easy to put together and a nice hearty breakfast on a cold day. I added a little brown sugar to the top because I thought it needed to be slightly sweeter. I did not care for the texture of the bananas cooked into the porridge. They were a little too mushy for my personal preference. I would make this again, but, add some dried fruit and nuts instead next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Acia"
+},
+"reviewBody": "Simple, fast and delicious recipe! Instead of sugar, I used honey. The taste of cooked banana combined with cinnamon makes the trick of this recipe. I really enjoyed this porridge and will make it again as long as I have bananas in my fruit basket!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "kellieann"
+},
+"reviewBody": "This was really weird. I cut the amount of salt in half and it was still way too salty. The whole thing tasted like salty bananas, very strange. Next time I will leave the salt out all together."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kosovo cook"
+},
+"reviewBody": "Great recipe -- easy, quick, delicious and versatile. It's great as is, but sometimes I leave out the bananas and add apples, dates, peaches, apricots, walnuts and/or berries --whatever I have on hand."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "cheri"
+},
+"reviewBody": "This porridge is great, I love the Cinnomon in it, I did add about 2 tabs. Heavy whipping cream per serving to it to add extra flavor to it, and then it was great. My kids also liked it with a little more Cinnomon and some rasins in it, but the recipe was easy and quick to make, a must in my house!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "CARLYNSMOMMY"
+},
+"reviewBody": "I thought this was pretty bland until I added a ton of brown sugar. Maybe next time I'll add some more spices to it. My toddler ate a whole bowl of it though!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Bronwyn"
+},
+"reviewBody": "I didn't try it with bananas, as I find cooked bananas too mushy. Instead, I added dried raisins, dried and chopped appricots, and chopped almonds. I upped the cinnamon, added cloves, nutmeg, and allspice, and Voila! Christmas cookies for breakfast."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Steen Kelly"
+},
+"reviewBody": "I didn't like this recipe much. But I didn't make it for nothing because my mum ate it. I think I didn't enjoy it much because I dont like the hot banana taste. I added some brown sugar and that made a bit of difference but it still needed something. I dont think it tasted like porridge just bananas. Over all this recipe would be good for people that like the hot banana taste."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "happyAZcook"
+},
+"reviewBody": "I tried this recipe for myself and I really enjoyed it. The only change I made was that I used honey instead of sugar and was a little more liberal with the cinnamon. I love this recipe and will definitely make it again . Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Oops, I must have forgotten to include 1/2 cup saltanas in the ingredients when I submitted the recipe. You simply add the saltanas with the other ingredients."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "ButtercupBento"
+},
+"reviewBody": "I am a porridge eater normally but was looking for a recipe similar to what the Hari Krishna tent serves up at the Glastonbury festival in the UK, which is spicy, sweet and breakfasty too. I found I needed to add more cinnamon to this and poured honey over it too or it would have been bland. I also used sultanas instead of bananas as the one I had previously had sultanas. Not a very exciting recipe but not bad either"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/73155/porridge/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/145/breakfast-and-brunch/cereals/",
+"name": "Cereals"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1315/breakfast-and-brunch/cereals/oatmeal/",
+"name": "Oatmeal Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/73155/porridge/",
+"name": "Porridge"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,1415 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Chicken and Dumplings I"
+,"datePublished": "1999-05-31T14:45:53.000-04:00"
+,"dateModified": "2022-07-14T15:54:30.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Lillian"
+,"url": "https://www.allrecipes.com/cook/24325680"
+}
+]
+,"description": "Your basic boiled chicken with dumplings in broth--so simple, so satisfying."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/tN3EDNEZJBr8B5M7kzrv-V5kUPU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2100977-68b3f7c2fb42462b8a5eae8989cdae01.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Chicken and Dumplings I"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.1",
+"ratingCount": "140"
+}
+,"cookTime": "PT120M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "349 kcal"
+,"carbohydrateContent": "32 g"
+,"cholesterolContent": "82 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "23 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "141 mg"
+,"sugarContent": "0 g"
+,"fatContent": "14 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1 (2 to 3 pound) whole chicken",
+"2 cups all-purpose flour",
+"1 teaspoon baking powder",
+"1 cup hot chicken broth",
+"1 egg" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "In a large stockpot or Dutch oven cover the chicken with salted water and simmer until cooked through. When tender, remove chicken from pot. Remove meat from bones and keep warm while making the dumplings."
+} ,{
+"@type": "HowToStep"
+,"text": "TO MAKE DUMPLINGS: Sift about 2 cups of flour and 1 teaspoon baking powder into a large mixing bowl. Make a well in the flour/powder mixture; pour in 1 cup of hot chicken broth, mixing first with a fork, then with your fingers. Add the egg and mix well again."
+} ,{
+"@type": "HowToStep"
+,"text": "Knead the dough for a few seconds on a floured board. Separate the dough into 4 or 5 parts and roll as thin as possible. Cut into 1 1/2 or 2 inch wide pieces. Break these into 2 inch long strips. Drop into boiling chicken broth and simmer for 10 to 15 minutes. Serve with previously prepared meat."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT140M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Patricia Gianferrara"
+},
+"reviewBody": "My family loved it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LolaB"
+},
+"reviewBody": "This is a great dumpling recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tracy Holt"
+},
+"reviewBody": "I love it the only thing i added was garlic,salt,and pepper to my dumpling mix"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mandy"
+},
+"reviewBody": "This is absolutely my go to recipe for noodles/dumplings! You will not be disappointed. I tried the recipe verbatim at first, however I made a few adjustments thereafter per my own personal tastes. Nevertheless the recipe as is, is absolutely phenomenal!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Barbara Gagnon"
+},
+"reviewBody": "the easiest way and the best is to use egg noodles that come in a package. they are in the fresh veggies isle. they are perfect for this and have a little flour on them that thickens the broth. no rolling out. all you have to do is drop them in the boiling broth and they are just like you made them. the same cooking time 10-15 minutes. I usually get the ones that come in a square. you can also get the longer one and slice them to size. actually I am making this recipe today. my friends {not married} love them. they are coming for dinner. good luck."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Dee Michniak Pennington"
+},
+"reviewBody": "Had to add another cup of flour to the ratio of liquid and more for kneading and then more for rolling but once I got it done it was good. I only used my hand to roll it out"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stephen L. Palmer"
+},
+"reviewBody": "I've used this as the base recipe for my chicken-n-dumplings for many years now. All I change is that I add veggies. Carrots, onion and bell pepper. About 1/3 cup of each. Also, besides the salt and pepper I throw in some Mrs Dash. (That's my secret ingredient. Shhh! don't tell anyone!)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Helen"
+},
+"reviewBody": "I followed the recipe and all directions to a T and they came out almost tough and chewy. I've tried to think what I did wrong and just gave up. Will try one more time as I love good light chicken and dumplings, and no, making biscuit dumplings just doesn't get it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Michael McDonnell"
+},
+"reviewBody": "I did use more broth than this recipe calls for. I added about 2 cups of broth to the pan while the dumplings were cooking."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Patricia Johnston"
+},
+"reviewBody": "I thought it was great, and no I didn't make any changes, dumplings were tender, chicken was also tender"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Waynette Marques"
+},
+"reviewBody": "love this recipe so good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Julina"
+},
+"reviewBody": "What to say - reminds me of my mother's when i was growing up. I changed one thing -\n blend the egg with the chicken broth to make it easier to blend with flour. use a LOT of flour on the board when you roll it out. \nOutstanding! this is one of the best."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Milldust"
+},
+"reviewBody": "I followed other people's suggestions and decreased the liquid by half and still had to add extra flour to make a dough that I could handle. I also added 1/2 teaspoon of salt. The dumplings were good, almost as good as what my mom used to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Janet Barbee"
+},
+"reviewBody": "I removed skins from 4 lbs. of chicken breasts and thighs that I had on hand and added a chopped onion. I cooked it in salted water in a crock pot on high for about 4 1/2 hours and then deboned the chicken. I removed the cup of broth before putting the chicken pieces back in the crock. I added the dumplings and continued cooking for 30 minutes. It was just the ticket for my bad cold!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kelli Bailey"
+},
+"reviewBody": "so easy and my family loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "DragonFly"
+},
+"reviewBody": "I'm very confused about how anyone is able to roll this dough out. I followed the recipe to a T and ended up with a sticky mess when I added the egg, but tried to roll it out anyway. Unsuccessful--just got a slimy pile of goo between my parchment paper. Floured my hands and shaped them by hand and they were OK, but of course I couldn't get them as thin as intended. BUT we still enjoyed them very much! Very good texture and flavor to go with our comfort food (and of course, my broth had veggies in it as well)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "QuiltingLady"
+},
+"reviewBody": "We loved t he Dumplings. They were delicious! Didn't change a thing.. Thank you."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lana j"
+},
+"reviewBody": "I make this a lot and it's awesome but I had a can of cream of chicken organic soup and it's so much better and a little creamy which we really love !!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Janel Eure"
+},
+"reviewBody": "This recipe was exactly like my grandmas and brought back so many childhood memories! When she passed I thought this recipe went with her, thank you so much for giving it back! Perfect"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "cindaZ"
+},
+"reviewBody": "This recipe is great on the broth, but I still prefer my southern style regular biscuit recipe for dumplings. Putting in a can of crème of Chicken soup makes the broth a bit richer. Using 2 cups of flour, one tsp of baking powder, 1/2 tsp salt, and a cup of milk, stir until you can kneed, and dump out on a very floured board. Kneed until well mixed, flatten to about 1/4 inch and cut 1 inch by 1 inch squares. Flour them again and drop individually into your boiling broth. Gently stir and cover for 10 min, steaming the dumplings well, stir again and let simmer for 10 more minutes uncovered before serving."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cathyrogers"
+},
+"reviewBody": "Beyond awsome love this recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Marilyn Morgan"
+},
+"reviewBody": "I have never made chicken and dumplings from scratch before but this one is a good one to start with. I added celery and carrots and also used chicken broth to cook the chicken in. then added cream of chicken to thicken it up but that didn't work so I added corn starch. It really turned out good. Also the dumplings couldn't roll out so I just spooned them in."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "SP Huskey"
+},
+"reviewBody": "1 to 10 they're a 1. I have a recipe that is so fluffy &amp; has no eggs. I won't make these again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "DanielleyBelly"
+},
+"reviewBody": "I followed this recipe exactly as written twice and my dumplings came out wrong both times."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "N2Zen"
+},
+"reviewBody": "I thought the recipe was perfect. Thanks to a few other commenters, I was prepared with a well-floured surface, but the dumplings came out beautifully!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MsSanders"
+},
+"reviewBody": "Definitely will make again!! Delicious dumplings. Very close to my nana's."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Megan Infante"
+},
+"reviewBody": "I did tweak the recipe a bit. I used a whole cup of broth to make the dough, but added another egg and cup of flour. It tastes amazing! I rolled up my cut pieces of noodle to make small \"burrito\" shapes. Takes a bit longer to cook all the way to the middle of the pasta, but tastes great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Haley"
+},
+"reviewBody": "dumpling deteriorated pretty quickly."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Antonia J Rivas"
+},
+"reviewBody": "My father in law, from Georgia, used that Southern Style cooking. This was my first time ever making it. He loved it!! Said it was perfect!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "jessicacarr"
+},
+"reviewBody": "These dumplings are like my grandma's which is what I wanted. I want to add salt to the dough next time to see how that works. It is too wet after mixing in the 1 c. broth and egg, so work/knead in some extra flour til it is right. [Maybe putting in less than the 1 c. broth to begin with would fix it...or 2.5 or 3 c. of flour to begin with (with an extra bit of baking powder)]. Also, I make the broth with a yellow onion, carrots, celery (the more the better), and salt (would be worth trying some bay leaves, etc., someday). A double or even double and a quarter or double and a half of the dough makes a good sized full pot of dumplings. Keep a simmering full-sized pan of water on the ready for adding to the dumplings as the dumplings get too full for the broth I start out with. After adding the shredded chicken, salt and pepper it to taste, then simmer til good and ready!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Faith N"
+},
+"reviewBody": "Good base recipe, however, it needed a few tweaks after the initial try. For this much broth, I used 3 cups flour. I also omitted the egg. Turned out perfect that time, very similar to another recipe I recently discovered which is what turned me off of using the egg this time around."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Craig Benting"
+},
+"reviewBody": "I would have given this simple recipe for chicken dumplings a 4 star rating except for one critical mistake I found out about after making it: teaspoons versus tablespoons. It's not very often I make biscuits or dumplings from scratch, but the 1 TEASPOON of baking powder quoted in this recipe has to be a typo. Every other similar recipe I found on the Internet using the same amount of flour for dumplings or biscuits uses 1 TABLESPOON of baking powder."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Fasick07"
+},
+"reviewBody": "Made the dumplings as stated and froze them. Haven't used them yet. I used one cup whole wheat flour and one cup white flour. I made my chicken broth with a bouillon cube. There was to much liquid and not enough flour. Very wet and sticky. Kept adding spoonfuls of flour to get the consistency I needed. Stuck fast to rolling pin even though I floured it. If I try this again I will adjust the flour and broth ratio. I guess I will have to use chicken broth from a box if I was to try reducing the amount. If I have the patience I might try again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "unoticedshifd"
+},
+"reviewBody": "mmm mmm good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Neal"
+},
+"reviewBody": "Tasted good, but adding saffron, parsley, and McCormick poultry seasoning to the broth makes it taste so much better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ahlastein0418"
+},
+"reviewBody": "I made this recipe pretty much exactly as it was written. The only difference was I didn't have chicken bullion cubes so I added cream of chicken soup. Everything came out perfectly! This was my first attempt at real dumplings and they were YUMMY! Next time I will probably add a little veggies in it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Terri G"
+},
+"reviewBody": "One cup of broth was too much for the 2 cups of flour. It was impossible to handle or roll out. I had to recheck the recipe just to make sure I read it right. I really wanted this to work. I kept adding flour but finally gave up and just scooped small amounts of the dough in the pot of boiling broth."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Daron Rainer"
+},
+"reviewBody": "While it takes hours to prepare, the preparations are easy. The dumplings had exactly the consistency and flavor that I had expected. I returned the chicken to the broth before dropping in the dumplings. I also added some onion, carrot, salt, and ground black pepper to the boiling chicken. Without these additions I suspect it may have been a bit bland. The remarkable thing about this recipe is that it easily feeds eight to ten people for less than five dollars."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Leona Zentner"
+},
+"reviewBody": "Love this recipe, it is just like my grandmother used to make.It makes a large pot , but then I double the recipe. My family loves it. I add carrots, pototoes, celery and some garlic and my family just loves it. We are lucky to have any leftovers, lol. This is my go to recipe for family and company..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "brashlynn"
+},
+"reviewBody": "My family loved this recipe I made a couple changes I added half chicken bouillon cube to the water that i boiled the chicken in and for flour I used Pioneer brand baking mix and added the broth and egg to it then i added more water into the pan with the chicken broth and 2 cans of cream of chicken soup then I brought that to a boil then added the dumplings to boil turned out super yummy Thanks a bunch for this recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kathy"
+},
+"reviewBody": "Since I never measure my water when boing my chicken it was a little thin. I just added a can of cream of chicken soup and black pepper...my family was pleased with supper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stephanie"
+},
+"reviewBody": "This was so good!! I have never been able to make dumplings that were really good until yesterday when I made this. I changed it a little I used sliced chicken breast instead of the whole chicken and about 3 cups of water I filled my crock pot a little bit over half way. My guys loved it. I use self rising flour instead and the egg it really made a huge difference. My guys loved this we will have again :o)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ellen"
+},
+"reviewBody": "This is easy, quick, and as tasty as your chicken broth. Mmmmm! I do take a shortcut and let me daughters drop it by the teaspoonful into the hot broth to cook instead of rolling it out and cutting it. I know, but it still tastes so very good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Koderz"
+},
+"reviewBody": "Turned out being just like my Mother's \"Chicken and Noodles\" when I was finished. Highly suggest adding seasonings to taste, without it the basic recipe is a bit bland."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "kklownluv"
+},
+"reviewBody": "This recipe was good. a couple things\n1. I used boneless chicken breast.\n2. added bouillion, celery and carrots to the broth while the meat cooked.\n3. dumpling mix was VERY sticky after I added the egg but I just added some extra flour to soak it up.\n\nMy five year old loved the \"bread\" and ate everything.\n\nI will make it again. (reminds me of cracker barrell chicken and dumpins')\n\nThanks for sharing your recipe!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lindob"
+},
+"reviewBody": "Great recipe! Just like my mama's! If you want the shortcut version just use pre-made biscuits; mama uses pillsbury hungry jack biscuits. Pull the biscuits apart cover in flour and drop into boiling chicken broth for 15 to 20 mins."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MIHNASTAR"
+},
+"reviewBody": "This recipe is awesome! I really like the old-fashion taste of it and look, thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "irene fernandes"
+},
+"reviewBody": "I feel with garlic the broth would taste better. Right now it's just seasoned with salt."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "I.love.heritneo<3"
+},
+"reviewBody": "It's awesome, i love the dumpling part, it looks like you need more broth for the flour but you DON'T it works right when you add it to the soup. I always put onions and celery , carrots to it to add more of a kick but the dumpling are EXCELLENT!!! thank you for your recipe:)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Amanda Shaw Bridges"
+},
+"reviewBody": "This was my first time making chicken and dumplings and these were great! Easy too!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "cakeme"
+},
+"reviewBody": "Very easy recipe. Delicious, I boiled the chicken with celery, carrots and onion and strained it once tender. I added a pinch of salt to flour for dumplings. I did not roll the dumplings out extra thin which made the consistency of the dish much nicer."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marsha B."
+},
+"reviewBody": "I made this recipe for my husband and he loved it! By adding the chicken stock to your flour mixuter it gives the dumplings an awsome flovor!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Suzi Oliver Lawn"
+},
+"reviewBody": "Very good and easy recipe. Really good on a cold winter night. My husband and son loved it - so did I."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "AnnaLeah"
+},
+"reviewBody": "The dumpling part is really good. I made this twice, first time exactly as specified in the recipe, second time with 2 eggs instead of one. I think adding an extra egg made it better. My children LOVED the dumplings! (That's why I had to make second batch of them for the same soup - they were so good!)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bobbilovesben"
+},
+"reviewBody": "Soooo yummy! We're from North Carolina and just recently moved to Washington State. We miss home a lot and missed this dish. I was impressed. It was simple and yet so delicious! I remember watching my grandmother make chicken and pasty and how she would slave over the stove all day. Simple works sometimes! :-)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "OmaCindy"
+},
+"reviewBody": "Wonderful! I made the dumplings to go in my own soup recipe. There was maybe 1/4 of a cup of flour left in the bag..I just threw it in. I did use self rising as I live in The Netherlands and baking soda is hard to find. I found the dumplings very delicious and not at all hard. They also did not tast like flour. After reading that some people found the dough too sticky, I simply made sure that my surface for kneading the dough and rolling it out was very well floured. It worked well. My dutch husband preferred them over the doughy dumplings that I usually make and he loved those. Dumplings in my house will be these from now on!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CGKANE"
+},
+"reviewBody": "Finally- a dumpling recipe that closely follows my mom's! I knew what ingredients to use; just not how much, since she never measured hers. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kimberly S"
+},
+"reviewBody": "Excellent! Some people have said that the dumplings are too hard - if you roll them out thin and cut them about 1\" in length, you won't have a problem with that. This recipe is just good old fashioned chicken-n-dumplings."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "alg_252"
+},
+"reviewBody": "I agree with the person that said their daughter has a hard time with the dumplings. They are much to hard and dense, and that is the most important part of this meal, so I did not care for it at all."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Paula Henson-Mizikar"
+},
+"reviewBody": "My mother used to make chicken &amp; dumplings and I always remember her making a \"well\" in the flour and mixing in the broth. I never thought I would find a recipe that was like hers. I made this exactly as directed. The dumplings were just like mom used to make. Fabulous!!! Thank you for sharing your recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Noeller67"
+},
+"reviewBody": "Good soup but I can't give it 5 stars since I had to add a lot of seasonings to make it good soup! Bay leaf, peppercorns, carrots, onion and celery to make the broth. These dumplings are egg noodle dumplings, not biscuit dumplings which taste very different but I love them both!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tammy"
+},
+"reviewBody": "This recipe was excellent. I added onions and celery and garlic and pepper to the water when cooking the chicken."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Donnell McArthur"
+},
+"reviewBody": "I thought this recipe very easy and tasted great. The dumplings were especially good. I followed the recipe in all aspects. Other reviewers had problems with the amount of water added to the dumpling portion but I had no issues there. The only elements that I changed were that I used boneless chicken breast in place of a whole chicken and I added a wee bit of milk for a thicker, creamier sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tarina"
+},
+"reviewBody": "Excellent recipe that I have used for years. I'm not quite understanding why people insist on trying to make a rolled dumpling recipe into a drop dumpling recipe and then give low ratings because it did not work out! I love the idea to use the hot broth to make the dumplings; I have always used hot water... great idea! I do cut in about 1/4 cup of shortning before I add the hot liquid, kinda like making biscuits.I personally use self rising flour instead of all purpose so I don't need the baking powder.... I think this is a personal preference. One thing, I always add a little yellow food color to my broth before I add dumplings because sight is for some reason apealing. People expect chicken to be yellow and adding the color really makes a difference. Sometimes I add extra seasoning, sometimes I do not.... it all depends on my mood for the day. All in all, old fashioned dumplings were made to feed large families on limited resources and to this day they are still good! To this day, I am the only one in this family who makes rolled dumplings and every family get-together my husband volunteers my services! This is a good thing..... for him, he doesn't cook. Thanks for a simple recipe that has been around for years!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ztcampion"
+},
+"reviewBody": "Great Recipe! As with all recipes I tried it with smoked whole chicken and loved it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Heidi Jean"
+},
+"reviewBody": "Well, I had high hopes for this recipe based on the number of favorable reviews but unfortunately it was pretty bad from the beginning. The flour/hot broth mixture formed a tough ball that the egg was never able to fully penetrate. I did as other contributors did and made a true dumpling as opposed to the noodle described in the directions, so in all fairness that may have altered the outcome. But the dumpling was very tough and dense. My daughter actually spilled hers trying to cut the dumpling (we had to resort to using steak knives!)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pendlebug"
+},
+"reviewBody": "This is a great and super easy recipe. It was no trouble to throw together, but seemed like it took hours. Thank you."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LISACAMBI"
+},
+"reviewBody": "loved it! make sure the broth is WARM, and not HOT though. i made the mistake of using hot, then it was really hot when i went to work it with my hands. these do best rolled really thin, too. work them too much &amp; leave them too thick and they're tough. but this will definitely be the recipe i use from now on!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "In order to make this recipe work I had to make so many changes. The recipe as is, is not correct. I added onion and celery and spices to the chicken as it cooked. I cut up the chicken and did not put the skin of the breast or back in so I could minimize the fat in the broth. The dough as stated in the recipe could not be rolled out. I probably added an additional 2 cups of flour or so until the dough could be rolled correctly. It could have used some salt. In order to make these dumplings you really need to know a bit about dough and how much flour to add etc. Was I able to make a dish the family enjoyed? Sure, but I had to make so many changes that this recipe as it is stated is not a good recipe. The proportions of flour/chicken broth/egg for the dumplings is incorrect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bob W."
+},
+"reviewBody": "My first attempt at Chicken &amp; Dumplin's and my family has dubbed me the \"maker of\" this meal. I doubled the dumplin's and added some bouillion. I feel that if you add veggies the meal becomes Chicken Stew. I will, however, try this using my mother's old recipe for biscuits and simply roll out the dough and turn it into dumplin's. We all LOVED it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nicki Caudill"
+},
+"reviewBody": "Instead of a whole chicken (we don't like dark meat) I use 2 bone-in chicken breasts. I also add 4 chicken bouillon cubes while the chicken cooks. Itop the finished product off with a can of cream of chicken soup before serving. It makes the dumplings SOOOOO creamy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Stellasmom"
+},
+"reviewBody": "These are not dumplings. more like noodles."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "V noir"
+},
+"reviewBody": "I have never made this before, but this made it simple. I did need add some more spices(bay leaf, garlic and a little fresh milled pepper) and carrots and peas, but a wonderful easy recipe. Thanks! I will be making this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gayle"
+},
+"reviewBody": "One of my favorite recipes.\nThe dumplings done in this way (as opposed to \"dropped\" are wonderful.\nA satisfying and comforting dish!\n\n(you can add some fresh or frozen veg, if you like...I've tried with peas, carrots and mixed veg.)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "MichellesBusyKitchen"
+},
+"reviewBody": "This was so close the recipe that I was looking for. I added 2 tbsp of Adobo seasoning and 1 tsp of basil to give it some flavor. I'll admit the recipe did not go as expected. The dough was way to sticky to cut it or roll it out, but I added 1/4 cup of extra flour and dropped the dough into the soup by spoonfulls. I only used the recipe for the dumplings, but added them to chicken &amp; rice soup that I made. My husband and 3 year old absolutely loved it! I have tried many dumpling recipes that were more of a explosive dough covering than individual dumplings, so I was glad that these stayed in separate bite sized pieces. As my 3 year old stated...they were the best ever."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "cookerboy"
+},
+"reviewBody": "This recipie was kind of plain. I changed it around a little, used spices in the dumplings, and made a quick white sauce to go over it. It was good, but not worth five stars."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "CASTILLOCA"
+},
+"reviewBody": "I really wanted this to be good, but I didn't care for it; sorry. Same problem as others -- dough was way too sticky to work with, had to add more flour which resulted in hard dumplings which tasted like the recipes calls for -- flour and egg. Broth and chicken came out okay, but I added chicken boullion, bay leaf, oregano, carrots, and onions. Definitely won't try again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Flavil Jr"
+},
+"reviewBody": "Excellent dish. Everyone loved it to the point that the leftovers in the frig were gone the next day. I added celery and onions to the stock and then strained them out after the chicken was cooked. Also used 1 egg plus 1 egg yoke. I had to then add more flour to form a dough. Kneeded the dough until until silky and let it rest for 10 mins before rolling out the dumplings. After all that it turned out great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "diana1b"
+},
+"reviewBody": "The dumplings are like lead bricks. Don't waste your time on this one."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stacy Legrand"
+},
+"reviewBody": "This is soooo goood"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "TIMOTH87"
+},
+"reviewBody": "Good but some of recipe was missing, and dough needs some work. inorder to cook this you have to no how to cook."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kelly P."
+},
+"reviewBody": "Great recipe. I added some onion, carrot, celery &amp; Garlic to the broth, then strained it out at the end. The first time I made this I think my dumpling dough didn't have enough flour; the dumplings just sort of dissolved. The second time they turned out great. I love chicken &amp; dumplings; reminds me of what my mom makes!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "LORETTAM5"
+},
+"reviewBody": "loved it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Tara Curran Griffiths"
+},
+"reviewBody": "sorry, these dumplings did not work for me at all. i added about a cup and a half of extra flour and they were still too sticky to roll out. i finally tore off a few pieces and threw it in my boiling soup, but they were still very soggy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "i think i did something wrong because mine came out like hard lumps and I was expecting fluffy ones"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "CandiceSteele"
+},
+"reviewBody": "Great recipe for the dumplings...I prefer to \"dress up\" the chicken stock. I cooked the chicken with some carrot, celery, onion and thyme. Really delicious meal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Angie"
+},
+"reviewBody": "This recipe was wonderful! The only thing was that I rolled it out as thin as possible thinking it would thicken up a little; it may have been even better if I hadn't rolled it so thin!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LEEPERLADY"
+},
+"reviewBody": "What a simple recipe for a cold night. My grandmother would make this favorite dish every Thursday for us but we called it \"CHICKEN &amp; SLIDE JACKS\". She would add in onion when cooking the chicken and when cutting dough, she would stretch each piece then drop into broth to cook. All in all, this dish is a big hit with my family."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SHANK87"
+},
+"reviewBody": "I would just like to say how great my family and friends Loved this recipe. So simply to make. thank you Lillian and AllRecipes Sincerely sally"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "S5LANGE"
+},
+"reviewBody": "very easy recipies family loved it.\r\nThank You!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Very easy to make. Good taste but a little bland. Very good recipe for those who do not like to spend a lot of time in the kitchen. I will definitely use this recipe again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "REDBEANSIDHE"
+},
+"reviewBody": "It tasted so good, and even my pickiest of kids ate and asked for more! (That's a serious compliment!) Thank you! Although I did end up spooning the dumplings in, it still tasted wonderful, just like mom, and granny used to make!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "GOGOGADGET"
+},
+"reviewBody": "Just needed to tweak the water in which the chicken is cooked. Add onion,celery,carrots,garlic and anything else you would use to make a good broth.Drain before making the dumplings. Heather"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "JOSIE"
+},
+"reviewBody": "Again, I have to rave about another wonderful southern dish. I grew up on this stuff and have always had an appreciation for chicken and dumplings. Instead of making dumplings from scratch, try tearing biscuits into peices and using that instead...much quicker and tastes wonderful. Good Job Lillian."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BaysChick"
+},
+"reviewBody": "The dumplings are quick and easy to make as well as tasty! I made them to go in my own chicken soup recipe and the family loved them!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I used chicken tenderloin instead of a whole chicken and cooked it in broth instead of salted water. I also added thickener, celery, carrots and some pepper to the broth and a little more flour to the dumplings so I could roll them out. It was a good basic recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This is a great recipe, I have used is several times. It does make a lot, (I am usually only feeding 2 people) but it freezes really well. I make a double batch divide it in fourths and freeze 3 of them for later use. It is best to let it thaw for about 15 minutes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Dumpling part of this recipe does not work,WAY! to much liquid for two cups of flour!, I only printed this recipe to get dumpling recipe, because I always add carrots, celery, onions, and a small amount of potato, to my recipe, and garlic,rosemary,salt,pepper and thyme.This recipe basically is very bland, sorry :-)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "In a word! DELICOUS!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8807/chicken-and-dumplings-i/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16369/soups-stews-and-chili/soup/",
+"name": "Soup Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/181/soups-stews-and-chili/soup/noodle-soup/",
+"name": "Noodle Soup Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8807/chicken-and-dumplings-i/",
+"name": "Chicken and Dumplings I"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

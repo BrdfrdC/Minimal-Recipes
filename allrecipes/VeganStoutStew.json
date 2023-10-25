@@ -1,0 +1,213 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Vegan Stout Stew"
+,"datePublished": "2020-03-05T00:12:11.000-05:00"
+,"dateModified": "2020-03-05T00:12:11.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "The Inquisitive Vegetarian"
+,"url": "https://www.allrecipes.com/cook/10175309"
+}
+]
+,"description": "Simmer seitan, carrots, onions, and celery in Irish beer to make this rich and flavorful vegan stew that pleases vegetarians and carnivores alike!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/yKU2FIN6ty1ZVD-0ml-MZvH7uKA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1363368-8c2643cc499c44839e80bd270c667277.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Vegan Stout Stew"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4",
+"ratingCount": "8"
+}
+,"cookTime": "PT55M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "351 kcal"
+,"carbohydrateContent": "35 g"
+,"fiberContent": "3 g"
+,"proteinContent": "19 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "562 mg"
+,"sugarContent": "7 g"
+,"fatContent": "13 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"5 tablespoons olive oil, divided",
+"2 tablespoons soy sauce",
+"14 ounces seitan, cut into bite-size pieces",
+"1 yellow onion, diced",
+"3 ribs celery, thinly sliced",
+"2 carrots, halved lengthwise and thinly sliced",
+"2 potatoes, diced",
+"3 cloves garlic, minced",
+"2 (12 fluid ounce) cans or bottles Irish stout beer",
+"2 tablespoons brown sugar",
+"2 tablespoons all-purpose flour",
+"1 tablespoon chopped fresh thyme",
+"salt and ground black pepper to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat 2 tablespoons olive oil and soy sauce in a skillet over medium-high heat. Saute seitan in hot oil until browned on all sides, about 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat remaining olive oil in a large pot over medium-high heat. Saute onion, celery, carrots, potatoes, and garlic in hot oil until onions are soft, 3 to 5 minutes. Reduce heat to medium and slowly stir beer into vegetable mixture."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir brown sugar, flour, thyme, salt, and black pepper into beer mixture; add seitan. Bring mixture to a simmer, reduce heat to low, and cook until stew reduces and thickens, about 45 minutes."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT75M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Added some peas because I like them and threw in a not beef bouillon cube, a little water and a bit more flour. This is an awesome recipe. I’ll be eating this all week."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mars"
+},
+"reviewBody": "Love it! The stout will make the difference. Choose wisely... :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Morgan Hazelton"
+},
+"reviewBody": "I have made this recipe three or four times, and it is a hit every time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Rob Roy"
+},
+"reviewBody": "Guinness is not vegan or vegetarian, since they still use fish batters to filter."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "jeffmari"
+},
+"reviewBody": "Have made it 3 times with good reviews from vegans and non-vegans. \nReduced seitan amount to 8oz (Upton's Naturals) because that was size of package, and it seemed the perfect amount to us.\nThe last time we had it I added a cup of frozen peas when nearly done, which enhanced the color and the flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Community"
+},
+"reviewBody": "I wan't able to find actual vegan stout before I was ready to cook this, so next time I will find, ahead of time, where I can buy that.\n\nI used Guiness; I think for my own tastes I would buy a lighter stout. I used store bought seitan, and it was a little chewy, not so pleasant, so I might actually try making my own to see if I can come up with a better consistency.\n\nOtherwise, made as directed, very good flavor. My family enjoyed the flavor, not so much the seitan."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/238663/vegan-stout-stew/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/94/soups-stews-and-chili/",
+"name": "Soups, Stews and Chili Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/183/soups-stews-and-chili/stews/",
+"name": "Stews"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/238663/vegan-stout-stew/",
+"name": "Vegan Stout Stew"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

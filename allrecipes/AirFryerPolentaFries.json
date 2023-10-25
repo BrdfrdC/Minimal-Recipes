@@ -1,0 +1,179 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Air Fryer Polenta Fries"
+,"datePublished": "2020-02-13T15:17:28.000-05:00"
+,"dateModified": "2022-01-14T01:16:59.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Soup Loving Nicole"
+,"url": "https://www.allrecipes.com/cook/souplovingnicole"
+}
+]
+,"description": "These air-fried polenta fries made with tubed polenta are simple, crunchy, delicious, and addictive."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/iDIyuqIv25wfRPYGOj9fls4zdDY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8029318-3ec44c3b9b7b402186ceb4d8ffa7207e.jpg",
+"height": 1500,
+"width": 1209
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Air Fryer Polenta Fries"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "4"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "80 kcal"
+,"carbohydrateContent": "17 g"
+,"fiberContent": "1 g"
+,"proteinContent": "2 g"
+,"sodiumContent": "391 mg"
+,"sugarContent": "1 g"
+,"fatContent": "0 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"1 (16 ounce) package prepared polenta",
+"nonstick olive oil cooking spray",
+"salt and ground black pepper to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat an air fryer to 350 degrees F (175 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Slice polenta into long, thin slices resembling french fries."
+} ,{
+"@type": "HowToStep"
+,"text": "Spray the bottom of the basket with cooking spray. Place 1/2 of the polenta fries in the basket and lightly mist the tops with cooking spray. Season with salt and pepper."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook in the preheated air fryer for 10 minutes. Flip the fries with a spatula and cook until crispy, about 5 minutes longer. Transfer fries to a paper towel-lined plate. Repeat with remaining half of fries."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT35M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jmshultz"
+},
+"reviewBody": "These are very good. I made Parmesan polenta and saved the leftovers and made this recipe. Delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kandi Johnson"
+},
+"reviewBody": "We really liked these! We haven't had polenta before, so it was good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah Ackerman-Hale"
+},
+"reviewBody": "Thought these were delicious and so easy! I warmed up some red pasta sauce for dipping. Incredible!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "LauraF"
+},
+"reviewBody": "These were a great snack! Super easy. I had some leftover marinara sauce so ate them with that. One thing I'd recommend is making sure you like the flavor of the prepared polenta you use. I didn't love the brand I used and probably won't use it again."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/278680/air-fryer-polenta-fries/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/223/side-dish/grains/",
+"name": "Grain Side Dish Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16769/side-dish/grains/polenta/",
+"name": "Polenta Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/278680/air-fryer-polenta-fries/",
+"name": "Air Fryer Polenta Fries"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

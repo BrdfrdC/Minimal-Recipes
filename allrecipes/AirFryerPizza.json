@@ -1,0 +1,126 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Air Fryer Pizza"
+,"datePublished": "2022-12-07T09:00:00.000-05:00"
+,"dateModified": "2022-12-07T09:00:00.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "lutzflcat"
+,"url": "https://www.allrecipes.com/cook/lutzflcat"
+}
+]
+,"description": "Use your air fryer to make personal pizzas which can be easily be customized to everyone&#39;s liking."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/8HxaI2M1ut7nSGMMFqEt2F1XmJk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1669917896Air20Fryer20Pizza-2000-8f8df1f8938342b3b4adb6a8f7785798.jpeg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Air Fryer Pizza"
+,"cookTime": "PT8M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "966 kcal"
+,"carbohydrateContent": "101 g"
+,"cholesterolContent": "105 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "55 g"
+,"saturatedFatContent": "16 g"
+,"sodiumContent": "2660 mg"
+,"fatContent": "36 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"olive oil cooking spray",
+"1 (13.8 ounce) package refrigerated pizza dough (such as Pillsbury®)",
+"6 tablespoons pizza sauce, divided",
+"10 ounces shredded mozzarella cheese, divided",
+"14 slices pepperoni, divided",
+"0.5 cup onion slices, divided",
+"sprinkle of dried basil and red pepper flakes (optional)" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the air fryer for 5 minutes at 380 degrees F (190 degrees C). Spray the air fryer basket with olive oil spray or line with a parchment liner to avoid sticking."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove crust from the can, and cut in half. Shape each piece of dough into a circle and crimping up the edges to form a crust. Make sure it&#39;ll fit in your air fryer basket. Carefully transfer one pizza crust to the air fryer basket and spray lightly with olive oil spray. Prick the dough with a fork and precook for 3 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Spread 3 tablespoons pizza sauce onto the crust in the air fryer basket and sprinkle with 1/2 of the mozzarella cheese. Top with 7 pepperoni slices and half of the onion slices. Sprinkle with basil and red pepper flakes, if using."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook until crust is golden brown and crispy and the cheese has melted, 7 to 9 minutes. Keep in mind that cooking times may vary depending on the brand and size of your air fryer, so check frequently to be sure nothing overcooks or burns. Repeat procedure with the second pizza crust. Serve hot."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT23M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8514636/air-fryer-pizza/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+"name": "Main Dishes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/250/main-dish/pizza/",
+"name": "Pizza Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8514636/air-fryer-pizza/",
+"name": "Air Fryer Pizza"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

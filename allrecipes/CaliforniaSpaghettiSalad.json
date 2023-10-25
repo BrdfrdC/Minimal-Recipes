@@ -1,0 +1,144 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "California Spaghetti Salad"
+,"datePublished": "2023-01-11T11:07:37.000-05:00"
+,"dateModified": "2023-01-11T11:07:37.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Kim"
+,"url": "https://www.allrecipes.com/cook/k-i-m"
+}
+]
+,"description": "A delicious pasta salad full of vegetables and topped with goat cheese and almonds. Feel free to change up veggie quantities to your liking."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/tU-eO70v-dIfzBt2AuBTSVUOkAw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1673205606DSC_0974203-2000-5de63e5f8ed840e7a711974dbc2a3efe.jpg",
+"height": 1124,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "California Spaghetti Salad"
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "802 kcal"
+,"carbohydrateContent": "102 g"
+,"cholesterolContent": "25 mg"
+,"fiberContent": "8 g"
+,"proteinContent": "27 g"
+,"saturatedFatContent": "9 g"
+,"sodiumContent": "414 mg"
+,"fatContent": "32 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"2 tablespoons white wine vinegar",
+"2 tablespoons freshly squeezed lemon juice",
+"2 tablespoons freshly grated Parmesan cheese",
+"2.5 teaspoons Italian seasoning",
+"1.5 teaspoons honey",
+"1 clove minced garlic",
+"1 teaspoon Dijon mustard",
+"1 teaspoon dried basil",
+"0.25 teaspoon salt",
+"0.25 teaspoon freshly ground black pepper",
+"0.33 cup olive oil",
+"1 pound thin spaghetti",
+"1 cup baby spinach, rinsed and dried",
+"1 cup chopped broccoli",
+"1 cup frozen peas",
+"1 carrot, grated",
+"0.5 red onion, thinly sliced",
+"0.5 cucumber, peeled and thinly sliced",
+"1 Roma tomato, diced",
+"4 ounces crumbled goat cheese, or to taste",
+"0.25 cup toasted sliced almonds, or to taste",
+"salt and freshly ground black pepper to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Whisk together white wine vinegar, lemon juice, Parmesan cheese, Italian seasoning, honey, garlic, Dijon mustard, basil, salt, and pepper in a small bowl until well combined. Gradually mix in olive oil, whisking constantly. Set dressing aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Bring a large pot of lightly salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally, until tender yet firm to the bite, about 12 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "While spaghetti cook, prepare all the vegetables. Combine spinach, broccoli, peas, carrot, red onion, cucumber, and tomato in a large bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Drain pasta, and add to the bowl with the vegetables. Toss pasta and veggies together. Pour dressing over pasta and veggies and toss until thoroughly combined. Add in goat cheese and almonds and toss again to combine."
+} ,{
+"@type": "HowToStep"
+,"text": "Cover pasta, and chill in the fridge for at least 3 hours to overnight. Taste pasta salad, and season with more salt and pepper, if necessary."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT205M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8527062/california-spaghetti-salad/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/215/salad/pasta-salad/",
+"name": "Pasta Salad"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16194/salad/pasta-salad/spaghetti-pasta-salad/",
+"name": "Spaghetti Pasta Salad Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8527062/california-spaghetti-salad/",
+"name": "California Spaghetti Salad"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

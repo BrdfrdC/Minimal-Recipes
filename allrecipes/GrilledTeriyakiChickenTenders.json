@@ -1,0 +1,160 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Grilled Teriyaki Chicken Tenders"
+,"datePublished": "2015-03-14T15:06:53.000-04:00"
+,"dateModified": "2015-03-14T15:06:53.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Jacqueline Bedsaul Johnson"
+,"url": "https://www.allrecipes.com/cook/jacquej57"
+}
+]
+,"description": "This recipe for marinated grilled chicken tenders has been passed down for generations, but updated to lower the sugar and sodium content."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/f1G_RJ8vdLIibf5329R1Y7h7L-k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Grilled-Teriyaki-Chicken-Tenders-2000-f11b8d1ea4eb42848452d2225023f309.jpg",
+"height": 1000,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Grilled Teriyaki Chicken Tenders"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4",
+"ratingCount": "2"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "169 kcal"
+,"carbohydrateContent": "10 g"
+,"cholesterolContent": "64 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "25 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "1863 mg"
+,"sugarContent": "7 g"
+,"fatContent": "3 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"0.5 cup soy sauce",
+"0.33333334326744 cup water",
+"0.25 cup rice wine vinegar",
+"2 tablespoons brown sugar",
+"1 teaspoon ground ginger",
+"1 clove garlic, smashed",
+"1 dash Worcestershire sauce",
+"1 (16 ounce) package boneless, skinless chicken tenders" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Whisk soy sauce, water, vinegar, brown sugar, ginger, garlic, and Worcestershire sauce together in a bowl and pour into a 1-gallon resealable plastic bag. Add chicken tenders, coat with the marinade, squeeze out excess air, and seal the bag. Marinate in the refrigerator for at least 1 hour, or up to 4 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat an outdoor grill for medium heat and lightly oil the grate."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove chicken from the marinade and shake off excess. Discard the remaining marinade."
+} ,{
+"@type": "HowToStep"
+,"text": "Place chicken on the grill and cook until no longer pink in the center and the juices run clear, 3 to 4 minutes per side. An instant-read thermometer inserted into the center should read at least 165 degrees F (74 degrees C)."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT80M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "humblepieliving "
+},
+"reviewBody": "This chicken was great! We served it with rice and broccoli that I cooked in the reserved sauce (with some corn starch, like the notes said) and added a bunch of red pepper flakes and we loved it! Could just as easily be cooked on a skillet and add more sauce, which would be great over rice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "lutzflcat"
+},
+"reviewBody": "4.25.22 This was good, but tasted very similar to many other Asian marinades I’ve made. Watch your time on the grill, as tenders cook quickly."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/281488/grilled-teriyaki-chicken-tenders/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16954/main-dish/chicken/",
+"name": "Chicken"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/15938/main-dish/chicken/chicken-teriyaki/",
+"name": "Chicken Teriyaki Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/281488/grilled-teriyaki-chicken-tenders/",
+"name": "Grilled Teriyaki Chicken Tenders"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

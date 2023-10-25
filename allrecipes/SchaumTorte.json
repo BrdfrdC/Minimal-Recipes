@@ -1,0 +1,288 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Schaum Torte"
+,"datePublished": "2020-06-18T23:08:54.000-04:00"
+,"dateModified": "2022-07-14T17:15:31.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Lene Marie Dotzler"
+,"url": "https://www.allrecipes.com/cook/113935"
+}
+]
+,"description": "In this version of the classic German dessert, meringue shells are filled with vanilla ice cream and sweetened strawberries."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Qmsv0PxkBLVz5Er_L_LD_NZbLZw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9115-46d4fadc34f6476ba27fd922f61a44cf.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Schaum Torte"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "3.9",
+"ratingCount": "12"
+}
+,"cookTime": "PT90M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "505 kcal"
+,"carbohydrateContent": "91 g"
+,"cholesterolContent": "58 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "7 g"
+,"saturatedFatContent": "9 g"
+,"sodiumContent": "132 mg"
+,"sugarContent": "87 g"
+,"fatContent": "15 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"0.5 cup egg whites",
+"2 teaspoons vinegar",
+"1 tablespoon vanilla extract",
+"2 cups white sugar",
+"0.5 gallon vanilla ice cream",
+"1 (10 ounce) package frozen sweetened strawberries, thawed" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat oven to 250 degrees F (120 degrees C). Butter a large baking sheet or line it with parchment paper."
+} ,{
+"@type": "HowToStep"
+,"text": "In a large glass or metal mixing bowl, beat egg whites until foamy. Blend in vinegar and vanilla. Gradually add sugar, continuing to beat until stiff peaks form. With a large spoon, drop meringue in 8 mounds (about 4 inches diameter), close together on baking sheet. Indent the center of each meringue with the back of a spoon."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in preheated oven for 1 1/2 hours. Turn off oven, and let shells cool in the oven, about 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "To serve: Fill each shell with a scoop of vanilla ice cream, and smother with thawed strawberries."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT170M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "2tqs55852r"
+},
+"reviewBody": "This is pretty much my mother's recipe except for the (necessary) addition of 1/4 tsp. cream of tartar. I always let them cool in the oven overnight and bake them at 170F. Excellent served with a sauce made from sweet cherries. Or any other fruit. You won't miss the ice cream. Don't forget the whipped cream."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "jodeed"
+},
+"reviewBody": "This was too sweet. Next time I will reduce the sugar by at least 1/4th."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Klabo"
+},
+"reviewBody": "I believe this is actually an American invention"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ccbPiccolo"
+},
+"reviewBody": "2 cups of sugar seemed like a lot to me, so I reduced it to about 1 2/3 cup &amp; it was still plenty sweet. Also added 1 tsp cr of tartar. I'll be making it again, but with about 1 1/2 cup sugar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kay"
+},
+"reviewBody": "Used an ice cream scoop to make individual shells of a group. The batch made about 30. Then filled just before serving to maintain crisp shells. It was a great way to use this traditional recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Sara Coats"
+},
+"reviewBody": "Way too much sugar for, I would cut it in half next time. Also it would help with the grainy texture of the sugar to use superfine or just pulse regular sugar in the blender a few times. And lastly, next time I would cut the vanilla down to half because it gave the torte an unpleasant brown color."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "sirdidymus2000"
+},
+"reviewBody": "FYI, 6 egg whites is what you need (1/2 c is hard to guess when measuring something like eggs)I put mine all together in one pan (9x13) rather than making individual blobs and cook at 300 for 40 minutes, turn off oven, open oven door and let sit for 30 min and it's done. I also add 1/2 tsp of almond extract and 1/4 tsp salt. Yes, the blending takes A LONG TIME even with a mixer. Probably about 15 minutes, so just keep blending :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "DIANNE_WEBER"
+},
+"reviewBody": "Way too much vanilla - gave it a brown color. Also sugar remained grainy and I couldn't get stiff peaks. I was making heart-shaped ones for Valentine's Day and after these failed I went back to Betty Crocker cookbook and those turned out perfectly. I do admit that these tasted good as giant cookies. . ."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "bw"
+},
+"reviewBody": "I bake mine at 150 degrees F for about 1 and 1/2 hours then shutoff the oven with them still inside ... about another hour. They turn out just perfect. Also make sure it is not humid ... need low humidity or they will be the pancake version."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jill Klug"
+},
+"reviewBody": "Not sure about the 1 1/2 hour cooking time. I doubled the recipe and cooked mine about 45 min. and they were still overdone. Next time I think I'll try 30 min. Otherwise very easy to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "buck"
+},
+"reviewBody": "i'll know in about 30 minutes if this is going to work. i would highly recommend that the word \"foamy\" be striken and changed to \"very stiff\". i nearly burned up a kitchenaid mixer trying to get this stuff to the point where it would form stiff peaks and it actually never did get to that point. i think i just got finished making very chewy schaum pancakes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This was really good. Reminds me of the one's my mom used to make. Be careful and don't cook too long. Mine looked okay on the outside but were brown on the inside. Will definitely make again. Thanks for the recipe."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/49071/schaum-torte/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/231/world-cuisine/european/",
+"name": "European"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/722/world-cuisine/european/german/",
+"name": "German"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/49071/schaum-torte/",
+"name": "Schaum Torte"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

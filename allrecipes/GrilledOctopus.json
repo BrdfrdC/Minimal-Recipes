@@ -1,0 +1,284 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Grilled Octopus"
+,"datePublished": "2019-06-14T02:40:08.000-04:00"
+,"dateModified": "2023-03-21T14:02:59.770-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Kim's Cooking Now"
+,"url": "https://www.allrecipes.com/cook/kimscookingnow"
+}
+]
+,"description": "Tender grilled octopus is drizzled with extra virgin olive oil, a squeeze of fresh lemon, and a sprinkling of parsley for a superb seafood appetizer."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/J7hX8IQcYGf3vlvfZrz5r7pd29U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6723522-af2855be1a38418ebd9fc516034ffecc.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Grilled Octopus"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "12"
+}
+,"cookTime": "PT60M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "384 kcal"
+,"carbohydrateContent": "11 g"
+,"cholesterolContent": "199 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "62 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "2899 mg"
+,"fatContent": "9 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+, "recipeCategory": ["Appetizer"]
+,"recipeCuisine": ["American"]
+,"recipeIngredient": [
+"2 tablespoons kosher salt",
+"1 tablespoon black peppercorns",
+"1 wine cork",
+"3.5 pounds octopus, head and beak removed",
+"2 tablespoons extra virgin olive oil",
+"0.5 medium lemon",
+"0.5 tablespoon minced fresh parsley",
+"salt and freshly ground black pepper to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Fill a large pot 1/2 full with water. Add 2 tablespoons kosher salt, peppercorns, and the wine cork; bring to a boil over high heat."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, place octopus on a cutting board. Using a wooden spoon or meat mallet, pound the octopus multiple times, starting in the middle and moving down each tentacle to tenderize the meat."
+} ,{
+"@type": "HowToStep"
+,"text": "Dip tentacles into the boiling water 3 times, holding them in the boiling water 2 to 3 seconds each time, until the tentacles curl up. Submerge entire octopus in the boiling water. Bring water back to a boil, reduce heat to low, cover, and simmer until octopus is fork-tender, 45 to 60 minutes. Remove from heat and cool for 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat an outdoor grill for medium-high heat and lightly oil the grate."
+} ,{
+"@type": "HowToStep"
+,"text": "Grill octopus until charred on all sides, 3 to 4 minutes per side."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove from heat, slice into pieces, and place on a serving platter. Drizzle with extra virgin olive oil and squeeze lemon over the top. Sprinkle with parsley and season with salt and pepper. Serve immediately."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT105M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This is exactly what Grilled Octopus is supposed to taste like. It was delicious and tender and if you can follow simple directions you won’t be disappointed one bit."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle"
+},
+"reviewBody": "First time preparing octopus. I was not a fan but I don't really like sea food. My family loved it. I will make it again for them."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Danpryce"
+},
+"reviewBody": "Super easy to do and comes out very tender."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dave S"
+},
+"reviewBody": "It was simple to make but did take a lot of time for the prep. The octopus shrinks by at least 50% so just be aware when you are planning for a meal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Little LuLu"
+},
+"reviewBody": "This is one of my go-to recipes. We eat it when my fishmonger gets in octopus. So delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mindy gramberg"
+},
+"reviewBody": "boiling really helped to soften the meat. It was great! not sure what the cork is for?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nick Dastick"
+},
+"reviewBody": "Loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "ap53"
+},
+"reviewBody": "I live in the Boston area where we are lucky to have an international selection of top quality foods, Greek food being no exception so I know how excellent grilled octopus should taste like.\n\nThis is not it. I am a decent cook and based on all the reviews I followed each step carefully without improvising. The result was horrible - yes, it was cooked and fairly tender but the protein in the octopus was over cooked and had the texture of fake crab meat, a touch firmer.\n\nThe charred taste was dominant, there was no taste of octopus left. No taste, no texture not anything of octopus but a very bitter charred piece of random protein. Very sad for the time I spent on it. I managed to take a couple of bites but the rest went into compost. \n\nAnd although I had some orange after and cherries, I still have a strong bitter taste in my mouth. Very unfortunate."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Signe Rakisits Comfort"
+},
+"reviewBody": "Very good; first time making it and turned out great, super tender. I used the broiler in my oven on high instead of grill but still great. Will definitely make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anna Daragan"
+},
+"reviewBody": "It was our first time cooking octopus at home, and it came out amazing!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rachel Dobson"
+},
+"reviewBody": "Followed your recipe to the tee and it was better than our favourite Greek restaurant!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/274231/grilled-octopus/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/412/seafood/shellfish/",
+"name": "Shellfish"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/906/seafood/shellfish/octopus-and-squid/",
+"name": "Octopus and Squid"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/274231/grilled-octopus/",
+"name": "Grilled Octopus"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

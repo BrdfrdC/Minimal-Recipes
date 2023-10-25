@@ -1,0 +1,137 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Quick and Easy Mango Margaritas"
+,"datePublished": "2020-06-19T00:17:55.000-04:00"
+,"dateModified": "2023-03-09T07:49:09.313-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Michael Anne"
+}
+]
+,"description": "This mango margarita recipe is made by blending mango nectar, tequila, margarita mix, and fresh lime for a sweet and refreshing summer cocktail."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/shKv25XpzA8IgD_INiIKooFVQyU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5393153-5cb3ebdc2598492599ca41ca661baf35.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Quick and Easy Mango Margaritas"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "1"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "208 kcal"
+,"carbohydrateContent": "27 g"
+,"fiberContent": "1 g"
+,"proteinContent": "0 g"
+,"sodiumContent": "62 mg"
+,"sugarContent": "26 g"
+,"fatContent": "0 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+, "recipeCategory": ["Beverage"]
+,"recipeCuisine": ["Mexican"]
+,"recipeIngredient": [
+"2 cups ice",
+"12 fluid ounces margarita mix",
+"6 fluid ounces tequila",
+"4 fluid ounces mango nectar",
+"1 lime, halved",
+"1 tablespoon white sugar, or as needed" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine ice, margarita mix, tequila, and mango nectar in a blender; squeeze 1 lime half into the blender. Blend until cocktail is smooth."
+} ,{
+"@type": "HowToStep"
+,"text": "Cut remaining lime half into wedges. Pour 1/4 to 1/2 inch of sugar onto a small, shallow plate. Moisten rims of 4 glasses with a wedge of lime, dip the moistened glasses into sugar. Pour cocktail into the prepared glasses."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT5M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Soup Loving Nicole"
+},
+"reviewBody": "I've had this in my recipe box for quite some time but always end up going with something else when I see the mango in the title. Not because I don't like mango's but I absolutely hate cutting them up. That flat seed gets the better of me every single time. Well, they are in season and on sale right now so I decided to pull the recipe up and check it out. What a nice surprise to see this calls for mango nectar instead of an actual mango. I ran to the store, grabbed me a can of nectar, and had me a pitcher of margaritas in less than 5 minutes. Excellent recipe! I plan on trying this out with other flavors too."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/255001/quick-and-easy-mango-margaritas/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/133/drinks/cocktails/",
+"name": "Cocktail Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/14933/drinks/cocktails/margaritas/",
+"name": "Margarita Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/255001/quick-and-easy-mango-margaritas/",
+"name": "Quick and Easy Mango Margaritas"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

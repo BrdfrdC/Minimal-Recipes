@@ -1,0 +1,240 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Chicken with Chanterelle Mushrooms and Marsala Wine"
+,"datePublished": "2018-06-08T10:01:32.000-04:00"
+,"dateModified": "2018-06-08T10:01:32.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Kelly"
+,"url": "https://www.allrecipes.com/cook/kelly2"
+}
+]
+,"description": "This take on a classic recipe combination of chicken and Marsala wine uses chanterelle mushrooms and plenty of butter to deliver a tasty chicken main dish."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/-bJZ4PoXbWbHGEJzgrjmWaESxwM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5916895-4b21282107984127bc19510b8a7aae9e.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Chicken with Chanterelle Mushrooms and Marsala Wine"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "11"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "637 kcal"
+,"carbohydrateContent": "25 g"
+,"cholesterolContent": "161 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "30 g"
+,"saturatedFatContent": "23 g"
+,"sodiumContent": "337 mg"
+,"sugarContent": "6 g"
+,"fatContent": "38 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"3 tablespoons all-purpose flour",
+"0.5 teaspoon paprika",
+"2 skinless, boneless chicken breast halves",
+"2 tablespoons butter",
+"0.5 pound sliced chanterelle mushrooms",
+"4 tablespoons butter",
+"salt and ground black pepper, or to taste",
+"1 cup chicken broth",
+"0.5 cup dry Marsala wine",
+"1 teaspoon dried tarragon, crushed" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Stir flour and paprika together in a shallow dish. Remove and set aside 1 tablespoon of the flour mixture for later use. Dredge the chicken in the flour mixture to coat evenly."
+} ,{
+"@type": "HowToStep"
+,"text": "Melt 2 tablespoons butter in a skillet over medium heat; cook and stir chanterelle mushrooms in melted butter until they release their liquid and begin to brown, about 5 minutes. Transfer mushrooms to a bowl and set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Melt 4 tablespoons butter in the skillet. Cook the chicken breasts in the melted butter until browned, about 3 minutes per side; season with salt and pepper."
+} ,{
+"@type": "HowToStep"
+,"text": "Return the cooked mushrooms to the skillet and stir in chicken broth, reserved 1 tablespoon of flour-paprika mixture, Marsala wine, and dried tarragon. Place a cover on the skillet, reduce heat to low, and cook until the sauce is thick, the chicken is no longer pink in the center, and the juices run clear, about 20 minutes. An instant-read thermometer inserted into the center of a chicken breast should read at least 165 degrees F (74 degrees C)."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT45M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "John M"
+},
+"reviewBody": "Unfortunately, my wife decided she really doesn't like chanterelle mushrooms. The marsala and tarragon pairing definitely enhance each other."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chris Gamm"
+},
+"reviewBody": "I’m very sensitive to the taste of tarragon, so I nearly always cut the amount of it in half. I did here and it turned out excellent. I was worried the wine would overpower the chanterelles, but the compliment each other very well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tomfinger"
+},
+"reviewBody": "I added a bit of onion while sauteeing the mushrooms (didn't have shallots but will use those next time) and used half smoked paprika and half Hungarian paprika for the flour mix. Also substituted half and half mix of sherry and port since I didn't have Marsala. It all worked perfectly complementing but not overwhelming the delicate flavor of the chanterrelles."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shanny Mahan"
+},
+"reviewBody": "A friend of mine had brought up some chanterelles he had found while out in the woods on the coast. Having never cooked with them before, I immediately opened up my All Recipes app to see what I could find and this recipe was first on the list.\nI followed to recipe exactly except I used cubed chicken versus chicken breasts. I was concerned the chicken would get too dry, but simmering it in with the mushrooms and chicken broth prevented that. \nThe flavor was excellent! Not bland as other reviews had mentioned. I served it with fettuccine noodles and sauteed squash and zucchini, it was so delicious! My husband loved it and I will most definitely be making this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Julie Trnavsky"
+},
+"reviewBody": "Fabulous. I didn't have chicken broth! I had to substitute...used 1 can of mushroom soup and 1/2 cup of water. My hubby even said it;s a winner and he is a steak or fried chicken man, hard to get him to eat chicken! I think I'll try it with some Oregon pheasant....Thanks Kelly for a great way to enjoy Oregon wild chanterelle mushrooms!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Julie Trnavsky"
+},
+"reviewBody": "Fabulous. I didn't have chicken broth! I had to substitute...used 1 can of mushroom soup and 1/2 cup of water. My hubby even said it;s a winner and he is a steak or fried chicken man, hard to get him to eat chicken! I think I'll try it with some Oregon pheasant....Thanks Kelly for a great way to enjoy Oregon wild chanterelle mushrooms!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lindsey Eustace"
+},
+"reviewBody": "This was a pretty good recipe. I found it to be slightly bland but not anything that could not be changed with a bit a seasoning. I think next time I will add more Marsala wine. I love the flavor of Marsala. I served this over angel hair pasta and with some home made garlic bread."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Girldog"
+},
+"reviewBody": "This was soo good! Unfortunately I did not have chanterelle mushrooms so I used baby portabellas. I also used the culinary chicken broth with white wine and herbs that I had left over. I omitted the salt because of that but did use the dried tarragonand of course the marsala. The sauce was so tasty I made mashed potatoes so I could have more of it. There was enough sauce for three breasts and potatoes too! A keeper!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/221551/chicken-with-chanterelle-mushrooms-and-marsala-wine/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16767/world-cuisine/european/italian/main-dishes/",
+"name": "Main Dishes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1796/world-cuisine/european/italian/main-dishes/chicken/",
+"name": "Chicken"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/221551/chicken-with-chanterelle-mushrooms-and-marsala-wine/",
+"name": "Chicken with Chanterelle Mushrooms and Marsala Wine"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,304 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "The Best Pumpkin Bread"
+,"datePublished": "2020-06-19T00:43:21.000-04:00"
+,"dateModified": "2020-06-19T00:43:21.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Syd"
+,"url": "https://www.allrecipes.com/cook/sydnycarter"
+}
+]
+,"description": "This quick and easy pumpkin bread is wonderfully moist and has a great texture which comes from sifting the dry ingredients together."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/KOxOzWiDjyARsBx_vr_Qoz3k3nE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7422212-c238d75b9f20430894316499bc8dbdd0.jpg",
+"height": 2000,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "The Best Pumpkin Bread"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "15"
+}
+,"cookTime": "PT50M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "232 kcal"
+,"carbohydrateContent": "32 g"
+,"cholesterolContent": "31 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "305 mg"
+,"sugarContent": "17 g"
+,"fatContent": "10 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1 (15 ounce) can pumpkin puree",
+"2 cups white sugar",
+"1 cup vegetable oil",
+"0.66666668653488 cup water",
+"4 eggs",
+"1 teaspoon vanilla extract",
+"3.5 cups all-purpose flour",
+"2 teaspoons baking soda, sifted",
+"1 tablespoon ground cinnamon",
+"1.5 teaspoons salt",
+"1 teaspoon ground nutmeg",
+"0.25 teaspoon ground ginger" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat oven to 350 degrees F (175 degrees C). Grease and flour three 7x3-inch loaf pans."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix together pumpkin puree, sugar, oil, water, eggs, and vanilla extract in a large bowl until well blended. Whisk together flour, baking soda, cinnamon, salt, nutmeg, and ginger in a second bowl. Sift flour mixture on top of the pumpkin mixture and fold in with a spatula until just blended. Pour into the prepared pans."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until nicely browned on top and a toothpick inserted in the center comes out clean, about 50 minutes."
+} ]
+,"recipeYield": ["24"]
+,"totalTime": "PT70M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Great recipe. Generous recipe and good for giving as presents. Not showy but very tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bekah"
+},
+"reviewBody": "This recipe is awesome but at first I didn't like it. I tasted it right out of the oven and the flavors were very harsh. But! When I tried it again the next day it was perrrfect! So my recommendation is to allow the loaves to cool completely and let the spices calm down before you serve it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jenny Alton Benedict"
+},
+"reviewBody": "Love this recipe! It’s a favorite 🥰"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "G-JO"
+},
+"reviewBody": "Easy. Had everything in my pantry."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chris"
+},
+"reviewBody": "This pumpkin bread is delicious!!! I only got 2 loaves, but I think my loaf pans are larger than 7x3. I added 1/2 teaspoon of pumpkin pie spice and 1/4 teaspoon of cloves."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Cheri Haven"
+},
+"reviewBody": "Did need a little more spice, very nice texture, definitely sift the dry ingredients and fold in."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "suzanne huff"
+},
+"reviewBody": "Simple and Delish"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Yukiko"
+},
+"reviewBody": "Tried different pumpkin breads before. This is the BEST!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This recipe makes 3 loaves! It needs double the amount of spice for flavor. I was not impressed."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "GiGi"
+},
+"reviewBody": "My grandkids loved this bread! Will be making it again soon!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lena"
+},
+"reviewBody": "My new favorite pumpkin bread!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Spowell"
+},
+"reviewBody": "Delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "barbara"
+},
+"reviewBody": "Super delicious!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/277579/the-best-pumpkin-bread/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/360/bread/quick-bread/",
+"name": "Quick Bread Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/347/bread/quick-bread/pumpkin-bread/",
+"name": "Pumpkin Bread Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/277579/the-best-pumpkin-bread/",
+"name": "The Best Pumpkin Bread"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

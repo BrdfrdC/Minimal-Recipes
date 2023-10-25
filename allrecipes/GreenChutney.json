@@ -1,0 +1,656 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Green Chutney"
+,"datePublished": "1999-10-21T11:21:32.000-04:00"
+,"dateModified": "2022-12-15T20:43:51.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Rani"
+,"url": "https://www.allrecipes.com/cook/24327529"
+}
+]
+,"description": "This is a very tasty cilantro-based chutney that can be prepared in minutes. Just add fresh lemon juice, a small green chili, peanuts, salt, garlic, and fresh ginger to the cilantro and process until smooth."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/MqTHQMgI3aUYeuLcoU2jRQoERbk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/32810-green-chutney-Marigat-1x1-1-2556627f37184d2099f202ef714d78b5.jpg",
+"height": 960,
+"width": 960
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=5729447136001",
+"description": "A very tasty Indian chutney ready in no time in the blender.",
+"duration": "PT41S",
+"name": "Green Chutney",
+"thumbnailUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/a3ea2f63-3b36-4e8a-b201-0cdf4fa6db31/c1c9a2cf-59bd-4fb1-9c3d-c057d04f490e/1280x720/match/image.jpg",
+"uploadDate": "2021-07-17T02:31:40.805-04:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Green Chutney"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "52"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "25 kcal"
+,"carbohydrateContent": "3 g"
+,"fiberContent": "1 g"
+,"proteinContent": "1 g"
+,"saturatedFatContent": "0 g"
+,"sodiumContent": "8 mg"
+,"sugarContent": "1 g"
+,"fatContent": "1 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 bunch fresh cilantro",
+"1 clove garlic",
+"1 tablespoon minced fresh ginger root",
+"1 minced hot green chile peppers",
+"1 tablespoon peanuts",
+"salt to taste",
+"2 tablespoons lemon juice" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/MqTHQMgI3aUYeuLcoU2jRQoERbk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/32810-green-chutney-Marigat-1x1-1-2556627f37184d2099f202ef714d78b5.jpg"
+}
+]
+,"text": "Blend the following in a food processor until smooth: cilantro, garlic, ginger, green chili, peanuts, salt to taste, and lemon juice. Add a few drops of water if the mixture is too dry."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT15M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "S.E."
+},
+"reviewBody": "Too bitter until I added sugar which made it a 5-star."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "teresa"
+},
+"reviewBody": "we can eat this every night with different meats. we make at least 4 batches at a time. love it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Angela"
+},
+"reviewBody": "This \"Green Chutney\" was good; however, next time I would leave out the peanuts simply because we consume too much peanuts and other nuts in our home already."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jason Johnson"
+},
+"reviewBody": "Very flavorful, but I did add 3 tblspns of sugar"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Annette Jones"
+},
+"reviewBody": "Didn't make very much and didn't really liquify without any oil, I don't know what the small amount of peanuts were supposed to do"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "riceap"
+},
+"reviewBody": "My favorite condiment!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Angie K"
+},
+"reviewBody": "I followed the recipe exactly but I had some chili lime peanuts so I threw those in in place of plain peanuts. \n\nI loved the flavor, but I wasn’t able to process it to look like the pictures. I finely chopped everything before I tossed it into the FP. Still looked more like chopped spinich than a creamy smooth dipping sauce. Tasted fantastic tho and went superbly with my Samosas!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "robyn"
+},
+"reviewBody": "I made this according to the recipe and it turned out great! I used a Serrano pepper. I started with my mini-prep but it just looked like pesto-- needed to transfer to a high powered blender (vitamix). It was difficult to get it out of the blender, but worth it. Yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Melody"
+},
+"reviewBody": "This was very spicy and very good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "veggyhill"
+},
+"reviewBody": "Perfect for dips ans spread on toast!\nLovely for St. PATRICK's DAY!\nHard to get cilantro all year round, does it freeze?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lauraeaton77"
+},
+"reviewBody": "This recipe was really good. I had my doubts when I just tasted it on its own but it was really good as a dip for samosas. I had to use lime juice instead of lemon juice because I'm in a place where it's not possible to find lemon juice (or lemons!) but I imagine it would be even better prepared correctly, so I'm giving it 5 stars. Though, I did have to add about 1/4 - 1/3 cup water and that's not tecnhically a part of the recipe. Also, make sure you process the peanuts first and then add the other ingredients because if you put them in at the end they don't get processed properly and you end up with whole peanuts in your chutney."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "a_grigorova"
+},
+"reviewBody": "This green chutney was very good. I made it with samosa which accompanied homemade naan and homemade butter chicken. The down side for me, which was no fault of the author was that in BUlgaria, we do not have fresh cliantro. However, I did find thai corriander paste which I substituted for the cliantro. It was still good with this substitute but I bet this recipe would have been really good if I could get real cliantro like I would get back in the states..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Debra Ann Shah"
+},
+"reviewBody": "My favorite low fat and healthy. Add 1 tsp. cumin powder or seeds."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "gayla"
+},
+"reviewBody": "Love this, minus the peanuts, as a dipping sauce for grilled shrimp. \n\nTo the reviewer who felt that only Indian, Mexican and kids from other countries would enjoy this, I will share that kids raised in the American South, with Crystal, Tabasco and pepper sauce as fixtures on the table, would also not have a problem. :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "hourglass"
+},
+"reviewBody": "First green chutney recipe I've made. Not sure about the peanut taste. Could use a little brown sugar. Pretty good though!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "johar"
+},
+"reviewBody": "This is a staple at my house (with coconut instead of peanuts.) \nI have it for lunch on \"Indian tacos\"--vegetables stir-fried with Indian spices on whole wheat tortillas dressed with yogurt and green chutney.\nThen the next day I puree the leftover vegetables with water and a spoonful of green chutney to make soup for dinner. \nDelicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "parvipica"
+},
+"reviewBody": "This is so yummy! Good for toast and dipping veggies. Switched lemon with lime, yum yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christine"
+},
+"reviewBody": "fantastic! omitted the garlic and peanuts but so fresh and good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Vanessa Gross Brooks"
+},
+"reviewBody": "This is so easy to make! I used raw cashews instead of peanuts due to peanut allergies in my house, but it still has a great flavor. Didn't need any water added to it as the consistency was perfect. I chopped the cilantro and garlic first - adding a little cilantro at a time - and then added the other ingredients one by one to make sure everything got blended well. My husband will love this as the chili pepper I used appears to be very hot!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer DeFosse"
+},
+"reviewBody": "I have better luck using my blender than food processor for this- it gives it a finer, more even chop. Also, I forego the peanuts and add a few sprigs of mint. Tastes so fresh and especially delicious with warm naan."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "rjfioravanti"
+},
+"reviewBody": "was great"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "WSBLEND"
+},
+"reviewBody": "I made as directed with a few minor changes: instead of the hot green chile I used 1/4 of a seeded finely diced jalapeño. (if I were having friends over who couldn't take much heat, I might reduce the jalapeño even further). The peanuts are probably not necessary...but I had some on hand so I tossed them in. And I used 2 cloves of garlic. Once everything was blended I noticed it didn't look \"right\"...looked more like a pesto than a sauce...so I added about 1/4 to 1/3 c of sour cream. It was AMAZING! We spread on those extra thin Indian cracker/bread things (Papadam??) along with the red and brown sauces the Indian restaurants serve as appetizers."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "holarosa"
+},
+"reviewBody": "I did half cilantro, half mint, two green chilies, no peanuts, lime juice instead of lemon and no peanuts. Perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TOELESSINCA"
+},
+"reviewBody": "This is an amazing sauce. My peppers weren't that spicy so I used 2 instead of 1 and I used lime juice in addition to lemon juice. I've been putting it on sandwiches and it's great. This one will repeat in my kitchen"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "soooz"
+},
+"reviewBody": "YUM! This chutney is amazing. I did leave out the peanuts &amp; add mint as several other people suggested, mainly because I was trying to recreate a chutney that I had tried at an excellent Indian restaurant recently. At first I didn't think this one was as good, but my guests raved about it. Then the next day I tasted it again - WOW, so tasty. Thanks very much!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah"
+},
+"reviewBody": "tasty and easy to throw together. everyone liked it -- thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "lwehner"
+},
+"reviewBody": "I don't want to rate this as I think I did something wrong- It was too runny and didn't taste good. Is it possible to overprocess this cilantro? It was very soupy. I also didn't taste much cilantro, all I could taste was ginger. I did add the 1/4 tsp sugar and some mint, all to no avail. It ended up in the disposal this time. Any help would be appreciated."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alane"
+},
+"reviewBody": "This was great - who knew making this stuff was so easy??"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ACB2424"
+},
+"reviewBody": "YUM! I didn't add the peanuts, but otherwise I followed the recipe exactly. I wish I had doubled it though - you would be suprised how small one bunch of cilantro chops down to. I didn't have a problem with too little liquid."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer J"
+},
+"reviewBody": "This is a really good recipe! My husband tasted the chutney before dinner and decided at that point that \"dinner is going to be good tonight\". Only thing I did differently was roasted the peanuts in a skillet with a little bit of oil or ghee. I would only recommend this if you are using raw peanut (not pre-roasted)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marigat"
+},
+"reviewBody": "I served this with a beef curry dish along with Indian spiced cabbage and chickpea curry. It complemented all three wonderfully! The brilliant green color also dressed up the plate. Thanks for a unique way of adding cilantro to an Indian dinner!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LESKY"
+},
+"reviewBody": "We love Indian food and have recently begun experimenting with recipes at home. This green chutney recipe has the authentic taste we want to balance out the other Indian dishes we like to serve. And it really is easy to make. \n\nI do think adding a little sugar and fresh mint, such as one reviewer suggested, produces a good flavor balance and also have tried both fresh peanuts and peanut butter. (I think the peanut butter is better, maybe because it blends better.)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "andrewfairley"
+},
+"reviewBody": "Pretty fair, but it -definately- needs some extra fluid to make it usable."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JFHINOH"
+},
+"reviewBody": "My husband has been yearning for this sauce since our local Indian restaurant closed. I substituted natural peanut butter for the peanuts and lime juice for lemon. This is great with the Naan recipe on this site. I will be making this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathleen Bayramian"
+},
+"reviewBody": "What a delightful chutney-served it with papadams."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LitleLisa1"
+},
+"reviewBody": "Tasty and colorful. I served it with chickpea curry (the recipe is also on allrecipes.com). I had a small problem with getting the chutney out of my blender, but other than it was no fuss."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "NARCOSLEEPY"
+},
+"reviewBody": "I brought this to a pot luck and had mass raves! The hostess, who claimed to hate cilantro, loved it the most!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CRYSTALKO"
+},
+"reviewBody": "What a fun chutney for a change! Great with curry! I really liked this, it was a terrific splash of color for a dinner party."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Green chutney is simply the best. I have my variations of this: only garlic or only ginger - not both. I prefer it without peanuts. I do add a little of unsweetened grated coconut to give this chutney some body from time to time. A few mint leaves also enhance the flavor. I also add 1/4 tsp of sugar. I love to smother my toast with this chutney and it gives me a welcome and spicy break from all the sweet breakfast dishes like pancakes, cereals, etc. You may want to avoid this if it has garlic though!! Great recipe! As for kids: only Indian and Mexican kids and kids from countries where the cuisine is normally fairly spicy will venture near this recipe!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "No kids to test it on, but I doubt they would be very taken with it."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/14122/green-chutney/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17031/side-dish/sauces-and-condiments/",
+"name": "Sauces and Condiments"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1563/side-dish/sauces-and-condiments/chutney/",
+"name": "Chutney Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/14122/green-chutney/",
+"name": "Green Chutney"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

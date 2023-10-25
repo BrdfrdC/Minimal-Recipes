@@ -1,0 +1,1441 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Simple Grilled Lamb Chops"
+,"datePublished": "2019-04-02T02:48:52.000-04:00"
+,"dateModified": "2023-03-01T12:26:50.929-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Noor"
+}
+]
+,"description": "These grilled lamb chops are tender, juicy, and full of flavor thanks to a garlic marinade. An easy-to-prep recipe for an impressive summer meal!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/ceTyZnhFhPe07SXEfp1AaqPWOhI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/137917-simple-grilled-lamb-chops-ddmfs-Step4-1535-f0c7c3bd5c28424cb9d1b699d2a474ff.jpg",
+"height": 1125,
+"width": 1500
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=6014530932001",
+"description": "Easy recipe for lamb chops when you’re looking forward to using your grill! ",
+"duration": "PT37S",
+"name": "Simple Grilled Lamb Chops",
+"thumbnailUrl": "https://static.onecms.io/wp-content/uploads/sites/43/2022/09/26/137917-simple-grilled-lamb-chops-ddmfs-3X4-1541.jpg",
+"uploadDate": "2020-10-21T04:26:31.201-04:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Simple Grilled Lamb Chops"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "361"
+}
+,"cookTime": "PT6M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "519 kcal"
+,"carbohydrateContent": "2 g"
+,"cholesterolContent": "112 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "25 g"
+,"saturatedFatContent": "18 g"
+,"sodiumContent": "861 mg"
+,"sugarContent": "1 g"
+,"fatContent": "45 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+, "recipeCategory": ["Dinner"]
+,"recipeCuisine": ["American"]
+,"recipeIngredient": [
+"1 onion, thinly sliced",
+"0.25 cup distilled white vinegar",
+"2 tablespoons olive oil",
+"1 tablespoon minced garlic",
+"2 teaspoons salt",
+"0.5 teaspoon black pepper",
+"6 (6 ounce) lamb chops" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/BUg34vDxOepLoIpoPHoIC9c65yA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/137917-simple-grilled-lamb-chops-ddmfs-Step2-1465-7629305cd54a477182d6f282484ba544.jpg"
+}
+]
+,"text": "Mix together onion, vinegar, oil, garlic, salt, and pepper in a large resealable bag. Add lamb, seal bag, and toss to coat. Marinate in the refrigerator for 2 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat an outdoor grill for medium-high heat."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove lamb from marinade and leave any onions on that stick to meat; discard marinade. Wrap exposed ends of bones with aluminum foil to keep them from burning."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/ceTyZnhFhPe07SXEfp1AaqPWOhI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/137917-simple-grilled-lamb-chops-ddmfs-Step4-1535-f0c7c3bd5c28424cb9d1b699d2a474ff.jpg"
+}
+]
+,"text": "Cook on the preheated grill to desired doneness, about 3 minutes per side for medium. An instant-read thermometer inserted into the center should read at least 130 degrees F (54 degrees C)."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT136M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carol Mac"
+},
+"reviewBody": "This is a good basic and easy recipe. I actually leave it in the fridge over night."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ira goodstadt"
+},
+"reviewBody": "Best lamb chops ever! My family loves them. Simple yet flavorful recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Valerie King Hamroff"
+},
+"reviewBody": "I made this recipe and it was so fantastic!!! Wondering how it would be on other cuts of meat?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rpinto"
+},
+"reviewBody": "Absolutely love the marinade... made it for my husband and two year old and they could not get enough... the addition of the cinnamon, all spice and garam masala as suggested by the original contributor makes a world of difference to the taste of the dish.. this has become a family favorite"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "radio robin"
+},
+"reviewBody": "Easy and flavorful! I'm not a big fan of lamb but my husband loves it. So when I saw lamb chops on sale I thought I'd surprise him (and I'd just eat the sides.) But it was so good I had one! Will likely try this marinade for other meats as well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Peggy"
+},
+"reviewBody": "Super easy and super delicious! Next time I might scale back just a smidgen on the vinegar"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Noor's Middle Eastern variant highly recommended. Baked pumpkin made a great side-dish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Neil Whitney"
+},
+"reviewBody": "Wow! This was delicious My kids loved these meat lolipops, this is no easy feat to have the pickiest eater in the family to gobble these up. Highly recommend this recipe! Did it exactly as recipe calls for with cinnamon and allspice the author recommended, didn't have the one ingredient in the pantry."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rische"
+},
+"reviewBody": "Outstanding recipe !!! Do not hesitate to make it !!! Thanks for having shared it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Johanna T"
+},
+"reviewBody": "These were amazing!!! Awesome quick and easy recipe. Of course being Hispanic, I had to add more minced garlic, salt and pepper than stated in the recipe. But that’s it!! Lol. I left it in a baggy in the fridge for like 3 or 4 hrs and followed the instructions and perfect. I kept the juices and whatever didn’t stay on the chops when grilled and cooked it in a pan then later poured it on the chops. No other changes. Thank you so much!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Eric Boesch"
+},
+"reviewBody": "Instead of turning on the grill, to save time I tried cooking these in a heavy preheated uncovered aluminum pot in the oven (maybe next time I'll try the pizza stone). Also dumped in some thyme clippings. Turned out well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Erika W"
+},
+"reviewBody": "I've made these twice now, and these lamb chops are absolutely exquisite! So simple to make. I only marinate them for about 30-40 minutes which is plenty! And definitely grill the onions with the chops -- you'll be glad you kept them. YUM!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Panda"
+},
+"reviewBody": "This recipe was great! I seldom cooked lamb because it always came out tasting “musky”. But I followed these directions, also adding a teaspoon of beef shawarma seasoning to the mix. I let my large lamb chop marinate for 2 hours in the refrigerator. Then I grilled it on my tabletop grill for 8 minutes on each side. ( I like well done meat). Following other reviews, I sautéed onions and mushrooms in a small pan and then added them to the lamb while it was grilling. Absolutely delicious!!! Such an easy and tasty recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ervan"
+},
+"reviewBody": "made this on a 400 degree big green egg turned out awesome. I did modify by adding fresh rosemary to marinade. It was really good rosemary complements lamb really well. My wife likes chops well done which was still good but the chops I cooked for me were medium and excellent !"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Minister Renee Morant"
+},
+"reviewBody": "I love this recipe. I did see the other reviews and marinated for 1 hour. I also used my Ninya air grill. They are very flavorful and tender with a beautiful char look."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "James Bell"
+},
+"reviewBody": "Some of the best lamb chops I've made to date. I used a propane grill instead of charcoal and they still were tasty and cooked just right."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "randy"
+},
+"reviewBody": "This tastes amazing! I marinated for about an hour and it came out perfect! So easy too!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Juliana Morawski"
+},
+"reviewBody": "Very tender. Took a bit longer than the 3 minutes per side, though. Next time I’ll use a meat thermometer.\nGreat marinade!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mamabeecookin"
+},
+"reviewBody": "Loved it! I used my vacuum sealer marinated gizmo for about 1/2 hr . I didn’t have WDV. so I used ACV. instead. It was so flavorful and tender, . It came out perfect. Will definitely make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JRsKitty"
+},
+"reviewBody": "Wow! I didn’t think I liked lamb. I’ll be making this more often"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "kelly"
+},
+"reviewBody": "did not really care for these"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KathyP"
+},
+"reviewBody": "A great recipe- I didn’t change a thing, chops turned out great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cookingscholar"
+},
+"reviewBody": "Followed the recipe exactly and they were delicious. The onions were exquisite. I will definitely add more to the recipe next time and try the marinade with other meats."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "danielle"
+},
+"reviewBody": "I love this recipe but I also add a little soy sauce to the marinade. My husband always says he hates lamb but gobbles these up!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Fast easy and delicious. Hands down the best lamb I’ve ever made. Wife and kids loved it too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "michelle hernandez"
+},
+"reviewBody": "Delicious! Even my 5 year old loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Turbos Mom"
+},
+"reviewBody": "Great shoulder lamb chops on sale at our local Stop &amp; Shop last week. Wanted to try something different. The white vinegar seemed odd but followed the recipe exactly. \n Unbelievable that so simple could be so good! No changes to the ingredients in the recipe, just no foil needed. \nWill make it again and again. Thank you."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "diane "
+},
+"reviewBody": "My husband grilled it longer than recipe called for. Probably 4-5 minutes extra. Or else too rare."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michael"
+},
+"reviewBody": "Delicious. First time grilling lamb. Our chops were very thin, so I had to watch carefully, but they were fantastic. By the way. I used orange juice instead of white vinegar for the acid component in the marinade. Awesome."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kathy"
+},
+"reviewBody": "I have been making these for years, but use balsamic and always rosemary. The video shows rib chops, but it is equally yummy with thick cut lamb loin chops. Either is delicious. \nLove it with red garlic smashed potatoes and asparagus with hollandaise."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "chas5131"
+},
+"reviewBody": "Superb\nThe chops were 1 inch thick. grilling took about 16 minutes.\nMade mint jelly available. They loved a small bit of the jelly with each bite."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "legallybrunette"
+},
+"reviewBody": "We’ve made this marinade a few times now and love it. I take the leftover marinade and sauté the onions in a saucepan until caramelized. It’s a tasty addition."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Drea Drea "
+},
+"reviewBody": "This recipe was so easy and delicious! My very skeptical husband planned on alternate dinner plans , but the minute these came off the grill he was in love. They were so flavorful and juicy, I can't wait to make these again for future guests as they are sure to impress."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bob"
+},
+"reviewBody": "Excellent Lamb receipt. I had people over for Easter dinner and they all loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kyandy"
+},
+"reviewBody": "DidNOT marinate! Cooked the onions in the oil and Red Wine Vinegar. Added all the rest of the ingredients to my 2 pieces of lamb. Then cooked 3 1/2 min per side in the same pan with the onions and red wine."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Larry Vaught"
+},
+"reviewBody": "I loved the marinade! Very easy to make. However, I used Bragg's Organic Apple Cider Vinegar. I found that lining a large casserole dish with foil and letting the lamb chops sit a few minutes let the juices REALLY soak in. They were almost better later. Served with baby carrots and white potatoes, sprayed with olive oil and sprinkled with sea salt, pepper, onion powder, and paprika, wrapped in foil and grilled for 30 minutes. Also..grilled romaine sprayed with olive oil, sprinkled sea salt, black pepper, rosemary, oregano, and garlic powder."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Terry"
+},
+"reviewBody": "My wife loves lamb and I had never cooked it for her. I saw this recipe and thought I would try it. Bought nice thick chops and fixed exactly as shown. They got a nice char and were excellent. She’s after me to do it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Fit4TheKING"
+},
+"reviewBody": "This recipe really did not meet my expectations. I followed it exactly as written. It wasn't bad, it just didn't seem like it added any \"wow\" flavor to it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Char"
+},
+"reviewBody": "Excellent marinade! Lamb was fork tender and very tasty. The only problem was the time to marinade. Original recipe called for 1-2 hrs in fridge. Author corrected it to 1 hour in review section quite a bit later."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "WENDELLA30"
+},
+"reviewBody": "Made these today exactly as written &amp; WOW were they tasty!!!! The lamb was so tender &amp; flavorful and the onions were ridiculously good! This will be a frequent recipe in our house for sure"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rod Schwartz"
+},
+"reviewBody": "Noor, thank you for sharing this amazing marinade recipe. I was surprised at first that there was no rosemary, no lemon, or other ingredients one is used to associating with lamb, but there was nothing lacking in the flavor of the meat grilled this way.\n\nAs noted in some of the comments, a shorter marinating time (90 minutes in my case) was fine, and there's a good case for erring on the generous side with the onions. (I lost too many through the grill grates. Next time I'll use a griddle to keep them from falling through.)\n\nGrilled over lump charcoal on the BGE, on the medium rare side, they were just delicious! Thanks again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Timt"
+},
+"reviewBody": "Followed the recipe as written with outstanding results. Marinated for about 1 hour 15 minutes. Thank you for a simple recipe that works!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DECAR48"
+},
+"reviewBody": "My husband liked these a lot! I made exactly as stated but then separated into two bags.. I put his 4 lamb chops in one bag and will use the other bag tonight with a rib eye in it. No ,no. I used 1 tsp of salt and only marinated for 1 hour."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Myna"
+},
+"reviewBody": "Easy to make and delicious. Would not change a thing"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Finn Sampson"
+},
+"reviewBody": "grilled it on a foreman and still had a perfect taste"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tracey Coleman"
+},
+"reviewBody": "Hi my name is Tracey. I made this using red wine vinegar, instead of of the white vinegar. I marinated it for an hour. I then let it sit out for a half hour. I then pan seared it in olive oil. I sprinkled it with chopped mint leaves, and served it with mint jelly. My daughter, said I am so happy you are my mom, and you know how to cook. Thank you Allrecipes, for your recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "HICATFAN"
+},
+"reviewBody": "Just an excellent and simple marinade.. and it turned out lamb chops that were fantastic- of course I’m an excellent grill master ( this time I did it in the oven broiler)!!!? AlohaCat"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ljmarsden"
+},
+"reviewBody": "This came out very good. Made exactly as written."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ihi-kopu"
+},
+"reviewBody": "Simple yet delicious! Like others have said do not marinate for more then 2hrs. Also instead of throwing out the marinade, I strain the onions and fried them. Serving on top of the chops - Yummy! Even the kids, Miss 4 Mr7, loves them."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TNealT"
+},
+"reviewBody": "First few times i made this by the recipe. Because of friends onion allergy I tried it with fresh minced garlic and now its is the only way I make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "mlohrman"
+},
+"reviewBody": "This is really good and simple. Made it as the recipe stated grilled the Lamb Chops and they came out great. The flavor of the lamb was enhanced not covered up."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DoriBcookin"
+},
+"reviewBody": "Oops! Got cut off in the middle of my review! I made these with mini potatoes, and cooked everything in the oven at 400 degrees. Removed the chops after 20 minutes and potatoes and onions after 30. I took the marinade and strained it into a small pot, and added about 2 tablespoons of honey. While everything was cooking I reduced it down to a light sauce for the chops. Definitely a winning recipe that is easy to change for personal tastes. I will definitely be making these again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joe Vidal"
+},
+"reviewBody": "I love lamb, my wife not so much, but this recipe won her over. It is a very simple and fast meal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jackie"
+},
+"reviewBody": "Surprisingly tasty! I had lamb chops in the freezer from my last Costco rin and thought about cooking them up. Came across this recipe and was not expecting it to taste that good because of the white vinegar in the recipe. Boy, was I wrong! Took a short time grilling and even a shorter time on my hubbies plate. He loves it so much that he wants to go to Costco this weekend to get more lamb chops!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dianne Cherry Krumm"
+},
+"reviewBody": "I made these lamb chops and they were delicious. I had to cook them in the oven. I used Loin chops and baked them about 5 minutes per side. Yummy!\nI was going to add a little cinnamon and spices but forgot. Oh well, next time. There will be a next time. \nI will try the marinade on beef."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cathie Carter Noble"
+},
+"reviewBody": "Fantastic!!!! I definitely will double the onions. Used Apple cider vinegar and added the spices suggested!!!\n\nEasy, delicious can't wait to make again!!\n\nthanks for a delicious recipe. Grilled in my ridge iron skillet sauteing onions in iron skillet."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kathy Reid"
+},
+"reviewBody": "Excellent marinade! Easy, quick, and only one hour is really needs unless you want a very strong onion flavor. The chops are quick and delicious off the grill, which makes overall clean a breeze."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lowell Cooper"
+},
+"reviewBody": "The best lamb chops I’ve ever made!!!! Super simple and delish!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gretchen Moyer"
+},
+"reviewBody": "Very good. I added a small amount of balsamic vinegar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jmcmilly"
+},
+"reviewBody": "Great recipe! I followed it, with the additional spices Noor mentioned in his comment (Garam Masala etc..) and it turned out really well. Great flavor without hiding the natural lamb taste. I broiled in the oven but I imagine they'd be even better on the bbq."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Susie Montgomery"
+},
+"reviewBody": "My husband and I loved this recipe. I followed the directions as written. The lamb was like eating a filet mignon and had great flavor. This is a keeper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "smckay"
+},
+"reviewBody": "I would not use this recipe again. I followed it exactly and it was just okay for me. I didn't care for the vinegar taste."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Natrat"
+},
+"reviewBody": "Good and easy. (I forgot to add onion). Will make again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Boots"
+},
+"reviewBody": "Easy Peezy ! Delicious meal ! Cant wait to make it again! I added 1/2 tsp of fresh lemon juice to marinate. The chops were thick about 2 inches , so I had to grill 6 minutes per side for medium rare. My wife loved it ! Cheers!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "John Leclair"
+},
+"reviewBody": "Added fresh rosemary"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "pjb3655"
+},
+"reviewBody": "Made as directed. I had thick (COSTCO) chops, which I grilled on 3 sides; 4min, 3min, 3min. Came out medium rare. The chops were almost 2in thick. Nice basic marinade. Don't expect a lot of caramelization due to no sugar in the recipe. Very simple and tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "FOODLOVE"
+},
+"reviewBody": "I made lamb chops for the first time with this marinade. Wow! So good. Being a novice I bought the rack sliced versus the \"cleaned chop\" ( it was $4 per lb less expensive! Or so I thought. ). So I had super fatty chops but what amazing flavor"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jarrett Pitts"
+},
+"reviewBody": "This was my first time cooking lamb chops and they were delicious. I followed the directions to the letter. I thought that the vinegar would be too much for the marinade but, it proved to be just right. I only added a bit more seasoning during the grilling process, because I desired more flavor, but all in all it was a success! Thank you for this simple, yet delicious recipe!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TWheeler"
+},
+"reviewBody": "Turned out great! Used loin chops which are thicker. I think browning for 4 minutes per side and 6 minutes in oven then rest will better achieve the medium rare I'm looking for."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "juicyfruit007"
+},
+"reviewBody": "I just made this with lamb chops as written, only eyeballing the ingredients instead of measuring and using powdered garlic and onion. The lamb chops were soooooo good! I think it is the vinegar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "gayla"
+},
+"reviewBody": "Perfect every time! I make this every summer at the cottage and at home with a little mint jelly on the side and everyone loves it. Great for a crowd."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Terry T"
+},
+"reviewBody": "Simple- substituted white wine for vinegar. Added sprigs of fresh thyme and rosemary to the mix."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Rhonda Thomas"
+},
+"reviewBody": "Made it and I like it. I'd not been successful at making lamb without the gamey taste. I couldn't find chops so I used another cut but to my surprise it all went ok. Sided with couscous, red peppers and hummus. not bad at all."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Rox"
+},
+"reviewBody": "Loved it. The marinated onions were good too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "vivkorok"
+},
+"reviewBody": "Fabulous. I followed directions exactly including Noor's additional suggestion for garam masala, cinnamon and all spice. We broiled in the oven. The lamb chops were thick, so they took longer than 5 minutes per side. I reduced the marinade on the stove top and sautéed mushrooms along with the onions from the marinade. Served the mushrooms over the lamb along with brown rice and broiled vegetables. A great meal. Will definitely use this recipe for lamb chops again. Highly recommend!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MARCIAINATL"
+},
+"reviewBody": "Made it as written except for the onions as I hate onions. It was my first time making lamb chops and couldn't have been more pleased with the results. Very tender and great flavor. Next time I'll try his suggestions for the Indian-inspired spice mixture."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lauren"
+},
+"reviewBody": "I don't like lamb, but my husband is Greek, so I make it every so often. I loved this recipe!!! I have tried so many, I didn't have high hopes, especially since it is so simple. This has now become a family favorite."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BarabooDells"
+},
+"reviewBody": "Great recipe! Only difference is that my lamb chops from Costco were very thick. Took over 15 minutes on the grill!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Barbara Kinstle"
+},
+"reviewBody": "I didn't have time to marinate for 2 hrs but less than 1 hour and it was great. Simmering the marinade with onions and mushrooms while grilling the lamp chops was a great idea. It was so tasty I couldn't stop eating it. My husband loved it and making it again tonight but doubled the marinade so I had more to eat. Grilled the lamp chops about 4-5 minutes per side was just right."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jim"
+},
+"reviewBody": "I did not make any changes to this recipe. My first time trying lamb. I t was amazing. To me and my wife it was better than steak (I'm sorry to say) I will still eat beef though probably more lamb......I highly recommend this recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CookingMomma"
+},
+"reviewBody": "Great marinade for lamb! We have a food saver with a quick marinator attachment that cut the marinade time in half. I did add some dried rosemary just because I love it with lamb. Will definitely use this recipe again. Thank you for posting it Noor!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michele DuBay-Cassidy"
+},
+"reviewBody": "This is our favorite go to lamb recipe! The lamb chops are tender and flavorful and always a hit!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tom Herrin"
+},
+"reviewBody": "Best chops we've done so far."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jocelyn"
+},
+"reviewBody": "Thank you, thank you. In the twenty years I've known my husband he wouldn't eat lamb....until last night...and he LOVED it. I followed the recipe and the suggestions to add the spices and reserve and grill the onions. It was so perfect we will be adding this to the dinner party rotation."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jessa"
+},
+"reviewBody": "I added an 1/8 tsp each cinnamon, all spice and garam masala and loved the flavor. I also doubled the onion and made a tray of oiled aluminum foil for the left over onion. Placed tray on grill and cooked alongside chops. I also sauteed mushrooms and fresh mint in the extra marinade."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marcella Palaferri"
+},
+"reviewBody": "I would definitely make this again. I would use the marinade for other meats as well. Delish!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pat"
+},
+"reviewBody": "No changes needed. This was a fabulous recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cedric Jackson"
+},
+"reviewBody": "Simply delicious! Easy to make, we chose to tweak the recipe to our tastes and it came out wonderfully."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "wendy mckee jackson"
+},
+"reviewBody": "This marinade was soooo good! Highly recommend it! I marinated my lamb chops for about 5 hours"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Casablancaise"
+},
+"reviewBody": "I added the submitter's recommend cinnamon and allspice to the marinade. And broiled for 8 minutes per side, for well done chops. \nThey were pretty good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JKGenser"
+},
+"reviewBody": "Easy, fast, and delicious! Everyone loved it. I had to cook lamb chops, lamb ribs, and beef steak at the same time and this recipe covered all three meats. I grilled the marinated onions separately and served them on the side. Excellent. I will return to this recipe for the whole outdoor grilling season. Maybe indoors later too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carol Pfremmer Sundquist"
+},
+"reviewBody": "Not liking lamb, I was thrilled when my husband said these were the best lamb chops that he has ever had! I'll be making these again!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amy Moore"
+},
+"reviewBody": "Made this last year, but on the stovetop. It's simple and delicious, so I'm making it again for Easter this year. Thanks for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SusanQ"
+},
+"reviewBody": "You can also use apple cider vinegar instead of white vinegar. This is our favorite way to eat lamb. And I'm a big steak fan, but it might be better than most beef steaks."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kelli"
+},
+"reviewBody": "I have made this several times and used it on lamb and a beef tri-tip. It is SO good and SO easy! We actually ended up marinating the lamb for 24 hours because we ended up not eating it on the night planned and the meat was delicious! I had to use red wine vinegar because I was out of the vinegar it called for and it was fantastic!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Raul A Cortiñas"
+},
+"reviewBody": "First time cooking Lamb, \nGreat success with the family,\nThank you"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Athena Ziolkowski"
+},
+"reviewBody": "My husband, son and I really loved this recipe and my husband isn't a lamb eater. I am Lebanese and eat kibee niee (raw lamb) lamb is my favorite. But the next time I make this recipe I will use a little less salt. We loved this recipe thank so much for sharing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nashawn AM"
+},
+"reviewBody": "Loved it! It was perfect for us and our tastes! Very tender and so much flavor from these simple ingredients! We kept it on longer than the recipe suggested and made them well done. Perfection. This is now a staple in our household. Next time we will be sure to cook the onions too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "cpystol"
+},
+"reviewBody": "We are huge fans of this recipe! It's super easy to prepare, and comes out perfectly every time, I go by the recipes ingredients but sometimes I grill it, sometimes I broil it and sometimes I pan fry them. All cooking methods turn out equally delicious! Make it, you won't regret it!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/137917/simple-grilled-lamb-chops/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/203/meat-and-poultry/lamb/",
+"name": "Lamb"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1021/meat-and-poultry/lamb/chops/",
+"name": "Chops"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/137917/simple-grilled-lamb-chops/",
+"name": "Simple Grilled Lamb Chops"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

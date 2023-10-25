@@ -1,0 +1,1417 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Turkey Goulash"
+,"datePublished": "2000-04-14T18:54:28.000-04:00"
+,"dateModified": "2022-09-11T14:30:15.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Denise Lutinski"
+,"url": "https://www.allrecipes.com/cook/24322828"
+}
+]
+,"description": "Lean turkey is simmered with tomatoes and pasta."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/jrbD1vhg9vXfiB2tfsU1hE79V8o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5168274-turkey-goulash-4everhungry-4x3-1-e3999ac97bf74e56b00f6a452301118b.jpg",
+"height": 900,
+"width": 1200
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Turkey Goulash"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.1",
+"ratingCount": "292"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "311 kcal"
+,"carbohydrateContent": "47 g"
+,"cholesterolContent": "45 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "18 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "325 mg"
+,"sugarContent": "6 g"
+,"fatContent": "6 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 pound lean ground turkey",
+"1 (14 ounce) can stewed, diced tomatoes",
+"3 cloves garlic, minced",
+"1 cup tomato sauce",
+"2 teaspoons white sugar",
+"0.5 teaspoon dried basil",
+"1 (16 ounce) package bow tie pasta" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "In a large skillet over medium heat, cook the turkey until browned."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir in the stewed tomatoes, garlic, tomato sauce, sugar and basil, and then simmer for about 20 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Bring a large pot of lightly salted water to a boil. Add pasta and cook for 8 to 10 minutes or until al dente, and then drain. Combine the pasta and turkey mixture; toss and serve."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT45M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "melissflanigan"
+},
+"reviewBody": "Really good but I added green bell pepper and onion. Definitely needs it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle Jackson"
+},
+"reviewBody": "No one in my family liked it. We ended up tossing it out and going through a drive thru. Very little flavor and just blah."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Wheresmytoast"
+},
+"reviewBody": "Love this simple but delicious goulash. I used up some the pasta I had in my pantry. My girls eat this up!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Rosebuddy"
+},
+"reviewBody": "I am wondering why you call the American Goulash, Goulash, does it not require Paprika, I think your recipe is a good one, but I would call it something else. I am very careful about adding green pepper to anything, it takes over the flavour and cancels out any suttle good flavour of other spices, I would never add it to this recipe, anyway, those are my thoughts."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mark Raymond"
+},
+"reviewBody": "Was a hit with coworkers and family, made this recipe twice and the only variant to the recipe was adding parmesan cheese."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kirsten Herman"
+},
+"reviewBody": "Enjoyed this but added a chopped onion, chopped red pepper, chopped jalapeno with seeds, small can of mushrooms, sprinkles of crushed red pepper, around 1/2 tsp of chili powder and pepper, and a teaspoon each of Italian seasoning (instead of basil), smoked paprika and salt. Used the whole 16 oz of bow tie pasta and everyone liked it but it had some heat to it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "srusel"
+},
+"reviewBody": "I wasn't sure about the turkey but this dish is as my husband would say. A Do -over . Very good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Candy"
+},
+"reviewBody": "Less pasta. Loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Angelina"
+},
+"reviewBody": "I didn't add the sugar b/c Stewed Tomatoes are already pretty sweet. Also, I used a whole grain pasta instead of Bow Ties, b/c that's always what we prefer. A lot of fresh Basil, &amp; some Thyme, Rosemary &amp; Garlic made a lot of difference the second time I made it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Noreen"
+},
+"reviewBody": "Way too much pasta. I used half the recommended pasta."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Karen J Coxe"
+},
+"reviewBody": "Quick, easy and delicious meal that is now a favorite!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Nate Mac"
+},
+"reviewBody": "Delicious and the family lives it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Clara"
+},
+"reviewBody": "Very good recipe, used whole wheat macaroni chili diced tomato’s, parsley . Did not use sugar . Was a little bland but with a sprinkle of salt and topped with some sautéed vegetables turned i am outside tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Matthew Copeland"
+},
+"reviewBody": "Pretty bland"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "singledad3pickyeaters"
+},
+"reviewBody": "it was pretty bland, added a bunch of spices to make this work."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Autumn Rogers"
+},
+"reviewBody": "Four stars very fast and simple to make but too bland. We love spice in my house so added two fresh jalapenos and some cayenne pepper spiced it right up. Also doubled the tomatoe sauce and stewed tomatoes. I also cut up the tomatoes smaller will used diced next time! Used mini farfalle (bow tie) noodles and only used about 2/3 the box."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Bren"
+},
+"reviewBody": "We really enjoyed this and I will make this again. I drained the oil after cooking the turkey for a healthier dish. I used diced tomatoes instead of stewed so I cooked it a little longer. After it had simmered for 20 minutes it was looking too thick so I added another 14 oz of tomatoes and 1/2 cup of sauce. I cooked 16 oz of pasta but I only used 1/2 , I'll made pasta salad with the other half. After tasting it I decided to omit the sugar as it was already sweet enough. Thanks for sharing.\n#Allrecipesallstarscanada\n#InternationalFavourites"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Cassandra"
+},
+"reviewBody": "First of all, the ratio of pasta to sauce is way too high! Next, I cooked the ground turkey WITH the diced garlic &amp; onion - both gave more flavor to the ground turkey. I followed the advise of another reviewer (Janett) and only used 2/3 of a pound of whole wheat pasta. I doubled the amount of diced tomatoes to 28 ounces (1 large can) and added mushrooms and black olives. Even better the next day!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BeckLins"
+},
+"reviewBody": "Delicious!! I added worcestire sauce for something extra. Yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "spice of life"
+},
+"reviewBody": "Husband liked it better than I did. I thought it was just \"okay\". Little bland, I thought."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pooka"
+},
+"reviewBody": "I added 2 tsp. each of basil and oregano, also diced onion and celery to saute with the garlic. Added a couple of splashes of Frank's hot sauce to the mix and a dash of sweet paprika before final stir and served! It's REALLY good! My husband and I are trying to eat heart and body healthy, so we eat a lot of ground turkey instead of ground beef. Love this recipe, I've made it 3 times this month! Thank you for sharing it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "abbyz2000"
+},
+"reviewBody": "We really liked this! I always use ground turkey in lieu of beef anyway. I had to use 3/4 can of tomato soup instead of sauce and forgot the sugar. Not missed! I always cut the pasta in half too. I don't understand how anyone can use an entire pound in any one recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "dpmiller"
+},
+"reviewBody": "The only change I made was adding some black pepper -- just because I like my food a little spicy! It would have been great without the pepper though, in case you don't like the spice. Easy, quick, yummy recipe!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "MaggieShu"
+},
+"reviewBody": "This was quick and plenty good. Easy to individualize for taste. We added a small can of black beans, a small can of corn, used pre-seasoned diced tomatoes, and added a bit of pesto. It was tasty and filling!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "janngus"
+},
+"reviewBody": "This is a good basic recipe that can be \"spiced up\" and suggested by the other reviewers. I added a lot of onion and garlic, paprika and Italian spices. A box of pasta turned out to be too much, even after increasing the amount of sauce. I would use half, and may even try it on rice next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Qtyu Lee"
+},
+"reviewBody": "It sounds tasty, it is sooo far from being a goulash..... as we used say in Hungary (where the goulash originates from): it is far away as Makó from Jerusalem :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Lynda Horsley"
+},
+"reviewBody": "I used diced tomatoes rather than the stewed and only 12 oz. pasta which was more than enough for the amount of sauce. Terribly bland."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Rick"
+},
+"reviewBody": "We added all sorts of extras to bring up the flavor in this dish, but more sauce and spices still didn't make it any better than 2-star. The ratio of pasta - turkey - sauce is out of whack, I think. The whole dish is dry, bland, and not very goulash-y"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cookie52"
+},
+"reviewBody": "I added some black olives and fresh tomato to this wonderful Recipe! We loved it!\nNext time I’ll bake it with some cheese on top and see how it turns out."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Safavid"
+},
+"reviewBody": "This is a recipe I use in the winter when it's cold and rainy and I haven't been to the grocery store in awhile. It is a good basic recipe that can be adjusted to fit everyone's diet. I don't use sugar, and prefer adding onions, garlic, or bell pepper and spices, and toss grated cheese on top. Again, this is a good basic recipe that will please all family members."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lisa_cookin&bak'n"
+},
+"reviewBody": "Delicious! I never made this before so I have nothing to compare it to, but it was really good. I followed the recipe and suggestions from others, I used 1 lb turkey, 1 (10oz) can Rotel diced tomatoes with green chilis, 2 cloves of garlic, 1 (15oz) can tomato sauce, 2 tsp sugar, 1/2 tsp basil and 8 oz bowtie noodles. Definitely a keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah Jane Kutney"
+},
+"reviewBody": "It was tasty and I will make it again! Instead of basil I added cumin which is great :). This was my first time attempting goulash and the only thing I found was it wasn't as \"chili-like\" as I assumed it would be. I followed the liquid instructions exactly and when I finished it was like pasta with a meat sauce. Wondering if this has happened to anyone else? Still really good. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Christina Holt"
+},
+"reviewBody": "Extremely dry and bland. Had to only use 12 ounces of noodles, triple the sauce, double the tomatoes, add in a TON of extra spices as well as green pepper and onion and it was much better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CAL90"
+},
+"reviewBody": "So quick, so easy, so delicious!! I have been making this for awhile now and is my go to recipe for ground turkey. Sometimes I add some zucchini or yellow squash. Thank you Denise for this fabulous recipe..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sara Shambarger"
+},
+"reviewBody": "Less herbal blend."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Phikap65"
+},
+"reviewBody": "I found that the sauce was somewhat watery so I added a tomato paste. Also I added chopped onion and a dollop of relish (yes relish) to regular diced tomatoes instead of stewed."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Saveur"
+},
+"reviewBody": "This was a nice tasty weeknight recipe with readily available pantry items. A good base recipe, I found it needed some tweaks on spices as other reviewers mentioned. I added fresh basil, dried Italian seasoning, paprika, and some beef boullion powder and water/ red wine. I also halved the amount of pasta. Thanks for sharing your recipe, Denise."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Chris Homen"
+},
+"reviewBody": "I added a little more sauce to this dish. Other than the family loves it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "carolyn bystrycki"
+},
+"reviewBody": "Quick and easy! Simple!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ShepMom"
+},
+"reviewBody": "I would say 5 stars with the few changes I made; 2 cans of basil, garlic, oregano tomatoes, an onion, a green pepper,and a few spices. Therefore no leftovers!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sam Lucksinger"
+},
+"reviewBody": "it is delicious! my son is 2 and he absolutely loves it too. perfect for something to wip up real quick."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Tracy Little"
+},
+"reviewBody": "I read a lot of the reviews on this recipe and added chopped onion and green pepper. We really liked this with that change but I think next time I will add a little more tomato sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mike"
+},
+"reviewBody": "This was very tasty. I used diced tomatoes instead of stewed, added salt, pepper, and paprika. I used a cup of homemade pasta sauce and cut sugar amount in half. I chose Barilla Veggie pasta. Next time I will use ground bison instead of turkey."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cindy Gannia"
+},
+"reviewBody": "This was very good and easy to make. I added a chopped onion and browned with the turkey. I added about a tsp of paprika to the sauce and about a cup of Parmesan cheese. This made the sauce thicker and creamier. Used whole wheat rotini. Will be making again!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "SKB"
+},
+"reviewBody": "Base recipe is somewhat bland; however, doctored with paprika, cayenne, a little seasoned salt, and some yellow onion sautéed with the ground turkey, it was quite tasty. Swap out the ground turkey with ground beef and I'm ten years old again, eating my Mom's goulash in our country kitchen. NOTE: I doubled the recipe but left the amount of pasta the same--if using the recipe as written, halve the pasta or the dish will be wayyyy too dry. Also, slightly undercook the pasta and let it simmer in the dish for fifteen or twenty minutes, so it absorbs some of the tasty liquid."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "raven125"
+},
+"reviewBody": "We loved it. We used macaroni noodles Instead of bowtie. Also we bought hunts garlic, basil diced tomatoes and tomate sause. And some red pepper flakes for spice. Then just followed the recipe. Will definitely make it again ."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DCDimento"
+},
+"reviewBody": "Delish! After reading the reviews I did add extra basil, Italian seasoning and paprika. I also added extra tomato sauce to make sure I had enough to cover the pasta. On that note, I did not use the full box of pasta."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "cladclan"
+},
+"reviewBody": "Very good,easy to make and quick!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "mestevens96"
+},
+"reviewBody": "Too bland... if I ever make it again, I will definitely be adding more flavor..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda Daly"
+},
+"reviewBody": "I added chopped onion to the turkey while it was cooking.I used 1lb pasta. I also added zucchini cut into spaghetti strips. (with the Veggetti spiral slicer) Topped with parmesan cheese!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "trfitch79"
+},
+"reviewBody": "Pretty good dish - and quick. I added spices (seasoning salt, pepper, onion powder &amp; paprika), corn and broccoli for flavor and color. Thoroughly enjoyed!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sprout_90"
+},
+"reviewBody": "My kids asked for seconds, and the leftovers got eaten with a smile! Will add to my favorites."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Heather Mathe"
+},
+"reviewBody": "This recipe saved me! Had ground turkey, but not much to make it with until I came across this recipe! It's a simple recipe with room for growth, I love that you can add your own spin to it. I added green peppers and onions as well, along with chili powder and paprika Would be great with corn thrown in there, too!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kardoli"
+},
+"reviewBody": "I used Italian tomatoes, truvia in place of sugar, added fresh sliced mushroom and crushed red pepper. Only used a quarter box of pasta. Salt and pepper to taste and grated parmesean cheese. My husband raved about dinner and didn't even realize it was turkey not beef:). Great basic recipe, everyone needs to adjust to their own taste! Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "JohnnyOh"
+},
+"reviewBody": "For a turkey based meal it was good. Because of dietary restrictions didn't season this as I might normally but it was a nice meal and better the next day.\nWe will make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "RachelJ"
+},
+"reviewBody": "I can't agree with most people on this one. I followed the instructions and this dish was so bland and lacking flavor. It seemed like it needed more sauce and because of the lack of seasoning the plain ground turkey flavor was the most potent"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "gailo"
+},
+"reviewBody": "Kinda dull."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Fabienne Zimmerman"
+},
+"reviewBody": "This recipe made by itself is extremely bland. 16ounces of macaroni is way too much but even when I cut it down it was still bland and I had to put in a whole lot of spices to even get it decent."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Momzcookin"
+},
+"reviewBody": "With some sprucing up this is a 5 star recipe; I took the advice of others..added some orange pepper, fresh mushrooms, half an onion and Italian Seasoning along with the basil. I substituted Stevia for the sugar, and used Chili Seasoning Stewed Tomatoes, stuck with the 1 cup of tomato sauce and only added 2 cups uncooked rotini noodles...this was far from bland."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ONIOND"
+},
+"reviewBody": "Excellent; but the recipe as written was a little dry for me. I doubled the tomatoes and the tomato sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Teresa Barker"
+},
+"reviewBody": "Loved it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cdrew8710"
+},
+"reviewBody": "Super easy and so delicious! I added corn, rinsed black beans, and onion!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Claudia Ibarra"
+},
+"reviewBody": "I loved it! I doubled the tomato sauce, added chili powder and flakes, as well as mushrooms."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MaryJo"
+},
+"reviewBody": "Easy, and can go into a slow cooker, very tastey, and can freeze left overs and re-heat, by adding some v8 juice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christine Rios"
+},
+"reviewBody": "This meal is absolutely delicious &amp; easy to make!!!! ??"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "JAKOB&ELAHNA_MOM"
+},
+"reviewBody": "It's delicious ... I think it could use a little more seasoning .. Other than that taste like something from Olive Garden :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "msbmore"
+},
+"reviewBody": "This is a good recipe, but it will be bland if you don't add more spices, i.e., chili pepper, paprika, cayenne pepper, and Italian seasoning. I also added sauteed onions and green peppers, and used cans of \"spicy\" diced tomatoes. I seasoned my ground turkey and let sit overnight for more flavor. My family that has tasted it thus far loves it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "amyk3"
+},
+"reviewBody": "Kids thought it was just OK. Served with noodles."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Tara Burgess"
+},
+"reviewBody": "Dry and bland. My kids wouldn't even eat it and they eat everything."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bella Kupkake"
+},
+"reviewBody": "Yummy and easy to make, we didn't like chunks of tomatoes in our sauce so we left them out and it was still wonderful! next time I will add more tomatoe sauce, because it was a little dry."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "pretty good, added some chili powder which made it a little spicy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cathyjo3"
+},
+"reviewBody": "You have to make a few changes to the recipe in order to give it a 5 star rating. There isn't enough sauce or too much pasta. So I made it like the recipe said, then I doubled the tomato sauce because it looked like it was too much pasta. Still added a 3rd can of tomato sauce and another can of Diced tomatoes. After I did that, the dish looked amazing and tasted great!! So I ended up using 3 cups of tomato sauce (24 ounces) and 28 ounces of Stewed diced tomatoes with seasonings of Basil, garlic and oregano. This is a must try recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ACCTSPD"
+},
+"reviewBody": "We've been making this for years. You do have to add to it. It is very bland without seasonings &amp; dry. \nWe add garlic, onions, green pepper (sometimes)&amp; all kinds of seasonings when we cook the turkey, but we do double the sauce &amp; tomatoes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jamie S"
+},
+"reviewBody": "http://www.oureatinghabits.com/2012/07/17/turkey-goulash/"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KateMagee"
+},
+"reviewBody": "OMG just delicious with a few chgs. per another reviewer, Janett, and myself. I cooked a small onion and a half with the garlic called for and then added 1.28 lbs. of lean ground turkey and browned it. I then added a can of 28 oz. of diced tomatoes (which had garlic, basil and oregano added to it), 3 cups of tomato sauce, a good pinch or two of oregano, a dash of chili powder, salt, a touch more basil than called for in recipe, a sprinkle of red pepper and a good pinch of emeril's all purpose (essence..i think) spice. By accident I added 1 1/2 tablespoons of sugar rather than 2 teaspoons. I then simmered it on cooktop for at least 45 minutes (hubby was late) and served it over a full 16 oz. package of bow tie pasta. Thanks so much for a great recipe. We all loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christina Tina"
+},
+"reviewBody": "This is a super easy recipe and takes less than the 45 minutes noted. I also use what items are in my pantry. No stewed tomoatoes, then I use a can of Rotel. No Tomato Sauce; ahh...there's the leftover Spaghetti Sauce in the fridge...there we go!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "beanieklt"
+},
+"reviewBody": "I agree with other reviewers that the proportion of sauce to pasta doesn't work. I will double the tomato sauce when I make this again. I used whole grain rotini pasta which really captures the sauce and it tasted great. I also added a little bit of tomato paste and more spices (oregano, paprika, and salt and pepper to taste). My two-year-old liked this so I think it is well worth tweaking to suit our own tastes. Thanks for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "etarazi"
+},
+"reviewBody": "My husband tried this when I was sick one night, and it was not good. Very, very bland. I ended up trying to rehab it with all kinds of spices and additions."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Deb Constantineau"
+},
+"reviewBody": "I thought that this was a good base recipe, but I only used 10 oz of turkey instead of a pound and there was way more than enough meat - too much, really. Next time I will double up on the tomato and other ingredients then freeze the leftovers for another day."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Vince Cady"
+},
+"reviewBody": "very delightful flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Tricia McKnight"
+},
+"reviewBody": "Super delish! Following the advise of other reviewers I added mushrooms, onions, tomato paste, and lots of spices (oregano, onion powder, garlic powder, parsley, red pepper, chili powder, cilantro, ground pepper and dash of salt). And doubled the garlic."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "manhattan tart"
+},
+"reviewBody": "Good basic recipe but way too much pasta to be a goulash, I think. I used a full 15 oz. can of tomato sauce, a full 28 oz. can of stewed, diced tomatoes and less pasta than called for (a 13oz. box of higher fiber rotini pasta) and it was still too much. I futzed around with additional garlic, some dried oregano, more basil, no sugar but next time will try adding an extra can of tomato sauce, frozen corn, olives, etc. It's a great way to stretch a pound of ground turkey. I'll make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Merana123"
+},
+"reviewBody": "Other than adding some red pepper flakes, I made it as it called for. I really liked it. Yummy leftovers! And, come on, how cute is bow-tie pasta! Thanks for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "mickdee"
+},
+"reviewBody": "Update: I have made this several times since the first review and it has become a favorite basic dinner. I use half the pasta and top with a dolop of sour cream. ////This was good but I agree with other reviews, there is was too much pasta. I left out about a 1/4 of my pasta but I wish had left out 1/2. I added additional Italian seasoning. It's pretty basic but good. A good dish for kids, too!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Derina"
+},
+"reviewBody": "This is a perfect basic recipe. Where you can add what you want. I skipped the diced tomatoes since husband hates them. I hate spaghetti sauce so I made a white sauce and added 1 cup of spaghetti sauce to it. It made the sauce lighter in taste. I also browned the garlic and cooked it with the ground turkey. I also added some Italian seasoning, salt pepper to it. The kids love it. I also double the recipe and put half of it in the freezer for a quick meal when it is needed."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Hodgson668"
+},
+"reviewBody": "This was very good. Made as directed (using ground chicken) and I was expecting it to be a bit bland, but didn't find that at all. \nMy husband and 3 year old loved it.\nWill make it again!\nThanks for sharing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Nicole & Ray"
+},
+"reviewBody": "Nice and sweet tasting. I cooked the ground turkey with extra garlic. Added extra basil to the tomato mixture as well. Beware that the tomato mixture was more for flavor and wasn't really a sauce, so if you do want a saucy pasta you will need to add something more. Boyfriend enjoyed and so did I - would make again as is."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "geezboyz"
+},
+"reviewBody": "This is a quick and easy recipe, for sure, but it seriously lacked any depth of flavor. I may try it again, next time putting more flavorings like onions and garlic with the turkey as it browns. But as-is, the recipe is one-dimensional."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Cooked this for the fam last night and the kids loved it. And since I have a picky 2 year old, that was a blessing. I didn't have any basil on hand, but I don't think that made a difference. I added a small can of tomato paste to thicken up the sauce a bit and used elbow noodles as shown in the pic instead of bow tie. This is a nice hearty meal with plenty of leftovers."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "mtnmacgrl"
+},
+"reviewBody": "I used garden vegetable (colored) pasta instead of bow tie pasta. I used Stevia instead of sugar. It was quite tasty!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Great comfort food. Virtually foolproof to prepare. You definitely need to add spices to suit your tastes. You also might want to add more tomato sauce, as there isn't a whole lot once the turkey tomato mixture simmers. This is an easy one to playground with. I might add some chopped spinach or a bit of zucchini next time... and there definitely will be a next time!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "gclement"
+},
+"reviewBody": "This is absolutely DELICIOUS and you don't even taste the difference between the turkey and Hamburger...and its much better for you. The only thing I do differently is use more garlic. There can never be enough garlic."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "mominml"
+},
+"reviewBody": "Made this just as written, and it was easy and quick. We all enjoyed it for a quick weeknight dinner."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mei3kids"
+},
+"reviewBody": "simple and delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "tstonewell"
+},
+"reviewBody": "Pretty good. I give this a 3 star because as you all seem to know, you have to change it drastically to give it flavor. I too used two jars of sauce and diced tomato. As for the seasoning, I used green peppers, onions, basil, chili powder (lots), Italian seasoning, garlic, chipotle, paprika, and salt to taste. I left the sugar out because I tried using healthy ingredients. No need for sugar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "TAMARASUE2002"
+},
+"reviewBody": "This was very good, but I added green bell pepper and some Italian seasoning like Basil and Oregano. I didn't have bow tie pasta so just used what I had on hand which was penne"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "blowout_bob"
+},
+"reviewBody": "Lots of options with this dish. I will add corn next time and maybe some white pepper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "merlion"
+},
+"reviewBody": "I had used chicken cut into small bits instead, but other than that, I stuck closely with the recipe. But unfortunately, it turned out really bland... Not something I would make again... :("
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ChristyE"
+},
+"reviewBody": "Yummy!! I made this exactly to recipe but for I added in some Mozz/Parm cheese mix. and my diced tomatoes were Italian seasoned. So good."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/18783/turkey-goulash/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/183/soups-stews-and-chili/stews/",
+"name": "Stews"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17046/soups-stews-and-chili/stews/goulash/",
+"name": "Goulash Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/18783/turkey-goulash/",
+"name": "Turkey Goulash"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,239 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Prosciutto-Wrapped Pork Tenderloin with Crispy Sage"
+,"datePublished": "2019-04-02T03:05:22.000-04:00"
+,"dateModified": "2022-11-06T14:10:17.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "helloooangie"
+,"url": "https://www.allrecipes.com/cook/helloangie"
+}
+]
+,"description": "Prosciutto-wrapped pork tenderloin with crispy sage is a quick and easy meal made with only 5 ingredients for a fancy dinner any night of the week."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/o-m-msm56D4GkieaBXgdeW0eRAI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2930533-prosciutto-wrapped-pork-tenderloin-with-crispy-sage-hello-angie-4x3-1-a290eeae1f874874a153339d5398357a.jpg",
+"height": 720,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Prosciutto-Wrapped Pork Tenderloin with Crispy Sage"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "13"
+}
+,"cookTime": "PT35M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "294 kcal"
+,"carbohydrateContent": "1 g"
+,"cholesterolContent": "86 mg"
+,"proteinContent": "26 g"
+,"saturatedFatContent": "7 g"
+,"sodiumContent": "900 mg"
+,"fatContent": "20 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 pound pork tenderloin",
+"salt and ground black pepper to taste",
+"1 bunch fresh sage, leaves removed and stems discarded, divided",
+"6 ounces prosciutto",
+"1 tablespoon olive oil, or more as needed" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat oven to 350 degrees F (175 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Lightly season pork with salt and black pepper. Arrange about 6 sage leaves over tenderloin. Wrap prosciutto around tenderloin and sage, overlapping prosciutto slightly; wrap in plastic wrap and refrigerate to allow prosciutto to set on pork tenderloin, 5 to 10 minutes. Remove plastic wrap."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat olive oil in a skillet over medium heat. Fry wrapped tenderloin in the hot oil until prosciutto is crispy and lightly browned on all sides, 8 to 10 minutes. Transfer wrapped tenderloin to a baking dish, reserving oil in the skillet."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake tenderloin in the preheated oven until pork is cooked through, about 20 minutes. An instant-read thermometer inserted into the center should read at least 145 degrees F (63 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat reserved oil in the skillet over medium heat; fry remaining sage leaves until crispy, adding more oil as needed, about 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Slice tenderloin and serve with crispy sage leaves."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT50M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kostakraljajdsajdisaidjsa"
+},
+"reviewBody": "Nice meal, my family loved it !"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Not sure where the 20 mins came in, it’s been in there for 45 mins now and reached 150 since I like it more well done but man.."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Sooo good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bob Danielson"
+},
+"reviewBody": "Used bacon instead of prosciutto"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Red Corvett"
+},
+"reviewBody": "This is a great quick recipe, delicious and moist. I just added a drizzle of balsamic reduction. Delish!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jasmine"
+},
+"reviewBody": "Quick and easy! My husband &amp; 5 year old said it was good. It will be a go to winter meal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda Harvey"
+},
+"reviewBody": "I didn't have prosciutto so I used slab bacon to wrap the pork tenderloin. it was delicious. I have never used sage with pork but so glad I tried this recipe. because of the bacon I omitted the oil."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mbp"
+},
+"reviewBody": "Easy and great entree for guests."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/245210/prosciutto-wrapped-pork-tenderloin-with-crispy-sage/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/205/meat-and-poultry/pork/",
+"name": "Pork"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1014/meat-and-poultry/pork/tenderloin/",
+"name": "Pork Tenderloin Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/245210/prosciutto-wrapped-pork-tenderloin-with-crispy-sage/",
+"name": "Prosciutto-Wrapped Pork Tenderloin with Crispy Sage"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

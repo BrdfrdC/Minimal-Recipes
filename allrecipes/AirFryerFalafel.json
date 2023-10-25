@@ -1,0 +1,192 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Air Fryer Falafel"
+,"datePublished": "2018-09-06T23:12:36.000-04:00"
+,"dateModified": "2018-09-06T23:12:36.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Buckwheat Queen"
+}
+]
+,"description": "Once you&#39;ve soaked your chickpeas, you can use a food processor and an air fryer to quickly bake these spicy falafel patties."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/nCmhuYaRsHWLVx7WjZZfJ_5In0Y=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5690908-e2e8fb2663ea47dabcee599952b6c3bb.jpg",
+"height": 1501,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Air Fryer Falafel"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "4"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "60 kcal"
+,"carbohydrateContent": "10 g"
+,"fiberContent": "3 g"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "0 g"
+,"sodiumContent": "98 mg"
+,"sugarContent": "2 g"
+,"fatContent": "1 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1 cup dry garbanzo beans",
+"1.5 cups fresh cilantro, stems removed",
+"0.75 cup fresh flat-leafed parsley, stems removed",
+"1 small red onion, quartered",
+"1 clove garlic",
+"2 tablespoons chickpea flour",
+"1 tablespoon ground coriander",
+"1 tablespoon ground cumin",
+"1 tablespoon sriracha sauce",
+"salt and ground black pepper to taste",
+"0.5 teaspoon baking powder",
+"0.25 teaspoon baking soda",
+"cooking spray" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Soak chickpeas in a large amount of cool water for 24 hours. Rub the soaked chickpeas with your fingers to help loosen and remove skins. Rinse and drain well. Spread chickpeas on a large clean dish towel to dry."
+} ,{
+"@type": "HowToStep"
+,"text": "Blend chickpeas, cilantro, parsley, onion, and garlic in a food processor until a rough paste forms. Transfer mixture to a large bowl. Add chickpea flour, coriander, cumin, sriracha, salt, and pepper and mix well. Cover bowl and let mixture rest for 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat an air fryer to 375 degrees F (190 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Add baking powder and baking soda to the chickpea mixture. Mix using your hands until just combined. Form 15 equal-sized balls and press slightly to form patties. Spray falafel patties with cooking spray."
+} ,{
+"@type": "HowToStep"
+,"text": "Place 7 falafel patties in the preheated air fryer and cook for 10 minutes. Transfer cooked falafel to a plate and repeat with remaining 8 falafel, cooking for 10 to 12 minutes."
+} ]
+,"recipeYield": ["15"]
+,"totalTime": "PT1540M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "kiakornas"
+},
+"reviewBody": "Great taste. I used chili flakes instead of sriracha to reduce amount of liquids. Maybe bread crumbs instead of flour would help. They stuck a bit through the grate in air fryer so I recommend parchment paper at bottom."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Great taste. I used chili flakes instead of sriracha to reduce amount of liquids. Maybe bread crumbs instead of flour would help. They stuck a bit through the grate in air fryer so I recommend parchment paper at bottom."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JohnnyLR"
+},
+"reviewBody": "I made this as my first recipe in my new IP Duo Crisp. It turned out well. There are so many recipes on social media that are a heart attack waiting to happen. It was nice to find this healthy recipe to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jack Churchill"
+},
+"reviewBody": "very good"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/267834/air-fryer-falafel/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1227/everyday-cooking/vegan/",
+"name": "Vegan"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1663/everyday-cooking/vegan/side-dishes/",
+"name": "Side Dishes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/267834/air-fryer-falafel/",
+"name": "Air Fryer Falafel"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

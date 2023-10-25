@@ -1,0 +1,156 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Baileys Tiramisu"
+,"datePublished": "2018-06-08T10:46:34.000-04:00"
+,"dateModified": "2022-09-29T14:35:08.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Rachael Ray Every Day"
+,"url": "https://www.allrecipes.com/cook/rachaelrayeveryday"
+}
+]
+,"description": "Sweetened mascarpone cream is layered over ladyfingers dipped in Baileys Irish Cream in this delicious take on Italian tiramisu."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/zTwBY3fZeHz7WcAAn8zGW-W1urQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4610688-e4d95b74953245a6b0a7490c54fe230b.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Baileys Tiramisu"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "2"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "520 kcal"
+,"carbohydrateContent": "39 g"
+,"cholesterolContent": "166 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "7 g"
+,"saturatedFatContent": "19 g"
+,"sodiumContent": "158 mg"
+,"sugarContent": "17 g"
+,"fatContent": "34 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 cup heavy whipping cream",
+"0.5 cup confectioners' sugar",
+"0.25 teaspoon salt",
+"1.5 cups mascarpone",
+"0.75 cup Baileys® Irish Cream, divided",
+"2 cups cold coffee",
+"24 ladyfingers",
+"2 tablespoons cocoa powder, for dusting the top" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Beat cream in a stand mixer with the whip attachment to soft peaks. Add confectioners&#39; sugar and salt; mix until well combined. Add mascarpone and whip until fully incorporated. With the mixer running, add 1/4 cup Baileys. Set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix together cold coffee and remaining 1/2 cup Baileys in a shallow dish. One by one, dip ladyfingers into coffee mixture and arrange them in a single layer on the bottom of a 3-quart dish. Spread 1/2 of the whipped cream mixture over ladyfingers in the dish. Top with another layer of soaked ladyfingers and remaining whipped cream mixture. Cover the dish with plastic wrap and let chill in the refrigerator for at least 2 hours or overnight."
+} ,{
+"@type": "HowToStep"
+,"text": "Dust top with cocoa powder before serving."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT135M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lynne Selbst"
+},
+"reviewBody": "Absolutely delicious and so easy to make. The addition of Baileys makes it creamier than a traditional tiramisu. But it is a wonderfully impressive dessert"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Caglar Sipak"
+},
+"reviewBody": "Great one!!!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/261829/baileys-tiramisu/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/82/trusted-brands-recipes-and-tips/",
+"name": "Trusted Brands: Recipes and Tips"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16150/trusted-brands-recipes-and-tips/baileys/",
+"name": "Baileys"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/261829/baileys-tiramisu/",
+"name": "Baileys Tiramisu"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

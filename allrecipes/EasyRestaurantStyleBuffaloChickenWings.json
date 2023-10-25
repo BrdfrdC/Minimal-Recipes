@@ -1,0 +1,267 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Easy Restaurant-Style Buffalo Chicken Wings"
+,"datePublished": "2018-06-27T09:02:42.000-04:00"
+,"dateModified": "2018-06-27T09:02:42.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "DavAlf"
+,"url": "https://www.allrecipes.com/cook/6867145"
+}
+]
+,"description": "Restaurant-style buffalo chicken wings can be ready in less than an hour and are a spicy appetizer perfect for parties."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/VjNEpJGkHWEP8wvN6MY7tENY3w0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1120353-710ad0ee0afc4cb5a988e577f852aee6.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Easy Restaurant-Style Buffalo Chicken Wings"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.4",
+"ratingCount": "12"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "311 kcal"
+,"carbohydrateContent": "14 g"
+,"cholesterolContent": "44 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "16 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "1959 mg"
+,"sugarContent": "1 g"
+,"fatContent": "21 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"12 skinless chicken wings",
+"0.75 cup all-purpose flour",
+"1 tablespoon salt",
+"1 tablespoon ground black pepper",
+"1 tablespoon garlic powder",
+"1 quart vegetable oil for frying",
+"0.75 cup hot pepper sauce (such as Frank's RedHot®)",
+"1 tablespoon butter" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Rinse chicken wings in cold water; drain and pat dry with paper towels."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix flour, salt, pepper, and garlic powder together in a 1-gallon resealable bag; add chicken wings. Seal bag and shake to evenly coat chicken."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat oil in a deep-fryer or large saucepan to 375 degrees F (190 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove chicken from bag and shake off any excess coating; fry in the preheated oil until chicken is no longer pink in the center, about 7 minutes. Remove chicken with a slotted spoon and drain on a paper towel-lined plate."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine hot sauce and butter in saucepan over medium heat; cook until heated through, about 5 minutes. Coat cooked chicken wings with sauce."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT25M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Very easy and Does me fine"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "SJDWFO"
+},
+"reviewBody": "So far from Buffalo Wings, these are a travesty to the real thing!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Francisco"
+},
+"reviewBody": "Very happy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lauriea12"
+},
+"reviewBody": "Delicious! My family can't get enough of these tasty wings!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Barbara Westendorf"
+},
+"reviewBody": "My wings turned out delicious! The flour dredge was easy and turned out crispy! However, my next batch I will use a different hot sauce. The one I used was too vinegary! Other than that I ate them all!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Wendy Janson"
+},
+"reviewBody": "My family loved it! I did use more butter, 4 tablespoons. I also made two batches and substituted country sweet for tangy wings, and it worked perfectly."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Crystal"
+},
+"reviewBody": "Very tasty. Was just the amount of hotness."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "marieswift"
+},
+"reviewBody": "Very easy to make and really good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "David Douthett"
+},
+"reviewBody": "This really is easy and tasty. I didn't have wings, so I used 4 chicken legs for two of us, and it was still quite good. It was way more flour than I needed for 4 legs, but I've put the rest in the freezer for next time. I used a wok to cook in and didn't measure how much canola oil I used - probably 3 cups, maybe 4. Since the legs were obviously bigger than wings, I cooked them for 10-12 minutes, turning them a couple times. The chicken was juicy and flavorful with a nice crunchy coat. The Texas Pete wing sauce with butter (which I heated in the microwave) gave a nice kick but not enough to hurt. Good recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Soup Loving Nicole"
+},
+"reviewBody": "I didn't find a tablespoon of butter to be nearly enough for our liking. I ended up adding 4 tablespoons (1/4 cup). Recipe says it serves 6 but this was just about the right amount for hubby and I so keep that in mind. These were good but who doesn't love a classic wing? I recommend making as is to start off and only add more butter to the sauce if you see fit. I'm already looking forward to making these again!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/232943/easy-restaurant-style-buffalo-chicken-wings/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/76/appetizers-and-snacks/",
+"name": "Appetizers and Snacks"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/116/appetizers-and-snacks/spicy/",
+"name": "Spicy"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/232943/easy-restaurant-style-buffalo-chicken-wings/",
+"name": "Easy Restaurant-Style Buffalo Chicken Wings"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

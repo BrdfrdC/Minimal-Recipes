@@ -1,0 +1,1285 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Gelato"
+,"datePublished": "2020-06-18T23:09:33.000-04:00"
+,"dateModified": "2022-06-06T07:25:11.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "OSTAFF1"
+,"url": "https://www.allrecipes.com/cook/354929"
+}
+]
+,"description": "A basic gelato recipe that&#39;s the perfect base for favorite flavors from vanilla to chocolate to any fruit in between. Enjoy this creamy frozen treat."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/I8XVYqnflHCOotWRhlFWCPAftpg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4517634-gelato-Buckwheat-Queen-4x3-1-f5f732166ec64620b2a438391cbd0583.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Gelato"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "103"
+}
+,"cookTime": "PT180M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "416 kcal"
+,"carbohydrateContent": "33 g"
+,"cholesterolContent": "296 mg"
+,"proteinContent": "8 g"
+,"saturatedFatContent": "17 g"
+,"sodiumContent": "81 mg"
+,"sugarContent": "31 g"
+,"fatContent": "29 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"recipeIngredient": [
+"2 cups milk",
+"1 cup heavy cream",
+"4 egg yolks",
+"0.5 cup sugar" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Mix milk and cream in a medium saucepan. Warm until foam forms around the edges. Remove from heat."
+} ,{
+"@type": "HowToStep"
+,"text": "Beat egg yolks and sugar until frothy in a large bowl. Gradually pour the warm milk into egg yolks and sugar, whisking constantly. Return mixture to saucepan; cook over medium heat, stirring with a wooden spoon until the mixture gels slightly and coats the back of the spoon. If small egg lumps begin to show, remove from heat immediately."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour the mixture through a sieve or fine strainer into a bowl. Cover, and chill for several hours or overnight."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour the mixture into an ice cream maker, and freeze according to the manufacturer&#39;s instructions. Transfer to a sealed container, and freeze until firm. If the gelato is too firm, place it in the refrigerator until it reaches the desired consistency."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT180M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "tearianamcfarland"
+},
+"reviewBody": "Sounds really good, obviously this is just a base you're going to add your own\nflavors to. I honestly can't understand the comment about raw egg, if you follow all the steps the egg is definitely cooked. But possibly the flavor was more predominant because no other flavorings were added."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Los Gatos Linda"
+},
+"reviewBody": "Made as outlined with the addition of 4oz of dark chocolate (as one reviewer suggested) into the warm custard. (I used 1 c. whole mild, 2 c. half and half which turns out to be the same ratios of milk to cream). I did strain through a fine sieve, but I'm not sure this was really necessary.\n\nI'm sure the base alone would taste fine by itself (it was sweet enough). The 4oz of chocolate turned this into a milky chocolate gelato, not a dark chocolate gelato as I would have preferred. Another reviewer said she added a CUP of powdered cocoa to hers - I plan to try that for batch #2, perhaps with some instant espresso.\n\nA single batch fit perfectly into my gelato maker. Glad I didn't attempt to double this. It was ready to transfer to a freezer container after ~25 minutes of processing.\n\nFor me, the texture wasn't quite right. It was too airy creamy for my tastes, not \"stretchy\" as I'm accustomed to, and I have had gelato in Italy along with a ton of the other reviewers. I don't think the addition of 4oz of chocolate caused the texture issue, more likely the 4 egg yolks. \n\nWill keep trying until I get this right!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Josh Burroughs"
+},
+"reviewBody": "I made the base gelato as written here and added vanilla and cinnamon for flavoring. It's delightful! Very creamy and not too sweet at all. Looking forward to experimenting with other flavors."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Abigail MacDonald"
+},
+"reviewBody": "it was perfect but I wish i didn't take as long ."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sherry4224"
+},
+"reviewBody": "Very good! I added four large over ripe pureed mango to the recipe. Wow! So tastey!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cat lady"
+},
+"reviewBody": "it was really good, and my family agrees. we will most definitly make this again, and thank you"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Binky2go"
+},
+"reviewBody": "As far as I know, gelato contains no heavy cream and no eggs. This recipe is more of a homemade custard ice cream and not gelato"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Steve t"
+},
+"reviewBody": "Thanks for the real authentic gelato recipe they are getting harder to find online. There are folks trying to undermine authentic recipes for profit and yours is a real recipe. Everyone should remember churning an ice cream mix slower doesn't make it gelato the eggs do. as gelato traditionally is a frozen custard. You can tell the difference also by the facts that gelato flavors only last a few days before fading and its very hard to spoon at 32 degrees. Remember that you cannot buy packaged gelato in a store unless it was made and packaged there. Great real recipe thanks again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Susan Herbert"
+},
+"reviewBody": "I've been using this recipe for years and everyone who has tasted it just raves. I most often use just a bit of vanilla but have tried toffee bits, fruit and ribbons of melted chocolate. My son in law's favorite is tart frozen cherries and just enough of the juice to make the ice cream pink. I have a regular American ice cream maker so it might not pass a test should an Italian show up from Rome but my family goes crazy for it!\nRecently made 4 recipes and poured them into a lined springform pan and froze them solid for a huge and delicious gelato cake. It was wonderful!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "GinaMia"
+},
+"reviewBody": "I made this as my base and then I added ground pistachio nuts. Awesome. T\n\nTonight I am making it with just a little vanilla and I plan to make lemon, coconut and chocolate versions this weekend. \n\n If you are tasting \"raw egg\" that means you have not stirred and cooked it long enough to properly coat the back of your spoon. Remember when you are adding the hot milk/cream mixture to the egg/sugar to constantly whisk the egg/sugar as you do (I do two people during this - one whisking and the other pouring little by little) - this step is slightly cooking the eggs so you want to keep that whisk moving! Then when you add it to the saucepan again to get some thickening going on, be sure to stir slowly and stop when it fully coats the back of your spoon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Donald Garber"
+},
+"reviewBody": "This is my go-to gelato base recipe. I use the KitchenAid ice cream attachment. The gelato that this recipe makes is just wonderful. I prefer to eat the gelato as it's completed here - freezing it afterwards changes the texture."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Genevieve schuster"
+},
+"reviewBody": "muah just perfecto and yummy just wow"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lolla garden"
+},
+"reviewBody": "Its really not too difficult to make I double the recipe. It doesn't last long in the freezer!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cooking With Carter"
+},
+"reviewBody": "When it first came out it was the BESTTTT. After freezing it was ok. After freezing for a few weeks it wasn't that good anymore."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Dora Wang"
+},
+"reviewBody": "I made this one with some tea add to it. that make it taste great, I want cut down sugar little next time. too sweet with green tea taste."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Patricia"
+},
+"reviewBody": "Followed the recipe exactly and it came out good. Tried to double the recipe and we screwed it up. We are continuing to work with it in an effort to get enough and add flavors to it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Buckwheat Queen"
+},
+"reviewBody": "This was good. I expected a creamier texture but it was watery. I added a vanilla bean and nutmeg to keep in line with the original gelato alla crema."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TMarg"
+},
+"reviewBody": "Great recipe! Try the following flavouring.... 1) you can add a half cup of Nutella once the cream is hot before tempering the eggs (reduce sugar if you like). 2) You can add the zest of two lemons while the milk heats, then add 2/3 cups lemon juice after tempering the eggs and reheating the mix (in this case I'd use higher fat dairy to compensate for the wateriness of the lemon juice). 3) Add the zest of one orange to the fairy as it heats. Once heated, add 100g high quality dark chocolate and melt before continuing with tempering the eggs. Good luck!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Mark Andrew Smith"
+},
+"reviewBody": "I'm real focusing on texture. I've had a few good batches and will continue to work with this recipe. An Italian guy I work for says gelato should be made with no eggs, so I want to perfect it with no eggs, although eggs give it a nice texture."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chef2B"
+},
+"reviewBody": "No changes necessary, your Italian MIL was right on!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jason"
+},
+"reviewBody": "We made a cherry version of this by adding 18 large pitted diced cherries during the second heating and then adding another 12more large pitted diced cherries when it was placed in the ice cream maker."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KSills"
+},
+"reviewBody": "This was outstanding. I used 3 eggs, brown sugar, and half and half instead of cream. I threw in two handfuls of bittersweet chocolate chips while warming the milk. Rich, creamy and outstanding!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laura Stephen"
+},
+"reviewBody": "I took the advice of another reviewer, reducing the sugar to 1/4c, and added about 2/3c of Nutella when it was mixing in the ice cream machine. It was a hit!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nicole Mullins"
+},
+"reviewBody": "Made it according to the recipe/directions. Added 1-2tsp peppermint extract and roughly chopped dark chocolate. Perfect mint chip gelato!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Martin"
+},
+"reviewBody": "Very good base gelato recipe. I'm waiting for mine to go into the freezer, and it tastes divine. Thank you. :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carisa Carlton"
+},
+"reviewBody": "This base gelato recipe is tried and true. I use it frequently to create various decadent desserts. Double the recipe for an ice cream maker."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Yummy87"
+},
+"reviewBody": "I have been making ice cream for years. I know this is gelato, I added a Vanilla Bean and let it steep for 30 minutes off heat. I followed the recipe after that. I have an ice cream maker..... so a little too much air. Other than that is was FABULOUS."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Katie"
+},
+"reviewBody": "I followed this recipe, but I added milk chocolate spread before heating it the 2nd time and it turned out amazing! So chocolaty and yummy! I just came back from Italy where I had gelato everyday, and this recipe compares to what I had in Italy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Elizabeth"
+},
+"reviewBody": "Heed all comments that warn you to temper your eggs and take your time. Temperature raising and cooling (along with stirring) are critical to the right consistency. I cannot overemphasize the importance of these compulsive steps in making perfect Gelato."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Matthew Boyd"
+},
+"reviewBody": "Two attempts at constructing this to the letter of the recipe and the \"slight gel that coats the back of the soon\" never happened. I've been cooking for over 25 years and this recipe is just a lumpy egg mess."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ld72"
+},
+"reviewBody": "I cannot rave about this recipe enough. Here are a few tips: Don't rush it, each step takes awhile, temper the eggs slowly, keep stirring once you return it to the pot, and don't skip straining it. I wanted more gelato so I increased the milk to 3 cups and the cream to 1 1/2 cups, but left the sugar the same. I also used two whole eggs (easier than separating eggs) instead of the 4 yolks and it fit perfectly in my 4 1/2 cup gelato maker. Use the freshest ingredients you can find, I actually had fresh milk! After chilling the custard you can add your mix-ins. I added about 6 oz of nutella and 2 tbls of unsweetened cocoa and it was AMAZING!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ee"
+},
+"reviewBody": "Perfect as is, especially if you choose good-quality ingredients, which I believe is KEY. If you choose generic, low-cost, cheap-quality ingredients, you'll get the same in return, as with most any recipe. I have since made it infusing ground cardamom and vanilla- delicious. This is now my base for future recipes. Thank you."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "carina"
+},
+"reviewBody": "I was really looking forward to this, based upon all the other reviews, but it just didn't turn out that well for me. I followed the instructions exactly, but it was slightly grainy and didn't harden up very well, despite 45 minutes in my ice cream maker. I have it in my freezer now, hopeful that it will harden up enough to eat. Since I am a novice ice cream maker, and this is only the 3rd time I've used my machine, I might have to chalk it up to my inexperience and try the recipe again another time, because I love gelato!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kait"
+},
+"reviewBody": "Used 1.5 cups of heavy cream and 1.5 cups of 1% and added vanilla and cinnamon. Family loves it and I'm not allowed to buy store bought ice cream anymore!! hahaha"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nora"
+},
+"reviewBody": "This recipe blew my mind. Take your time with it. Make sure that you temper the eggs well, and keep the heat on medium as you wait for the mixture to thicken after adding the tempered eggs into the milk. Another recipe that I cross checked with said that the consistency is right when the mix reaches 180 degrees. Mine looked noticeably thicker than when I started heating it through at the 180 mark. I didn't need to strain anything. I added 1 cup of cocoa powder and about a cup of chocolate chips to the milk mixture as it heated. It was insanely rich, but that is exactly what I was trying to create!\n\nAlso, I just put the pot in the freezer and checked/stirred it periodically to make it cool faster. Threw it in the ice cream maker for about 30 minutes. Try this recipe!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "coleebear"
+},
+"reviewBody": "The taste was different. Like super rich. We didn't care for it much but it was good and the direction and recipe are solid"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "lutzflcat"
+},
+"reviewBody": "Had some peaches that needed to be used, so I pureed a couple, added some diced peaches, and some mini chocolate chips to the custard. I actually liked the flavor better before I added the peaches, so next time, I think I'll add no fruit. I still would add the mini chips, as they were delicious in this. It was tasty, a little icy, just not as creamy as gelato I would buy at an ice cream shop. Admittedly, that could have been a result of adding the puree and chopped peaches."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Samantha"
+},
+"reviewBody": "Took a little longer than expected, but worth it. Took another reviewers advice and reduced sugar to 1/4c and added 7oz of Nutella. Yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Anne R."
+},
+"reviewBody": "My first attempt must have been over cooked. It got grainy and separated. Found somewhere else that suggested that after mixing the eggs and dairy that you heat just to 160-180 degrees. This does not take long. My second attempt with less heating turned out smooth and delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Amy"
+},
+"reviewBody": "I do not have a ice cream maker. Can I make gelato without ice cream maker."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jonathan"
+},
+"reviewBody": "This is a superb recipe, but does any one no any different variations?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gloria Rice"
+},
+"reviewBody": "Made this almost exactly as stated, but added a teaspoon of banana extract after the mixture's final cooking. Best gelato I ever had. It was a little icy, but when slightly melted, OMG!! The custard base is amazing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Gelatodessert"
+},
+"reviewBody": "For amore traditional Italian Gelato you shouldn't put eggs but at home it's ok"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Droopy"
+},
+"reviewBody": "I love the texture and creaminess of it. i added vanilla bean and strawberries. I don't have an ice-cream maker, so i put it in a 9X13 glass dish and wisked it after 30 min, wisked it again after another 30 min, and using a spatula, folded it into itself once after another 30 minutes. Allow to freeze and it was great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mlarcher"
+},
+"reviewBody": "Easiest gelato recipe ever. I skip the sieve. do not have an ice cream maker but freeze directly and then process it in my vitamix and refreeze again. mix in home made strawberry syrup or other flavor right before completely frozen. AMAZING!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alison"
+},
+"reviewBody": "Being European, we love and appreciate good gelato. This passed our family's critical tasting with flying colors. All said it was the BEST gelato/icecream EVER."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Suzisart"
+},
+"reviewBody": "I read dozens of the reviews and apparently the only one who is uncertain what the term \"gel slightly\" means. So I made a custard, which is what I usually do. I also had trouble frothing up the eggs and sugar in my KitchenAide. Such a small amount. I'm sure it will be good, and I will remember to strain!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Joyce"
+},
+"reviewBody": "Well not bad.... but I used Half and Half only 3 egg yolks and 1/3 cup sugar. It seemed rather bland over all."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cookin Dude"
+},
+"reviewBody": "This was a great base recipe and I liked reading the other comments and additions to the recipe. I didn't find this at all eggy. While I was cooking the custard base I added fresh sweet basil, lemon zest and some of the juice from the lemon. The result was a creamy gelato with a fresh flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "FunwithFood"
+},
+"reviewBody": "I made two flavors using this base mixture, which I followed to the \"t\". Added 1/2 a small jar of Nutella to mixture while it thickened on stove. To other batch I replaced 1 cup of the milk with coconut cream (not coconut milk) and 1 whole vanilla bean I scraped the seeds out from and cooked pod with base: then strained. When gelato was almost done churning I added 1/2 c toasted coconut and 1/4 cup shaved milk chocolate. The Nutella mixture seemed very creamy and smooth PRIOR to churning in comparison to the coconut. The coconut had an \"eggy\" taste Prior to churning. However, the Nutella gelato had an odd grainy texture after churning, but the flavor was really good. The coconut was amazing, did not taste \"eggy\" anymore and nice and smooth after churning. I did add 1/2 c more heavy cream while it was churning as it seemed way to thick. I don't know if it would be better to add nutella AFTER heating the base, or maybe the coconut was smooth because I added extra cream? I will try it again and adjust my rating if it makes a difference."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "mominml"
+},
+"reviewBody": "This was a good way to use up some egg yolks and some berries that I had. I made the gelato base and then added in some raspberries, blackberries, and blueberries that I had run through my food processor. Straight out of the ice cream maker, this was creamy and absolutely delicious! After sitting overnight in the freezer, it was a brick. We had to let this either sit at room temperature for about 30 minutes or microwave it, just to be able to scoop it out. The flavor was awesome, just wish I knew how to keep it from getting so hard."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda"
+},
+"reviewBody": "Wonderful recipe when made correctly. First this recipe will taste eggy if you use it too soon. It is best if left to chill overnight. Second this is custard flavored as is not vanilla flavored. Third the recipe does not state egg size. I am assuming because the recipe is older that medium eggs would have been standard ... Today standard seems to be large so maybe using 3 yolks would be better. I enjoyed the flavor without adding anything to it. It was rich and creamy yet light. Wonderful when you follow the directions."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "*CASEY*"
+},
+"reviewBody": "Great base! Add a little instant carmel/vanilla espresso for carmel macchiato gelato, mmmm!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pamela Smith-Dean"
+},
+"reviewBody": "recipe is great just how it is! i used whole milk for the creamy fat content along with the cream. i added mini chocolate chips to mine right before the mix was totally frozen."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kelly Ann Thomas"
+},
+"reviewBody": "This is the best ice cream/gelato I have ever tasted - and I cannot believe I made it my little Cuisinart ice cream machine!\n\nI followed the basic recipe but added a significant amount of chocolate to the cream mixture before heating it up - 1 cup of semisweet chocolate chips, a 3.5 oz. 70 % dark chocolate bar and 1/4 cup of Dutch Cocoa. I also added an additional 1/4 cup of sugar due to the cocoa content, though next time I will reduce it to one extra tablespoon.\n\nI left the saucepan of cream unattended too long - by the time I returned there were bubbles, but nothing burned or curdled. The same thing happened when I returned the mixture to the stove after tempering the eggs. Still, it came out perfect.\n\nI noticed that it did not expand in my machine, which is nice because it remained super rich and creamy. I don't know if it is because the excess chocolate weighed it down, but oh...I cannot even think right now, as I am too busy fantasizing about that container of chocolate gelato just sitting in my freezer, so lonely...\n\nThank you for a great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Erin Skywalker"
+},
+"reviewBody": "very creamy and good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "NSTARK"
+},
+"reviewBody": "Excellent! I even managed to get it a pretty good consistency without using an ice cream maker. I followed instructions elsewhere to place in freezer and remove every 30 minutes to whisk back to creamy for 2 hours. Added 2 splashes of vanilla extract and 1 splash of almond extract for a tasty basic vanilla. Next is onto the flavors. Thanks for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "KELLEY101"
+},
+"reviewBody": "A little sweet for me. Next time I will try it using less sugar and 18% cream instead of 36%. I added an entire pureed pineapple and it was amazing. I want to try it with other fruits as well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Liz Kish"
+},
+"reviewBody": "This came out tasting great- not too eggy for me. For those that it came out eggy tasting- I think you should try cooking a bit longer on the stove. My only complaint is it was a bit icy and not creamy, but I think this is b/c my ice cream maker is from about 1970 haha. Great recipe, thanks for posting!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "vorspeise"
+},
+"reviewBody": "Excellent recipe! The gelato turned out light and fluffy - not dense and stodgy at all. I added the scrapings of a vanilla bean pod to the custard base as it cooked. I would definitely make this recipe again. I might try the Nutella or a fruit mix-in next time, as recommended by other users."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jess Shirley"
+},
+"reviewBody": "Such a great base recipe! I've made an espresso version, a cookie version, a ginger version. Gelato is pretty much the only thing i make with my ice cream maker now!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kizer Shelton"
+},
+"reviewBody": "i have no ice cream maker so i just froze it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lola522"
+},
+"reviewBody": "Followed directions to a \"T\" and it came out perfect. Light and delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "von"
+},
+"reviewBody": "It was just ok! It certainly didn't taste like the Gelato I've eaten before. So, probably won't make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mhayford"
+},
+"reviewBody": "Also used 2 whole eggs and increased the other ingredients by 50%. Forgot the vanilla too--turned out fabulous!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kr3w31"
+},
+"reviewBody": "this gelato recipe is awesome very similiar in taste and texture to the gelato in Italy, i was very impressed with this it was great and not to hard to make either, i made this with chocolate syrup and i also cut up some pieces of fudge brownies. Thanks OSTAFF1!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "nw_wine_girl"
+},
+"reviewBody": "Wonderfully simple and elegant, a great flavor and solid base to add to. This was my first attempt at making a homemade gelato, I added half of vanilla bean (seeds only) and was pleased with the flavor. Thank you for passing along your mother-in-laws recipe, Ostaff1!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Annette Marcelo"
+},
+"reviewBody": "Wonderful! I used 2 whole eggs instead of 4 egg yolks and increased the other ingredients by 50%. It was fantastic! This recipe is definitely a keeper. I used skim milk and it was still rich and creamy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ellie_B."
+},
+"reviewBody": "This is an excellent recipe! I live in Sicily, and I absolutely love gelato! After a visit back to the States last summer, I was amazingly disappointed at regular ice cream. This recipe is great! I did double-strain the mixture. I made this for dessert when entertaining guests over the weekend. I flavored it with vanilla and almond, then served it with Zuppa Inglese (there's a great recipe for that on here, too). You'll have guests talking about it for a long time. I already have it requested for our 4th of July gathering. :) Buon Apetito!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kiss the Cook!"
+},
+"reviewBody": "This was a great recipe, I did not think that the egg taste was overbearing. Also I followed some of the other reviewers example using only 1/2 the Sugar while adding Nutela. Amazing, however when I make it again I will only use Nutela (the Nutela is so sweet you really don't need any additional sugar) I can't wait to start experimenting with this one!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "aceo"
+},
+"reviewBody": "great ice cream, worked well when in large amounts ie, 2.5L. THANKS"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Quyen"
+},
+"reviewBody": "I made this and added instant coffee and vanilla. It was my first time making gelato. I did not strain it as suggested but it still came out so creamy and smooth. My family loved it and I couldn't detect any raw egg taste. I will definitely make this again. Thank you for sharing, OSTAFF1."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "VERONICA7"
+},
+"reviewBody": "This is a great simple starter recipe for gelato. In Italy, they call this particular flavor \"crema.\" I make it plain or use it as a base for other flavors (nutella, cinnamon, strawberry, so far). The trick is to temper your eggs carefully and to make sure that you don't overcook the custard mixture so that it curdles. You can still strain it but the finished frozen product is icy rather than smooth (learned that lesson the hard way). Try it, you won't be disappointed!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "vivianlee"
+},
+"reviewBody": "This is the best recipe for gelato that I've found! It's a great base recipe for adding flavorings such as mango pulp, pistachio, chocolate, vanilla bean, Nutella. I have tried skipping the straining step, and didn't notice much of a difference. However, if the mixture seems overheated or curdled, it's best to strain the mixture after taking it off the stove to remove the curdled bits before refrigeration."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Triss"
+},
+"reviewBody": "So if I cooked it too hot like the idiot that I am, and it curdled, should I try to go ahead and freeze it? Or should I just throw it out and start over? I have a big fam, and guests this weekend, I multiplied this recipe by four and I have a lot of curdled milk, cream, sugar, and eggs. Any help? :("
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CPA"
+},
+"reviewBody": "I did it. Pistachio Gelato, delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CoraJeske"
+},
+"reviewBody": "I added 1/2 the Nutella to it and its amazing. I'm going to try fruit next. I always make sure to cook it awhile longer after you temper the eggs with the milk in order to keep from having a raw egg taste."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Melissa"
+},
+"reviewBody": "This is the perfect gelato base, and it is well worth the effort it takes to do the straining! I added 1/2 cup Nutella and a splash of vanilla to this and let the mixture chill overnight before freezing it. The texture is perfect, and the flavor was wonderful. I don't think it needed to sit in the freezer to firm up at all, unlike many of the other recipes I've made. If you like very firm gelato/ice cream, though, it would be best to freeze for an hour or two before serving. This is my new favourite recipe, and I will be experimenting with all kinds of flavor add-ins in the near future."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JackRabbit"
+},
+"reviewBody": "I added 1/4 cup of Hershey's Special Dark dry cocoa. It was exquisite. I used my KitchenAid professional mixer that has an ice cream attachment and the frozen ice cream bowl is perfect to make gelato as it does not incorporate air making the gelato taste as good as any traditional Italian gelato I have ever had. I can't wait to try just the base recipe. My husband and son loved it and only wish I had made more. On a side note, we had the dark chocolate gelato after a very spicy meal of traditional red Jambalaya and it was a nice dessert to quench the fire of the main dish. The dark chocolate cocoa is more black walnut in color and it turned out very elegant. And yes, I did strain it, very good advice from previous reviews."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa"
+},
+"reviewBody": "Loved this recipe. I added cocoa powder and raspberry extract and eveyone ate it up."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ROBYNBNB"
+},
+"reviewBody": "This basic recipe has good flavour. I added pure vanilla to start, as we will continue making this trying tons of different add-ins."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Karie"
+},
+"reviewBody": "Very excellent taste of Italy. I used the Gelato Harlequin Electric Ice Cream Maker by Nemox. It turned out very nice. I don't know if it has a slower churn or not but I let it churn longer than I would regular icecream just in case. For the person who mentioned raw egg yolks, keep in mind the warm cream and the reheating of the mixture actually cooks the yolks into the Gelato, but the method is about having them cook smoothly into it and not lumpily.\n\nI've made it with melted Chocolate, Vanilla Bean, Coffee, and Raspberries. Maybe next time, I'll start doing some combinations and possibly some candy bars."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Paula"
+},
+"reviewBody": "This is an excellent gelato recipe. You definitely taste the rich egg custard so it is well suited for the richer flavor additions like chocolate, coffee, etc."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Em"
+},
+"reviewBody": "I doubled this recipe, but still only used 5 eggs...I might not even use that many next time. I poured it through cheese cloth before AND after I let it chill. It was delicious and got lots of compliments!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "weatherman"
+},
+"reviewBody": "This recipe tasted pretty close to the gelato I enjoyed in Rome. It was perhaps (as one other person suggeted) a little eggy, but it wasn't too bad and the texture was devine. I used a 1-quart ice cream maker, and the recipe yielded about 3/4 of a quart, so in the future I will likely increase the recipe by 25% except for the eggs, which I think should balance the taste better. To flavor this recipe I used about 7 oz of Nutella, which gave it a delicious hazelnutty flavor, and I reduced the sugar to 1/4 cup because the Nutella is pretty sweet on its own. It came out pretty nice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I had gelato in italy, and this homemade recipe tasted almost the same, next time i'll add fuit to make it like the gelao I had here!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I didn't like this recipe at all. I don't like to be able to taste raw egg in icecream and the taste in this recipe is overwhelming. The texture is good but I definately won't be making this one again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jessica DiPrampero"
+},
+"reviewBody": "Very impressive. I too skipped the milk in favor of cream (had it on hand already) and melted 4 oz of semi-sweet chocolate in the cream before tempering the eggs. On the previous reviewer's advice, I put the tempered mixture through a double-thickness of cheesecloth. The texture of the finished product is unbelievable - extraordinarily smooth and delicious. This is a total keeper - husband says it reminds him of what gelato was like in Italy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "FEEDMENOW"
+},
+"reviewBody": "Wow, I feel kind like a trailblazer!\r\nostaff1, thanks for sharing this basic recipe. \r\n\r\nWe changed it up a bit since I had a LOT of half and half on hand we used that instead of the milk and added 2 teaspoons of real vanilla(accept no substitutes on vanilla in my book), but we missed a step and forgot to strain the mix before refrigerating it overnight. \r\n\r\nIt took least than 20 minutes in the ice cream freezer and will double this next time because it wasn't enough for the beaters to really work on. If not for the straining issue, this would have been velvety and smoooth from beginning to end of taste, but because we forgot a film develops on the roof of your mouth and the spoon after eating this for a bit. \r\n\r\nStill delicious, but DON'T FORGET TO STRAIN\r\nTHIS! :)"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/55609/gelato/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/231/world-cuisine/european/",
+"name": "European"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/723/world-cuisine/european/italian/",
+"name": "Italian"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/55609/gelato/",
+"name": "Gelato"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

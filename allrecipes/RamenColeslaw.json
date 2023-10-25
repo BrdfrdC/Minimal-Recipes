@@ -1,0 +1,1444 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Ramen Coleslaw"
+,"datePublished": "1999-08-27T23:56:43.000-04:00"
+,"dateModified": "2023-03-10T05:04:51.990-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Mary"
+,"url": "https://www.allrecipes.com/cook/24326471"
+}
+]
+,"description": "This ramen noodle coleslaw is a crunchy, satisfying salad with shredded cabbage, toasted almonds, and sesame seeds tossed in sweet, tangy dressing."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/fCPML-Yz74w9COh1_W5k3RMFDb8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4445089-c4c9e29e172d402c88b99f0ddf3852e0.jpg",
+"height": 960,
+"width": 960
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=1886436012001",
+"description": "A crunchy coleslaw with ramen and cabbage in a vinegar dressing.",
+"duration": "PT2M12S",
+"name": "Ramen Coleslaw",
+"thumbnailUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/c7cbfd7a-5c2b-4d72-963a-ff95f7f32484/9d2caccf-4e6a-4249-a5d5-6279905034eb/1280x720/match/image.jpg",
+"uploadDate": "2021-07-16T14:08:52.184-04:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Ramen Coleslaw"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "677"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "253 kcal"
+,"carbohydrateContent": "31 g"
+,"fiberContent": "5 g"
+,"proteinContent": "7 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "543 mg"
+,"sugarContent": "11 g"
+,"fatContent": "13 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+, "recipeCategory": ["Salad"]
+,"recipeCuisine": ["American"]
+,"recipeIngredient": [
+"0.5 medium head cabbage, shredded",
+"5 green onions, chopped",
+"1 (3 ounce) package chicken flavored ramen noodles, crushed, seasoning packet reserved",
+"0.25 cup sliced almonds",
+"2 tablespoons sesame seeds",
+"3 tablespoons white wine vinegar",
+"2 tablespoons vegetable oil",
+"2 tablespoons white sugar",
+"0.5 teaspoon salt",
+"0.5 teaspoon ground black pepper" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine cabbage, green onions, and crushed ramen noodles in a large salad bowl; set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Spread almonds and sesame seeds evenly onto a baking sheet."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until lightly browned, about 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, make dressing: Whisk together vinegar, oil, sugar, salt, pepper, and seasoning packet in a medium bowl."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/fCPML-Yz74w9COh1_W5k3RMFDb8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4445089-c4c9e29e172d402c88b99f0ddf3852e0.jpg"
+}
+]
+,"text": "Pour dressing over cabbage mixture; toss to coat evenly. Sprinkle with toasted almonds and sesame seeds."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT25M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Not enough oil/ vinegar was too dry and not enough flavor.."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christy Ratto-Bixby"
+},
+"reviewBody": "Loved this recipe! I did use sesame oil and rice wine vinegar instead. I also toasted the almonds and sesame seeds together. I doubled the dressing let it sit in the fridge overnight and used a 16 oz of ready made slaw mix. Pulled it together a couple hours before the bbq and it was so good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Karen M. Hugya"
+},
+"reviewBody": "Only changes I made was to use champagne vinegar , more almonds and drained mandarin oranges. Yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Somertyme08"
+},
+"reviewBody": "This is a great, tasty recipe!! After reading reviews I used rice vinegar instead of white, 1/2 sesame oil and 1/2 vegetable oil, 2 Tbsp of soy sauce and cut the sugar back to 1tbsp. Oh. And omitted the salt since there is already plenty in the ramen season packet and soy sauce. Loved it!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "valerie sword"
+},
+"reviewBody": "This slaw is so good! I had it the first time at a bbq and asked for the recipe. The hostess was kind enough to let me take home the leftovers :) I’ve since made this several times. I prefer rice wine vinegar and sunflower seeds instead. PS. I even enjoy it soggy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "IMNOLA"
+},
+"reviewBody": "This is a quick and easy go to salad recipe and everyone loves it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "awest126"
+},
+"reviewBody": "This is my favorite! Perfect summertime BBQ side dish! I love the crunch."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sue Adams"
+},
+"reviewBody": "Just as I remembered it. It’s been a long time since I made it. The dressing was a little sweet so I added a little bit of oyster sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cari Enesa"
+},
+"reviewBody": "Subbed honey for sugar and a tablespoon of Sesame oil for sesame seeds."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laura Couch Strebler"
+},
+"reviewBody": "Fantastic side dish! You want to make it no more than an hour or so ahead of time so everything is crunchy. It's not a good overnight salad."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lori Krieck"
+},
+"reviewBody": "Refreshingly light and tasty...keeps well for several days."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer Nolan"
+},
+"reviewBody": "This is really good - I agree with others to go the route of a slaw mix (easier and more colorful). The dressing seemed to be missing something - I tasted it as is and added a little ginger but still seemed to be lacking."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Denise Striggow"
+},
+"reviewBody": "It was sooo good! I subbed sesame oil for the vegetable , made a ton of difference, double the seeds and nuts, great party salad!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathie"
+},
+"reviewBody": "This is delicious! I used regular coleslaw mix. I toasted the ramen, almonds and sunflower seeds. I added a big tablespoon of honey to the dressing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rebekah Hoffman"
+},
+"reviewBody": "I loved this dish as a kid and have been searching for the recipe for a while. I omitted the sesame seeds because I didn't have any on hand and substituted rice vinegar for white wine vinegar. It turned out great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MomBoys3"
+},
+"reviewBody": "A fantastic beach favorite. I add chopped ready made chicken to make it a heartier meal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dancinshan1017"
+},
+"reviewBody": "I used a whole head of cabbage. It’s delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Connie Meyer Bussey"
+},
+"reviewBody": "One of my favorites for years, I do sub sweetener for the sugar and still tasty. Great for potlucks or BBQ's"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Taunda Ziessler"
+},
+"reviewBody": "Love this!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dawngonnit"
+},
+"reviewBody": "Best coleslaw I have ever eaten!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SassyMom4"
+},
+"reviewBody": "This brings back memories of my dad he had a similar recipe and made this often when I was little. When I came across this recipe I just had to try it. Delicious! The only thing I did differently was toast the almonds and sesame seed on the stovetop in a pan. Didn’t feel like turning the oven on."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Goodcalves"
+},
+"reviewBody": "I love this salad! This time I used sesame oil for the oil and rice wine vinegar for the vinegar because those are more Asian inspired. Yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marcus Erectus"
+},
+"reviewBody": "This is so tangy and refreshing and such a great side dish. In a pinch one day, I used roasted salted sunflower kernels in place of the almonds and sesame seeds, and threw in a handful of dried cranberries. Now I do it that was all the time!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "doklink"
+},
+"reviewBody": "I took this to a potluck and received many compliments."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Michele Miller"
+},
+"reviewBody": "My daughter put this together for her birthday party. I toasted the seeds and nuts for her and we used a bagged coleslaw as a shortcut. Everyone loved it. We’ll definitely make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Matthew Suscheck"
+},
+"reviewBody": "It was very good! Ended up making this for my cousin's graduation party, everyone really liked it. Had a hard time finding Sesame seeds in bulk ( I tripled the recipe) so I just left them out. Helpful Hint- leave the ramen noodles/almonds out until you are ready to serve. I used Ziploc bags and took them with me."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ruth"
+},
+"reviewBody": "A hit with many family and friends!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa"
+},
+"reviewBody": "My husband loves this recipe! I buy packaged cut up cabbage because it's much easier! The only thing I did differently was use 2 packages of Ramen Noodles instead of one."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sheri kay"
+},
+"reviewBody": "I’ve been making this since 1995, when a coworker gave me the recipe. It calls for sunflower seeds instead of sesame seeds. I often add cashews if no almonds on hand. Keeping the ramen noodles in a separate bowl helps eating leftovers, if any, without soggy noodles!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shona Smith"
+},
+"reviewBody": "Delicious salad everyone can love. It works well using rice vinegar substituted for the white wine vinegar. Sesame oil substituted for part of the vegetable oil is a nice addition, too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carisrecipes"
+},
+"reviewBody": "YUMMY"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rnraven"
+},
+"reviewBody": "Quick, easy, tasty addition to dinner!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Suzy Whitten"
+},
+"reviewBody": "My only change is substituting sunflower seeds for sesame seeds. A reminder not to add the crunchies and dressing until right before you serve this salad or it loses its crunch."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Eileen Sopha"
+},
+"reviewBody": "I made this recipe AS IS without a single change to the originally posted recipe. I brought it to a family gathering as a side dish to a party sized submarine sandwich. it was a hit!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kacy"
+},
+"reviewBody": "My husband needed a dish to take to a potluck and I was happy to find this recipe. I used a bag of store brand coleslaw mix . I also used red wine vinegar because that was all that I had on hand. I followed the suggestion of using Splenda for my diabetic hubby. (I haven't cooked with Splenda and thought it might be gross, but I was pleasantly surprised.) I skipped the salt because I know how salty ramen is, and I didn't miss it. I also found that 5 minutes in the oven was plenty of time for my almonds and sesame seeds to brown. After reading the reviews, I was concerned that making it ahead would result in a slimy mess. So, I made one batch for home and one for him to take. I left the dressing off of his batch so that it could be added just before serving. On our batch, I added the dressing immediately. I ate a serving right after and thought it was very good, but after it sat in the fridge for 5-6 hours, I had another serving and I thought it was even better. Things had softened up, but it was definitely not slimy. I think having time for all of the flavors to meld together was of benefit . The salad was more flavorful and the texture was just fine. It wasn't dripping with dressing and it wasn't offensively soft. I am addicted."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Dana Zaratsian"
+},
+"reviewBody": "I served this at a family barbecue and everyone loved it -- even asked for recipe. I took advice of another reviewer and cooked the noodles in a dry pan to keep them as crispy as possible. I put a little dressing on and chilled it, then added the rest upon serving. Definitely will make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "rkirchenbauer"
+},
+"reviewBody": "Like so many other reviewers, I made some substitutions/additions:\n- Oriental flavor ramen instead of chicken ramen\n- Rice wine vinegar instead of white vinegar\n- Added just under a teaspoon of toasted sesame oil\n- Added julienned carrots and cilantro. \nI also adjusted the sugar to half the amount the recipe called for (I found the dressing far too sweet otherwise). I've also seen this recipe made with napa cabbage, but it's not always available at my grocery store, so I use a combination of red and green cabbage sliced really thin and it was fine. This is a tasty salad. I highly recommend it. I keep the toasted almonds and ramen in a zip lock bag in the fridge and add it to the slaw right before eating. I agree with another reviewer - this is pretty addictive."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Like so many other reviewers, I made some substitutions/additions:\n- Oriental flavor ramen instead of chicken ramen\n- Rice wine vinegar instead of white vinegar\n- Added just under a teaspoon of toasted sesame oil\n- Added julienned carrots and cilantro. \nI also adjusted the sugar to half the amount the recipe called for (I found the dressing far too sweet otherwise). I've also seen this recipe made with napa cabbage, but it's not always available at my grocery store, so I use a combination of red and green cabbage sliced really thin and it was fine. This is a tasty salad. I highly recommend it. I keep the toasted almonds and ramen in a zip lock bag in the fridge and add it to the slaw right before eating. I agree with another reviewer - this is pretty addictive."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer Davis"
+},
+"reviewBody": "Flavour was okay, but the Raman noodles were a little strange. A very Asian flavour to it, if that's what you are going for."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mitchfurman"
+},
+"reviewBody": "Excellent recipe. I used sriracha flavored ramen and substituted white vinegar for apple cider vinegar. Came out great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kim"
+},
+"reviewBody": "This was delicious and so addicting! toasted the almonds and ramen noodles as others suggested and used rice vinegar for added flavor. will definitely make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Donna Doyle-Wolf"
+},
+"reviewBody": "Loved ,loved loved it!! Will be making this again SOON! I added about 2 tablespoons of soy sauce as well . It was to die for."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Mama Duck"
+},
+"reviewBody": "May try it again with a few changes that others have listed here. Mixed reviews in our family---several really liked it...but several did not. It's healthy, so that might encourage me to try it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "chynadol25"
+},
+"reviewBody": "Made this last night with the following changes:\n-used 1 16oz bag ready slaw mix plus 1 bag of broccoli slaw\n-used oriental ramen instead of chicken\n-replaced white wine vinegar with rice wine vinegar\n-added 1 tbsp soy sauce\n-panfried the sesame seeds, almonds &amp; ramen\n-added cilantro \n\nIt was delish!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "giraffeboy"
+},
+"reviewBody": "I cheated making this recipe. I used a salad express Cole slaw mix from the store. I didn't need to chop cabbage this way. I tossed out the dressing packet that came in the mix. I made the dressing as directed per recipe. I added chopped Granny Smith apple for tartness, and it made the salad sweet rather than tart. Served it next to London broil, and it made the meal. I was afraid to make it, I have an aversion to mayonnaise based foods."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Erin Dyck"
+},
+"reviewBody": "It's a great salad. I subbed the vegetable oil for sesame oil and it really took it to the next level. I also didn't have any white wine vinegar or rice vinegar on hand so I used red wine vinegar. I will be making this again soon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ollydog"
+},
+"reviewBody": "excellent! I toasted almonds and seeds in a pan as suggested and threw the noodles in at the end. I mixed it up just before serving it was great. I did put just a bit of toasted sesame oil in the dressing as well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kimime"
+},
+"reviewBody": "Whenever I see this recipe I have to change the ingredients sizes. I double up on everything except the cabbage. I am forever having a copy requested whenever I serve it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gillian Burles"
+},
+"reviewBody": "One of my fave salads. I omit the sugar. The seasoning packet provides enough flavour. I toast the seeds in a sauté pan but watch it carefully as they burn easily"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Joyce Sharlog"
+},
+"reviewBody": "Easy to make &amp; loved toasting the almonds."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Leslie from Aurora"
+},
+"reviewBody": "Really good. I didn't do the ramen part, but added mandarin oranges and used sesame oil and rice vinegar to give it more of an Asian flavor. Added some grated carrot and red onion too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "denon"
+},
+"reviewBody": "I added some carrots for color and crunch but overall this is a great recipe for a quick side dish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joan Howard"
+},
+"reviewBody": "I made Ramen Coleslaw for a potluck and everyone loved it. I will definitely make this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Janice Gilliland"
+},
+"reviewBody": "Very tasty. I followed the recipe exactly excited except I toasted the Ramen noodles for about 10 minutes at 350 F before adding them. I think the untrusted ones have no flavor. I made this for a family gathering and it was a big hit."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cara"
+},
+"reviewBody": "I very much enjoyed this coleslaw. I did do the asian version as suggested, such a great, unique flavour. Will definitely make it again . Nice crunch.\nThanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Fiddler"
+},
+"reviewBody": "I always follow directions the first time. So I did this exactly according to the recipe, including toasting the seeds in the oven (I normally do them in a pan on the stove). I really liked the almonds/seeds toasted this way, and I love this recipe. Took it to a picnic -- everyone was thrilled that it doesn't have mayo."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Cindy"
+},
+"reviewBody": "Made some changes for a really big head of napa cabbage. Doubled the dressing ingredients, but replaced 1 tablespoon of the doubled amount of oil with sesame oil. Skipped the salt and pepper. Used olive oil, also, instead of vegetable. \n Toasted the seeds, almonds, and crushed noodles in a saute pan. Halved the sugar and added a handful of dried cranberries for sweetness and texture. Don't mix the salad dressing or toasted ingredients with the fresh ingredients until just before serving to maintain the textures. It was a hit!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bethsparkles"
+},
+"reviewBody": "Absolutely delicious!! I also roasted the ramen along with the sesame seeds. It's such a yummy way to eat cabbage, especially since I don't enjoy soggy coleslaws as much. Yay!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "My 3 boys"
+},
+"reviewBody": "Loved this recipe! I did use sesame oil and rice wine vinegar instead. I also toasted the almonds and sesame seeds together. I doubled the dressing let it sit in the fridge overnight and used a 16 oz of ready made slaw mix. Pulled it together a couple hours before the bbq and it was so good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Shimmy"
+},
+"reviewBody": "Updates made: 16oz bag Cole slaw; 1T sugar; toasted almonds, sesame seeds and ramen noodles on stove; rice vinegar - added dressing as needed since I was serving this up over a couple of nights dinner."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shar"
+},
+"reviewBody": "My family loves this! My husband wants to share it at work but I need the nutrition information. I thought that use to be available or was that on another site?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Em decker"
+},
+"reviewBody": "Very good. I followed some of the other suggestions on this recipe. Used rice vinegar. Also added the almonds and ramen right before serving to keep it crunchy. Will be making again for sure."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Bibi"
+},
+"reviewBody": "Delicious, tasty, simple--this Asian-influenced cole slaw was a great accompaniment to ribs, tonight. I made this 5/30/16, and I admit, I tweaked only 2 things. To give it more of an Asian flair, I used sesame oil and rice vinegar. I love the crunch of the almonds, but 10 minutes at 350 is a bit too long. My almonds were browned at 6 minutes. I'm glad I was watching. Overall this is a solid recipe, and I will likely make again. Thanks for the idea!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tara Glaff Mager"
+},
+"reviewBody": "This was very yummy and a huge hit."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sandlu"
+},
+"reviewBody": "Always a hit. One of the first salads to go at a potluck."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "SHERRYSILCOX"
+},
+"reviewBody": "Not enough dressing - we found it to be a bit dry. I will double the recipe next time for a bag of coleslaw mix."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "popcornball"
+},
+"reviewBody": "easy &amp; delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kalowa"
+},
+"reviewBody": "Absolutely wonderful! Easy and delicious. I do not like almonds so I omitted those, otherwise I followed directions exactly and it was so darn good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Julie Thompson"
+},
+"reviewBody": "Very light and fresh...pairs nicely with grilled meats or anything that's a little heacy. I love that it is more food safe to leave out for parties as it contains no mayo."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rebecca Howard Hagenbuch Blank"
+},
+"reviewBody": "Add The dressing to the cold slaw and let it sit overnight, after you toast the almonds the Ramen noodles and the sunflower seeds keep separate and before you go to your party put them on and I also use the coleslaw and the bag it's easier and it's pretty"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kelly K"
+},
+"reviewBody": "I skip the almonds due to nut allergies. Even without them, it is a family favorite."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Loren Watterson"
+},
+"reviewBody": "Crowd Favorite!!! Can't go wrong with this recipe. It's addicting and you will want to make it again and again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Peggy McKay"
+},
+"reviewBody": "great recipe but not a left over keeper"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kim Capan"
+},
+"reviewBody": "We love this slaw, it is the best ever. Also very little oil used!! I add some cilantro into as well. SO DARN GOOD!!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kelly Lewis"
+},
+"reviewBody": "This is one of my favorite standbys for BBQ's. I don't like vinegar so I use fresh lemon juice instead (def seems to make a difference to use fresh instead of the bottle for this recipe). I also skip the salt because the ramen seasoning packet is already very salty. Usually skip the sugar or just add a little bit - definitely doesn't need it at all. I also add thinly sliced peppers for some color and crunch. I've made it with the chicken ramen but also with the oriental to make it vegetarian- they are different but both are very good. Echo what others have said- wouldn't mix together ahead or it will get soggy. Often keep some of the toasted nuts and seeds out to add to leftovers to add some crunch back in. Didn't mean to upload photo 3 times- didn't think it was working but don't know how to take it down so enjoy it x3 :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "lesliejade1985"
+},
+"reviewBody": "Followed recipe exactly, next time I think I will use half the amount of pepper and add an extra tablespoon of sugar. I love the ramen noodles in this though. Great crunch!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JANDERSON24"
+},
+"reviewBody": "I've made this for years and everyone gobbles it up! Only changes are to the dressing: rice wine vinegar, soy sauce and I use oriental flavor ramen. Yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Barbara Weyland"
+},
+"reviewBody": "You can add chicken to make this a one-dish meal. I slice 1 whole boneless, skinless chicken into 1/2 inch strips and marinate it in terriaki for about an hour. Then saute the chicken until cooked and refrigerate it. Make the recipe for the coleslaw and add the chicken before serving. People love it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TR Fowler"
+},
+"reviewBody": "I always love this."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Zurek"
+},
+"reviewBody": "This was an awesome recipe! I doubled this recipe and it turned out perfect. Will definitely be making this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Debbie Pritko"
+},
+"reviewBody": "Excellent recipe!!! Thanks for sharing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JOYCEWRIGHT"
+},
+"reviewBody": "We love this recipe! I always use a bag of Cole slaw instead of cabbage, double the dressing and use the spicy ramen seasoning packet instead of chicken flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "szambrano"
+},
+"reviewBody": "Made this recipe for my friends, used Dole coleslaw .Added their dressing packet to the dressing mixture. This time around added sliced to chicken to make a salad."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "stiggysez"
+},
+"reviewBody": "Great for pot luck"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "dwedbc"
+},
+"reviewBody": "Super easy to make and so delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nina Scott"
+},
+"reviewBody": "This was a wonderful recipe, did some adaptations. Yesterday family raved on this recipe which I doubled to accommodate the crowd.\n1) Used purple cabbage for a brighter Fall color presentation\n\n2) Subbed sugar for organic Stevia: each individual Stevia packet is equivalent to 2 tsp sugar --- a TBSP = 3 tsp, therefore that would be 3 packets if you're the making recipe as is, if doubling,6 packets or to taste.\n\n3) Swapped half the oil out for sesame oil\n\n4) Used half seasoned rice vinegar and half white wine vinegar since I didn't have enough of the rice vinegar\n\n5) In addition to toasting the sesame seeds and sliced almonds, I opted to toast the crushed Ramen noodles too to avoid the sogginess others mentioned. There's only a little of the coleslaw left this morning and the Ramen noodles are still mostly crunchy!\n\n5) FOLLOWING SOMEONE THE OTHER REVIEWERS SUGGESTIONS, I did not assemble it until right before serving. \n\nREFLECTIONS *** I think if you roast the Ramen noodles, it would be safe and optimal to put it together about 30 -60 minutes before, to help the flavors marinate a bit, because I notice it's more flavorful this morning. \n\nNext time I will try it that way and post an update if it made a difference. If anyone else is brave enough to try this and post feel free ? By the way, sorry no pic. As usual was rushing yesterday! Will post what's left in a bit."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cjgrc"
+},
+"reviewBody": "Excellent! Quick and easy to prepare! Everyone loved at the BBQ I took it too!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "jessicay"
+},
+"reviewBody": "Easy to make. Husband says: \"It's good.\" Subbed rice wine vinegar for the vinegar, didn't toast anything, decreased the sugar, and omitted the sesame seeds."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "sanlikestocook"
+},
+"reviewBody": "I like most anything Asian, but I didn't care for this much. I found it to be too salty and too peppery. I gave this two stars due to how quick and easy this was to make. Perhaps next time I will try to modify the recipe and see if I get better results."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gina"
+},
+"reviewBody": "Great recipe. Family loved it. Browned seeds and nuts on stove top. . saved time and tasted great. Give this one a try."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Irishlass"
+},
+"reviewBody": "A HUGE hit! Doubled dressing as recommended....2 bags of cut cabbage....used apple cider vinegar. I put all the dry ingredients in a container and the dressing separate.....tossed it all together right before serving. So easy and inexpensive! Making it again tonight for another get together. This will be my go to recipe to bring to big parties."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ALWAYS_TLC"
+},
+"reviewBody": "So good. Everyone loved it. One negative note, it's not good the second day. You have to eat it fresh to truly enjoy it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Linda Hoskins"
+},
+"reviewBody": "Very tasty and refreshing...perfect for summer. I did double the liquid ingredients for the dressing, and used 1/2 sesame oil, 1/2 veg. oil and rice vinegar for great flavor! Used oriental ramem and added no salt. Used 3 green onions. Could eliminate the sesame seeds, and added additional almond slivers. It disappeared!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jeema"
+},
+"reviewBody": "I love this recipe!! Try mixing it up with packaged coleslaw and broccoli-slaw together! It is great!! I use sunflower seeds instead of sesame seeds,(sesame seeds are awful if you wear dentures)and when in a hurry, I do not toast the almonds, although it is tastier when they are toasted."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Patti"
+},
+"reviewBody": "I think this recipe is perfect for summer gatherings! I have passed it on to friends/family and will keep using it. The only change I made was I bought the pre-shredded cabbage. That's it. I do have a few ideas that I might want to incorporate in the recipe, but I love it the way it is."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Reach Zaray"
+},
+"reviewBody": "Yes, I have tried this recipe and is absolutely delicious! My family loves it as well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Cookin Sue"
+},
+"reviewBody": "This was a little bland, so I added some ginger, a few drops each of soy sauce and sesame oil. I made a mistake by using Ramen as it doesn't soften as fast as Cup Noodles. I tossed in a little more water to help it along. I added cooked chicken to make it a one dish meal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nikki Kaldas"
+},
+"reviewBody": "I used 2TBS peanut oil and 1TBS sesame oil. I used 2 TBS white vinegar and 2TBS rice wine vinegar. I cut back on the white sugar and doubled the salt and pepper. I toasted the ramen noodles as well, they kept a great crunch! I also prepared the night before and added the almonds and noodles the next morning."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rachel Harmon"
+},
+"reviewBody": "Loved that I had most of this in my cabinet already. I substituted rice vinegar for the white wine vinegar and sesame oil for the vegetable oil and sesame seeds (out of necessity) and it turned out great."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/14441/ramen-coleslaw/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/218/salad/coleslaw/",
+"name": "Coleslaw Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16684/salad/coleslaw/no-mayo/",
+"name": "No Mayo"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/14441/ramen-coleslaw/",
+"name": "Ramen Coleslaw"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

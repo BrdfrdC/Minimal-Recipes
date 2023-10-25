@@ -1,0 +1,229 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Lamb Sliders"
+,"datePublished": "2018-06-08T10:43:05.000-04:00"
+,"dateModified": "2022-01-14T11:58:59.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "The Flying Shepard"
+,"url": "https://www.allrecipes.com/cook/flyingshepard"
+}
+]
+,"description": "Homemade lamb patties seasoned with cumin and coriander are layered with feta cheese, spinach, and tzatziki in these grilled lamb sliders."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/XN1hs_GbsIFnQrcEh4rtEVWcjv8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4508855-ae6c2036bba94475a09bf6deab018cbc.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Lamb Sliders"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "9"
+}
+,"cookTime": "PT5M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "459 kcal"
+,"carbohydrateContent": "34 g"
+,"cholesterolContent": "87 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "28 g"
+,"saturatedFatContent": "9 g"
+,"sodiumContent": "646 mg"
+,"sugarContent": "5 g"
+,"fatContent": "46 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1 tablespoon minced garlic",
+"0.25 teaspoon ground cumin",
+"0.25 teaspoon ground coriander",
+"0.25 teaspoon ground allspice",
+"0.25 teaspoon salt, or to taste",
+"0.25 teaspoon ground black pepper, or to taste",
+"1 pound ground lamb",
+"8 small slider-size rolls, split",
+"1 cup baby spinach",
+"0.5 cup tzatziki sauce",
+"0.25 cup sliced red onion",
+"0.25 cup crumbled feta cheese" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat an outdoor grill to medium-high heat and lightly oil the grate."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix garlic, cumin, coriander, allspice, salt, and pepper together in a bowl; add lamb and mix well. Form mixture into 2-ounce patties."
+} ,{
+"@type": "HowToStep"
+,"text": "Grill patties on the preheated grill until cooked through, 2 to 3 minutes per side. An instant-read thermometer inserted into the center should read at least 160 degrees F (70 degrees C). Place rolls on the grill and heat until toasted, 1 to 2 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Layer spinach, tzatziki sauce, lamb patty, red onion, and feta cheese in each roll, creating a slider."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT25M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Altamontedad"
+},
+"reviewBody": "This was excellent. Made it as written in the recipe. Would do this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Marcia"
+},
+"reviewBody": "These were very good. I made them exactly as described."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joey8503"
+},
+"reviewBody": "This spice combo was my favorite lamb burger recipe!! I didn’t change a thing and this will be my new go-to!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "phyllis"
+},
+"reviewBody": "Absolutely fabulous enjoyed them"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "1C1"
+},
+"reviewBody": "I cooked mine on the stove. Perfect!! Will make again this way"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jessabel10"
+},
+"reviewBody": "I made three big patties and put a goat cheese round from a log in the middles. The seasoning was perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Soup Loving Nicole"
+},
+"reviewBody": "Loved everything about these and they were perfect as written!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/257900/lamb-sliders/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/248/main-dish/burgers/",
+"name": "Burger Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1002/main-dish/burgers/lamb/",
+"name": "Lamb"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/257900/lamb-sliders/",
+"name": "Lamb Sliders"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

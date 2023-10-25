@@ -1,0 +1,289 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Air Fryer Ravioli"
+,"datePublished": "2020-02-13T19:45:22.000-05:00"
+,"dateModified": "2022-11-17T08:26:17.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Kim's Cooking Now"
+,"url": "https://www.allrecipes.com/cook/kimscookingnow"
+}
+]
+,"description": "These air fryer ravioli make a deliciously crisp, cheesy appetizer or snack; dip them in marinara sauce for a savory treat without the guilt!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/66VE-4Ou_gw9OR11g95BykNKmms=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7708883-4a20b7a5d32648ca8a750ca194c9c305.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Air Fryer Ravioli"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "13"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "373 kcal"
+,"carbohydrateContent": "46 g"
+,"cholesterolContent": "108 mg"
+,"fiberContent": "5 g"
+,"proteinContent": "18 g"
+,"saturatedFatContent": "6 g"
+,"sodiumContent": "692 mg"
+,"sugarContent": "10 g"
+,"fatContent": "13 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 large egg",
+"1 tablespoon water",
+"0.25 cup Italian-style bread crumbs (such as Vigo®)",
+"0.25 cup freshly grated Pecorino Romano cheese",
+"1 (9 ounce) package refrigerated spinach and mozzarella ravioli",
+"olive oil cooking spray",
+"1 cup marinara sauce, heated" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat an air fryer to 350 degrees F (175 degrees C) according to manufacturer&#39;s instructions."
+} ,{
+"@type": "HowToStep"
+,"text": "Beat egg and water together in a small bowl. Combine bread crumbs and Pecorino Romano cheese on a plate. Dip 1 ravioli into beaten egg mixture, then into bread crumb mixture, pressing to coat. Place breaded ravioli on a plate and repeat with remaining ravioli. Lightly spray ravioli with cooking spray."
+} ,{
+"@type": "HowToStep"
+,"text": "Place as many ravioli in the air fryer basket as you can without overlapping them."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook in the preheated air fryer for 6 minutes; flip ravioli using tongs and cook for 4 minutes more. Remove from the air fryer and repeat with remaining ravioli. Serve with your favorite marinara sauce for dipping."
+} ]
+,"recipeYield": ["3"]
+,"totalTime": "PT20M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Perfection- mine came out puffy and lightly crisp. Thanks for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Thank you for this, I added the marinara and some shredded cheese on top, and air fried it for the last 2 min. Turned out really well, will be taking it in my lunches."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Camille Forgacs"
+},
+"reviewBody": "I used frozen raviolis and thawed them. They were really hard. Too long to cook, i dont know. They looked really good but swelled up. Will try again with fresh not frozen. Or maybe cook them first, let them cool, then air fry."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Susie Watson"
+},
+"reviewBody": "I messed it up I think. Going to try again another day"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "My family enjoyed their fried ravioli. I subbed grated parmesan in for the pricey Romano that is offered at my grocer. It was simple enough that I had my son bread the ravioli and enjoyed a meal that included some time to bond. Do Recommend!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "It was sooo easy and the taste was wonderful! Great for happy hour too! DMK"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bekahbeattie"
+},
+"reviewBody": "This was my first recipe using my new Nuwave Bravo, which is a combo toaster oven/air fryer. I used my home-made kale/ricotta ravioli, not store bought, and I didn't pre-boil the ravioli. The time and temperature of this recipe worked perfectly to make crisp &amp; crunchy ravioli."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I used mini ravioli’s and the insides got completely dried up. Not sure if regular size would do that, but do not use small raviolis."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Debbie G"
+},
+"reviewBody": "Delish!! Thank you for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathy"
+},
+"reviewBody": "It was delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TruAloha"
+},
+"reviewBody": "I will and have made this again. I found that the time listed was too long for my air fryer. I came close to burning the ravioli the first time. The second time I shortened the time to 4 mins. and it was great. I also found I did not need to turn them. Very good recipe - thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dparsell"
+},
+"reviewBody": "Theses were easy to make and delicious!! The family loved them!!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/278684/air-fryer-ravioli/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/76/appetizers-and-snacks/",
+"name": "Appetizers and Snacks"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/490/appetizers-and-snacks/pasta-appetizers/",
+"name": "Pasta Appetizer Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/278684/air-fryer-ravioli/",
+"name": "Air Fryer Ravioli"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

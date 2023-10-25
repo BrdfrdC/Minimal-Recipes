@@ -1,0 +1,411 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Grilled Country Style Ribs"
+,"datePublished": "2013-09-06T14:00:59.000-04:00"
+,"dateModified": "2013-09-06T14:00:59.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Don"
+,"url": "https://www.allrecipes.com/cook/6909116"
+}
+]
+,"description": "Make country-style ribs on the grill by marinating pork ribs in red wine BBQ sauce, then slow-grilling to perfection in this easy grilling recipe."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/7r8HEva1xdZhwUO2xCEZHQQ1_lk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1371654-a3218df8060d45079ce04b4edfc1ab77.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Grilled Country Style Ribs"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "24"
+}
+,"cookTime": "PT60M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "577 kcal"
+,"carbohydrateContent": "8 g"
+,"cholesterolContent": "160 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "39 g"
+,"saturatedFatContent": "15 g"
+,"sodiumContent": "415 mg"
+,"sugarContent": "4 g"
+,"fatContent": "40 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"0.5 cup Burgundy wine",
+"0.25 cup barbeque sauce, plus more for basting",
+"0.25 cup cider vinegar",
+"0.25 cup hot pepper sauce",
+"2 tablespoons Worcestershire sauce",
+"2 tablespoons prepared yellow mustard",
+"4 pounds country-style pork ribs",
+"1 tablespoon onion powder",
+"1 tablespoon garlic powder" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Stir together wine, barbeque sauce, cider vinegar, hot pepper sauce, Worcestershire sauce, and mustard in a bowl until well mixed. Place ribs in a baking dish; pour Burgundy wine mixture over ribs and coat thoroughly."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix onion powder and garlic powder in a bowl. Dust ribs with powder mixture; let marinate for 2 hours, turning once."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the grill to medium-low heat and lightly oil the grate."
+} ,{
+"@type": "HowToStep"
+,"text": "Grill ribs, covered, over indirect heat on the preheated grill for 45 minutes, turning once."
+} ,{
+"@type": "HowToStep"
+,"text": "Baste with barbeque sauce; continue grilling until meat is tender, about 15 minutes, turning and basting frequently."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT195M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lee R."
+},
+"reviewBody": "I wasn't too sure, but it was quite tasty!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Shalome"
+},
+"reviewBody": "Taste really good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cathy Grauerholz"
+},
+"reviewBody": "Tender and very good! The only change I made is that I used red cooking wine cause I did not have any burgundy. Cooked at 250 for 45 min on our pellet grill, turned them over, turned temp up to 275 and cooked another 40 min basting with bbq in last 10 minutes. Will definitely make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pavel Malikov"
+},
+"reviewBody": "Fantastic. I used a dry rub from a Kansas BBQ joint, with matching sauce"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "RedJim"
+},
+"reviewBody": "Fun recipe to execute. The marinade was terrific. I grilled using lump charcoal which worked well for me. But I used far too much hickory chunks in the fire. This overwhelmed the pork, and the marinade. Next time--and there will be a next time for this recipe, I'll content myself using only lump charcoal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gram"
+},
+"reviewBody": "Family loved this recipe! I omitted the hot pepper sauce (we are not a spicy family), and there were no leftovers! Will definitely be my goto for ribs."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Edd Kinghorn"
+},
+"reviewBody": "If you have some skill with a charcoal grill this recipe is over the top."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "StaceyLCooper"
+},
+"reviewBody": "Excellent recipe! Followed exactly as written, and my son and husband stated they were the best ribs I have ever made. No more crock pot ribs. I am doing them this way from now on!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "charm"
+},
+"reviewBody": "Pretty tasty"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "charm"
+},
+"reviewBody": "Pretty tasty"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Robbie Hunt Radicella"
+},
+"reviewBody": "I had never made country style ribs, but my husband wanted some so I decided to try this recipe. He remembered his mother par boiling her ribs, so I made the marinade and added enough water to it to cover the meat in the pot. I boiled the ribs for an hour, and then he grilled them with extra barbecue sauce for just a few minutes. They were great. Extremely tender and wonderful flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Merc1182"
+},
+"reviewBody": "Great recipe; had to rush the end cooking so I need to slow down on the next attempt. My bbq sauces became a stronger component over the marinade but still will use this for the next cooking. Thanks for recipe share."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Julie Faulkner"
+},
+"reviewBody": "Absolutely LOVED these ribs! My husband is a huge rib fan &amp; this was my first attempt at trying to grill them. I bought boneless country ribs. Since we aren't wine drinkers, I substituted grape juice for the wine &amp; they were amazing! I grilled the ribs on foil on the top rack of our gas grill for an hour on-medium low. They couldn't have been any better &amp; this will become one of our favs!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Ford"
+},
+"reviewBody": "I didn't have wine so I made it without. Also I grilled them for two hours. They where almost to the point of falling apart. I just wished I made more. Great recipe I will make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ohyummy"
+},
+"reviewBody": "Excellent flavor and tender- slow and low cooking is best. Only used 1 T of hot pepper sauce (Frank's hot sauce). Keeper recipe &amp; will make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Lynn Green"
+},
+"reviewBody": "It was ok, but my family said it was really good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lee Arganbright"
+},
+"reviewBody": "Came out great. Will use it again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sandy"
+},
+"reviewBody": "I did not have the wine but otherwise made as directed. The best marinade I've come across! My husband and I both loved the flavor; semi hot, spicey and sweet. My grill cooked them too fast so I couldn't leave them on the grill for more than 1/2 hour total. I will definitely make this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "CPZ"
+},
+"reviewBody": "Pretty good as is, but I have made some tweaks to make it spicier. Added spicy southern dry rub prior to marinating and also using Stubs Sweet Heat BBQ sauce to baste."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "BARNKITTY"
+},
+"reviewBody": "We grilled over fairly low heat for almost two hours and the ribs were fall-off-the-bone tender with nice flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "anita_arora15"
+},
+"reviewBody": "Loved the flavors. Would def make again."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/234339/grilled-country-style-ribs/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/676/meat-and-poultry/pork/ribs/",
+"name": "Pork Rib Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/996/meat-and-poultry/pork/ribs/country-style-ribs/",
+"name": "Country-Style Ribs"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/234339/grilled-country-style-ribs/",
+"name": "Grilled Country Style Ribs"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

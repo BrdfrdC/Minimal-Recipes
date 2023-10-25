@@ -1,0 +1,239 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Authentic Patatas Bravas"
+,"datePublished": "2018-06-08T10:04:56.000-04:00"
+,"dateModified": "2022-08-28T17:46:56.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Allrecipes"
+,"url": "https://www.allrecipes.com/cook/allrecipes"
+}
+]
+,"description": "Spanish tapas are tasty small plates that when combined can create a light supper or serve as a great appetizer. Patatas Bravas are tasty fried potato cubes served with a smoky, spicy dipping sauce."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/73EkKAAI63fPTtPfCxy6NKj0hqg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1012013-authentic-patatas-bravas-lorna-1x1-1-514409f24c6e46fbaecb74aacf0179fa.jpg",
+"height": 900,
+"width": 900
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=4536452219001",
+"description": "Discover how to make two types of traditional tapas.",
+"duration": "PT4M59S",
+"name": "Authentic Traditional Tapas - Welcome World Cuisine",
+"thumbnailUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/d6d352da-fef6-4ea0-811c-fe6c775b77fc/54d7071a-c6d4-45a9-99a5-edbacc1db06c/640x360/match/image.jpg",
+"uploadDate": "2021-07-12T12:50:14.650-04:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Authentic Patatas Bravas"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4",
+"ratingCount": "8"
+}
+,"cookTime": "PT25M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "1564 kcal"
+,"carbohydrateContent": "54 g"
+,"cholesterolContent": "10 mg"
+,"fiberContent": "8 g"
+,"proteinContent": "7 g"
+,"saturatedFatContent": "21 g"
+,"sodiumContent": "5111 mg"
+,"sugarContent": "10 g"
+,"fatContent": "151 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"2 russet potatoes, peeled and cut into 1-inch cubes",
+"2 cups olive oil",
+"1 tablespoon salt",
+"3 tablespoons olive oil",
+"1 onion, diced",
+"1 teaspoon salt",
+"1 clove garlic, finely chopped",
+"1 red chile, minced",
+"0.5 teaspoon smoked paprika",
+"1 (14 ounce) can whole peeled tomatoes, drained",
+"0.25 cup mayonnaise" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine potatoes, 2 cups olive oil, and 3 teaspoons salt in a large cold skillet. Heat on low and cook until potatoes are softened, 12 to 15 minutes. Increase heat to high and fry until golden, 5 to 6 minutes. Drain on paper towels."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat 3 tablespoons olive oil in a large saucepan over medium heat. Cook and stir onion with 1 teaspoon salt in the hot oil until onion has softened, 3 to 4 minutes. Add garlic, chile, and smoked paprika; simmer for 1 to 2 minutes. Stir in tomatoes and return to a simmer. Transfer tomato mixture to a blender, cover, and puree until tomato sauce is smooth."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/73EkKAAI63fPTtPfCxy6NKj0hqg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1012013-authentic-patatas-bravas-lorna-1x1-1-514409f24c6e46fbaecb74aacf0179fa.jpg"
+}
+]
+,"text": "Serve patatas bravas with tomato puree and and mayonnaise for dipping."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT40M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jay"
+},
+"reviewBody": "I morphed the sauce , starting out with a base of “Marcella’s basic sauce” added ground ancho , paprika,sautéed onion in olive oil and smoked paprika. Delish,"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jillebean"
+},
+"reviewBody": "These are the best patatas bravas I've tasted. Honestly, in my travels to Barcelona, I never had patatas bravas as good as these. Love these!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Reut Astrachan"
+},
+"reviewBody": "Tried to prepare the salsa today, and it was nothing like a proper salsa brava. It was far too bitter and far less sour than what I remember from Catalonia. And where is the cherry vinegar? That's a must in salsa brava.\nEven after adding vinegar, some lemon juice, extra paprika and salt, and also some sugar to contrast the bitterness - there was still no saving this. Now it just tastes like ketchup."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "corrabelle"
+},
+"reviewBody": "Amazing, we've made this twice now. The first time we did it exactly as written. (And it was exceptional.) \nThe second time we used lard instead of oil, and hot smoked paprika. Also amazing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lorna"
+},
+"reviewBody": "This patatas bravas recipe is excellent. Very authentic! I reduce both the amount of salt the potatoes are fried in and the amount of oil a little though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "pelicangal"
+},
+"reviewBody": "These were very good. The potatoes are very fluffy inside. I did cut down on the amount of olive oil used, as it would have made this inexpensive recipe a lot more expensive and I didn't feel that it was necessary. Thanks for the recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "NomadicBear"
+},
+"reviewBody": "anything Chef John puts his hands in turns out so good.\nmade them tonight and sauce this stuff is Awesome"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/228954/authentic-patatas-bravas/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+"name": "Side Dish"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/917/side-dish/potatoes/",
+"name": "Potato"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/228954/authentic-patatas-bravas/",
+"name": "Authentic Patatas Bravas"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

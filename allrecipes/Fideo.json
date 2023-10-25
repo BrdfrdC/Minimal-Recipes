@@ -1,0 +1,1182 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Fideo"
+,"datePublished": "2019-04-03T23:32:42.000-04:00"
+,"dateModified": "2022-08-04T09:59:24.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "TINYANT1"
+,"url": "https://www.allrecipes.com/cook/1134067"
+}
+]
+,"description": "This fideo recipe is easily made with toasted pasta simmered in a tomato sauce seasoned with cumin, garlic, and chili powder for a tasty side dish."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/CIazOBq7iJSFEPu-ml_XjGgZDVM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7540314-32ec91bb3d6a455daab010cd44cadc0f.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Fideo"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.3",
+"ratingCount": "98"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "288 kcal"
+,"carbohydrateContent": "47 g"
+,"fiberContent": "3 g"
+,"proteinContent": "9 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "543 mg"
+,"sugarContent": "5 g"
+,"fatContent": "8 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"2 tablespoons vegetable oil",
+"1 (8 ounce) package fideo pasta",
+"1.5 cups water, divided",
+"1 (8 ounce) can tomato sauce, divided",
+"1 tablespoon chili powder",
+"0.5 teaspoon ground cumin",
+"0.5 teaspoon garlic salt" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat oil in a saucepan over medium-high heat. Add fideo; cook and stir until browned."
+} ,{
+"@type": "HowToStep"
+,"text": "Add 1 cup water and 1/2 of the tomato sauce to fideo. Season with chili powder, cumin, and garlic salt; stir to blend. Bring to a boil and cook until liquid has almost evaporated."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir in remaining 1/2 cup water and remaining tomato sauce. Cover and cook over medium heat until fideo is tender and sauce thickens, about 10 minutes."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT30M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lacy LoCastro"
+},
+"reviewBody": "Now this is the recipe I've been looking for! It was great! I have to be honest, I didn't measure the spices but the water &amp; tomato sauce ratio is perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This tasted like spaghetti. Too tomatoey. Please try to find a more authentic recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Brittany Rivera"
+},
+"reviewBody": "This was my first experience cooking fideo, as requested by my husband, who is half Mexican and grew up with authentic Mexican cooking. It turned out really well but definitely needed a little extra salt! Also added a pinch of cayenne pepper and topped with sliced onions and some grated cheese. Will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary Zapala-Park"
+},
+"reviewBody": "Everyone raved about it. Said it was a lot better than a popular restaurant in town."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I loved how quick and simple this delicious dish is. I just wanted something quick to eat. I didn't make any changes but I'm sure I'll be making alot more often. I will try to throw in my own touch."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Made it and the only thing I changed was browned onion and garlic. Yum"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "thebmeister"
+},
+"reviewBody": "It was very easy and my 2 year olds loved it. I just didn't add the chili powder to mine."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ajdimond2"
+},
+"reviewBody": "Added onion, little bit of lime, and needed more water towards the end. A nice comfort food"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Erica Q"
+},
+"reviewBody": "This recipe was great! Omg I love it! Thank you so much for sharing this. Every time I tried to make it on my own it fell short. Like it was missing something. Turns out I was just adding unnecessary ingredients. Kids loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kelly"
+},
+"reviewBody": "I just made fideo for the first time and picked this recipe. I followed it for the most part but backed off on the chili powder (halved it) and I added one chicken bouillon cube as suggested by a previous review. Dressed it with queso fresco, cilantro, and avocado. Yummy comfort food!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Rebecca"
+},
+"reviewBody": "Sounds like the recipe my ex-sister in law gave me decades ago that her ex-mother-in-law had given her"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Flea"
+},
+"reviewBody": "Thank you SO much for posting this recipe! It turned out exactly like my mom's authentic fideo!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Chip Beyer"
+},
+"reviewBody": "I added some onion and scaled the chili powder back a bit. It is a delicious recipe as written or with some minor modification. Thank you for posting."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "gracie pacheco"
+},
+"reviewBody": "I blended 4 garlic cloves n 1/2 union n 1/2 jalapeno added salt pepper garlic too.\nThe juice from blending in the onion made it a bit bitter. next time I'm draining the onions to get rid of the bitter juice. Also I added another 3.5 c water as to have consistency of my mom's fideo."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Leanne Pelepchan"
+},
+"reviewBody": "I tried this recipe and fell in love. I made it for my Mexican husband and he was close to tears saying that the flavors reminded him so much of his childhood. Of course I had to add diced green chiles. Otherwise it's perfect as is."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Izy"
+},
+"reviewBody": "Turned out perfect! Great flavor and texture. Ive only always done fideo by memory and that can become a hit or miss situation. But this recipe is exactly how my first delicious batch was. Thumbs up??"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mia Adkins"
+},
+"reviewBody": "added a can of rotel and hamburger meat to make it a main dish, been eating this since my childhood"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ni'Col Revell"
+},
+"reviewBody": "I make this often. It's simple quick, and delicious! I sub the water for chicken broth and add cilantro towards the end of cooking and squeeze a half of a lime! Served with warm tortillas as a quick lunch! Yummo!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "QueenofLA"
+},
+"reviewBody": "I like to add butter and oil when frying the noodles and substituted chili powder in place of cumin and added chicken bouillon to the water. love it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christina Millan"
+},
+"reviewBody": "Easy and tastes great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "anitaboo"
+},
+"reviewBody": "Just like moms and I am hispanic :-). I changed it up a bit because I only had flat noodles (mom would do that too sometimes) ...I only put in 1 Tsp of “Gebharts” chili powder and added 1/2 cup of sauted onion and 1/4 can of whole diced tomatoes. Yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Aragolas"
+},
+"reviewBody": "It was very easy and my family loved it. The longest part was chopping onions but it was worth it! I am definitely making it again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Carol Jannaman"
+},
+"reviewBody": "I really like this recipe. It tastes like I remember it from 20 years ago. It's economical to make and it tastes great. Season is imperative in this dish. I rated the recipe based on the way it is written, but I always add meat and chopped onion and fresh chopped garlic instead of ground, dried garlic. To me those three additions make this a great 5 star recipe. Could also add finely sliced or grated carrots, too!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Makaylee Lopez"
+},
+"reviewBody": "I did not make any changes this time but next time I think im gonna put some chopped onions in when im frying it and maybe a little bit of actual salt . This recipe was actually great my boyfriend loved it which is all that matters a huge thanks to the person who posted this!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jeannierivera"
+},
+"reviewBody": "This is a great recipe and I followed it as written but added chicken and one fresh jalapeno for added heat. The chili powder is an ingredient I had not used in this dish before and it is an excellent addition. Thanks so much for sharing. I'll be using this from now on. I like it much better than the \"original\" version shared with me from my MIL in South Texas."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "H. Bloom"
+},
+"reviewBody": "I used a medium sized can of tomato sauce (15 oz) and used every bit of it because it was drying out quickly. Maybe because I am at a mile high; not sure.\n\nI sprinkled with fresh parmesan.\n\nI will definitely make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Angela"
+},
+"reviewBody": "Yum. Just like my sister's fideo. I did use some chicken bouillon, less chili powder and more cumin - just my taste preference. I also had to add more water at the end since I may have had my stove too high."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Frank Frias"
+},
+"reviewBody": "No change will make it again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Millydoll"
+},
+"reviewBody": "This recipe is very good, my family really enjoys it. The only change I make is that I add a chicken bouillon cube for a little extra flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathy Dill Moore"
+},
+"reviewBody": "Kids love this with hamburger meat added."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "nerdsrule022"
+},
+"reviewBody": "half a can of tomato sauce, garlic powder (no salt), one chicken boullion, and a generous squeeze of fresh lemon juice before serving"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "cajungal328"
+},
+"reviewBody": "Good basic starter recipe... A little bland for my taste. I like some kick to my food . Added onion, garlic, more cumin, less chili powder, and added some cayenne pepper for spice and a tiny bit of sugar to balance it out and cut the acidity a bit. Cooked some diced boneless chicken on the side and threw it in there too. Came out awesome! Yum\n\nPS... It's really good with some shredded Mexican cheese mixed in"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ronniecaliente"
+},
+"reviewBody": "I first had fideo about 4 years ago, while visiting a friend in New Mexico. I've been visiting since college, but never came across fideo before when eating out. In any case, I recall thinking it was so yummy, I'd have to make it myself someday. Never got around to it, till recently, I picked up a bag of fideo at an Italian deli, so thought I'd try making it. I looked at a lot of recipes, including America's Test Kitchen's version (too involved), and this one appealed to me the most. I've already made it 3 times, I love it so much! It's not a copy of the one I had in NM (that was a little soupier), but the flavors are there, and it is sooo easy. Since the first time making it as written, I've tried it with diced onions and 2 cloves garlic, and a can of tomatoes for some texture, but I like it as written, and with my mods. I do cut the chili powder in half, just because my BF doesn't care for the taste, but a half tbsp is perfect for us. This is definitely a nice change of pace for a pasta dish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kay B"
+},
+"reviewBody": "Made some changes and 1 mistake but still awesome. Used chicken broth instead of water. Well it took one can then some extra water. Added a can of diced tomatoes with the broth. Grabbed paste instead of sauce and used to much so it was really tomatoy. Used garlic and onion powder. Still very yummy and will make again. Made this with shredded pork enchiladas! Mmm"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Heather Tanguma"
+},
+"reviewBody": "A utile tomatoey but good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Nutfreemommy"
+},
+"reviewBody": "I followed the advice of previous users and browned the sautéed the onion &amp; garlic. I omitted the chili seasoning and added 1tsp of sugar. With these adjustments my kids really liked this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jamie Terrazas"
+},
+"reviewBody": "I grew up eating it with pork, so I browned some onion along with boneless pork center loin chops first and added it to the fideo. Tasted just like my grandma's :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Debbie"
+},
+"reviewBody": "I found this recipe bland."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Andrea Garcia-Robb"
+},
+"reviewBody": "I grew up on this. this is my first time making it and I am so pleased.It turned out just like my moms"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pamela Dituro"
+},
+"reviewBody": "I swear, this is the best dish-- my husband screams for this. \nI make almost the exact recipe but I add chopped onion, a little hot cayenne pepper powder, use chicken broth or bullion cubes with the water, and I always add frozen meatballs to make it a hearty winter meal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary Bobaly"
+},
+"reviewBody": "This is a great lil poor mans meal... I originally bought the fideo noodles for the kids, ended up serving this as a side to a small sandwich for the hubs... I would usually add onions but it was fine wo."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "evelyn parker"
+},
+"reviewBody": "FIRSTLY, YOU SAUTE ONION AND GARLIC, ADDING PASTA TO BROWN, THEN ADDING CAN OF TOMATOES, CUMIN AND HOT WATER TO COVER AND ALLOW TO COOK TILL TENDER, ABOUT 10 MINUTES, SEASON TO TASTE. CHILI IS NEVER NEVER ADDED. I KNOW OF WHAT I SPEAK, BECAUSE THAT IS MY CULTURE AND I HAVE MADE IT 10000 TIMES."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LYNNINMA"
+},
+"reviewBody": "I made the following alterations and additions to the recipe: I used chicken broth instead of water; added 1/4 pound of browned ground beef, 1/3 cup of chopped red onion and about 1/2 cup of diced tomatoes; and used a full teaspoon of cumin because I love cumin. I also added about 3/4 tsp. garlic powder. The mixture simmered, covered, for a full 15 minutes. Sprinkled the finished dish with grated queso fresco. Muy delicioso!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tammyjohnson"
+},
+"reviewBody": "Grew up in a Mexican family. I was taught to saute onions and celery first then add noodles. Otherwise this recipe is spot on! Nowadays I add some dried chipotle. Could use canned chopped, dried is just easier. Great recipe!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dudetimemachine"
+},
+"reviewBody": "I didn't have the cumin so I substituted with half tsp. of onion powder and added shells and only half a tsp. of chili powder. It came out absolutely awesome. I really appreciate the tips. This recipe reminds me of my childhood."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "JESSICUP"
+},
+"reviewBody": "It was easy, spicy, and delicious!\nI also used chicken broth for more flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jasmine Couillard"
+},
+"reviewBody": "So good! Even my kids who didn't want to try it ended up enjoying it and wanting more. They said it was like chili noodles. I saved the recipe and can't wait to make it again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jasmine "
+},
+"reviewBody": "So good! Even my kids who didn't want to try it ended up enjoying it and wanting more. They said it was like chili noodles. I saved the recipe and can't wait to make it again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Barbara Jurado"
+},
+"reviewBody": "This was very plain. Needs alot of work!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "~TxCin~ILove2Ck"
+},
+"reviewBody": "This is delicious. It has a nice chili flavor and a little heat but not spicy. I scaled this back to 2 servings and it still made quite a bit. I used Del Fuerte salsa de tomate (mexican tomato sauce) and some chicken broth I had leftover in the fridge instead of water. I had to add more liquid than called for as it evaporated quickly and the dish came out a little dry after the ten minute simmer. I'd add a little onion and a bit more garlic next time. Do top this with a bit of sour cream it takes it over the top good! This was easy and very fast from start to serving. Thanks tinyant1!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CAVAMom"
+},
+"reviewBody": "My first time having Fideo was when I was a teenage (25 yrs ago). I was at my boyfriends house and his mom made this. It was served with a dollop of Cream Cheese. I never knew what it was called until I made this recipe! It was delicious. My family loved it. I will not be sharing the story about when I first had it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "artr"
+},
+"reviewBody": "Wow. Thanks just like mom made. After covering, I like to cook pasta in the hot sauce for 15 min. Add anything to make it your own."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary M."
+},
+"reviewBody": "I made this using gluten-free thin spaghetti. I did have to add more water and cook the noodles a little longer, as I expected. Made a super-delicious filling for spaghetti tacos!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kfaro07"
+},
+"reviewBody": "Great alternative to Spanish rice! I doubled the recipe for company and added a bit of extra water because I found it to be a little dry with just what it called for."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "AVARGAS1"
+},
+"reviewBody": "This dish was pretty good. I added fresh garlic to the sauce and halved the chili powder. I also mixed in cilantro right before serving and some pre cooked chicken. I would probably make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jilly Bean"
+},
+"reviewBody": "EXCELLENT! I sauted 1/2 onion along with the fideo for about 7 minutes stirring constantly so that the fideo wouldn't burn. Added 2 garlic cloves for 30 seconds. Added 1 1/2 cups chicken broth, 1/2 can tomato sauce, cumin, and salt. After liquid became creamy I added the 2nd half of the sauce as directed.So I really didn't change it up that much. Just added personal tastes. I will definetly use this recipe again. Oh..when I ate it I had shredded chicken with white corn tortillas on the side. THIS ONE IS A KEEPER!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gina Toomey"
+},
+"reviewBody": "this is a great recipe i make this all the time but i use a seperate pan and dice up pork chops and add jalapeno and onion and cook until done then mix up real mayo and lemon juice and serve noodle and pork on tortillas with the mayo mix love it it is awsome even better when used on corn tortilla"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alex of Modesto, Ca"
+},
+"reviewBody": "I love it. I did use 2 teaspoons of Knorr and it came out good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "missdrea"
+},
+"reviewBody": "This recipe was ok and a good starting off point. I prefer to sweat and brown garlic, onions, and the vermicelli and then add chicken broth and a can of diced tomatoes instead of the sauce and water. It gives it a much more delicate flavor instead of the sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "CassLeeAnne"
+},
+"reviewBody": "I really love to make this when I have company over, and also for myself. I grew up eating this stuff, though I do add a cube of chicken bouillon for more flavor. It always surprises people who are expecting rice and beans with Mexican meal. It's great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "The Bunny Chef"
+},
+"reviewBody": "My pantry was very bare, but by some weird coincidence I actually had a package of fideo noodles and the other ingredients for this. I made it like the recipe says except used real garlic and also chicken bouillon instead of salt. I added a can of black beans to make it a main dish and had to use another half cup of water. It turned out surprisingly well! I will make this again, both without the beans as a side dish and with the beans as a meal since I can keep the ingredients in the pantry. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "lizdeggans"
+},
+"reviewBody": "my guys loved this recipe i added a little bit more chilli powder than called for and some cholula and it was very successful"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amy"
+},
+"reviewBody": "This was wonderful. I added a little fresh garlic in with the oil. Also add a can of diced tomatoes with green chilies. It was great. Will for sure make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Chris"
+},
+"reviewBody": "Not a bad starter recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "carissadyan79"
+},
+"reviewBody": "This was good! thanks"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "cideways"
+},
+"reviewBody": "I've never made this before, but my Grandmother did all the time when i was a kid. It was really easy, I felt like it was missing something. But my very picky husband and small girls loved it. I will definitely make this again. I did leave out the cummen, since i didn't have any."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "dulcemanzana"
+},
+"reviewBody": "Pretty good thanks! I added 1 minced clove of garlic and 1/4 white onion just before adding liquids &amp; about 2 more cups of water."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Emsbenz"
+},
+"reviewBody": "This dish is awesome! If you add diced tomatoes with chillies and then some Ranchero cheese on top it is without a doubt five stars! And so easy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chicken"
+},
+"reviewBody": "So yummy and spicy, I served this as a side dish with empanadas. I am going to make this again as a main dish with corn and pork pieces mixed into it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "AmberN"
+},
+"reviewBody": "My whole family loves this dish! I make it almost everytime I make a Spanish dish. I usually use fresh garlic in place of the garlic salt. Thank you so much for the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "GINAELIAS"
+},
+"reviewBody": "Super easy alternative to time-consuming Fideo. This was quick, tasty, and satisfying. I will make it again. Thanks for the recipe!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "MARCELLA11"
+},
+"reviewBody": "I made this only one time and it was good. My friend's mom makes the best and I thought this recipe imitated it but there was still something missing..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Michelle"
+},
+"reviewBody": "Great recipe. Turned out perfect. I used minced garlic and garlic powder in place of garlic salt and also added Lawry's seasoning salt since I wasn't using garlic salt. Other than that, I followed the recipe to a T. Really good and reminded me of the authentic Fideo a family member of mine made.\n\nP.S. This recipe is truly as easy as it looks. Prep time IS 1 minute."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Dragngirle"
+},
+"reviewBody": "Used coriander leaves instead of cumin because I was out &amp; used whole green chili peppers in place of Serrano peppers. Added about an 1/8 tsp. garlic salt as another suggested. I cut the chili powder down to ½ tsp. from the ½ tbsp. called for (for 2 servings) it was still pretty hot. I thought adding about 1/8 cup of onions would help sweeten it up and make the heat a little less noticeable. This did not work, as my mouth and even my esophagus is still burning from just a taste 20 minutes ago. Sorry, this recipe was not for me."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "socialmariposa"
+},
+"reviewBody": "fast and easier than my grandma's recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bray"
+},
+"reviewBody": "I thought this recipe was wonderful!\nThis was my first time making fideo... I added a few extra spices as I went along. Very cheap and easy to make!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Mary W."
+},
+"reviewBody": "I didn't have the fideo noodles, but I did have a 1/2 pkg of angel hair pasta that I just broke up into 1/4th's. I really liked the flavor and texture of this dish. It's very similar to something I had at a restuarant many years ago. Great change from rice. I don't eat pasta very often, but I will remember this one."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "STOLZS"
+},
+"reviewBody": "I make this by browning the rice, then adding 4 Tbsp. tomato paste, 1 tsp. chicken boullion, garlic salt and parsley to taste and water. The chicken bullion takes out the strong tomato taste and adds good flavor. This is excellent served with pinto beans and pork chili, tamales, enchiladas, almost anything!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "WAY to much chili powder. All you can taste is the chili powder. Cut back to 1 teaspoon or less. It shouldn't be that red in color."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "ok needs something more"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "this recipe will work for beginners..."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/74749/fideo/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/",
+"name": "Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+"name": "Side Dish"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/74749/fideo/",
+"name": "Fideo"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

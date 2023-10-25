@@ -1,0 +1,630 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Vegan Paella"
+,"datePublished": "2020-03-09T22:52:11.000-04:00"
+,"dateModified": "2022-01-07T10:51:14.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "chefcs"
+,"url": "https://www.allrecipes.com/cook/12653472"
+}
+]
+,"description": "Vegan paella, made with rice, artichoke hearts, and peas, is a hearty version of the traditional Spanish-favorite."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/DLUeDfTUqIgouLd31lHD21By53k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9416217-d4f083f9e610416f8ab14f8b76ae6907.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Vegan Paella"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "58"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "308 kcal"
+,"carbohydrateContent": "59 g"
+,"fiberContent": "7 g"
+,"proteinContent": "8 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "1103 mg"
+,"sugarContent": "8 g"
+,"fatContent": "5 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"2 cups boiling water",
+"1 cup white rice",
+"1 tablespoon olive oil",
+"1 onion, chopped",
+"3 cloves garlic, minced",
+"1 green bell pepper, sliced",
+"1 red bell pepper, sliced",
+"1 tomato, diced",
+"2 cups vegetable broth",
+"1 tablespoon paprika",
+"1 teaspoon salt",
+"1 teaspoon ground turmeric",
+"1 cup peas",
+"1 cup drained and quartered canned artichoke hearts" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Mix boiling water and rice together in a bowl; let stand for 20 minutes. Drain."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat olive oil in a large skillet over medium heat; cook and stir onion and garlic until onion is transparent, about 5 minutes. Add green bell pepper, red bell pepper, and tomato; cook and stir until peppers are slightly tender, about 3 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix rice and vegetable broth into onion-pepper mixture; bring to a boil. Reduce heat to low and simmer. Add paprika, salt, and turmeric; cover skillet and simmer until rice is tender, about 20 minutes. Stir peas and artichoke hearts into rice mixture and cook until heated through, about 1 minute more."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT60M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TommyFreckles"
+},
+"reviewBody": "This dish was the bomb, I loved it. We needed to try something new and switch up the same ole same ole, and this hit the spot. We followed others direction and took the artichokes out and I also like some spice, so I added some sriracha to taste and it was…. Very nice. Also went the vegan option with Tofu for protein but I could easily see this with sausage and/or shrimp being delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brian C."
+},
+"reviewBody": "I used Basmati rice and saffron (for taste and color). I added some smoked bacon flavored tempeh for protein. It turned out fabulous! I live with two vegetarians and they raved about it. It is a very nutritious and satisfying meal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shane Muller"
+},
+"reviewBody": "Substituted chicken peas for the artichokes since some in my family are not fans. Also added a packet of Goya Sazon to the spices other than that followed recipe. Everyone enjoyed it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "GAngie"
+},
+"reviewBody": "Was very good! Made a few changes. Added shallots with the onions and used avocado oil instead of olive oil. A touch of hot sauce with the spices and omitted the peas and used diced carrots instead (hate peas)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Abby"
+},
+"reviewBody": "Great recipe to fill my time during this pandemic of 2020. Since I can no longer follow my passion of international travel at this time, I’m bringing the international dishes I love home; and, with my vegan boyfriend, this was a great one to try. I did omit the artichokes for him and added shrimp sautéed for me."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Abby"
+},
+"reviewBody": "Great recipe to fill my time during this pandemic of 2020. Since I can no longer follow my passion of international travel at this time, I’m bringing the international dishes I love home; and, with my vegan boyfriend, this was a great one to try. I did omit the artichokes for him and added shrimp sautéed for me."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sheila Khagai"
+},
+"reviewBody": "It was delicious!!. I"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Leyla Samur"
+},
+"reviewBody": "This turned out really tasty. I made it for my hubby who recently made the decision to become vegan. He loved it! Made a few changes - left out the artichokes and added mushrooms and tofu for protein. Used brown rice instead of white. I will definitely make this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I really enjoyed this meal. I added tempeh for protein and just a pinch of Adobo."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "kathe"
+},
+"reviewBody": "Missing something - a little bland."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Dunder Chief"
+},
+"reviewBody": "Great recipe - used brown rice instead of white and added a Pasilla pepper and hot sauce (because I like it spicy), as well as Veggie Crumblers for protein."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Victoria Lee"
+},
+"reviewBody": "great! i used mini peppers instead of big peppers, and it worked out fine!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ten Morrow"
+},
+"reviewBody": "Recipe turned out well enough, I followed the advice of another reviewer and added Soy Chorizo at the end and that really made the dish in my opinion. Without adding it there’s something missing that I can’t quite put my finger on...but with the soy chorizo it is so good you’ll have to stop yourself from eating it all in one sitting."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "penelope_pop"
+},
+"reviewBody": "Quite bland and not worth the effort. Colorful though!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Crystal"
+},
+"reviewBody": "I added more vegetables and used white wine instead of the vegetable broth. A bit bland - I added more turmeric and then salted at the table. I will make this again, but try a few more spices while it is cooking."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sabrina Belleci"
+},
+"reviewBody": "So good- I made a few. Minor tweaks. I added saffron and used smoke paprika And added chicken thigh meat :) which I highly recommend. I fully failed at using brown basmati rice. It never fully cooked. Otherwise this recipe was fantastic."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Suzanne"
+},
+"reviewBody": "I made it just as the recipe called and it is delicious! I love the tanginess of the artichoke hearts. All the vegetables really complemented each other."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jenny Schutt"
+},
+"reviewBody": "Delicious! I did make a few modifications for ingredients I did or did not have - I did not use green or red peppers, artichokes, or peas. I used 3 zucchini, 2 Italian eggplant and 3 chopped tomatoes. Also, for the broth I used vege broth seasoning and 1 cup of dry white wine and a dried hot pepper. The flavor was excellent and I will definitely be making this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "myaeger"
+},
+"reviewBody": "Overall easy to make but a little bland. Next time will add some black pepper and crushed red peppers to spice it up."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Evan Curtis"
+},
+"reviewBody": "Followed the recipe exactly and it turned out amazing. I will definitely be making this dish again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Princes1826"
+},
+"reviewBody": "Made this to the recipe, and it turned out great! This will be made again :-)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Hope Dishman"
+},
+"reviewBody": "This recipe is very bland. I did not have the garlic on hand and had to improvise with garlic salt but even then it could use more salt and add some black pepper, maybe even something spicy. Makes a lot of food though, so I will be trying again but definitely needs work."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BLUEGIRL5"
+},
+"reviewBody": "This was fabulous! My vegan daughter is still raving about it a week later. I followed the recipe almost to the letter, except I did not presoak the rice (couldn’t see why it would make a difference), and I also added some sautéed Trader Joe’s Soy Chorizo at the end. I can’t think of anything I would do differently—a winner! I served it with the wonderful Vegetarian Sweet Potato Burritos, also from this site. Thanks for the post!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jeanette Eisele"
+},
+"reviewBody": "Made this for my vegetarian daughter and granddaughter and was very happy with the outcome. It was easy to prepare and quite tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Leine Adams"
+},
+"reviewBody": "I made this using a tomato paste packet. I did not use the artichoke either. The end result was excellent and my kids ask for it whenever they come over."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cookingfor2"
+},
+"reviewBody": "Thank you for such a great recipe! I made the recipe as written, it's delicious! It would be super easy to add whatever veggies you have on hand."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Emily Resnick McCarty"
+},
+"reviewBody": "Added peanuts which gave it a delicious peanut sauce flavor"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Yulia Manaeva"
+},
+"reviewBody": "really good and easy. I am going salt-free, and this meal turned out delicious without adding any salt. I did, however add a table spoon of Bragg's liquid aminos for a kick, and 1 jalapeno pepper. Will make it again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "swduplain"
+},
+"reviewBody": "I followed the directions exactly as written. It was delicious. I served it to my sister who is a vegetarian and she said it was outstanding! This recipe is a keeper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sooz"
+},
+"reviewBody": "This was a fun recipe. I added some fresh hatch peppers and some saffron. I forgot the peas and artichokes, but that gives me an excuse to try it with those next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Doris Gormley"
+},
+"reviewBody": "Made it exactly according to the recipe. My daughter is a vegan and she raved about it. I am not a vegan but will be having this many times. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Deryl Self"
+},
+"reviewBody": "My family and friends all loved it despite not being vegans. Yay! Made it twice and huge hit!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "G&A's Kitchen"
+},
+"reviewBody": "Delicious! When I make it again, I may add more spices."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lsinclair"
+},
+"reviewBody": "My son and I both loved it. My husband missed the meat but if he could add some shrimp he would love it. I used a wild rice blend instead of white rice because it is healthier. This will be a regular at my house!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sofiatb"
+},
+"reviewBody": "Very easy to make and tasty to boot. I only made two substitutions. Instead of peas, I used a cup of frozen peas, carrots, and green beans. I also substituted Adobo all purpose seasoning for the salt. Thank you for this flexible and tasty recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Justyna"
+},
+"reviewBody": "I made it twice, and I liked it more when I didn't add artichokes. Also, a teaspoon is a little too much salt (considering vegetable broth already has some salt in it). Peppers need to be sauteed much longer than 3 minutes and/or cut into smaller pieces or they'll still be much too crunchy. Overall a great recipe that I will be using again (with my changes)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KittyCatD"
+},
+"reviewBody": "This turned out great! Had no green pepper so added celery, and also Seitan BallPark Dogs (homemade) for protein :-D yumtastic!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sarahbeth"
+},
+"reviewBody": "Made quite a few changes. I used saffron not turmeric as it is easy to come by in Turkey. I did not use any vegetable broth but instead used 1 cup white wine. Also I did not use bell peppers, artichoke or peas but instead used zucchini, mushrooms, tomato, eggplant, and three small hot chilies. Turned out flavourful and full of healthy vegetables. I did sauté the vegetables before hand for 3-5 minutes before adding rice etc.."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/238153/vegan-paella/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/231/world-cuisine/european/",
+"name": "European"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/726/world-cuisine/european/spanish/",
+"name": "Spanish"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/238153/vegan-paella/",
+"name": "Vegan Paella"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

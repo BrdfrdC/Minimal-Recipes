@@ -1,0 +1,1356 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Tar Heel Pie"
+,"datePublished": "2020-06-18T23:08:36.000-04:00"
+,"dateModified": "2020-06-18T23:08:36.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "GRAYJETMAN"
+,"url": "https://www.allrecipes.com/cook/616684"
+}
+]
+,"description": "A very rich pie made with chocolate chips, coconut and pecans. Small slices are advised."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/o34gmOzEIGRdL7rk2zQqnFD6O-s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6048080-113e97fde16446f5a38d570cbbbd8dd7.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Tar Heel Pie"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "116"
+}
+,"cookTime": "PT40M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "394 kcal"
+,"carbohydrateContent": "41 g"
+,"cholesterolContent": "51 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "4 g"
+,"saturatedFatContent": "11 g"
+,"sodiumContent": "177 mg"
+,"sugarContent": "27 g"
+,"fatContent": "26 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"0.5 cup butter, melted",
+"0.75 cup chocolate chips",
+"0.5 cup all-purpose flour",
+"0.5 cup brown sugar",
+"0.5 cup white sugar",
+"2 eggs, beaten",
+"1 teaspoon vanilla extract",
+"1 cup chopped pecans",
+"0.5 cup flaked coconut",
+"0.25 cup chocolate chips",
+"1 (9 inch) deep dish pie crust" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat oven to 350 degrees F (175 degrees C.)"
+} ,{
+"@type": "HowToStep"
+,"text": "In a large bowl, pour warm melted butter over 3/4 cup chocolate chips. Stir until smooth. Mix together flour, brown sugar, and white sugar, then stir into chocolate mixture. Stir in eggs and vanilla. Fold in pecans, coconut, and 1/4 cup chocolate chips. Pour into pie crust."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in preheated oven for 35 to 40 minutes. Top should be set, and may crack slightly, but the pie is best if under-baked."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT60M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Aislynn"
+},
+"reviewBody": "Got good reviews from my family. Only found this recipe a few weeks ago and have already made it twice!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Laurie"
+},
+"reviewBody": "Like a brownie in a pie crust."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Deb C"
+},
+"reviewBody": "Oh my goodness, this is the most chocolaty, decadent, and rich chocolate pie. If you are a chocoholic, you'll want to make this."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "fwalker"
+},
+"reviewBody": "This pie is awesome! I made it for our Thanksging lunch at work and it was a hit. Not very difficult and came out perfect. Making it again for my family's Thanksgiving."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "coops"
+},
+"reviewBody": "The recipe didn't indicate whether the crust should be prebaked. I used a raw crust and think I'd prebake it next time so I could get a nice brown crust while leaving the filling a little under baked."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ANNAMA"
+},
+"reviewBody": "very good and very rich, especially with the shortbread crust I made for it, following the advice of another reviewer. The filling is good enough and simple enough. I omitted the nuts due to allergy problems, but it was smashing all the same."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ms Jean"
+},
+"reviewBody": "I scaled this down to 6 servings and made it into 4 mini pie plates. I used a thawed frozen pie crust that I quartered and arranged each piece into the pie plates, nothing fancy as long as it was in there. After reading some of the reviews, I cut the coconut in half. I baked it about 20 min for the mini plates, and I would try less for these the next time. This is very rich; a little goes a long way. Can't wait to try with ice cream or whipped cream. I'm going to wrap and freeze some for when I need a chocolate fix! It is a pie, but the crust could actually be eliminated. It would be like a brownie that way. Thanks - great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lizzie"
+},
+"reviewBody": "I made this just like the recipe instructed and cooked it for 40 minutes and it was perfect! Everyone loved it. It was so easy to make and does not require a mixer. I will definitely make this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Meghan Briggs"
+},
+"reviewBody": "The directions were flawless just as written. This was an easy recipe and presents beautifully. Using semi-sweet chocolate chips (as the recipe calls for) produces a perfect sweetness--not candy bar sweet, but closer to a brownie."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Christy Cooks"
+},
+"reviewBody": "I liked it, but it is very rich. Good with ice cream."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ldavido"
+},
+"reviewBody": "delicious warm with a little vanilla ice cream especially"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ali Crandall"
+},
+"reviewBody": "I love this pie - with peanut butter as a substitute for the coconut..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anne Hedgepeth"
+},
+"reviewBody": "I work at a Country Club making desserts for dinner service as well as special events. It's is delicious. This is one of the house favorites!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amandolia"
+},
+"reviewBody": "I made two of these, one with pecans and one without. They were both very soft, even after baking a little extra time and leaving them covered on the counter overnight. Because they were so soft and gooey, they didn't slice pretty, it was more like scooping it out. Next time I will probably cook them an extra 10-15 minutes and refrigerate them overnight. But the pies are absolutely delicious!! I will definitely be making this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Aaron"
+},
+"reviewBody": "I love brownies so my wife was trying to find something similar to make for our anniversary. I am not a fan of coconut but I still liked it. My wife served it with a scoop of ice cream which just made it better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "We really enjoyed this pie. I used walnuts because that's what I had on hand. We didn't have any vanilla ice cream, but I'm sure that would have been so good! Instead, we heated it in the microwave for about 10 seconds and ate it that way. So good! I will make this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KaylaMayaCamrynMOM"
+},
+"reviewBody": "This was so delicious, easy and most definitely satisfied our chocolate cravings! I didn't have any pecans so I just tossed in some toffee chips because I figured \"what the heck?\" and just like other reviews, use a shortbread crust. Amazing!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KSTUBBLE"
+},
+"reviewBody": "An easy hit!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Peach"
+},
+"reviewBody": "My be-lated BIL used to make this but called it something else ( Japonease Fruit pie of all things). I Lost the recipe. But THIS IS IT!! So decadant and wonderful!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "katipa"
+},
+"reviewBody": "This pie is amazing!! I made it once and plan to make it again for Easter. Everyone who tasted it groaned with pleasure at their first taste!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cristin Juza"
+},
+"reviewBody": "This is the recipe I keep coming back to look up. I don't know how many times I've typed in \"tar heel pie.\" I don't bother with a pie crust, and I definitely undercook it. Then instead of eating small pieces as suggested, I go ahead and eat the whole thing. It is so freaking good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mother Ann"
+},
+"reviewBody": "This is a 5-star recipe just as it stands. It could be a 10-star recipe with just one change, and that change is personal preference: Cut back on the coconut! I made this for our 4th of July picnic and every member of my family agreed this would be super-fabulous if made with less coconut. Next time I will cut the amount to 1/4 cup. My daughter's favorite \"pie\" I make is the Tollhouse Pie which is very similar to a Kentucky Derby Pie and she said I could quit making that and make this Tar Heel Pie instead. We all loved it - with a scoop of vanilla ice cream on the side!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amy Coats"
+},
+"reviewBody": "Made it without the coconut, it was wonderful. My husband doesn't like pie, and ate about 1/2 of it. We will be making this again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Moon"
+},
+"reviewBody": "VERY VERY rich....good but too sweet for my liking."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jjjames"
+},
+"reviewBody": "Fantastic. Everyone liked it, even the coconut haters said it was great. I used another reviewer's crust recipe cut in half (so it was 1/2 cup butter, 1/4 cup powdered sugar, and 1 cup flour) for a single 9 in pie."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rose Bertram"
+},
+"reviewBody": "I brought this cake in to share at a party, and everyone loved it! It turned out more like a brownie than a pie, but I am okay with that! I thoroughly enjoyed this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Molly"
+},
+"reviewBody": "Oh my gosh............do you like chocolate? Do you like German Chocolate Cake? If you answered yes to either of these questions, this is the pie for you. Made it for a friends birthday and we ate it while the center was still warm and gooey. It was oh so good. Even my husband who doesn't care for coconut liked this pie. It is very rich and a thin slice will go far. We thought it goes best with a cold, tall glass of milk. Definitely will make this again. Thanks for sharing the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "nicki"
+},
+"reviewBody": "Yummy! It is VERY rich so I agree with the person who submitted this recipe--small slices are advised!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "megandme"
+},
+"reviewBody": "Excellent, I made this pie yesterday for Thanksgiving, and i followed the recipe as it is and it came out beautiful, it's delicious. Don't change anything on the recipe its just perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Leslie Lawson"
+},
+"reviewBody": "Way too sweet and rich for me."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JEWELJETT"
+},
+"reviewBody": "Excellent! As others suggested, i baked this in an 8x11 glass pan and used the short bread crust recipe. It turned out perfect! I also did not have any coconut on hand so left it out and threw in a few crushed walnuts... it was great with those changes too! I served it right out of the oven and it was way too hot, so let it cool slightly before serving. I didn't have any ice cream nor whipping cream when I first served it and it does need one or the other! i liked it cold the next day as well... great recipe, Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CrissyCK"
+},
+"reviewBody": "I'm pretty tough with recipes and only keep ones that make me gush, and this was one of them! It was sooo good. I am a brownie-lover so this was fantastic for me! One thing I would prefer is a little more solidity; it was runny even baked at 45 minutes. I think I will pop it in the fridge next time for a little bit, or even add 1-2 extra eggs so that it holds a bit of form while still remaining fudgy. However, my other brownie-loving friend said it was perfect as is, because it was like eating raw brownie dough. I served it with vanilla ice cream. It was fabulous! I will definitely make this again, and that says a lot as I have tried MANY recipes that were good, but just not good enough to remain in my recipe box. Props to the chef!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cecilia Vazquez"
+},
+"reviewBody": "I looked up all the ingredients we had on hand and found this amazing recipe! I've definitely found another recipe to help use up the buckets of pecans my kids collect every year. Definitely let it set for a while or it'll have to be scooped out. Yummy either way!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MrsB"
+},
+"reviewBody": "This was really good but really rich. Serving with whipped cream or ice cream is needed!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jenznc"
+},
+"reviewBody": "I love chocolate, coconut, and pecans and therefore chose this recipe. It did not disappoint. I made it exactly as the recipe is written. It's very easy and takes only a few minutes to put together. Everyone loved it...even my nieces who are very picky."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lovin'Louie"
+},
+"reviewBody": "Oh so gooey and delish! I omitted the coconut (we're not big fans) and baked for 35min. Turned out perfectly!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MARYANNEQ"
+},
+"reviewBody": "Yum! This was fabulous. I made as is and slightly underbaked. Fabulous. It was great room temp and also great next day stone cold out of the fridge. I will definitely be making this over and over."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rhonda"
+},
+"reviewBody": "My husband and I love this pie! It's delicious and very simple to make!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MELANN1977"
+},
+"reviewBody": "YUM! So easy and so good!! Perfect served warm with vanilla ice cream!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cristina Bec"
+},
+"reviewBody": "amazing! made with 9\" premade grahm cracker crust and ommited the coconut (added 1/4C extra choc chips) and served with vanilla ice cream. I have made this 2x now and served to company both times with LOTS of compliments! It tastes like the brownie and ice cream served @ applebees!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lidia"
+},
+"reviewBody": "Too sweet for my husband and I. But I must say it didn't last but 2 days. My 2 daughters like it. Therefore I must give it 4 stars. Otherwise it was an easy recipe to make. Just not a keeper for me. My husband thought it was too much chocolate. We all love the combination of ingredients though. Thanks."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lgebski"
+},
+"reviewBody": "great &amp; super easy. Next time I would underbake it alittle so it was gooey."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SweetToothTiff"
+},
+"reviewBody": "This is a easy pie to bake. It is a very rich pie. It is sooooo good !!! This recipe is a keeper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Andrea Wyatt"
+},
+"reviewBody": "Wow! A chocolate lover's dream. Very good and rich."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ChalGal"
+},
+"reviewBody": "I am not a huge chocolate fan, but the additions of the coconut and pecans intrigued me enough to make this! I actually preferred this cold as the chocolate flavor and the sweetness were not as intense. I followed the recipe with the exception of the crust. I crushed thin crispy cookies with melted butter for the crust as a matter of personal preference. Great recipe, would make again, just not often."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MommyofRedHeads"
+},
+"reviewBody": "Yummy, made as directed and turned out great. It really does taste like a brownie inside a pie crust. I used a frozen pie crust since I had one on hand. I cooked it for 45 minutes since I am using a Japanese convection/microwave all in one ovenn and tends to take longer anyway. Even our guest commented on how good it was. I served either whipped cream or ice cream on top. Easy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Malfranmicsulli"
+},
+"reviewBody": "I usually don't like it when people change a recipe without atleast trying it once. That being said, I made a lower carb version of this and it was awesome! I used almond meal instead of flour and splenda instead of sugar (i did use some brown sugar) and it turned out very much like a brownie. Now, I gave the recipe 5 stars because had I made it per the instructions-come on, its chocolate so you know its good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tbakercakes"
+},
+"reviewBody": "Made this Thanksgiving, along with several other pie choices, and it was the first to go! Great combination of ingredients!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "terryslady"
+},
+"reviewBody": "This recipe was great..EXTREMELY sweet..but overall a good pie. I was relcutant to add the coconut but it added a great flavor and texture"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "liesh"
+},
+"reviewBody": "This is very good. To make it fantastic...it needs a different crust. Pie crust just doesn't do it for me. I used a shortbread crust: 1 cup of butter, half a cup of powdered sugar and 2 cups of flour. Mix it all together and put into a 9x13 pan and pat it out onto the bottom and up the sides. It will be soft. DO NOT PRE BAKE THE CRUST. Double the ingredients for the filling. Pour it into the crust and bake it for 45 minutes at the 350 temp. This is so ooey gooey good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Richard Willey"
+},
+"reviewBody": "Whew, I’m salivating just thinking about this pie. I made it over the weekend and it was fantastic! So much for trying to loose a pound or two this year with recipes like these around, ha!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jan D."
+},
+"reviewBody": "I made this last night for company... it is delicious! I used walnuts instead of pecans. It is very rich but thoroughly enjoyed by all."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Nandabear"
+},
+"reviewBody": "I had to try this one... I love chocolate! Love every ingredient used to make this. The consistency was closest to a moist in the center brownie. I just thought that the recipe was missing something in the presentation aspect. I sprinkled some powdered sugar and cocoa powder and that helped quite a bit. It is different but it is also very good and very rich."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "TRISHALEA26"
+},
+"reviewBody": "WOW! Tar it is. Too sweet, to rich to busy in the pie. Thanks for the receipe though. It was interesting"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DCJ131"
+},
+"reviewBody": "Wow!! This was so very good! I made as directed and came out perfectly. I put in refridge and served the next day. Topped with heavy whipping cream after warming for 15 seconds in microwave. Definitely will make again and again!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Caitlin"
+},
+"reviewBody": "This was very good! I baked it for 40 minutes and it set wonderfully. I'll be saving this recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "grillin_girl"
+},
+"reviewBody": "Very good. I will make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "M_T"
+},
+"reviewBody": "Just tried this in my 8X11 glass pan and made these into bars. Pie crust made using same portions as a nine inch deep dish pie. Since the filling completely covers the crust, I bake the crust about 15 minutes first. I took the advice of some of the other reviewers and used sliced almonds instead of pecans. Lastly, I subtracted about 10 minutes from bake time. So easy and so delicious! You won't be disappointed."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathy"
+},
+"reviewBody": "OMG!!! I never had anything like it in my life, and just figured that since I had the ingredients on hand, I'd give it shot. WOW! It will now be THE pie when I make dessert. Thanks sooo much for a quick and delicious recipe! 10 stars!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "There will be no left overs from this recipe! Excellent and very easy. Enjoy and thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ROSEP47"
+},
+"reviewBody": "This is a killer pie -- literally, but possibly worth every calorie. I made it as written but added about a half teaspoon of cinnamon, which we liked. It's also super easy. It will be hard to even consider baking any other kind of pie after this. Thank you, GRAYJETMAN."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "HomeschoolMom78"
+},
+"reviewBody": "This was a very good, rich pie. I took it to a cookout and everyone flipped for it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "EROCK101"
+},
+"reviewBody": "UPDATE: This was still just as amazing. This time I used coconut sugar instead of white sugar to take the edge off, still just as good. YUMMY! 5/15/08 This was GREAT! Says 12 servings, we only had 5 HUGE servings."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "{ s.a.r.a.h }"
+},
+"reviewBody": "I really enjoyed this pie. I did use margarine instead of butter--it was all I had and I just didn't want to wait! I used a combination of milk and semisweet chocolate chips in the filling. At 40 minutes I thought it was way too gooey, but I didn't want to bake over the suggested time so I took it out against my better judgment. I didn't enjoy it at first, but by the next morning it had firmed up while still maintaining just the right amount of gooeyness. I microwave a sliver for 15 seconds and serve it with a scoop of ice cream--it's heavenly!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tricia"
+},
+"reviewBody": "as a native North Carolinian, I'm making this my signature pie. It was wonderful! I was really proud to serve this at a dinner party. Everyone loved it. I started out with small slices, but nearly everyone wanted a second piece."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This recipe is amazing! Only major change I made was using sliced Almonds instead of Pecans... made it more like an Almond Joy too (i dont care for Pecans). I got rave reviews on it and served with good Vanilla Ice Cream is just a perfect combination. Next day I nuked the slice for a few seconds to heat it up and had with more ice cream and it was just as good! I am DEFINITELY making this again when I have choc-a-holics coming over. Its easy, looks nice, and tastes heavenly!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "chantel"
+},
+"reviewBody": "It's pretty bad looking but tastes great, but not a fancy dessert. I would do it again but add whipped cream on top and a graham or animal cracker crust to make it taste better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kendallsmom"
+},
+"reviewBody": "sooooo yummy! I made this for Christmas. I nearly ate the whole thing myself. A little rich but sinfully good!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LARISA330"
+},
+"reviewBody": "Like eating fudge in a crust!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "heymeliss"
+},
+"reviewBody": "Fantastic. Wonderfully rich and delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Melissa Rapoza Fragoza"
+},
+"reviewBody": "Wow is this awesome. So sinfully rich and gooey. If you're a brownie lover this is definitely for you. I followed the recipe almost exactly except I only added 1/2 cup of nuts because I'm not a huge nut fan. This is great with cool whip or vanilla ice cream. I bet this is good even without the crust. I will be making this again very, very soon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Island Girl"
+},
+"reviewBody": "Wow, I was a little skeptical at first, thinking that this would be way to rich, but it is perfect. Served warm, topped with vanilla ice cream, it is just heavenly!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kristi Assadourian"
+},
+"reviewBody": "This is a chocolate lovers dream. Very easy to make and great results. I served it with a side of vanilla ice cream. YUM !"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TheDonna"
+},
+"reviewBody": "Delicious! If you can handle it, take a large slice because there won't be \"seconds\" left when you go back - it's that good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "yum! everyone loved it! best served warm with ice cream...."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stacie Roberts Aho"
+},
+"reviewBody": "It was so tasty. I expected it to be more rich than it was, but it was the perfect sweetness. Everybody loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "GINAH1"
+},
+"reviewBody": "It's like a big brownie baked in a pie shell! This is one you definitely want to serve topped with either Cool Whip or vanilla ice cream."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BN61079"
+},
+"reviewBody": "Awesome! Just like a rich, gooey brownie, and the recipe doubles perfectly."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "newmommy"
+},
+"reviewBody": "I would have given this 10 stars if I could have. I haven't had that good of a dessert in a long time. I didn't have coconut and it still came out very well. So so so yummy!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Flowerdiva"
+},
+"reviewBody": "This is delicious! Chewy-yummy-licious!\nMy family loved it. If you love chocolate, this is the pie for you. Goes great with a cup of coffee!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lockesmom"
+},
+"reviewBody": "quick and delicious. small slice? hardly :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MikeG"
+},
+"reviewBody": "Outrageous! Everyone who tasted it said, \"Oh my God.\" I think next time I will try it with walnut pieces to cut down on the cost. What about using a chocolate graham cracker crust? Maybe it would be a cocoa overdose!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "sweetteeth"
+},
+"reviewBody": "A very good, rich brownie-like pie. I would suggest serving it with vanilla ice cream to cut down on the richness. Also, letting the pie cool for ~30 min just so it can set. Very good-Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ILUVDOUG"
+},
+"reviewBody": "love it, everyone loved it. I made mine underdone in the middle like the submitter suggested, and it turned out great. A must try dessert for anyone that hasn't yet."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bighorn Cook"
+},
+"reviewBody": "This a a great pie, like a recipe I used to have from the Pisgah View Guest Ranch in North Carolina. I send this pie with campers because it's firm and packs well and provides lots of energy. Because I'm cheap I use peanuts instead of pecans and sometimes I add a 1/2 cup of peanut butter for a great taste."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "SWEETTHING111"
+},
+"reviewBody": "This was a very good dessert, yet it was extremely rich. Intensely chocolatey, chewy texture -- you definitely need something like ice cream or homemade whipped cream to cut the sweetness down. I couldn't even finish one regular sized piece... (and I ALWAYS finish desserts!) My husband said it best: \"You like it, yet... it's oppressive!\" \r\n\r\nI would consider making this again when I really need a chocolate fix. It would DEFINITELY take care of it! Thanks for the new recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "AlicePRiley"
+},
+"reviewBody": "This an EASY and quick pie to throw together. I was able to fill a regular pie shell with these ingredients and they just fit into that shell. Will keep any chocoholics sweet tooth satisfied."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BoltGirl"
+},
+"reviewBody": "This is an awesome dessert! My guests ate it up and we had rather large slices! Eating it warm with vanilla icecream just felt so good. This is my definate chocolate fix!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sheila"
+},
+"reviewBody": "This is a very good, sweet pie. It was easy to make and didn't require a lot of work, or a lot of clean up. It is good warm out of the oven or at room temperature.\r\nThanks for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ICEPRINSESS"
+},
+"reviewBody": "Simple recipe for a wonderful pie. I will definately make again and again. My son absolutely loved it!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LaDonna Ebelhar"
+},
+"reviewBody": "This was an extremely quick and easy recipe!! Plus it got rave reviews!!!!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "FDWATSON"
+},
+"reviewBody": "This must be one of the best pies I've ever made or eaten. I made two the first day and took both of them to other families as a gift and received rave reviews. Very rich and easy to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This recipe was simply wonderful, and very easy to make - one bowl to mix in, pop it in the oven and stand back. Thank you for a new hit on my block."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "So quick and easy to make...very rich and sinful but oh so good! It was best warm from the oven and slightly gooey with a little vanilla ice cream or whip cream."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/44904/tar-heel-pie/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/283/desserts/pies/vintage-pies/",
+"name": "Vintage Pie Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/12957/desserts/pies/vintage-pies/chess-pie/",
+"name": "Chess Pie Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/44904/tar-heel-pie/",
+"name": "Tar Heel Pie"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

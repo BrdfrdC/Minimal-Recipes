@@ -1,0 +1,335 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Italian Popcorn with Parmesan"
+,"datePublished": "2015-12-04T15:00:34.000-05:00"
+,"dateModified": "2022-12-12T13:27:50.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Jon"
+,"url": "https://www.allrecipes.com/cook/8580785"
+}
+]
+,"description": "Popcorn tossed with Parmesan cheese, Italian seasoning, and garlic salt is a quick and fun Italian-inspired savory snack perfect for movie night."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/AmkUIBDdvKxh4ftiXsCXsQojx7U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2513602-8bd0662eb34043278488390922b7609f.jpg",
+"height": 960,
+"width": 960
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=4609740108001",
+"description": "Try this cheesy, Italian-inspired homemade popcorn for your movie night in.",
+"duration": "PT59S",
+"name": "Italian Popcorn with Parmesan",
+"thumbnailUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/b937773d-a329-4aa9-989e-14454626331c/31d6bfd6-ba5b-4acf-85d8-a0010a0e6efe/640x360/match/image.jpg",
+"uploadDate": "2023-02-03T15:19:09.122-05:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Italian Popcorn with Parmesan"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "24"
+}
+,"cookTime": "PT5M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "227 kcal"
+,"carbohydrateContent": "11 g"
+,"cholesterolContent": "12 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "7 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "658 mg"
+,"sugarContent": "0 g"
+,"fatContent": "18 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"6 tablespoons unpopped popcorn",
+"0.25 cup olive oil",
+"2 tablespoons olive oil",
+"1.5 tablespoons Italian seasoning",
+"1.5 teaspoons garlic salt",
+"1 cup freshly grated Parmigiano cheese" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine popcorn and 1/4 cup olive oil in a 2-quart saucepan; cover. Cook over high heat, continuously shaking the pan, until popcorn is popped and the lid begins to lift, about 5 minutes. Pour popcorn into a large serving bowl."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/AmkUIBDdvKxh4ftiXsCXsQojx7U=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2513602-8bd0662eb34043278488390922b7609f.jpg"
+}
+]
+,"text": "Add 2 tablespoons olive oil, Italian seasoning, and garlic salt to popcorn; toss to coat. Add Parmesan cheese and mix well."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT15M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "gourmet"
+},
+"reviewBody": "this was okay. for one thing it was REALLY chewy and i tried my popcorn before i mixed everything together and it was not chewy at all. secondly it was CRAZY RICH, and i like rich food, but did not like this. also there was definitely too much parm, and it all sunk to the bottom of the bowl too. i definitely will not make this again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ms Jean"
+},
+"reviewBody": "Really yummy! I did use my air popper to make the popcorn. That saved calories from the extra oil. I liked the different flavor using the olive oil. You do get that Italian flavor with it. Never thought to use that. I would consider adding some butter to it, too, though. The spice amounts seemed heavy to me, so I started light and just added more to suit my taste. I don't normally eat a whole batch of popcorn like this at once, so I will just add the parmesan cheese as I have it. A lot does sink to the bottom. Great recipe....thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brenda Dubé"
+},
+"reviewBody": "I really liked this and I will probably never buy commercial popcorn seasoning again. I made it exactly as recipe called for, but using the Kraft powdered parmesan cheese as I did not have fresh grated on hand. ( I used perhaps 1/4 cup of this as it just seemed all I would need ). I also did not have garlic salt so I used 1 tsp of garlic powder and 1/2 tsp of sea salt. I will make this again but next time, I want to try it with melted butter drizzled around and the powdered mix sprinkled on separately as this is my traditional method and I would like to compare. I look forward to trying different flavours now."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Evelyn Browne"
+},
+"reviewBody": "Very good!, I added more spices. Delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "unclecharles"
+},
+"reviewBody": "Next time I'll add a little butter. The Parmesan cheese added just the right amount of saltiness."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dau Bep Gia Dinh"
+},
+"reviewBody": "perfect"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Lori Early"
+},
+"reviewBody": "I have a microwave popcorn bowl so I used the olive oil in the bowl, added all the seasonings except for Parmesan cheese and then popped the corn. Once finished popping I only had to add the Parmesan cheese."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Estee"
+},
+"reviewBody": "Great idea but I actually liked it better without the parmesan cheese. When I added the cheese, it weighed the topping down and it all fell to the bottom :-/ I had to keep shaking it to keep getting toppings to stay on the top."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rose Ladd"
+},
+"reviewBody": "Very delicious esp. for an evening snack! It is on my favorites list to make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "JANE"
+},
+"reviewBody": "Use to make this years ago and the kids went crazy over it... I used the mixture even with butter and poured over it... Yummy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cheryl"
+},
+"reviewBody": "OMG...that was so very delicious. I used garlic infused olive oil, French gray salt, garlic powder, and fresh grated Parmesan. This is definitely a keeper.\n\nThanks Jon!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Cora Hubert"
+},
+"reviewBody": "I liked the popcorn OK. We ran out of dry white cheddar and I made this for my 4 year old instead. He did not like it but my husband and I did like it pretty good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "TaraB"
+},
+"reviewBody": "I used freshly grated Parmesan instead of the stuff in the can and it was too heavy to stick to the popcorn! It all piled up on the bottom of the bowl. Perhaps if I'd added more olive oil to make it stick?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Criscelda"
+},
+"reviewBody": "Yummy, easy and special. This would be good for a party."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Easily a five star recipe. Addictive!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/244649/italian-popcorn-with-parmesan/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17146/appetizers-and-snacks/snacks/",
+"name": "Snacks"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16051/appetizers-and-snacks/snacks/popcorn/",
+"name": "Popcorn Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/244649/italian-popcorn-with-parmesan/",
+"name": "Italian Popcorn with Parmesan"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

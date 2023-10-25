@@ -1,0 +1,122 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Instant Pot Tuscan Bean and Sausage Soup"
+,"datePublished": "2022-09-12T10:13:06.000-04:00"
+,"dateModified": "2022-09-12T10:13:06.000-04:00"
+,"description": "This delicious Tuscan soup features cannellini beans, Italian chicken sausage, and kale and is cooked in the Instant Pot for ease."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/0Ps94pW7ey0zXmeH31polafataU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Instant-Pot-Tuscan-White-Bean-Sausage-Soup-0edaffcbed2145c88107f8b4fced6430.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Instant Pot Tuscan Bean and Sausage Soup"
+,"cookTime": "PT25M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "128 kcal"
+,"carbohydrateContent": "7 g"
+,"cholesterolContent": "30 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "9 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "613 mg"
+,"fatContent": "8 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"2 tablespoons olive oil",
+"0.5 pound Italian-style chicken sausage, casings removed",
+"1.5 cups diced onion",
+"2 cloves garlic, minced",
+"1 (15 ounce) can white kidney beans (cannellini), rinsed and drained",
+"1 teaspoon Italian seasoning",
+"1 (32 ounce) carton Swanson® Chicken Broth (4 cups)",
+"3 cups finely chopped kale leaves",
+"2 tablespoons grated Parmesan cheese" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "On a 6-quart Instant Pot, select the Saute setting. Heat the oil. Add the sausage and cook for 10 minutes or until well browned, stirring often to separate meat. Press Cancel."
+} ,{
+"@type": "HowToStep"
+,"text": "Add the onion, garlic, beans, Italian seasoning, and Swanson Chicken Broth. Lock the lid and close the pressure release valve. Pressure cook on High pressure, setting the timer to 3 minutes (timer will begin counting down once pressure is reached- it takes about 10 minutes)."
+} ,{
+"@type": "HowToStep"
+,"text": "When done, press Cancel and use the quick-release method to release the pressure."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir in the kale and let stand for 5 minutes. Season to taste and sprinkle with the cheese."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT45M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8471751/instant-pot-tuscan-bean-and-sausage-soup/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/",
+"name": "Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1642/everyday-cooking/",
+"name": "Everyday Cooking"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8471751/instant-pot-tuscan-bean-and-sausage-soup/",
+"name": "Instant Pot Tuscan Bean and Sausage Soup"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

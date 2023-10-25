@@ -1,0 +1,152 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Slow Cooker Buffalo Chicken Dip"
+,"datePublished": "2020-03-20T02:50:29.000-04:00"
+,"dateModified": "2023-02-14T11:12:44.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Yoly"
+}
+]
+,"description": "This delicious Buffalo chicken dip is prepared solely in your slow cooker! Chicken breasts are cooked and shredded, then cooked with cheese, sour cream, and Buffalo wing hot sauce."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/nJAVnCQID5feGwAhq5tfrgikGuA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6250130-slow-cooker-buffalo-chicken-dip-Yoly-4x3-1-701df92833944d1a896482099c031810.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Slow Cooker Buffalo Chicken Dip"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "5"
+}
+,"cookTime": "PT240M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "120 kcal"
+,"carbohydrateContent": "3 g"
+,"cholesterolContent": "35 mg"
+,"proteinContent": "9 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "371 mg"
+,"sugarContent": "0 g"
+,"fatContent": "8 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"2 (8 ounce) skinless, boneless chicken breasts",
+"0.5 teaspoon salt",
+"0.25 teaspoon ground black pepper",
+"0.25 teaspoon garlic powder",
+"1 (8 ounce) package reduced-fat cream cheese (Neufchatel)",
+"1 (8 ounce) container sour cream",
+"0.5 cup Buffalo wing sauce (such as Frank's® Red Hot)",
+"0.5 cup shredded sharp Cheddar cheese" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Season chicken breasts with salt, pepper, and garlic powder. Place in the slow cooker and cover with the lid."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook on Low until chicken is cooked through, about 3 hours. Drain accumulated juices. Shred chicken using a hand mixer. Add cream cheese, sour cream, Buffalo wing sauce, and Cheddar cheese. Cook on Low for 1 more hour. Stir to combine."
+} ]
+,"recipeYield": ["16"]
+,"totalTime": "PT250M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jatoreea01"
+},
+"reviewBody": "I loved the recipe it came out amazing"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kerwly"
+},
+"reviewBody": "It's so simple! Extremely delicious."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/270034/slow-cooker-buffalo-chicken-dip/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/105/appetizers-and-snacks/dips-and-spreads/",
+"name": "Dips and Spreads Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17192/appetizers-and-snacks/dips-and-spreads/cheese-dips-and-spreads/",
+"name": "Cheese Dips and Spreads Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/270034/slow-cooker-buffalo-chicken-dip/",
+"name": "Slow Cooker Buffalo Chicken Dip"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

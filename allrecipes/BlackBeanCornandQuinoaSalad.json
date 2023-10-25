@@ -1,0 +1,497 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Black Bean, Corn, and Quinoa Salad"
+,"datePublished": "2020-03-10T02:52:39.000-04:00"
+,"dateModified": "2022-08-28T16:45:33.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "tarnapx"
+,"url": "https://www.allrecipes.com/cook/4949554"
+}
+]
+,"description": "This is a wonderful Southwestern-style salad with black beans, corn, and quinoa dressed with avocado oil that is quick to toss together."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/7poXMqjoprVqdl5q4MeKkxfv04k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4485868-black-bean-corn-and-quinoa-salad-Buckwheat-Queen-4x3-1-69277e7ca5e946ca95eff26ae70de136.jpg",
+"height": 720,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Black Bean, Corn, and Quinoa Salad"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "39"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "250 kcal"
+,"carbohydrateContent": "38 g"
+,"cholesterolContent": "2 mg"
+,"fiberContent": "8 g"
+,"proteinContent": "10 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "622 mg"
+,"sugarContent": "2 g"
+,"fatContent": "7 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"2 cups chicken broth",
+"1 cup uncooked quinoa",
+"1 cup frozen corn",
+"1 tablespoon lime juice",
+"1 teaspoon red wine vinegar",
+"lime, zested",
+"0.5 teaspoon ground cumin",
+"2 tablespoons avocado oil",
+"1 (15 ounce) can black beans, drained",
+"1 small red bell pepper, seeded and chopped",
+"1 small red onion, chopped",
+"0.25 cup chopped fresh cilantro",
+"salt and ground black pepper to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Bring chicken broth to a boil in a 2-quart saucepan. Stir in quinoa. Reduce heat to low; simmer, covered, until broth is absorbed, 15 to 20 minutes. Remove from heat; stir in corn. Cover and let stand until corn is warmed through, about 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk lime juice, red wine vinegar, lime zest, and cumin together in a large bowl. Whisk in avocado oil. Add black beans, red bell pepper, red onion, and cilantro. Season with salt and pepper. Stir in quinoa and corn."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT40M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Loved this recipe. Added roasted pecans after serving. Added a nice texture and taste. I only made it for two, but next time I will double it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Erika Salazar"
+},
+"reviewBody": "Used canned corn instead of frozen, had a small yellow onion so used that instead, and instead of avocado oil I used evoo. Also didn't add cilantro either. Tasted good when first made and warm still, can't wait to try it cold after its been in the fridge for a bit ;)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Andrea Chow"
+},
+"reviewBody": "This recipe is great! I used regular canned corn instead of frozen corn and I added shrimp."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pauline T"
+},
+"reviewBody": "Loved it! So did mom and dad! I halved the red pepper and red onion. But could probably be made as is. Also used a can of corn, not frozen. Used tri color quinoa. Added avocado right before serving. DELICIOUS!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisbeth"
+},
+"reviewBody": "I had to sub canola for olive oil, also subbed vegetable broth to make it free of animal products, and it has so much flavor that those weren’t missed. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brenda"
+},
+"reviewBody": "Great side dish. We like more spices so I added a jalapeno. Also added some zucchini to just keep amping up the veggies."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JessieLynn"
+},
+"reviewBody": "Between the bright colors and big flavor, this is a major crowd pleaser at family gathering!!! Love it!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "D.T."
+},
+"reviewBody": "Awesome recipe. This is one of my main dishes these days."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kenzo Batt"
+},
+"reviewBody": "Absolutely delicious, I would definitely make again. I added some mango slices, and it really complements the salad."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Janel Piekenbrock"
+},
+"reviewBody": "I love this salad. I topped it with a little salsa and some avocado. Yum"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "kathy"
+},
+"reviewBody": "I made it exactly and the first day, it was quite tasty. On day 2 however, there was really no flavour to it so next time, I would add more coriander and vinegar before serving it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lmalz"
+},
+"reviewBody": "everyone loved it! Once as is, and 2nd time, to take it from side dish to main, I added 2 cans of chicken breast (Kirkland 12.5oz) &amp; did a quick saute of onions &amp; pepper - (not fans of raw onion). Doubled lime/vinegar/cumin to compensate for increased volume."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "zipitidoda"
+},
+"reviewBody": "Excellent, refreshing salad! I tend to like lots of lime flavor so if I'm making this for my weekly lunches I add a bit more lime juice each day."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kim Pierpoint"
+},
+"reviewBody": "Loved this dish. Lime zest gives it something special. I will make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Juls"
+},
+"reviewBody": "Made exactly per recipe and will definitely make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lou Ann Davis"
+},
+"reviewBody": "I made this salad for the second time for our Memorial Day barbecue, per my son’s request as he really liked it from the first time I made it. It’s an easy recipe to follow and fairly quick to make. It’s a hit at my house, everyone loves it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "NH Grammy"
+},
+"reviewBody": "This was easy and delicious. I added chopped avocado."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Vivian"
+},
+"reviewBody": "Wow, this taste like a bowl from chipotle but at half the calories and much more healthier! Will definitely be remaking this in the future!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sherieastman"
+},
+"reviewBody": "Loved it. Took it for lunch and prepared it in advance."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sandy Hall"
+},
+"reviewBody": "Yes. I’ll make it again. I didn’t have lime zest but it was so good anyway."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "drahcirwilson"
+},
+"reviewBody": "This recipe is great! The addition of lime zest gives it a nice boost of flavor.\nI added a red bell pepper for extra flavor and substituted canola oil for avocado oil, because I don't have any.\nI omit the cilantro for the picky eaters--I'm sure it would balance well with the lime though.\nI juiced the lime used for the zest--it doesn't make sense to use the packaged lime juice when you have the better fresh option.\nI make this salad all the time, and even the carnivores in my family love it.\nThanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Victoria Brooke"
+},
+"reviewBody": "Delish recipe! I added fresh garlic, chili powder and 1/2 of a fresh jalapeno for a little bite. Super easy and quick. I will be making this often"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Carol Saylor"
+},
+"reviewBody": "This was a nice side to some quick enchiladas I made. It would be good with a quesadilla for a weeknight dinner or lunch. tasted even better the next day!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "imawinn2"
+},
+"reviewBody": "This has quickly become a favorite side dish for me. I have to watch my sodium intake so I use low sodium chicken broth to cook the quinoa. The flavor is nice and not overpowering. My family really enjoys it too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "pammieb1031"
+},
+"reviewBody": "Made it according to directions and added chopped avocado. Delicious!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ashley Graboski-Bauer"
+},
+"reviewBody": "I make this all the time, but often confuse it with a similar quinoa recipes, that includes a tablespoon or so of curry powder and dried fruit like cranberries in the mix, so sometimes I add that too. This is one of those dishes that gets better after it has had time to cool down together a bit, so if you can make it ahead and keep in the fridge, it's especially good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jackie"
+},
+"reviewBody": "Made exactly as the recipe stated and it's wonderful. It is mild flavored yet rich tasting at the same time. So easy and quick to make. Perfect for those hot summer days and a great source of protein from the beans and quinoa. This is a keeper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Buckwheat Queen"
+},
+"reviewBody": "Tangy and zippy! I added some black lime powder (loomi aswad) and some cayenne pepper. I also used some precooked tri-colored quinoa that I had in the freezer. Can't get any easier than that! Next time, I'll add an avocado. Thank you for the recipe."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/257254/black-bean-corn-and-quinoa-salad/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/212/salad/grains/",
+"name": "Grains"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16583/salad/grains/quinoa-salad/",
+"name": "Quinoa Salad Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/257254/black-bean-corn-and-quinoa-salad/",
+"name": "Black Bean, Corn, and Quinoa Salad"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

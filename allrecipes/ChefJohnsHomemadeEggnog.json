@@ -1,0 +1,604 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Chef John&#39;s Homemade Eggnog"
+,"datePublished": "2016-02-03T15:02:34.000-05:00"
+,"dateModified": "2021-01-05T12:39:19.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Chef John"
+,"url": "https://www.allrecipes.com/cook/foodwisheswithchefjohn"
+}
+]
+,"description": "Homemade eggnog is so superior to what you find in the store it&#39;s well worth the (minimal) effort to make it!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/W7fX9Wqf3UvPydefEbsM1V-tpxA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3253511_original-e8f2dd61f9774b0296f9dc39e5c1d59c.jpg",
+"height": 960,
+"width": 960
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=4698722430001",
+"description": "Have your favorite dreamy dessert custard and drink it too!",
+"duration": "PT7M10S",
+"name": "Chef John's Homemade Eggnog",
+"thumbnailUrl": "https://static.onecms.io/wp-content/uploads/sites/43/2021/01/05/3253511_original.jpg",
+"uploadDate": "2021-07-17T02:37:29.219-04:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Chef John&#39;s Homemade Eggnog"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "50"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "463 kcal"
+,"carbohydrateContent": "28 g"
+,"cholesterolContent": "299 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "12 g"
+,"saturatedFatContent": "18 g"
+,"sodiumContent": "135 mg"
+,"sugarContent": "26 g"
+,"fatContent": "31 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"4 egg yolks",
+"0.33333334326744 cup white sugar",
+"2 cups whole milk",
+"1 cup heavy cream",
+"0.75 teaspoon freshly grated nutmeg",
+"2 fluid ounces bourbon whiskey, or more to taste",
+"4 egg whites",
+"1 tablespoon white sugar",
+"1 pinch freshly grated nutmeg" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place egg yolks in a saucepan. Whisk in sugar until well blended and creamy. Add milk and cream; whisk until blended. Place pan over medium heat; whisk frequently until mixture reaches a temperature of between 170 to 180 degrees F (75 to 80 degrees C) using an instant-read thermometer. Remove from heat. Stir in nutmeg and whiskey."
+} ,{
+"@type": "HowToStep"
+,"text": "Chill pan in cold water until cool. Transfer mixture to a container (a large pitcher is ideal). Cover and refrigerate until thoroughly chilled, 2 to 3 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Place egg whites in a bowl and whisk until soft peaks form. Add sugar and continue whisking until egg whites hold a firmer peak. Whisk egg whites into custard base until thoroughly blended. Refrigerate until chilled, about 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/W7fX9Wqf3UvPydefEbsM1V-tpxA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3253511_original-e8f2dd61f9774b0296f9dc39e5c1d59c.jpg"
+}
+]
+,"text": "Whisk eggnog again just before serving and between each pour to ensure even distribution of the egg whites which tend to float to the top. Serve with a dusting of nutmeg."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT105M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sewingwiz"
+},
+"reviewBody": "I didn’t use all the fat. I used 2% milk and 1/2 &amp; 1/2. It’s the best eggnog I’ve ever had."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cligba"
+},
+"reviewBody": "It was delicious and very creamy, we added bourbon for that extra kick."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Shadir"
+},
+"reviewBody": "Amazing recipe - our go to recipe every year 😍😍"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Barbara Atkinson"
+},
+"reviewBody": "This recipe is very much like what my grandmother made for the family every Christmas evening. My suggestions: 1. Add more bourbon, certainly to taste. ;-) 2. We served our chilled eggnog in lovely glasses, with a generous scoop of the most wonderful vanilla ice cream added. I refer to our recipe as \"A cardiologist's nightmare,\" but it surely is good once every year or two... Happy Holidays!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Thomas"
+},
+"reviewBody": "no changes !!!!!! IT WAS YUMMY IN THE TUMMY!!!!!!!!!!!! TOOOOOOOO!!!!!!! GREAT ALSO!!!!!!!! LOVED IT TOOOOOOOO!!!!!!! INSTEAD OF THE WISKEY I PUT RUM FLAVOR IN IT !!!!! ONE TEASPOON OF RUM FLAVOR IN IT !!!!!! IT WAS STILL YUMMY TOOOOOOOO!!!!!!!!! YEAH BABY!!!!!!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Jace Parker"
+},
+"reviewBody": "do not make this it seperats and makes bad eggnog"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "RobertG"
+},
+"reviewBody": "Best recipe I've found. I must be made at least the day before to allow flavors to blend. I did add a little vanilla to the meringue by request."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "inswain"
+},
+"reviewBody": "Best eggnog I’ve ever had. My wife and I drank the entire batch in 30 mins"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jerryis#1"
+},
+"reviewBody": "This is the greatest Chef John recipe ever-- and I have tried many of them. The custard base tastes like God's nectar. This review is only for the \"custard base\" as the egg whites were a pain to whisk up everytime and didn't really add a \"positive\" to the drink so I don't use them. Without the egg whites part, my eggnog is not frothy, but it is delicious! Save the egg whites for an egg white omelet instead to eat for breakfast to make up for this awesome, but unhealthy drink. Yes, you can probably add more nutmeg to make it shine through a little more than it does, but you can add to your own taste. To confirm- the \"custard base\" is amazing. Easy to double the recipe for the custard base (and I do each time)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Matthew Bevington"
+},
+"reviewBody": "okay I have neve been lead astray by chef john before so I'm assuming this one was my fault, but it just tasted so eggy. I really didnt get much flavor other than egg and nutmeg. It might not have been chilled enough, but still seems like there was probably another issue. please help."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Angie Wells"
+},
+"reviewBody": "Delicious, but I would double the nutmeg the recipe calls for. You can barely taste the nutmeg."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kiya Williams-Tate"
+},
+"reviewBody": "I found my new eggnog recipe. I did add more liquor than the recipe called for, but the nutmeg hid the whiskey taste well. I have made this recipe a few more times and Left out the beaten egg whites. My family are not big on the foam"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "VALERIEANN_"
+},
+"reviewBody": "I forgot to add that we left out the alcohol since we're not used to that in our eggnog anyway, and used about 1/2 tsp. rum flavoring which was perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "VALERIEANN_"
+},
+"reviewBody": "I forgot to add that we left out the alcohol since we're not used to that in our eggnog anyway, and used about 1/2 tsp. rum flavoring which was perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cnwrails"
+},
+"reviewBody": "very good and very easy to make. The kids love it and tastes sooo good. I made a batch with bourbon and with out. It was good either way."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "C. Wildeman"
+},
+"reviewBody": "Perfect, classic eggnog. Everything eggnog should be."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dbeutler"
+},
+"reviewBody": "I tried a number of different eggnog recipes a few years ago, and this was hands down our favorite. We adore it! Thank you so much."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "susan"
+},
+"reviewBody": "The BEST EVER! I don’t really like eggnog (or thought i didn’t) and this is awesome. Yummmmmm"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dlf_brooke"
+},
+"reviewBody": "I have never been fond of eggnog, nor yet made it from scratch, but I had watched CJ's video of the recipe on YouTube in the cooking video binge leading up to Thanksgiving, had time while I was waiting for the last thing to bake Wednesday night, and all the ingredients.\nIt is amazing. Fairly simple, rich, delicious, and a far nicer texture than the store bought stuff (ymmv, ofc). Splashed up with a generous measure of good whiskey, and some fresh nutmeg it is divine."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "I. Ray Trace"
+},
+"reviewBody": "This is great. Make sure you wait until it is properly chilled before sampling. It is amazing the taste difference once chilled. One real plus for me is that it makes just the right amount."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Wayne Dorin"
+},
+"reviewBody": "It was like flavored milk. Lacked consistency. Added commercial eggnog and was much better. Of course more booze."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Sherry"
+},
+"reviewBody": "I found this nog to be too thick and did not care for the added egg whites."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Moriah"
+},
+"reviewBody": "It was amazing very difficult to make but I made it anyways it’s very thick and creamy and very delicious and I recommend this recipe it’s delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Casey Goode"
+},
+"reviewBody": "Just made this and it smells VERY egg'y. Definitely more like freshly fried eggwhites than I would have imagined. I cooked the mix slowly over medium heat constantly swirling slowly with a spatula until the temp hit precisely 172°F. Pulled off, added nutmeg and booze, and chilled sitting in a bowl of ice water until cool."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kim"
+},
+"reviewBody": "This is the best eggnog I've ever had. It's not overly sweet, as some eggnogs tend to be, and the flavor is spot on--not too eggy or boozy. I really appreciate that Chef John uses both parts on the egg in the recipe too. Adding the meringue to the eggnog makes it so light and wonderful, that there's just not enough good things I can say about this recipe! Thank you so much Chef John for making an eggnog recipe that makes a non-eggnog-lover (such as myself) enjoy eggnog again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary Zink"
+},
+"reviewBody": "I was concerned about the raw eggs in this recipe so I substituted pasteurized eggs. Turned out just fine. This is an especially important tip if you have children or elderly people or anyone with decreased immune function drinking your eggnog."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alissa Mulligan"
+},
+"reviewBody": "Wow! I’ve never had a better eggnog, and I’ve had A LOT of eggnog! Super good ! Thank chef John, again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Yancy"
+},
+"reviewBody": "Turned out great! First time making it, instructions were easy to follow, flavor is spot on. Thank you for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary O."
+},
+"reviewBody": "Exceptional egg nog! I made it the day before as recommended by another reviewer. I added rum as I like that flavor. The recipe did not list the nutmeg but it is in the video. 3/4 teaspoon in the mixture and a dash on each cup of cheer. Wonderful! Thanks for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "C.L. Allen"
+},
+"reviewBody": "DELISH!!!! I made it for 12 servings. I used 100 proof Southern Comfort. It is best made a day or two in advance. allows all the flavors to come together. it was exceptional. I made both cooked and uncooked. Both are great. Uncooked is made the same except no stove time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Loueloui"
+},
+"reviewBody": "This is a very good recipe. The nutmeg is missing from the ingredient list however. The video says it is 3/4 t plus more for garnish"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chefjoey"
+},
+"reviewBody": "It’s amazing"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ginger Antuna"
+},
+"reviewBody": "So much more flavorful than store bought eggnog. We found that it must be consumed right away though so that it does not separate."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "THE BEST EVER. I did use rum as I love rum"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rob Thomson"
+},
+"reviewBody": "Yes I will make it again. I loved it! \n\nThanks Chef John!!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/246195/chef-johns-homemade-eggnog/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/77/drinks/",
+"name": "Drinks Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/141/drinks/eggnog/",
+"name": "Eggnog Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/246195/chef-johns-homemade-eggnog/",
+"name": "Chef John&#39;s Homemade Eggnog"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

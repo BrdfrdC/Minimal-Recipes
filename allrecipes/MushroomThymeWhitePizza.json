@@ -1,0 +1,201 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Mushroom-Thyme White Pizza"
+,"datePublished": "2022-10-04T21:10:59.000-04:00"
+,"dateModified": "2022-10-04T21:10:59.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "John Somerall"
+,"url": "https://www.allrecipes.com/cook/28388384"
+}
+]
+,"description": "This white pizza features maitake mushrooms, cremini, spinach, mozzarella, and pecorino cheese."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/y0k7yViYaQ2iNocdt-AJm_Ku_qQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/White-Pizza-ae5ff40f51244bac877769ae0bd0718b.jpg",
+"height": 672,
+"width": 896
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Mushroom-Thyme White Pizza"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "4"
+}
+,"cookTime": "PT25M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "714 kcal"
+,"carbohydrateContent": "64 g"
+,"cholesterolContent": "63 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "35 g"
+,"saturatedFatContent": "13 g"
+,"sodiumContent": "1495 mg"
+,"fatContent": "35 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1 pound fresh pizza dough",
+"flour for dusting",
+"4 tablespoons olive oil, divided",
+"0.5 pound cremini mushrooms, thinly sliced",
+"0.5 pound maitake mushrooms, broken into small clusters",
+"2 tablespoons chopped fresh oregano",
+"2 tablespoons fresh thyme leaves, plus more for garnish",
+"0.5 teaspoon kosher salt, divided",
+"0.75 teaspoon freshly ground black pepper, divided, or more to taste",
+"1 (5 ounce) package fresh baby spinach",
+"1 cup whole milk ricotta cheese",
+"0.5 cup finely grated Pecorino Romano cheese",
+"2 cloves garlic, grated",
+"1 cup shredded part-skim mozzarella cheese",
+"shaved Pecorino Romano cheese, for garnish" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Put a pizza stone or baking sheet on the middle oven rack. Preheat the oven to 450 degrees F (230 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Turn dough out onto a lightly floured work surface and roll out into a 14-inch circle. Transfer to a piece of parchment paper or a cookie sheet lightly dusted with flour or cornmeal. Cover with a kitchen towel; let stand at room temperature until ready to use."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, heat 2 tablespoons oil in a large skillet over medium heat. Add cremini and maitake mushrooms; cook, stirring occasionally, until well browned and tender, 6 to 8 minutes. Stir in oregano, thyme, 1/4 teaspoon salt, and 1/4 teaspoon pepper. Transfer mushroom mixture to a bowl. (Do not wipe skillet clean.)"
+} ,{
+"@type": "HowToStep"
+,"text": "Add 1 tablespoon oil to skillet. Add spinach and 1/4 teaspoon pepper; cook, stirring frequently, until spinach is wilted, about 2 minutes. Transfer to a paper towel-lined plate to drain."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir together ricotta, Pecorino-Romano, garlic, and remaining 1/4 teaspoon each salt and pepper in a bowl until well combined. Brush dough with remaining 1 tablespoon oil. Spread ricotta mixture in an even layer over the dough, leaving a 1-inch border. Sprinkle mozzarella evenly over ricotta mixture. Top with cooked mushrooms and spinach."
+} ,{
+"@type": "HowToStep"
+,"text": "Carefully transfer pizza on parchment to hot pizza stone or baking sheet in the oven. Bake until cheese is bubbly and crust is deeply golden brown, 15 to 18 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer pizza and parchment to a cutting board; let stand 5 minutes. Remove parchment. Garnish with additional thyme, a few grinds of pepper, and shaved Pecorino-Romano cheese."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT45M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carolyn"
+},
+"reviewBody": "I'd give this a 10 if I could. You definitely need to use fresh herbs. They make the pizza. I used baby bella mushrooms and pressing the moisture out of the spinach is also a must. Keep these recipes coming."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Aly in the Kitchen"
+},
+"reviewBody": "I was pleasantly surprised by absolute deliciousness of this pizza. I made a homemade pizza crust that was infused with freshly dried herbs. Next was the process of sautéing the gourmet mushrooms and spinach. It felt like it was bit much at first but this step definitely added to the overall flavor of the pizza. I must add, the excess water from the cooked mushrooms and spinach should be drained thoroughly before adding to the pizza because I found I needed to squeeze out the extra water by hand. There was no extra seasoning needed for the ricotta and pecorino romano spread, this simple white sauce brought a nice flavor to my rustic crust and the toppings. This was truly a pizza my entire family enjoyed. Definitely adding this one to our family favorites."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MaryLou"
+},
+"reviewBody": "I really liked this pizza! I used a pre-made gluten free crust, but otherwise followed the recipe. The flavors were a great mix of garlicky, savory goodness! I will definitely be making this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "C B"
+},
+"reviewBody": "I made it exactly as recipe and used the Allrecipe 2 ingredients quick pizza dough recipe (self rising flour and Greek yogurt) and it turned out awesome. Really really good 👍"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8490161/mushroom-thyme-white-pizza/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+"name": "Main Dishes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/250/main-dish/pizza/",
+"name": "Pizza Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8490161/mushroom-thyme-white-pizza/",
+"name": "Mushroom-Thyme White Pizza"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,1316 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Chicken Chilaquiles"
+,"datePublished": "2020-03-10T02:51:28.000-04:00"
+,"dateModified": "2022-01-14T01:27:55.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "CARRIEANN23"
+,"url": "https://www.allrecipes.com/cook/1056244"
+}
+]
+,"description": "This easy casserole is made with fresh chorizo, tortilla chips, chicken breast, and corn, then covered with a creamy green enchilada sauce and baked until bubbly."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/ksgjZRCcxvXCxjptxfe1kJDdtmY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3796318-8e0b63dc883f4dbd8cb4ad592e37fdec.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Chicken Chilaquiles"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "115"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "388 kcal"
+,"carbohydrateContent": "21 g"
+,"cholesterolContent": "71 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "19 g"
+,"saturatedFatContent": "12 g"
+,"sodiumContent": "430 mg"
+,"sugarContent": "1 g"
+,"fatContent": "26 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"0.25 pound chorizo",
+"2 skinless, boneless chicken breast halves, cut into 1-inch cubes",
+"0.5 (10 ounce) bag tortilla chips",
+"1 cup frozen corn kernels",
+"1 (19 ounce) can green enchilada sauce",
+"0.5 cup sour cream",
+"2 cups shredded Monterey Jack cheese" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat an oven to 400 degrees F (200 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook the chorizo in a skillet over medium heat, stirring to break it into tiny pieces. Place the raw chicken into the skillet with the chorizo; cook and stir the meats together until the chicken is no longer pink in the center, about 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Spread half of the tortilla chips over the bottom of a casserole dish; top the chips with the cooked chorizo and chicken mixture. Sprinkle the corn evenly over the meats and layer the remaining chips over the top. Whisk together the green enchilada sauce and sour cream in a mixing bowl; pour over the top of the casserole. Top the casserole with the shredded Monterey Jack cheese."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake the chilaquiles in the preheated oven until the casserole is bubbly and the chips begin to brown, 15 to 20 minutes."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT45M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Crowmish"
+},
+"reviewBody": "This is incredible. Definitely a new favorite and really easy. Followed the recipe exactly just used vegetarian chorizo and chicken substitutes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Gina Carle"
+},
+"reviewBody": "I put all ingredients together, added tomatoes with chiles and layered it. Lots more of cheese"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michael Wilby"
+},
+"reviewBody": "made this according to directions except I used black beans and a quarter cup of diced tomatoes. This recipe is awesome and I will make this a lot."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Clark Wheatley"
+},
+"reviewBody": "That might taste good but it is NOT Chilaquiles!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ekbrook"
+},
+"reviewBody": "This was a tasty and simple recipe. Tortillas or tortilla chips work just fine interchangeability. It is also easy to include any leftover taco meat or other Mexican items for a little change. Enjoyed it and will make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Frank Snyder"
+},
+"reviewBody": "Great hit with the kids! I followed the recipe, with a few exceptions. I didn't have sour cream so I used about 1/3C of plain Greek yogurt, which was fine. I wish added about half a cup of black beans, I would definitely recommend doing that. I added some thinly sliced poblano on half (some here don't like peppers), it looked nice but didn't add much flavor. One kid called this Taco Bell Lasagna, as I make alot of Mexican food and this is the most Americanized dish I've made."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amanda Kemp"
+},
+"reviewBody": "Love it. My rating is based on ease, time, tastiness and the fact that my kids ate it without holding their noses. Definitely give it a try."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Very tasty and easy. I didn't get to the store to get chorizo though so I just used chicken and some extra seasonings. Sure it would have been even better with the chorizo but it was still good. :-)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sharichase"
+},
+"reviewBody": "Very tasty and easy. I didn't get to the store to get chorizo though so I just used chicken and some extra seasonings. Sure it would have been even better with the chorizo but it was still good. :-)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "westr7"
+},
+"reviewBody": "This was an easy meal, exceptional taste, and fun to make. I'm starting to love chorizo. I used to substitute it but then tried it and it really adds to the flavor. Thank you."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jjacak"
+},
+"reviewBody": "Excellent....even my VERY FUSSY kids loved this! I will definitely make this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sofia Temple"
+},
+"reviewBody": "Substituted chicken for black beans. This was such an easy and absolutely DELICIOUS meal. Can't wait to make it again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Dawn"
+},
+"reviewBody": "I thought it could use more chorizo."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jackie Engle"
+},
+"reviewBody": "This recipe is easy to make and delicious as-is. Was a huge hit at a family potluck. Am making it regularly now!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Frow"
+},
+"reviewBody": "This is an easy recipe and it uses few ingredients. Tastes delicious and it’s quick too. I prefer shredded chicken so I used a rotisserie chicken from the grocery store. I cooked the chorizo and then added the already cooked shredded rotisserie chicken to it. I didn’t have the cheese in the recipe on hand so I used what I had. A bag of shredded cheeses - a blend of Mexican cheeses. My hubby liked the recipe so much I made it again and used a different cheese I had in the fridge quest rallado. This recipe was so yummy with either cheese."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Cmo"
+},
+"reviewBody": "The dish was tasty but a little dry. I’ll try it again but add more sauce and chorizo for more of a kick."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Teri"
+},
+"reviewBody": "good flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ekoen"
+},
+"reviewBody": "Made this for brunch and it was delicious! Used a pre-roasted chicken and it made the process a lot faster. Used jalapeño chicken sausage instead of chorizo. Will make this again for sure!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kirsten Finnigan"
+},
+"reviewBody": "Big hit. Easy! I made with 9 Oz of chorizo by accident. A little too spicy but good. Serves 4-6"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "marie"
+},
+"reviewBody": "Excellent and easy! Made exactly as written (only difference is I doubled the recipe). We enjoyed for dinner and the leftovers are for lunches."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jen Jackson"
+},
+"reviewBody": "I made this tonight, it turned out great! I read the reviews and mixed my green sauce, sour cream and cheese, works well. I did use Kraft Philly Mexican cheese blend and canned Mexican corn. I will make this again for sure."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Dena Jacobson"
+},
+"reviewBody": "Very tasty! The only substitute I made was using sharp cheddar cheese. I will make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Diana"
+},
+"reviewBody": "This was very good! I made a few changes based on others comments. I used boneless skinless thighs instead of breasts and doubled the recipe. I also added cheese and sauce between layers. Next time I think I’ll add green onions and tomatoes on top to add some fresh veggies. But it had great flavor and I did not need to add any salt or spices since the chorizo and sauce were so flavorful! Definitely will make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Patrick L Ryan"
+},
+"reviewBody": "I made it for he family and we all loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "kimr"
+},
+"reviewBody": "I followed the recipe exactly and this turned out alright. I think it would be better with less sour cream and perhaps some red pepper flakes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sandra S Martin"
+},
+"reviewBody": "I made this tonight for a group and everyone loved it. I used Mexican frozen corn from Trader Joe's which has additional seasonings and cojito cheese and added some refried black beans that I had. I think it was a nice addition. I also used precooked chicken. This was easy and yummy. Will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Karen Lindower"
+},
+"reviewBody": "Pretty good, simple recipe. I followed recipe as written except i doubled it to fit an 8×11 casserole. And instead of doubling the corn, I added a can of black beans. It was enjoyable, especially with your favorite salsa to add heat when serving. I will make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Eric Riehle"
+},
+"reviewBody": "The family dug in. No better compliment than that.\nI had no Monterey Jack , used Pepper Jack instead, if you'd even call that a change."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dheitz"
+},
+"reviewBody": "Left out the chorizo for a lighter version. Loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "MELRN"
+},
+"reviewBody": "I didn't follow it to a T. I used Doritos, chicken thighs, and ground pork (my family doesn't like spicy). Layered as follows: Doritos, meat mixture, green sauce/sour cream mix, Oaxaca cheese, Doritos, meat, red sauce/sour cream mix, more cheese (Oaxaca and cheddar), then baked. Although it didn't compare with what I was hoping for, I did think it was quite good with a nice flavor. My family thought it was just OK. I may try again with torn corn tortillas and just red sauce which seems closer to what I recall."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SYates"
+},
+"reviewBody": "Great simple recipe that my whole family loves, even the kiddos!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cinimin's Mom"
+},
+"reviewBody": "Hubby LOVED this dish. I made a few changes. I do not like sausage so I skipped the chorizo. I cooked the chicken in 1tsp of olive oil. I added a small can of diced green chilies to the green enchiladas and sour cream mixture. I used light sour cream. I omitted the top layer of chips. This one goes on our we love it list and will be eaten many times in the future."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Molly"
+},
+"reviewBody": "07-27-16 ~ We liked this casserole! I believe this was my first time in cooking with chorizo. It was hard to tell when the meat was browned as it is so red in color that it doesn't brown. I just browned a really long time to make sure it was done. I used two ears fresh corn since it is in season rather than frozen. I boiled on the stove top and then cut off the cob. It worked great. I did use only 1 cup of cheese as we didn't need all the extra calories and the amount was perfect for us. It was more then enough to cover an 11\" x 7\" baking pan. We really liked this and I would make it again. I added some diced jalapeños to the middle layer and had shredded lettuce and diced tomatoes on the side for a topper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Skibyers"
+},
+"reviewBody": "I thought this was really good...the whole family liked it. Next time I will lower the oven temp to 350 because the chips got a bit brown and tough. I used diced rotisserie chicken to save time and it was perfect. I also used shredded sharp cheddar which I think made the flavor better than it would have been with a mild Monterrey Jack."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kat"
+},
+"reviewBody": "This was so good that both my husband and I ate WAY too much! The only changes I made were to add a can of drained spiced black beans with the corn and I used an already-shredded Mexican cheese because that's what I had in the fridge. Otherwise I wouldn't change a thing. YUM!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "vicky"
+},
+"reviewBody": "It was just so good, every bite full of flavor"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sonel even"
+},
+"reviewBody": "I followed this pretty much as given . Everyone loved it but I will make a couple changes...I'll use more Chorizo to increase the \"heat\" and back off on the chicken (only because I added more to the recipe). I only had a 15oz can of green sauce so I added a 4oz can of diced green chiles. Both these adjustments made it a bit dry so next time I will pour most of the green sauce &amp; green chilies over the chicken mixture, then add the chips with the rest of the sauce drizzled over the chips, then the cheese on top. This is so easy &amp; quick. And it can be adjusted to your family's palate. Thank you for a great keeper recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Debbie"
+},
+"reviewBody": "The filling needs more flavor. I thought the Chorizo would lend flavor, but it did not. I'd suggest adding Mexican seasonings, such as taco or fajita, and add veggies, perhaps jalapeños. Also, the tortilla chips totally lost any texture and the sour cream/enchilada mixture disappeared in the cooking process."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joli"
+},
+"reviewBody": "My family loved it!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sandra"
+},
+"reviewBody": "Very tasty! We didn't have anymore chorizo so we just added more chicken."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "M3running"
+},
+"reviewBody": "This was amazing!! Husband &amp; kids raved about this dish. Husband especially liked it &amp; said next time I make it don't change a thing. Only thing I did differently was make my own tortilla chips using corn tortillas. Otherwise, followed recipe exactly. Thanks for sharing this recipe!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Samantha"
+},
+"reviewBody": "Nice recipes but I felt like something was missing. Im thinking I will add some sort of diced pepper in with the corn layer next go around."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Karen Wong"
+},
+"reviewBody": "It was way too salty. I would eprobably add more sour cream(which I already did more than the recipe suggested) and corn or beans in the filling. I smashed some tortilla chips and sprinkled it on top, but I think the sauce just ruined it for me."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shawn Haynie"
+},
+"reviewBody": "Was looking for a simple chicken casserole type dish and when I saw this I knew I had to try it... Am I glad I did! I had no time to experiment so I made it exactly as directed with one simple exception. I used a can of corn which I drained instead of frozen corn... It was very very good and I will be making it again soon... 2 things to keep in mind... It only makes 8 servings if your feeding toddlers!!! It makes 4 portions and even those I wouldn't call large... Just 4 portions that made you full... My 2 teenage sons said it was enough for them... Also I used an 8x8 casserole dish which definitely filled it to the top but the pieces were thick and delicious... Imagine like a piece of lasagna but made out of these yummy ingredients.... Next time I might add some beans and rotel and maybe even cilantro but honestly it doesn't need it... This is very flavorful as is.... Enjoy!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "amykijula"
+},
+"reviewBody": "This is really good! I don't look at it as an \"authentic\" chilaquilles recipe but it's very tasty nevertheless. I've made it with red sauce and green (separate occasions, not together) and has been amazing either way. I use half the Monterey jack cheese before the sauce then the other cup afterward along with a cup of queso fresco crumbled cheese. Everyone in my family LOVES this dish!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "woman"
+},
+"reviewBody": "We were just looking for something which would use up some ingredients we had on hand. This was SO much better than we ever expected. That being said we did make our own enchilada sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "christine"
+},
+"reviewBody": "My family loved this but I use only 1 cup cheese."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jgreene"
+},
+"reviewBody": "yum! awesome as written -whole family loved it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lynne"
+},
+"reviewBody": "This is very tasty and was a hit at the home"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michele M"
+},
+"reviewBody": "I loved this recipe!!.. So easy ... I left out the chorizo and microwaved corn for less than a minute and it was perfect. Also I tried green enchilada sauce on one side and red on the other and we all thought the side with the red tasted better....adding it to my dinner line up!!.. Fantastic taste!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kelly Hamilton"
+},
+"reviewBody": "Instead of using store-bought tortilla chips, I fried corn tortillas, and then broke them up. I find the store-bought chips to be too salty. I also don't add any cilantro."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "BODIE358"
+},
+"reviewBody": "Really good stuff. I used cheddar/jack cheese, canned corn, tortilla chips."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kelsurfs"
+},
+"reviewBody": "Excellent! I didn't have chorizo, so just used left over barbecued chicken from the night before. I always try to cook healthy when possible, so I used fat free sour cream and fat free shredded cheese on top. My family all but licked the pan clean! And I wouldn't count on 8 servings as there were only 5 of us."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alice"
+},
+"reviewBody": "Such an easy recipe. I prefer to use a rotisserie chicken to have white and dark meat. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "kac2research"
+},
+"reviewBody": "This was okay...not bad. But not great either. The frozen corn we bought gave the casserole a bit of a sweet taste that I didn't like so much, so it is worth trying again. I topped it off with salsa and sour cream. My family did like it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "papi"
+},
+"reviewBody": "growing up eating (traditional) chliaquiles;red salsa,egg,onions&amp; queso fresco.This was an intresting twist...i had to try it!!! I did add egg to the top of first layer of chips,didnt have enough queso fresco;so i did half &amp; half...both were good monterey was better though.Overall was pleased Thanks for the great recepie"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "minnie21"
+},
+"reviewBody": "sounded good, but meat mixture ended up tasting like chili beans...will not be making again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ciocop"
+},
+"reviewBody": "I made my own red salsa in place of a green salsa (since I didn't have it on hand) - about 3/4 of an 8 oz can of tomato sauce. A small bunch of cilantro, half a large tomato, half a medium onion, half a medium jalapeño (seeded), a half tsp of minced garlic, about 1/4 to half cup of water and salt to taste. Still turned out awesome!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Carol"
+},
+"reviewBody": "Local groceries did not have chorizo, so I seasoned the chicken with cumin, coriander and such and proceeded. The middle chip layer is completely unecessary."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "t puente"
+},
+"reviewBody": "more real if you blend 1 large tomato, 1/2 a serrano chile, 1 small garlic &amp; a bunch of cilantro leaves with enough water. You fry this with little oil and chicken boullion until it thickens, in this mix you place whatever...chicken, tuna, ham... Your chips of fried tortilla pieces you serve on a dish and you pour the sauce with the meat on top. You can add cheese to it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "#1 mom"
+},
+"reviewBody": "it was super easy and very tastey my kids loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah8041"
+},
+"reviewBody": "This was SOOOO GOOD!!! My husband couldn't stop raving about it. We had extra so he took the rest for lunch. He said it was even better the second day! I will be adding this recipe to our monthly menu. Thanks for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Deean Burney"
+},
+"reviewBody": "This was great I made substitutions in it and I added mild Rotel drained, 1 can , And cheddar cheese for the Monterey Jack, regular enchilada sauce, didn't have green kind. It was delicious, Thanks"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kellee"
+},
+"reviewBody": "I am unable to cook a recipe as directed. I boiled and shredded the chicken before I threw it in with the chorizo. Added a can of fire roasted tomatoes and green chilies. I decided it was too spicy for hubby, so I added a little bit of sour cream and cream of chicken soup. I used corn tortillas instead of chips. I added a can of cheese soup to the green sauce with a little more sour cream. Awesome!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Neeley"
+},
+"reviewBody": "This was really good! I took the advice of other reviewers and used cut up corn tortillas instead of chips and added 1 can of black beans. Next time I would layer the cheese instead of putting it all on top."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jctnact"
+},
+"reviewBody": "So good! I followed the recipe exactly and it came out delicious. My chicken came out a little dry so next time I won't cook it as long as I did. Otherwise, I enjoyed it very much."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I traded out the chorizo for black beans. Didn't say which size casserole to put this in and I think that would have a lot to do with how \"soggy\" the chips would become. I stuck it in a 9 x 13, not as soggy this way. I like this better with more than just 5 oz of chips. This is more like 4 servings. 8 servings is pretty wimpy. Fat free sour cream ok."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JulieK"
+},
+"reviewBody": "Made this for my family for dinner last night and it was super delicious and a big hit! The only change I made was to leave out the chorizo (we don't eat pork) and add a can of drained black beans and about a cup of salsa in place of the chorizo."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amanda"
+},
+"reviewBody": "This is awesome! I added black beans with the corn the second time I made it and WOW what a difference it makes!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ANGELFROMHEAVEN"
+},
+"reviewBody": "Very quick and easy recipe. It won rave reviews from my family. I served the corn on the side to satisfy the fussy ones in the family. I would suggest topping the meat layer with some of the cheese and sauce as well. I used an 8\"x 8\" casserole dish. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jessica Tripp"
+},
+"reviewBody": "very, very good! I did not have any tortilla chips, so i used corn tortillas that I tore and placed in the baking dish. I had left over beans and rice so I threw them in the dish as well and baked. Thanks for a really tasty recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Molly Pitre"
+},
+"reviewBody": "I use Basque (instead of mexican) Chorizos. They are very hard to find but Gem Meat Packing Company in Boise Idaho makes the best and most authentic Basque chorizos that people have shipped all over the country. Every Basque like me knows exactly where to get them."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary"
+},
+"reviewBody": "This is a simple and delicious recipe. The only thing I may experiment with next time is adding something (maybe chili powder) to give it a little extra kick. Thanks for a great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tssunshine24"
+},
+"reviewBody": "I made this for dinner last night. I didn't have chorzio so I skipped that but I used everything else. This is sooo good and so easy! I think if you added some rotel into the sour cream mixture it would be super delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BRACKY189"
+},
+"reviewBody": "This was so easy to make an so delish! I did not have all the needed ingredients on hand, so this is what I did: Had some shredded roast chicken that I needed to use up, so I used that instead of the cubed chicken &amp; chorizo. I sprayed my casserole dish with cooking spray, tossed in crushed tortilla chips, a layer of my shredded chicken, a layer of canned corn and topped off with the green enchilada/sour cream mixture and 2 cups of shredded mont. jack cheese for 20 mins. My son could't get enough of it. We had this for brunch."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Teresa"
+},
+"reviewBody": "Everyone loved this recipe!! It's a keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Erin"
+},
+"reviewBody": "This was really good! I had some chicken and chorizo that I needed to use or toss and came across this recipe. I typically follow the recipe the first time I make something so I have a handle on what it is supposed to taste like, but I did have to make a few changes based on what I had on hand. I only had one can of enchilada sauce (10 oz) so I used some salsa verde that I had to make up the difference. I also used canned corn (drained) since I didn't have frozen. Next time I make this (and I WILL be!) I think I'll add some black beans in and then toss some green onions on top. Easy and tasty! Thank you Carrie Ann!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Robbie Rice"
+},
+"reviewBody": "This one's a keeper! Used Queso Quesadilla Cheese (triple redundancy) and mixed it right into the sour cream and enchilada sauce mixture, then layered it with the rest of the ingredients. Didn't need any other tweaking, not even salt! P.S. No need to thaw the corn first. WE LOVED THIS DISH!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sara Barron Johnson"
+},
+"reviewBody": "Love this recipe! It is so easy and so good. Thanks for sharing it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "J9"
+},
+"reviewBody": "This is a great, versatile recipe. I made it using leftover flank steak instead of chorizo and chicken and I had only one 10 oz can of green enchilada sauce. It was still delicious. I will definitely make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Heidi Santos"
+},
+"reviewBody": "Entire family loved it. I followed recipe closely, did not layer chips on the bottom, as I used a big cast iron skillet to make it in, instead of casserole. Easy, delish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "coopspal"
+},
+"reviewBody": "Very tasty. Not exactly like my old restaurant buddies used to make for me, though. Most of the guys were from Mexico, they would make a big platter for the whole staff."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jared K."
+},
+"reviewBody": "Easy to make and delicious. It's become a household favorite."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Deidra"
+},
+"reviewBody": "It was easy to make and my husband absolutely LOVED it!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Marina"
+},
+"reviewBody": "I did not care for this recipe at all. Husband and kids wouldn't eat it either."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "vmamma"
+},
+"reviewBody": "Boyfriend wants to have this once a week. Fine with me because it was super simple and delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MEGYEAH"
+},
+"reviewBody": "Aside from the instructions not specifying to thaw the frozen corn (which some may find confusing), this is outstanding! We love it and will make it many times over!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "John"
+},
+"reviewBody": "I made this for the guys at the fire station. It turned out great and was a big hit all 8 guys went back for seconds. I had to quadruple the recipe though. I think I am going to try it with red enchilada sauce next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jailhousecook"
+},
+"reviewBody": "Made this tonight for supper and got rave reviews from my husband, he;s already requested that we have it again! I used fat free sour cream and had 4 blend mexican cheese so used that and had canned corn so used that rather than frozen. Instead of layering the different items I mixed everything together including 2/3 of the cheese, then put it all into the baking dish and sprinked the rest of the cheese on top along with some sliced up black olives. Thank you for a very good, quick and easy recipe that we will be fixing often. This would be a good dish to fix up ahead of time for a pot luck!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "heather's kitchen"
+},
+"reviewBody": "Delicious!! I made this before any reviews were made and WOW!! I made a few changes to the recipe - I used mozzarella instead of monterey jack and I made my own enchilada sauce so it was red not green. Very tasty and mexican. Leftovers were excellent the next day!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "drunkenolive"
+},
+"reviewBody": "YUM! My husband came home from the grocery store one night with chorizo, I had no clue what to do with it. Found this recipe and couldn't wait to try it. I can't wait to eat leftovers for lunch tomorrow and I am not a leftover kind of person."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/147633/chicken-chilaquiles/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/237/world-cuisine/latin-american/",
+"name": "Latin American"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/728/world-cuisine/latin-american/mexican/",
+"name": "Mexican"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/147633/chicken-chilaquiles/",
+"name": "Chicken Chilaquiles"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

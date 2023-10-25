@@ -1,0 +1,698 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Basmati Rice Pilaf"
+,"datePublished": "2018-06-08T10:00:43.000-04:00"
+,"dateModified": "2022-12-14T21:43:11.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Carol Castellucci Miller"
+,"url": "https://www.allrecipes.com/cook/585641"
+}
+]
+,"description": "Chicken stock, onion, and a bay leaf add a delicious flavor to this simple basmati rice pilaf."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/licky181Oc9DMKl2OyueZgiHP7k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4644240-basmati-rice-pilaf-Buckwheat-Queen-4x3-1-df06c6faa24941ebaa4317c7c473d317.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Basmati Rice Pilaf"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "49"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "244 kcal"
+,"carbohydrateContent": "40 g"
+,"cholesterolContent": "8 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "4 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "279 mg"
+,"sugarContent": "1 g"
+,"fatContent": "7 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1.5 cups chicken stock",
+"1 tablespoon vegetable oil",
+"0.25 cup finely diced onion",
+"1 bay leaf",
+"1 cup uncooked basmati rice",
+"salt to taste",
+"1 tablespoon unsalted butter" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat chicken stock in a saucepan until boiling; keep hot until ready to use."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat vegetable oil in a 2 quart saucepan over medium-high heat. Cook and stir onion and bay leaf in the hot oil until onion is tender, about 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir basmati rice into onion mixture until rice is coated with oil."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour hot chicken stock into the rice mixture. Season with salt; stir."
+} ,{
+"@type": "HowToStep"
+,"text": "Bring rice mixture to a boil; cover and reduce heat to medium-low. Continue simmering until rice is tender and liquid is absorbed, about 20 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove saucepan from heat and discard bay leaf. Add butter and fluff the rice with a fork."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT40M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Maryann Terpstra"
+},
+"reviewBody": "Very simple. Appreciated the addition of a bay leaf. I added chopped parsley and chopped toasted almonds. No leftovers to put away after dinner!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Quick and easy ... Added chopped fresh beans and spinach"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lorraine"
+},
+"reviewBody": "I doubled the onion, and followed everything else exactly. Tasted great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cindi"
+},
+"reviewBody": "This is an excellent recipe. I have made pilaf with onions, but the addition of a bay leaf elevates this recipe to a whole new kevel."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Galway Girl"
+},
+"reviewBody": "Made this tonight as shown kids and husband loved it !"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MGM"
+},
+"reviewBody": "Delicious - no need to change anything. Works well for jasmine rice also."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle Benner"
+},
+"reviewBody": "Amazing basmati rice recipe! Flavorful, fragrant rice :) will definitely make again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ChefDad"
+},
+"reviewBody": "Adds a nice, smoothly textured touch to the every-day side of rice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Trish Raynor"
+},
+"reviewBody": "This is a quick and delicious side dish good for any meal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Louise"
+},
+"reviewBody": "Love this recipe it’s quick, and easy to make and has a great flavour. I have added different veggies each time I have made it and each time it turns out great"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ANADAMABAKER"
+},
+"reviewBody": "So simple and so good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "hhamilton"
+},
+"reviewBody": "Good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gwyneth Badia"
+},
+"reviewBody": "I made no changes and, yes, I will make many more times. So much flavor and so easy. Yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Susan Terwilliger Larson"
+},
+"reviewBody": "I followed the recipe and we enjoyed it. I'd make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christina"
+},
+"reviewBody": "We loved this simple rice! No, it's nothing major as far as flavor goes, but it's just enough to take it up from plain and bland. I served this with our favorite red curry chicken...perfect! A keeper for us~YUM! Thanks for sharing. :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "RainbowJewels"
+},
+"reviewBody": "This is a very simple and quick to make side dish for a weeknight meal.\nI used 3/4 cup rice and 1/4 cup orzo, and subbed butter for the vegetable oil for added flavor.\nThe taste and texture were perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Buckwheat Queen"
+},
+"reviewBody": "This is really good and a perfect accompaniment to grilled meat. I used vegetable broth. The bay leaf really adds a lovely dimension. Thank you for the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KaT Flynn"
+},
+"reviewBody": "Super easy and delicious. I chopped up some mushrooms and added them. So good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Melanie Smith"
+},
+"reviewBody": "Yum! Everyone liked! Used jasmine rice instead of basmati. Doubled recipe for 4 of us and no leftovers. Saved a step by not heating up chicken broth and used 2 c of broth (as liquid amount on rice directions) instead of the called-for doubled amount of 1 1/2. Added margarine when added broth. Simmered for 20 min."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nicole Rankins"
+},
+"reviewBody": "awesome dish"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "MissGT"
+},
+"reviewBody": "I thought it was great but my mom thought it was bland. My husband gobbled it up. Two out of three people means it's good by me. I'll definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "PBODEK"
+},
+"reviewBody": "Very good dish. I didn't have chicken stock so I used chicken broth. I also added a can of mushrooms as another reviewer suggested. I will make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "coop0582"
+},
+"reviewBody": "This was my first time making basmati rice. I followed the instructions exactly and the rice will still under cooked after 20 minutes. I added more stock and cooked it longer but it still didn't seem to cook thoroughly. I ended up burning it and threw it out. The basic cooking instructions on the bag said to cook it 40 minutes and this recipe said to cook it only 20 minutes. Either I needed more stock or longer time. Not sure but will definitely try again as I did like the flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cooking41"
+},
+"reviewBody": "Absolutely delicious, and the secret to it is using basmati rice. It cooks up perfectly, and doesn't leave you feeling bloated, as happens with other types of rice I have used. I added some minced garlic to the onions and bay leaf, and a touch of black pepper. I used chicken stock this time, and plan to use the beef stock in the future if it goes with a beef dish. Many thanks, Carol, for sharing this with us."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Leslie"
+},
+"reviewBody": "I needed a lot more stock than called for."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "katkohr"
+},
+"reviewBody": "Not too fancy, which pleased the kids. not too bland, which pleased me and hubby! great basic recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Idaho_Born"
+},
+"reviewBody": "Yum, yum yummy! So easy and delicious! First time I've made this and I followed the recipe exactly. I love to read the reviews so I can get ideas for jazzing up the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Helen"
+},
+"reviewBody": "Good basic dish. I did add some red pepper and garlic to spice it up a bit. Family enjoyed it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Deb C"
+},
+"reviewBody": "This pilaf makes a wonderful side dish. Its flavor will not overshadow the main dish, but can easily be adjusted if you would like a pilaf with more jazz. This is a good, basic pilaf. I used my homemade chicken broth which is more flavorful than the store bought kind, and used butter instead of vegetable oil for sautéing the onion. I chose this recipe to use up some nearly empty packages of rice, so this was a combination of basmati rice and long grain white rice, and it worked out very well. Thanks Carol for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "AprilD"
+},
+"reviewBody": "Great basic recipe!! I added some garlic and red peppers to the onion mixture and pepper with the salt. It was a hit with the family! Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tmv"
+},
+"reviewBody": "I make basmati rice all the time and this pilaf was wonderful with chicken, chops, all kinds of things. It is also very easy to make. I cook exactly as stated and its fab."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "terriyaki2"
+},
+"reviewBody": "Yep, this is basic but, it is good and works. Basmati can be a challenge sometimes and this was perfect. :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jbooshey"
+},
+"reviewBody": "Very simple dish, but good enough to go along with a number of main entrees."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "naples34102"
+},
+"reviewBody": "There's nothing wrong with this but it's really nothing more than rice cooked in broth with a little onion added. Fairly basic, average and nondescript. I used butter for flavor rather than vegetable oil and added peas, red bell pepper and a pinch of saffron to jazz it up a bit."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary Jane"
+},
+"reviewBody": "Easy and fast... What's not to like."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "GINAH1"
+},
+"reviewBody": "Very good-even my two four year olds, who are very picky eaters, loved this."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah Jo"
+},
+"reviewBody": "I used butter instead of vegetable oil and beef broth instead of chicken (I made meat loaf with beef, I wanted to match all the flavors of dinner together). I also threw in one minced clove of garlic in with the onion. The rice turned out great, the family ate every bit of it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "BLESSINGS4CHANDA"
+},
+"reviewBody": "This is a good basic recipe but I made the mistake of making it with brown basmati rice which I've found out take much more water to cook properly. I followed the recipe and luckily checked on it while it was simmering and found that all of the water was gone and the rice had started to burn. I added more liquid and was able to save the dish. It took much longer to cook though also. Lesson learned. I would give it more stars if not for this mishap."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hannahkatharine"
+},
+"reviewBody": "This was a very good rice pilaf recipe. These are the changes I made: I added about 1 teaspoon of tomato paste and 1/2 teaspoon of curry powder."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tmstewie"
+},
+"reviewBody": "Best recipient ever. Not too fancy but a wonderful change to a plain side dish. Great flavour especially if you caramelize the onions"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jordan's Wife"
+},
+"reviewBody": "Really yummy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sherbear1"
+},
+"reviewBody": "This was my first time making basmati rice and it turned out great. I usually use chicken stock in my regular rice and the bay leaf added great flavor. Thanks for sharing, will be using this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "It's A New Day"
+},
+"reviewBody": "Pretty basic recipe. I would normally have added a can of mushrooms but wanted to follow the recipe more closely the first time. I did however use beef broth instead of chicken because that goes with the rest of dinner better. Thanks!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/220673/basmati-rice-pilaf/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/224/side-dish/rice/",
+"name": "Rice Side Dish Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/14364/side-dish/rice/pilaf/",
+"name": "Pilaf"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/220673/basmati-rice-pilaf/",
+"name": "Basmati Rice Pilaf"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

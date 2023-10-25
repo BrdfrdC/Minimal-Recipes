@@ -1,0 +1,243 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe"]
+,"headline": "Panini Sandwiches"
+,"datePublished": "2018-06-08T10:06:09.000-04:00"
+,"dateModified": "2023-01-16T16:17:19.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Marzetti"
+,"url": "https://www.allrecipes.com/cook/marzetti"
+}
+]
+,"description": "Turkey and Swiss cheese panini with sundried tomato mayonnaise made with dinner rolls are quick and delicious!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/RIoiiLP3S-aXAnVODAHiy3t9BPg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Panini-Sandwiches-4x3-1-2000-0e4f4d4dda5e4fb795168e7d3af1b8b2.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Panini Sandwiches"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.4",
+"ratingCount": "8"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "464 kcal"
+,"carbohydrateContent": "41 g"
+,"cholesterolContent": "60 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "17 g"
+,"saturatedFatContent": "10 g"
+,"sodiumContent": "742 mg"
+,"sugarContent": "7 g"
+,"fatContent": "27 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"4 Sister Schubert's Dinner Yeast Rolls, split",
+"4 slices roast turkey or ham",
+"4 slices Swiss, Monterey Jack, or Gruyere cheese",
+"8 small slices red onion",
+"1 cup fresh spinach leaves or several fresh basil leaves",
+"Salt and freshly ground black pepper",
+"Butter",
+"0.25 cup mayonnaise",
+"2 finely chopped sundried tomatoes",
+"Salt and freshly ground black pepper" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat grill pan or panini machine to medium heat."
+} ,{
+"@type": "HowToStep"
+,"text": "Spread center of each roll with 1 tablespoon mayonnaise. Assemble sandwiches with remaining ingredients, except butter. Season with salt and pepper."
+} ,{
+"@type": "HowToStep"
+,"text": "Spread small amount of butter on top and bottom of each roll; place sandwich either in pan on onto panini machine and grill. Cook 5 to 7 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "(If using a pan, press sandwich down with a pan lid. Cook sandwiches about 3 to 4 minutes on each side or until bread is toasted.)"
+} ,{
+"@type": "HowToStep"
+,"text": "For mayonnaise: whisk all ingredients together in small bowl. Refrigerate until ready to use."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT20M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "France C"
+},
+"reviewBody": "I went with smoked ham and Swiss cheese and thought these were pretty good. I loved the sundried tomato mayo. If you use dry-packed tomatoes (instead of oil-packed), you will want to rehydrate them in boiling water for 5-10 minutes. The only thing I would change next time is the bread. I wasn't a big fan of the Sister Schubert's rolls - they have an odd sweetness to them. These are small sandwiches due to the size of the rolls, about slider size, so take that into consideration. I made them a second time with a sriracha mayo instead of sundried tomato, and they were just as tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nancy Gray Hubler"
+},
+"reviewBody": "The only change I made was small, I combined both the ham and turkey, otherwise I kept it the same, it was excellent."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marcia "
+},
+"reviewBody": "I made this vegan by using vegan mayo &amp; Daiya-brand provolone &amp; Tofurkey-brand cheese &amp; meat. The bread I used was La Brea “French dinner rolls” found in our grocery bakery. I set the sandwiches in a large cast iron skillet heated to medium &amp; placed a second (slightly smaller) cast iron skillet in top of them. They got 3 1/2 minutes each side. Even tho the tops of the rolls were round, this worked well &amp; they were delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Katrina Capella"
+},
+"reviewBody": "This went over well with everyone. I switched the bread to French Baguettes, delicious canvas for the mayo! I added garlic salt and Cavenders no salt to the mayo mix, and combined with everything else it rocked. I give it 4 stars because standing alone I don't think it would have been as good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Veronica"
+},
+"reviewBody": "Loved this sandwich, quick and easy to make. I used whole grain ciabatta bread, Colby and Monterey Jack cheese, ham, turkey and spinach leaves. I didn't try the sun dried tomato mayonnaise but I will on my next shot. My eleven year old said this is a keeper and told me to save it to the favorites."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rex Hutcheson"
+},
+"reviewBody": "Great recipe, although the sauce is a little sweet."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "deb201"
+},
+"reviewBody": "Delicious! I used a whole wheat sandwich roll for me and whole grain sandwich bread for the kids. We all loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "missrochester"
+},
+"reviewBody": "I LOVED THE IDEA OF THIS PANINI!!I USED WHAT I HAD ON HAND i USED A LOAF OF HOMEMADE BREAD INSTEAD OF ROLLS,I USED SWISS CHEESE,ADDED SOME ROASTED RED PEPPERS AND USED TURKEY AND HAM!! DELICIOUS!! MY HUSBAND AND I REALLY ENJOYED THIS! I LOVE TRYING DIFFERENT RECIPES AND GETTING NEW IDEAS THANK YOU FOR SHARING!!!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/230181/panini-sandwiches/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/",
+"name": "Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1642/everyday-cooking/",
+"name": "Everyday Cooking"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/230181/panini-sandwiches/",
+"name": "Panini Sandwiches"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,160 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Best BLT Chicken Panini"
+,"datePublished": "2020-09-18T20:42:18.000-04:00"
+,"dateModified": "2020-09-18T20:42:18.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "lutzflcat"
+,"url": "https://www.allrecipes.com/cook/lutzflcat"
+}
+]
+,"description": "Transform an ordinary chicken panini into a gourmet sandwich by adding the classic BLT ingredients."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/5Yd1Jt4eGyaYGkxboR9Gfm_RBN4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8555212-073143ef3148449793c0d15f9d52cbb6.jpg",
+"height": 1000,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Best BLT Chicken Panini"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "2"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "705 kcal"
+,"carbohydrateContent": "63 g"
+,"cholesterolContent": "103 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "45 g"
+,"saturatedFatContent": "10 g"
+,"sodiumContent": "2531 mg"
+,"sugarContent": "4 g"
+,"fatContent": "28 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"4 slices bacon",
+"1 tablespoon mayonnaise",
+"4 slices ciabatta bread",
+"8 ounces deli-sliced roasted chicken",
+"2 slices Swiss cheese",
+"2 leaves lettuce",
+"4 slices tomato, or to taste",
+"cooking spray" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, 6 to 8minutes. Drain bacon slices on paper towels."
+} ,{
+"@type": "HowToStep"
+,"text": "Spread mayonnaise on one side of the 4 slices of bread. Layer chicken slices, Swiss cheese, lettuce, tomato, and bacon, in that order, over 2 slices of bread. Place the remaining 2 bread slices on the top, mayonnaise side down."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat a panini press over medium-high heat and coat with cooking spray. Place sandwiches inside. Cook until heated through and the cheese starts to melt, 5 to 7 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Cut panini in half and serve immediately."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT25M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lynne Bamford"
+},
+"reviewBody": "I had forgotten about my panini machine and this was a great reminder about how great a sandwich this makes. Loved the combination of flavours and easy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ann Becker"
+},
+"reviewBody": "I just purchased a 6-in-1 griddle and this was the first thing I made on it. This panini was absolutely amazing! I used ciabatta buns, and followed the layering exactly. The second time I made it, I added some sliced pepperoncinis to add some extra zip. It’s five stars as is and the options and additions are endless."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/281659/best-blt-chicken-panini/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/92/meat-and-poultry/",
+"name": "Meat and Poultry"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/205/meat-and-poultry/pork/",
+"name": "Pork"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/281659/best-blt-chicken-panini/",
+"name": "Best BLT Chicken Panini"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

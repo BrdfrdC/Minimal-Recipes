@@ -1,0 +1,197 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Traditional Beef Samosas"
+,"datePublished": "2020-02-19T01:50:29.000-05:00"
+,"dateModified": "2022-01-07T10:48:56.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "CaraMeg"
+,"url": "https://www.allrecipes.com/cook/2962475"
+}
+]
+,"description": "Coriander, garam masala, and cumin are just a preview of the many spices that flavor these beef samosas made with wonton wrappers."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/0xRtYqyuIzl7dfFZxCQRZdynZtQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5832250-1716a2d5f8454a69bc71bd7b049b095f.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Traditional Beef Samosas"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4",
+"ratingCount": "4"
+}
+,"cookTime": "PT40M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "94 kcal"
+,"carbohydrateContent": "10 g"
+,"cholesterolContent": "13 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "5 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "154 mg"
+,"sugarContent": "1 g"
+,"fatContent": "4 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT25M"
+,"recipeIngredient": [
+"1 pound lean ground beef",
+"1 medium onion, finely chopped",
+"2 garlic cloves, crushed",
+"2 teaspoons ground coriander",
+"1.5 teaspoons ground cumin",
+"0.5 teaspoon salt",
+"0.5 teaspoon ground turmeric",
+"0.5 teaspoon chile powder, or more to taste",
+"0.25 teaspoon ground ginger",
+"1 teaspoon garam masala",
+"1 (6 ounce) package frozen peas",
+"0.5 cup water",
+"1 tablespoon minced pickled jalapeno pepper",
+"1 tablespoon lemon juice",
+"1 (12 ounce) package wonton wrappers",
+"vegetable oil for frying" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat a large skillet over medium heat. Add ground beef, onion, and garlic; cook until beef is browned and crumbly, 5 to 7 minutes. Reduce heat to low."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix in coriander, cumin, salt, turmeric, chile powder, and ginger. Add peas and water; bring to boil. Cover and simmer, stirring occasionally, about 25 minutes. Uncover and cook over medium heat, stirring frequently, until any remaining liquid evaporates."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir jalapenos and garam masala into the beef mixture. Remove from heat and stir in lemon juice; let cool until safe to handle, at least 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Drop about 1 tablespoon of the beef mixture onto the center of a wonton wrapper. Moisten edges with water, fold them over the filling, and seal. Repeat with remaining filling and wonton wrappers."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat about 1/2 inch oil in a large saucepan over medium-high heat. Add samosas in batches; fry until browned, 1 to 2 inches per side."
+} ]
+,"recipeYield": ["24"]
+,"totalTime": "PT80M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Arko A"
+},
+"reviewBody": "Samosa never have beef because Indians don't eat beef! This is not an official Indian dish, but I don't care"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ChefForFun"
+},
+"reviewBody": "I love this recipe! Only changes were I used jarred minced goner and garlic, and used ground beef/pork blend (all I had on hand). Omg, you would never notice there was pork in it. \n\nMy first bite I thought the flavour a bit mild but a couple spoonfuls later I discovered it is spot on. Just enough spice to make your mouth warm but not so much that you're running for the milk lol. I will definitely be making this again soon!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "amy"
+},
+"reviewBody": "Pretty good. Lots of work; the spices were a bit overwhelming, but all in all, pretty good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "MommaBean3"
+},
+"reviewBody": "I’ve always wanted to try Samosas and what better way to try them than to make them! These definitely did not disappoint. The only change that I made was using a 1/2 tbsp instead of the full tablespoon, because the won tons were breaking from being too full. Either that or use egg roll wrappers instead of the won tons."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/268315/traditional-beef-samosas/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/76/appetizers-and-snacks/",
+"name": "Appetizers and Snacks"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/113/appetizers-and-snacks/pastries/",
+"name": "Pastries"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/268315/traditional-beef-samosas/",
+"name": "Traditional Beef Samosas"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

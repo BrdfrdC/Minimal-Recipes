@@ -1,0 +1,958 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Best Brioche French Toast"
+,"datePublished": "2020-06-19T00:18:21.000-04:00"
+,"dateModified": "2022-09-05T14:36:21.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "ABC123"
+,"url": "https://www.allrecipes.com/cook/7256423"
+}
+]
+,"description": "The best brioche French toast, pan-fried and then finished in the oven, topped with browned butter and maple syrup. An easy yet decadent brunch dish."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/CuAlNv2qtSFQPEIelZHUTAspFWs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4457741-7ca243f74a1f43a8a78bcdf6dc4face8.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Best Brioche French Toast"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "78"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "732 kcal"
+,"carbohydrateContent": "80 g"
+,"cholesterolContent": "339 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "21 g"
+,"saturatedFatContent": "15 g"
+,"sodiumContent": "721 mg"
+,"sugarContent": "33 g"
+,"fatContent": "37 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1.5 cups milk",
+"4 large eggs",
+"1 teaspoon vanilla extract",
+"1 teaspoon white sugar",
+"0.5 teaspoon ground nutmeg",
+"1 pinch salt",
+"1 tablespoon butter, divided, or more as needed",
+"6 (1 inch) thick slices dry brioche bread",
+"0.25 cup butter",
+"6 tablespoons maple syrup, or more to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk milk, eggs, vanilla, sugar, nutmeg, and salt together in a bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat 1 1/2 teaspoons butter in a skillet over medium heat. Working in batches, dip each slice of brioche bread in the egg mixture and cook in the hot butter until golden, 2 to 3 minutes per side, adding more butter as needed. Transfer French toast to a baking sheet."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until puffed, 8 to 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook and stir 1/4 cup butter in a skillet over medium-low heat until browned and toasty, 3 to 5 minutes. Transfer browned butter to a cold dish. Drizzle browned butter over baked French toast and top each slice with 1 tablespoon maple syrup."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT35M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I used cinnamon instead of nutmeg the brioche bread was moist and Lil sweet."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Emilie Avenson-Allen"
+},
+"reviewBody": "Changed to cinnamon and maple flavor. Awesome!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "aizausa20"
+},
+"reviewBody": "HELLO CHEF ,HERE I am with a great good news for you about the khal.com a cooking land for cooking kings and queens like you.??"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jean Carlton"
+},
+"reviewBody": "I liked using the brioche...gave a slightly \ndifferent texture and flavor. I would add more nutmeg next time and maybe add cinnamon. I used almond flavoring. I got 10 slices with this amount of egg mixture. I did more than 'dip' but maybe would soak a bit longer on a 1\" slice. Loved using the oven for extra heating and allows us to all eat together."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Madeline Diaz Gonzalez"
+},
+"reviewBody": "The best french toast!!! Deliciosas!!!! Siempre hago sus recetas!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TRICIA"
+},
+"reviewBody": "Turned out great. A nice crunch on the outside and soft on the inside. I used cinnamon instead of nutmeg, I like cinnamon French toast. This recipe also makes much more than 4-6 slices. I used an entire loaf of brioche and still had some left over. Don’t skip the toasting or drying out of the bread, I think that’s the key to a nice crunch on the outside."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Elena Echeverry"
+},
+"reviewBody": "One of the best French toast bakes I’ve done. Very easy and simple... my family absolutely enjoyed it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anthony Cerino"
+},
+"reviewBody": "Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "jeanne s"
+},
+"reviewBody": "WAY too much milk – it made a soggy wet mixture and then soggy wet French toast. Not sure what I did wrong but I followed the recipe. I did check around and found another recipe calling for ¼ cup milk (not 1.5 cups milk) for 4 not 6 slices, 3 (not 4) eggs (which is basically the same) and twice the vanilla for 1/3 fewer slices of bread. And no nutmeg. But I think the issue was way too much milk. I loved the idea of baking but either I didn’t cook long enough on the stovetop first or it was just too wet a mixture due to the milk."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "tatorsaladno.1"
+},
+"reviewBody": "very good.. added couple of shakes of cinnamon"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Melanie Nance"
+},
+"reviewBody": "What the heck is dry bread? I guess I should’ve read the reviews first. Wasted my loaf of yummy brioche for a soggy toast mess. After reading reviews, my bad I guess... I didn’t know “dry bread” was a thing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christine Gillespie"
+},
+"reviewBody": "My family loves this recipe and I love that everyone's French toast is ready at the same time so I'm not sitting down when everyone else is finished. Husband says it's the best French toast he's ever had."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "TeamJK"
+},
+"reviewBody": "I made this as written with one difference. I put my bread in the oven on the rack as it preheated since I did not dry the bread slices overnight. Soaked each piece and set on electric skillet set to 325 for 4 minutes each side. Transferred to pan and cooked 9 minutes. Puffed up beautifully. Taste is very “eggy”. I put it back in the oven for 4 more minutes thinking it was underdone. Still tastes “eggy”. It possibly could have soaked in the mixture too long or something but it was not (in my humble opinion) outstanding. Thank you for posting the recipe though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Holly Laguna Christensen"
+},
+"reviewBody": "AMAZING!!! The addition of a brown butter drizzle at the end is genius. I used Trader Joe’s Brioche for this recipe, and added cinnamon to the egg mixture. The only thing that I will do next time, is cut the eggs and milk in half....I had enough to dip another 8 slices."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lorimccar"
+},
+"reviewBody": "After reading 50+ reviews, I followed the advice of reviewers &amp; here are the changes I made: 1/2 cup half &amp; half, pinch of nutmeg &amp; a scant 1/8 tsp. cinnamon. This was the perfect amount of custard for 6 - 1\" slices of Brioche. I sliced the bread &amp; left it out overnight &amp; also made the custard the night before &amp; put it in the fridge so the flavors could meld together - the flavor was outstanding!\nWhat a wonderful recipe! We almost always choose pancakes or Belgium waffles for our once a month indulgent breakfast, but saw this recipe &amp; decided to give it a try. My husband, who is not a French Toast guy thought this was \"wonderful &amp; spectacular\"! \nThe browned butter was such a great layer of flavor which perfectly complimented the sweetness of the syrup. We will be making this in 2 weeks for visiting family. As to the bread puffing up, some did, some did not - who cares! All was absolutely delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Evan Polk"
+},
+"reviewBody": "Yup turned out right."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Dinosammy"
+},
+"reviewBody": "I didn't have brioche, so I used plain bread...It was fine, but the type of bread probably makes all the difference...\nI will make some brioche and try it again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "monalisaescapes"
+},
+"reviewBody": "BEST. FRENCH. TOAST. EVER."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Roberta Cermak"
+},
+"reviewBody": "delicious, French toast is always best using brioche!!! Yummy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Vance"
+},
+"reviewBody": "Didn't dry out the bread first and substituted cinnamon for the nutmeg. Also sprinkled powdered sugar on top when it was done baking. I did a Google search for French toast the morning of making it, so I didn't have time to dry out the bread. We all loved the French toast and I would definitely make it again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Susanne Zeiders"
+},
+"reviewBody": "This was good, but it lacked in flavor that other recipes have had. I will make again, but with some adjustments."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lace"
+},
+"reviewBody": "I use heavy cream instead of milk. I use brown sugar instead of white sugar. I use kosher salt instead of table salt. There was more than enough batterthan stated. I ended up making a whole loaf of french toast. I also made strawberry compote instead of the maple syrup! It was deliciousness!!! I will use this recipe out again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KJones"
+},
+"reviewBody": "This recipe was delicious! We had it as part of our family Easter brunch and everyone was super excited. Just added fresh fruit, whipped cream and pecans as yummy extras."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Debby Durrett"
+},
+"reviewBody": "Excellent!!."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Janina Daly Lee"
+},
+"reviewBody": "Made this with a loaf of pumpkin brioche and it was simply off the hook! Had extra batter so made another batch with cinnamon raisin bread."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ashley"
+},
+"reviewBody": "Using brioche bread is key! I use the base of this recipe, and I alter the ingredients some. I use 3 eggs and 1 cup of milk while still using 1 teaspoon of sugar and 1 teaspoon of vanilla. I can make 12 pieces of French with that combination, with little mixture to waste. I also add cinnamon. After each piece of brioche bread has been dipped on each side, I add more cinnamon and nutmeg to the mixture. Otherwise, the flavors are gone before you finished dipping all of the bread. I don’t do the warm butter at the end. I tell each person to put butter on their own toast and melt it in the microwave if desired. This makes it easier to save leftovers. My family loves when I make French Toast. It’s always a big hit!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "chris"
+},
+"reviewBody": "Top notch tasty. Leave the brioche out overnight! You won’t need as much eggs/milk as recipe calls for but I will make this one again for sure."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sean S."
+},
+"reviewBody": "This is a great recipe! If you follow the directions exactly, you will be very satisfied. The batter has less sugar than most recipes, so if you like a little more sweetness, consider a dusting of powdered sugar and some berries to finish. Wicked good buttery flavor if you’re into that sort of thing (and if you’re looking at this recipe, you are)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Yvette Agosto"
+},
+"reviewBody": "?? absolutely worth the sacrifice!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Patsy Kohles Wilhelm"
+},
+"reviewBody": "Way to much egg mixture and cinnamon instead of nutmeg! I love French toast ANY way!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Christina S"
+},
+"reviewBody": "With the brown butter sauce in addition to the brioche and maple syrup, I just found this too sweet. I think I’d make it again but top it with some fresh fruit instead. I did like the effect of the 10 minute bake on the “toast”."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Made exactly as recipe directed and it was delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tina's Kitchen"
+},
+"reviewBody": "Made exactly as recipe directed and it was delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "crisppey"
+},
+"reviewBody": "Deeeeeelicious! Easy to make. My go to recipe for french toast."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "evelemmons"
+},
+"reviewBody": "Really easy. I did have more than enough egg/milk mixture will reduce next time. Oh I was low on milk so used Promised Land egg nog for half the milk. Great flavour."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Really easy. I did have more than enough egg/milk mixture will reduce next time. Oh I was low on milk so used Promised Land egg nog for half the milk. Great flavour."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "riker26"
+},
+"reviewBody": "There is batter leftover to make more."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stormy"
+},
+"reviewBody": "Definitely will make again. Thinking about making some more right now ."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Tridus"
+},
+"reviewBody": "This french toast is quite good, however you get WAY too much custard for the listed amount of bread. I can use an entire loaf (11 slices) and still have custard left over.\n\nIf you soak it too long to use all the custard up, it takes much longer to cook. Just dip it for 2-3 seconds and it turns out nicely."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ThisEndUp"
+},
+"reviewBody": "I adjusted this for 1 serving and was able to make 2 slices with St. Pierre Brioche from Meijer. I was leary about there being no cinnamon, but omg this French toast was comforting, with a hint of sweet... just what I was hoping for. I only used a half tbsp butter in my nonstick pan and there was a little leftover so I could have a drizzle of brown butter. Perfect treat while on my diet. Weirdly, my brain was tasting bacon even though I made none. Must’ve been like tastebud memory or something. This French toast would be off the chain served with bacon for sure!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Donna Jean Glasgow"
+},
+"reviewBody": "I have made this several times now, and have made it my go-to French toast recipe. As long as I can get the brioche bread from WalMart, I make this recipe exactly as written, beause it is hands down the best French toast I have ever eaten. I did not think ahead to dry my bread out overnight, but I put it in my toaster oven for 15 minutes at 250 degrees, which dried them out and allowed them to soak up the egg mixture. My bread slices puffed up very nicely in the oven, giving them a lovely custard-like texture. I did have some egg mixture left over, so we will happily have French toast again tomorrow! I served it with bacon and orange slices. I liked another reviewers idea of serving with bananas, too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Donna Jean Glasgow"
+},
+"reviewBody": "I have made this several times now, and have made it my go-to French toast recipe. As long as I can get the brioche bread from WalMart, I make this recipe exactly as written, beause it is hands down the best French toast I have ever eaten. I did not think ahead to dry my bread out overnight, but I put it in my toaster oven for 15 minutes at 250 degrees, which dried them out and allowed them to soak up the egg mixture. My bread slices puffed up very nicely in the oven, giving them a lovely custard-like texture. I did have some egg mixture left over, so we will happily have French toast again tomorrow! I served it with bacon and orange slices. I liked another reviewers idea of serving with bananas, too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "reginah"
+},
+"reviewBody": "Definitely a keeper! Made it with some all natural sweet cream coffee mate since I didn’t have enough milk and it was amazing! Baked it about 5-7 min longer then stated as I like slightly crispy bits"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gina"
+},
+"reviewBody": "I won't make french toast any other way! I purchased a loaf of Trader Joe's sliced french brioche to use. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "rrhaney"
+},
+"reviewBody": "Great recipe! We didn't use anywhere near the amount of browned butter and will cut back next time. We used raisin brioche and it was really delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Diana Harmon"
+},
+"reviewBody": "This was my first time to make french toast following a recipe and it did not disappoint. Next time I will reduce the amount of nutmeg a smidge, just for personal preference."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KitkatJohn"
+},
+"reviewBody": "Crispy outside soft inside... so good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sadia R"
+},
+"reviewBody": "Loved the added touch of nutmeg to my favorite winter morning comfort food..I added cinnamon &amp; brown sugar instead of white.. This French Toast is Absolutely Heavenly on the Brioche bread"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Matt Cann"
+},
+"reviewBody": "This recipe is CRAZY overrated. It was OK, but there was absolutely nothing special about it, and I personally didn't like it because of the aforementioned godforesaken nutmeg. What a terrible spice. The quest for the perfect french toast recipe continues.\n\nps, you can get way more slices out of the amount of egg/milk mix that you have."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sheryl McCormick"
+},
+"reviewBody": "Let me start by saying that I love French toast. It's mine and my dad's favorite dish and have tried it at almost every restaurant that has it on their menu. This is hands down the best french toast I have ever had. It wasn't overly sweet or soggy after baking it in the oven. It's delicious. I am just so tickled that I made it at home. I can't wait to make it for my dad."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anthony F"
+},
+"reviewBody": "fantastic! I substituted brown sugar and added cinnamon and 1/4 cup half and half, came out amszing"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ellen"
+},
+"reviewBody": "Best French toast recipe, hands down! I substituted cinnamon for the nutmeg and I omitted the white sugar in the egg batter. Found the sliced Brioche bread at Aldis. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "annette"
+},
+"reviewBody": "Delicious! My family loved it! The browned butter really adds a tasty nutty flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Aaron A"
+},
+"reviewBody": "Not sure what happened. Used brioche bread sliced about 3/4” thick. Followed the recipe and cooked in pan 2 mins one side and 3 the other. Baked for nine minutes. Still raw inside. Baked another eight minutes and still raw inside to the point “eggs” were squishing out as I pressed it with my fork. The flavor was decent even though I missed the cinnamon. Maybe my bread was too thick but I didn’t have time to bake for an hour to get it cooked when everyone was expecting to eat in 20 minutes. Very disappointing and a waste of good brioche. Breakfast was a banana this morning."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "vita"
+},
+"reviewBody": "Amazing recipe and no doubt the brioche is key. I followed the recipe to a T and just added a dash of cinnamon. I was not disappointed. I served it up Christmas morning with maple syrup and sliced bananas. Perfect!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Barbara Dudley Eisenhower"
+},
+"reviewBody": "Absolutely the best French toast recipe ever!!! Easy and delicious. I also used a dash of cinnamon in my egg mixture, it adds more flavor. Also, don’t skip the browned butter, it literally makes this recipe! (Watch your butter so it doesn’t burn, when the whey on the bottom of the pan is golden brown, take it off the burner and immediately pour it into a bowl, doing this stops the cooking. Mixed with the syrup, it’s out of this world!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "shellito1012"
+},
+"reviewBody": "Have to add to the rave reviews. I made this this morning in my family told me to throw away all my other recipes for French toast. The brioche that I had was very moist so I put it on a cookie sheet and dried it in the oven for about five minutes on each side 170°. I probably could’ve done this a little longer. We did six slices of Brioche and had about half of the mixture left over so next time will cut that in half. I also did not have nut Meg on hand as we were traveling so I use cinnamon instead. My French toast also did not perfect but it didn’t make a difference to us. The brown better with the syrup combination was over-the-top. Thank you so much for posting a wonderful recipe that my family will enjoy for years to come."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle Miller Coursen"
+},
+"reviewBody": "My bread really didn't puff up, but it was delicious! Now will this recipe taste as good with regular bread?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "My Stir Crazy Kitchen"
+},
+"reviewBody": "I found sliced brioche at Trader Joes. The batter was enough to make the entire loaf (10 slices). The entire family loved it. It was very quick and easy. I loved the addition of browned butter."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "brenna"
+},
+"reviewBody": "Awesome recipe! I made it for my family and they absolutely loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jocelyn"
+},
+"reviewBody": "This was fabulous. I made it with Challah bread since it's what I had on hand. Since I didn't have time to dry out my bread, I roasted it in the oven. I will definitely be making this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "thedailygourmet"
+},
+"reviewBody": "My bread never did puff up from being in the oven, but I didn't care it was delicious! I never would've thought the brown butter would be so rich and flavorful!!! Yum!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah Murray"
+},
+"reviewBody": "I think my bread was not dried out enough. Other than that, I would have never thought of browned butter over french toast. The flavors with syrup, divine!\nThis is the best french toast I have ever had so far!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/255531/best-brioche-french-toast/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/78/breakfast-and-brunch/",
+"name": "Breakfast and Brunch"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/149/breakfast-and-brunch/french-toast/",
+"name": "French Toast Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/255531/best-brioche-french-toast/",
+"name": "Best Brioche French Toast"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

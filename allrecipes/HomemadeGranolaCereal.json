@@ -1,0 +1,172 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Homemade Granola Cereal"
+,"datePublished": "2020-03-05T00:10:28.000-05:00"
+,"dateModified": "2022-01-14T01:25:31.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "CookingZach"
+,"url": "https://www.allrecipes.com/cook/zjakob"
+}
+]
+,"description": "This is a great homemade granola recipe that is easy to prepare and delicious to eat!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/LPeXhYkBKwoh1XY7pxkVi0qbgh0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1364384-0d07a3f9ec3d40c0aee76fe7ec168584.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Homemade Granola Cereal"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "2.7",
+"ratingCount": "3"
+}
+,"cookTime": "PT25M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "332 kcal"
+,"carbohydrateContent": "55 g"
+,"fiberContent": "6 g"
+,"proteinContent": "8 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "180 mg"
+,"sugarContent": "25 g"
+,"fatContent": "11 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"4.5 cups rolled oats",
+"2 cups whole wheat flour",
+"1.25 cups honey",
+"0.75 cup wheat germ",
+"0.5 cup chopped raw cashews",
+"0.5 cup chopped raw almonds",
+"0.33333334326744 cup vegetable oil",
+"0.25 cup flaked coconut",
+"2 tablespoons brown sugar",
+"1 teaspoon vanilla extract",
+"1 teaspoon salt" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat oven to 250 degrees F (120 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix oats, flour, honey, wheat germ, cashews, almonds, vegetable oil, coconut, brown sugar, vanilla, and salt together in a large bowl; spread onto a baking sheet."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in preheated oven for 15 minutes, stir, and increase heat to 325 degrees F (165 degrees C). Continue cooking until the granola is golden brown, about 10 minutes more. Cool granola completely before storing in an air-tight container."
+} ]
+,"recipeYield": ["16"]
+,"totalTime": "PT35M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I use many of Allrecipes but unfortunately this one failed. It was doughy, not crunchy at all. I didn't use old ingredients and followed every step in the recipe. We ended up throwing it out."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Olivia"
+},
+"reviewBody": "I was a little concerned with how this granola would turn out because of another review I read, but decided to give it a try anyway. Having 6 kids and not a lot of free time, I was quite pleased with how easy it was to put together. (I did have to mix with my hands to get the wet ingredients fully incorporated with the dry, but that's something I'm sure my kids will love doing in the future.) Also, I decided to bake the granola on two pans instead of just one. Even though I still added about 15-20 minutes (or so) to the bake time, I did notice a kind of \"doughy\" texture, as mentioned by the other reviewer. However, by the time it cooled completely, it had hardened and had a nice crunch. I would recommend making sure the pieces are to your preferred size before it cools completely, otherwise, they can be a bit hard to eat in cereal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "guruji"
+},
+"reviewBody": "There must have been 8c of cereal before cooking. I put it on a 14x18 cookie sheet to cook and I cooked as per directions. After the 25 min the cereal was still very doughy. I expect granola cereal to be crunchy; it generally is. I continued to stir and cook, turning the heat down from 325 to 250 again, to prevent burning. I cooked it for one hour. I had spent 2hrs with this recipe and it still wasn't ready. By 11pm I had to go to bed and it still was not crunchy. I left it in the oven overnight with the oven with light on and the oven door open. In the morning, the cereal was crunchy and quite dark, but not burned, however, it was on the edge of being overdone."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/232084/homemade-granola-cereal/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/145/breakfast-and-brunch/cereals/",
+"name": "Cereals"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1311/breakfast-and-brunch/cereals/granola/",
+"name": "Granola Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/232084/homemade-granola-cereal/",
+"name": "Homemade Granola Cereal"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

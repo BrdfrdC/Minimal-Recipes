@@ -1,0 +1,548 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Salmon Ceviche"
+,"datePublished": "2020-06-18T23:27:04.000-04:00"
+,"dateModified": "2021-06-27T15:38:00.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Sarah Z"
+,"url": "https://www.allrecipes.com/cook/699815"
+}
+]
+,"description": "Thin slices of salmon lounge in a citrus, cilantro and garlic marinade for four hours before being served with chips, rice or tortillas as a salmon ceviche."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/_53ihKo0PfedPC-Vbyf-Hfy7WE0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9268541-333fedc62bb34cf4afd7ac58dad60426.jpg",
+"height": 1501,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Salmon Ceviche"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "3.7",
+"ratingCount": "35"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "288 kcal"
+,"carbohydrateContent": "6 g"
+,"cholesterolContent": "45 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "16 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "2253 mg"
+,"sugarContent": "2 g"
+,"fatContent": "23 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT25M"
+,"recipeIngredient": [
+"0.25 teaspoon white sugar",
+"2.5 tablespoons sea salt",
+"0.5 teaspoon chili paste or sauce",
+"0.25 cup fresh lime juice",
+"0.25 teaspoon fresh ground pepper",
+"0.25 teaspoon cumin",
+"0.25 cup extra virgin olive oil",
+"1 clove garlic, minced",
+"0.25 cup minced red onion",
+"1 ripe tomato, finely diced",
+"2 tablespoons minced fresh cilantro",
+"1 pound very fresh salmon fillets (sushi-grade preferred), thinly sliced",
+"1 avocado, sliced" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "In a large glass or plastic bowl, dissolve the sugar, salt, and chili paste in the lime juice. Season with pepper and cumin. Stir in the olive oil, garlic, onion, tomato, and cilantro. Gently mix in the salmon, then cover, and refrigerate for 4 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "To serve, drain the excess liquid from the salmon, then gently stir in the avocado slices, and allow to rest at room temperature for 15 minutes."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT265M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "You obviously mixed up your measurements on salt. I put in 1/3 the salt you called for because I thought it was insane and it was still so salty it ruined a batch of sushimi grade wild salmon! This recipe needs to be corrected! Unacceptable. Ruined high quality ingredients and my family's dinner."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Yoly"
+},
+"reviewBody": "I’m glad I read some reviews. I cut the salt down to 1 tsp and that was plenty. I didn’t have an avocado so I added cucumbers. Never had salmon ceviche but I will from now on. Thanks for the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "gabby"
+},
+"reviewBody": "Less salt. Used more lemon than lime, added cucumber and Tajin, garlic salt and powder instead of garlic and no sugar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Michael McHenry"
+},
+"reviewBody": "2 1/2 TABLESPOONS of salt? 2,200mg of salt? This recipe should come with a health warning....meanwhile, I wasted a pound of perfectly great sushi great salmon. Live and learn."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "signing_meggs"
+},
+"reviewBody": "Tooooo much salt! I could only take 2 more bites after trying to add more tomato, sugar, and lime juice to try and remedy the onset of high blood pressure. I’m not sure it is salvageable, which is a shame with salmon. We’ll see in a bit if the extras I just added in are able to balance it out. I should have red the reviews first, 2.5tbs if salt is wasaaaaay to much for 1lb of salmon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Joe Ekiert"
+},
+"reviewBody": "Hopefully you won't be like me and you'll have read the reviews. I made this with 2.5 tablespoons of salt and it did not come out that great.\n\nWhile I love salt, even I couldn't eat too much before having to take a break."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Miss757"
+},
+"reviewBody": "Too salty, but otherwise it was alright."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jb"
+},
+"reviewBody": "Call for way too much salt"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Denise"
+},
+"reviewBody": "Way too salty, I think there might be a problem with the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Fred Webber"
+},
+"reviewBody": "I followed the recipe exactly with fresh salmon it was not too salty for me I thought it was just about right, Will make it again when I get some fresh fish I think that's the whole secret"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ward"
+},
+"reviewBody": "great recipe excepting the salt. Only use 1/2 teaspoon. The 2.5 tablespoons salt is obviously a typo."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Baja Ed"
+},
+"reviewBody": "Freakish amount of salt, not needed,nor typical of ceviche. Try teaspoons instead of table spoons. Try marinating in lime juice,salt, sugar. THEN DRAIN. MX WITH REMAINING INGREDIENTS AFTER. Allow to meld flavor 15-30 min.\nHey, in Baja, we know ceviche. Trust me."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Robin Goodheart"
+},
+"reviewBody": "I reversd the measurements of sugar and salt. It made a world of difference.."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "mjhunt"
+},
+"reviewBody": "I have never eaten ceviche before. I still have never really tasted it because following this recipe it was TOO salty to eat. I will try again with maybe a quarter of the sea salt because it does seem very yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "LordGary"
+},
+"reviewBody": "The taste of the salmon was too overpowering and fishy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Lirsai"
+},
+"reviewBody": "Flavor is good just needs only 1/2 tbs of salt. I tried the recipe with only 2 tbs instead of the 2 1/2 tbs it asks for and it was way too salty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Elspeth Moffatt"
+},
+"reviewBody": "I made this a second time and reversed the sugar and salt quantities. AWESOME. Definitely a new favorite. I did salt to taste a little at the End to really make the flavors pop. But this is a fantastic dish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "G"
+},
+"reviewBody": "Great recipe after the sugar/salt adjustments, I added 1/4 c. diced cucumber for another crunch. Next will try with shrimp."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "kbateman"
+},
+"reviewBody": "CHANGE salt measurement, please! I made the mistake of not reading reviews before making this. Though I cut back to 1 1/2 Tb. salt (on a hunch that 2 1/2 could not be right), it was still way, way too salty. Fixed it by diluting with more lemon &amp; lime juice. Appropriate amount is probably more like 1/4-1/2 tsp as others note. So to prevent future mistakes, could Sarah Zeigler please edit the recipe? Otherwise, it's divine! Agree with other reviewers who recommend alternative fish, if desired. Also nice to add diced green/red peppers."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Connie"
+},
+"reviewBody": "Would like to add to my previous review. I just assumed the salt was an error and cut the amount way down."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Toby Garcia"
+},
+"reviewBody": "Be very careful with this recipe. I really think the uploader meant to put teaspoon instead of tablespoon, either way I cut the salt in half and it still was extremely salty.\n\nI added mango, peach and bell pepper as that is what the ceviche's I've had in the past used and it helped to absorb the salt. All in all it's a great combination of flavors but the salt is overbearing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "SWEETJAM"
+},
+"reviewBody": "We really liked this recipe. I followed another reviewer and used flash frozen wild caught salmon from Trader Joe's. it worked great. I used only 1 tablespoon of salt. I actually thought maybe folks were not using sea salt. I did and it was a little on the salty side with a tablespoon. Secondly I will chop up the salmon next time instead of slicing. It was just weird eating it sliced. I also needed to use 1/4 of lime juice plus two extra limes. A quarter cup was just not enough to \"cook\" the amount of salmon. The taste was spot on and we enjoyed it. Would like to try it with a lot less olive oil to see what happens. Thanks for sharing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Krystal Kinlaw"
+},
+"reviewBody": "Very yummy recipe. Light meal, healthy and very tasty. We changed some of the ingredients but it still came out very yummy, coming from someone who is not a big fish fan either. And super easy to make"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TwilaO"
+},
+"reviewBody": "Fantastic! Thanks to the great reviewers before me, I switched the amounts for sugar and salt, and it was supremely delicious. Fresh, bright flavor and very satisfying."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "just_jam"
+},
+"reviewBody": "i was so disappointed with this recipe.. i reduced the salt like other viewers suggested.. i think the only thing i left out was the cilantro b/c i didn't have any.. so if that was the deal breaker then that's my fault"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Cheffy Dahmer"
+},
+"reviewBody": "I only give this 4 stars because I don't think salmon is a good choice of fish to use in ceviche. It was just a bit heavy and meaty for my taste. I have used a very similar recipe with tilapia and pollock resulting in a more delicate dish. This recipe is very good and I wouldn't hesitate to use a lighter fish with it. Unlike others, I found the salt content perfectly acceptable."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jerry"
+},
+"reviewBody": "The hardest part of this recipe is the four hours you have to wait."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "classyguy86"
+},
+"reviewBody": "I've got a hunch that the first 2 ingredients got swapped, and should instead be 1/4 tsp salt and 2 1/2 tbsp sugar. I did it this way, and it was fantastic!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CreativeCook"
+},
+"reviewBody": "I made the recipe exactly EXCEPT used only 1/2 teaspoon salt, doubled the chili paste to 1 teaspoon and halved the olive oil (2 Tablespoons). It was perfect over spring mix salad greens and makes four one-cup servings. Definitely a keeper with great flavor. Hopefully everyone knows not to put as much salt as the recipe calls for or that will ruin it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "A Davis"
+},
+"reviewBody": "Love it, but way too much salt. Is it a typo? Found I could use almost defrosted wild salmon so have ready in freezer all the time!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "baskerville_gal"
+},
+"reviewBody": "This was so delicious! I have to agree with the other commenter - I think it was too much salt. I understand that ceviche has to be salty to keep bacteria from growing, but this was pucker-your-mouth salty. Maybe just use 1 1/2 tbsp. instead of 2 1/2? That being said, this was a fantastic ceviche, very tasty. The fish \"cooked\" up just fine, and it was so easy to make. We used tilapia since it was cheaper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Great recipe! Thank you:) As stated in previous review the salt is out of proportion. I used the reviewers recommend 1/8 -1/4 tsp sea salt and Old El Paso Guacamole Mix for more kick and found it to be absolutley divine!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/133116/salmon-ceviche/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/108/appetizers-and-snacks/seafood/",
+"name": "Seafood"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/15133/appetizers-and-snacks/seafood/ceviche/",
+"name": "Ceviche Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/133116/salmon-ceviche/",
+"name": "Salmon Ceviche"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

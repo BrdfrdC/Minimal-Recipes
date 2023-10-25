@@ -1,0 +1,989 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Spinach and Banana Power Smoothie"
+,"datePublished": "2017-01-18T23:29:17.000-05:00"
+,"dateModified": "2022-05-23T12:07:50.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Erin Elisabeth"
+,"url": "https://www.allrecipes.com/cook/4584362"
+}
+]
+,"description": "This vegan banana spinach smoothie provides a dairy-free and protein-rich pick-me-up that tastes delicious. It&#39;s easy to blend and take anywhere."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/7fxIkXzDquL8VytxAU0wlEf-OuM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4548861-9766946c2ba1471ca2c8cc51afe1c18b.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Spinach and Banana Power Smoothie"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "80"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "257 kcal"
+,"carbohydrateContent": "47 g"
+,"fiberContent": "6 g"
+,"proteinContent": "10 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "143 mg"
+,"sugarContent": "26 g"
+,"fatContent": "5 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 cup plain soy milk",
+"0.75 cup packed fresh spinach leaves",
+"1 large banana, sliced" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Blend soy milk and spinach together in a blender until smooth. Add banana and pulse until thoroughly blended."
+} ]
+,"recipeYield": ["1"]
+,"totalTime": "PT10M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I love this recipe. It was super easy to make with my portable blender cup I got from www dot theblendaway dot com. They even give a free 50 easy healthy smoothie receipe book with every purchase."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Rebekah"
+},
+"reviewBody": "The flavor was actually better than expected considering it’s just spinach and banana. I used regular milk because that’s what I had on hand. I think next time I’ll add some ice cubes—I like my smoothies to be cold—and also some yogurt or something for a little extra thickness. Overall, not bad. It’s a very plain smoothie and I wouldn’t have it every day but it serves a purpose."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Thomas Herbert"
+},
+"reviewBody": "This was tasty. I did make some minor additions with pea protein, a teaspoon of macha powder, 5 small chlorella tablets, and the tiniest piece of ginger."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I would suggest adding protein powder. Without this adjustment, I could still taste the spinach and it was mildly unpleasant. With this adjusment, its a healthy and a suprisingly yummy drink."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "chickensacred"
+},
+"reviewBody": "Substituted milk for international delight vanilla iced coffee, now I have a banana, vanilla flavored smoothie. Can't taste the spinach and I used a bit more than the recipe called for. I'll be making this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "laquinta3379"
+},
+"reviewBody": "It was GREAT!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cwriter79"
+},
+"reviewBody": "Delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Francelia Delgado"
+},
+"reviewBody": "Its pretty good I made changes I did add spinach, banana, almond milk and oatmeal and it turns out Delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alysha"
+},
+"reviewBody": "Used regular 2% milk and loved it!\n\nIf you’re looking for sweeter, try to use more ripe bananas. You can add some cinnamon too. You could definitely do a cup of spinach with a riper banana as well! \n\nAwesome smoothie :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathy Sims"
+},
+"reviewBody": "Very good...simple."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Olivia P."
+},
+"reviewBody": "It was delicious! I substituted the soy milk for unsweetened almond milk. You can barely taste the spinach (which in my opinion is a good thing.) Best to use a frozen banana to make the smoothie a bit thicker."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rachel"
+},
+"reviewBody": "I also use unsweetened almond milk in place of soy milk. And I add a few strawberries. It's not super sweet but tastes really good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cassandra"
+},
+"reviewBody": "absolutely delicious!!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Casual Stalker"
+},
+"reviewBody": "This was surprisingly tasty! I did use normal cow's milk instead of soy milk, just because that's what I have. The recipe was right that you can't taste the spinach, but I could smell it, which after awhile, became a little off-putting. However, that's probably more of my taste than the recipe. Great smoothie!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SMS"
+},
+"reviewBody": "It was surprisingly delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Danielle"
+},
+"reviewBody": "Delicious! I made a few changes. I used 1 cup of almond milk with a hint of honey brand and 1/2 cup of ice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christina Yabrudy"
+},
+"reviewBody": "Great simple recipe! I used almond milk and added 1 tbsp of flax seeds. Very tasty smoothie!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MOM"
+},
+"reviewBody": "Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "WillKappiah"
+},
+"reviewBody": "This smoothie tastes awesome. I added vanilla protein and substituted soy milk with organic vanilla almond. It is a bit sweet but mmm it tastes soo good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amber Thomas"
+},
+"reviewBody": "It was very tasty, however I added sugar in my smoothie to make it sweeter. I read the reviews and I might have to freeze my bananas to make them my smoothies colder."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Busy bumblebee"
+},
+"reviewBody": "I only add a few slices of apple to it and it taste great!,yes most definitely I'll make it again,it's now my new go to pick me upper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bernard Calzone "
+},
+"reviewBody": "I love it. Simple and delicious. I used unsweetened almond milk though (I don’t drink soy). I will make this daily from now on. Thanks for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shari Amsden Vasquez"
+},
+"reviewBody": "My grandson had a sample of this at his school and loved it. We made it at home and now all of us are enjoying it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Heather Summers"
+},
+"reviewBody": "To make sweeter use apple juice instead of milk."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sparkster01"
+},
+"reviewBody": "Thank you Erin, easy to make and delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "kirar"
+},
+"reviewBody": "Super good! I replaced the soy with 2% milk and added some ice and mint leaves, turned out delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Treva McDermott"
+},
+"reviewBody": "I added a scoop of vanilla protein powder and 1 tbsp of chai seeds. this is a delicious recipe and quick to throw together."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mattwerty"
+},
+"reviewBody": "Added a little honey."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dusty Trisch"
+},
+"reviewBody": "Love it quick and easy. I added oatmeal and applesauce in mine."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stacey Red"
+},
+"reviewBody": "It was a great way to get spinach into my diet. Even gave my banana loving 10 year old nephew a test he really enjoyed it! Banana was ripe frozen for about 1 hour before making. I did add about 1 tsp of honey. Super quick, easy, fresh and healthy all winners! Will try with other fruit combinations!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Karen Pareja Guzman"
+},
+"reviewBody": "I’m not a fan of soy milk so I did it with almond milk and added 2 tbsp of PB2 peanut butter chocolate powder. It came out delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tompayne888"
+},
+"reviewBody": "This base recipe is very good by itself, but it can be modified in many nutritious ways. I add a serving of chocolate whey isolate protein powder to keep from getting hungry before lunch and a mix of chia, hemp and flax seeds for fiber and additional nutrition (Omega 3s, etc.). It is a great way to start the morning!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amy Bean"
+},
+"reviewBody": "Wow—this was amazing and uses ingredients I almost always have on hand. What a great way to get extra veggies in. I now make this several times a week so keep frozen strawberries and blueberries on hand...plus old bananas and bags of fresh spinach in the freezer to make the smoothies cold without adding ice. I only use 1/4-1/5 banana to add a touch of sweetness without lots of carbs. And I add 1 TB of a healthy seed mix (chia/flax/hemp) to make it extra filling and add protein, fiber and iron. I use soy milk and two big handfuls of spinach. Thanks for the basic recipe—it’s a winner!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jesse"
+},
+"reviewBody": "I subbed unsweetened almond milk for the soy milk it was really good I will definitely be making it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Marguarite Green"
+},
+"reviewBody": "Very tasty!! I substituted they soy milk for Almond Cashew Milk and added 1 tbsp of Almond Butter!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Katrina Petz"
+},
+"reviewBody": "Yum! The porportions are perfect. I swapped soy for almond milk and added a little honey since the bananas were not as ripe/sweet."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "gorjissmom"
+},
+"reviewBody": "Soo good as is!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "AmericanApron"
+},
+"reviewBody": "I was really skeptical about spinach in a smoothie at first, but I'm glad I tried it! It's my favorite now! I have been making this recipe so often now!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jenny Aleman de Bolaños"
+},
+"reviewBody": "Refreshing and delicious. I thought I might had to add some honey or some kind of sugar but it wasn't needed the banana is sweet enough. I used coconut milk just because I like the flavor and added some cubes of ice. I enjoyed this drink a lot."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda T"
+},
+"reviewBody": "Delicious.. used almond milk. Going to try freezing this too and make it a slushie"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Yoly"
+},
+"reviewBody": "I did not need additional sweetener in this smoothie since I wait until my bananas are very ripe before freezing them. The end results were good, sweet, creamy and if I had not made it I would have thought it was just a banana smoothie."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bonnie Watson-Senior"
+},
+"reviewBody": "so easy to make I made this a few times now I would recommend this smoothie"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Sue Jones"
+},
+"reviewBody": "This was a very simple smoothie to make and probably good for a newbie in the smoothie department. This was my very first smoothie and I liked it. I would probably add sugar next time (optional suggestion)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ArsenioTheThird"
+},
+"reviewBody": "Super delicious, and a lot better tasting than I thought it would. I added 2 scoops of whey chocolate protein to it with the frozen banana, spinach, and a substitute of almond milk. Definitely sticking to this formula from now on, great way to meet my protein and fiber goal for the day!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Super mild flavor. But yummy! Better with a frozen banana and unsweetened almond milk."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Erika Marroquin"
+},
+"reviewBody": "Its good, I added fat free milk instead of soy. I would make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hot Buns"
+},
+"reviewBody": "So easy! Tummies."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Trinity"
+},
+"reviewBody": "It was okay, but there wasn't really much flavor to it. Probably won't make it again since there are other spinach and banana recipes out there."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Love2cook32"
+},
+"reviewBody": "Very good. I made this when trying to figure out what to eat for breakfast. I did use 2% milk and added about 1 TBS of peanut butter and some Chi Seeds. Since I work from home this is a very easy and fast breakfast to make. Will for sure make on a regular basis."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Angelita Billingsley"
+},
+"reviewBody": "This smoothie was the perfect blend...even my 2 year old loved it! I'm making this every morning for us"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Gwendolyn Tindal"
+},
+"reviewBody": "No it was great didn't even taste the spinach"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Luca Mallory"
+},
+"reviewBody": "It was amazing. I finished it in around 4 minutes, and I couldn't even taste the spinach. It tastes WONDERFUL. I am definitely making this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "RJ"
+},
+"reviewBody": "Loved it just the way it was. \nI tried the peanut butter addition mentioned in the reviews too. Also good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Ribs"
+},
+"reviewBody": "Strong banana flavour and quite sweet. I prefer Breakfast Banana Green Smoothie. \nOthers have suggested to use blueberries or canned pineapple for a different flavour.\n\nI used milk."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LUV2COOK4HIM"
+},
+"reviewBody": "The best smoothie ever! I used vanilla almond milk and it was amazing. My 9 year old loved it as well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Betsy Wassermann"
+},
+"reviewBody": "I slice a banana and put it in the freezer. Once frozen, add 2 hands full of spinach and a cup of vanilla soy milk. Yummy and cold for a summer treat."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cikanovic"
+},
+"reviewBody": "I traded soy for regular milk. and added blueberries and protein powder."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "shp970"
+},
+"reviewBody": "This is very tasty and a good base recipe. I had vanilla almond milk with a touch of honey so I used that. I also had a golden delicious apple to use up and used just a tsp of natural peanut butter. My banana was still a tiny bit green so the banana flavor isn't very strong. I taste NO spinach whatsoever! Every other flavor is represented subtly and it's a wonderful flavor! \nI was alittle worried because I just have a regular $10 blender that it wouldn't get the pieces small enough to drink but it worked fine. I can't afford a magic bullet or vitamix so I'm glad to know I can still enjoy a smoothie without it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ummbarhuma"
+},
+"reviewBody": "Very tasty as is. Very strong banana flavour, which is great if you like bananas. For a slight flavour twist I added a few slices of canned pineapple. I love that this can be easily modified to suit your own taste."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Crystal Treloar"
+},
+"reviewBody": "love it! I made it with a tablespoon of peanut butter and half a scoop of chocolate protein and it's so yummy!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Elvira Silva"
+},
+"reviewBody": "Wonderful smoothie! with only three ingredients this one is easy to throw together when you are rushing out the door and still want something healthy to start your day. Thanks for sharing :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "love to cook"
+},
+"reviewBody": "Absolutely yummy! I used Rice Milk instead of Soya and it tasted divine! Thank you for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kndritter"
+},
+"reviewBody": "Made with almond milk and a banana I had in the freezer... Delicious! Looking forward to enjoying it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dustin Jensen"
+},
+"reviewBody": "I used unsweetened vanilla almond milk in place of the soy milk, but cut it down to 2/3 cup. I also froze the banana before using. I added a half scoop of vanilla protein powder as well as a couple tablespoons of almond butter. This is probably the tastiest smoothie I have ever had; I could not even taste the spinach. Thanks for a fantastic base recipe that can easily be modified according to your tastes!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cos"
+},
+"reviewBody": "It comes out great every time. Thanks for sharing! The first time I used unsweetened almond milk, perfect. The second time I didn't have soy milk on hand so I used two percent. You just can't go wrong with this one!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "paigerocks"
+},
+"reviewBody": "So quick, easy and oh so good! I added se stevia for some sweet because my banana was a little green. Love this recipe!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Paula"
+},
+"reviewBody": "Perfect smoothie to get my morning going. I did as the reviewer suggested and subbed almond milk. I always have bananas in my freezer, so I used a frozen one which made the smoothie icy cold. I'm totally off sugar, so the banana made this smoothie plenty sweet for me."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/241019/spinach-and-banana-power-smoothie/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/138/drinks/smoothies/",
+"name": "Smoothie Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17578/drinks/smoothies/veggie/",
+"name": "Veggie"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/241019/spinach-and-banana-power-smoothie/",
+"name": "Spinach and Banana Power Smoothie"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

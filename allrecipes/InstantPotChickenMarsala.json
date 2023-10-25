@@ -1,0 +1,196 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Instant Pot® Chicken Marsala"
+,"datePublished": "2019-10-03T20:37:14.000-04:00"
+,"dateModified": "2019-10-03T20:37:14.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "thedailygourmet"
+,"url": "https://www.allrecipes.com/cook/thedailygourmet"
+}
+]
+,"description": "This chicken Marsala recipe is cooked in the Instant Pot® using the Saute function and produces moist chicken breasts in a rich Marsala wine and mushroom sauce."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/dbV63Kc7TNqkf689yHxfZ2KTDso=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6984520-1be057471d0345e7a346bc3757a42590.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Instant Pot® Chicken Marsala"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "6"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "322 kcal"
+,"carbohydrateContent": "8 g"
+,"cholesterolContent": "79 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "24 g"
+,"saturatedFatContent": "7 g"
+,"sodiumContent": "300 mg"
+,"sugarContent": "2 g"
+,"fatContent": "19 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"0.25 cup all-purpose flour",
+"0.5 teaspoon salt, or to taste",
+"0.25 teaspoon freshly ground black pepper",
+"1.5 pounds skinless, boneless chicken breast halves",
+"0.25 cup oil",
+"2 cups sliced fresh mushrooms",
+"0.5 cup dry Marsala wine",
+"0.25 cup butter" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine flour, salt, and pepper in a shallow dish. Dredge chicken breasts through flour mixture."
+} ,{
+"@type": "HowToStep"
+,"text": "Turn on a multi-functional pressure cooker (such as Instant Pot®), select Saute function, and allow pot to heat up. Add oil. Add chicken and cook until lightly browned, 3 about minutes. Turn chicken over and add mushrooms. Cook, stirring mushrooms occasionally, until other side of the chicken is lightly browned, about 3 more minutes. Pour Marsala wine around chicken. Close and lock the lid, and simmer until chicken is no longer pink in the center and the juices run clear, about 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove chicken from the pot and place on a serving platter. Add butter to the pot. Turn off heat and stir butter into sauce until fully blended. Pour sauce over chicken breasts and serve immediately."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT25M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Debra Jesberger"
+},
+"reviewBody": "Pretty easy and really delicious! Will make again and again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mark Campidonica"
+},
+"reviewBody": "Super simple. Great on garlic toast. Wish they said what restuarant it was."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Llnelson2"
+},
+"reviewBody": "Very easy dish to make and had good flavor. Not as rich as some restaurants' marsala I have had, but I'm not sure what to add to change it. Will make again and play around with it. Very good as it is written though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Gonzo"
+},
+"reviewBody": "It was quick, easy and quite tasty. This will be made many times in the future!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marianne"
+},
+"reviewBody": "whole family really liked this"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/275656/instant-pot-chicken-marsala/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16767/world-cuisine/european/italian/main-dishes/",
+"name": "Main Dishes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1796/world-cuisine/european/italian/main-dishes/chicken/",
+"name": "Chicken"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/275656/instant-pot-chicken-marsala/",
+"name": "Instant Pot® Chicken Marsala"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

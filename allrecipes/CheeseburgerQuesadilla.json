@@ -1,0 +1,256 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Cheeseburger Quesadilla"
+,"datePublished": "2018-06-08T10:26:48.000-04:00"
+,"dateModified": "2022-10-02T09:30:52.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Calamity"
+,"url": "https://www.allrecipes.com/cook/3335409"
+}
+]
+,"description": "These cheeseburger quesadillas are made with all your favorite cheeseburger fixings (beef, cheese, and condiments) cooked between tortillas."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/cTOddBGNAVwjFIIRBlrERGLIH0Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3507515-2252579955b94fa7b1331de0e431ef91.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Cheeseburger Quesadilla"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "15"
+}
+,"cookTime": "PT25M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "1054 kcal"
+,"carbohydrateContent": "62 g"
+,"cholesterolContent": "196 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "60 g"
+,"saturatedFatContent": "28 g"
+,"sodiumContent": "1728 mg"
+,"sugarContent": "4 g"
+,"fatContent": "62 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 teaspoon butter",
+"0.5 small yellow onion, chopped",
+"2 pounds ground beef",
+"1 tablespoon Worcestershire sauce",
+"1 teaspoon salt",
+"1 teaspoon ground black pepper",
+"0.5 teaspoon garlic powder",
+"cooking spray",
+"8 (8 inch) flour tortillas",
+"2 cups shredded Colby cheese",
+"4 teaspoons ketchup, or to taste",
+"4 teaspoons yellow mustard, or to taste",
+"4 teaspoons sweet relish, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Melt butter in a saucepan over medium heat. Cook and stir onion in melted butter until slightly tender, about 5 minutes. Add ground beef, Worcestershire sauce, salt, pepper, and garlic powder; cook and stir until beef is browned and crumbly, about 10 minutes. Remove from the heat, drain liquid from beef, and let sit for 2 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, heat a griddle or flat pan over medium heat and spray with cooking spray."
+} ,{
+"@type": "HowToStep"
+,"text": "Place 1 tortilla on the hot griddle, top with some of the Colby cheese, 1/4 of the beef mixture, 1 teaspoon ketchup, 1 teaspoon mustard, and 1 teaspoon relish. Top with more Colby cheese and 1 tortilla. Flatten the quesadilla with your hand."
+} ,{
+"@type": "HowToStep"
+,"text": "Flip quesadilla with a spatula and cook until browned and cheese is melted, 3 to 5 minutes more. Cut quesadilla into 4 pieces. Repeat with remaining tortillas, ground beef, cheese, ketchup, mustard, and relish."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT40M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "abbyz2000"
+},
+"reviewBody": "Everyone liked these but I had trouble getting the quesadilla to stay together. I had to flip them using two spatulas to keep them together and we weren't able to eat them with our hands."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "xtinez"
+},
+"reviewBody": "This is bomb and easy AF! My husband and kids approve and it’s ready in a snap"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "smith"
+},
+"reviewBody": "Fun, easy and delicious. Everybody loved them."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Doris"
+},
+"reviewBody": "These were sooooo good! My family loved them! Will pass this recipe along to my friends!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Anita Opat Hengel"
+},
+"reviewBody": "For being a kid type food, my husband and I liked these the best. Next time I will let the kids choose there own condiments. We will making these again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Rachael Bratsch"
+},
+"reviewBody": "My family didn't really like this recipe too much. There were too many flavors that didn't flatter each other."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Darrr104"
+},
+"reviewBody": "This was a quick, easy &amp; tasty switch up to the classic burger! Cut recipe in half &amp; subbed chopped dill pickles for relish. Served with a side of baked onion rings. Yum! Will definitely make again...and again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This will be a go-to recipe for sure! I'll freeze the hamburger in small containers to have on hand. The only thing I did differently was I folder over the large tortilla and cut up instead of putting the second one on to"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lela"
+},
+"reviewBody": "This was quite good! My husband gave this recipe a thumbs up. Very filling. For 2 people I cut the recipe in 1/2. You will not go away hungry! Using 1 lb. of hamburger made four 6\" quesadillas. I didn't have any sweet relish, so I cut up dill pickles. I also just squeezed some ketchup and mustard on the quesadilla which was easier for me. To knock it up a notch, I did add a 1/4 tsp. of cumin to spice it up and used 6 inch homemade tortillas!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/246761/cheeseburger-quesadilla/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/237/world-cuisine/latin-american/",
+"name": "Latin American"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/728/world-cuisine/latin-american/mexican/",
+"name": "Mexican"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/246761/cheeseburger-quesadilla/",
+"name": "Cheeseburger Quesadilla"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

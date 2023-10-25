@@ -1,0 +1,295 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Sourdough Soft Pretzels"
+,"datePublished": "2020-03-05T00:19:26.000-05:00"
+,"dateModified": "2022-11-22T11:25:12.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "JenniferCooks"
+,"url": "https://www.allrecipes.com/cook/jennifercooks123"
+}
+]
+,"description": "Make this sourdough pretzel recipe with sourdough starter for soft, buttery pretzels that are rolled up and twisted completely from scratch."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/neIAoBx0JtW3aaK57YUHSIKTpGI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5871063-979c148df8e9448b84dc345f2036fcbb.jpg",
+"height": 1000,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Sourdough Soft Pretzels"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "12"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "225 kcal"
+,"carbohydrateContent": "33 g"
+,"cholesterolContent": "34 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "6 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "1716 mg"
+,"sugarContent": "4 g"
+,"fatContent": "7 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT35M"
+,"recipeIngredient": [
+"3 cups all-purpose flour",
+"1 cup unfed sourdough starter",
+"0.75 cup lukewarm water, or more as needed",
+"0.25 cup powdered milk",
+"2 tablespoons butter, melted",
+"2 tablespoons brown sugar",
+"1 tablespoon instant yeast",
+"1 teaspoon salt",
+"1 tablespoon water, or more as needed",
+"3 tablespoons baking soda",
+"1 large egg",
+"1 tablespoon water",
+"1 tablespoon coarse sea salt",
+"4 tablespoons butter, melted" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Make the dough: Mix flour, sourdough starter, water, powdered milk, melted butter, brown sugar, yeast, and salt in a stand mixer fitted with a dough hook until dough comes together. Knead until smooth and elastic, about 5 minutes. Add additional water, 1 tablespoon at a time, if dough is dry."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove dough from the bowl and shape into a ball. Clean and dry the bowl, then grease lightly. Return dough to the bowl, cover, and let rise at room temperature for 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Turn dough out onto a lightly greased surface. Fold and shape into a rectangle; divide into 12 equal pieces and cover with plastic wrap."
+} ,{
+"@type": "HowToStep"
+,"text": "Roll one piece dough into an 18-inch long rope; keep remaining dough covered while you work. Loop and twist the rope into a pretzel shape, and place onto a baking sheet. Roll and shape remaining pretzels."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 450 degrees F (230 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Prepare a water bath by bringing 3 cups water to a boil in a pot. Reduce the heat to medium-low and stir in baking soda until dissolved. Lower one pretzel into the water bath and cook for 30 seconds, flipping halfway through. Remove with a slotted spoon or spatula and place back onto the baking sheet. Repeat with remaining pretzels."
+} ,{
+"@type": "HowToStep"
+,"text": "Beat egg with 1 tablespoon water in a small bowl. Brush egg wash over each pretzel, then sprinkle with coarse salt."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until dark golden brown, 12 to 15 minutes. Remove from the oven and brush pretzels with melted butter. Cool for 5 minutes before serving."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT120M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Helen Johnson"
+},
+"reviewBody": "The Pretzels were delicious. Soft and so fluffy. I will be making again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "INAE7997"
+},
+"reviewBody": "Happy to leave a review, because this is my go-to recipe for pretzels. Love that I can make the whole thing in my Kitchenaid. Watch the timing - too long, too dark. Excellent directions, delicious pretzels."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shnitzel"
+},
+"reviewBody": "Great! I made half a batch and wished I had made more. Hint - You need to roll the dough out into 2 foot sections before forming."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sophia Redler"
+},
+"reviewBody": "Couldn't stop eating these soft, salty, browned Pretzels. Don't skip putting them in the baking soda, that makes them have the shiny brown characteristics. Also, you can shape them in any shape you would like knots, letters, hearts, or just the traditional pretzel twist! Have fun!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Claire Grover"
+},
+"reviewBody": "Awesome pretzel recipe. 12 minutes was plenty in my oven. Texture was perfect. Just out of the oven I dipped some of them in butter and then cinnamon sugar. Both sweet and savory versions were devoured!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "jdevola"
+},
+"reviewBody": "I made these, but without the egg topping; sprinkled salt just before baking, brushed lightly with butter after baking. They were absolutely awesome!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rebecca"
+},
+"reviewBody": "These were absolutely fabulous!!! I used Diastatic Malt Powder in place of half of the brown sugar. Added gluten in place of some of the flour and Bakers Special Powdered Milk in ADDITION to the powdered milk. They were even better than the soft pretzels in the mall!!! I am going to make them again, only THIS time I will ALSO add some potato flour in place of some of the flour. EVERYONE loved them! I also made them into pretzel bites--personal preference--and I will use a little less salt (I used coarse sea salt)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Robert Brown"
+},
+"reviewBody": "Added 2 Tbsp of vital wheat gluten and used super active fed starter and let it rise for about 3 hrs. Turned out awesome."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jack Bartx"
+},
+"reviewBody": "My first time making pretzels so I followed the recipe exactly, except at the end I only buttered half of them. I think I prefer them without butter but they are delicious either way. What a great way to do something productive with my sourdough starter discards! Great recipe, thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lynn Weege"
+},
+"reviewBody": "I substituted malt powder instead of the sugar and topped it with pretzel salt that I purchased on Amazon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Becky Jordan"
+},
+"reviewBody": "They didn’t come out pretty, but are delicious. I used my own starter and evaporated milk."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/272372/sourdough-soft-pretzels/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/339/bread/yeast-bread/",
+"name": "Yeast Bread Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/349/bread/yeast-bread/sourdough-bread/",
+"name": "Sourdough Bread Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/272372/sourdough-soft-pretzels/",
+"name": "Sourdough Soft Pretzels"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

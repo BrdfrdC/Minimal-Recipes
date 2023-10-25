@@ -1,0 +1,1429 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Classic Hash Browns"
+,"datePublished": "2012-03-07T13:45:09.000-05:00"
+,"dateModified": "2023-02-08T17:05:00.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Chef John"
+,"url": "https://www.allrecipes.com/author/chef-john/"
+}
+]
+,"description": "This hash browns recipe from Chef John fries shredded potatoes in clarified butter to make perfectly seasoned, crispy, diner-style hash browns."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/LlsigJnpR596TZgvDJiqDCwiIFE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/220520-classic-hash-browns-buckwheatqueen-1x1-1-01160d8a868c45df9273f68952936206.jpg",
+"height": 1500,
+"width": 1500
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=1485446120001",
+"description": "Chef John shows you how to make diner-style hash browns with a perfect crust.",
+"duration": "PT4M35S",
+"name": "Classic Hash Browns",
+"thumbnailUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/3e009535-364b-43c8-90da-203976602b23/d3766b68-a290-468b-b16e-0e76cc1b939c/1280x720/match/image.jpg",
+"uploadDate": "2021-03-01T10:23:26.328-05:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Classic Hash Browns"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "356"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "334 kcal"
+,"carbohydrateContent": "38 g"
+,"cholesterolContent": "49 mg"
+,"fiberContent": "5 g"
+,"proteinContent": "4 g"
+,"saturatedFatContent": "12 g"
+,"sodiumContent": "13 mg"
+,"sugarContent": "2 g"
+,"fatContent": "19 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"2 russet potatoes, peeled",
+"3 tablespoons clarified butter",
+"1 pinch cayenne pepper, or to taste",
+"1 pinch paprika, or to taste",
+"salt and ground black pepper to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Shred potatoes into a large bowl filled with cold water. Stir until water is cloudy; drain and cover potatoes again with fresh cold water. Stir again to dissolve excess starch. Drain potatoes well, pat dry with paper towels, and squeeze out any excess moisture."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat clarified butter in a large nonstick pan over medium heat. Sprinkle shredded potatoes into hot butter in an even layer; season with cayenne pepper, paprika, salt, and black pepper."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/LlsigJnpR596TZgvDJiqDCwiIFE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/220520-classic-hash-browns-buckwheatqueen-1x1-1-01160d8a868c45df9273f68952936206.jpg"
+}
+]
+,"text": "Cook potatoes until a brown crust forms on the bottom, about 5 minutes. Flip or stir and continue to cook until potatoes are browned and crusty all over, about 5 more minutes."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT25M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "John E Kopfer Sr"
+},
+"reviewBody": "Easy way to make hash browns"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I didn't know it was so EASY! Thank you Chef John! I cooked mine with some bacon grease and butter, since the bacon was thin sliced and didn't get much of the lard. To my potatoes, I added onion salt, paprika and pepper. I cooked them like Chef John suggested and it was delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "June Rea Irick"
+},
+"reviewBody": "Loved the crispy hash browns! Did change the spices to what I liked. Used garlic powder and onion powder and some salt. Nothing else."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "fladonn"
+},
+"reviewBody": "The recipe is tasty as written, and spices can be adjusted for indivual tastes. However, I don't think clarified butter is necessary. The same result can obtained with unsalted butter plus a few drops of oil which would raise the cooking temperature without without burning the potatoes. Of course, each stove is different and you may have to adjust the temperature based on the type of pan you are using."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Dot Wyckoff"
+},
+"reviewBody": "I followed the directions to a 'T'. It was just not what I was hoping for."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Quite easy! Best fresh cut hashbrowns I’ve ever made!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "LAVERNEUSN"
+},
+"reviewBody": "Delicious Quick and easy once you have the potatoes shredded. Just let them cook while you are fixing the rest of your meal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cookids1750"
+},
+"reviewBody": "Followed exactly! Yummy, crispy. Definitely will make again &amp; again. Hadn't made clarified butter for awhile. So worth it!😁💖"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "jens"
+},
+"reviewBody": "kind of soggy. I think you need to thoroughly dry the potatoes, maybe even overnight, or else they really hold a lot of water even after drying them."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Elizabeth McCarthy"
+},
+"reviewBody": "These were awesome. I added a thinly sliced red onion just because. Simple and easy, definitely making it again. Also, read through some of the comments here, I mixed in my spices instinctively. When spreading out the mixture in the pan, I patted down to spread evenly for the 5 minutes. After the 5 minutes, mixed it about and patted down again, this ensured even cooking."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Maria Antoniette Martella"
+},
+"reviewBody": "Hi Chef John I love your classic easy peasy no fail Hash browns. Mine were always soggy before learning to seriously dry out my potato shreds and because were heading into Easter I shaped mine into a basket for my Egg and topped with Pesto, delicious ! Thank you, Maria"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "David W. Grier"
+},
+"reviewBody": "I really like this simple recipe by Chef John it is very versatile able to add other ingredients."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "voraciousgirl"
+},
+"reviewBody": "Super basic and easy! I love crispy hashbrowns."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "larnone"
+},
+"reviewBody": "Well hot damn!!! This is how to make homemade home fries that rock the house. I never knew about soaking the shredded potatoes in order to remove the starch. Great point. I did add some shredded onion to the mix and next time I'll add a garlic powder. ( not fresh garlic since it'd burn in the pan). I did use a cast-iron skillet and it browned up nicely. Instead of 10 minutes, I went almost 20. Not crazy crispy but just enough so they weren't mushy. Thanks again for another spectacular simple recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "John Edward OConnor"
+},
+"reviewBody": "First Hash Brown recipe I had consistent luck with, with a minor modification. After soaking potatoes and drying them out, I put them in a large bowl as loosely as possible, and microwaved for 1 minute, twice (with a minute in between) to evaporate more of the moisture. I then added all of my seasonings and mixed before cooking in my cast iron skillet."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Tom"
+},
+"reviewBody": "i used to be a cook in a diner in los angeles and made hundreds of orders of hash browns. we NEVER stirred them or added paprika. now at home use microwave the spud chill it, peel it and shred it, and brown on both sides."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kim Boyd"
+},
+"reviewBody": "It was great. I left out the cayenne and added a touch of garlic and onion powders."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tom Long"
+},
+"reviewBody": "Close to the way I’ve made mine for years. I only partially peel the potatoes, add a little chopped onion, and fry in half butter half olive oil. Always in a well seasoned cast iron skillet."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "kaz"
+},
+"reviewBody": "My effort was not successful ..... I'm confident based on the fact that this came from Chef John it was ALL on ME.\nI followed the recipe exactly including clarifying the butter in advance. I must assume that I did not get enough of the water out as they had a starchy after taste.\nOh well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "D J Loften"
+},
+"reviewBody": "Wow! The family was looking for a 3rd helping, my youngest stole some from plate...LOL...thanks of this my version wasn't as good\nThe only change I made was to add a couple of diced garlic cloves"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Randall Waters"
+},
+"reviewBody": "Good instructions but I had trouble not getting a ghee flavor in the potatoes. I tried both with the oil hot but not smoking and smoking. Do you have a recommendation to not get the ghee flavor in the hash browns? Please and thank you for the recipe and instructions on drying the potatoes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "trumble41"
+},
+"reviewBody": "Made as written. Cooked 8 minutes before turning and 8 min more. They were perfect with delicious flavor. Thanks Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tom"
+},
+"reviewBody": "It was great. I put the potatoes in the fridge overnight after drying them as directed.\nThey turned out crisp on the outside and yummy inside."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "blackhighheels"
+},
+"reviewBody": "I really wish I had sauteed some onions before putting the potatoes in the pan. These tasted pretty bland to me. Preference, I suppose. Whoever suggested using a salad spinner - that was a fabulous idea."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "antonita"
+},
+"reviewBody": "Delicious with simple ingredients!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "michael lenihan"
+},
+"reviewBody": "These came out excellent these were the best hashbrowns I’ve ever had. Better than restaurant quality. Thank you."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gus M"
+},
+"reviewBody": "Reletivley quick and easy to make. I have never been able to make potatoes until today! These will really go well in breakfast burritos."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rita L. Zupanc"
+},
+"reviewBody": "Wonderful hash browns. Easy to do."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "James R"
+},
+"reviewBody": "what a great idea pulling the starch out of the potatoes. I like to use yellow potatoes for my hashbrowns. never thought of the pepper or paprika though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jim hall"
+},
+"reviewBody": "I have struggled with this dish for years until Chef John explained about removing the starch - butter potato goodness"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Steve Collins"
+},
+"reviewBody": "Ended up just an uncooked mush. Horrible."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kris K"
+},
+"reviewBody": "Don't stir. Flip them once the bottom is browned. Also did 4 rinses so the water came out almost clear. Since I always have these with bacon and eggs I just kept the bacon grease in the pan and skipped the clarified butter."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Emma"
+},
+"reviewBody": "Delicious! And not hard at all. Saturday morning I get out the food processor and grate enough potatoes for two days' worth of breakfasts. Cook up half and leave the other half in water in the fridge for Sunday. So, so good!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Claire Proteau"
+},
+"reviewBody": "You rock! I love your videos!!!\nThese are perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christopher Brown"
+},
+"reviewBody": "Perfect, I like a little onion in mine so I grated a half an onion and mixed it in. Outstanding!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary Serio"
+},
+"reviewBody": "They turned out great.. I needed hash browns for a breakfast casserole. I had never made them before, so thanks for posting this! Since the process is messy, I made double what I needed, and put the extra in the freezer for next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LEIF MCBENNETT"
+},
+"reviewBody": "loved them"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "ZainAlabdin"
+},
+"reviewBody": "Sorry Chef John, i really adore your cooking style but this was buttery and the taste wasn't good at all"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lc Banks"
+},
+"reviewBody": "Have been cooking for decades, but wanted to add crispy hash browns to my resume. Thank you, Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Angel Deeds"
+},
+"reviewBody": "5 minutes per side my butt lol 35 minutes later still cooking."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Peggy D"
+},
+"reviewBody": "I've been craving this since I don't feel comfortable going to restaurants with Covid19. Excellent and flexible recipe that isn't fussy. Used regular butter and added seasoned salt and garlic powder."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amy Leonard"
+},
+"reviewBody": "This is a very good recipe! We loved the spices in it. It didn't quite crisp as much as I would have liked, but I also used around 6 potatoes, so it wouldn't have crisped as fast anyways."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Thad & Tasha Johnson"
+},
+"reviewBody": "Delish! We'll be making this again soon!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Noralyn Propps"
+},
+"reviewBody": "This is my first time making homemade hash brown and it was a hit! My picky sons loved it! I'm definitely making more of this again. Perfect for breakfast and all. Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DMAN"
+},
+"reviewBody": "Nice and simple"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "chix71"
+},
+"reviewBody": "These were perfect. My daughter was feeling under the weather and wanted restaurant style breakfast hash browns. These were fantastic!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rob Wisener"
+},
+"reviewBody": "Easy and a family favorite now!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MochaSprinkle"
+},
+"reviewBody": "Instead of the butter I used canola oil. I also was admittedly a little heavy handed with the cayenne, but it works! Kicked them up a notch ?? I didn’t have regular paprika so I used smoked paprika and it added a nice smokiness to them. Instead of one big batch I made a few servings, kinda like pancakes, and each turned out nice and crunchy. \n\nHaving a shredding attachment for a mixer or food processor will make this easier for sure! That’s said, pressing out the water was the hardest part for me. Instead of using paper towels, I used a kitchen towel to dry the shredded potatoes in batches. Not only does it cut down on single use paper products but it’s easier to ‘wring out’ the extra moisture. \n\nI love that there isn’t any filler or binding agent and I’ll make these again, hopefully soon!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Aliyah Conner"
+},
+"reviewBody": "Perfect for our Easter brunch and really easy to make"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ethan Leis"
+},
+"reviewBody": "As a Freshman in high school and cooking this dish for the first time, I found this recipe quite easy and very tasty. Although I did not find that the hash browns cooked in the specified time, and the outside was not all that crispy and the inside did not get as done as i would have hoped, but all in all very good recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kevin"
+},
+"reviewBody": "These are the best hash browns I've ever had"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cristina"
+},
+"reviewBody": "Easy recipe and very flavorful"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MLucas"
+},
+"reviewBody": "I’ve always been intimidated by the thought of making hash browns but wanted to try since I was making omelets. Also I had some potatoes left over and wanted to use them up while they were still fresh. So I checked out some recipes and decided to try this one, wondering why I’d been nervous about making them. I found it so easy to use and loved the various suggestions and explanations. And, happily, the potatoes turned out to be perfect. Everyone loved them and we’re planning an omelet night with different tastes at least twice a month, maybe even weekly. Of course it will be accompanied with wonderful tasting hash browns!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rachel Pace"
+},
+"reviewBody": "I didn't make changes, and I will definitely be making this again.. for sure"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cindy"
+},
+"reviewBody": "Perfecto! Without having to add flour!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cathy Overstreet"
+},
+"reviewBody": "should of used a smaller pinch of cayenne pepper. Still very good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This recipe is very good. I followed it just like it suggests but found it took much longer to get it to be crispy which is the way my husband and I like them. After 30 minutes they still weren’t as crispy as we liked but we were hungry so we ate it as is. Flavor was good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "dogcrazy220"
+},
+"reviewBody": "This recipe is very good. I followed it just like it suggests but found it took much longer to get it to be crispy which is the way my husband and I like them. After 30 minutes they still weren’t as crispy as we liked but we were hungry so we ate it as is. Flavor was good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cd20"
+},
+"reviewBody": "I halved the recipe and made the ‘Felicia combo’ Hashbrowns were delicious and easy, seasoning was great. It took about 15-20 mins to make everything."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laura Bella"
+},
+"reviewBody": "Perfect .. I was skeptical about the Cajun and paprika,.. but what a delicious and very simple recipe. Sorry no pic .. my daughter and I ate it so fast, we forgot the pic .????"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shack"
+},
+"reviewBody": "I rinsed 3 times. Thanks for the video and recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Andy Gibson"
+},
+"reviewBody": "Got up from reading here and made it. I had baking potatoes and a large skillet and only cooked 1 at a time. Ya mon"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Susie Johnson Wooldridge"
+},
+"reviewBody": "I made these and they were delish!!! They only thing different I did was add onion powder to them, they are so worth the effort of the 2nd rinse!! Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Becky"
+},
+"reviewBody": "Really good! I mixed the salt in with the pototoes just before putting them in the pan so it would be mixed in more evenly. Instead of cayenne and paprika, I liberally sprinkled in some “Slap Yo Mama” Cajun seasoning. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "A. Roberts"
+},
+"reviewBody": "So good and easy. My hubby loves these. I only seasoned with salt and pepper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carol"
+},
+"reviewBody": "Just made these. They were delicious. Nobody knew I shredded the potatoes and seasoned them myself. I will make these again! Followed the exact recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kevin Black"
+},
+"reviewBody": "Solved the mushy (undercooked) centre problem by putting a cover over the pan for the first half, so the potato was both steamed and fried."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "ruthncls"
+},
+"reviewBody": "I followed the recipe exactly, but they were still mushy in the middle."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christine Simms"
+},
+"reviewBody": "Hashbrowns have been my Achilles heel- until today! Rinsing shreds until clear made ALL the difference. \nI also added 1/4c flour &amp; 1 T cornstarch, then browned in bacon grease. I kept the first batch warm in the oven on a cast iron griddle &amp; they stayed crispy for seconds.\nThank you for this recipe &amp; finally helping me make yummy hashbrowns!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Colleen Goldsmith"
+},
+"reviewBody": "Great. But please note, potatoes soak up oil like a sponge so use sparingly."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "patricia cano"
+},
+"reviewBody": "No changes and yes I will make it again and again.\n\nTks Chef John"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "it was fall off infmashon"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Christine LeBel"
+},
+"reviewBody": "Made April 2019 for Easter brunch. \nTasty and easy. Good go-to hashie recipe. Don't forget to dry off your shredded and drained potatoes like I did, though, 'cause you'll lose crispness."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jason T. Dobry"
+},
+"reviewBody": "Tasty and kids couldn't get enough! Also, thank you for not blathering for 500 words about how much you loved it growing up, or how potatoes are so versatile, or how \"no one likes soggy hash browns.\" Food blogs suck - you gave us the goods right away and I appreciate it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jamie"
+},
+"reviewBody": "I made it without clarifying the butter due to being in a hurry! No prob. I love the dash of paprika and red pepper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bennett1127"
+},
+"reviewBody": "I make these hash browns all the time, exactly as stated in the recipe and they turn out great every time. I have tried and failed to make hash browns many times until I discovered Chef John's recipe. The only issue I ever have is when I try to make too much at once. But even then they are very good, just a little less crisp then when using the amounts that the recipe calls for."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CRGL1"
+},
+"reviewBody": "These were A-M-A-Z-I-N-G-! This recipe should say 1 serving! LoL. Crispy, tender and buttery! I cooked a tad longer than the recipe called for.. 7 min per side, they were perfection.. Oh, and I added the smallest sprinkle of onion powder! Good stuff."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Burma Storrs"
+},
+"reviewBody": "Made these for my adult son and they were a big hit! Definitely a repeat in our household."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Abissell"
+},
+"reviewBody": "Simple- fast - delicious. Even my 2 year olds loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "GonzalezBoyz Mama"
+},
+"reviewBody": "I made no changes honestly it's perfect just the way it is made they came out great my family loved it!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cindy Rue"
+},
+"reviewBody": "No changes. Restaurant quality. Used ghee"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CoolDud"
+},
+"reviewBody": "I made this wrong because i forgot an ingredeant and later found my self having a good time"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mcaone"
+},
+"reviewBody": "I scrubbed instead of peeling my potatoes. I grated them in my food processor, and as per someone else's suggestion, used my salad spinner to rinse them off 3 times. All three of these things made prep for this a breeze!! I'd never thought of using clarified butter for this but oh my gosh was it delicious! I made my own by heating a stick of butter and carefully removing the solids on top with a spoon. I saved them and put them over the eggs I served with the hash browns. Yum!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sabrina Williams"
+},
+"reviewBody": "Never knew about stirring the potatoes in the water and straining it that was a good idea it really helped."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cherlyn Lee"
+},
+"reviewBody": "I loved the recipe!! Though I feel that mine came out wrong due to using regular butter and an old pan (so the food got stuck), nonetheless I can't fault this recipe! Will retry this when I have got the time again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Deborah Castañeda Griggs"
+},
+"reviewBody": "Delish , I didn't change a thing !"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SandyS"
+},
+"reviewBody": "These hash browns turned out great. Rinsing the potatoes a couple of times kept them from sticking together in a starchy mess. I cut my potatoes into small cubes and didn't pat them dry. It took longer for them to cook, but they were perfect. I added fresh chopped chives during the last couple of minutes of cooking for extra flavor. So much better than frozen hash browns!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah Speranzioso"
+},
+"reviewBody": "Really good, easy to make, drain before cooking is important and throw butter in the pan it still works."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Danica Marie Freel"
+},
+"reviewBody": "these turned out amazing! so tasty"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Vickie Rouse"
+},
+"reviewBody": "Love it if you live ?? I'm Irish ha ha..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nathan Bame"
+},
+"reviewBody": "I made a few tweaks to this recipe by using regular butter on a cast iron griddle and adding minced onion instead of the cayenne pepper, but it was the best hash browns I have ever had. They were simply delicious and I will definitely make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Buckwheat Queen"
+},
+"reviewBody": "Absolutely fantastic. Move over, Waffle House. I’m eating at My House. These are so quick and simple, why buy frozen? Thank you for the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bridget Hamby Hendrix"
+},
+"reviewBody": "MADE IT IN NO TIME. GREAT RECIPE"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mistiethibert"
+},
+"reviewBody": "I loved these hash browns. Thank you Chef John. They turned out fluffy and crispy on the outside. Watching the video helped a ton. Removing the starch is such a great tip and using the clarified butter was great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Mister Silly"
+},
+"reviewBody": "I don't know what I did wrong, but it made way too much, and it turned into a disgusting gray mush. I cooked it for the time described, and it came out raw. It took about 45 minutes for it to finally come out cooked. I've never been so frustrated cooking hash browns before."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Branndi"
+},
+"reviewBody": "I just want to say thank you! I am by no means a cook by any stretch of the imagination. Kind of sad but I am 31 and didn't really start learning to cook until a year or two ago. I love hashbrown and eggs but had no idea how to do hashbrowns so this is a life saver"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Erin Sunell"
+},
+"reviewBody": "Worked and tasted great! It takes a bit longer than 5 mins each side, I just watched them until they were crispy enough for my liking. But overall super easy and delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Melissa Peterson"
+},
+"reviewBody": "Simple and delicious! I like them crispy, so I let them sit at least ten minutes before I flipped them. Then, let them sit another ten minutes. Well worth the wait!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Raymond Bavaro"
+},
+"reviewBody": "Next time a larger skillet will give more room for the potatoes to brown evenly. I used chipotle powder which worked well. Next time I will let it cook down a bit before I disturb the mixture. Some of the potatoes did not cook well this try. A lot of work for a quick bite and now that I know how long it will take, I can better time the rest of the meal."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/220520/classic-hash-browns/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/917/side-dish/potatoes/",
+"name": "Potato"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1549/side-dish/potatoes/hash-brown-potatoes/",
+"name": "Hash Brown Potato Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/220520/classic-hash-browns/",
+"name": "Classic Hash Browns"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,311 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Rhubarb Meringue Pie"
+,"datePublished": "2020-06-18T23:53:56.000-04:00"
+,"dateModified": "2022-12-02T07:30:38.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Marsha Mitchell Hiebert"
+,"url": "https://www.allrecipes.com/cook/1272123"
+}
+]
+,"description": "This rhubarb meringue pie is filled with a sweet and creamy rhubarb custard and topped with a gorgeous oven-scorched meringue."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/aiP4uIb5vzrWeJrfukld8m36KFU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1074493-eba256665866441e97f6783de8c57b87.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Rhubarb Meringue Pie"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "15"
+}
+,"cookTime": "PT60M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "291 kcal"
+,"carbohydrateContent": "46 g"
+,"cholesterolContent": "11 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "151 mg"
+,"fatContent": "11 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT25M"
+,"recipeIngredient": [
+"1 (9 inch) unbaked single pie crust",
+"3 cups chopped fresh rhubarb",
+"1.25 cups white sugar, divided",
+"1 cup half-and-half",
+"3 large eggs, separated, divided",
+"2 tablespoons all-purpose flour",
+"1 pinch salt",
+"0.25 teaspoon cream of tartar" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Fit pie crust into a 9-inch pie dish; spread rhubarb evenly over crust."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk 1 cup sugar, half-and-half, egg yolks, flour, and salt together in a bowl until smooth; pour over rhubarb."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until crust is browned and filling is set, 50 to 60 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Just before pie is finished baking, beat egg whites in a glass, metal, or ceramic bowl until stiff. Gradually add remaining 1/4 cup sugar and cream of tartar, continuing to beat until meringue is glossy."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove pie from the oven; spoon meringue over top, covering the entire filling. Use a spoon or spatula to make decorative swirls in meringue."
+} ,{
+"@type": "HowToStep"
+,"text": "Return to the oven and bake until meringue is lightly browned, about 10 minutes. Cool for 10 to 15 minutes before serving."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT95M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Maria VdB-G"
+},
+"reviewBody": "This is a wonderful recipe. I added an extra egg to get more meringue. It’s a keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "JudyJudyJudy"
+},
+"reviewBody": "The meringue was easy and turned out beautifully. The rhubarb part turned out a little creamer than what I was looking for, but it tasted great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chris Grams"
+},
+"reviewBody": "Made twice. Very easy but looks hard. Love this pie."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer Barnes"
+},
+"reviewBody": "this is exactly my great grandma's recipe (she added more sugar). Thank you for giving me all of those amazing memories that came flooding back when I tried this pie."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TFA"
+},
+"reviewBody": "Added ten minutes to the Cook time as I used 4 cups of rhubarb. Also added 1/2 cup additional sugar and a bit more flour."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tracy"
+},
+"reviewBody": "I have made this pie many times with our fresh rhubarb. It is easy and everyone loves it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stephen Johnson"
+},
+"reviewBody": "My first meringue pie effort. We have a ton of rhubarb right now. I followed the recipe exactly (for a change) and it came out great - just like in the picture. Next time I might back off a tad on the sugar as I like a little more tart to come through."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Genelady825"
+},
+"reviewBody": "This pie was just fabulous. I made no changes to the recipe, didn't need to. Tasted just how I remember Mom's rhubarb pie. The custard is smooth and creamy. And it wasn't too sweet or too tart. Just perfect. I used three large rhubarb stalks, each stalk was about 1 cup. So easy to make. We have decided that this is our favorite pie and that's saying something. We will make this again and again, or at least until the rhubarb is gone for the season."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Arlene Dyer"
+},
+"reviewBody": "I used the Meringue ll recipe for the meringue The pie was a hit. I will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michele Troester Kuhn"
+},
+"reviewBody": "I followed the recipe exactly, loved it! Just the right amount of sweet and tart."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "HNABAKOWSKI"
+},
+"reviewBody": "Wonderful! My mom made this and we had to have her make it again because we ate it so fast. Now I am making it. I think it beats cherry pie, hands down. The perfect amount of tartness."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Missouri Farm Wife"
+},
+"reviewBody": "This was very much like the recipe my Late mother-in-law used and my Hubby has been asking for one like it since rhubarb came into season..The meringue recipe turned out perfect, which says a lot since I am meringue challenged."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Patty61745"
+},
+"reviewBody": "This is exactly what my grandmother made. I was so pleased to find this recipe. Absolutely WONDERFUL!!! Thank you so much!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/232115/rhubarb-meringue-pie/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/808/desserts/pies/fruit-pies/",
+"name": "Fruit Pies"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/12953/desserts/pies/fruit-pies/rhubarb-pie/",
+"name": "Rhubarb Pie Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/232115/rhubarb-meringue-pie/",
+"name": "Rhubarb Meringue Pie"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,228 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Chaffles"
+,"datePublished": "2020-04-30T22:40:06.000-04:00"
+,"dateModified": "2020-04-30T22:40:06.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "lutzflcat"
+,"url": "https://www.allrecipes.com/cook/lutzflcat"
+}
+]
+,"description": "Chaffles are low-carb waffles which can be eaten in a variety of ways--this recipe is for a basic chaffle, to be eaten for breakfast with butter and syrup."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/vku7YjLs392xM7TQAzv4bxaYkZ8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7666385-4d7916073ff740d083ea5f4042f01d7b.jpg",
+"height": 999,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Chaffles"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "11"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "108 kcal"
+,"carbohydrateContent": "1 g"
+,"cholesterolContent": "111 mg"
+,"proteinContent": "10 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "210 mg"
+,"sugarContent": "1 g"
+,"fatContent": "7 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"1 large egg",
+"0.5 cup shredded mozzarella cheese" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat a waffle maker."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk egg in a small bowl and stir in mozzarella cheese."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour 1/2 of the batter onto the preheated waffle maker, spreading it out from the center with a spoon. Close the waffle maker and cook until the steaming stops and the chaffle is well browned, about 3 minutes. Don&#39;t overcook, as that will make it chewy. Repeat process with remaining batter."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT15M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "samantharoberta"
+},
+"reviewBody": "Excellent basic chaffle recipe. Quick, easy and delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tracyrdavis13"
+},
+"reviewBody": "These are super easy and delicious! I made them with shredded Colby Jack cheese because that's what I had. I ate mine with butter and sugar free syrup. My husband used two to make a sausage breakfast sandwich. I will definitely make these again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Thank you for the recipe! It is with all due respect that I say the following. The values you listed for the macros are entirely dependent on the exact size/weight of the egg and the particular mozzarella used. Some mozzarellas will have more carbs. I am not trying to be picky by mentioning this. If one is really trying to be accurate and trying to limit their (or count) their carb intake, accurate macro measurement is necessary. This may not be entirely apparent to those who are new to keto or low carb living. I am new to this site but it looks wonderful! Jeff"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ljthomas1952"
+},
+"reviewBody": "I made with 2 eggs, added a little Mexican cheese, and a little almond flour. Also bacon on the side. Good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "llllllllllIlIlIlIlIl"
+},
+"reviewBody": "delish I never knew it would be so good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marlene Fitch"
+},
+"reviewBody": "I made for breakfast, added cinnamon and stevia in the raw to the batter. Then when finished I sprinkled with a little more cinnamon, stevia and butter. Awesome will make again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lindsay Quick"
+},
+"reviewBody": "Delicious, easy and low calorie. What could be better? I made this at my mom's while visiting (and I don't have a waffle maker). Going to try them as pancakes at home and hopefully they're just as good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jack H"
+},
+"reviewBody": "This is a great low carb alternative for waffles. I've been experimenting. Shredded pepper jack is great instead of the mozzarella. Chopped green onions are also a great addition. The possibilities are endless."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/278458/chaffles/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/78/breakfast-and-brunch/",
+"name": "Breakfast and Brunch"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1316/breakfast-and-brunch/waffles/",
+"name": "Waffle Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/278458/chaffles/",
+"name": "Chaffles"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

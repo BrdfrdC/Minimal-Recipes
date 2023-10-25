@@ -1,0 +1,138 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Spiked Eggnog"
+,"datePublished": "2020-06-19T00:42:09.000-04:00"
+,"dateModified": "2023-01-06T10:45:41.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Brandi Gilbertson"
+,"url": "https://www.allrecipes.com/cook/feedingnine"
+}
+]
+,"description": "Eggnog is spiked with brandy and spiced rum. Bring to every family gathering this festive season for some extra holiday cheer!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/be-XvS7T_2KQQnwoNSLfCAtU7Eg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/276623-spiked-eggnog-lutzflcat-4x3-1-b017840eb0a44d3c86379146031a92c2.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Spiked Eggnog"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4",
+"ratingCount": "1"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "321 kcal"
+,"carbohydrateContent": "21 g"
+,"cholesterolContent": "151 mg"
+,"proteinContent": "5 g"
+,"saturatedFatContent": "10 g"
+,"sodiumContent": "67 mg"
+,"sugarContent": "20 g"
+,"fatContent": "18 g"
+,"servingSize": "2 1/2 quarts"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"6 cold eggs",
+"1 cup white sugar",
+"1 tablespoon white sugar",
+"0.5 teaspoon vanilla extract",
+"0.25 teaspoon ground nutmeg",
+"2 cups cold whipping cream",
+"2 cups cold milk",
+"0.75 cup cold brandy",
+"0.33333334326744 cup cold spiced rum" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Beat eggs in a bowl using an electric mixer on medium speed until very frothy, 2 to 3 minutes. Add 1 cup plus 1 tablespoon sugar, vanilla extract, and nutmeg gradually while beating. Turn the mixer off and manually stir in whipping cream, milk, brandy, and spiced rum. Chill before serving."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT15M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "lutzflcat"
+},
+"reviewBody": "This turned out pretty well, not overly boozy, with pure eggnog flavor. I used a sugar substitute (too many indulgences this time of year) in place of sugar and 2% milk (what we drink), and both subs worked out just fine. It’s rich, creamy, and indulgent, and you do need to allow it to chill before serving. A nice cocktail to enjoy over the Holidays."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/276623/spiked-eggnog/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/77/drinks/",
+"name": "Drinks Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/141/drinks/eggnog/",
+"name": "Eggnog Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/276623/spiked-eggnog/",
+"name": "Spiked Eggnog"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

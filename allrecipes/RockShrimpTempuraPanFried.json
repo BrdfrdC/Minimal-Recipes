@@ -1,0 +1,163 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Rock Shrimp Tempura (Pan-Fried)"
+,"datePublished": "2019-04-04T00:07:32.000-04:00"
+,"dateModified": "2023-01-30T04:37:46.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Cipher"
+,"url": "https://www.allrecipes.com/cook/cipher"
+}
+]
+,"description": "Make rock shrimp tempura at home with this delicious recipe of pan-fried battered shrimp with a creamy spicy sauce inspired by the appetizer at Nobu."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/vmi3lH5UiGzul0LXCD5VlCxkrhc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4235717-668dc16d8ec9467699a9b9fc20de14d0.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Rock Shrimp Tempura (Pan-Fried)"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "2"
+}
+,"cookTime": "PT5M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "351 kcal"
+,"carbohydrateContent": "19 g"
+,"cholesterolContent": "275 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "22 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "428 mg"
+,"sugarContent": "0 g"
+,"fatContent": "20 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 egg yolk",
+"2 teaspoons chili-garlic sauce",
+"1 teaspoon rice vinegar",
+"0.25 teaspoon sea salt",
+"2 dashes ground black pepper",
+"3 tablespoons olive oil",
+"0.75 cup ice water",
+"0.75 cup all-purpose flour",
+"1 egg yolk",
+"2 tablespoons olive oil, or as needed",
+"1 pound rock shrimp, peeled and deveined" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "To make the dipping sauce: Whisk egg yolk, chili-garlic sauce, rice vinegar, sea salt, and black pepper together in a bowl. Pour in 3 tablespoons oil slowly, whisking constantly, until sauce is creamy."
+} ,{
+"@type": "HowToStep"
+,"text": "To make the batter: Whisk ice water, flour, and egg yolk together in a large bowl to make batter."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat 1 tablespoon olive oil in a large skillet over medium heat. Dip some shrimp in batter, letting excess drip off, and cook in hot oil until browned on both sides, 3 to 5 minutes. Drain on paper towels. Repeat with remaining olive oil and shrimp."
+} ,{
+"@type": "HowToStep"
+,"text": "Place cooked shrimp in a large bowl. Pour sauce on top and mix until thoroughly coated."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT20M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brandy Tennille"
+},
+"reviewBody": "Amazing and super easy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Soup Loving Nicole"
+},
+"reviewBody": "TI enjoyed this recipe very much. It's one of those kinds you have to eat right away though because it doesn't sit well for very long at all. On that note, I loved the flavor of the sauce but was disappointed at how quickly it made my crispy shrimp soggy. Next time I will just dip the shrimp instead of pouring it over. Great flavor though and one worth making!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/256263/rock-shrimp-tempura-pan-fried/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/108/appetizers-and-snacks/seafood/",
+"name": "Seafood"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1237/appetizers-and-snacks/seafood/shrimp/",
+"name": "Shrimp"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/256263/rock-shrimp-tempura-pan-fried/",
+"name": "Rock Shrimp Tempura (Pan-Fried)"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

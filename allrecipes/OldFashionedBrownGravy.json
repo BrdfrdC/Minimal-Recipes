@@ -1,0 +1,1129 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Old Fashioned Brown Gravy"
+,"datePublished": "2019-04-03T23:33:33.000-04:00"
+,"dateModified": "2022-01-04T09:05:55.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "dlkg"
+,"url": "https://www.allrecipes.com/cook/1097047"
+}
+]
+,"description": "Homemade brown gravy is more delicious than store-bought and easily made on the stove with pan drippings from roast beef, pork, chicken, or turkey."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/o_f9U2IgAAT8WiMwTaOArq16qVI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/324242-27cd5ba5f68942178bec469de4981719.jpg",
+"height": 250,
+"width": 250
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Old Fashioned Brown Gravy"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "3.8",
+"ratingCount": "103"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "61 kcal"
+,"carbohydrateContent": "6 g"
+,"cholesterolContent": "13 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "5 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "30 mg"
+,"sugarContent": "3 g"
+,"fatContent": "2 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"2 tablespoons pan drippings",
+"2 tablespoons all-purpose flour",
+"1 cup milk",
+"1 cup water",
+"salt and pepper to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Immediately after removing roasted meat from its pan, drain off drippings, reserving 2 tablespoons in the pan."
+} ,{
+"@type": "HowToStep"
+,"text": "Sprinkle flour over drippings; cook and stir over medium heat until brown. Gradually stir in milk, whisking with a fork to scrape up all of the meaty bits from the pan, then gradually whisk in water."
+} ,{
+"@type": "HowToStep"
+,"text": "Increase heat to medium-high; cook, stirring constantly, until gravy thickens, about 10 minutes. Season with salt and pepper."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT20M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Great recipe will be using all the time now 😊"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Darryl Weldy"
+},
+"reviewBody": "Made a few slight changes for my application and it turned out great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christine"
+},
+"reviewBody": "I made it ,added another teaspoon of flour ,salt and pepper and it was good gravy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I tried this recipe but it was bland and wouldn't thicken, so I made a few adjustments. In with the drippings I added a blend of peppers with drippings, I seasoned the rue and then added the water and allowed it to come to a boil. I then mixed together 1 tspn of corn starch and 1 tspn of water and stirred it until it became a paste (thickening agent)\n\nAfter it came to a rolling boil, I added the paste slowly while stirring and allowed it to contiue to boil. This helps!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anja Irwin"
+},
+"reviewBody": "My granny's Recipe... Laura James in memory of my Angel."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hogs-84"
+},
+"reviewBody": "It was amazing.."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Sonya"
+},
+"reviewBody": "As written = Terrible, thin and plain."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Linda Price"
+},
+"reviewBody": "I skipped the pan drippings. Added Worcestershire sauce, gormet mustard with seeds, garlic and onion powder along with everything else. Whisked it over low heat. Add ingredients to taste. It came out great without the oil."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dennis Shoemaker"
+},
+"reviewBody": "Very easy and quick!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "arborknot"
+},
+"reviewBody": "dont use the same pan you cooked the meat in. it will be too hot and you'll make dumplings or something"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Jessica Hunsicker"
+},
+"reviewBody": "I made this tonight with hamburger steaks and it turned out to look and taste more like cream gravy (the white gravy) but it tasted fine."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "mekka joy"
+},
+"reviewBody": "I added a chopped onion. It came out delicious. Two thumbs up!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "kimmie"
+},
+"reviewBody": "I think 2 tbls of flour was way too much, it took the cup of milk, cup of flour and had to add about a cup of stock with a lot of salt and pepper to take down the taste of flour, ended up having to add paprika and chili powder also. just didn't do it for me, following the recipe exact didn't taste right, gonna have to fix this one in the future"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Maria Ramirez"
+},
+"reviewBody": "Very easy to make. Family loved it. Thank you"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "GravyGary"
+},
+"reviewBody": "MMmm yes very good. Here's your last piece my dude https://www.youtube.com/watch?v=EWVWcH8tEeo"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Christine"
+},
+"reviewBody": "I struggled getting this gravy to thicken. By the time I got it to a decent texture, there was little flavor despite the copious amounts of salt, pepper, and garlic I was adding. Maybe I made a mistake along the way, but if I were to make this again I would at least triple the amount of drippings used."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Moebius13"
+},
+"reviewBody": "Easy to make gravy. I used the drippings from the meatloaf I cooked and it turned out great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "LongIslandLenny"
+},
+"reviewBody": "Could never master Gravy on my own. This gave some structure to my attempt. I amped it up by adding some diced onion and crumbled bacon to the roasted duck drippings. Winner, Winner Duck Breast Dinner!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tomcat69b"
+},
+"reviewBody": "Awesome"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Josephine Roeper"
+},
+"reviewBody": "Used as a guideline for Baked Pasta that needed 12 oz gravy sauce. Not really sure of the taste since it was mixed with tomato sauce. It did thicken up the ziti sauce and tamed the tomato flavor. Used ground beef dripping and 1 tsp beef bouillion."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Susie Marie"
+},
+"reviewBody": "Great foundation, can leave as is or spice it up a little. I sauteed garlic and mushrooms in olive oil. Later when gravy was thickening I added and it was an amazing mushroom Tracy. Thanks"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Josh Stovall"
+},
+"reviewBody": "Adding the milk is a terrible idea. I should have known better than to add milk to a brown gravy.\n\nI made the rue from lamb drippings and butter, and used unbleached organic flour. I cooked them until a deep brown, but it seems I was unable to get rid of the raw flour flavor. \n\nUsually that's taken care of by just cooking it down and adding more water.\n\nWhile thick, it was bland even after I added tons of pepper (black, cayenne and paprika) and over three grams of salt."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Brandy R. McKinnon"
+},
+"reviewBody": "It never thickened."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rodney Allen McLain (Allen)"
+},
+"reviewBody": "I used the beef broth from a beef roast I made, the broth had onion chunks in it. I used about 2 cups of the broth, and about a half a cup of flour. I used half butter milk and half milk, 1 cup total. The gravy thickened very nicely and tasted amazing on the roast and mash potatoes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nancy Olive Andtheroaddog"
+},
+"reviewBody": "Perfect! Smooth and delicious. The only thing I would mention is to check the taste to make sure you don't need more salt or pepper before you remove it from the pan."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "elaineg91"
+},
+"reviewBody": "First time evert attempting and I love it\n I left water out I kept all of the droppings, no need for salt or pepper :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jrpolarbear"
+},
+"reviewBody": "EASY recipe. Just like Mom's. Just added some salt and pepper. Will use this recipe from now on."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "CourtneyCook"
+},
+"reviewBody": "This is a very quick and easy gravy, however it taste like boxed gravy. I will make it again and I won't use milk at all and I will use more juice (drippings) and flour. Otherwise, great!!!! Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Patrick Bishop"
+},
+"reviewBody": "YES IT WAS THE BEST I ADDED MUSHROOMS TO IT"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joe"
+},
+"reviewBody": "This is how I make mine but I Sauté onions in the meat drippings then brown my flour"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nana"
+},
+"reviewBody": "When I make gravy I use a spatula to mix the flour: it gets the lumps out great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Ayla"
+},
+"reviewBody": "It came out okay, didn't thicken much and was kinda bland. I recommend using more flour and less drippings!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chris"
+},
+"reviewBody": "Goes great with hamburger Steak, mushrooms, onions, and peppers!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Kay"
+},
+"reviewBody": "Don't use this recipe! Following the directions and exact proportions . . . the gravy would NOT thicken! Thank goodness I had a couple packets of gravy mix from the grocery store I prepared which saved our dinner. VERY disappointing recipe because from the photo it looked like medium brown gravy mother used to make, but the milk and water together made a white thin mixture and not at all brown or even tan."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Noora"
+},
+"reviewBody": "Been trying to make gravy for a long time. Just tasted like grease and flour. This recipe was excellent! Pic is accurate! Reminded me of how KFC gravy used to be. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cheryl"
+},
+"reviewBody": "This was great! Instead of 2 tablespoons of drippings &amp; 1 cup water, I used 2 cups of strained drippings from a rump roast in my slow cooker. All other ingredients the same. A definite keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nesha T"
+},
+"reviewBody": "First time ever making gravy without going to the store and making it from the pack. This recipe was very easy. I was looking for something that did not require bouille tabs, stock, or any additional ingredients. This was perfect. Adding the salt and pepper in the recipe was well needed. Great Recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Chief Chef kid"
+},
+"reviewBody": "I am a 16 year old boy and I not only successfully made this gravy I made it easily. Other than the fact that it needs more drippings than called for the recipe is great. I needed something quick and simple for a hamburger steak and this was perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "akuma"
+},
+"reviewBody": "very nice and is easy to make"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "travis"
+},
+"reviewBody": "Did not work not impressed at all. May have done something wrong will not try again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sheena H"
+},
+"reviewBody": "I made this today to put over the round steak we cooked in our crock pot.. It turned out wonderful!! The meat was seasoned well, so the gravy turned out well seasoned from using the drippings. I will make this again!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kens learning"
+},
+"reviewBody": "I don't cook often but like to try for myself to make foods that i grew up with. This recipe was great and i will make it again because it was so easy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Nicole & Ray"
+},
+"reviewBody": "This was a great starter gravy recipe, especially since it was last minute and I had to use what I had on hand. I cooked the gravy stove top, but it was quite bland so I added salt, pepper, and onion powder. It thickened perfectly with a bit of time and patience. Be careful not to add to much salt like I did, other wise it was a great recipe with plenty of room to play with."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah"
+},
+"reviewBody": "Pretty good! Definitely needed seasoning, but easy and tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Melby22"
+},
+"reviewBody": "Great gravy recipe! We use this recipe on Thanksgiving Day!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Jeremyew"
+},
+"reviewBody": "pretty good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle Nelson"
+},
+"reviewBody": "I probably should have given this 4 stars because I used more drippings and a dash of salt/pepper. BUT the instructions are great. I've never been able to make a successful gravy but this worked!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Summersunn"
+},
+"reviewBody": "It would not thicken and tasted like flour water. Thank goodness I saved enough drippings to make a real gravy and saved dinner. I honestly have never given a bad review."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sonia"
+},
+"reviewBody": "We forgot to make gravy (again) this year for Thanksgiving, so I did a search for easy last minute gravy recipes. This recipe came out beautifully, and I did my very best to screw it up at each turn! You can't go wrong with it. Totally good stuff."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "mamachef"
+},
+"reviewBody": "It didn't work for me either, had no taste. Nothing like gravy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "afighter808"
+},
+"reviewBody": "Thank you so much! Simple, easy, and delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "anneL"
+},
+"reviewBody": "I fried sirloin tips and left them in the pan when I made the gravy as directed, then added mushrooms and served over rice. Very good recipe, but a little extra seasoning would make it even better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Sabrina Zule"
+},
+"reviewBody": "m"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "breed"
+},
+"reviewBody": "its alright i guess."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "steveswife1130"
+},
+"reviewBody": "WOW!!! I just made gravy! My husband and I both thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Lavell M Glenn"
+},
+"reviewBody": "it was good. it need more drippings"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Traci-in-Cali"
+},
+"reviewBody": "This was good, I did add a bit of sage to mine, salt and pepper and the milk without water. We served it over mashed potatoes on New Years Day! :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Vampixen"
+},
+"reviewBody": "Awww Thanks so much for this recipe reminds me of what my granny use to make:)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sami Jo"
+},
+"reviewBody": "My DH is very country and used to homemade gravy. After almost a year of feeding him the packaged gravy I tried this without him realizing it, and it was a HIT! THANK YOU!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "motherofthree"
+},
+"reviewBody": "I never have made gravy before on my own and now I have. Easy to follow and easy to make. Thank you for sharing"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "ANDREAB451"
+},
+"reviewBody": "This recipe was ok, but needed to add a LOT of salt and pepper. I didn't have any problems with the thickening, just could've used a little more spice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Robyn Cook"
+},
+"reviewBody": "I love this recipe! I've only made it a few times but my husband always asks \"are you going to make 'that good gravy'?\" I do add a little Kitchen Bouquet® sometimes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Holly Dudley"
+},
+"reviewBody": "Did not work for me. I used beef broth as another suggested in place of the water. It was not brown in color, didn't thicken and did not taste right no matter how long I let cook or how much pepper I added trying to season. Will keep looking for other recipes to try."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Sharon"
+},
+"reviewBody": "I have never made gravy before, but it just didn't work. It never got thick and was white like milk. My boys were so hungry and waiting for the gravy my husband and I winged it with using as much drippings we had left from the roast and added some flour. It thickened nicely."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "samantha"
+},
+"reviewBody": "This recipe was confusing and you don't want that when you trying to finish everything and get it on the table. It has the right foundations, but we just had to kind of make it up as we went. Maybe if the cook could have just had better instructions. I am a new cook so it may only be me."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Curt McLey"
+},
+"reviewBody": "This is a good recipe, but it needed some salt and pepper. I used beef stock in place of water for a richer flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Foodie Family"
+},
+"reviewBody": "PRETTY GOOD,OMITTED THE MILK AND ADDED CHICKEN STOCK,TO SERVE WITH MY CHICKEN AND MASHED POTATO DINNER"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "sid bakay"
+},
+"reviewBody": "Tasted like pasty water."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "elstilez"
+},
+"reviewBody": "i've never made gravy from drippings before and this turned out perfect!!! though i didn't measure anything.. i just took all the drippings (beef) and added some flour and a dash of milk. oh, and i added just a bit of beef stock. i had the corn starch ready, but i'm amazed that i didn't even need it! i'm glad that i read the dirctions and decided to wait because it only took about a minute to thicken up. anyway, thanks for posting this, it saved my butt today! :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ginger Smith"
+},
+"reviewBody": "This was great traditional gravy, not as thick as I normally like, but was a good quick fix for a mess up. Thanks"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "apriltxn"
+},
+"reviewBody": "I made this gravy using drippings from my chuck roast cooked in the crock pot. In order to make a rue with the right consistency, I used at least 6 tablespoons of drippings to the 2 tablespoons of flour. Otherwise, I followed the recipe for milk and water. The gravy cooked and thickened nicely. I'm giving 3 stars only because I was in a hurry, and had I not saved any more drippings than the 2 tablespoons called for in the recipe, I'd have been in trouble!! Will use recipe again, but more drippings."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MAWARNE"
+},
+"reviewBody": "I omitted the milk and I used the juice from the chicken instead. Added some oregano, basil and parsley just to get abit of italian taste. My husband really liked it. Went well with mash potatoes and BBQ Chicken. View pic."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This is how my Mom made hamberger gravy!\nbut tonight I added the hamberger, dehydraded chopped onions, Montreal Steak Seasoning to it and put it on toast! then I heated up some small peas with butter, salt, pepper and layered them over the top.Man it was so good I had to write this review. Try it u'll love it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "jchaney"
+},
+"reviewBody": "I have never had problems making gravy in the past, but this just didn't work. It wouldn't thicken, and was very bland, even with A LOT of salt and pepper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Genome"
+},
+"reviewBody": "I know I can't make gravey, but I can follow a recipe... something went wrong."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jean"
+},
+"reviewBody": "Wondeful Fall dish. This one is a keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "chellebelle"
+},
+"reviewBody": "Perfect traditional gravy just like Mom made. And no lumps! For chicken or pork, I use the half milk and half water. But for roast beef gravy, I like to 2 cups of water and no milk (use the water used to boil your potatoes for mashed potatoes to go with the gravy!)"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/82904/old-fashioned-brown-gravy/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17031/side-dish/sauces-and-condiments/",
+"name": "Sauces and Condiments"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/916/side-dish/sauces-and-condiments/gravy/",
+"name": "Gravy Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/82904/old-fashioned-brown-gravy/",
+"name": "Old Fashioned Brown Gravy"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

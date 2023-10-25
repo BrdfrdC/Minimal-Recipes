@@ -1,0 +1,1434 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Red-Skinned Potato Salad"
+,"datePublished": "2019-04-02T02:43:01.000-04:00"
+,"dateModified": "2022-11-21T07:01:18.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Donna"
+,"url": "https://www.allrecipes.com/cook/24323036"
+}
+]
+,"description": "This red-skinned potato salad is easy to make and packed with creamy red potatoes, crumbled crispy bacon, hard-boiled eggs, celery, and onion."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/bTSgfDYSZyv-_EuUdjiwevJQrQg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/96575-36dd84edca994e3d9265bb0eecb28756.jpg",
+"height": 960,
+"width": 960
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=1780422460001",
+"description": "See how to make a creamy potato salad with a perfectly firm texture.",
+"duration": "PT3M2S",
+"name": "Red Skinned Potato Salad",
+"thumbnailUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/ad19959f-bf59-46ca-8898-95548238701d/684eff1c-9020-4591-b14d-3a6ffb8f7e1c/1280x720/match/image.jpg",
+"uploadDate": "2021-07-08T13:35:35.388-04:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Red-Skinned Potato Salad"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "2403"
+}
+,"cookTime": "PT35M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "430 kcal"
+,"carbohydrateContent": "16 g"
+,"cholesterolContent": "121 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "10 g"
+,"saturatedFatContent": "7 g"
+,"sodiumContent": "536 mg"
+,"sugarContent": "2 g"
+,"fatContent": "37 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"2 pounds clean, scrubbed new red potatoes",
+"6 large eggs",
+"1 pound bacon",
+"1 onion, finely chopped",
+"1 stalk celery, finely chopped",
+"2 cups mayonnaise",
+"salt and pepper to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Bring a large pot of salted water to a boil. Add potatoes and cook until tender but still firm, about 15 minutes. Drain and allow to cool."
+} ,{
+"@type": "HowToStep"
+,"text": "Place eggs in a saucepan and cover with cold water. Bring water to a boil and immediately remove from heat. Cover and let eggs stand in hot water for 10 to 12 minutes. Remove eggs from hot water; cool in ice water. Peel, then chop into small, bite-sized pieces."
+} ,{
+"@type": "HowToStep"
+,"text": "Place bacon in a large skillet and cook over medium-high heat, turning occasionally, until evenly browned, about 10 minutes. Drain bacon slices on paper towels, then crumble."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/bTSgfDYSZyv-_EuUdjiwevJQrQg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/96575-36dd84edca994e3d9265bb0eecb28756.jpg"
+}
+]
+,"text": "Chop cooled potatoes, leaving skin on. Add to a large bowl, along with eggs, bacon, onion, and celery. Stir in mayonnaise, salt, and pepper. Chill in the refrigerator for 1 hour before serving."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT115M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Studio913"
+},
+"reviewBody": "I made this for my company. Normally, I’m a lousy cook, but every single one loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Leslie Head Sweeney"
+},
+"reviewBody": "A family favorite! I don’t usually use a whole pound of bacon and use 3 or 4 eggs and it’s still absolutely delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jessica Miller"
+},
+"reviewBody": "Love everything about this recipe! I've been making it for years and it's always a huge hit! I've modified the amounts though. I like making a huge batch that can be divvied up and still have enough leftovers. I do 5lb of the potatoes, 9 eggs, 1.5 lbs of bacon, 2-4 celery stalks, 1 onion. (Just my personal preference as far as the texture goes!)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Heather"
+},
+"reviewBody": "My entire family fell in love with this potato salad recipe. Thanks for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christy Ratto-Bixby"
+},
+"reviewBody": "Ok so this is funny I made this recipe and told my BF about it and he seemed uninterested. He went to cali off to work and I put some in his cooler that I always pack for him and he texted me later that day...I quote OMG that potato Salad is F****g awesome!!! Can you freeze the rest for me???? lol should have listened to me when I was telling you about it!! so yummy and perfect as written"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dpep"
+},
+"reviewBody": "Really good! I used red onion and added bacon grease."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michael McCarty"
+},
+"reviewBody": "I've tried several potato salads over the years, with mixed results. This is, by far, the best potato salad I've ever had"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Andrea Sheldrake"
+},
+"reviewBody": "I made this today and it is really good and super easy. I used a green onion. Saving this recipe for the summer."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Toogud Quicktips"
+},
+"reviewBody": "this is a great launching point for potato salad. you can eat it just like the recipe or make it fancy. I started with this then I used 1 cup of sour cream ,1cup mayo and 2- 3 table spoons of ranch dressing with garlic powder, salt and pepper and dill. also I used green onions and a yellow pepper for sweetness and color. then I added fresh parsley. simply then best potato salad!! I only put 4 stars because I made the recipe my own. a recipe that needs nothing is 5 stars"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BluGlitter"
+},
+"reviewBody": "July 4, 2021: So basic, simple &amp; delicious! It's my traditional salad, all summer! It's always a big hit &amp; people always want this recipe! Its very much like my mothers recipe. I usually also add chopped red onion &amp; a tsp of celery seed or celery salt, a tsp of dried dill, &amp; 1-2 Tbs of Dijon or spicy brown mustard. Sprinkle on top with paprika for a nice look. J.F."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mike"
+},
+"reviewBody": "For the Fourth of July, I made this recipe with a minor substitution. Instead of red potatoes, are used a combination of red, white, and blue potatoes. Delicious! It was a huge hit at our Fourth of July party! I don’t think I’ve material we change the recipe - just a small variation on the types of potatoes used."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laurenand200"
+},
+"reviewBody": "Easy and delicious!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jess"
+},
+"reviewBody": "All was great except when I make it again, I’m cooking the potatoes longer. It’s a preference thing…we like our potato salad soft instead of a little hardness that the recipe suggests."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "willbullock"
+},
+"reviewBody": "Great recipe. I only charged a few things to make it my own. 1 cup Mayo, 1/2 cup each of sour cream and miracle whip. A table spoon of garlic powder, 2 tablespoons each fresh chopped rosemary and tarragon. Used 1 cup of green onions instead is yellow onion. A table spoon of apple cider vinegar, 2 tablespoons of brown mustard, 1 teaspoon jalapeño sauce, 1/2 cup chopped dill pickle and 2 tablespoons sweet relish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Q The Most"
+},
+"reviewBody": "My fine adjustments... Cut the onion by half. Throw in some green onion.. mustard! Parsley for colour! Finally some paprika on top!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "michele "
+},
+"reviewBody": "super recipe! thank you for sharing! it's on my make again list!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christine Lê"
+},
+"reviewBody": "vegetarian version with no bacon, just eggs and miracle whip with red onions, green chives,3 celery sticks for added crunch. no salt, just pepper to taste!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joe"
+},
+"reviewBody": "Made this to the letter except as others mentioned I subbed green onion for white onion. The taste was outstanding! I will say it was a tad dry (I might have had slightly more than 2lbs of potatoes) but a couple extra tablespoons of Mayo fixed that right up. I sent the recipe to mom who loved it as well and put it in her rotation. 5 stars!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Antoinette Katora"
+},
+"reviewBody": "I made it as written and to me it was too much Mayo and bacon and eggs. Next time, I cut the recipe in half except for the potatoes which I met at 2lbs. Tasted much better to me."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JakiiRSM S."
+},
+"reviewBody": "This is has been my go to recipe for potato salad for 50 years. Can do it blind folded! LOL I do not use bacon as the tator salad can stand on its own without it. I agree with one poster, cut up your potatoes prior to cooking and save yourself a little work. If you want to kick it up a notch though, add a couple tablespoons of sour cream to the mayo and maybe a half teaspoon of mustard or less, according to taste but not enough to where your guests can tell its mustard. It adds just a little zest and gives it that nice pale yellow yummy color."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nicole James"
+},
+"reviewBody": "Just made this recipe today and love it. I really don’t measure so I cook by sight and taste but in my bowl I added a packet of ranch seasoning, garlic seasoning and some sugar. Was a side dish to bbq ribs."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Crystal Raye"
+},
+"reviewBody": "Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sharon Whitley"
+},
+"reviewBody": "I loved it. I added paprika but would have cooked the potatoes a few minutes longer. They were a bit firm. The taste was fantastic which is why it got 5 stars."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Katie Broglio"
+},
+"reviewBody": "Fantastic! I modified the amount of additions per my own personal taste, but this was absolutely amazing. My son, who hates potato salad, loved it! Saved to my cookbook in my favorites"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Kris Spillman"
+},
+"reviewBody": "I followed the recipe exactly and I didn't really like it. It just tasted like mayo on potatoes. I ended up adding a bit of vinegar and some lemon juice to cut the mayo flavor a bit. That helped, and my family ate it, but as written it wasn't very good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "julies"
+},
+"reviewBody": "Reduced to 4 eggs. Used sweet onion. Increased celery to 2-3 stalks. Add Italian salad dressing and peppers."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Vitanza"
+},
+"reviewBody": "It was good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Peter Badalamenti"
+},
+"reviewBody": "Way way way to many onions and celery!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christina Van Couwenberghe"
+},
+"reviewBody": "This is my go to potato salad recipe...it’s always a hit with my family. Although I have to make two versions - one without the bacon for my vegetarian sister as she gets upset when she doesn’t get any...she loves it as well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lee Bennett"
+},
+"reviewBody": "This was my first attempt at making red potato salad. I pretty much followed the recipe as written with a couple minor differences. I used real bacon bits that I put in the oven to crisp them up a bit. I also added a little mustard powder and omitted the celery because I'm the only one in my family that likes it. My wife isn't a fan of potato salad, but she loved this! This is the only potato salad I will make from now on. Thank you for a great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle Hankinson"
+},
+"reviewBody": "Very easy and it was a hit. Started off with 1 cup of mayo then added some to make it creamier"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JUDELA1128"
+},
+"reviewBody": "Delish! And so easy to make. I made it as recipe indicates. Next time, I may try adding sour cream as suggested."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Megan Chalmers"
+},
+"reviewBody": "Absolutely delicious!!!! Fan favorite. Will definitely makes again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chef Crazy Rat"
+},
+"reviewBody": "The only thing I changed was I added fresh dill and 1/2 cup of whipping cream."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dave Baca"
+},
+"reviewBody": "simple and delicious. left out the bacon to limit fat and cholesterol...nobody even noticed since it was so good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jpopp27"
+},
+"reviewBody": "I followed the recipe as is (except for the celery...not a fan), and it was delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda Buishas"
+},
+"reviewBody": "Tasted great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joe"
+},
+"reviewBody": "This is very good and everyone said I'm the new potato salad guy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ms Jean"
+},
+"reviewBody": "Good potato salad. I usually marinate the warm potatoes in a dish like this in a small amount of some kind of vinaigrette for better flavor. I used green onions for the onion, added a squirt or so of spicy brown mustard to the mayo, and a few shakes of garlic powder. This is a nice light dish on hot summer days, and it does get better as it stands."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Dyva Riofrio"
+},
+"reviewBody": "delicious! Next time I'll use long green onions. I added fresh squeezed limes and cayenne pepper for some spice. Perfection!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "V29578"
+},
+"reviewBody": "Made this for 4th of July Social Distancing gathering, It was a hit."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "izzyb3l"
+},
+"reviewBody": "It’s good, but unless you REALLY like onions, I would add way less or a different type."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tricia Maze"
+},
+"reviewBody": "I added about 2 teaspoons of yellow mustard, about 1 teaspoon of apple cider vinegar, and a bit of celery seed. And I left out the bacon. Very tasty recipe that lends well to altering as you wish. I'll try it again sometime with the bacon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "stovegutz"
+},
+"reviewBody": "followed recipe turned out great, but this wasn't potato salad to me this was baked potato salad."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kevin "
+},
+"reviewBody": "My wife makes the best potato salad and she was pleasantly surprised at how my effort turned out. This was an easy recipe for me (amateur cook) to prepare. The only mistake I made was I did not chop the potato into smaller pieces. I made it and put it in the fridge for a day and all the flavors really bloomed."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sharbribri"
+},
+"reviewBody": "I've not normally been a big fan of potato salad but I have to admit I love this one! I made a few changes like most but I had a good recipe to start with here."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tammy"
+},
+"reviewBody": "it is really good... followed directions perfectly. thank u"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Barbara Freeman"
+},
+"reviewBody": "excellent. i added 1 tbs of mustard and everyone loved it. huge hit!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tanya LaMothe"
+},
+"reviewBody": "Delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "nan"
+},
+"reviewBody": "great recipe! I add a squeeze of yellow mustard for a bit of colour and tang. \nit's always a hit :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Arleen Ingram Benton"
+},
+"reviewBody": "Delicious! I too thought that the recipe called for too much bacon I used 2 2.5oz real bacon bits pkgs for 4lbs potatoes and used dill relish unsteady of celery but celery would be delicious too!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Crystal Fischer"
+},
+"reviewBody": "This is THE recipe that I cannot live without! Thank you for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rachel Hodum"
+},
+"reviewBody": "Made this for Memorial Day. Followed recipe exactly. I made it the night before. I reheated bacon and added before"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Craig H"
+},
+"reviewBody": "Followed the recipe, using the ingredients I had on hand. This is a little different than my usual potato salad recipe, but my wife and I liked it. I'd make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tom McCullough Sr."
+},
+"reviewBody": "I only had 5 strips of bacon in the house and it still came out great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Robbi"
+},
+"reviewBody": "The only thing I changed was adding 1 grated carrot and I used Japanese mayo cause it’s what I had. Delish"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tuto"
+},
+"reviewBody": "One of the best tasting potato salad I have ever made if you’re a bacon lover this is the potato salad for you rather salt and pepper I make my own house seasoning that one teaspoon of salt 1/4 teaspoon of pepper 1/4 teaspoon of garlic powder"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alidasilva"
+},
+"reviewBody": "Just made this last night exactly as written and after letting it chill overnight it is AMAZING. Will definitely be holding onto this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sharon T"
+},
+"reviewBody": "I made this without the bacon, simply because I didn’t have any. I have never made potato salad before and this recipe was amazing. It cane out great and I will make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "kittenboops"
+},
+"reviewBody": "If only using two pounds of potatoes, I recommend less eggs, less mayo, less bacon... Try adding a splash of apple cider vinegar for added depth of flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Vanessa Olvera"
+},
+"reviewBody": "Didn't have any bacon on hand, but it was still amazing! My husband LOVED IT. Made it to accompany my pressure cooker baby back ribs. Did not disappoint. Saving this recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nadia"
+},
+"reviewBody": "Will definitely make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Virginia Peacock Hall"
+},
+"reviewBody": "This was perfect! Just what I was craving! I will add more salt next time but other than that it’s perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tyshawnna Elliott"
+},
+"reviewBody": "Really good! I used pickle instead of celery!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ignazio Eterno"
+},
+"reviewBody": "Great and easy to make"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MissMolly"
+},
+"reviewBody": "Excellent, followed recipe with no changes. Easy, great tasting. Better than the kind found at the store."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kianna Wright"
+},
+"reviewBody": "This was the first time I made homemade potato salad and I think it went pretty well. This was a very simple and easy dish to make, especially if you are just starting to get into cooking different types of food like myself. Although, I did make a few adjustments like adding a pinch of garlic salt. I don't think I added the amount of mayo this recipe was asking for, mainly because I don't like potato salad that is mushy, but I think that just depends on the individual. Again, overall, this was a great recipe and I will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Luv2cook"
+},
+"reviewBody": "Someone said they left out the pickles. There were NO pickles in the recipe in the first place. I added the snipped tops of green onions and only used 1 cup of mayonnaise. Two cups would have been WAY too much. I also added 2 Tbs organic unfiltered apple cider vinegar to give it a little tartness. It was just a little too bland. Now it's perfect. Oh, no salt added. The mayonnaise has just the right amount of salt already in it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anne"
+},
+"reviewBody": "I made this for a church potluck. I thought it tasted great and I received great reviews on it. Being high fat, with all of the bacon and mayonnaise, the leftovers went home with another person. Not on my eating plan."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Wanda Moore"
+},
+"reviewBody": "This wasn’t a hit for me or my family at Thanksgiving. My brother said never make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KELLY BENSON"
+},
+"reviewBody": "This was delicious! It is yummy how it is but I also cubed the potatoes before boiling and added mustard, red onion, dill relish and cayenne. Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Regina Patton"
+},
+"reviewBody": "This potatoe salad recipe is awesome. I added regular mustard to it and chopped up pickles in it. A keeper recipe for sure. Highly recommended!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah Smith"
+},
+"reviewBody": "This was easy! I took advice of another reviewer and used half miracle whip and half sour cream. Omitted onions because I don’t like them. Added salad cubed pickles, paprika and parsley. I did all the prep yesterday and put it together tonight. I’ll drive tomorrow. It’s good!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hubbahubbard09"
+},
+"reviewBody": "Have been making this recipe for years now. Always a summer time favorite! We like to add a tablespoon of mustard or even spicy mustard sometimes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joanne M"
+},
+"reviewBody": "This was a huge hit!! Absolutely delicious! I did use less mayo and bacon than the recipe called for, but other than that was great!! A definite keeper!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "OCNNav"
+},
+"reviewBody": "I didn't follow measurements so much as i followed ingredients. I added finely chopped RED onion and fresh dill. Less mayo and sour cream. Colors popped nicely."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "O'Beirn"
+},
+"reviewBody": "It has become a family favorite, I did reduce the mayo however"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amitchem"
+},
+"reviewBody": "Made this last night, the potatoes required a longer cook time and I did quarter mine. Prepared as the recipe as described but add 1 cup sour cream. Bacon adds that something and sauteed the onions and celery. Perfect, and chilled in fridge before serving. \nNote: Before I combined the mayo mixture with potatoes I sprinkled the potatoes with Old Bay Seasoning!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Eileen Hineline"
+},
+"reviewBody": "made it today and I like to play with recipes. I added 4 cups chopped eggs, I added McCormick salad toppings to the salad as I had no bacon but there is bacon bits in the salad topping which gives it crunch. I added dill weed onion powder, mrs dash,dill mustard 1 cap of white vinegar, mixed up well and chilled. perfect. I may just do the recipe as is next time but I am pleased with the results today."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Angie Spelman"
+},
+"reviewBody": "This was delicious! I added another stalk of celery and also altered the dressing a bit. I used 1 cup sour cream and 2 cups Kraft mayo—mashed my egg yolks and added to their mixture. For seasoning I used Johnny’s Seasoning salt and pepper . Will definitely make this again! It was so creamy and has a ton of flavor ."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Candace Barron"
+},
+"reviewBody": "I doubled the recipe. I used two cups of sour cream and two cups of Hellman's mayonnaise. Instead of chopping an onion I used a small bunch of green onions. I also added maybe a cup of mixed cheddar cheese. I decided not to add the eggs as my family prefers it without them. I feel like the red potatoes hold their shape better in this recipe. 5 stars with my changes its our new potato salad recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shelly"
+},
+"reviewBody": "This was super easy and my husband, who isn’t a huge potato salad fan, loved it! I made it just as the recipe called for, too. I will be making this again in the future. Thanks for a great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "yocorro90"
+},
+"reviewBody": "I made this recipe exactly as it is written, and it was absolutely delicious. It's rare that I actually even like potato salad, but I went back for seconds of this. I'll definitely make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Deb W"
+},
+"reviewBody": "I did take the advice of others &amp; add 1/2 sour cream. I am not really sure how many potatoes I had, but I put 2 eggs and 1/2 onion with the celery. I thought this recipe is a great guideline!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Redheadd"
+},
+"reviewBody": "Next time I' ll try a bit more than 1/2 lb of bacon, 6 medium potatoes, 3/4 c Miracle Whip mixed with 1/2 c sour cream, 2 stalks of celery, 4 eggs"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kia Dunn"
+},
+"reviewBody": "Super delicious. I made this with half the bacon and about a cup and a half of mayonnaise. It turned out delicious. Next time I will only use half the onion because I felt there was a little too much onion. Otherwise it was delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lois K"
+},
+"reviewBody": "I have to make this for all our picnics because it’s so popular with my neighbors. I don’t make any changes, it’s delicious just as it is."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "imhungry"
+},
+"reviewBody": "Unlike others, I love bacon in my potato salad, but I think it's a little bland as is and too many onions for me. I cut back on the onions and celery (just don't care for it) Added some paprika, garlic powder, and 2 thinly sliced radishes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shelly Costello"
+},
+"reviewBody": "I use less egg and bacon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "pamster6451"
+},
+"reviewBody": "My family wants this potato salad from now on. Tops the charts!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Karene Busby"
+},
+"reviewBody": "I tweak it a bit based on other reviews. \n I pre cut the red potatoes into bite sizes then cooked them. In a separate bowl I mixed 1/2 mayonnaise and 1/2 sour cream, added a dash of mustard, some dried chives and since my bacon was salty I only added pepper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jomomma"
+},
+"reviewBody": "I usually don't like potato salad but needed to make some for a party. Used a lot less onion and added finely diced dill pickle. This was fantastic, got compliments and sent some home with people."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tmelenick"
+},
+"reviewBody": "Followed the recipe exactly except I used chopped green onion instead of white onion. Delicious recipe! Will never buy deli prepared again. Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Recipejunkie"
+},
+"reviewBody": "Rave reviews. left out the onions and added onion powder, otherwise made it per recipe and they loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Becki"
+},
+"reviewBody": "Delish! \nI added extra eggs because I like it that way."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lette"
+},
+"reviewBody": "favorite at family gatherings!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DMAR"
+},
+"reviewBody": "Delicious!!! Will make it again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Elle"
+},
+"reviewBody": "This recipe is simple and easy. The potato salad turned out wonderful and my family loved it. Will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "eggcellent"
+},
+"reviewBody": "I ended up using almost 4 lbs of potatoes, and cooked my onions a little before adding which added a nice flavor. Added some garlic powder and paprika as well.\nNext time i will definitely dice my celery finer.\n\nI have only tried it warm so far - and it was excellent. Looking forward to seeing how it is chilled. (:"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/25155/red-skinned-potato-salad/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/217/salad/potato-salad/",
+"name": "Potato Salad Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16381/salad/potato-salad/red-potato-salad/",
+"name": "Red Potato Salad Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/25155/red-skinned-potato-salad/",
+"name": "Red-Skinned Potato Salad"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

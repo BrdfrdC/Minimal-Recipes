@@ -1,0 +1,360 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Waldorf Cabbage Salad"
+,"datePublished": "2020-06-18T23:05:41.000-04:00"
+,"dateModified": "2022-07-14T16:16:42.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Erik Owens"
+,"url": "https://www.allrecipes.com/cook/24323273"
+}
+]
+,"description": "Thinly sliced savoy cabbage pairs up with crisp apples, walnuts and celery in a classic mayonnaise-based Waldorf dressing."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/jyZt85u5iAQl9HQU_bOh9iC4fGM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4466443-2731373ffda3489daffe167de71e9233.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Waldorf Cabbage Salad"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "22"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "336 kcal"
+,"carbohydrateContent": "30 g"
+,"cholesterolContent": "7 mg"
+,"fiberContent": "7 g"
+,"proteinContent": "4 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "460 mg"
+,"sugarContent": "20 g"
+,"fatContent": "25 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"0.25 head savoy cabbage, thinly sliced",
+"4 apples, cored and diced with peel",
+"0.5 cup finely chopped walnuts",
+"6 stalks celery, diced",
+"0.33333298563957 cup mayonnaise",
+"1 tablespoon white sugar",
+"0.5 teaspoon salt" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Use a chef&#39;s knife to slice cabbage into thin pieces 1 to 2 inches long. Do not use the large ribs of the cabbage, as they are too strongly flavored."
+} ,{
+"@type": "HowToStep"
+,"text": "In a large bowl, toss together the cabbage, apples, walnuts, celery, mayonnaise, sugar and salt until evenly coated. Serve immediately or store in the refrigerator for up to one day."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT20M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "TicaTime"
+},
+"reviewBody": "I always soak chopped apple in pinapple juice from a small can of pineaples in juice and then add the pineapple too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Baby Kato"
+},
+"reviewBody": "Thank you for sharing this lovely recipe, which we will enjoy again. We enjoyed it very much. Made exactly as written. I used a regular green cabbage and for the apples I used early mac's. (it was what I had on hand) They worked great in this recipe. The only change I will make is to drizzle lemon juice over the apples next time to keep them from turning brown. My husband is allergic to nuts, so his portion was minus the nuts, I did use the nuts in my salad. They really add flavor and texture to the dish. So happy we tried this."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Danielle Lander"
+},
+"reviewBody": "Delicious! Added lemon juice and grapes!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "formymen"
+},
+"reviewBody": "Wanted to use up leftover cabbage, and decided I wanted a cabbage type of a salad. Well I found this gem and it’s delicious. We all loved it. Each of us discussed certain things we would put into it like Feta and Bleu cheese chunks next time. This recipe does not need to be adjusted unless it’s for dietary reasons. It’s simple, basic ingredients and I intend on making it weekly. Served it with fish and Brussels sprouts. Thank you for your submission!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Donna Kirchner"
+},
+"reviewBody": "Very easy to make and quick. .flavor is great...will be making again.."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joy"
+},
+"reviewBody": "This salad is really delicious! I made it for a large group so I used a huge cabbage. I doubled the mayonnaise to cover the extra cabbage, and left the other ingredients the same."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Bren"
+},
+"reviewBody": "We really liked this salad, so fresh tasting. I made two changes, I forgot to put the sugar in and I didn't miss it. The other change was adding 1 tbs of white wine vinegar to the apples. I will make this again, thanks for sharing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kidcook"
+},
+"reviewBody": "We really liked this salad. It will be a keeper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christie Alter"
+},
+"reviewBody": "Very good. I tossed the apples in lemon juice before adding them to the salad. I also threw in some dried cranberries and green onions that I needed to use up. Rather than mixing in the walnuts, I sprinkled them on top for a prettier presentation."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rex Hutcheson"
+},
+"reviewBody": "Really good way to use savoy cabbage."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Tapestry"
+},
+"reviewBody": "Loved this Salad. So much you can do with the basic concept. Made it last night but with ready to use coleslaw from the store. Cut up one apple, one stalk of celery, handful of walnuts added to coleslaw. For the dressing I like to put 1 tablespoon of sugar and 1 tablespoon of vinegar added to the mayonaise and mixed together. The vinegar helps the apples to keep from going brown."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "beth"
+},
+"reviewBody": "Very easy salad to make and delicious. Didn't have walnuts so used chopped almonds. My husband is picky on salads and loved this, great summer salad!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "A. H. Miller"
+},
+"reviewBody": "Lemon juice on the apples was someone's good suggestion for this recipe. Fresh apples and the mild crunchy cabbage together were just what my body seemed to need tonight. My 7-year-old even said, \"For some reason, I like this salad.\""
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MISSWISS"
+},
+"reviewBody": "Delicious! Easy to make and everyone loved it! Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jutta"
+},
+"reviewBody": "I added roasted pine nuts instead of the walnuts and a bit more vinegar. Very tasty that way. Thank you."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "VIBI"
+},
+"reviewBody": "Very nice! fresh and tasty... didn't care too much for vinegar, so I added a tablespoon of lemon juice for the zing part, it also helped keep the apples crisp white. Might try adding raisins next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Wilemon"
+},
+"reviewBody": "This was pretty good! I added a tablespoon of vinegar after reading the review of wanting 'zingy'."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I enjoyed this recipe and am making it again today. Easy and tasty. Not quite as zingy as I would like, but very good. Thanks for sharing!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/24816/waldorf-cabbage-salad/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/96/salad/",
+"name": "Salad"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16932/salad/waldorf-salad/",
+"name": "Waldorf Salad Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/24816/waldorf-cabbage-salad/",
+"name": "Waldorf Cabbage Salad"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

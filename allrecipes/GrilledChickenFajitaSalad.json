@@ -1,0 +1,222 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Grilled Chicken Fajita Salad"
+,"datePublished": "2016-12-22T01:06:39.000-05:00"
+,"dateModified": "2018-04-13T00:23:53.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Baking Nana"
+,"url": "https://www.allrecipes.com/cook/bakingnana"
+}
+]
+,"description": "Chicken strips are grilled with peppers and onions and served over lettuce in this easy recipe for a hearty fajita salad."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/qPS0PI1qutpVyZ-my5hkR8pneg8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4450582-80100ff266fd4656ab7dfb2bf077767b.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Grilled Chicken Fajita Salad"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "8"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "283 kcal"
+,"carbohydrateContent": "20 g"
+,"cholesterolContent": "65 mg"
+,"fiberContent": "5 g"
+,"proteinContent": "27 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "1738 mg"
+,"sugarContent": "13 g"
+,"fatContent": "10 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1 pound skinless, boneless chicken breasts, cut into strips",
+"1 (12 ounce) bottle liquid fajita marinade",
+"2 tablespoons vegetable oil",
+"1 clove garlic, minced",
+"0.5 teaspoon kosher salt",
+"0.25 teaspoon ground black pepper",
+"2 heads romaine lettuce",
+"2 red bell peppers, cut into 1/4-inch strips",
+"0.5 onion, cut into 1/4-inch strips" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine chicken strips and fajita marinade in a large bowl. Let marinate in the refrigerator, 1 hour to overnight."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat an outdoor grill for medium-high heat and lightly oil the grate."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine oil, minced garlic, salt, and pepper together in a bowl. Clean heads of romaine lettuce; cut in half from end to end. Brush halved romaine lettuce with oil-garlic mixture."
+} ,{
+"@type": "HowToStep"
+,"text": "Add sliced peppers and onions to the oil-garlic mixture. Toss to combine."
+} ,{
+"@type": "HowToStep"
+,"text": "Arrange the romaine cut-side down on the oiled grill. Cook just until grill marks appear, about 2 minutes. Remove and set aside to cool."
+} ,{
+"@type": "HowToStep"
+,"text": "If you have a grill basket, spread marinated chicken evenly in the basket; otherwise, thread chicken and vegetables on skewers. Grill chicken for 5 minutes. Turn the chicken in the basket, add the vegetables, and grill until an instant-read thermometer inserted in the chicken reaches 165 degrees F (74 degrees C), about 10 minutes more."
+} ,{
+"@type": "HowToStep"
+,"text": "Slice grilled lettuce and place on serving plates. Divide chicken and vegetables evenly over the grilled romaine lettuce."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT95M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "FrackFamily5 CA—>CT"
+},
+"reviewBody": "We loved this! I double the ingredients. Made as written except I couldn’t find the liquid marinade. I used a powder packet mixed with water and olive oil. Very good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "olivia carbone"
+},
+"reviewBody": "I thought this recipe was super yummy &amp; a nice way to do mexican without all the calories. The only thing I’ll do differently next time is not grill the lettuce and use them as lettuce wraps themselves, but it is yummy grilled as well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "proverb1412"
+},
+"reviewBody": "Very good. We topped it with homemade pico de gallo and a little siracha sour cream. Es muy bueno!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "KGora"
+},
+"reviewBody": "Chicken fajitas is one of my favorite dishes so when I saw this salad I had to try it. Loved the simplicity of this. The Panasonic Countertop Induction Oven made this such a breeze to prepare. I didn't label my chicken when I froze it and thought I had pulled out chicken breast but instead it was boneless skinless thighs. I went with it. Turned out delicious. Thanks for the keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bibi"
+},
+"reviewBody": "Love this salad! This recipe has all the flavors I love in fajitas, but without the tortilla. Since I am going low carb, this was a delight! I have had grilled romaine at a restaurant, before, but I have never done it at home. Thanks to Baking Nana, and to the Panasonic Countertop Induction Oven, my grilled romaine was a success. The CIO was a real help, because I could see what was going on with the romaine, as it grilled. There is no need to wait for summer to grill with this appliance, and actually, it's too hot to grill outside for me in the summer, so win, win! The garlic flavored oil was just right on the veggies. I used \"Delicious Chicken Fajita Marinade\", from this site, on the chicken, so in case you happen not to have any bottled marinade, you can still accomplish this gem of a recipe. (Note to self: add some smoked paprika to the marinade next time for a hint of smokiness in the flavor.) Low-carb, Tex-Mex, healthy protein, rainbow veggies--what more could a girl ask for in a lunch or light dinner? Thanks, Baking Nana!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Sometimes you have to wonder how an easy to make recipe can be so flavorful and healthy too. The countertop induction oven made quick work of this. The marinated chicken, onion and peppers were done in 6 minutes mixing at the halfway mark and came out sizzling. I will definitely make this again however I will try Grill Medium High with the chicken, onion and peppers. Without a doubt this will go into my TNT folder."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/256627/grilled-chicken-fajita-salad/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/",
+"name": "Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1642/everyday-cooking/",
+"name": "Everyday Cooking"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/256627/grilled-chicken-fajita-salad/",
+"name": "Grilled Chicken Fajita Salad"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

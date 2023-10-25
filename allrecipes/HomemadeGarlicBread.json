@@ -1,0 +1,211 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Homemade Garlic Bread"
+,"datePublished": "2019-05-03T23:24:36.000-04:00"
+,"dateModified": "2022-01-14T01:26:05.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Margaritas On The Rocks"
+,"url": "https://www.allrecipes.com/cook/margaritasontherocks"
+}
+]
+,"description": "Prepping homemade garlic bread is the easiest way to earn the most smiles! Just spread a simple garlic butter over slices of French bread, wrap, and bake."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/PxIem7DN03Wj_ksYZO5qx__3POA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8635127-fcf0553883494037874293f8bac5d63b.jpg",
+"height": 2047,
+"width": 1365
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Homemade Garlic Bread"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "9"
+}
+,"cookTime": "PT25M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "316 kcal"
+,"carbohydrateContent": "33 g"
+,"cholesterolContent": "31 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "7 g"
+,"saturatedFatContent": "8 g"
+,"sodiumContent": "597 mg"
+,"sugarContent": "2 g"
+,"fatContent": "18 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"0.5 cup butter, softened",
+"3 tablespoons olive oil",
+"4 cloves garlic, minced",
+"1 tablespoon garlic powder",
+"1 tablespoon chopped fresh parsley",
+"0.5 teaspoon salt",
+"1 loaf French bread" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 400 degrees F (200 degrees C). Line a baking sheet with aluminum foil."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix butter, olive oil, minced garlic, garlic powder, parsley, and salt in a bowl until well combined."
+} ,{
+"@type": "HowToStep"
+,"text": "Cut bread loaf into 1-inch slices and spread garlic mixture over each slice. Place each on a baking sheet. Wrap with additional aluminum foil."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until bread is crispy and heated through, 25 to 30 minutes."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT35M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Ruth McCoskey"
+},
+"reviewBody": "Homemade garlic bread should start with making your own dough."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "So delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Spencer"
+},
+"reviewBody": "This is not diet food but it is delicious! Easy to make but make sure that you have let the butter come to room temperature or you will be blending stuff hard to mix. We like it best on sour dough bread but I am guessing you could put the butter mixture on just about any bread. A little garlic taste, put on less; strong garlic taste, slather it on!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Loretta Asencio"
+},
+"reviewBody": "Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chef Mo"
+},
+"reviewBody": "This was like a homemade version of Texas Toast! I decided to broil it at the end for some color, but made it as written! Wonderful garlic flavor and not overpowering!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Pat"
+},
+"reviewBody": "Very good, however I crushed the garlic because I didn't want to bite into little pieces of it. This also freezes well."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/273325/homemade-garlic-bread/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/76/appetizers-and-snacks/",
+"name": "Appetizers and Snacks"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/14966/appetizers-and-snacks/garlic-bread/",
+"name": "Garlic Bread Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/273325/homemade-garlic-bread/",
+"name": "Homemade Garlic Bread"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

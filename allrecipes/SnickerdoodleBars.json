@@ -1,0 +1,170 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Snickerdoodle Bars"
+,"datePublished": "2023-02-12T09:00:00.000-05:00"
+,"dateModified": "2023-02-12T09:00:00.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Kim"
+,"url": "https://www.allrecipes.com/cook/k-i-m"
+}
+]
+,"description": "Think snickerdoodles but in bar shape. Just as delicious as its cookie twin."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/481p3r-K6THX29FuUPkwEMv9m68=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8537904-Snickerdoodle-Bars4x3-f8529f0f10a648d3bf146fbd4c3611e6.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Snickerdoodle Bars"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "4"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "133 kcal"
+,"carbohydrateContent": "18 g"
+,"cholesterolContent": "27 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "2 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "107 mg"
+,"fatContent": "6 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"0.5 cup unsalted butter, softened",
+"0.5 cup white sugar",
+"0.25 cup firmly packed brown sugar",
+"1 large egg, at room temperature",
+"2 teaspoons vanilla extract",
+"1.25 cups all-purpose flour",
+"0.5 teaspoon cream of tartar",
+"0.5 teaspoon baking soda",
+"0.5 teaspoon salt",
+"0.25 teaspoon ground cinnamon, divided",
+"0.13 teaspoon ground nutmeg",
+"1 tablespoon white sugar",
+"0.5 teaspoon ground cinnamon" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C). Line an 8x8-inch square pan with enough parchment paper to have overhang on all sides."
+} ,{
+"@type": "HowToStep"
+,"text": "Cream together butter, 1/2 cup white sugar, and brown sugar in a bowl with an electric mixer until light and fluffy. Mix in egg and vanilla until thoroughly combined. Add in flour, cream of tartar, baking soda, salt, 1/4 teaspoon cinnamon, and nutmeg, and mix until a dough just begins to form."
+} ,{
+"@type": "HowToStep"
+,"text": "Place dough into prepared pan. Using lightly floured hands, press dough firmly and evenly into the bottom of the pan."
+} ,{
+"@type": "HowToStep"
+,"text": "In a small bowl, mix together 1 tablespoon white sugar and 1/2 teaspoon cinnamon. Sprinkle evenly over the dough."
+} ,{
+"@type": "HowToStep"
+,"text": "Place pan into the preheated oven, and bake just until the dough in the center of the pan feels barely set, 20 to 23 minutes. Do not over bake."
+} ,{
+"@type": "HowToStep"
+,"text": "Allow cookies to cool in pan for 10 minutes before removing to a wire rack to cool completely. Cut into 16 bars."
+} ]
+,"recipeYield": ["16"]
+,"totalTime": "PT90M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "love"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "it was good the consistancy was perfect."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8537902/snickerdoodle-bars/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/362/desserts/cookies/",
+"name": "Cookies"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/836/desserts/cookies/bar-cookies/",
+"name": "Bar Cookie Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8537902/snickerdoodle-bars/",
+"name": "Snickerdoodle Bars"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

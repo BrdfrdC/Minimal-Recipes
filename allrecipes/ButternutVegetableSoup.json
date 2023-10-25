@@ -1,0 +1,940 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Butternut Vegetable Soup"
+,"datePublished": "2020-06-18T23:15:10.000-04:00"
+,"dateModified": "2020-06-18T23:15:10.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Kathy"
+,"url": "https://www.allrecipes.com/cook/1721895"
+}
+]
+,"description": "A thick, creamy butternut and bean soup is loaded with colorful, tasty vegetables - potatoes, onion, carrots, and and kale. Serve with crusty bread."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/CtzEHLSFPHo4hVoPAUGKOMJeI8M=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Butternut-Vegetable-Soup_3-2000-88bfe037ad864ac1b84af56cfb708983.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Butternut Vegetable Soup"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "73"
+}
+,"cookTime": "PT75M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "187 kcal"
+,"carbohydrateContent": "27 g"
+,"fiberContent": "6 g"
+,"proteinContent": "6 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "820 mg"
+,"sugarContent": "6 g"
+,"fatContent": "7 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"0.25 cup vegetable oil",
+"1 cup finely diced onion",
+"2 teaspoons minced garlic",
+"4 large carrots, thinly sliced",
+"2 cups peeled and cubed butternut squash",
+"12 cups vegetable broth",
+"2 red potatoes, cubed",
+"0.5 teaspoon dried thyme",
+"1 teaspoon salt",
+"0.5 teaspoon ground black pepper",
+"4 cups finely chopped kale leaves",
+"1 (16 ounce) can great Northern beans, rinsed and drained" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat the vegetable oil in a large Dutch oven over medium heat. Stir in the onion and garlic; cook and stir until the onion has softened and turned translucent, about 5 minutes. Stir in the carrots and butternut squash; cook and stir until squash begins to brown, about 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour in the broth. Stir in the red potatoes, thyme, salt, and pepper, and bring to a boil. Reduce heat and simmer until vegetables are tender, about 45 minutes. Stir in the kale and great Northern beans, and simmer until the kale is tender, about 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour about 3 cups of the soup into a blender, filling the pitcher no more than halfway full (you may have to do this in two batches). Hold down the lid of the blender with a folded kitchen towel, and carefully start the blender, using a few quick pulses to get the soup moving before leaving it on to puree. Return the pureed portion of the soup to the soup pot, leaving the remaining soup chunky. Alternately, you can use a stick blender and partially puree the soup right in the cooking pot."
+} ]
+,"recipeYield": ["10"]
+,"totalTime": "PT105M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I make this all the time. I add celery for flavor. Extra carrots and two cans of white beans preferably cannellini. For seasonings, I add extra garlic, a dash or two of nutmeg and coriander, and then usually a couple teaspoons of turmeric. I usually only add 8 cups of liquid, one large container of broth, and fill that with water to make 8 cups. Use an immersion blender instead of putting it in a table top blender. I like it chunky, so I only give it a few pulses. My husband likes meat in his soup so we cut up andouille or kielbasa sausage and put that in there toward the end"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Suzanne"
+},
+"reviewBody": "I love it! I followed the recipe except I used spinach instead of kale because that’s what I had. Otherwise it’s delicious just as is."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "GodApollosFarts555"
+},
+"reviewBody": "I loved it! . I did not have any great northern beans so it did not come out as thick as yours. I did not have kale so i used baby spinach ."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Susan"
+},
+"reviewBody": "Awesome recipe. I followed the recipe exactly except that I used vegetable stock. So tasty!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nancy K"
+},
+"reviewBody": "I love this recipe as it is full of veggies and super flavorful! I reduced the broth to 8 C and added 4 C H2O, 1 tsp of red pepper flakes, and I did not have any white beans so I subbed in black eyed peas! It makes a huge pot so its great for a large fam, or to freeze some and give some away!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lynners"
+},
+"reviewBody": "I made a few additions to this recipe but think it would be just as good if I hadn't. I used olive oil rather than vegetable oil. I used 8 cups of vegetable broth and 4 cups chicken, added a can of fire roasted chopped tomatoes and some sliced fresh mushrooms. I also added beans I had on hand which was one can of large butter beans and a can of small white beans. I sauteed the onions and garlic, added the squash and carrots and when ready as noted in the recipe I put all that into a soup pot along with the broth, thyme, canned tomatoes and the cubed red potatoes. Then I sauteed the kale as I think it's better if added after it's cooked down or wilted, added that to the pot and repeated with the mushrooms. The red potatoes took a while to soften up, but after bringing to a slow boil and then immediately reducing the heat to low and simmering for 30 minutes they were just right. This made a lot of soup! I served it with toasted sour dough bread. Oh...I didn't puree it but wanted to note that putting very hot liquid into a blender and holding it down with a towel, in my eyes, is foolish and dangerous! Hold off adding cups of broth to the pot and then mix the cold or room temp broth half and half with the hot vegetable soup from the pot. You can also take out what you want to puree and allow it to cool first. If you've never put very hot liquid into a blender you mightn't realize that doing so will cause the top to blow off and hot liquid to go everywhere."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Peppa"
+},
+"reviewBody": "I did make changes. I used 4 cups of chicken broth and 8 cups of the vegetable broth. I used spiral cut squash because I had it in the fridge. I also added two chicken billion cubes. I will never try to use a blender again. Even with the folded towel over the top, soup still went everywhere. Other than that mishap, it had a really good taste. I would make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Neil"
+},
+"reviewBody": "I played fast and loose with the amount of vegetables. I bought 1 bunch of kale. I used 1 bunch of kale. I bought one butternut squash and used all of it. I bought 2 red potatoes the size of softballs (more or less) and used them. I added a half teaspoon of marojam and a teaspoon of Mrs. Dash, my go to spice. Served it with salad and sourdough bread. Very tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Krista"
+},
+"reviewBody": "Very good! I added celery because I love celery in soup and also Italian seasoning because I didn't have thyme. I used spinach instead of kale."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Ginnie Wise"
+},
+"reviewBody": "I wasn’t impressed. It was really bland, even after I spruced it up with extra spices. The beans should’ve been added far earlier in the process to soften and absorb the flavors. I won’t make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jimmy W"
+},
+"reviewBody": "Phenomenal recipe. I used only 8 cups of vegetable broth and the consistency was perfect. My family and friends loved it! Will definitely make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Robyn Featherston"
+},
+"reviewBody": "I really liked this soup, I did make some adjustments to it, which I feel added more flavor to the soup. But overall the recipe itself is a great starting point.\n\nI used olive oil instead of vegetable oil.\nI used a whole butternut squash, which was more than the recipe called for.\nI added a lot more fresh garlic.\nI used small red potatoes, and added more.\n I added about 3 heaping handfuls of medium chopped spinach instead of kale.\nI used 4 cups of vegetable broth and 4 cups of water.\nFor spice and a kick to it, I added a lot of mild curry powder.\nUsing my hand blender, I blended part of it directly in the pot. \nAfter blending, I added a couple of handfuls of broken up soup noodles, which gave it a nice texture.\n\nVery hearty, thick satisfying soup, especially on a cold, snowy day. I will definitely make this again. I'm thinking of trying sweet potatoes in it as well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rachael Redles"
+},
+"reviewBody": "I have made this soup about 6 times in the past month. It is delicious. I like it pretty much completely pureed though, and so did the dozens of people that have tried it. I have tried it without kale or beans and with. Both are delicious. if you choose to puree the soup, make sure you have enough potatoes because it gives it the thick texture"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Walkernd"
+},
+"reviewBody": "We loved the soup! Delicious, light but filling. We will have this one on a regular basis."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TXRachel"
+},
+"reviewBody": "It was SO much better than I thought it would be!! I followed it as written except for adding a cup of sweet potato and only 2 cups kale with 2 cups of spinach. And a pinch of nutmeg. OH...and I didn't have any beans on hand. You can always add more winter veggies if you think it is too runny, as some reviews mentioned. Will make again!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "NH Grammy"
+},
+"reviewBody": "Thanks to the submitter, an excellent base to start with. I had to make changes for family preferences and very low sodium restriction. 2 TBL olive oil, LG onion chopped, 3 cloves garlic, 6 carrots, 4 cups squash, 8 cups low sodium chicken stock, 4 sm red potatoes with skin, 5 ox pkg organic baby kale, 1 can reduced sodium cannelini beans. I added thyme and black pepper, but no salt. My immersion blender on short pulses allowed me to blend to the perfect consistency. These changes yield 16 cups of soup, calculated to 118 mg sodium per cup. Phenomenal flavor, enjoyed by 4 generations in my family."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jamie"
+},
+"reviewBody": "Did not purée. Only used 8 cups of water. Otherwise, as directed. \nTasted good but only specific flavor was from beans. Will make again using baked then diced squash and 6 cups (instead of 4) of kale."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JMW"
+},
+"reviewBody": "My wife and I love this soup! We loved it even more with a few changes.\n\nFollowing many of the suggestions offered in previous reviews, and breaking away from the vegetarian version, I made the following changes:\n\n1. In step one, I cooked hot/spicy pork sausage before adding the onion and garlic.\n2. I used an entire medium sized butternut squash - probably 3-4 cups. \n3. I used 3-4 red potatoes, depending on their size\n4. I used 8-10 cups of chicken broth versus 12 cups of vegetable broth.\n5. I only used 2 cups of the finely chopped kale leaves versus 4. \n6. I used 2 cans of Northern beans versus 1. \n\nLet me finally add that blending 6 cups of the soup at the end is key!!! Makes the soup rich, thick, and delicious!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mia DiMartini-Colon"
+},
+"reviewBody": "I tweeked it a bit and we loved it. I used onions, red/green peppers, crushed garlic, Mrs Dash garlic herb seasoning, salt, sofrito ( spanish seasoning) for flavor. For the veggies I used the butternut squash, potatoes, celery, baby carrots, kale, and baby spinach. It was really good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JAMunroe"
+},
+"reviewBody": "Used cabbage instead of Kale."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "HickoryHill"
+},
+"reviewBody": "I loved this recipe, thank you! Just made a couple alterations: 4 c organic chicken broth + 8 c h20 for broth; used olive oil + 1 tbsp walnut oil; 6-8 small baby red potatoes chopped w/peels; added: 3-4 tbsp brown sugar, 1 generous tsp nutmeg, pinch of cayenne, and steeped in a branch of fresh thyme instead of dried; simmering after boil for an hour+. Didn't purée, love the taste of veggie cubes together. Used all the kale recipe called for: what a powerhouse of nutrition w/butternut squash &amp; kale &amp; xtra brothy style was wonderful for winter \"headcold\" season!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jeand"
+},
+"reviewBody": "Excellent with strong thyme taste!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marilyn"
+},
+"reviewBody": "Excellent flavor!! I used sweet potatoes instead of squash, and cut back on the broth, since my husband likes thicker soup."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Chanelle"
+},
+"reviewBody": "This soup is great. I found it to be a little under seasoned so I added a bit of nutmeg and curry."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Billie Cornell"
+},
+"reviewBody": "This was a very yummy and easy to modify recipe. Instead of vegetable broth, I used some ham broth that I made up with some smoked ham hocks that I had in my freezer. I also used dried beans instead of canned, let them soak over night and then added them with everything else. I started this on the stove and then moved it to a crock pot and let it finish cooking a little longer because of the beans. Made some ham and beans with the rest of the broth and ham. Now I have my freezer stocked with some great soups! Thanks Kathy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tricia Carey"
+},
+"reviewBody": "I made this with a few alterations to increase the health value. I made it with no oil, placed all the ingredients in the crock pot, except the salt which I added just before serving. I also used dried great northern beans that I rinsed prior to adding. I cooked it all day on high and everything was beautifully cooked and delicious. Since we eat vegan I used a vegan chicken flavored broth powder instead of the veggie broth (since I did not have any) and thought it made a nice complement to the other flavors."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "greenc2"
+},
+"reviewBody": "So delicious. I made this because I needed to do something with a bunch a kale. I thougt this looked healthy. I never thought it would be so good. I added some fresh basil, parsley, oregano, and green onions also. The whole family loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "foodlicious"
+},
+"reviewBody": "This was pretty good. I liked the butternut and all the vegetables in it. It was hard to assemble though. I think we overcooked it the butternut squash. The recipe was also a little bit too sweet for our tastes"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Virginia Sanderson"
+},
+"reviewBody": "Delicious! I added a rutabaga, used a peeled baking potato in place of the red potatoes -- roasted all the veggies in the oven after tossing with olive oil and herbes de provence then added them to the broth -- also added a can of big lima beans with the northern beans -- threw in about 1/2 TBSP more herbes de provence near the end."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Es_caliente"
+},
+"reviewBody": "I made this today and it was awesome! I for 8 servings and used a little less broth than on the recipe; I also used chicken broth instead of vegetable broth and pinto beans instead of the northern beans because that all I had. It came out great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "BamaMomof3"
+},
+"reviewBody": "Great flavor, great ingredients, simple directions! This was a great recipe. I did tweak so I couldn't give it 5 stars as it stands, but I didn't change much so 4 stars it is. I blanched the potatoes (idaho) ahead of time and softened the squash by microwaving it under plastic wrap for about 10 minutes to make it easy to peel and chop. I used a can of drained, chopped greens instead of kale just because that is what I had on hand. Everything else was pretty much the same and my whole family loved it...even my very picky youngest son! Great winter meal!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Judy"
+},
+"reviewBody": "I love having lots of veggies in the soup but even after only adding 10 cups of broth, the soup was too watery. Next time, I'll try 8 cups. I added more thyme and some rosemary which made the soup even better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MOLLE888"
+},
+"reviewBody": "It always amazes me that vegetables alone, with just a few seasonings, taste so delicious! This recipe is a winner, both tast wise and health wise. Although I don't agree with the boiling time (my veggies were almost overdone after 25 minutes), I didn't change a thing about the recipe except for reducing the broth by 2 cups and adding cabbage with the kale. What a wonderful way to get your vitamins! Thanks for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kibbster"
+},
+"reviewBody": "Excellent recipe! Very easy to alter to suit your tastes and vegetables on hand. I reduced the vegetable oil to just 2T, added 1 1/2 cups mushrooms with the onion and garlic, omitted carrots and kale, and added about 1/2 the amount of beans. Also, for spices, added 3T fresh basil, 1/2 tsp nutmeg, and 1/4 tsp tumeric. Reduced the broth to 6 cups, and added 2 cups water. Also, only used 1/2 tsp salt. Delicious! Will be making this one again! \n\nOne more tip: As other reviewers recommend, I pierced the squash all over with a fork and roasted it whole for an hour at 400 F."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nancy"
+},
+"reviewBody": "This is so delicious and healthy. I found this recipe by doing an ingredient search for kale. I don't like the taste but wanted to add it to my diet. I can't even taste it in this soup. I accidentally used 8 cups of vegetable broth (bad math) and, fortunately, it seemed to be the perfect amount. I will definitely make this again. A great way to get some colorful veggies into your diet."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nicolemarx13"
+},
+"reviewBody": "OMG this soup is phenomenal!!! I just made it today for the first time and the only thing I added was ground chipotle pepper for some kick. I used probably close to a tablespoon, but for those who don't like a lot of spice you don't have to use so much. I added it when I was sauteing the onions and garlic so that it adds some smokiness to the flavoring. Super yummy. I finished it off with some crunchy baguette bread broiled with some olive oil and I have to admit it's a super addicting dish.\nThis is one for the books!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Blissful"
+},
+"reviewBody": "This soup was awesome! The Kale is a lovely touch (healthy and colorful) if you use about 3 cups. Make sure you simmer for about 15 more minutes or it may be more bitter. I added canned diced tomatoes and it was just perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "hanjinmie"
+},
+"reviewBody": "I only added 2 cups of Kale... I didn't want to take a risk of ruining the soup with such a bitter green.\nThe soup tastes SO GOOD, but you'll have to wait until the very end to rate this one. PLEASE DO NOT IGNORE THE FINAL STEP. HOLD DOWN THE LID WITH A CLOTH! You may want someone with muscles doing this one. I thought the lid of my blender would be able to handle it... Let's just say, I had to add 15 min to the recipe because of extra cleaning time. Excuse me while I go have a shower!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sarahluvsallie"
+},
+"reviewBody": "I'm not one to (successfully) alter a recipe, but here's what I did to make this soup even tastier: 10 cups of broth instead of 12, added a can of garbanzo beans, a couple more potatoes, a large sweet potato, and eliminated the kale. Used the stick blender for a few pulses so it was creamy but still chunky. Oh.My.Gosh. SO GOOD and it makes so much that I was able to eat it almost all week long!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Tessa"
+},
+"reviewBody": "It was really good. I chose not to puree the soup and i like d it better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ligia"
+},
+"reviewBody": "This soup was delicious. To make it easier I used one large can of pumpkin instead of the butternut and did not need to puree. It was thick and delicious and tasted even better the next day."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SHEIN"
+},
+"reviewBody": "I rarely go back and rate recipes, but this one was truly great. I usually fiddle with recipes and change things, but I made this one pretty true (used only 10 c broth, and that was plenty) and it was awesome. Whole family enjoyed it and I'm looking forward to the leftovers for lunch. This is the type of recipe that you can add or modify easily and it will come out great. I'll make this again and again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Three Herbs"
+},
+"reviewBody": "This is a wonderfully delicious soup!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "adibeth21"
+},
+"reviewBody": "This soup was SOOOO GOOD! I did take some advice and put in an apple and nut meg... I also rosted the left over squash in the oven and added it to the puree. It really sweeted it up and gave it a more nut flaver."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "rpariser"
+},
+"reviewBody": "Pretty good, this recipe makes a ton of soup! I left out about two cups of broth because it did not fit into my soup pot. Good thing I did, because after pureeing three cups of the soup it was not very chunky (I like chunky soup). I added more garlic and about a teaspoon of rosemary to more flavor. I also added in a handful of pasta shapes at the end because I thought that it needed something more."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "onlyme"
+},
+"reviewBody": "I made this and my husband said it was one of the best meals I've cooked, my daughter agreed. They really loved it. I didn't use any kale and made a few adjustments. I added a couple of bay leaves, added sliced mushrooms and celery, added parsley, basil, thyme and the biggest change I made was I sauteed some chopped steak then added it to simmer with the soup for more flavor. I'm sure I would have enjoyed it without the meat because it was very hearty, but I know my husband enjoys some type of meat in his soup. Anyway, it was real tasty and I look forward to making this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "katierosebuchinger"
+},
+"reviewBody": "This soup was GREAT! I didn't have kale, so I just skipped it, and I used carnival squash instead of butternut. I'm sure it's great the way the recipe is written, but it's also very adaptable, so bonus points! I think it would also be good with some bacon sprinkled in it, too. I've never liked squash soups, usually they are too sweet for me, but this was just right. Definitely a keeper, a great soup for a chilly, rainy, autumn supper! :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christy83"
+},
+"reviewBody": "Excellent!!!!!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "amyroman"
+},
+"reviewBody": "This was a hearty, delicious, vegetarian soup! I upped a lot of the veggies- I used 1 large onion instead of 1 cup diced; 4 potatoes instead of 2, and 2 cans of beans instead of 1. I used the whole amount of vegetable broth, and threw some fresh basil leaves in there as well. Delicious! Served with crusty, French bread and a fall salad for a healthy, hearty meal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Auntylene"
+},
+"reviewBody": "I really liked the flavor of this soup. I didn't want such a big pot of soup so I used 8 cups of water. That seemed like enough water for the amount of vegetables called for. I only had black beans so I rinsed them well and added them to the soup. It was good so I think thisa soup is fairly forgiving as to the type of beans you add. Excellent fall soup. Thnks for the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Odette Peregrina Atkins"
+},
+"reviewBody": "Thick, and creamy. We love it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stacy"
+},
+"reviewBody": "really tasty soup, i think it could use more potato, kale and squash. it's pretty brothy. but really, really good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Anabelle W"
+},
+"reviewBody": "Delicious! It has a sweet, earthy taste to it. I used double the amount of garlic and veggies, (plus mushrooms) and substituted a can of garbonzo beans for the great northern beans that the recipe calls for, as well as two cans of pinto beans and a can of kidney beans. The result was hearty and truly scrumptious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dale Hatton"
+},
+"reviewBody": "My first soup. WINNER! The only change I made was baby spinach instead of kale since I had it, extra salt, pepper and added cayenne pepper. Everyone loves how pretty and flavorful it is. Thanks. Awesome with a chunk of crusty baguette."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "N Morski"
+},
+"reviewBody": "A really good, different soup. I have soup nearly everyday for lunch at work and I am slways looking for new ideas. I will be making this one again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "felicia"
+},
+"reviewBody": "This was a wonderful hearty soup for our cold winters in Massachusetts. The only things I did differently were using olive oil instead of vegetable oil and I used chicken broth as the store did not carry vegetable broth. So good my 4 year old devoured a bowl of it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bobbins"
+},
+"reviewBody": "I used 8 cups of vegetable broth because it is just two of us and I didn't want a lot of leftovers. We used 2 cups of kale and added 1 can of mushrooms because I like mushrooms. This was so good. Thanks for the inspiration. The recipe was added to our book. It's a keeper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "WinoJenn"
+},
+"reviewBody": "While this soup recipe was a good starting off point, I felt the need to bump up the flavor and ingredients. I added a can of diced tomatoes, a Granny Smith apple, and some nutmeg to make it a little more Fall-ish and to sneak in some more \"good stuff\". I used half the amount of Kale to ensure it wouldn't be too bitter for my kids. All in all, the soup was delicious. I wish I hadn't used 12 cups of broth as the recipe called for since I felt it was a little thin. I think 10 c would've been perfect. My husband also wished it had some more beans as he is not vegetarian, and I agree. Don't forget the bread...yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Chris"
+},
+"reviewBody": "This was delicious for healthy food. My kids were not fond of the kale, but my husband and I loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "curlyq"
+},
+"reviewBody": "I don't know what I did wrong, but I made this soup according to the recipe and the bitterness of the kale is overwhelming."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jackie w."
+},
+"reviewBody": "Absolutely wonderful and full of flavor. Could not stop eating it from dinner time until 4:00 am for a snack. Will make again, many times!!!!!!!!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mal"
+},
+"reviewBody": "I made this when I had busted my permanent retainer and couldn't eat hard food. I switched the vegetable broth out for Herb &amp; Wine broth when I couldn't find any Veggie in the store. It was delicious! It was quick, easy, and absolutely amazing. I will definitely make it again. Even if you don't think you like squash, try this recipe -- you'll love it."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/115746/butternut-vegetable-soup/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/14734/soups-stews-and-chili/soup/vegetable-soup/squash-soup/",
+"name": "Squash Soup Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16370/soups-stews-and-chili/soup/vegetable-soup/squash-soup/butternut-squash-soup/",
+"name": "Butternut Squash Soup Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/115746/butternut-vegetable-soup/",
+"name": "Butternut Vegetable Soup"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

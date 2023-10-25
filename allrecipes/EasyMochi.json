@@ -1,0 +1,738 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Easy Mochi"
+,"datePublished": "2020-06-18T23:39:16.000-04:00"
+,"dateModified": "2023-02-15T11:57:47.837-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Katrina"
+,"url": "https://www.allrecipes.com/cook/2922913"
+}
+]
+,"description": "Mochi are small Japanese cakes made with glutinous rice flour that have a soft, chewy outer layer and a deliciously sticky filling made of sweetened red bean paste."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/HUVkOYb5AjJI1pLtqXZxSwZu7g0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/193307-easy-mochi-step-8-178-cdbf0a998a464876984b6fa205f8d172.jpg",
+"height": 1125,
+"width": 1500
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=6256200366001",
+"description": "Mochi ice cream is the perfect treat for summer and you can make it at home with this easy 3 step recipe.",
+"duration": "PT3M21S",
+"name": "We Tried Homemade Mochi Ice Cream",
+"thumbnailUrl": "https://static.onecms.io/wp-content/uploads/sites/43/2022/04/07/193307-easy-mochi-3x2-245.jpg",
+"uploadDate": "2021-06-02T15:54:06.778-04:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Easy Mochi"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.4",
+"ratingCount": "52"
+}
+,"cookTime": "PT5M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "183 kcal"
+,"carbohydrateContent": "43 g"
+,"fiberContent": "1 g"
+,"proteinContent": "3 g"
+,"sodiumContent": "82 mg"
+,"fatContent": "0 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+, "recipeCategory": ["Dessert"]
+,"recipeCuisine": ["Japanese"]
+,"recipeIngredient": [
+"1 cup sweetened red bean paste",
+"1 cup glutinous rice flour",
+"1 teaspoon green tea powder (matcha)",
+"1 cup water",
+"0.25 cup white sugar",
+"0.5 cup cornstarch, for rolling out the dough" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/y__9Np9v1ImbOhzj8AFFHFmIMWM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/193307-easy-mochi-step-1-157-86de864403c14b598643a318974dd899.jpg"
+}
+]
+,"text": "Gather all ingredients."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/BlRbeP5N5shr5IwGnOqqflQ7zYk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/193307-easy-mochi-step-2-158-4ec87d9dbabc4c4bafe4a547a84c41ea.jpg"
+}
+]
+,"text": "Wrap red bean paste in aluminum foil and place in the freezer until solid, at least 1 hour."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/lbHqlSk7kSaT1BCC1OtPUHJUfL4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/193307-easy-mochi-step-3-159-f4ccf32b2e784bba8627d8d187ff41a8.jpg"
+}
+]
+,"text": "Mix glutinous rice flour and green tea powder thoroughly in a microwave-safe bowl."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/EU8nYm5pCybNBDYCGa1uuJzoiT8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/193307-easy-mochi-step-4-165-31ee5f87ae8742fc89a019d7d93dd98d.jpg"
+}
+]
+,"text": "Stir in water, then sugar; mix until smooth."
+} ,{
+"@type": "HowToStep"
+,"text": "Cover the bowl with plastic wrap and microwave for 3 minutes 30 seconds."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/zy2d_mn7eUmRThWGEtS6_N1Plxk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/193307-easy-mochi-step-5-168-053590c17716439793df14f4e8afe997.jpg"
+}
+]
+,"text": "Meanwhile, remove red bean paste from the freezer and divide into 8 equal balls. Set aside."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/l9d5y7zZHdFhRGUJ5s9EHG_MTi8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/193307-easy-mochi-step-6-169-64d11806981c49b1b4aa2cf988beeffe.jpg"
+}
+]
+,"text": "Remove rice flour mixture from the microwave. Stir and heat, covered, for another 15 to 30 seconds."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/BNmEmAXkh7-_9kbWFygkk_ZEld4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/193307-easy-mochi-step-7-173-83183060d7924d838e2c824bcb906cfc.jpg"
+}
+]
+,"text": "Dust a work surface with cornstarch. Roll about 2 tablespoons of hot rice flour mixture into a ball. Flatten the ball and place one ball of frozen red bean paste in the center. Pinch and press the dough around the bean paste until completely covered."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/HUVkOYb5AjJI1pLtqXZxSwZu7g0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/193307-easy-mochi-step-8-178-cdbf0a998a464876984b6fa205f8d172.jpg"
+}
+]
+,"text": "Sprinkle with additional cornstarch and place mochi, seam-side down, in a paper muffin liner to prevent sticking."
+} ,{
+"@type": "HowToStep"
+,"text": "Repeat Step 6 to make remaining mochi."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT95M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anthony Flannigan"
+},
+"reviewBody": "Girlfriend really loves these treats and it brings us closer together. Easy and a wonderful time making these fun treats!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amber Rieder"
+},
+"reviewBody": "Try Stiring batter until its fluffy then Microvae for 3.5 minutes, but take the bowl out and stir thouroughly every minute until the time it up :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "carolinelabonteangel"
+},
+"reviewBody": "It’s very easy to follow and simple. Haven’t tasted the results yet. But I do suggest heating just the water up first before adding it all together makes easier to mix and mold with hands and that way suggest only 3 minutes in microwave."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Alethegrandbaker"
+},
+"reviewBody": "I haven’t made it, but I don’t know how else to ask these questions. Can you replace the paste with ice cream? At what temp would you bake if you use an oven? And that’s it, thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "larissa Levon"
+},
+"reviewBody": "It was super quick easy to make the mochi! Nothing beats fresh mochi!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Augustin Sukotjo"
+},
+"reviewBody": "super easy and good texture"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Charlotte"
+},
+"reviewBody": "I made this with Splenda! Delicious!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Adriana Georgousis"
+},
+"reviewBody": "I liked this as a means to fix my craving, but overall I’m not impressed. The rice flour was quite granular and powdery. Instead of warm water, I put hotter water, and added half a cup of sugar and half a teaspoon of extra matcha prior to microwaving. I think this adjustment helped but overall this doesn’t stretch as well as store bought mochi, and it’s texture is definitely not as smooth."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pua Laparejo"
+},
+"reviewBody": "First time trying to make mochi. Great recipe. We used cookie butter to stuff instead of Azuki Bean Paste."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hatie Bender"
+},
+"reviewBody": "Great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jelu Pizzaz"
+},
+"reviewBody": "My matcha powder did not make the mochi as green as I'd wanted - rather, it was a sicky greyish tinge. Perhaps a bit of food coloring would make it better. I'd consider myself a beginner chef, and I found the recipe easy to follow. Tasted great! Thanks so much!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Susan Sliger"
+},
+"reviewBody": "This recipe was a home run. It was extremely easy to make. I made it today for 10 tour guides from Japan. They gave it a 10 and could not believe this was the first time I had made it. I doubled the recipe with no issues and made the red bean paste with red kidney beans.\nThank you, Sue:)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Atticus Smith"
+},
+"reviewBody": "Good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shayna"
+},
+"reviewBody": "Recipe was easy to follow. I made green tea with peanut butter filling. I hope it turns out good. This was my trial run before trying ice cream!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sierra"
+},
+"reviewBody": "So easy and simple! Lots of fun to make too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Satsuki Annino"
+},
+"reviewBody": "Surprisingly easy recipe! I followed the direction exactly. Next time I will reduce the amount of water .\nThe Mochi came out too soft for my taste, but my family loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lauren"
+},
+"reviewBody": "The mochi tasted awesome! It was just as good as the store bought kind and cheaper. Also the recipe was super easy to make. My one pointer is to make sure the red bean paste to dough proportion is correct because if it’s not even the red bean paste makes the mochi way too sweet. Other than that delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Annette Jones"
+},
+"reviewBody": "Great! I worked well. I made little blobs of red bean paste squeezed out of the bag onto foil and froze only for 15 minutes. I would probably up the sugar to 1/3 of a cup to sweeten a bit more. Will definitely make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Doomy Nytress (Doomy)"
+},
+"reviewBody": "Had so much fun making this with my bestie. We switched out \"matcha\" for \"taro powder\" and \"red bean paste\" for \"fresh cut strawberries\" and they turned out absolutely to DIE for. Didn't even last an hour after being finished before they were all eaten! 100% making this again with different flavor combinations to experiment with, loved how easy this recipe was to follow, and though it was incredibly painful making these.\n(Warning: the gluten is INCREDIBLY HOT when you have to work with it; have plenty of corn starch on hand to ease the heat of direct contact with the stuff, as well as corn starch ON your hands to prevent it from sticking to your fingers instead of the other side of the ball..lesson learned the hard way!)\nIt's probably best to make these with someone, who can laugh with you as you both try to grab at the hot gluten and throw it back down on your work surface trying to cool it off, and poke fun at how foolish you look and how funky your mochi balls may be turning out. They may look funny in the end, but they'll taste AMAZING, worth all the pain, and you'll have something to joke about if you shared the pain with someone else. (It also just ended up really fun to make, honestly, an amazing de-stressing activity oddly enough.)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "impatientbaker"
+},
+"reviewBody": "A very easy and delicious recipe! I heated mine for the full 3 min and 30 sec, followed by the full 30 sec. with one batch of the exact recipe, the dough made about 12 ping pong sized balls. I didn't have bean paste so I used Nutella in some and peanut butter in others, I also did not use the matcha powder and added a slight amount of icing sugar to make it slightly sweeter after reading another review.. Very yummy! In previous experiences, black sesame goes beautifully with this dough! Would recommend to those who love yummy homemade goods but don't like to wait. :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Baker"
+},
+"reviewBody": "The mochi was super chewy! I usually buy mochi from stores but after trying out this recipe, I don't think I will again. I actually had no red bean paste so I used ice cream instead. It turned out extremely good and my family loved it! I just scooped up the ice cream and placed it on the rolled out mochi mixture and wrapped it then placed it in the freezer. Thanks for sharing the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nhu Thu?nn's"
+},
+"reviewBody": "The mochi taste is very soft and sticky too"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Hongmei Yu"
+},
+"reviewBody": "for people who failed making the dough, here are lessons I've learned from past experience:\n1) make sure you have the right rice flour\n2) microwave power level is so different so a steaming option is better: steam over a medium heat for 15 minutes and stir, then steam for another 5 minutes. It is similar to the so-called snow-skin moon cake."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mark Lee"
+},
+"reviewBody": "Actually it's a Japanese dish!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Issy Lane"
+},
+"reviewBody": "Not as sweet as I would have wanted but good easy recipe! We'll try it with powdered sugar as a dusting to keep it from getting too sticky. I think that will solve the sweetness issue. Thank you"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "J. Martha Dolgner"
+},
+"reviewBody": "I saw other recipes saying 1 min intervals and stir inbetween so i met in the middle and went for 2 minutes and checked. That just happened to be perfect for my microwave. This turned out amazing. I will say wear gloves and dust them with corn starch between every one if you don't like getting sticky."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kevin Kapner"
+},
+"reviewBody": "To make it easy to stuff, we put the cut up sections of dough into a muffin tin (pre-coated with corn starch) and then placed a pre frozen (small) ice cube sized piece of ice cream! Very easy to pinch closed!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sheff ShellBlades"
+},
+"reviewBody": "Loved it thow a little tricky"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tulin O. Flint "
+},
+"reviewBody": "I changed couple things and found right amount :)my first try was super hard, next tried added less flour and added little warm temperature of water also i covered whit aluminum foil. And i did not run second mic. Part. Also i mixed powdered sugar. replaced in with pistachio gelato outside matcha ...."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "RuthyW"
+},
+"reviewBody": "Very quick and easy! I used azuki from a can, which was already pretty thick, so I only froze it for about an hour and a half. It is important to use sweet rice flour. I doubled the batch and used the following microwave times: 4 min @ first, which wasn't enough, so I stirred and did 2 more. Stirred, and did 15 seconds. Came out fine. Use lots of corn starch! Will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I made this for my FACS class. Very easy and fun to make-- prep the dough the first day and make it on the second day. Very yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jaja"
+},
+"reviewBody": "very easy n good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "latenate"
+},
+"reviewBody": "Undercooked, too much water, and completely inedible, as well as a waste of a fresh batch of homemade adzuki bean paste. This recipe is un-usable."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Katrina"
+},
+"reviewBody": "Hi everyone, thank you so much for the feedback. Some reviewers are correct; I have made a mistake and the flour should be glutinous rice flour which can also be called Mochiko. \nAlso, the green tea powder is optional as is freezing the red bean paste. Freezing the red bean paste just makes the process less messy. \nFor the cooking time, one can lower it to 3 minutes and add 15 seconds at a time until the dough looks slightly translucent. However, be sure to keep the plastic wrap on for at least 3 minutes to keep the moisture in. \nI'm sorry for all the mistakes but I am looking into correcting the recipe soon. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Rachelrama"
+},
+"reviewBody": "That was the most ridiculous mess I've ever attempted in my kitchen. Supper squishy, bloby mess. Did I microwave it too long, or not enough?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "C"
+},
+"reviewBody": "Now I see many make the same mistake I have made when I first started doing it. it wasnt till a few years later it was the type of rice flour....the rice flour people need is Glutonous rice flour or Mochiko. this gives it the sticky texture. Ive only seen it available by the name brands, but i wish everyone luck making this"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "ajwelsh"
+},
+"reviewBody": "I followed the instructions and even putting the mochi in the microwave for only 3 minutes but it became super hard--passed the point of being able to mix it still. Maybe you need to check on it ever 30 seconds? Or is there a way to make it in a pot where you can see it turn the consistency you want?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "KellyM"
+},
+"reviewBody": "Following this recipe resulted in an indestructible blog the consistency of rubber cement that was impossible to meld into any shape whatsoever."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kaarina Wirkki"
+},
+"reviewBody": "Super good. Super simple. Just beware of burning your hands with the hot mochi mix. I used bean paste out of a pouch and didn't need to freeze it; worked perfectly."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sushihorsey"
+},
+"reviewBody": "Very easy to make. Side note: the mochi dough is SUPER sticky, so be sure to prepare your surface and hands with startch before making the balls. Otherwise, very yummy and easy and fun!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Nikki"
+},
+"reviewBody": "Similar to a recipe on RecipeZaar - I didn't have the matcha (and the other recipe doesn't call for it), so I made it without. I've made it twice, experimenting with the microwave time - ours seems to heat things faster than others. You can also switch up the fillings. I've used super thick cheesecake pudding (1 1/2 c soy milk) as well as another batch with peanut butter. The red bean paste is our favorite, but we make due with what we have. Solution for getting the mochi into balls is to put the batch on plastic wrap dusted with potato or tapioca (cornstarch works, too) starch. Get some starch on one hand, put a cut piece into that hand, spoon in the filling, and pinch up the sides with the not-so-dusted hand. Keeps for a day or two in tightly sealed container lined with parchment paper. The pudding ones should be eaten almost right away. Thank you Katrina for sharing!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/193307/easy-mochi/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/227/world-cuisine/asian/",
+"name": "Asian"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/699/world-cuisine/asian/japanese/",
+"name": "Japanese"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/193307/easy-mochi/",
+"name": "Easy Mochi"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

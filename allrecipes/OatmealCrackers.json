@@ -1,0 +1,493 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Oatmeal Crackers"
+,"datePublished": "2020-06-18T23:42:34.000-04:00"
+,"dateModified": "2020-06-18T23:42:34.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "JKN"
+,"url": "https://www.allrecipes.com/cook/4868808"
+}
+]
+,"description": "Tender crackers made from oat flour, whole wheat flour, and a few other simple ingredients make nice quick treats for the kiddies. Make them sweet or savory by varying the seasonings. Grown-ups like them too."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/R_N9TqxEN7L-4KlQw0l2Pdf9_mc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/721436-7d11136843834d959d80510db020d5ee.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Oatmeal Crackers"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "3.7",
+"ratingCount": "31"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "42 kcal"
+,"carbohydrateContent": "5 g"
+,"fiberContent": "1 g"
+,"proteinContent": "1 g"
+,"saturatedFatContent": "0 g"
+,"sodiumContent": "33 mg"
+,"sugarContent": "0 g"
+,"fatContent": "2 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1.5 cups rolled oats",
+"1 cup whole wheat flour",
+"0.5 teaspoon salt",
+"1 tablespoon white sugar",
+"1 teaspoon ground cinnamon",
+"0.5 cup water",
+"5 tablespoons olive oil" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat oven to 350 degrees F (175 degrees C). Grease a baking sheet."
+} ,{
+"@type": "HowToStep"
+,"text": "Place the rolled oats into a blender or the work bowl of a food processor, and pulse several times to grind them into coarse flour. Stir the oat flour together with whole wheat flour, salt, sugar, and cinnamon in a bowl. Pour in the water and olive oil, and mix to form a soft dough. Place the dough onto the prepared baking sheet, and roll out 1/8-inch thick. Using a knife, partially slice through the dough in desired shapes."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until just barely brown, 10 to 15 minutes. Watch carefully, as they burn easily. Allow to cool completely on baking sheet before breaking along score lines into individual crackers."
+} ]
+,"recipeYield": ["36"]
+,"totalTime": "PT40M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "it was too salty and bitter"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "RunnerPack"
+},
+"reviewBody": "I left out the cinnamon because I planned on eating them with dip, but they weren't strong enough for that. *Believe* that “burns easily” part, too!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Penny"
+},
+"reviewBody": "Great base recipe. I replaced a tsp of the oil with coconut oil and used 2 Tbsp applesauce for part of the moisture. I added water until I got the consistency I wanted. I wanted them plain so I left out any seasoning besides the salt until I had them on the baking sheet. I sprinkled some with cinnamon sugar and some with a little extra salt. To save time, I made the dough yesterday, wrapped it in plastic and refrigerated it overnight. That gave the oats time to soak up the liquid. I brought the dough to mostly room temp before rolling it out a little thinner than 1/4\" between sheets of plastic (keeps my rolling pin and countertop clean. I often save cereal box liners for this), flipping it onto the baking sheet and scoring/seasoning it before baking. I cut mine in long rectangular sticks to use as scoops for yogurt and hummus (mostly). Thankful for this simple but versatile recipe! Far less expensive than boxed crackers and I know exactly what's in them. (c:"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "A Brown"
+},
+"reviewBody": "Love this recipe. They were very simple to make and tasted awesome! The only thing I did differently was to use brown sugar instead of white and canola oil in place of the olive oil (didn't have it on hand). Other than that, all the ingredients really complimented one another. :-)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Lillian"
+},
+"reviewBody": "I put a cup of sugar in these and they still aren't sweet."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sean Liddle"
+},
+"reviewBody": "A little bland so I added walnut oil instead of olive and brown sugar instead of white. Very nice!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Shirleygirl10"
+},
+"reviewBody": "I made a savory cracker with garlic powder and cracked black pepper and sprinkled garlic salt on top before baking. Disappointed in flavor and appearance."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kelly Simmons"
+},
+"reviewBody": "I had so much fun with this great starter recipe! I used 1 tbs of buttermilk plus 4.5 tbs olive oil, a dash of sugar, parsley and seaweed flakes (they add pretty purple and green fleks) and the crackers came out perfect--the buttermilk flavor added that lil extra mfp! They taste better the next day. I will def make these again and try using a bit more salt. These would be great with a seasoned olive oil for dipping!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "AutumnB"
+},
+"reviewBody": "This recipe can easily be adapted to suite many taste cravings, sweet, salty, spicy....just add some seasonings...the kids love it! Thank you for the recipe!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Aaron Alicia Cromwell"
+},
+"reviewBody": "Could use a little experimenting with. My husband loves oatmeal and loved these and these are the best cracker I've tried so far."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ericemusic"
+},
+"reviewBody": "This is great. Substituted pepper for cinnamon and no sugar...added some flaxseed. My family can't stop eating them. I think I am in the cracker business!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ruan"
+},
+"reviewBody": "My two year old loved them and we made them into animal cookies!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Laurie"
+},
+"reviewBody": "I added toasted sesame seeds and garlic, no cinnamon. The key is to make sure the crackers are really thin. Then they come out crispy and tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Morgan"
+},
+"reviewBody": "I didn't love these and I didn't hate them. I should have read the reviews first because I definitely should have added more water to make the dough more \"dough-like\". They are bland, but I sprinkled stevia and more seasonings on top to give it a nice taste. My biggest issue was just that the flavor wasn't initially there and the dough seemed to need more water. If that was specified originally I think they would have came out a lot better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michellepic"
+},
+"reviewBody": "We love this recipe! My kids love them. Great with a little jam on top! I love knowing what they are eating!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "nefariousnug"
+},
+"reviewBody": "I enjoy how this recipe is just it's bare bones. I make it just like the recipe calls for, except I add tablespoons of the spices I typically add to my oats. If my dough is a bit dry, I knead in a little honey until it's workable. Then I bake them and bring 'em to work! \n\nI tried swapping the oil for applesauce once. The result was kind of like a pita. I will do equal parts applesauce and oil next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Christine"
+},
+"reviewBody": "Added a tsp of vanilla, substituted in 1/4 cup applesauce for half the water, and substituted honey for white sugar. This makes a nice slightly sweet cracker but is not truly sweet like a cookie. I rolled all of the dough out in a 10x15 inch pan and cut lines every inch going both directions to make 1 inch squares. This seemed to be just about the right thickness and easy to break into tiny crackers. Baked 15 minutes until crispy, but in retrospect I think they might have been better a little softer. My 1 year old likes them a lot. We use them as rewards for potty-training."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sandra Storey"
+},
+"reviewBody": "These were exceptionally easy and very tasty. They are made 100% in the food processor and then you roll them on the cookie sheet. I took the advice of some reviewers and added a little more cinnamon and a little more sugar. I also topped them with a little cinnamon sugar, but I think I would not have been necessary. My kids like them, and I like that they are whole grain and not too sugary."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "tolta"
+},
+"reviewBody": "Great with balsamic and basil!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "jmtanney"
+},
+"reviewBody": "Great recipe. My daughters seem to like them a lot. I needed a bit more moisture in mine, so I added a bit of fruit juice for a sweeter style cracker. Some apple sauce or fruity baby food might be a good addition too and you could cut back on the water."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "AwesomeMommy"
+},
+"reviewBody": "eh... not impressed. didnt enjoy these at all."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Marissa"
+},
+"reviewBody": "I hate to say it but I thought these were so bland. I did herbs and Parmesan cheese, but even my 1 year old wouldn't eat them. Too bad, they looked healthy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "aroche1204"
+},
+"reviewBody": "I did not care for this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Brittany Grant"
+},
+"reviewBody": "I made these today (thanksgiving) when I realized that I had forgotten to pick some up at the store. I used cracked black pepper instead of cinnamon and used cookie cutters shaped like a turkey instead of just rolling them out. I like them but next time I will probably double the amount of spice I used but all in all a good basic recipe to add onto. I will probably share this with a friend who just had a baby, would be a much cheaper alternative to brand name baby biscuits and crackers if you leave out the spice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "isaaclyman"
+},
+"reviewBody": "Tastes just like (thicker) Wheat Thins, and much cheaper. I'd suggest you sprinkle some more salt on before you bake, or put a little more salt in the recipe--just a little--to make it tastier."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "swistain"
+},
+"reviewBody": "Really liked these! I did modify the recipe a bit by decreasing the oil to 2 T and using homemade applesauce in place of the other 3 T."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "laughinghanna"
+},
+"reviewBody": "This recipe is really easy, and the crackers are yummy. I plan on making them again and moving more toward the sweet side."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Pam Ziegler Lutz"
+},
+"reviewBody": "This is a good base recipe, but really needs some help in the flavor department. The cinnamon smelled good in the dough, but was undetectable in the finsihed product. You will need a large baking sheet for this recipe. Since this is rolled out on the sheet, it's best to use one without sides to allow room for the rolling pin. I may try a savory version of these using parm and garlic."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/214664/oatmeal-crackers/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17146/appetizers-and-snacks/snacks/",
+"name": "Snacks"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16212/appetizers-and-snacks/snacks/crackers/",
+"name": "Cracker Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/214664/oatmeal-crackers/",
+"name": "Oatmeal Crackers"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,525 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Doug&#39;s Easy Applesauce"
+,"datePublished": "2020-03-05T00:08:24.000-05:00"
+,"dateModified": "2022-09-06T13:45:58.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Doug Matthews"
+,"url": "https://www.allrecipes.com/cook/dougmatthews"
+}
+]
+,"description": "This is a simple and flavorful applesauce using brown sugar and apple cider."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Q4QiLEsx0TrR9ozZeWBDwrHK2DI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4787602-2cf8048f23df4c669759652f702869b0.jpg",
+"height": 1501,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Doug&#39;s Easy Applesauce"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "38"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "160 kcal"
+,"carbohydrateContent": "42 g"
+,"fiberContent": "5 g"
+,"proteinContent": "1 g"
+,"saturatedFatContent": "0 g"
+,"sodiumContent": "8 mg"
+,"sugarContent": "34 g"
+,"fatContent": "0 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"12 medium apples - peeled, cored and chopped",
+"0.33333334326744 cup light brown sugar",
+"1.5 teaspoons ground cinnamon",
+"1.5 teaspoons lemon juice",
+"1 cup apple cider",
+"1 pinch salt, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Mix apples, brown sugar, cinnamon, lemon juice, apple cider, and salt together in a large pot over medium-high heat. Bring to a boil, then reduce heat to low and simmer for until apples are soft, about 20 minutes. Use a potato masher while cooking to help break down the apples. Serve warm or cool."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT35M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Elizabeth"
+},
+"reviewBody": "Excellent. On a few batches, I added a bit of nutmeg or vanilla for variety. All good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mikie j"
+},
+"reviewBody": "Great applesauce . Planning on getting some apples direct from farm and making again. This would also make a great apple pie ."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "deez new cook"
+},
+"reviewBody": "Simple to make. After I cooked the apples, I used my Ninja on pulse to make it creamy. Wonderful flavor and texture. The only change I made was to only make half of the receipt."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Amy Fraga"
+},
+"reviewBody": "Terrible. Worst thing I’ve ever made. Only giving one star because I can’t give zero!! Bitter, acidic, terrible!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "terrvu"
+},
+"reviewBody": "rough chopped the (green) apples, eyeballed the apple juice- almost covering the apples; brown sugar, cinnamon and all spice to taste. mashed away, so good, and so easy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Buckwheat Queen"
+},
+"reviewBody": "This is very nice. The cider gives it an edge that most other recipes don’t have. This makes lovely, sweet dessert. Thank you for the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hubboy"
+},
+"reviewBody": "We made our first batch yesterday in the crock pot, with a mix of Macintosh and gala. We added a little cloves per other comments. I might have added just a touch too much cider. We're making a second batch today and I've cut back on the cider and will keep an eye on it for the first hour or so. We were very pleased with this recipe and agree with many of the reviewers that homemade is so much tastier than commercially processed! We plan on freezing a few containers out of today's batch. Thank you for posting this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ConkyJoe"
+},
+"reviewBody": "Easy to make and delicious. Used Red Jacket Apple Cider. It was easier to first break down the apples using a pastry cutter, and finishing with a potato masher which left it slightly chunky. Far better than any commercial applesauce. A handy side when grilling."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SoCalCindy"
+},
+"reviewBody": "This applesauce was so easy and so good. My husband loved it! I used a little less sugar and topped with brown sugar. I will make this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "amandasvaluto"
+},
+"reviewBody": "Best applesauce recipe. Didn't change a thing and it was amazing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stellar912 "
+},
+"reviewBody": "This tastes soooo good that I'm NEVER buying store bought applesauce ever again! I had made some apple cider with ground cloves, brown sugar, cinnamon sticks, and Orange peels that had simmered in my crock pot for 48 hrs prior to making this recipe. I saved about a cup and half of the cider &amp; from there, I sliced up 8 medium honey crisp apples then just added them to my crock pot. Cooked on low for 4.5 hours. Then \"keep warm\" for 5 hours. I let the apples just sit there so the juices could meld &amp; omg, u gotta try it this way! One bite tastes like the perfect fall pick me up. I drained my apples &amp; whisked them with a little more brown sugar (to taste). I like a chunky style but this could be whisked to a smoother consistency. If you like sweet applesauce, use honey crisp apples for this recipe. You will not regret this!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Roz"
+},
+"reviewBody": "Made exactly as the recipe said. Best ever!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Morgenstern"
+},
+"reviewBody": "It's going to be a favourite! I looked for something that doesn't have too much sugar in it, but still tastes great. This recipe is amazing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Barbara Hood Coyle"
+},
+"reviewBody": "Make it for a up coming dinner."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ms. Chef Esh"
+},
+"reviewBody": "Wonderful recipe! I added in a heaping teaspoon of cinnamon, a 1/4 tsp. of ginger, 1/4 tsp. of nutmeg, and about 1/8 of ground cloves! I never knew how easy it would be to make homemade applesauce!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Polly"
+},
+"reviewBody": "This was simple and delicious. I made with a variety of apples from a local orchard. Some were softer varieties and others were harder varieties which made for a nice chunky sauce. I doubled the recipe, but really wish I would have had enough apples to triple or quadruple."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SLJ6"
+},
+"reviewBody": "I loved this applesauce and I made 3 crockpots full with the apples I had. Went to my local farm and asked if they had \"seconds\" of their apples from their orchard. They came back with a huge bag of \"seconds\" which were just slightly bruised or just not pretty enough to sell. I tell you I had at least 40-50 apples of quite a few varieties and there was nothing wrong with them....AND the best part is that is was only $10 for the bag! I did reduce the brown sugar to 1/4c and the cider to 3/4 c. I did jar and process the applesauce as I wanted to keep it in my pantry and gift it to others. Thank you for an awesome recipe as I have never used brown sugar and cider before in applesauce. Way better than white sugar and water. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "chinooku"
+},
+"reviewBody": "I remembered my grandmother making applesauce, with me in tow. I have been trying to remember how she did it. This recipe comes the closest. I did not have apple cider (wrong season-Spring). I used Macintosh apples, brown sugar, a dash of nutmeg, and an ingredient I forgot I had. Cane syrup. That really stepped up the flavor a notch! I read in one of the other reviews that someone used an immersion blender. i used that and it worked wonderfully!! My grandmother's applesauce was always pink, so I did not peel the apples. Love this basic recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Robyn"
+},
+"reviewBody": "The best! All of my family loves it. Using apple cider (Honeycrisp apple cider is fantastic) instead of water like most recipes makes all the difference! I use a little less lemon juice than called for. This is THE recipe for us. \nI simply quarter the apples (no peeling or coring), cook till soft (takes longer than 20 min.), cool in fridge, then send through food strainer/food mill. Yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tammy Lynn"
+},
+"reviewBody": "Wonderful recipe Doug! I've made this several times now and plan to make it many more. I've used regular apple juice, and it's still fantastic. I puree it in the blender when it's done cooking."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "joyce"
+},
+"reviewBody": "Delightful! My family gets excited when Mom starts making applesauce!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ingrid"
+},
+"reviewBody": "I filled a big crockpot with sliced and peeled Apples, didn't chop them. Used all the other ingredients and cooked it for about 3 hours on high. Did not messure the other ingredients, used my own judgement. The Apples sauce was just right for my taste. I froze the sauce in plastic freezer bags. So far I filled up a big crock pot 3 times and plan to make more. THIS IS THE BEST APPLE SAUCE I EVER TASTED. USE WHATEVER SPICES SUIT YOUR TASTE."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mk"
+},
+"reviewBody": "Delicious! This is a lovely applesauce and easy recipe. I left the skins on the apples and used an immersion blender to blend it at the end so that the consistency was right. I also cut the sugar by using a couple of tablespoons of honey, and just a tablespoon of brown sugar. Even with this change it was still nice and sweet. Next time no need for the brown sugar at all. Good sauce!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mooline"
+},
+"reviewBody": "Excellent, easy to make. I used a mix of Gala and Macintosh, just happened to be what I had on hand. Did increase both the cinnamon and sugar to suit my own sweet tooth. All of my family loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amy Rush Howard"
+},
+"reviewBody": "Normally I don't change recipes on here since I like to make them as written and THEN tweak if necessary...BUT I didn't have apple cider. So other than using apple juice in place of cider and leaving out the sugar entirely, I made this as written using Gala apples. FAN-FREAKIN-TASTIC applesauce. I also made a plain batch w/o cinnamon but with the apple/lemon juice and it's just as good. Great recipe - you won't be disappointed."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lynn Wheaton"
+},
+"reviewBody": "Forgot to note in my previous review that I used hard cider (it isn't terribly alcoholic) instead of regular cider. The flavor was wonderful. This is my new, permanent, applesauce recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rlm2484"
+},
+"reviewBody": "Excellent recipe - just tart enough and sweet enough and perfect amount of cinnamon. I used Melrose apples, and I also opted for the slow cooker (2 1/2 hours on high). It made my house smell great all day!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah Jo"
+},
+"reviewBody": "I made this in my small crockpot--just cooked it on a low temperature all day. After it had cooked down, I cooled it a bit and ran it through the blender for a fine consistancy. Perfect applesauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nancy"
+},
+"reviewBody": "This is a wonderful applesauce recipe! I made a double batch today and canned it - beautiful. My apple of choice is Jonathan and this turned out really great. Thanks"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lutzflcat"
+},
+"reviewBody": "Very nice applesauce. I bought an 8# bag of red delicious apples on sale yesterday, and used 6 of them to make half a recipe. I left it a little chunky because that's the way we like it. The cider that I had in the fridge was \"spiced cider,\" so I cut back a little bit on the cinnamon. Very tasty applesauce with just the right amount of sweetness."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rozdodl"
+},
+"reviewBody": "Nothing like homemade applesauce. How eashy is that? Great, I used ginger gold apples. It will be my staple!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/219275/dougs-easy-applesauce/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+"name": "Side Dish"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1333/side-dish/applesauce/",
+"name": "Applesauce Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/219275/dougs-easy-applesauce/",
+"name": "Doug&#39;s Easy Applesauce"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

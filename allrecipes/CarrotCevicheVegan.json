@@ -1,0 +1,145 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Carrot Ceviche (Vegan)"
+,"datePublished": "2018-06-08T10:47:22.000-04:00"
+,"dateModified": "2022-08-22T14:43:51.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Maria Antonia Orozco"
+}
+]
+,"description": "This Mexican recipe for ceviche de zanahoria, carrot ceviche, is vegan and tastes great served on tostadas, sprinkled with avocado."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/jXF-UuPVXE-GceW1R4i6RaiNNs4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5208149-524d8452b76841b9b82e26bc7cc5f479.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Carrot Ceviche (Vegan)"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4",
+"ratingCount": "1"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "150 kcal"
+,"carbohydrateContent": "22 g"
+,"fiberContent": "5 g"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "307 mg"
+,"sugarContent": "8 g"
+,"fatContent": "7 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT25M"
+,"recipeIngredient": [
+"3 large carrots, peeled and grated",
+"1 large tomato, chopped",
+"0.5 small onion, chopped",
+"1 serrano pepper, seeded and chopped",
+"15 sprigs fresh cilantro, chopped",
+"0.5 cup ketchup",
+"2 small oranges, juiced",
+"1 small lime, juiced",
+"1 tablespoon Mexican-style hot sauce (such as Cholula®)",
+"salt to taste",
+"8 tostada shells",
+"1 avocado - pitted, peeled, and cubed" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Mix carrots, tomato, onion, serrano pepper, and cilantro together in a bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine ketchup, orange juice, lime juice, and hot sauce in a separate bowl. Pour over vegetables and season with salt. Let stand for 1 hour until flavors are well combined. Drain."
+} ,{
+"@type": "HowToStep"
+,"text": "Serve on tostadas and garnish with avocado."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT85M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Soup Loving Nicole"
+},
+"reviewBody": "I made this and another similar ceviche last night and while both were good, I definitely preferred this one. The orange and the hot sauce gave it a lot more flavor. The one thing I did not like better was the amount of ketchup in this one. It was just a little too sweet. Next time I'd cut the ketchup in half and replace it with more hot sauce. Overall good recipe and one that would be perfect on a hot summer day."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/262600/carrot-ceviche-vegan/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/108/appetizers-and-snacks/seafood/",
+"name": "Seafood"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/15133/appetizers-and-snacks/seafood/ceviche/",
+"name": "Ceviche Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/262600/carrot-ceviche-vegan/",
+"name": "Carrot Ceviche (Vegan)"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

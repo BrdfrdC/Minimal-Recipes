@@ -1,0 +1,615 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Shrimp and Smoked Sausage Jambalaya"
+,"datePublished": "2019-01-08T01:41:52.000-05:00"
+,"dateModified": "2022-08-16T11:49:11.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Hillshire Farm®"
+}
+]
+,"description": "A medley of sweet and spicy flavors comes together in this classic Cajun jambalaya that makes dinnertime quick, easy, and delicious."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/dN_0waxgC9NGm-LfrgUQcKH8Di4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6319133-shrimp-and-smoked-sausage-jambalaya-Hillshire-Farm-4x3-1-d2ab6ecfc50246c4a86d21580fdc8337.jpg",
+"height": 900,
+"width": 1200
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Shrimp and Smoked Sausage Jambalaya"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "49"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "414 kcal"
+,"carbohydrateContent": "50 g"
+,"cholesterolContent": "114 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "20 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "979 mg"
+,"sugarContent": "5 g"
+,"fatContent": "15 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1 tablespoon olive oil",
+"1 (12 ounce) package Hillshire Farm® Rope Smoked Sausage, cut in 1/2\" bias-cut slices",
+"2 cups chopped yellow onion",
+"1 cup chopped celery",
+"1 cup chopped red bell pepper",
+"2 tablespoons minced garlic",
+"1 jalapeno pepper, seeded and minced",
+"2 cups uncooked jasmine rice",
+"3 cups unsalted chicken stock",
+"1 (14.5 ounce) can diced tomatoes, drained",
+"1.5 teaspoons kosher salt",
+"0.5 teaspoon cayenne pepper",
+"1 pound large shrimp, peeled and deveined",
+"0.5 cup thinly sliced scallions, plus more for garnish",
+"2 tablespoons fresh lemon juice" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat oil in a large Dutch oven over medium-high. Add sausage; cook about 6 minutes, stirring occasionally, until lightly browned. Add onion, celery, bell pepper, garlic, and jalapeno. Cook 5-6 minutes, stirring frequently, until vegetables are softened. Add rice and cook, stirring constantly, 30 seconds."
+} ,{
+"@type": "HowToStep"
+,"text": "Add stock, tomatoes, salt, and cayenne pepper. Bring to a boil; cover, reduce heat to medium-low, and simmer until rice is just tender, 10 minutes. Add shrimp, cover, and cook until shrimp turn pink, about 4 minutes. Remove from heat. Stir in scallions and lemon juice. Garnish with additional scallions."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT50M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kim Johnston"
+},
+"reviewBody": "I doubled up the sausage, included one andouille and one garlic sausage, and I doubled up the shrimp. Family loved it; will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Followed the recipe exactly. Allowed a little more time for the rice to soften. A wonderful keeper!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kimberlyftaylor"
+},
+"reviewBody": "This recipe was delicious! We're eating low carb, so I omitted the rice, reduced the chicken stock to 1C and added an entire large package of fresh baby spinach at the end. We ate it topped with fresh grated locatelli and cracked black pepper. So good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Albert Carrasco"
+},
+"reviewBody": "Slap ya mama good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Aldona"
+},
+"reviewBody": "didn't have scallions and used a different sausage (chorizo and anduoille). it turned out great"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Teri Peters Sheldon"
+},
+"reviewBody": "Hubby and I give this recipe two enthusiastic thumbs up! The only thing I did differently was to leave out the hot sauce, simply because we don't care for it.\n\nI will definitely make this again. In fact, I think hubby will insist on it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Desirae Frierson"
+},
+"reviewBody": "Loved it and will make it again!\nUsing what I had I used green peppers not red. Did not used minced garlic which was fine because the dish is spicy regardless also used 1 cup yellow and white rice. But did take Jody's note on the lemon juice at the end and WOW what a tasty dish. I did learn how to stop having gooey rice by draining the can of tomatoes. Delicious!! Ty"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jose Medina"
+},
+"reviewBody": "Loved it didnt make is that spicy was a great zest I can handle wooo"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Smye Sarrel"
+},
+"reviewBody": "Very tasty, could have used more heat though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Liz Dalton 'Lizzie'"
+},
+"reviewBody": "Great Jambalaya! I omitted the celery and onion and added green pepper and peas. I used a yellow rice instead of the Jasmine. The sausage and the shrimp anchored the dish to be very tasty! Next time I think I would add some hot sauce for some kick! Will make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Howard"
+},
+"reviewBody": "This was very easy and turned out great!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Crystal Blackburn"
+},
+"reviewBody": "This is so yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "tcasa"
+},
+"reviewBody": "This was a good quick recipe which my kids loved. Made this tonight as something different for our “at home” camping as we sat by the campfire in our backyard. I did not have any jalapeño peppers so I had to omit them. Probably why the kids loved it and my husband and I found it to be bland. Definitely a great base for jambalaya and can be changed according to your heat level."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Blessed Baker"
+},
+"reviewBody": "Fantastic! A little time consuming, but worth it. Great heat &amp; flavor. Texture of rice and vegetables were tender, but not mushy. It was a winner all around the table at our house! Goes well with corn bread. I will definitely make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ms. Chef Esh"
+},
+"reviewBody": "I love making Jambalaya and this recipe did not disappoint ! I used Hillshire Farm's Smoked Turkey Sausage and I used some chicken stock in place of the water! My family loved this dish, there were no leftovers!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I had to make this because as a southern cook, we don't do much without starting out with a good roux. The flavors were those of a typical Jambalaya, but I found this recipe lacked in \"spicy\". The Hillshire sausage gave a great taste, I left out the shrimp because my son is allergic to shellfish. It's a quick one for sure, but it's hard to teach an old dog new tricks - no roux = no geaux."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Elizabeth"
+},
+"reviewBody": "Really good basic jambalaya recipe. I halved the recipe because there's only three of us here. My rice just didn't cook in that amount of time. I had to add additional liquid and cook for an additional 10 minutes. The flavors were great though and I would make this again! I loved the sausage on this. If I didn't have a 7 year old, I would make it even spicier! Served it with some hot sauce and French bread."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christina"
+},
+"reviewBody": "So simple to make and so delicious to eat! I lightened this up a bit by using the turkey smoked sausage which is one of our favorites. This really was so so flavorful and a super filling and comforting meal. Thanks for sharing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lela"
+},
+"reviewBody": "My husband loved this recipe. I live at high altitude and had to cook the rice for 15 minutes. It has cayenne pepper and one jalapeño. My husband wanted me to add more jalapeños. Im glad I didn't. The jambalaya had just the right spice. Adding the lemon juice at the end added extra flavor that I enjoyed."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Donna"
+},
+"reviewBody": "This was great. Even better the next day."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ron bodratti"
+},
+"reviewBody": "this was good. i used andouille sausage and white rice and like another reviewer ended up using a bit more chicken stock and cooking the rice longer to get it fully cooked."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "USC gamecock"
+},
+"reviewBody": "One of the best recipes, I made following exact recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Raelyn Reyna"
+},
+"reviewBody": "I made this a couple nights ago and the only substitute I did was long grain white rice instead of jasmine rice and it turned out AMAZING! Lots of flavor and even heats up well for leftovers. We will be adding this in to our meal plans. I’d love to try it with red beans next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Taylor Six"
+},
+"reviewBody": "Although the flavor is good, the cook time on the rice isn’t long enough. I adjusted cooking time for rice to 20 minutes and then added shrimp."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Keith"
+},
+"reviewBody": "This is a great one pot meal! I love meat so I used one and a half pounds of large shrimp, one pound of smoked sausage and a half pound of loose smoked sausage. I used 4 cups of chicken broth instead of three and two cups of dirty rice and one cup of of jasmine rice. This turned out excellent! Will definitely be making this again! ."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "William E Grant Jr"
+},
+"reviewBody": "Loved it, was somewhat bland but hot sauce cured that."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pam"
+},
+"reviewBody": "This was very tasty and the leftovers were excellent. I used almost 4 cups of chicken stock and substituted 6oz. Tomato purée for the canned tomatoes because my son doesn’t like tomato chunks in his food. I also used only 1/2 a jalapeño as I didn’t want it too spicy. It turned out great, just the right amount of liquid, and everyone enjoyed it. I’m very picky about the recipes I keep, and this one is a keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kathann"
+},
+"reviewBody": "Delicious! I added a little more of the sausage- otherwise followed accordingly. It was very tasty!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cookin' With Lukie >^..^< "
+},
+"reviewBody": "Fantastic recipe. Its been a favorite of my family's for many years...my Mother used to make it! I have to leave out the green pepper because of a preference, now, but its still as good as gold!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carol Riddle O'Hara"
+},
+"reviewBody": "I rate this five stars! Will be making this a lot in the future!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Leslee Fidler"
+},
+"reviewBody": "No changes very good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dale N Scott Copas"
+},
+"reviewBody": "I didnt add the jalapenos it was spicy enough with the cayenne pepper. I will definitely be making it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Matthew Pollaehne"
+},
+"reviewBody": "I've made it twice now, been great both times."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Regina"
+},
+"reviewBody": "This was fabulous. The family loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "SDPL"
+},
+"reviewBody": "I loved it. I added okra also."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Diana Davidson"
+},
+"reviewBody": "Very tasty. Love the kick of the cayenne and the brightness the lemon brings. I do think it needed more moisture. I won’t drain the tomatoes next time. Yummy dish!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jody Bachman Holsinger"
+},
+"reviewBody": "This recipe was awesome! I used a chicken sausage from COSTCO that I already had (and to cut the fat), and since I didn’t have a jalapeño, so I used a whole large poblano pepper diced. I also thought it needed some more green color because we try to get dark green veggies in our meals, so I added a couple large handfuls of fresh spinach leaves right before adding the shrimp. Lastly, I didn’t have jasmine rice, so I used long grain brown rice instead and cooked it a little longer (maybe 5 extra minutes). The lemon juice at the end (I used juice from a whole lemon) gave it this nice tangy flavor (don’t skip that)... the whole family RAVED! ‘Definitely making this again! THANKS for sharing it!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/269944/shrimp-and-smoked-sausage-jambalaya/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/82/trusted-brands-recipes-and-tips/",
+"name": "Trusted Brands: Recipes and Tips"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/15927/trusted-brands-recipes-and-tips/hillshire-farm/",
+"name": "Hillshire Farm®"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/269944/shrimp-and-smoked-sausage-jambalaya/",
+"name": "Shrimp and Smoked Sausage Jambalaya"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

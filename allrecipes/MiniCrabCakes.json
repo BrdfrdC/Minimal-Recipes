@@ -1,0 +1,281 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Mini Crab Cakes"
+,"datePublished": "2019-07-10T03:03:57.000-04:00"
+,"dateModified": "2019-07-10T03:03:57.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Dannon Oikos"
+,"url": "https://www.allrecipes.com/cook/dannonoikos"
+}
+]
+,"description": "Crab cakes made with Greek nonfat yogurt are mini bites of bliss. A fun, festive appetizer!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/YIwmDhHpZ6pnhkUzt2o6c1Zscq4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4559352-42427d59a55046e5ba47ed4b0ee5100f.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Mini Crab Cakes"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "13"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "56 kcal"
+,"carbohydrateContent": "5 g"
+,"cholesterolContent": "30 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "8 g"
+,"saturatedFatContent": "0 g"
+,"sodiumContent": "134 mg"
+,"sugarContent": "0 g"
+,"fatContent": "1 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1 (16 ounce) can fancy lump crabmeat, well drained and picked through for cartilage",
+"1 egg, lightly beaten",
+"1 cup Dannon Oikos Plain Greek Nonfat Yogurt",
+"0.25 cup finely chopped red bell pepper",
+"0.25 cup thinly sliced green onion",
+"1 teaspoon finely grated zest of one lemon",
+"Fresh cracked pepper to taste",
+"1 cup plain or panko breadcrumbs, divided",
+"Cooking spray",
+"2 tablespoons chopped parsley",
+"2 tablespoons chopped basil",
+"2 tablespoons lemon juice" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Mix together crabmeat, egg, 1/3 cup yogurt, red pepper, green onion, lemon zest fresh cracked pepper, and 1/2 cup breadcrumbs."
+} ,{
+"@type": "HowToStep"
+,"text": "Form mini crab cakes using a tablespoon or small ice cream scoop, and coat the crab cakes in remaining breadcrumbs, placing them onto a parchment lined baking sheet. Spray lightly with cooking spray."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in a 400 degrees F preheated oven for 12-15 minutes or until lightly golden."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix remaining yogurt, lemon juice, chopped parsley and basil. Season with cracked black pepper. Serve sauce with crab cakes."
+} ]
+,"recipeYield": ["18"]
+,"totalTime": "PT40M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Pearl Glisson"
+},
+"reviewBody": "These were really good! I liked the use of greek yogurt. I would recommend adding salt to the crab cake mixture though. I thought it needed a little extra seasoning. I added some lemon juice to the top of the cakes before serving. I'll definitely make them again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "NancySteve"
+},
+"reviewBody": "Tasty but could use a little more spice. We used fresh crab and let's just say there weren't any left on the platter at the Super Bowl Party!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "leslie"
+},
+"reviewBody": "Turned out absolutely delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Cynthia"
+},
+"reviewBody": "I liked the sauce, but the crab cake itself was a little bland for my taste. If I make these again I will add some spice(s)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "NH Grammy"
+},
+"reviewBody": "Tried this with what I had on hand (green pepper and red onion) and didn't dip in panko, instead sprinkled the tops with panko before spraying and baking. Cooked a bit longer, 20 minutes to a golden brown. DH and I enjoyed with cocktail sauce. Incredibly simple to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "grammy"
+},
+"reviewBody": "I didn't have lemon but used lemon pepper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SULLI9999"
+},
+"reviewBody": "We all enjoyed these! I made the crab cakes as written except cut back on the panko by at least half....I made my own version of tartar sauce to serve with them as I wouldn't get hubby to eat the yogurt sauce....we'll definitely be making these again soon!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "k8oehler"
+},
+"reviewBody": "The lightest fluffiest crab cakes we've ever had. I regularly make these. I use plain Noosa yogurt instead of nonfat Greek yogurt and I add fresh dill to the dip."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "P"
+},
+"reviewBody": "These were awesome! I made them into little balls for a party appetizer. I substituted Herbs de Provence for the basil and parsley. Low fat and delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "modgma"
+},
+"reviewBody": "I've always fried crab cakes before, but I won't do it again! This recipe reduces the fat in the classic crab cakes by substituting yogurt for mayonnaise and eliminating the oil the crab cakes absorb in the frying process. Yet the panko keeps them crispy. The lemon zest added to the flavor. Putting the crab cakes on parchment paper makes cleanup easy and keeps them from sticking to the pan. I turned them halfway through baking so they would brown on both sides, without any breaking apart as they often do in frying. I added minced celery and minced onion instead of the green onion and bell pepper. I did not make the sauce, but I think the crab cakes would have been better with a sauce. I will use this recipe for crab cakes from now on."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Amy S"
+},
+"reviewBody": "This was really easy and tasty. Used fresh crab. The panko was a bit too chunky and visually not so appealling. Would recommend crushing them before coating the cakes. Also, we ended up broiling for about 8 min to give them a golden color. Lastly, the dip is great, but watch the lemon, it could be overpowering. These are a great tasting alternative to mayo and fried cakes."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/229641/mini-crab-cakes/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/",
+"name": "Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1642/everyday-cooking/",
+"name": "Everyday Cooking"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/229641/mini-crab-cakes/",
+"name": "Mini Crab Cakes"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

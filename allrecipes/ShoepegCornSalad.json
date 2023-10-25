@@ -1,0 +1,648 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Shoepeg Corn Salad"
+,"datePublished": "2019-04-03T02:31:27.000-04:00"
+,"dateModified": "2019-04-03T02:31:27.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "HappyGrandma"
+,"url": "https://www.allrecipes.com/cook/3795629"
+}
+]
+,"description": "Jalapeno peppers lend a little heat to the homemade dressing for this creamy salad with shoepeg corn and tomatoes."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/04Z2PUr6wAyO54PE-SprNCBOhMs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1166630-dc96ede4e0684a80afbda4d553fede79.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Shoepeg Corn Salad"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "49"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "201 kcal"
+,"carbohydrateContent": "18 g"
+,"cholesterolContent": "5 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "2 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "340 mg"
+,"sugarContent": "3 g"
+,"fatContent": "13 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"0.5 cup mayonnaise",
+"3 small green onions, thinly sliced",
+"2 tablespoons white wine vinegar",
+"2 tablespoons minced pickled jalapeno peppers",
+"2 tablespoons minced fresh parsley",
+"1 tablespoon light olive oil",
+"salt and ground black pepper to taste",
+"2 (11 ounce) cans shoepeg corn, rinsed and drained",
+"1 cup halved grape tomatoes" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Whisk mayonnaise, green onions, vinegar, jalapeno peppers, parsley, and olive oil together in a bowl until smooth; season with salt and pepper."
+} ,{
+"@type": "HowToStep"
+,"text": "Gently stir corn and tomatoes into the dressing to coat. Transfer salad to a serving dish, cover with plastic wrap, and refrigerate at least 2 hours."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT135M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DONAMARIE13209"
+},
+"reviewBody": "I thoroughly enjoyed this salad. I’m so tired of the same ole potato or macaroni salads. I used frozen corn because that’s what I had and the same with the vinegar. I used red wine instead of white. I added a tbsp of sugar just to sweeten it up a bit but that was my personal preference. What a great salad! Perfect side for any barbecue meats or actually as a side to any main course. Thanks so much for sharing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dondi Meow"
+},
+"reviewBody": "I love this, I'm a vegetarian and always looking for new dishes and was intrigued by the name. Wonderful recipe, I just made a macaroni salad for the 4th of July and used the dressing with green pepper, scallions, black olives and cubed cheddar cheese. Scrumptious! Thanks so much for a new favorite!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Charlie T."
+},
+"reviewBody": "I made this as written, and it was quite tasty. Next time, I will make less dressing and let it sit in the refrigerator for more than two hours. If you use regular jalapeños instead of pickled, check for taste before dicing. Jalapeños can vary widely in the heat they have. This is a nice break from the usual. Definitely give it a try."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "janettereuter"
+},
+"reviewBody": "Very tasty side dish!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dablacks77"
+},
+"reviewBody": "It was delicious, we served it room temperature. The only thing I might point out is that I used frozen corn I steamed it in the microwave and cooled it before I proceeded with the recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Connie"
+},
+"reviewBody": "Made it exactly like the recipe except for using fresh corn! It is delicious - can't wait to make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "nana"
+},
+"reviewBody": "Followed the directions, and it was delicious!!! Will add this to my recipe book. Be sure to chill it, several hours is preferable."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Grandma Cooky"
+},
+"reviewBody": "This was excellent, just as prescribed....except sweet corn versus shoepeg As it was not available. Served with fresh potatoe salad and baby back ribs."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Saveur"
+},
+"reviewBody": "This was a refreshing side dish. Made as written with low fat mayo . I used fresh jalapeño, very fine diced. Next time I make this I think I’ll use some seasoned salt in it. Thanks for sharing your recipe with AR."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stephanie"
+},
+"reviewBody": "This is such a refreshing summer side dish. The recipe is super easy to follow and the whole family will love it. The only thing I would do differently is slice the tomatoes into quarters instead of halves."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dizzygirl"
+},
+"reviewBody": "wonderful. It was a hit at my informal dinner party. I will definitely save this recipe and serve it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kevin"
+},
+"reviewBody": "A perfect blend of comforting mayo and spices! I wouldn't call this a salad, and would recommend eating this with tortilla chips as a salsa!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Steven Yackel"
+},
+"reviewBody": "I used 6 ears of fresh corn that I had boiled quickly to cook the corn. This was a delicious side dish for our lunch."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tammy Perry"
+},
+"reviewBody": "We loved it I will definitely make it again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Larry Symenow"
+},
+"reviewBody": "Too easy to be so good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Jackie Ann Winkler"
+},
+"reviewBody": "I was hopeful this would be tasty as I read the ingredients, so I tried the recipe. I am not impressed enough to make it again. Maybe a few tweaks to \"brighten\" the taste would make a difference, but that's not worth it to me."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tammy"
+},
+"reviewBody": "Fabulous.... I have made it three times since the first time"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "riki"
+},
+"reviewBody": "This has an excellent flavor. I added a cup of small pasta shells to make it more of a meal. The jalapeno peppers give it just enough heat. This will be one of my favorites."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ruth"
+},
+"reviewBody": "used less mayo and it was still delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rhrdrr"
+},
+"reviewBody": "This recipe was really good! Except being I’m not a fan of spicey I left out the jalapeños and just cut up some red pepper. I will make this again. I loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Molly K"
+},
+"reviewBody": "Big hit at the BBQ even with the kids!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Melanie"
+},
+"reviewBody": "This is an awesome recipe. So refreshing on a hot Summer evening. I made according to the recipe with one exception after reading reviews. I did use 3 cans of shoe peg corn. This recipe is a keeper! Delicious!!! Enough for a group gathering."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gin"
+},
+"reviewBody": "Delicious, crunchy. I used three cans of shoepeg corn. No other changes. Will make this often."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kathleen "
+},
+"reviewBody": "Very good. I increased the mayo amount."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "spice of life"
+},
+"reviewBody": "This was pretty good. Made with fresh tomato. Would probably have been better with fresh corn. Will keep on my \"make again\" list."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "debbiedo"
+},
+"reviewBody": "Made this tonight with fresh sweet corn, tomato and onion. It was great, loved the dressing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ksamaha"
+},
+"reviewBody": "Made without jalapeños and it was delicious! I make it the night before! Family favorite"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Montana"
+},
+"reviewBody": "The family and I did not care for the taste of the sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "NODIETSFORME"
+},
+"reviewBody": "I made this on July 4th for a large party. Everyone loved it. I used canned white corn and canned yellow corn. The only thing I'll do different next time, I'll add some chopped cilantro. I think that'll taste good added in."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Faye Burklow"
+},
+"reviewBody": "Cannot eat jalapeños so I used banana peppers. Very good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Grisham"
+},
+"reviewBody": "This is a really good salad, I make it every chance I get. Love this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dh31"
+},
+"reviewBody": "So easy! This is my new favorite salad to bring to parties. It is so light and yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cindy"
+},
+"reviewBody": "Very good and different! There are only two of us so I cut the amount of dressing in half and eyeballed the amount of fresh corn. After letting the salad rest for a while I added some seedless cucumber (we have an abundance this summer that need to go away!) and some crisp bacon because life is good when bacon is involved. Thanks so much for the recipe - it's a keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Molly"
+},
+"reviewBody": "Thanks, HappyGrandma for a new, terrific summer salad. I didn't have shoepeg corn, but did have a 12oz. bag of frozen corn that I thawed and drained. I then proceeded with the recipe and let it chill about 3 hours. We both really enjoyed this dish along with 'Chili-Lime Chicken Kabobs' and 'Roasted Cauliflower 'Steaks'' from AR. This salad would be great for a party or carry-in as the colors of the dish make for a very pretty presentation."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa McCann"
+},
+"reviewBody": "Would probably add more corn since it was kind of \"soupy.\" Great flavor, though!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tracy McDowell Roda"
+},
+"reviewBody": "Very refreshing. I will definitely make this again. Served it with the BBQ ribs."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "FloridaMo"
+},
+"reviewBody": "Tasty and easy to make, well received by picnic guests. I use three cans of rinsed sweet corn as Shoepeg is very hard to find here, and the larger size can. Just 2 small cans leaves the corn swimming in runny dressing.\r\nTastes best after sitting for 4-5 hours."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mcfarla4"
+},
+"reviewBody": "Super easy - SUPER TASTY!!! I made this for my husband and I to try first. He tried to eat a huge helping before I even put in the fridge for a few hours. Perfect change for a cookout or cover dish. I followed the directions - no changes and will not make any. \nWill def make again and again!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Chef Juno"
+},
+"reviewBody": "Simple and refreshing recipe. I opted not to do the Jalopena peppers and replaced with chopped bacon pieces which was great. This is a keeper for me."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lutzflcat"
+},
+"reviewBody": "This was a pleasant chilled side dish to grilled BBQ'd bone-in chicken breast. The shoepeg corn is crisp, and the dressing has a nice tang to it. This was a welcome change from my typical mac or potato salad that I often serve with grilled chicken. Thanks, HotGrandma, for sharing your recipe."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/237951/shoepeg-corn-salad/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/219/salad/vegetable-salads/",
+"name": "Vegetable Salad Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/15107/salad/vegetable-salads/corn-salad/",
+"name": "Corn Salad Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/237951/shoepeg-corn-salad/",
+"name": "Shoepeg Corn Salad"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,260 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Tuna Panini Melt"
+,"datePublished": "2016-12-13T22:28:17.000-05:00"
+,"dateModified": "2016-12-13T22:28:17.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Michele "
+,"url": "https://www.allrecipes.com/cook/michele61601"
+}
+]
+,"description": "Tuna is mixed with mayonnaise, balsamic vinegar, pickle, and onion in these tasty, crispy tuna melt sandwiches made in a panini press."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/TzsiP6fzwB-HZBBdxCywwhGSwCU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3761621-350f9eeff00b43ad8476a83715ca6f6a.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Tuna Panini Melt"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "14"
+}
+,"cookTime": "PT3M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "381 kcal"
+,"carbohydrateContent": "31 g"
+,"cholesterolContent": "48 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "28 g"
+,"saturatedFatContent": "7 g"
+,"sodiumContent": "865 mg"
+,"sugarContent": "3 g"
+,"fatContent": "16 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 (5 ounce) can solid white albacore tuna in water (such as Bumble Bee®)",
+"1 tablespoon mayonnaise",
+"1 tablespoon balsamic vinegar",
+"1 tablespoon chopped onion",
+"1 dill pickle, chopped",
+"4 slices sourdough bread",
+"2 slices American cheese" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Mix tuna, mayonnaise, balsamic vinegar, onion, and dill pickle together in a bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Spread tuna mixture over 2 slices of bread. Top with American cheese and remaining 2 slices of bread."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook in a panini press until bread is crispy and cheese is melted, 3 to 4 minutes."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT13M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary Ann Wilson Braden"
+},
+"reviewBody": "Different; but good. I will make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "plates4u"
+},
+"reviewBody": "This recipe is fantastic! All flavors are spot on! I did not have sourdough so used oats and nut bread slices and used cheddar instead as I do not eat processed \"cheese product\". It was just fantastic will make it again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Charles Pascual"
+},
+"reviewBody": "A snap to prepare. Nice variation of a classic. I'll make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alinka810"
+},
+"reviewBody": "I added Dijon mustard, some avocado and some spices. Also i made it on a tortilla not on bread. It was very flavorful and definitely will make it again..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Joseph CQ"
+},
+"reviewBody": "Buttered the bread (I always do on a panini), substituted 1/4 cup sauerkraut (no juice) for the pickle and vermont cheddar for american to make it lactose free. Served alongside bean and corn salad and dipped in Russian dressing. Tad too much vinegar OR may not have drained the tuna enough as it made my bread quite soggy before I could get it into the press. In either case, will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pops0109"
+},
+"reviewBody": "Excellent. Made it again using onion powder instead of onions. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Karen"
+},
+"reviewBody": "Excellent! I used Albacore White Tuna and a multi-grain hearty bread. YUMMY! So good on a cold night!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "alosiewski"
+},
+"reviewBody": "Very good!! I added some chopped celery and Dijon mustard. Used dill relish instead of chopping a pickle. Also halved the balsamic vinegar. Served on good toasted buns instead of bread. Delicious!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ross Bemben"
+},
+"reviewBody": "Really good panini. I added one more tablespoon of mayonnaise and buttered the bread. Delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I was quite skeptical about the balsamic vinegar but after everything was done it turned out to be a very flavorful panini."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/254438/tuna-panini-melt/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/411/seafood/fish/",
+"name": "Fish"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/415/seafood/fish/tuna/",
+"name": "Tuna"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/254438/tuna-panini-melt/",
+"name": "Tuna Panini Melt"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

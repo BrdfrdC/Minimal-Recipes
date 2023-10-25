@@ -1,0 +1,616 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "John Wayne Casserole"
+,"datePublished": "2022-08-08T12:01:37.000-04:00"
+,"dateModified": "2022-08-08T12:01:37.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "EAForsythe"
+,"url": "https://www.allrecipes.com/cook/5152068"
+}
+]
+,"description": "John Wayne casserole is a delicious taco beef casserole cooked in biscuit dough with sour cream, Cheddar cheese, tomatoes, and bell peppers."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/3jKO1aG-egnA24oHxR9K7ZGKBvs=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/John-Wayne-Casserole-fabeveryday-606286d99ee243dfa1b490be05fd2eb1.jpeg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "John Wayne Casserole"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "41"
+}
+,"cookTime": "PT45M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "538 kcal"
+,"carbohydrateContent": "21 g"
+,"cholesterolContent": "92 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "21 g"
+,"saturatedFatContent": "16 g"
+,"sodiumContent": "781 mg"
+,"fatContent": "41 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 (16.3 ounce) can refrigerated biscuits",
+"2 pounds ground beef",
+"1 (1 ounce) package taco seasoning",
+"0.75 cup water",
+"1 medium onion, halved and sliced",
+"1 medium red bell pepper, halved and sliced (1 1/2 cups)",
+"0.5 cup sour cream",
+"0.5 cup mayonnaise",
+"8 ounces shredded Cheddar cheese, divided",
+"2 medium tomatoes, sliced",
+"1 (4 ounce) jar sliced jalapeno peppers, drained" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C) and lightly grease a 9x13-inch baking pan."
+} ,{
+"@type": "HowToStep"
+,"text": "Place and press biscuit dough into the bottom of the baking pan and halfway up the sides."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until lightly browned, 15 to 20 minutes. Leave the oven on."
+} ,{
+"@type": "HowToStep"
+,"text": "Meanwhile, heat a nonstick skillet over medium-high heat and cook ground beef until browned and crumbly, about 5 minutes. Drain fat. Stir in taco seasoning and water. Bring to a boil, reduce heat, and simmer, stirring occasionally, for 5 minutes. Transfer cooked meat to a bowl and wipe out the skillet."
+} ,{
+"@type": "HowToStep"
+,"text": "Add onion and bell peppers to the same skillet and cook over medium heat until slightly tender, about 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine sour cream, mayonnaise, 1/2 of the Cheddar cheese, and 1/2 of the onion-pepper mixture in a bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Layer browned meat, tomatoes, onion-pepper mixture, jalapeño peppers, and sour cream mixture on top of prebaked biscuit dough. Sprinkle with remaining Cheddar cheese."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake uncovered in the preheated oven until cheese is lightly browned and bubbly, 30 to 40 minutes."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT60M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "We loved it! I added a couple of extra biscuits don’t do that. Do add corn and cream of mushroom in addition to the sour cream/mayo mixture for an extra flavor kick 😊"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Great one dish casserole! I made it exactly like the recipe. I will be making it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Karyn Sue Hott"
+},
+"reviewBody": "Fun and such a tasty dish!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jon Thorpe"
+},
+"reviewBody": "I made it as shown and it turned out beautifully. Quite tasty! I was very pleased as was everyone else!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dona Dee Gott"
+},
+"reviewBody": "This was amazing! I made it just as called for and would not change a thing. I have even sent it to my granddaughter. Thanks, Allrecipes!!! Another great recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jay"
+},
+"reviewBody": "Made as written except I used 1 lb. ground beef and 1 lb. ground pork. Also topped with chopped cilantro. Hearty and delicious! Look forward to leftovers. Will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Susan C"
+},
+"reviewBody": "I needed something quick and easy to fix on a week night after a long day at work and this fit the bill perfectly. I substituted poblano for the bell pepper and drained petite diced tomatoes for fresh, used lite mayo and sour cream, and it turned out great! Even my picky husband liked it. This recipe is definitely a keeper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Pruitt"
+},
+"reviewBody": "I loved this recipe and so did everybody else I made it for. I will definitely make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Janet Mohrman"
+},
+"reviewBody": "Used low fat Miracle Whip and sour cream. Easy to overbake biscuits. Will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nancy loy"
+},
+"reviewBody": "I used green chilies instead of jalapeños, salsa instead of taco seasoning. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gwen"
+},
+"reviewBody": "I used the refrigerated flaky roll 16 oz can, instead of biscuits. I oiled my rolling pin &amp; flattened each roll on a mat to fit into the bottom of the pan. Instead of jalapeños I used a 4 oz can of green chiles. I used more cheese than called for. I would also use more onions, as you have to divide them."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "It was very good. I added a layer of fresh sliced tomatoes from our homegarden and put cheese on top of that. I want to add more jalapeños next time, too. Parmesan as a top layer of the tomatoes might be good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alan Lilley"
+},
+"reviewBody": "We loved it. Fairly easy to make. We did substitute sausage for the hamburger and it came out great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "woolfolkclaire"
+},
+"reviewBody": "My family doesn't like it spicy, so I used a 4 oz can of diced green chilies instead of the jalapeños. I also used Pillsbury spiral corn bread instead of the biscuits. My family liked it, but I thought it was just OK."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Cheryl Wallace"
+},
+"reviewBody": "The family enjoyed this casserole. Any suggestions why the bottom biscuit layer was tough like a sponge to cut? You could chew it just fine but I found myself pulling it apart with my fingers to make bite sized pieces."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kitchenratz"
+},
+"reviewBody": "Great recipe. The only addition we put in was garlic. lots of it because that is how we roll. We did leave out the jalapenos. Garlic is good enough. We may include the recipe in our winter rotation recipes. Thanks for the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda Phipps"
+},
+"reviewBody": "A lot of work for one meal !! But good😀"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Linda Pope"
+},
+"reviewBody": "I made this. My family thought it was really good, although I did make a few changes. No biscuit dough so I used a pie crust,no jalapeños-substituted chipotle in adobo, and added some leftover rice to the peppers and onions while sautéing..the basic recipe stood fine. I will try it again as written to taste the difference in the original."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Katherine Schuetz"
+},
+"reviewBody": "CASSEROLE WAS GREAT!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DeAnn Smith Caylor"
+},
+"reviewBody": "Who cares about the recipe NOW? The idiot who brought racism to the kitchen brought her rotten smell with her. By the way, KnowsNothing, ever seen Mr Wayne's wife? Sit on your stupid hands before you shame yourself further. Mature adults are talking here. We LOVE JW's contribution. What's yours?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JMS"
+},
+"reviewBody": "Used V-8 for water and kept the rest. Delicious and great for a hungry crowd. For all of those idiot liberals, just call it Cowboy Casserole. Sure they will find something to complain about."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Brenda"
+},
+"reviewBody": "I cut the recipe in half since it’s just 2 of us eating. Added spinach and leftover corn that needed to be used in addition to onion and peppers called for. Turned out pretty good and worth making again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "wavehog69"
+},
+"reviewBody": "Perfect recipe!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jeanne-Ann"
+},
+"reviewBody": "Previous reviewer gives this one star saying she followed the recipe exactly and didn't like the raw onions in it. Step 5 clearly says: Add onion and bell peppers to the same skillet and cook over medium heat until slightly tender, about 5 minutes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Mark M"
+},
+"reviewBody": "Made this and it was about as bland and tasteless as it could possibly be. Not even my teenage son - who eats everything - was not interested in a second serving. Will not be making again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This was so good and so easy to make. The only thing I will leave out next time is the taco seasoning. Even though I reduced it a lot, it never fails to give me heartburn. My husband loved it too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "kharris2"
+},
+"reviewBody": "Really enjoyed this return to my childhood. My mother made this often and we always cleaned the dish. The only difference was there weren't any canned biscuits back then so she used lightly sweetened (like 2 Tbsp) cornmeal mush for the crust. We also all liked black olives so occasionally she would throw them into the mix. To the lady with the raw onion problem, if you read the recipe again you'll see that you cook the onion with the peppers before you mix all the filling ingredients together. I don't care for raw onions either so I always saute them at least until transparent or I go whole hog and caramelize them. Or like the other cook leave them out and use onion powder."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Delicious, this recipe would make John Wayne proud !!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I love the casserole and John Wayne. Very good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kaldana"
+},
+"reviewBody": "I used to make this same recipe (minus the biscuits)....but we called it Taco Salad and mixed everything with lettuce. No dressing the taco seasoning acted as a dressing. Everybody used to LOVE it and took to to a lot of group gatherings!! ENJOY!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Made the recipe as listed but added more heat because we like it! Big hit with all. Unlike another reviewer, I didn't see any call for raw onion even though I tried to find it in the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I like to use V-8 or tomato juice instead of water when mixing with the taco seasoning in all these type dishes!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Made it exactly as the recipe called. The part I didn’t like was the mixture of sour cream, mayo, cheese and raw onion."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "fabeveryday"
+},
+"reviewBody": "This was a huge hit with my family! The only change I made was to add some salt and garlic powder to the sour cream layer for some extra seasoning for our tastes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Becca"
+},
+"reviewBody": "My whole family loved this! I didn’t have fresh tomatoes so I used a can of Rotel. It turned out great. Thanks for the fantastic recipe!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8444531/john-wayne-casserole/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/249/main-dish/casseroles/",
+"name": "Casserole Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/443/main-dish/casseroles/beef/",
+"name": "Beef"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8444531/john-wayne-casserole/",
+"name": "John Wayne Casserole"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

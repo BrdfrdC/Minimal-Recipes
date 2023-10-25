@@ -1,0 +1,167 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Marinated Mushrooms for Antipasto"
+,"datePublished": "2018-07-06T00:09:43.000-04:00"
+,"dateModified": "2022-07-01T09:24:31.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Rita"
+,"url": "https://www.allrecipes.com/cook/3163497"
+}
+]
+,"description": "These Italian marinated mushrooms are perfect for an antipasto plate and are easy to prepare. They marinate for at least 5 hours, so make ahead for a dinner party."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/ZnDVRl_LWNZb7w0_oL-TpwaerqU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5511790-fdff6fdb5e594749a802e56e796b9a81.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Marinated Mushrooms for Antipasto"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "3"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "79 kcal"
+,"carbohydrateContent": "3 g"
+,"fiberContent": "1 g"
+,"proteinContent": "2 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "149 mg"
+,"sugarContent": "1 g"
+,"fatContent": "7 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 pound small mushrooms, stemmed",
+"4 tablespoons extra-virgin olive oil",
+"3 tablespoons white wine vinegar",
+"0.5 red onion, finely chopped",
+"2 tablespoons finely chopped fresh oregano",
+"2 tablespoons finely chopped fresh thyme",
+"2 cloves garlic cloves, pressed",
+"0.5 teaspoon salt",
+"0.5 teaspoon freshly ground black pepper" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Bring a large pot of lightly salted water to a boil. Add mushrooms and cook until softened, about 10 minutes. Drain and set aside to cool."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine olive oil, white wine vinegar, red onion, oregano, thyme, garlic, salt, and pepper in a large jar with a lid. Close the jar and shake well. Add cooked mushrooms and refrigerate at least 5 hours. Remove from refrigerator 10 minutes prior to serving."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT325M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ian Jones"
+},
+"reviewBody": "Swapped out the red onion for shallots.\nAdded some sugar to taste. \nOmitted the oregano as I didn't have any.\nFresh tyme.\nAdded the warm mushrooms to the mix."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kenneth Cowan"
+},
+"reviewBody": "Pretty good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rjlewis1"
+},
+"reviewBody": "What a great quick recipe to add to an antipasto platter. Everyone loved the mushrooms and it was easy. I didn’t have fresh herbs so I substituted a smaller amount of dried but that worked out just fine. Will be doing this one again for sure."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/266150/marinated-mushrooms-for-antipasto/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/109/appetizers-and-snacks/vegetable/",
+"name": "Vegetable"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1118/appetizers-and-snacks/vegetable/mushrooms/",
+"name": "Mushrooms"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/266150/marinated-mushrooms-for-antipasto/",
+"name": "Marinated Mushrooms for Antipasto"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

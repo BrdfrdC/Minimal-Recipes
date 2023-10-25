@@ -1,0 +1,494 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Potato Salad for 40"
+,"datePublished": "2018-06-08T10:02:50.000-04:00"
+,"dateModified": "2018-06-08T10:02:50.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Allrecipes Cook"
+,"url": "https://www.allrecipes.com/cook/3956546"
+}
+]
+,"description": "This easy, pickle-free potato salad is perfect for serving a crowd. With a little planning, your next family reunion or summer gathering will be a cinch!"
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/fc4eqahFu_XGFPYEWqB0zlgilIU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2818516-4cfdb152c91f4aa7830613fd358b169d.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Potato Salad for 40"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "35"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "285 kcal"
+,"carbohydrateContent": "21 g"
+,"cholesterolContent": "107 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "6 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "407 mg"
+,"sugarContent": "1 g"
+,"fatContent": "20 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"10 pounds potatoes",
+"24 eggs",
+"4 cups mayonnaise",
+"1 tablespoon prepared yellow mustard",
+"4 teaspoons salt, or to taste",
+"2 teaspoons ground black pepper",
+"2 cups finely chopped green onions" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place potatoes into a large pot and cover with salted water; bring to a boil. Reduce heat to medium-low and simmer until tender, about 20 minutes. Drain and cool potatoes, then peel and dice. Cover and refrigerate overnight."
+} ,{
+"@type": "HowToStep"
+,"text": "Place eggs in a saucepan and cover with water. Bring to a boil, remove from heat, and let eggs stand in hot water for 15 minutes. Remove eggs from hot water, cool under cold running water. Peel and chop eggs. Cover and refrigerate overnight."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine potatoes, eggs, and green onions in a large bowl or roasting pan. Stir mayonnaise, mustard, salt, and black pepper in a bowl; pour mixture over potatoes and gently toss to combine. Refrigerate until ready to serve."
+} ]
+,"recipeYield": ["40"]
+,"totalTime": "PT530M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Salli Josh"
+},
+"reviewBody": "My first time trying potato salad for a large group. Everybody liked it.\nThis recipe was easy to follow and make. I did leave the skins on after washing the potatoes thoroughly."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Danielle Nash"
+},
+"reviewBody": "This is the first potato salad I’ve ever made. I took it to a potluck dinner yesterday, and everyone raved about it. I didn’t need to serve 40, so I halved all of the ingredients and added a little finely chopped celery. I will definitely make this again. It was delicious and used ingredients that I would keep on hand. This is a keeper!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lillian Teresa"
+},
+"reviewBody": "I’m a potato snob and this checks all the boxes! This is the closest thing to our favorite local sub shop potato salad that we are obsessed with. I also doubled the mustard and it was perfect!! This will be my go to recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bev"
+},
+"reviewBody": "My Mom made this recipe when I was growing up. I'm 72 and still make it. I don't use the mustard though. Made 40 lbs of it for 200 guests when our daughter got married and had soooo many compliments and requests for the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Katie Edwards"
+},
+"reviewBody": "Yes. I added celery and substituted half of the mayo with Henri's sweet and tangy salad dressing. It was superb."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cheri Clawson"
+},
+"reviewBody": "Needed a recipe for a crowd and this one tasted almost as good as my family recipe, had lots of compliments on it! I did add dill Pickles and a little more mustard but it was good een without those additions."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "chiocchi"
+},
+"reviewBody": "I’ve made this twice and both times everyone commented on how delicious it was! Halved the recipe for approximately 12 people . I like getting the potatoes and eggs ready the day before,makes it so much easier to put together the day of. I added celery this last batch which was very nice also. Thanks for a great potato salad recipe,it’s a keeper"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "APPASSIONA"
+},
+"reviewBody": "This was amazing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Estella Prendez"
+},
+"reviewBody": "I wasn’t sure how much I needed for 40 people. Spot on. I did use dill relish. Such a personal preference."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "janirae1209"
+},
+"reviewBody": "Excellent base recipe. I added 2T white vinegar, 1T Dijon mustard, and a little more salt. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Char Greene"
+},
+"reviewBody": "Nice basic recipe, I added twice the mustard and it could have used more in the dressing. I also ended up adding some apple cider vinegar as it needed more zip. I added the green onion and celery chopped fine. My mom always added sweet pickle relish and I added that to this. Needs a bit more adjustment but it is a good starting point."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "debra"
+},
+"reviewBody": "It was very good. Will use it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mark Feld"
+},
+"reviewBody": "This was great! Made one batch and put it in two bowls added 1 cup of celery to one and some celery salt instead of regular salt. Ran out of both both so good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sharon"
+},
+"reviewBody": "Delicious, perfect for our family reunion! Only change, I added some dill pickle juice to the dressing. Yum !"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michael Abbott"
+},
+"reviewBody": "Great recipe! So nice to have a decent and tasty potato salad without those offensive and improper pickles added."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brandi McDonald"
+},
+"reviewBody": "made exactly how the recipe says. I made it for a camping trip with a bunch of people and it was a hit. Everyone asking for the recipe. Now I still make it for my family and it will still be gone within a few days. My husband likes to take it for his lunch as the main course. LOL. But every since I made this recipe I cannot stand store bought potato salad. I have tried several different kinds and it always gets thrown away."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "JESENIALAGORDA"
+},
+"reviewBody": "I made this dish but modified it for 10 people. I usually add vinegar to my potato salad, but this one tastes just as great with mustard. I added an additional 1/4 teaspoon for extra flavor. My parents loved it and want me to make it again for Thanksgiving!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "GinaBean"
+},
+"reviewBody": "Love, love this potato salad! Only thing I changed was reducing half the salt and replacing it with celery salt, and adding sliced olives."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Greeneyes2"
+},
+"reviewBody": "Excellent potato salad!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Vick Chick"
+},
+"reviewBody": "OMG! LOVE, LOVE, LOVE IT!!! I made this for my daughter's graduation party - what a hit!!!! I got so many compliments! My hubby &amp; father-in-law both said \"it's better than grandma's\"! I also added a little celery for a crunch &amp; extra color...green onions are a must (added about 5-6, mostly the green ends)!! I didn't quite measure all the salt/pepper, also added a smidge more mustard because it seemed really mayo-ey when I tried the sauce. **to anyone who has a hard time cooking potatoes perfectly (I always made them too mushy), a trick my mother-in-law taught me is to boil them with the skins on just until a fork can penetrate without too much force, then put them in the fridge for a bit to cool, peel and dice. I am tossing any other potato salad recipes I have as I will use this one ALL the time. ;o]"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Angela Canning"
+},
+"reviewBody": "Great recipe! I've used it mor than a few times."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stefanie Kryger"
+},
+"reviewBody": "This recipe is a life saver for parties. Super easy, and super yummy! It was so good I was asked to cater a friends outdoor wedding! (And everyone loved it!)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "requeenb"
+},
+"reviewBody": "This is a real good base. You can adventure out from it and it still taste great. I added a little miracle whip and doubled the eggs"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle N."
+},
+"reviewBody": "I added a cup of sugar"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "AndiCat798"
+},
+"reviewBody": "This is the perfect basic potato salad recipe. Just the way I like it. Be careful with the salt!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amanda Jayne Hill"
+},
+"reviewBody": "Even as a mustard style potato salad preferrer, I rate this mayo style pot. Salad an A+. I made this for a serving of 3. I just adjusted the serving size on the recipe, &amp; cooked potatoes only for 12 min vs 20. It turned out delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "RPIE7"
+},
+"reviewBody": "I have been eating, and making, this type of potato salad since I met my husband 44 years ago. The only difference is we add some dill pickle juice to the mayonnaise mixture before adding it to the potatoes, eggs and green onions. My mother-in-law always used 5 pounds of red potatoes, one dozen eggs and close to two bunches of green onions (green parts only). The mayo-mustard, salt and pepper were never measured. I followed your recipe using 5 pounds of potato but added a lot more mustard than listed (I USED TWO TABLESPOONS, AS WE LIKE IT TO HAVE SOME ZIP). IT WAS FANTASTIC! I CAN NOW DUPLICATE THE TASTE EVERY TIME."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tearose84"
+},
+"reviewBody": "So thankful for this recipe! it has all the same ingredients I use for a potato salad, but I have to make enough for a small wedding and was so unsure how to do that!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/222868/potato-salad-for-40/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/217/salad/potato-salad/",
+"name": "Potato Salad Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16149/salad/potato-salad/dairy-free-potato-salad/",
+"name": "Dairy-Free Potato Salad Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/222868/potato-salad-for-40/",
+"name": "Potato Salad for 40"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,190 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Slow Cooker Candied Yams"
+,"datePublished": "2020-11-17T01:54:40.000-05:00"
+,"dateModified": "2020-11-17T01:54:40.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Yoly"
+}
+]
+,"description": "An easy and straightforward recipe for candied sweet potatoes in the crockpot. Cooking in the slow cooker frees up the oven during busy holiday meals."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/mKH5oOkTMb94sMDTXhPbW1Au5Lo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8736159-0f2104e2c7ab465387b14a5e158c56b6.jpg",
+"height": 1750,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Slow Cooker Candied Yams"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "4"
+}
+,"cookTime": "PT180M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "396 kcal"
+,"carbohydrateContent": "78 g"
+,"cholesterolContent": "20 mg"
+,"fiberContent": "6 g"
+,"proteinContent": "2 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "79 mg"
+,"sugarContent": "40 g"
+,"fatContent": "8 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"5 cups yams, peeled and cut into 1/2-inch pieces",
+"1.25 cups water",
+"1 cup brown sugar",
+"0.75 cup pineapple juice",
+"0.25 cup salted butter, cubed",
+"2 tablespoons vanilla extract",
+"1 teaspoon ground cinnamon",
+"0.5 teaspoon ground nutmeg",
+"2 tablespoons cornstarch",
+"2 tablespoons water" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Line a slow cooker with a slow cooker liner or spray with cooking spray."
+} ,{
+"@type": "HowToStep"
+,"text": "Place yams in the bottom of the slow cooker. Top with water, brown sugar, pineapple juice, butter, vanilla, cinnamon, and nutmeg. Stir to evenly distribute sauce."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook on Low for 2 hours. Stir."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir cornstarch and water together in a small bowl to make a slurry. Add to slow cooker and stir to incorporate."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook until yams are fork-tender and sauce has thickened, about 1 hour more."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT195M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Heidi Hanson"
+},
+"reviewBody": "I absolutely love this recipe. I have made it 3 or 4 times now. It is so easy and saves so much time. And it is completely delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "1kid5kids"
+},
+"reviewBody": "Good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mdr2450"
+},
+"reviewBody": "Will be making it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "S. Exler"
+},
+"reviewBody": "Delicious recipe, however, severely undercooked. Do NOT cook for 3 hours. It must cook for about 5-6 hours - found that out the (literal) hard way. At 3 hours the yams are still very hard and the jus is not even settled yet."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/282383/slow-cooker-candied-yams/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/198/holidays-and-events/thanksgiving/",
+"name": "Thanksgiving"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16035/holidays-and-events/thanksgiving/side-dishes/",
+"name": "Side Dishes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/282383/slow-cooker-candied-yams/",
+"name": "Slow Cooker Candied Yams"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

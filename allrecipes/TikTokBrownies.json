@@ -1,0 +1,156 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "TikTok Brownies"
+,"datePublished": "2022-12-20T16:30:58.000-05:00"
+,"dateModified": "2022-12-20T16:30:58.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Sara Haas, RDN"
+,"url": "https://www.allrecipes.com/author/sara-haas/"
+}
+]
+,"description": "Get the recipe for the incredibly easy, six-ingredient brownies you&#39;ve seen in the TikTok comments."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/1gsfWddGUBgCWn9KcIjdpbC2lK0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/AllrecipesBrownies-1-SaraHaas-4x3-1-6b53fd2e97ff460191ae48b939f26b20.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "TikTok Brownies"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "3"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "128 kcal"
+,"carbohydrateContent": "17 g"
+,"cholesterolContent": "39 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "2 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "10 mg"
+,"fatContent": "7 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"0.5 cup unsalted butter, plus additional for greasing pan",
+"0.333 cup cocoa powder",
+"1 cup granulated sugar",
+"2 teaspoons vanilla extract",
+"2 large eggs",
+"0.5 cup all-purpose flour" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat oven to 350 degrees F (175 degrees C). Coat an 8x8-inch metal baking dish with butter."
+} ,{
+"@type": "HowToStep"
+,"text": "Melt butter in a large saucepan over low heat. Remove from heat and let cool for 5 minutes. Whisk in cocoa powder, sugar, and vanilla extract. Stir in eggs, 1 at a time until incorporated. Add flour and stir until just combined. Scrape mixture into the prepared pan and smooth the top."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until a toothpick inserted comes out clean, 20 to 25 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove from the oven and cool on a wire rack for at least 45 minutes before cutting."
+} ]
+,"recipeYield": ["16"]
+,"totalTime": "PT80M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "it was really good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "ABSOLUETLY DELICIOUS (ignore my bad spelling)"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8519141/tiktok-brownies/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/362/desserts/cookies/",
+"name": "Cookies"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/838/desserts/cookies/brownies/",
+"name": "Brownie Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8519141/tiktok-brownies/",
+"name": "TikTok Brownies"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

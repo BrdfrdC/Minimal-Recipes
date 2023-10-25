@@ -1,0 +1,706 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Crawfish Etouffee IV"
+,"datePublished": "2018-06-08T09:15:39.000-04:00"
+,"dateModified": "2022-07-14T18:07:52.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Jason Poche"
+,"url": "https://www.allrecipes.com/cook/24324075"
+}
+]
+,"description": "A delicious dish with onions, bell pepper, crawfish and diced tomatoes, simmered in mushroom soup."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Y6ubgGYEtgsxp88Xjykix-aSTo4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/18212-8825eda4f760427b8468e5d26c2782f4.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Crawfish Etouffee IV"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "50"
+}
+,"cookTime": "PT60M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "501 kcal"
+,"carbohydrateContent": "16 g"
+,"cholesterolContent": "81 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "14 g"
+,"saturatedFatContent": "8 g"
+,"sodiumContent": "1406 mg"
+,"sugarContent": "4 g"
+,"fatContent": "43 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT60M"
+,"recipeIngredient": [
+"0.5 cup vegetable oil",
+"0.5 cup margarine",
+"1 cup diced onion",
+"0.5 cup diced green bell pepper",
+"1 tablespoon minced garlic",
+"1 pound peeled crawfish",
+"3 (10.75 ounce) cans condensed cream of mushroom soup",
+"1 (10 ounce) can diced tomatoes with green chile peppers",
+"1 tablespoon dried parsley",
+"salt to taste",
+"ground black pepper to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "In an 8 quart stock pot over medium heat, add vegetable oil and margarine. Saute onions, green pepper and garlic until onions are translucent."
+} ,{
+"@type": "HowToStep"
+,"text": "Add crawfish to the onion mixture, and cook for 5 minutes. Add a little water to keep crawfish moist while cooking."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir in soup and diced tomatoes. Bring to a boil and simmer for 30 minutes. Sprinkle in parsley after about 10 minutes. Salt and pepper to taste while simmering. Water can be added to thin as desired."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT120M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "pam"
+},
+"reviewBody": "Love it and all our family and friends loved it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Grey Randall"
+},
+"reviewBody": "Followed recipe to the letter first time around second time, added andouille, shrimp, and crab (photo)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Byron Redden"
+},
+"reviewBody": "Very good recipe, but I took the advice of some others and made it my own. Three cans of cream of mushroom sounded like too much. I used one can and one can of cream of chicken. I also added some okra and used cajun seasoning instead of straight cayenne since I live heat but the rest of the family doesn't. Overall, it was very good. Next time I'll make a roux or cut back on the liquid though since it was a little thin."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Faye Stallworth"
+},
+"reviewBody": "My co worker cleaned the bowl in 2.5 second. This was a quick, easy and yummy dish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cynthia Woodard-Williams"
+},
+"reviewBody": "It was excellent but a little too light in color"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Melissa Benoit"
+},
+"reviewBody": "I used salsa instead of rotel tomates and ut tasted awesome! Will definitely make this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "pam"
+},
+"reviewBody": "My family loves it they say it’s better than AL’T"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer Brindle"
+},
+"reviewBody": "I used Gulf shrimp, as the only crawfish out here in California comes from the Far East. It was definitely too much mushroom soup. Color was white. I had to add a can of tomato paste to pinken the color. Taste was off, too. Too liquidy; one pound of shrimp is not enough for three cans. Maybe if it used 1 can cream of mushroom and 1 can golden mushroom and another can of tomatoes, perhaps regular diced, it would work. Maybe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathy"
+},
+"reviewBody": "Am celiac, so made gluten free."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carla"
+},
+"reviewBody": "Great but only used 2 cans cream of mushroom. also added 1/4 cup chardonnay, and one pint of fresh mushrooms. GREAT flavor!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dutch Baby"
+},
+"reviewBody": "This recipe was so much fun! My husband is from south Louisiana. The home of Cajun cooking. He is by far the best Cajun cook (I'm lucky!) I have a hard time matching his recipes but with a few tweaks he said my etouffee beat his and his mom's. Here are my changes. I used 1/3 cup butter and 1/3 cup vegetable oil to saute 3 stalks celery along with the bell pepper and onion. When the veggies were soft I added 3 cloves of garlic that I ran through a garlic press. I didn't add the crawfish until the gravy was mixed, seasoned and had cooked a bit.I used 2 1/2 cans of the cream of mushroom soup, a can of Rotel, some Don's Cajun seasoning (from Scott, La), a sprinkle of McCormick Cajun seasoning and a few shakes of Emeril's essence, a bit of salt and black pepper. There was still something missing so I added a couple heaping tablespoons of tomato paste that I had in the freezer.I added the craw fish and cooked a bit longer. As a final touch I threw in a good sized handful of chopped green onion tops (for color and taste). Served over fluffy white rice. Perfection!! I only wish that we hadn't cleaned our plates before I thought of taking a picture. Next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tonya Jones"
+},
+"reviewBody": "This recipe is very good and simple to make, made few changes but over all very happy with it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Amber Shawn Powell"
+},
+"reviewBody": "I adjusted the recipe like this: 1/4 cup vegetable oil. 2 TBS minced garlic. 1 (10.75 oz) can Cream of Mushroom Soup (if not creamy enough add milk in a little at a time till desired taste). Replace salt and pepper with Tony Chacheres or Season Salt if possible. Add 1 TBS paprika and a dash of cayenne pepper and your good to go! This is served over rice. To thicken the recipe mix 2 TBS cornstarch with a little cold water and add to recipe. Also parsley is an accent to the side of the dish after served into a bowl. -Louisiana Girl"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tinygynie"
+},
+"reviewBody": "I added shrimp and calamari too! Great easy version"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nele Ville"
+},
+"reviewBody": "I tried this recipe today &amp; it was so delicious. I changed a few things &amp; added a few things to make it my own. Other than that it was delicious...will definitely be making this again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "enw0144"
+},
+"reviewBody": "This recipe was wonderful! I didn't use all 3 cans of soup, and doubled the crawfish; family and friends loved it !"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "cranky"
+},
+"reviewBody": "I made as written. Easy to make and tasted great. When I make this in the future I will reduce the amount of oil and butter."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "geni1991"
+},
+"reviewBody": "I used butter instead of margarine (just a personal preference) I didn't have enough cream of mushroom so I used 2 cans of cream of mushroom and one can of cream of celery and a little water for thinner sauce. Also added some Slap Ya Mama seasoning. This was easy and delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "b61662849"
+},
+"reviewBody": "added more garlic, 3-4 cloves, substituted marinara sauce for tomato, added pimento peppers, added 3-4 jumbo shrimp and a can of chopped clams w/juice,very easy on cajun seasoning, didn't want to tear-up eating. Awesome!! -TFM."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cindy"
+},
+"reviewBody": "WOW!! This was great, even with my changes. I used only 2 cans of cream soups (1 each of mushroom and celery) and since we only had a 12 oz. package of precooked crawfish tails, I added some chopped celery while sauteing the pepper, onion and garlic. (The tails were added at about halfway through the simmer since they were already cooked.) The dish seemed a little soupy to me so the next time I might drain the tomatoes, but we WILL have it again. A couple shots of Tabasco finished it off perfectly and since there are only two of us, we'll have leftovers later. Thanks so much for the recipe - Laissez les bons temps rouler!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jillian Savage Watson"
+},
+"reviewBody": "I followed this one just like the recipe and the boys loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jessica"
+},
+"reviewBody": "It was pretty good. Hard to find Crawfish in my area and its not cheap either."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Spiritisup"
+},
+"reviewBody": "This was easy and delicious. I did make a few changes. I only used 1 tbls. olive oil, and 3 tbls. butter and that was plenty. I threw in about a tsp. chopped serrano pepper with the bell pepper and onions. I added a little chicken broth when I added the crawfish and shrimp. Yes, I didn't have enough crawfish so I added shrimp, probably 1 1/2 or close to 2 lbs. total and I believe for all it makes you need that much. I used 1 can cream of shrimp and 1 can cream of mushroom (2 cans is plenty). I used 2 tbsp. fresh parsley. Didn't need any salt or pepper added. Served over brown rice. My husband couldn't stop eating it. He had at least 3 servings at one sitting!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nikki Buchholz"
+},
+"reviewBody": "A very tasty recipe and easy to make. I changed the recipe by adding shrimp to it also. The only downfall was it wasn't as spicy as I like but still tasted wonderful."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Iss4me"
+},
+"reviewBody": "I made it with some modifications to the amount of soup, and it was a winner! I used 2 cans instead of 3, and it was perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "swtprincess281"
+},
+"reviewBody": "This was really good! I used butter instead of margarine, added half a can of tomato paste, one can of cream of mushroom, one can of cream of celery, and about two cups of chicken broth mixed with both to make it thinner. about a pound and a half of fresh crawfish left over from a Sunday boil with a little extra Tonys sprinkled on top and it was fabulous!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "atxbritt71"
+},
+"reviewBody": "The best crawfish etouffee I have tasted!! Instead of adding 3 cans of condensed mushroom soup I added 1 can of cream of mushroom, 1 can cream of celery and 1 can cream of chicken! It came out amazing!! I also had to throw in some Tonys seasoning!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "donnaj07"
+},
+"reviewBody": "This was very good and easy. I used butter to make it a little richer."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rachel"
+},
+"reviewBody": "This stuff is brilliant! My girlfriend from NO says this is the best version she has had. We subbed butter for margarine and it was wonderful."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bsbridges"
+},
+"reviewBody": "Simple and it tastes delicious! This was my first time ever cooking crawfish etouffee and I felt like a chef! I highly recommend this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This looks delicious, and I am going to try it out this week for dinner!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BDUB"
+},
+"reviewBody": "I'm from Louisiana and this is similar to the recipe that we use at home. I love it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "alliechick"
+},
+"reviewBody": "This has really good flavor, but the thickness of the mushroom soup was a little odd. I don't think etouffee is usually so gloppy. But my BF and i both enjoyed it very much. I think next time I will only use 2 cans of soup, and add some water to thin it out a little."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jarhead1"
+},
+"reviewBody": "Excellent recipe! I made this dish for supper tonight and was exceptionally pleased. I was skeptical at first about the cream of mushroom soup, but it really gave the dish a good, rich flavor. I added a diced fresh jalapeno and some cajun spice to juice it up a little, but thought the recipe itself was great if you don't like it too hot."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "brekat"
+},
+"reviewBody": "My hubby said this was delecious and I thought so at first too - but I wasn't so sure about it by the time I had finished. I altered the recipe slightly and adapted it for the crockpot - I used butter in with the ingredients instead of margarine and used shrimp instead of crawfish. I also added diced chicken breasts and a can of clams. It tasted a tad too seafoody for my tastes and next time, I will skip the clams. I also think it needed more spices or something as it was lacking wow factor - perhaps some cajun spice next time will do the trick. I had even tripled the garlic in this recipe and added frank's red to it - still a bit bland. This has potential though, just needs more tweaking."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "COLEY2"
+},
+"reviewBody": "This was \"OK\" - not sure I will make this again - just tasted too . . . Cream of Mushroomie or something"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "charlene"
+},
+"reviewBody": "WOW-This recipe was so easy and fantastic!I also added a little lemon rind,served over rice and topped with hot sauce!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DiBenson"
+},
+"reviewBody": "This was the first time I tried a cajun dish and it was Terrific! I will do it again. Only change I made was to add some lemon juice to cut the fishy taste of the crawfish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Caroline C"
+},
+"reviewBody": "I have no idea how authentic this is, but I *do* know that we really really enjoyed it! The only thing I will do differently next time is to make more sauce - we had it over rice, which really soaked it up. Awesome recipe, Jason. Thanks so much!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SPA_G"
+},
+"reviewBody": "Great recipe and very easy to make. The second time I made this I added a bottle of clam juice and 1/2 can tomato paste, just to play around with it. Works well in this dish. Oh, and I used 1/2 cup butter, no oil."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This dish was very savory and tasteful, also very easy to make. I loved it. However, it is not for tender tongues. The green chilies with the tomatoes that it calls for really add a punch and in leftovers the heat factor is somehow intensified, maybe even overpowering. I would definitely make it again, more than likely however without the green chilies and perhaps substituting with shrimp. Though this recipe tastes great with the crawfish processing them was a little time consuming. Shrimp would work better if you were in a rush."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "COOKNSFUN"
+},
+"reviewBody": "Taste sooo good! Will definitely make it again! Thanks Jason for sharing the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laura S"
+},
+"reviewBody": "This is very quick and very easy to make, total cook and prep time was only about 45 minutes. It had a wonderful tatse and wasn't too spicy. I will make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "this was an exceptional recipe i am from new orleans and this is the best and closest to my garndfather's recipe."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/24508/crawfish-etouffee-iv/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/183/soups-stews-and-chili/stews/",
+"name": "Stews"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1425/soups-stews-and-chili/stews/etouffee/",
+"name": "Etouffee Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/24508/crawfish-etouffee-iv/",
+"name": "Crawfish Etouffee IV"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

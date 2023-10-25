@@ -1,0 +1,51 @@
+body {
+    background-color: #252525;
+}
+
+#search {
+    margin-top: 2.5vh;
+    width: 50vw;
+    height: 2vh;
+    border-radius: 2vh;
+    border: 2px whitesmoke solid;
+    padding: 5px 5px 5px 25px;
+    z-index: 5;
+    margin-left: 22.5vw;
+    background-color: #252525;
+    color: whitesmoke;
+}
+
+.recipe-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.recipe-info {
+    padding-top: 10vh;
+    display: flex;
+    flex-direction: column;
+    font-family:'Courier New', Courier, monospace;
+    color: whitesmoke;
+    width: 80vw;
+    overflow-wrap: normal;
+}
+
+.recipe-title {
+    align-self: center;
+    padding-bottom: 2vh;
+    font-size: 2vw;
+}
+
+.recipe-times {
+    padding-bottom: 2vh;
+    width: auto;
+}
+
+#ingredients-list {
+    padding-bottom: 2vh;
+}
+
+.instructions-list {
+    padding-bottom: 2vh;
+}

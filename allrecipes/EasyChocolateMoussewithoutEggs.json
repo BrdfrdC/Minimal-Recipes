@@ -1,0 +1,159 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Easy Chocolate Mousse without Eggs"
+,"datePublished": "2020-02-24T18:23:56.000-05:00"
+,"dateModified": "2022-01-11T19:01:51.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Stephanie Martins"
+,"url": "https://www.allrecipes.com/cook/16900319"
+}
+]
+,"description": "This decadent chocolate mousse without eggs was created to replicate a divine dessert served in a French cafe on a special honeymoon trip."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/fzysRGRnaY12LnKWUYaExPTrGVY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7793181-42168750d4a54a27a132877643145f90.jpg",
+"height": 2228,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Easy Chocolate Mousse without Eggs"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "2"
+}
+,"cookTime": "PT5M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "511 kcal"
+,"carbohydrateContent": "29 g"
+,"cholesterolContent": "122 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "4 g"
+,"saturatedFatContent": "28 g"
+,"sodiumContent": "39 mg"
+,"sugarContent": "23 g"
+,"fatContent": "46 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"0.5 (12 ounce) bag semisweet chocolate chips, or more to taste",
+"1.5 cups heavy whipping cream, divided",
+"0.25 cup hot, strong coffee",
+"0.5 teaspoon vanilla extract" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place chocolate chips in a large bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat 1/2 cup cream in a small saucepan over medium-high heat until it begins to rise and foam, watching carefully so it doesn&#39;t spill over, 3 to 5 minutes. Pour over chocolate chips and cover for 1 minute."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove cover and slowly stir with a spatula until smooth. Stir in hot coffee and vanilla extract until all chocolate has melted."
+} ,{
+"@type": "HowToStep"
+,"text": "Whip remaining 1 cup cream in a chilled glass or metal bowl with an electric mixer until soft peaks form. Gently fold cream into chocolate mixture until combined."
+} ,{
+"@type": "HowToStep"
+,"text": "Spoon into glasses and refrigerate until firm, at least 3 hours."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT200M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michele"
+},
+"reviewBody": "AMAZING! So creamy and delicious and it couldn't be any easier. I followed the recipe exactly."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Yoly"
+},
+"reviewBody": "Excellent! So easy, simple, quick and delicious. Made no changes, just topped with a bit of of whip cream. Will be making this over and over. Thank you for sharing your recipe!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/278538/easy-chocolate-mousse-without-eggs/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/365/desserts/mousse/",
+"name": "Mousse Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1566/desserts/mousse/chocolate-mousse/",
+"name": "Chocolate Mousse Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/278538/easy-chocolate-mousse-without-eggs/",
+"name": "Easy Chocolate Mousse without Eggs"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

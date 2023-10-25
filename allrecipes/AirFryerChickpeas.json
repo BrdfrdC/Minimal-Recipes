@@ -1,0 +1,129 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Air Fryer Chickpeas"
+,"datePublished": "2023-01-25T15:54:16.000-05:00"
+,"dateModified": "2023-01-25T15:54:16.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "lutzflcat"
+,"url": "https://www.allrecipes.com/cook/lutzflcat"
+}
+]
+,"description": "Air fryer chickpeas seasoned with Tajin have a unique chili pepper-lime flavor. Enjoy as a snack, salad topper, or garnish for soup."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/jqEax45-x-jmLossPJ-X3z4o68Q=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1673031483Air20Fryer20Tajin20Chickpeas-2000-cffebe563a9349f68864564a18968784.jpeg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Air Fryer Chickpeas"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "1"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "155 kcal"
+,"carbohydrateContent": "25 g"
+,"fiberContent": "5 g"
+,"proteinContent": "6 g"
+,"saturatedFatContent": "0 g"
+,"sodiumContent": "614 mg"
+,"fatContent": "4 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 (15.5 ounce) can chickpeas, drained and rinsed",
+"0.75 tablespoon avocado oil",
+"2 teaspoons chili-lime seasoning (such as Tajin®)",
+"0.25 teaspoon garlic powder",
+"1 pinch cayenne pepper, or to taste",
+"salt to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat air fryer to 400 degrees F (200 degrees C). Spray the air fryer basket with cooking spray or use a parchment liner."
+} ,{
+"@type": "HowToStep"
+,"text": "Place chickpeas on a paper towel-lined plate to dry, patting down with another paper towel on top. Add dried chickpeas to a medium bowl, drizzle with avocado oil, sprinkle with Tajin, garlic powder, and cayenne, and toss to coat."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer chickpeas to the air fryer basket, and cook, stirring or shaking halfway through, until you reach your desired crispness, 12 to 15 minutes. Cooking time may vary depending on the brand and size of your air fryer."
+} ,{
+"@type": "HowToStep"
+,"text": "Season with salt and allow chickpeas to cool slightly."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT25M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8529798/air-fryer-chickpeas/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16930/fruits-and-vegetables/beans-and-peas/",
+"name": "Beans and Peas"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16980/fruits-and-vegetables/beans-and-peas/garbanzo-beans/",
+"name": "Garbanzo Beans"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8529798/air-fryer-chickpeas/",
+"name": "Air Fryer Chickpeas"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

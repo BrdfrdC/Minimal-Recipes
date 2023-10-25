@@ -1,0 +1,232 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Breakfast Chilaquiles"
+,"datePublished": "2020-06-23T17:52:19.000-04:00"
+,"dateModified": "2022-08-22T14:40:49.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "KEPHY"
+}
+]
+,"description": "Crispy corn tortillas, eggs, and enchilada sauce are the main components of this quick and easy chilaquiles, a Mexican breakfast recipe."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/gkB-N74taaY66ZKjpoTWpgVSc4s=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4510087-53bdf172eaf04790a06fc268102007ff.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Breakfast Chilaquiles"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "10"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "373 kcal"
+,"carbohydrateContent": "19 g"
+,"cholesterolContent": "480 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "22 g"
+,"saturatedFatContent": "8 g"
+,"sodiumContent": "605 mg"
+,"sugarContent": "2 g"
+,"fatContent": "23 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1.5 teaspoons olive oil",
+"2 corn tortillas, cut into small squares",
+"5 eggs",
+"salt and ground black pepper to taste",
+"0.25 cup shredded Cheddar cheese",
+"0.5 (14 ounce) can enchilada sauce (such as Old El Paso®)" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Heat olive oil in a large skillet over medium heat. Add tortilla squares; cook and stir until crispy, about 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk eggs, salt, and pepper together in a bowl. Stir in Cheddar cheese."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour egg and cheese mixture into the skillet; cook and until eggs are firm, about 5 minutes. Pour enchilada sauce on top."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT20M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Steve"
+},
+"reviewBody": "I liked it a lot -- but I would include some additional ingredients to really top it off!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Renee Nay"
+},
+"reviewBody": "Very easy and so delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "4greatfood"
+},
+"reviewBody": "These were surprisingly great. This has become my go-to breakfast. I sometimes substitute the enchilada sauce for green chili but it's awesome either way."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Daniel Berard"
+},
+"reviewBody": "This very good. Nice change up for traditional eggs"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Vickie"
+},
+"reviewBody": "I add chopped onion to cook with the tortillas and only use 2 eggs. I top it off with salsa Verde and no cheese. It's my favorite breakfast!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "nicole"
+},
+"reviewBody": "Great recipe! I added an extra tortilla and onions. I didn’t have enchilada sauce but I did add salsa."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jo Ann Fox Selmer"
+},
+"reviewBody": "Good base. I added bacon, ham &amp; sausage, along with mushroom, onion &amp; jalepeno. turned out excellent."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Soup Loving Nicole"
+},
+"reviewBody": "The recipe didn't say to break up the scrambled egg but halfway though the cook time I had one gigantic omelet so I decided to break it up some. This is a good recipe but I think it needed more tortilla. Next time I will use 3 if not 4."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/257966/breakfast-chilaquiles/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/78/breakfast-and-brunch/",
+"name": "Breakfast and Brunch"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/148/breakfast-and-brunch/eggs/",
+"name": "Eggs"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/257966/breakfast-chilaquiles/",
+"name": "Breakfast Chilaquiles"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

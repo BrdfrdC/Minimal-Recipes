@@ -1,0 +1,240 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Easy Shrimp Ceviche"
+,"datePublished": "2018-06-08T10:49:12.000-04:00"
+,"dateModified": "2022-01-14T01:26:05.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "keonar"
+,"url": "https://www.allrecipes.com/cook/keon"
+}
+]
+,"description": "Unlike your average shrimp ceviche, the shrimp in this recipe is parboiled and soaked in lime juice before combining with a spicy, refreshing medley of vegetables."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/3d4J-mQWL_iXDu8wEdH2ckQfP_0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9182442-9c9b764fa4b64ad786eea7a99596637d.jpg",
+"height": 1792,
+"width": 1345
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Easy Shrimp Ceviche"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.9",
+"ratingCount": "8"
+}
+,"cookTime": "PT5M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "163 kcal"
+,"carbohydrateContent": "19 g"
+,"cholesterolContent": "86 mg"
+,"fiberContent": "7 g"
+,"proteinContent": "12 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "981 mg"
+,"sugarContent": "4 g"
+,"fatContent": "7 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 cucumber, diced",
+"2 Roma tomatoes, diced",
+"0.5 medium red onion, diced",
+"2 serrano peppers, seeded and deveined",
+"0.25 cup chopped cilantro",
+"6 medium limes, divided",
+"1.5 teaspoons salt, divided",
+"0.5 teaspoon ground black pepper to taste",
+"0.5 pound raw shrimp, peeled and deveined",
+"1 small avocado, diced" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine cucumber, tomatoes, red onion, serrano peppers, and cilantro in a bowl. Add 1 teaspoon salt and squeeze 1 lime. Gently mix and set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Squeeze the remaining limes into another bowl. Add remaining salt and pepper."
+} ,{
+"@type": "HowToStep"
+,"text": "Bring a 1- to 2-quart pot of water to a boil. Place shrimp into the boiling water for 45 seconds. Quickly remove from the water using a strainer."
+} ,{
+"@type": "HowToStep"
+,"text": "Chop the partially cooked shrimp into small pieces and add to the bowl with the seasoned lime mixture. Let sit for 20 minutes. Combine with the cucumber mixture and top with avocados."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT40M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Confessions of a Grocery Addict"
+},
+"reviewBody": "This was great! Super refreshing meal that ended up being more like a salad. \n\nMy bag of frozen shrimp came as 12oz, so I used the whole bag. I also swapped jalapeños for the serranos since that's what I had on hand. \nI marinated the shrimp in raw lime juice for 4 hours hoping it would fully acid cook, but it didn't quite make it, so I ended up tossing shrimp and lime into a sauté pan for just about 3 minutes to warm through.\nMade a quick avocado mash with garlic and lime juice to spread on the bottom, then tossed the ceviche across the top.\nAte with some Taco Bell Fire flavored Doritos that were somewhat disappointing as chips but worked well as quasi-croutons."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brandalicious"
+},
+"reviewBody": "Easy and delicious! I added Tapatio hot sauce for extra zing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "memphisbelle"
+},
+"reviewBody": "Delicious!! Will definitely make it again! Now I don't have to go to my favorite mexican restaurant when I want ceviche! Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ronald E Meringer"
+},
+"reviewBody": "An easy recipe that is sure to please. I like to add scallops as they are similar in texture and adds diversity to the flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Terry F"
+},
+"reviewBody": "Tasty!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Daniela Lopez"
+},
+"reviewBody": "Simple but delicious. When tasting for salt, taste along with salted tostada or chips you’ll be pairing ceviche with to avoid over salting. And don’t skip the avocado!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Simple and straight forward, my family loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "keonar"
+},
+"reviewBody": "Simple and straight forward, my family loved it."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/264646/easy-shrimp-ceviche/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/408/salad/seafood-salad/",
+"name": "Seafood Salad Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/914/salad/seafood-salad/shrimp-salad/",
+"name": "Shrimp Salad Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/264646/easy-shrimp-ceviche/",
+"name": "Easy Shrimp Ceviche"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

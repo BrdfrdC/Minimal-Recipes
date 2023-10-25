@@ -1,0 +1,216 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Strawberry Pavlova"
+,"datePublished": "2012-10-25T21:41:42.000-04:00"
+,"dateModified": "2022-08-22T14:35:20.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Egg Farmers of Ontario"
+}
+]
+,"description": "This beautiful dessert, a favourite recipe of Teeswater egg farmers Peter and Adriana Van Zeeland, is perfect for any occasion."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/gFluVjGArpez4r4z3yLJfySQl_4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2562242-4e21df86dc4841f78e0e9f884acadfe6.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Strawberry Pavlova"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "12"
+}
+,"cookTime": "PT75M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "281 kcal"
+,"carbohydrateContent": "28 g"
+,"cholesterolContent": "65 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "11 g"
+,"sodiumContent": "41 mg"
+,"sugarContent": "24 g"
+,"fatContent": "18 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT40M"
+,"recipeIngredient": [
+"4 egg whites, at room temperature",
+"0.25 teaspoon cream of tartar",
+"Pinch salt",
+"1 cup sugar",
+"1 tablespoon cornstarch",
+"1 tablespoon white vinegar",
+"1 teaspoon vanilla",
+"2 cups whipping cream",
+"2 tablespoons orange liqueur",
+"4 cups strawberries" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Beat egg whites, cream of tartar and salt in a large bowl with an electric mixer until soft peaks form. Beat in sugar, 1 tbsp at a time, until stiff, glossy peaks form. Beat in cornstarch, vinegar and vanilla just until blended."
+} ,{
+"@type": "HowToStep"
+,"text": "On a baking sheet lined with parchment paper or foil, spread meringue into a 10-inch (25 cm) circle with a raised edge and a slight indentation in the centre."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in a preheated 250 degrees F (120 degrees C) oven until firm to the touch, about 1-1/4 hours. Meringue should be cream-coloured. If it appears to be browning, reduce oven temperature to 225 degrees F (105 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove from oven and let cool."
+} ,{
+"@type": "HowToStep"
+,"text": "When ready to serve, peel parchment paper off back of meringue. Place meringue on a serving plate. Cut strawberries into halves or slices, if large. Whip cream until stiff peaks form. Gently stir in liqueur, if using. Spread whipped cream over meringue leaving edge of meringue visible. Top with strawberries. Cut into wedges to serve."
+} ]
+,"recipeYield": ["10"]
+,"totalTime": "PT115M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "terrimewborn"
+},
+"reviewBody": "Followed this recipe precisely and ended up with the most perfect pavlova base I've ever made! Excellent and simple recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This is my go to Pavlova recipe. Things I changed; doubled the recipe, used super fine sugar and what a beautiful meringue! I also used kiwi and pineapple in addition to the strawberries. The meringue needed 2 hours not 1.25 to bake completely.\nAbsolutely delicious, a real hit at potlucks."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jo-Anne Wooddisse"
+},
+"reviewBody": "It was the best Pavlova I have ever made, great texture and taste!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Peter "
+},
+"reviewBody": "This was delicious!.. I have some friends that don't eat wheat, so this fit the bill nicely. I did make a change from whipped cream for my lactose intolerants, by taking 0% fat, lactose free, Greek Yoghurt, using about 1/4 c of powdered sugar and the 2 tbsp of Cointreau. Got great raves on this."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "HAPAHAOLE76"
+},
+"reviewBody": "My mom always used to make this for the 4th of July. It doesn't keep very well, so if don't have enough people to eat the entire thing in one sitting, I make a bunch of small meringue bowls instead of one big one. I keep the small bowls in the oven (for days) until we get through them all. Mini-pavlovas! MMMMMM!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Leslie"
+},
+"reviewBody": "I made this recipe and it was amazing, not only was it beautiful , it tasted wonderful!! Thank you for posting it."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/229849/strawberry-pavlova/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/",
+"name": "Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1642/everyday-cooking/",
+"name": "Everyday Cooking"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/229849/strawberry-pavlova/",
+"name": "Strawberry Pavlova"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

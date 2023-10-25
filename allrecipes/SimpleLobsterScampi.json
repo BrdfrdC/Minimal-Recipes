@@ -1,0 +1,153 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Simple Lobster Scampi"
+,"datePublished": "2019-07-10T03:11:20.000-04:00"
+,"dateModified": "2022-12-14T16:55:46.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "cdlab"
+,"url": "https://www.allrecipes.com/cook/3434765"
+}
+]
+,"description": "This lobster scampi is a simple and elegant blend of pre-cooked lobster, white wine, lemon juice, and Parmesan cheese. Great served with pasta."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/U-ecDUt5V1LLPoFs73ysOw8ezWo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5029902-df1bf5013a2c465697eb9678b7e0c2b1.jpg",
+"height": 1591,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Simple Lobster Scampi"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "2"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "385 kcal"
+,"carbohydrateContent": "9 g"
+,"cholesterolContent": "146 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "26 g"
+,"saturatedFatContent": "15 g"
+,"sodiumContent": "713 mg"
+,"sugarContent": "1 g"
+,"fatContent": "25 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"0.75 cup butter",
+"1.5 tablespoons minced garlic, or to taste",
+"1.5 pounds cooked lobster meat, cut into bite-size pieces",
+"0.5 cup white wine, or to taste",
+"1 teaspoon lemon juice",
+"0.25 cup grated Parmesan cheese, or to taste",
+"0.5 cup bread crumbs, or more as needed" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Melt butter in a skillet over medium heat. Add garlic; cook and stir until fragrant, about 2 to 3 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Add lobster and cook until heated through, about 5 minutes. Add wine and lemon juice; bring to a boil. Add Parmesan cheese; cook until melted, about 2 minutes. Add bread crumbs slowly, 2 tablespoons at a time, bringing to a boil after each addition."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT30M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Willy P"
+},
+"reviewBody": "I loved this. Several weeks ago I made it with shrimp and lobster, and today I did it with shrimp and calamari. The recipe is fast and incredibly simple. The only additions I made were basil and a small amount of red pepper flakes (as I like it spicy)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Bren"
+},
+"reviewBody": "I really enjoyed this. I cut the portions back to 1 and used large shrimp instead of lobster, it's too pricey here. I used Italian flavoured bread crumbs, it''s all that I had. The shrimp were added at the end of the cooking time, 2-3 minutes. Thanks for sharing."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/260617/simple-lobster-scampi/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/496/side-dish/sauces-and-condiments/sauces/pasta-sauces/",
+"name": "Pasta Sauces"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/563/side-dish/sauces-and-condiments/sauces/pasta-sauces/creamy/",
+"name": "Creamy"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/260617/simple-lobster-scampi/",
+"name": "Simple Lobster Scampi"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

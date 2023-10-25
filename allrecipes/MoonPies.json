@@ -1,0 +1,219 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Moon Pies"
+,"datePublished": "2020-06-18T23:06:51.000-04:00"
+,"dateModified": "2022-07-14T17:48:10.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "RSLEE2000"
+,"url": "https://www.allrecipes.com/cook/142796"
+}
+]
+,"description": "Similar to whoopie pies, these soft chocolate cookies are sandwiched with a fluffy vanilla frosting."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/564xgM6y_vjmTc9YGgyoalpa4Ls=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/684349-3c40ff86f0824f218b83c40768fffc41.jpg",
+"height": 250,
+"width": 250
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Moon Pies"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "2.6",
+"ratingCount": "7"
+}
+,"cookTime": "PT12M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "325 kcal"
+,"carbohydrateContent": "44 g"
+,"cholesterolContent": "22 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "4 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "144 mg"
+,"sugarContent": "28 g"
+,"fatContent": "16 g"
+,"servingSize": "1 1/2 dozen"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"0.5 cup unsweetened cocoa powder",
+"0.5 cup boiling water",
+"0.5 cup shortening",
+"1.5 cups white sugar",
+"2 eggs",
+"1 teaspoon vanilla extract",
+"2.6666667461395 cups all-purpose flour",
+"1 teaspoon baking powder",
+"1 teaspoon baking soda",
+"0.25 teaspoon salt",
+"0.5 cup buttermilk",
+"2 tablespoons all-purpose flour",
+"1 pinch salt",
+"1 cup milk",
+"0.75 cup shortening",
+"1.5 cups confectioners' sugar",
+"2 teaspoons vanilla extract" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat oven to 350 degrees F (175 degrees C). Grease cookie sheets. In a small bowl, stir together the cocoa and boiling water. Let cool for 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "In a medium bowl, cream together 1/2 cup shortening and white sugar. Beat in the eggs one at a time then stir in the vanilla extract and cocoa mixture. Combine 2 2/3 cups flour with baking powder, baking soda and salt; stir into the sugar mixture alternately with the buttermilk. Drop by rounded tablespoons 2 inches apart onto the prepared cookie sheets."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake for 10 to 12 minutes in the preheated oven, until firm. To make the filling: In a small saucepan, stir together remaining flour and pinch of salt. Gradually whisk in the milk. Cook over medium heat, stirring constantly until thick, about 5 to 7 minutes. Remove from heat, cover and refrigerate. In a medium bowl, cream together 3/4 cup of shortening and confectioners&#39; sugar until light and fluffy. Gradually add the vanilla and the milk mixture and beat until fluffy. Sandwich filling between cookies."
+} ]
+,"recipeYield": ["18"]
+,"totalTime": "PT32M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Sophia"
+},
+"reviewBody": "The filling turned into liquid."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "BDennis"
+},
+"reviewBody": "Aren't these whoopie pies...moon pie has graham cookies, using graham flour to make a graham cracker cookie, filled with marshmellow and dipped in chocolate. That is a moon pie. These are whoopie pie."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "My Hot Southern Mess"
+},
+"reviewBody": "I was looking forward to making this recipe simply because i'm from the south where moonpies are plentiful. This recipe is actually for a whoopie pie. I followed the recipe as is. The cookie was ok a basic chocolate cookie, The frosting was good as well but runny. I'd use a different frosting."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Eliblish"
+},
+"reviewBody": "Just o.k. Cookie part was a bit bland and so was the filling. I might try it with butter and see if that helps."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "RECHABITE"
+},
+"reviewBody": "while baking the batter from a different moon pie recipe, i suddenly realized that i didn't have the incredients for the marshmallow filling. i didn't want to waste the batter so i searched \"all recipes\" and found this recipe. i used the filing incredients for my batter and i must say it was very good. my family loved them. i give the filing part of this recipe 4 stars !!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer Mottram"
+},
+"reviewBody": "Maybe others will have a better result. For me, I found it difficult to follow the directions, particularly after doubling the recipe, but the text of the recipe didn't likewise adjust. The frosting never did come out right, even after 45 minutes of fidgiting with it. I'd be interested in finding out how others have fared with this."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/26178/moon-pies/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/362/desserts/cookies/",
+"name": "Cookies"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16417/desserts/cookies/whoopie-pies/",
+"name": "Whoopie Pie Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/26178/moon-pies/",
+"name": "Moon Pies"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

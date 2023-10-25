@@ -1,0 +1,867 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Fresh Guacamole"
+,"datePublished": "2019-04-02T02:49:50.000-04:00"
+,"dateModified": "2019-04-02T02:49:50.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "jamjar caterers"
+,"url": "https://www.allrecipes.com/cook/2648674"
+}
+]
+,"description": "This guacamole is fresh, green, and a little zesty."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/eUcqguN4zzy7eHseadklNl29Eeg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1010243-895409177e084528bcc7a136d28cf23c.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Fresh Guacamole"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "70"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "187 kcal"
+,"carbohydrateContent": "15 g"
+,"fiberContent": "8 g"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "555 mg"
+,"sugarContent": "3 g"
+,"fatContent": "15 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"1 avocado - peeled, pitted, and diced",
+"1 roma (plum) tomato, diced",
+"0.5 red onion, diced",
+"1 serrano chile pepper, seeded and minced",
+"0.5 teaspoon kosher salt",
+"0.5 teaspoon ground black pepper",
+"0.5 teaspoon garlic powder",
+"1 teaspoon Worcestershire sauce",
+"3 drops hot sauce",
+"6 cilantro leaves, minced",
+"1 tablespoon fresh lime juice" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine the avocado, tomato, onion, serrano chile, salt, pepper, garlic powder, Worcestershire sauce, hot sauce, and cilantro leaves in a bowl and mix. Pour lime juice over the top of the guacamole. Serve immediately. To store for later use, place avocado pit in the bowl with the guacamole and then cover with plastic wrap, pressing the wrap down to the surface of the guacamole and store in refrigerator."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT30M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "CSS"
+},
+"reviewBody": "I didn't follow measurements precisely and ended up a little saltier than desired, but I liked it. Pretty easy to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bapples"
+},
+"reviewBody": "Absolutely delicious! Added sliced off the cob fresh corn. Used two avocados and fresh parsley instead of cilantro and lemon juices because didn’t have lime juice. Everyone loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Chrissy Farrell Morscher"
+},
+"reviewBody": "I've had better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "thatearthychick"
+},
+"reviewBody": "This was my first attempt at making guacamole and boy was it good! I added 2 tablespoons more of lime juice (enhances the fresh flavor in my opinion), and cut up my veggies and peppers a little chunkier as I like a thicker guac. I ate it with some cafe style tortilla chips and enjoyed my guilt free late night snack."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "find01"
+},
+"reviewBody": "It was really good but I found that 1/2 a large onion is just too much onion for me and I like onions. I also used a Florida avocado also which is twice the size of a normal avocado. If using the smaller variety I would use 2 of them."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TheRealXman"
+},
+"reviewBody": "Took 30 mins to make, ate in 10 seconds\nlol"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Tom"
+},
+"reviewBody": "Seriously good recipe but if you cook regularly just throw the measurements out the window and use your gut. Use at least 2 avocados and don't be scared of the Worcester sauce. Don't serve right away, chill it a couple hours with the plastic wrap right on top to prevent browning. The pits have nothing to do with it other than the spot it's touching the guac. Just prevent the top from being exposed to air."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "HollyD"
+},
+"reviewBody": "This guacamole was fantastic! I doubled the recipe and modified some of the ingredients to what I had on hand. I used a white onion, fresh chopped garlic, substituted jalapeño for Serrano peppers, added some sliced green onions, and omitted the Worcestershire, hot sauce, and cilantro. I served this at a 4th of July BBQ and several people asked for the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ryan Winkelman"
+},
+"reviewBody": "D. E. L. I. C. I. O. U. S."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Suzanne"
+},
+"reviewBody": "I used what I had on hand which was fresh garlic, onion powder, no tomatoes,no cilantro, lime juice from the bottle, and a dried chili pepper, . ..don't know what kind, and it still turned out great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "seehau_chill"
+},
+"reviewBody": "I did not use serrano, I used jalapenos instead, giving it a slightly milder spiciness. I also used Mexican chili mix powder instead of using hot sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tricia"
+},
+"reviewBody": "I usually dont rate a recipe if I dont follow it exactly, but... since the only thing I substituted was sambal oelek for the hot sauce and the serrano pepper I still think I was pretty close to the original. this guac was fantastic!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "amy"
+},
+"reviewBody": "Taste really good, i will make it again for sure"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hapygrl"
+},
+"reviewBody": "Wowzer!!!!!followed exactly except for the worchestershire sauce... after reading the reviews decided not to this time. next time i will try it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "naples34102"
+},
+"reviewBody": "Ultimately Hubs and I loved this - but that wasn't without playing with the amounts of certain ingredients significantly. I used twice as many avocados, for instance, while at the same time cutting back on the onion and chilies (I used jalapeno). Six cilantro leaves seemed like kind of an odd measurement so I disregarded it and just used what looked right. Worcestershire sauce was a new and different addition for me. I've noticed it in other guacamole recipes so I thought what the heck, I'll give it a try. The flavor it gave the guacamole was interesting and just slightly different. All and all, if you add the ingredients \"to taste\" rather than following the recipe precisely, this is a pretty darned good guacamole recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "barbbarchi"
+},
+"reviewBody": "I love this recipe, as does everyone who tries my guac. I use a bit less worcestershire, otherwise perfect"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sabrina Jones"
+},
+"reviewBody": "Always a winner. My go to guàc recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "awilson614"
+},
+"reviewBody": "I just followed the directions exactly, and there was way too much seasoning! If I did this again, I would skip the worcestershire altogether and then scale back on the salt, pepper, and garlic powder."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "heather"
+},
+"reviewBody": "Great fresh flavor. Lots of zesty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jillian"
+},
+"reviewBody": "Great guacamole - very fresh and definitely on the zesty side! I did cut back on the red onion, used fresh garlic vs. garlic powder and opted out of the Worcestershire and additional hot sauce as a personal preferenc. Great with warm tortilla chips!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "shar"
+},
+"reviewBody": "This is pretty much the recipe I've used for ages. However, I use 2-3 avocados keeping the rest of the measurements pretty much the same. Except I add some cumin and about 1/4 cup cilantro. We use it for chips, enchiladas, tostadas, everything. (And I just eyeball all the ingredients) Turns out great every time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LittleMissStepford"
+},
+"reviewBody": "This is great guacamole! I edited the recipe a little bit, to taste, and used it on chicken tacos...DELICIOUS!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "WayneinMcKinney"
+},
+"reviewBody": "I couldn't decide between this guac recipe and the one that has over 2400 five star ratings - so I made both and liked both. This guac is not what you'd get in most restaurants or pre-made from a grocery store. The \"other\" recipe is more like those - good, and most people would probably prefer it because it's quite mild. This one is different in appearance and much spicier than the \"other\". I prefer this one, but if I were going to prepare guac for a party, I think I'd do the same thing again and make both."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bmama0709"
+},
+"reviewBody": "This recipe is delicious and easy! Thanks so much!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ksoper"
+},
+"reviewBody": "This was the best I've had, a crowd pleaser"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ajarvis"
+},
+"reviewBody": "Out of this world! I'm an AZ girl, and this is definitely one of the best recipes for guacamole that I've tasted. I did use 4 avocados instead of 1, and the flavor was still amazing. Left out hot sauce, and my 1 year old couldn't get enough!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "ATRIOLA"
+},
+"reviewBody": "The seasonings need to be cut in half. They overpowered the avocado. Thankfully I had more avocados on hand to add to it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allison"
+},
+"reviewBody": "Incredible guac! I didn't have a serrano chile, but it didn't matter. Perfect cream and crunch and flavor. I ate it all myself in one sitting ;)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kristen"
+},
+"reviewBody": "This is the best recipe I've found yet!! Followed it exactly and wouldn't change a thing! Thanks :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "PSTAMP"
+},
+"reviewBody": "Wow! This is the best guacamole I have ever made. I think the addition of worcestershire makes the difference. I didn't use the serrano chille as my kids were going to be eating it but it was still fabulous. When you get multiple requests for the recipe after serving it you know you have a keeper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "yanni"
+},
+"reviewBody": "my husband n brother love this guacamole...thank u for posting"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "selfblind"
+},
+"reviewBody": "Whatever this is it is not guacamole. I don't know exactly where I went wrong, since I followed the recipe exactly. I guess it was just not my cup of tea. Thanks anyway."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Griz"
+},
+"reviewBody": "Delicious, quick, and easy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Leah"
+},
+"reviewBody": "YUM! I love guacs that aren't just basic! The worchestershire really adds something!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ChefJeff"
+},
+"reviewBody": "Great Guac...I could take or leave the Worcestershire sauce but put in about 1T chopped cilantro for every 2 avocados; the serrano chile is such a clean, crisper type of heat much preferred by me over the jalapenos normally found in some guac recipes...they really make the dish. Often I'll increase the serranos and not use the hot sauce. I usually quadruple this recipe and serve it in a parchment lined molcajete I picked up in Texas years ago...nice presentation, especially over a bed of salty tortilla chips."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "tropicalbeachdiva"
+},
+"reviewBody": "Great zesty flavor! I didn't give it a 5 because I think it may be too powerful for some entrees, but I loved the taste. I kept pretty true to the recipe, except I added more avocado, reduced the red onion slightly, and used a split of white pepper and black pepper. Also added a dash of cayenne before adding the lime. Yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carmen"
+},
+"reviewBody": "First time to make guacamole, and this recipe was super easy and delicious. Recieved high praise from dinner guests."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "stmpbkrph"
+},
+"reviewBody": "GREAT recipe, first time I have made Guacamole. Super easy, my husband even loved it. Will definately make very often"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DebM"
+},
+"reviewBody": "I made this last evening and it was easy and fantastic. I didn't have any red onion or hot sauce so I substituted one small cooking onion and some ground chili pepper. My husband loved it and he is not usually a fan of guacamole."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "THYME4MA"
+},
+"reviewBody": "awesome!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Crystal"
+},
+"reviewBody": "Excellent! I made two batches, one for the kids (both under 3) without the heat, and one with, although I did add a little chipotle chilli powder to add a little smokey flavour. My picky toddler loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "boymacwerter"
+},
+"reviewBody": "This guacamole was really good! I skipped the chile pepper and I pulped the thing up a bit more (because I prefer it smooth) but it tasted good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I've never made guacamole before. This recipe was EASY, quick and delicious!! I tripled the recipe and may have added too much cilantro. Be careful because the cilantro can be a little overpowering!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CookinCrystal"
+},
+"reviewBody": "I served this to company a few weeks ago and the loved it. It goes well with Spanish Chicken recipe I found on here as well. I almost didn't have enough for the main course because they ate it up. I'm giving 5 stars!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mrc"
+},
+"reviewBody": "I have never made guacamole before and all the ingredients sounded good. This is very fresh and very yummy! I did not use a food processor because I wanted it chunky...and I made NO substitutions to the original recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "franybanany"
+},
+"reviewBody": "Now THAT is a delicious guac! Didn't have some stuff on hand so subbed the roma with 2 large cherry tomatos, used 1/2 tsp chili powder instead of the fresh chili pepper, used about 1/2 tbsp of dried cilantro. Threw it all in the food processor for a minute and was good to go!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer"
+},
+"reviewBody": "This guacamole had a very nice flavor. We enjoyed it with Tex Mex Calzones."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rosealicious"
+},
+"reviewBody": "The BEST guacamole in town! you won't regret it :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lisagod"
+},
+"reviewBody": "Delicious! I did not use hot sauce, I used Asian sracha sauce, and half an avocado more and it was perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer Lynn"
+},
+"reviewBody": "Tastey and Fresh"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "kilroy"
+},
+"reviewBody": "Wasn't bad but not nearly as good as the local Mexican place."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TURBOSAUR"
+},
+"reviewBody": "THIS IS WHAT I'M TALKING ABOUT! Seriously, this is what guac should taste like. No canned salsa, no mayonnaise, no cream cheese or any of that other \"middle America ketchup on spaghetti style\" nonsense that would give my abuela a heart attack if she ever heard such things. If you're looking for the real thing like they make in traditional latin american homes this is it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Adele"
+},
+"reviewBody": "This was good, but I think it could have been better. Nice flavor, though!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ita"
+},
+"reviewBody": "I quadrupled the recipe as I wanted to make it for a party. I haven't served it yet but my taste tester says it's excellent - see my photo."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "nikki"
+},
+"reviewBody": "The Best Guacamole I've ever had!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jamjar caterers"
+},
+"reviewBody": "Good spiciness, great guac!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer"
+},
+"reviewBody": "Very good! I made this for my husband, I don't usually like guac, but I liked this. I doubled everything (except the Avocado), but I think my husband and I have a weak palette, and require a lot of spice!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/155616/fresh-guacamole/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/105/appetizers-and-snacks/dips-and-spreads/",
+"name": "Dips and Spreads Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/434/appetizers-and-snacks/dips-and-spreads/guacamole/",
+"name": "Guacamole Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/155616/fresh-guacamole/",
+"name": "Fresh Guacamole"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

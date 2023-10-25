@@ -1,0 +1,454 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Turkey Nacho Bake"
+,"datePublished": "2020-02-26T00:50:36.000-05:00"
+,"dateModified": "2020-02-26T00:50:36.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "TKOPRIVA"
+,"url": "https://www.allrecipes.com/cook/1195818"
+}
+]
+,"description": "A fast and easy way to prepare a pretty classic nacho treat with ground, browned turkey meat. Serve with sour cream, taco sauce, salsa or guacamole."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/-jn_IO1uSems-1eGcFng5pYvXEk=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/37230-8a7ba17c2ed64658b314bb109f8dfd5a.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Turkey Nacho Bake"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.2",
+"ratingCount": "35"
+}
+,"cookTime": "PT25M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "717 kcal"
+,"carbohydrateContent": "64 g"
+,"cholesterolContent": "105 mg"
+,"fiberContent": "9 g"
+,"proteinContent": "33 g"
+,"saturatedFatContent": "12 g"
+,"sodiumContent": "1424 mg"
+,"sugarContent": "4 g"
+,"fatContent": "38 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1 pound ground turkey",
+"2 cloves garlic, chopped",
+"freshly ground black pepper to taste",
+"2 teaspoons crushed red pepper flakes",
+"2 tablespoons chopped fresh chives",
+"2 tablespoons hot sauce",
+"1 (1 ounce) package dry taco seasoning mix",
+"1 (14 ounce) can refried beans",
+"1 (14.5 ounce) package tortilla chips",
+"2 cups shredded Cheddar cheese",
+"1 (4 ounce) can sliced black olives",
+"1 ripe tomato, diced",
+"1 bunch green onions, sliced" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat oven to 350 degrees F (175 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "In a large skillet over medium heat, begin to brown the ground turkey. Stir in garlic, pepper, 1 teaspoon red pepper flakes, and 1 tablespoon chives. Stir in 1 tablespoon hot sauce. When the turkey is browned, stir in taco seasoning mix according to package instructions."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour the beans into a microwave safe bowl, and heat in the microwave until softened. Stir in 1 tablespoon chives and 1 tablespoon hot sauce."
+} ,{
+"@type": "HowToStep"
+,"text": "Spread the tortilla chips across the bottom of a baking sheet. Spoon the beans mixture over the chips. Then spread the turkey mixture across the top. Sprinkle cheese, then olives, tomatoes, green onions, and remaining 1 teaspoon of crushed red pepper flakes over the top."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in preheated oven until cheese is melted, about 15 minutes"
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT45M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pat"
+},
+"reviewBody": "Delicious.. I made it without the beans. I didn’t use exact Ingredient amounts because I was only making a single serving for myself. I will make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jeannie Lowe Thomas"
+},
+"reviewBody": "Kids loved it- didn't use hot sauce and not so many red pepper flakes. Still had lots of kick."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lucydangerously"
+},
+"reviewBody": "This is soooooo good!! I didn't make any changes to this recipe aside from getting the Tostitos with a hint of jalapeño opposed to plain ones. I am an absolute cheese lover, and even though there is not a lot of cheese in this recipe; I love it more than any nachos I have ever had. All the fresh ingredients come together so well. This dish is highly recommended. It tastes BETTER than any Mexican Restaurant dish I've ever had!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Madison"
+},
+"reviewBody": "This is awesome! I always do a little recipe tweaking and this was no exception...I made it spicer the second time. It works great for parties. The first time i made this it turned out okay but a little dry because of the chips at the bottom, so the second time I made it as a nacho dip and it was delicious. Great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Terrill Torry Gardner"
+},
+"reviewBody": "Quick, Easy,and Tasty. Added a small amount of cayenne for just enough kick to make it perfect....Great for Game day....Thanks"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "carolaglaser"
+},
+"reviewBody": "Because of health issues I made this without the chips so it was a little bland for us"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ramicia DeClues Paul"
+},
+"reviewBody": "Tasted great! Used garlic powdered instead of garlic cloves, dried chives instead of fresh, and two cans of refried beans ( i like my nachos beany). Left out olives because I don't really like them. Enjoyed it so very much."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Andrea Parker"
+},
+"reviewBody": "we make this all of the time...don't be afraid to add your own spin to it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nikki Short Williams"
+},
+"reviewBody": "I used this recipe for our Halloween party and it was ABSOLUTELY AMAZING! I changed the recipe a little by using the basic taco dinner box (which includes the taco shells, seasoning, and salsa). I mixed the salsa in with the beans and used the taco shells as the base. It was a huge success!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "El"
+},
+"reviewBody": "Served the meal for the Laker VS Orlando Final game ( Lakers won YOOHOO!) The nachos were a hit and everyone had 2 and 3 servings ... I think the recipe could use more cheese than the recipe called for ... I wonder how a premade cheese sauce would fare ???"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chris D."
+},
+"reviewBody": "Great recipe and one that you can easily tailor to your own tastes. Basics are all great and a bit less heavy than most beef recipes. Really like it in the summer months as it is quick and easy to prepare!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "JLD5010"
+},
+"reviewBody": "This was just okay for me. Not sure if I would make again. But it is easy to put together."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle Montoya"
+},
+"reviewBody": "Such a great family recipe! I omitted the hot sauce since it can be added at the table, and everyone cleaned their plates!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This was great but I made a few minor changes. To the meat mixture, I also sautéed 1/2 diced white onion, Worcestershire sauce, paprika, cumin, kosher salt, 1 diced Serrano pepper, &amp; 1 chopped green bell pepper. To the nachos, I added 1/2 diced white onion &amp; 1 diced jalapeño pepper. We also did the beans on the side (which were great - used green onions instead of chives) along with a side bowl of salsa. I omitted the olives &amp; green onions on the nachos. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "KATEFOODFUN"
+},
+"reviewBody": "Really good! Thanks."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "murelzgirl"
+},
+"reviewBody": "This was a great recipe. I used ground beef instead because I didn't have any ground turkey."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ellie"
+},
+"reviewBody": "I used black beans instead of refried beans. I also only put cheese on half of it due to my son's food allergies. It turned out well. It was tasty without cheese as well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Nikki"
+},
+"reviewBody": "I had planned to test this meal one Sat. night for dinner and was anxious to see if using ground turkey instead of beef would satisfy my family. Without warning my husband invites a friend over for dinner that night. I had no time to switch meals. I was a little nervous about serving something I had never tasted to a guest but all the worry melted away when I pulled it out of the oven. The guys had seconds and thirds! Whew! We loved it and I will definately make this again. Sour cream and salsa really add too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MMOH"
+},
+"reviewBody": "Hubby adored these, and I loved how simple they were to make. I omitted the chives and green onions since I didn't have any, and left out the tomatoes since hubby doesn't like them. We topped them with salsa and sour cream after they came out of the oven."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kellyae"
+},
+"reviewBody": "Great way to use ground turkey. The kids loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "LINDA MCLEAN"
+},
+"reviewBody": "No complaints here! I baked my chips prior to topping them to ensure that they would keep their crunch. Added some guac on the side along with sour cream. This was wonderful and I thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "luckyjen7"
+},
+"reviewBody": "delicious! thanks"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sola"
+},
+"reviewBody": "This is so good in a not-quite-so-bad for you comfort food way. I didn't have any chives, green onions or fresh tomatoes, so instead I mixed around a 1/2 cup of medium salsa in with the fat-free refried beans when I microwaved them and then left out the hot sauce. Instead of pkgd. taco seasoning, I used the Taco Seasoning I recipe on this site which is a 1000x better. However, I did not add the ingredients to the seasoning that were already called for in this recipe (like chili flakes and pepper). I left out the olives because I don't like them. Not having to chop anything up saved about 10 minutes on the total time, and I even grated my own cheese while the beans were heating up. I will definitely make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I thought that this recipe might be too much with all the \"hot\" ingredients but it really isn't too spicy. I would make it again!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/88112/turkey-nacho-bake/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/104/appetizers-and-snacks/cheese/",
+"name": "Cheese"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1228/appetizers-and-snacks/cheese/nachos/",
+"name": "Nachos Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/88112/turkey-nacho-bake/",
+"name": "Turkey Nacho Bake"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

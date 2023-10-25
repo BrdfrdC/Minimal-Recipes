@@ -1,0 +1,402 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Juicy Two-Stage Thanksgiving Turkey Marinade"
+,"datePublished": "2020-03-04T23:59:49.000-05:00"
+,"dateModified": "2022-07-14T16:08:33.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "jaclynfarr"
+,"url": "https://www.allrecipes.com/cook/1589914"
+}
+]
+,"description": "Two brines over two days give your holiday bird complex layers of flavor as well as added juiciness."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/DFvK5VAmx5JaDjyAqz3xT3o_4ww=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1873697-bb0f70d31499472694719665421974a3.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Juicy Two-Stage Thanksgiving Turkey Marinade"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "28"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "814 kcal"
+,"carbohydrateContent": "27 g"
+,"cholesterolContent": "268 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "93 g"
+,"saturatedFatContent": "10 g"
+,"sodiumContent": "238 mg"
+,"sugarContent": "20 g"
+,"fatContent": "36 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT25M"
+,"recipeIngredient": [
+"1 cup salt",
+"1 cup orange juice",
+"1 cup brown sugar",
+"1 gallon water",
+"1 (3 inch) cinnamon stick",
+"1 (15 pound) turkey, thawed if purchased frozen",
+"3 oranges, sliced",
+"3 lemons, sliced",
+"0.5 cup chopped onion",
+"0.5 cup chopped green bell pepper",
+"0.25 cup chopped fresh parsley",
+"1 tablespoon whole cloves",
+"0.25 cup garlic powder",
+"2 (3 inch) cinnamon sticks",
+"2 tablespoons paprika",
+"0.25 cup olive oil",
+"3 tablespoons ground black pepper" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "On the Tuesday morning before Thanksgiving, whisk together salt, orange juice, brown sugar, a cinnamon stick and water in a large nonreactive container with a cover, such as a large stainless steel stockpot. Stir until salt and sugar dissolve, about 5 minutes. Place the turkey into the brine, cover, and refrigerate overnight."
+} ,{
+"@type": "HowToStep"
+,"text": "The next day, remove turkey from the first marinade, shake off excess, and pat the bird dry. Discard the brine. Clean the stockpot or brining container."
+} ,{
+"@type": "HowToStep"
+,"text": "In the clean stockpot, make the marinade by stirring together together sliced oranges, sliced lemons, onion, green bell pepper, parsley, cloves, garlic powder, cinnamon sticks, paprika, olive oil, and pepper. Place the turkey into the stockpot and rub the marinade into the turkey. Cover and refrigerate overnight."
+} ,{
+"@type": "HowToStep"
+,"text": "On Thanksgiving Day, remove turkey from the marinade and shake off the excess. Discard the remaining marinade. Roast the turkey using your favorite method."
+} ]
+,"recipeYield": ["15"]
+,"totalTime": "PT2905M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kayla Sp"
+},
+"reviewBody": "I've done it three years row doing it exactly as it says and also leaving it three days with all ingredients I honestly think leaving it for three days cool garage ( it's always snowing in Montana) and not changing the water just turning and alot of knifing it was very good ) either way it was AMAZING"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cameron Cline"
+},
+"reviewBody": "No it was absolutely yum yum yummy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Heather Gentry-Jones"
+},
+"reviewBody": "best marinade ever"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ashley Jones"
+},
+"reviewBody": "I loved it! We got great feedback from our thanksgiving dinner. Flavorful and juicy. For the brine I did half water and half chicken stock. I needed to double the recipe to cover a 20 pound turkey."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tara Medina"
+},
+"reviewBody": "I've never ever made a turkey that tasted this good!!! It's totaly worth the 2 day process. Turkey was so good we didnt get to have any leftovers lol this is now my go to turkey recipe.....sadly the only picture i have is the aftermath that was my turkey"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Maria S Solorzano Perez"
+},
+"reviewBody": "best turkey ever! made it for thanksgiving and everyone loved! I was asked to make it again for Chirstmas dinner"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Terrance Cooking Time Anthony"
+},
+"reviewBody": "Awesome flavor and a fun brine to do. Thank you."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Susan Johnson"
+},
+"reviewBody": "I have used this recipe for the last 3 years. I dont think i could ever use another recipe after this one. Its amazing everytime. Im the star of every thankgiving dinner i host. ..love it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "incredibly incompetent"
+},
+"reviewBody": "We had a flavorful juicy turkey this year! Well worth the time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "avolve"
+},
+"reviewBody": "Awesome brine and what I call a wet rub. I did not stray except that I used dried parsley and now I am asked to bring a turkey to the family Thanksgiving. The drippings make the best gravy as well, at first it tastes a little salty, but it's all good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle Martinson Mosford"
+},
+"reviewBody": "I was searching for a brine recipe of the ingredients I had on hand on Wednesday before Thanksgiving and came across this recipe. I didn't have enough time for the 2nd day of the process but used the brine recipe overnight then seasoned the outside of my turkey with salt, pepper, smoked paprika(had on hand) after rubbing with olive oil. Stuffed with onion, orange and rosemary. VERY moist and flavorful! Will plan ahead and do the second day next time. Didn't have a pot big enough so I put the brine inside a trash bag which I had placed in my vegetable crisper drawer then the turkey and put it in the fridge overnight- worked great. It's a keeper!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sandy08"
+},
+"reviewBody": "Best brine method.. My turkey was great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mikaela"
+},
+"reviewBody": "The first picture of this recipe is the turkey I made for Thanksgiving today! This is absolutely the best turkey I've ever made! It was so tender that the breast meat actually slid off of the carcass in the oven and into the pan below! The meat is tender and unbelievably juicy. The flavor is wonderfully savory and fragrant. Definitely worth the work! Highly recommended! Me and my parents have been picking at the meat all morning and are making plans to buy another bird to use this recipe with!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Anna"
+},
+"reviewBody": "This was really good! I had to double the recipe on the brine because I had a 27 pound turkey, but it was easy and it added a lot of flavor to the turkey. Family said that it was the best turkey that they ever had!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dola"
+},
+"reviewBody": "My turkey turned out so well. It had an awesome flavor to it. I was scared that the brine was going to make it salty, but it didn't. It was very moist and tender. This is going to be ther only way I make my turkeys for now on!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Roberts"
+},
+"reviewBody": "This is well worth the time. Great recipe wouldn't change a thing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "amydoll"
+},
+"reviewBody": "This did produce a tender turkey but I was sooo thirsty after eating it! And I tried to get off as much as the brine as I could. Also, the turkey picked up none of the flavor of the marinade whatsoever. I think Turkey Mercedes from this site is a comparable, and far superior recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LauraE"
+},
+"reviewBody": "Just used this recipe for Christmas, 2008. Turkey was moist and very flavorful. I highly recommend it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SMMSUSAN"
+},
+"reviewBody": "Turkey was excellent! This redcipe made it juicy and flavorful. DH said this was the best turkey he'd ever had. And he is not a big turkey fan."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Karizma"
+},
+"reviewBody": "This turkey marinade is awesome the taste it gives is undeniably the best i have EVER EVER EVER had including in the restaurants!!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/94543/juicy-two-stage-thanksgiving-turkey-marinade/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/975/holidays-and-events/thanksgiving/turkey/",
+"name": "Turkey"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16028/holidays-and-events/thanksgiving/turkey/roasted/",
+"name": "Roasted"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/94543/juicy-two-stage-thanksgiving-turkey-marinade/",
+"name": "Juicy Two-Stage Thanksgiving Turkey Marinade"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

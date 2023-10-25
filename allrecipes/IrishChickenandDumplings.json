@@ -1,0 +1,1424 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Irish Chicken and Dumplings"
+,"datePublished": "1999-03-26T08:43:58.000-05:00"
+,"dateModified": "2022-08-08T10:37:51.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "CLAIRELLEN"
+,"url": "https://www.allrecipes.com/cook/62762"
+}
+]
+,"description": "Here&#39;s a cozy dish to comfort on a dark and stormy night. A creamy, fragrant stew of chicken, celery, onions, carrots, peas and potatoes plays host to biscuit dough, dropped by the spoonful into the boiling hot liquid. Simmer until the dumplings are done."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/J6jqgsY5rz6xt09vzCV7RbosQwY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7154569-15b62caa20354e86bd5f6b2633a848c6.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Irish Chicken and Dumplings"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "1320"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "595 kcal"
+,"carbohydrateContent": "94 g"
+,"cholesterolContent": "58 mg"
+,"fiberContent": "8 g"
+,"proteinContent": "34 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "2402 mg"
+,"sugarContent": "14 g"
+,"fatContent": "9 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"recipeIngredient": [
+"2 (10.75 ounce) cans condensed cream of chicken soup",
+"3 cups water",
+"1 cup chopped celery",
+"2 onions, quartered",
+"1 teaspoon salt",
+"0.5 teaspoon poultry seasoning",
+"0.5 teaspoon ground black pepper",
+"4 skinless, boneless chicken breast halves",
+"5 carrots, sliced",
+"1 (10 ounce) package frozen green peas",
+"4 potatoes, quartered",
+"3 cups baking mix",
+"1.3333333730698 cups milk" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "In large, heavy pot, combine soup, water, chicken, celery, onion, salt, poultry seasoning, and pepper. Cover and cook over low heat about 1 1/2 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Add potatoes and carrots; cover and cook another 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove chicken from pot, shred it, and return to pot. Add peas and cook only 5 minutes longer."
+} ,{
+"@type": "HowToStep"
+,"text": "Add dumplings. To make dumplings: Mix baking mix and milk until a soft dough forms. Drop by tablespoonfuls onto BOILING stew. Simmer covered for 10 minutes, then uncover and simmer an additional 10 minutes."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT0M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Jane Wilcox"
+},
+"reviewBody": "You lost me a Cream of Chicken soup. I stopped cooking with the soups years ago because of all the strange ingredients in them. Maybe if I can figure out a way around that, I would try to make it, but it wouldn't taste the same, would it?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "YUM, YUM!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sharon Fisher Clark"
+},
+"reviewBody": "This was excellent! I will be making this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nanya"
+},
+"reviewBody": "I made this for dinner and my husband, who is a chicken &amp; dumplings fan, loved it! I followed the recipe only using frozen peas &amp; carrots because I didn't have fresh. I added them in right before dropping the dough. I never really liked chicken and dumplings, but even I thought this was great! Will be making again for sure!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laura Lynn"
+},
+"reviewBody": "It was easy to make, my 10 year old made it. The entire family gobbled it up."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Krisitna"
+},
+"reviewBody": "Super Good! I work so hard making other kinds of chicken soup and it is no where near as flavorful as this soup.\nThe chicken came out PERFECT\nI did cut the potato's and carrots smaller just because I didn't want to wait longer for them to cook.\nThe final verdict came with my teenage daughter devoured it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chribo"
+},
+"reviewBody": "This is a keeper. Kids loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "kimberly: )"
+},
+"reviewBody": "I used chicken broth instead of water. Also used 2 cups of Bisquick and 2/3 cups of milk to make my dump. I added the shredded cheeks back after dumplings were done. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Roxanne ONeil"
+},
+"reviewBody": "Best chicken and dumplings ever! Definitely a favorite with my kids!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer Anderson-Cruz"
+},
+"reviewBody": "I use a frozen, pre-packaged stewing vegetable mix. I still add potato and onion as I see fit. Rather than the dumplings, I bake pre-packaged biscuits that I serve on top of the stew."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kathryn5"
+},
+"reviewBody": "This was a huge hit!!! Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cymeigh"
+},
+"reviewBody": "The stew turned out delicious! However I did some steps differently. 1. I used Grands canned biscuits instead of making them from scratch."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Stacy Heffner"
+},
+"reviewBody": "Very good. I used extra thin chicken breasts, but doubled the amount. They shredded much easier. I doubled the poultry seasoning and pepper. I also made my own biscuits- 3cups flour, 4.5 tsp baking soda, 1.5 tsp salt, 4.5 tsb shortening, 2cups buttermilk. Great fall meal!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Stardust0416"
+},
+"reviewBody": "I usually follow recipes exactly but this was a last minute dinner and I needed to accommodate a few things. First, I cut the cook time in half. It still turned out great so no problem there. I substituted chicken broth for the water and used torn biscuit dough for the dumplings. So yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Suz3"
+},
+"reviewBody": "Delicious! I used 3 cans of soup and chicken thighs instead of breasts (I like dark meat). I would suggest making half of the dumpling recipe - as there is not enough room in a large pot for all of it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "VHK"
+},
+"reviewBody": "*over all i gave it 4 stars- it’s a great tasting recipe- i altered it to make it easier and quicker to makeUse 3 cans of cream of chicken soup*chicken stock instead of water. *Cook diced chicken in separate pot then add to the stew.Use 1 can diced potatoes Frozen bag of Peas and carrots*Cut dumpling recipe in half- 1 1/2 cups of bisquick and 1/2 c + 2tbsp of milk."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "marieb"
+},
+"reviewBody": "Possibly the most delicious comfort food I've ever eaten! Before attempting this recipe I had zero experience with chicken and dumplings (I had never made a dumpling before). I followed this recipe exactly EXCEPT I used 3 cans of cream of chicken soup and 2 cups of water (based on other reviews). I also boiled my dumplings in a separate pot of boiling water and added the dumplings to my chicken mixture for the final 10 minutes of simmering. Everything turned out PERFECT!! So rich and delicious! I will definitely be making this many times."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cinda wilson"
+},
+"reviewBody": "Loved this recipe however I did add Nature Seasoning for more flavor. Try it. It will surprises you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MAXINEHARRIS"
+},
+"reviewBody": "Tastes like deconstructed chicken pot pie."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Al Draffin"
+},
+"reviewBody": "It was more like a stew. Tasted good but we had to thin it down to have room for the dumplings"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Cathy Shuler"
+},
+"reviewBody": "This was a yummy dish. It needed seasoning, but that was easy. Try adding McCormick’s Perfect Pinch vegetable seasoning to taste. I also cut the veggies smaller and added a little less milk to the dumpling batter. We LOVED it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pat J"
+},
+"reviewBody": "Absolutely loved this recipe! Super simple but delivers delicious results - my wife couldn’t stop talking about how much she loved it. Followed some of the other comments and used chicken broth (unsalted) instead of water and also tossed a smashed garlic clove in. I cut the potatoes into bite sized pieces and think the smaller chunks definitely helped them come out tender (used russet and cut into 16ths). I used Martystar’s dumpling recipe and it couldn’t have been easier. I followed her instructions and also added in a pinch of black pepper and about a 1/2 tsp of dried thyme. Can’t wait to make this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Fionaturrorealtor Turro"
+},
+"reviewBody": "Well first of all, I learned this recipe from my mother. Both of my parents, and myself are from Ireland. Its such a comfort food. My mom would actually make it as a shepards pie, and put mashed potatoes on it and put dish in oven until the potatoes were slightly browned. Its a great meal for a big family, or even a small one, because the leftovers are delish. ty for sharing! Im making it as I type, lol. My mom always let it simmer a long time so, at my age old habits are hard to change. I put the chicken mixture in dutch oven and let it simmer on low for hours. Turn it off. Then make the potatoes. and put back in oven. Im not changing original recipe, just giving other ideas on how to use the delicious base of posters recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nancy Stevens"
+},
+"reviewBody": "It turned out wonderful and I will make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cole"
+},
+"reviewBody": "It was amazing. Made it exactly like the recipe said to, and it turned out remarkably. My son and I had food for a week!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bonnie Ody"
+},
+"reviewBody": "I killed my dumplings by mixing them in before they set but this dish was amazing, And it's better the second day! I had no celery but celery salt is a staple in my kitchen and we only buy almond milk , and used canned peas and added canned chicken cause again it's what I had, my family, neighbor and friends helped enjoy this recipe\nThanks very much! Enjoy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Billie Rogers"
+},
+"reviewBody": "I followed instructions and it turned out wonderful."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "David Hopkins"
+},
+"reviewBody": "This was really good. Even my biscuit-hating, dumpling-fearing wife liked it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda Swinford"
+},
+"reviewBody": "We loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sean Lally"
+},
+"reviewBody": "It was so delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KarenAugie"
+},
+"reviewBody": "We absolutely loved this recipe! It's my new \"go to\" for chicken and dumplings! I diced the onion and celery and sauteed them in a bit of butter, and I used a 32oz box of chicken stock instead of water. Just delicious, thank you for sharing your recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Julie Lingren"
+},
+"reviewBody": "As others have said: The dumpling recipe, as written, makes way too much. The dough covered the entire surface of my stockpot, so none of them were able to cook. I had to scoop out some of them, separate the remaining ones to give them room, and cook them at least ten minutes longer. Also, could not keep the lid on, because my large pot was not large enough. You need to use a really large pot for this full recipe. Mine overflowed and the dumplings pushed the top off. \n\nWith all of that said, the flavor was good. I did not have cream of chicken soups, so just used 5 cups water and 5 tsp of Chicken-flavored Better than Bouillion. I thickened it up with a little milk and corn starch mixed in a cup and slowly added to the boiling stew. It worked well. \n\nThe only other thing I changed was to add a sprinkle of garlic salt. I didn't think it was bland at all. It tasted great - just had issues with the proportions and the dumpling recipe. So, next time, larger pot so it all fits, and half the dumpling recipe so they have room. This dumpling recipe was a bit gooey for dropping into the stew. I may use the good 'ol Bisquick one next time.\n\nThanks for helping with dinner! I do love chicken and dumplings, and I prefer the biscuit kind to the noodle kind."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Radu8722"
+},
+"reviewBody": "I made this with cream of chicken with herbs, chicken broth instead of water and use biscuit dough for dumplings. I tear small pieces, sprinkle with poultry seasoning and roll into little balls. Fantastic recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kathymac"
+},
+"reviewBody": "Love this recipe. I love the dumpling part of Chicken and Dumplings so I did not put the potatoes in. I figured the dumplings provide the carbs so did not need the potatoes. I did use chicken broth rather than water. Was very good, will use again and again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Liz B"
+},
+"reviewBody": "Will make again. I used some penzy's seasoning I had and just mixed veggies instead of peas. It was really good a great comfort food."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Eugene Dimick"
+},
+"reviewBody": "Justed used the dumpling part. Used whole wheat flour and one egg. Since I used an egg I added an extra cup of flour and got a slightly bigger batch. Also added some baking powder, baking soda, and cinnamon.\nFor the broth I used water, boneless thighs (pre boiled for about 20 min), some carrots, and yams.\nSimmered 10 min covered and 10 uncovered as per.\nTwo of my daughters were visiting and they really liked it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Debbie"
+},
+"reviewBody": "Only changes made was to use chicken broth instead of water and added a little more of all of the vegetables than noted. Will definitely be making again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "froglady1965"
+},
+"reviewBody": "My family really liked this recipe, the only changes we made was we did not add the peas. We will be using this recipe again and again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "mel"
+},
+"reviewBody": "I omitted the onion because my husband is allergic to them."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "FLDeb"
+},
+"reviewBody": "I made this tonight and it is a great starter. Of course I made a few changes (I always do). I used chicken broth instead of water and increased it to 4 cups. Did not have frozen peas so used frozen mixed vegetables. I cut the chicken up and sautéed it in olive oil. Then added the celery and garlic and onions cut up to the same pan. Then I added the seasonings listed plus many of my favorites. When all was browned I added it the pot that I had simmering with broth potatoes and carrots. I will definitely only use half the dumpling mix next time and am willing to try the recipe for homemade ones another poster listed. All in all a nice recipe. Much quicker than my “boil the whole chicken all day recipe” I normally make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Klassen"
+},
+"reviewBody": "It’s absolutely delicious! Although I used a different recipe for the dumplings because I never remember to buy biscuit dough! It still turns out great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "oliviag"
+},
+"reviewBody": "I have one kid who loves this and asks for it every week! Other kids and hubby not so impressed. I like it a lot personally, it’s good comfort food."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ann Philp Trowers"
+},
+"reviewBody": "It was FANTASTIC...been looking for a chicken and dumpling recipe for years that was similar to the one my friend who doesn't share recipe makes. Well I found it!!!! Now still on the hunt for a potato soup recipe so please share if you have a tried and true one."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda Dodds"
+},
+"reviewBody": "Used chicken thighs, added a diced red sweet pepper and omitted the peas. Really delicious, my family loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "elmendorf11"
+},
+"reviewBody": "love it, and so easy to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Jayrett Mason"
+},
+"reviewBody": "Very Bland next time I am going to add a thing or two to it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "judy"
+},
+"reviewBody": "This dish was fantastic! Instead of chicken breast, I bought two rotisserie chickens and stripped the meat. The combination of white and dark meat was just delicious. I used my own dumpling recipe. My husband loved it and I’ll be making this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Julie"
+},
+"reviewBody": "This is delicious. I have made it every St Patrick's Day for the past 8 years now. I throw in random spices to doctor it up a bit. Our 3 young kids look forward to it every year!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Aurae Beidler"
+},
+"reviewBody": "Yum. I didn't have peas and only used half an onion. I also used broth instead of water after reading the reviews. I also made half the dumplings."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LeeAnne Ford"
+},
+"reviewBody": "Loved this recipe, very easy , I added a few spices and used Chicken broth, very flavorful. will make again..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ruta"
+},
+"reviewBody": "For dumplings I used Mary B’s dumplings (frozen), otherwise I didn’t make any substitutions, but added some red pepper flakes, it was very good, and the main important thing, my husband loved it! Thanks for the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Patty Gilbert Hill"
+},
+"reviewBody": "I made this for the first time last week when it turned quite chilly. My family raved about it and had several helpings of it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Mr. Jimmy"
+},
+"reviewBody": "No doubt about it... awesome comfort food! I made this recipe twice. The 1st time I followed the recipe exactly and thought that it lacked a little depth in the taste. Also the dumplings absorbed too much of the broth in the cool down. So there was enough broth for the first night, but the on the next night for the leftovers, I added Chicken stock to the stew. The 2nd time I made this recipe, I used Chicken stock instead of the water. That gave the dish a more robust flavor, and I cut the amount of dumplings in half and the remedied the absorption of the broth issue. Overall its like I said earlier, Awesome comfort food!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Beka Candore"
+},
+"reviewBody": "It was decent. Could use more seasoning and it tasted like it was missing something. Over all would make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "cynscott"
+},
+"reviewBody": "This recipe was very easy to make and tasted just like I remembered my Irish grandmother would make when I was a kid. It is a good basic recipe and can be modified to suit personal tastes. \n\nI'm not a fan of dumplings but these came out the way I thought they should. After the first meal, I removed them from the dish and when we reheated the chicken for a second meal, I put the dumplings under the broiler to brown them."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CJ"
+},
+"reviewBody": "Yummy! I used chicken broth instead of water. I used only one potato as I didn’t want starchy taste."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chesa"
+},
+"reviewBody": "In place of chicken breast I heavily seasoned and roasted a whole chicken and used the drippings in the soup base. Very good recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jimmy Jones"
+},
+"reviewBody": "Too many dumplings, made rolls."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Janet B"
+},
+"reviewBody": "This was very disappointing. It had no flavor. As others suggested, I used chicken broth instead of water. I can't imagine what it would have tasted like with water."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sherry Mallicoat"
+},
+"reviewBody": "Followed recipe precisely. Was very tasty, but different than old style chicken and dumplings. I will make again, however will add some cornstarch maybe for thickening purposes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jana Evans"
+},
+"reviewBody": "Wow! Delicious! I added chicken broth base and about 3 cups more water to the recipe because I like a lot of soup. I like to add the powered broth base so I can make it richer. I cut up the chicken and threw everything in the pot together. I let it come to a boil and then cooked it on low for about 30 minutes more before adding the dumplings. I thickened the stew with a few teaspoons of corn starch before I added the dumplings. One of my favorite recipes and a lot like the one my dad use to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hdw"
+},
+"reviewBody": "It's the BEST chicken and dumplings I've ever had! I put extra dumplings! :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "John Green"
+},
+"reviewBody": "I never use biscuit mix, bisquick or anything similar, so I used a different recipe from scratch. \nThe chicken part was ok, but the basic recipe sounded boring so I added a touch of chili powder, my own spices, potatoes, and chicken stock instead of water."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Aaron A"
+},
+"reviewBody": "I'm not a huge chicken and dumplings fan so have little experience in what is good vs is not. That being said, this was pretty flavorful. I used all chicken broth in place of the water and everything else as written with salt and pepper to my taste. I can see why this recipe gets good reviews overall. My only concern for this recipe is that it was like eating pot pie filling with dumplings. When I make this again I will likely omit the potatoes all together because they made it very crowded and with dumplings I don't think I will miss them. A hearty meal for sure though and worth a try, even if you find most chicken and dumpling meals bland like I do."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Darrell Jacobs"
+},
+"reviewBody": "Absolutely delicious. I omitted the peas and added a few favorite spices. Will make again soon!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Holly Reubens"
+},
+"reviewBody": "This recipe is great, except for the dumplings. The second time I made it, I used the dumpling recipe in MARTYSTARS review. They are really good dumplings and easy to make. so don't be afraid to try making your own! I took off one star for the dumplings."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Huntergirl611"
+},
+"reviewBody": "this recipe is one of my favorite dishes! great flavor and filling!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tom Robinson"
+},
+"reviewBody": "Awesome !! But I did use more spices than called for .... hey ... I'm Irish what can I say !!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Joyce M Bastie Olszewski"
+},
+"reviewBody": "Instead of 2 cans I used 4 cans of Campbell's Cream of Chicken soup gave it more of a stew consistency. Omit the water all together. Then I kicked up the seasoning by adding 5 Tbsp's of Montreal Chicken by McCormick. WOW! Punched it up and added a 5 star rating from my dinner guest. Without the changes this is a very plain and boring recipe. My opinion"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gannon Meis"
+},
+"reviewBody": "Awesome! I was skeptical at first about the dumplings part, but it was very savory! The bottom of the pan got burn a little but it's OK. I would eat this dish again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TerryVTE"
+},
+"reviewBody": "Didn't make the dumplings, had mashed potatoes. Very tasty. All my guests enjoyed it! It's a keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Rave19"
+},
+"reviewBody": "Added two dashes of Frank's Red Hot. I like a little spice. I would make it again. Also did not have celery so used one can Cream celery soup for addition."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Aron May"
+},
+"reviewBody": "Made it and everyone loved it! Thank you for sharing"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mousielove"
+},
+"reviewBody": "I don't know how in cooking for over 40 years, I never made chicken and dumplings. Good recipe and I made it as written. Next time, I will increase the veggies and use less meat (preference) and add a little more of the same seasonings to the milk before stirring in the baking mix. The dumplings while good were a bit boring. None of this will go to waste, though - haha - it might go to waist. Yummy and thanks for sharing. * have also used chicken stock/broth instead of water which bumps up the flavor a bit. Also good, but not \"necessary.\""
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Emily May Moody Nunley"
+},
+"reviewBody": "I liked this recipe a lot because it was easy to adjust to what I had. I also read previous reviews and added chicken bouillon equal parts with the water for chicken stock. My cream of chicken was actually from another recipe I made with cream of chicken that served like a gravy in my crockpot. I had so much left over that I totally saved it for this recipe which is probably where all my bonus flavors came in. I used frozen corn instead of peas. Some frozen tater tots instead of the potatoes and one can of refrigerated jumbo biscuits. Each buiscuit cut into fours. I'm such a cheater, but this is what I had"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "paulhambrick"
+},
+"reviewBody": "Followed recipe as written and my wife and I loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dustytrayl"
+},
+"reviewBody": "One for the favorites box. Little more salt next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Renita"
+},
+"reviewBody": "I used another receipt for the dumplings. I also seasoned my dumplings. It was great.\n\nDumpling recipe:\nTo Make Dumplings: In a medium bowl, stir together the flour, baking powder and salt. In a small bowl, mix together 1/2 cup of milk and 2 tablespoons of oil. Pour into the dry ingredients, stirring just until moistened."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "luadilux"
+},
+"reviewBody": "Absolutely perfect after a few small tweaks! My boyfriend is quite picky but even he called this a masterpiece! This will be my go-to chicken and dumpling recipe for years to come. \nMy changes: \n-Doubled the water to 6 cups. It still turned out thick and creamy. \n-Didn't use onions due to my boyfriend's pickiness. I personally love them but this was delicious even without. \n-Raised temperature to medium-low for the long simmer. \n-Used three potatoes instead of four, diced rather than quartered. I didn't fancy the idea of a stew with large chunks of potato. \n-Once I added the peas, I raised the temperature to med-high in order to bring to a boil. After the dumpling dough was added, I lowered it to med-low."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Njbrownds9"
+},
+"reviewBody": "really enjoyed"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Amy Cool Dorsey"
+},
+"reviewBody": "It was a little bit thin for my tastes, but loved it otherwise! Made the boyfriend a happy man on a cold winter evening. Thanks!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kathi"
+},
+"reviewBody": "There were only two changes that I made to this recipe. 1 - I cooked everything in my Pressure cooker and I used 2 - the Bisquick dumpling recipe. Also I tossed out the peas which I hate with a purple passion. I did take the advice of two of the other reviewers and diced the carrots, potatoes, celery and onions - and added an extra teaspoon of poultry seasoning. Other than those changes - this is a great recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Giana"
+},
+"reviewBody": "Delicious. I used 2 chicken breast and I seasoned the chicken with salt, pepper, and complete seasoning while boiling the chicken. Followed everything else as instructed and it came out great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cooking For 2"
+},
+"reviewBody": "No potatoes, chicken broth instead of water (2 c) , 1 can cream of chicken the other cream of celery. used 1 onion, 13 baby carrots, and 5 sticks of celery, added 1/2 tsp of garlic powder, pepper, and onion powder, twinge of salt, and a rotisserie chicken. Used \"herbed dumplings\" recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dfkepler"
+},
+"reviewBody": "It takes a while to cook on stove but it was worth it. Best mew dish I've made in a long time. Great hit with my family. Makes a lot."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Kelly Nelson Wulf"
+},
+"reviewBody": "I made exactly as written. Way too much dumpling. It ends up like a giant dumpling with a little chicken and veggie in it. With half as much, it might be ok."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chris Haughey Coffman"
+},
+"reviewBody": "I made this with left-over Thanksgiving turkey earlier this week. We absolutely loved this new recipe! My husband even hollered from the kitchen (I was still in the other room.) \"THIS IS A KEEPER!!\" It has enough seasoning for a rich flavor but not too many to overwhelm a newer cook. I gave it 5 stars because it met all my expectations; used much of what I already had on hand, including left-over turkey, not complicated, rich &amp; satisfying flavor, my whole family loved it, I could substitute a quicker method (Phillsbury and rotisserie chicken if need be) and the left-overs were even better!\n\n*Substitute the water with chicken broth. (It makes all the difference in a recipe to use stock/broth in a recipe. There's a variety at your grocery store; chicken, beef, vegetable, turkey, etc.. fyi:Vegetable broth in a vegie stew/soup of any kind adds so much rich flavor.\n*I added 1/4 tsp. celery seed. (It gave a hint of the flavor my kids love; my chicken pot pie gravy.)\n*I used Philsbury Biscuits from the tube for my dumplings because I was in a hurry. Cut each biscuit in six pieces (even smaller), trust me, the dough will swell. \n*Next time I will 1.5 times the gravy.\n*Makes the yummiest left-over next day!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kdblum"
+},
+"reviewBody": "My husband hates dumplings so I ate the dumplings and he ate the soup and chicken. \n\nI added a can of chicken broth (low fat), diced up chicken breasts, added frozen peas, and a lot more onion and minced garlic. More basil and pepper too. Hands down raved about by hubby. He ate the entire HUGE pot of soup minus what I ate and wants it again! Dice up more potatoes than called for too, and throw in some carrots...great stuff!\n\nThis one I am making at least once a month..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "AllyMC"
+},
+"reviewBody": "Absolutely love it!!! I made two changes: I added a pinch of red pepper flakes for a little spicy kick, I used 3 cans d condensed chicken soup and I used 3 cups of chicken broth instead of water. It was delicious!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Maegan Cain"
+},
+"reviewBody": "Great recipe. I used fewer potatos and substituted two cups chicken broth and one cup water for the three cups water. I changed up the spices a little, added some basil and garlic salt. Using refrigerated biscuit dough is fine, just make sure there's enough room around the dumplings to cook. I love this recipe and will definitely be making it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Missy"
+},
+"reviewBody": "I cut up the chicken breast and cooked them in olive oil then added the celery, onion and spices. I also used chicken broth instead of water. Added sweet potatoes as well. So yummy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Emily Van Buren"
+},
+"reviewBody": "This is a keeper!! I was looking for another way to use up chicken from a rotisserie (family of 5 on a budget, making a second meal from leftovers is a must!). This was great! I added chicken broth instead of water and my own dumpling recipe but kept everything else the same. This will be making the rounds again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gail Ke"
+},
+"reviewBody": "I made this dish last night and it was delicious. I made it almost as written except I used homemade stock and only 1 can of cream of chicken soup (as I cut the recipe down). I also used canned peas as my hubby hates frozen ones. I also used boneless/skinless chicken thighs. I will definitely make this again as my picky hubs loved it....."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Terry Kennedy"
+},
+"reviewBody": "Definitely a great recipe. Easy to make, just lacked a bit of flavor so I added garlic. Great comfort food."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tamika Evans"
+},
+"reviewBody": "Used pilsbury croissants but shaped them into small balls. Definitely making again! Husband loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Corinne Orvis"
+},
+"reviewBody": "Love the dish. Only difference is I like to make the soup myself instead of can soup and I needed to use up my root viggies . Thank you! Hubby loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Tina"
+},
+"reviewBody": "Made as written. Didn't really like the dumplings but liked the base for the soup, will make again with a different dumpling."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brenda K"
+},
+"reviewBody": "Normally I would not rate a recipe unless I had followed it exactly. However I believe that since I did use the basic recipe and only omitted the peas, potatoes (didn't have any on hand), and dumplings (only due to an unforeseen time restriction) that my experience is still valid. Having said all of that, this is a delicious creamy chicken soup. I loved it! My kids told me they would have liked either rice or noodles in it. I'm sure they would have liked the dumplings too, so I will try that next time and update my review."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "bonnie"
+},
+"reviewBody": "For more chicken favor use chicken on the bone, not boneless skinless chicken. We also like a mix of white and dark meat."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/11843/irish-chicken-and-dumplings/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1246/soups-stews-and-chili/soup/chicken-soup/",
+"name": "Chicken Soup Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/14723/soups-stews-and-chili/soup/chicken-soup/chicken-and-dumplings/",
+"name": "Chicken and Dumpling Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/11843/irish-chicken-and-dumplings/",
+"name": "Irish Chicken and Dumplings"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

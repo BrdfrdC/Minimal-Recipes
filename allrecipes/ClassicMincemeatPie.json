@@ -1,0 +1,138 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Classic Mincemeat Pie"
+,"datePublished": "2013-09-26T02:00:31.000-04:00"
+,"dateModified": "2022-10-19T12:27:59.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Crosse Blackwell"
+,"url": "https://www.allrecipes.com/cook/crosseandblackwell"
+}
+]
+,"description": "Talk about a quick and easy recipe! In under an hour you can prep, bake, and serve this classic mincemeat pie."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/UbH2LNYFf4rVqo_Bzx0MRcEG9oQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1035977-7762e931dbcc4c5fbab2a4150757871b.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Classic Mincemeat Pie"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "3"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "492 kcal"
+,"carbohydrateContent": "81 g"
+,"cholesterolContent": "0 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "551 mg"
+,"sugarContent": "0 g"
+,"fatContent": "16 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 (14.1 ounce) package double-crust pie pastry, thawed",
+"1 (29 ounce) jar Crosse & Blackwell® Mincemeat Filling & Topping or Crosse & Blackwell® Rum & Brandy Mincemeat Filling & Topping" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 425 degrees F (220 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Unroll pie crusts. Line an ungreased 9-inch pie plate with one pastry. Fill with mincemeat filling. Cover with the second pasty and press the edges to seal. Cut slits in the top pasty to vent steam."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until pastry is golden brown, 25 to 30 minutes."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT40M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cal"
+},
+"reviewBody": "No changes great as is. used Hard Sauce instead of Ice Cream"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/233798/classic-mincemeat-pie/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/",
+"name": "Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1642/everyday-cooking/",
+"name": "Everyday Cooking"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/233798/classic-mincemeat-pie/",
+"name": "Classic Mincemeat Pie"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

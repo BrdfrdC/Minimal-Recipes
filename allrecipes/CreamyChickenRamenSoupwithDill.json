@@ -1,0 +1,174 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Creamy Chicken Ramen Soup with Dill"
+,"datePublished": "2022-10-25T14:26:05.000-04:00"
+,"dateModified": "2022-10-25T14:26:05.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Chef Mo"
+,"url": "https://www.allrecipes.com/cook/chefmo"
+}
+]
+,"description": "Try this quick and easy creamy chicken ramen soup when you&#39;re not in the mood for cooking."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/FzHj_hcYXy_V61woWRAFRWnf9No=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Creamy-Dill-Chicken-Ramen-Soup-77430740658947f6b29255f9f3e6ecf9.jpg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Creamy Chicken Ramen Soup with Dill"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "3.8",
+"ratingCount": "4"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "589 kcal"
+,"carbohydrateContent": "58 g"
+,"cholesterolContent": "101 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "45 g"
+,"saturatedFatContent": "7 g"
+,"sodiumContent": "1655 mg"
+,"fatContent": "18 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"1.75 cups water",
+"1 (3 ounce) package chicken flavored ramen noodles",
+"1 (5 ounce) can canned chicken, drained",
+"2 tablespoons sour cream",
+"2 teaspoons dried dill weed",
+"green onions for garnish (optional)" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Bring water to a boil in a saucepan. Break up noodles and toss into boiling water. Cook until tender, about 3 minutes. Stir in chicken, sour cream, seasoning packet, and dill. Simmer until heated through. Serve garnished with green onions."
+} ]
+,"recipeYield": ["1"]
+,"totalTime": "PT15M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lela"
+},
+"reviewBody": "I liked this recipe because it is so simple and filling. The chicken also added some protein and flavor to the noodle dish. I think the dill added some extra tang that made regular ramen noodles so much better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "B. Tario"
+},
+"reviewBody": "I followed recipe exactly. This was very heavy on the dill. Using less would help. Flavor other than dill wasn’t bad but the dill overpowered everything."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I made this for myself and my 3 boys. I doubled the ingredients for the recipe so it would be enough for everyone. There was way too much dill. We didn't love it but it wasn't bad either. I had an idea of maybe substituting rotisserie chicken for the canned, if I get the urge to try it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Paula"
+},
+"reviewBody": "I followed the recipe exactly except I used 5 oz rotisserie chicken instead of canned. I enjoyed the savory combination of the dill and sour cream and especially liked the crunch of the green onion garnish. My husband and I actually split this for a light lunch."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8495600/creamy-chicken-ramen-soup-with-dill/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1246/soups-stews-and-chili/soup/chicken-soup/",
+"name": "Chicken Soup Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/14722/soups-stews-and-chili/soup/chicken-soup/chicken-noodle-soup/",
+"name": "Chicken Noodle Soup Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8495600/creamy-chicken-ramen-soup-with-dill/",
+"name": "Creamy Chicken Ramen Soup with Dill"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

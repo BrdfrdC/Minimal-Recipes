@@ -1,0 +1,706 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Morgan&#39;s Waldorf Salad"
+,"datePublished": "2020-06-18T23:48:14.000-04:00"
+,"dateModified": "2022-01-27T18:53:46.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Morgan"
+,"url": "https://www.allrecipes.com/cook/2312564"
+}
+]
+,"description": "This crisp and refreshing Waldorf salad has three varieties of apple, a pear, walnuts, and pecans and is perfect for hot summer days."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/tlBy2BtEXImPIVk1jxKo45MIJk8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/835958-2dcc7e591566415e96e8d8f4034f2c7d.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Morgan&#39;s Waldorf Salad"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "57"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "364 kcal"
+,"carbohydrateContent": "25 g"
+,"cholesterolContent": "21 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "7 g"
+,"sodiumContent": "153 mg"
+,"sugarContent": "19 g"
+,"fatContent": "30 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1 Granny Smith apple, cubed",
+"1 Golden Delicious apple, cubed",
+"1 Gala apple, cubed",
+"1 Bosc pear, cubed",
+"3 ribs celery, chopped",
+"0.75 cup sweetened dried cranberries",
+"0.5 cup chopped walnuts",
+"0.25 cup chopped pecans",
+"1 cup sour cream",
+"0.75 cup mayonnaise",
+"1 tablespoon granulated cane sugar",
+"2 teaspoons fresh lemon juice" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine Granny Smith apple, Golden Delicious apple, Gala apple, Bosc pear, celery, cranberries, walnuts, and pecans in a large bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk sour cream, mayonnaise, sugar, and lemon juice together in a separate bowl for the dressing."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour dressing into apple mixture; toss until evenly coated. Chill in refrigerator for at least 15 minutes before serving."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT35M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sheila LaLonde"
+},
+"reviewBody": "This is delicious but I did cut the dressing in half and it still had plenty for us. I also added some green grapes because I had some to use up and it was a delicious addition! Thanks for sharing your recipe, Morgan!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Denise Williams"
+},
+"reviewBody": "This is my go to recipe for potlucks and it hasn't let me down. I love this recipe!! The dressing is just the right amount of sweet and tart. My husband requests this dish and he never does that! I'll make it for a simple lunch and we will eat off of it for 4-5 days. I usually double the dressing be sue I make a HUGE bowl and add things like raisins, grapes etc. I never forget the pears. Great addition to a classic."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kswildflower"
+},
+"reviewBody": "I am not sure how to rate this as I made some changes based on reviews and our tastes, but what I ended up with was great! I reduced the celery and the dressing. I used orange juice instead of lemon. We loved the pear and cranberries in this. However, some people may like more celery and dressing than we do."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "patapower"
+},
+"reviewBody": "This was an absolutely delicious salad. I did make a few alterations based on what I had at my access. I used all Envy apples, light mayonnaise, light sour cream and all walnuts. It was fantastic! Because it seemed overdressed, I added another apple. It was perfect! My family ate every last bit. I will definitely make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marilyn Moody Averkamp"
+},
+"reviewBody": "This is a wonderful recipe, and I think much better than the old-fashioned basic recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "MANDT2"
+},
+"reviewBody": "Good. I didn't add the sugar, and the dressing was fine without it. Next time, I'll plump the dried cranberries in apple, or orange, juice before adding to the salad."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Martin Knutson"
+},
+"reviewBody": "Love this recipe, wonderful summer salad. I added seedless green grapes, and enjoyed it very much."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "David Cox"
+},
+"reviewBody": "Had to substitute the Bosc Pear with a Bartlett pear. Store didn't have any Bosc Pears."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DSS"
+},
+"reviewBody": "This was a delicious salad. I used Jazz and honey crisp apples (Because that was what I had on hand) . I did not use cranberries but substituted dried cherries. This was an absolutely delicious salad and I loved the addition of pear - which created a creaminess within the crunchy salad. It was divine!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "stachman"
+},
+"reviewBody": "We loved this. I followed the recipe adding the sugar a teaspoon at a time because we don't like things too sweet. We ended up using 2 tablespoons. Thank you very much for our new Waldorf salad recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "ANNAMA"
+},
+"reviewBody": "it was OK, but definitely didn't get rave reviews: as someone else has already said, too much mayo for me, and the taste is a bit overpowering. \nIt certainly can be twisted with more yogurt, or more lemon: this could help, not only with the flavour but also thinning the dressing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Chef Cee"
+},
+"reviewBody": "This was really nice, would be nice for a ladies-who-lunch brunch or a women's shower or something like that, a nice way to start a meal. It's kind of old fashioned/cliche, but in a nice way. I don't know why the lemon juice would be optional ... it not only gives a nice zing, but how otherwise would the fruit not brown (?) I also added flaked coconut , about 1/4 cup, because it didn't taste sweet enough for me. This recipe reminded me about this type of salad and now I will make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hollywood"
+},
+"reviewBody": "Easy, quick, and went quickly in the line. Strictly followed the recipe and it turned out well. Were I to change anything, I might add more cranberries. But I just like cranberries. Thanks Morgan."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sheila"
+},
+"reviewBody": "I made this salad tonight to serve with pork chops. I didn't have any dried cranberries so substituted dried cherries. It was delicious and I'll make it again soon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Cara Rose"
+},
+"reviewBody": "Heavy on the sour cream and mayo for our family, I think in the future I would use half as much dressing"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chris718"
+},
+"reviewBody": "Perfectly delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sharon Van Rickley Milligan"
+},
+"reviewBody": "I used more Anjou Pears than apples (Granny Smith), and less mayo than light sour cream. It was awesome. I think using Meyer Lemons added the perfect flavor. Surprised my husband with this as a \"dessert\" after lunch and he loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Suebb"
+},
+"reviewBody": "This is an excellent waldorf salad. I did not, however, follow it completely as I had different ingredients on hand. I used two different apples and two different pears, omitted the cranberries because I didn't have them and substituted the sour cream for natural greek yogurt and the salad was delicious and my dinner party guests really enjoyed it. I will be making this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carol Morgan"
+},
+"reviewBody": "I used this because I liked the pear twist. It was a hit. I used granny smith and honey crisp apples and the bosc pear. I only used pecans not walnuts due to allergies. I used dried tart cherries instead of cranberries. No sugar. It was great. I will definitely keep making this."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "joyce bailey"
+},
+"reviewBody": "excellent! will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Flashsmith"
+},
+"reviewBody": "I LOVE this recipe! Even though I only had one kind of Apple and no pear, I couldn't stop eating this salad! The sour cream addition was perfect for me since I'm not a big mayo eater. I will be making this often! Thank you for posting!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bobbi Bounce"
+},
+"reviewBody": "This was the first time I made this and it was delicious. I followed the recipe all except to make it a little healthier I used low fat mayo and non fat plain greek yogurt to bump up the protein. I also added 6 Tbs chia seeds. I didn't have cranberries so I used yellow golden raisins and added halved grapes and cherries. This was delicious and addicting. I also substituted Splenda for sugar! I will make this again for sure! Yum!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Agnieszka Klich"
+},
+"reviewBody": "It was very good. Next time I might use a little less sour cream and mayonnaise but that is only because I like things less creamy. The salad is delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Barry"
+},
+"reviewBody": "Outstanding. Never made Waldorf before and looked easy. Pretty much followed directions. Took me a little longer to make than 20 minutes but not much and that was mainly because I had to call around and see if I should peel the apples got a lot of no you idiot. So I didn't. Very good and easy. Idiot proof."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kelly Harris"
+},
+"reviewBody": "This is a great recipe! Though I always use red seedless grapes as well. They really make the salad pop! Thanks Morgan Nowicki."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bernadette Drobny"
+},
+"reviewBody": "Amazing! Didn't add nuts.. don't like them. I just added raisins to the mix. So divine! We call it \"happy apple salad.\" Thanks for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "James Coop Jr"
+},
+"reviewBody": "In looking for a fresh twist on a traditional Waldorf, I've made this salad a couple times for social events (relatively, as directed with a couple minor/different apple/pear varieties), and thought I should at least rate it to thank the contributor (Morgan). There are NEVER any leftovers to bring home! Actually, every one who eats it, loves it and rants about it! As the result, now it's become my expected obligation to bring the salad!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Karen Koppy"
+},
+"reviewBody": "Nice tangy dressing. I added some fresh grapes, too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "thebonster"
+},
+"reviewBody": "I left out the celery and I really like it, but it was a little too rich for me personally- next time I'll try it with fat reduced sour cream."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "golfmom"
+},
+"reviewBody": "I was not impressed with the dressing. Too much mayo for my liking. Will make some modifications next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CMEdwards"
+},
+"reviewBody": "Bosc pear and the cranberries really make this salad. I used light sour cream and light mayo. A great jazzed up waldorf. Thanks."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "WYtreasures"
+},
+"reviewBody": "I really liked the different flavors of the apples and pear. I had a granny smith, but I used a fiji and honeycrisp for the other two apples. I left out the cranberries, since I was also serving jellied cranberries at the meal, and used plain yogurt for the dressing rather than the mayo and sour cream. Very good flavor, and of course the crispness makes this a pleasure to eat every time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cheryl Cunningham Ballard"
+},
+"reviewBody": "Loved this. The sour-cream was the addition that I have looked for in the past. It was delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sharon L"
+},
+"reviewBody": "I never thought of adding pear to a Woldorf, but really liked it. I did add a touch of salt and pepper. Will use this recipe again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Evie"
+},
+"reviewBody": "Really good dressing for the salad,it was yummy. I didn't have pears so I substituted with grapes, it worked very well . Next time I'll make sure I have the pears . My husband loved this, I'll definitely make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "spicycook"
+},
+"reviewBody": "I made this using light sour cream and olive oil mayo and it was very good. I didn't have any pears, but I did use some pink lady apples for tartness, along with a gala apple for sweetness. I really like the idea of breaking up the mayo with sour cream. I also added some shredded coconut because I always add that to Waldorf salad. Thanks for sharing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jessica Benoit"
+},
+"reviewBody": "Made this for my family tonight and my husband and my very picky son both loved it. My son said it was \"delicious.\" I will definately be making this again!! I substituted the dried cranberries for cherries and added halved grapes, but only because those are a few of our favorites!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jim Stewart"
+},
+"reviewBody": "This was the lead in to very successful Valentine's Day dinner for my wife. I used a Macintosh apple because I had some, a Gala apple and a Bosch Pear along with a handful of grapes, sliced in half. Served it on a leaf of lettuce in high desert dishes. I am not a fan of fruit in my salad but this Waldorf is a winner. My wife has asked me to make for a dinner party we are having next week, which is probably the best review you can get."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Thirsty Finch"
+},
+"reviewBody": "Great! Not just for summer time. I used light sour cream &amp; Smart Beat Mayo, and it still came out great. I think it needs to sit longer than 15 minutes though. I'd say at least an hour, mine sat overnight the second time I made it, and it was yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rex Hutcheson"
+},
+"reviewBody": "Very, very good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Xan"
+},
+"reviewBody": "I made this with chopped chicken and pears instead of the apples. Our office party theme was The Twelve Days of Christmas. I drew number 1, a partridge in a pear tree. Everyone liked it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cyderry"
+},
+"reviewBody": "I've made this salad twice - once according to the recipe here and once with no sugar but dried cherries and both times it was a hit! leaving out the sugar doesn't effect the flavor at all!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "witchywoman"
+},
+"reviewBody": "Hello?!?!?!? HOLY YUM! I left out the dried cranberries just because we don't really care for them...great recipe and I've had Waldorf Salad many, many, many ways...this is up there in the top 5! Thanks for submitting a great recipe!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Susanna Poecker Piotrowski"
+},
+"reviewBody": "So delicious"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/221020/morgans-waldorf-salad/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/96/salad/",
+"name": "Salad"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16932/salad/waldorf-salad/",
+"name": "Waldorf Salad Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/221020/morgans-waldorf-salad/",
+"name": "Morgan&#39;s Waldorf Salad"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

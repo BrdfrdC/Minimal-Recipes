@@ -1,0 +1,1446 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Easy Apple Pie"
+,"datePublished": "1998-07-04T11:04:17.000-04:00"
+,"dateModified": "2023-02-24T17:38:51.929-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Carol"
+,"url": "https://www.allrecipes.com/cook/Carol"
+}
+]
+,"description": "Make easy apple pie with this simple recipe for a homemade double-crust pie made with layers of apples and cinnamon sugar baked until golden brown."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/R_eMjAiDmyNkx6iwXTb1QLSHXlg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12324-ApplePiei-ddmfs-Step2-0936-a31d5f43ccfd499f91cf1a4527e6d834.jpg",
+"height": 1125,
+"width": 1500
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=1859081195001",
+"description": "See how to make a simple, 5-star apple pie.",
+"duration": "PT3M7S",
+"name": "Apple Pie I",
+"thumbnailUrl": "https://static.onecms.io/wp-content/uploads/sites/43/2022/09/06/12324-EasyApplePie-ddmfs-3x4-0016.jpg",
+"uploadDate": "2021-06-23T06:36:24.451-04:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Easy Apple Pie"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "706"
+}
+,"cookTime": "PT40M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "249 kcal"
+,"carbohydrateContent": "42 g"
+,"cholesterolContent": "4 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "2 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "128 mg"
+,"sugarContent": "29 g"
+,"fatContent": "9 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+, "recipeCategory": ["Dessert"]
+,"recipeCuisine": ["American"]
+,"recipeIngredient": [
+"1 (14.1 ounce) package pastry for a 9-inch double-crust pie",
+"0.75 cup white sugar, or more to taste",
+"1 teaspoon ground cinnamon",
+"6 cups thinly sliced apples",
+"1 tablespoon butter" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 450 degrees F (230 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Line a 9-inch pie dish with one pastry crust; set second one aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine 3/4 cup sugar and cinnamon in a small bowl. Add more sugar if your apples are tart."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/1b2wHCuc2VVYxAFAE7JjbcHwdvU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12324-ApplePiei-ddmfs-Step1-0935-aa34f4c16ff64e77ada77d6ccaa88061.jpg"
+}
+]
+,"text": "Layer apple slices in the prepared pie dish, sprinkling each layer with cinnamon-sugar mixture."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/R_eMjAiDmyNkx6iwXTb1QLSHXlg=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/12324-ApplePiei-ddmfs-Step2-0936-a31d5f43ccfd499f91cf1a4527e6d834.jpg"
+}
+]
+,"text": "Dot top layer with small pieces of butter. Cover with top crust."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake pie on the lowest rack of the preheated oven for 10 minutes. Reduce oven temperature to 350 degrees F (175 degrees C) and continue baking until golden brown and filling bubbles, 30 to 35 minutes more. Serve warm or cold."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT60M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Lori Vance"
+},
+"reviewBody": "I was very unhappy with the outcome of this pie. It ended up extremely watery."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sandy Koste"
+},
+"reviewBody": "I did not make any changes. This is a definite keeper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joanne Farnham"
+},
+"reviewBody": "no changes it came out perfect"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mdrm2"
+},
+"reviewBody": "Followed the recipe. Yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer Derby"
+},
+"reviewBody": "added brown sugar and vanilla came out great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Really simple to make, apples still crisp"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Instead of using store bought crust I did make it at home but it still tasted delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "No I have not made any changes. Except we used margirin. We love the recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "wcandem"
+},
+"reviewBody": "Made as printed YUMMY"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "hj934340"
+},
+"reviewBody": "Love this Apple pie it's the best recipe I've ever used and my whole family loves it! Goes great with Vanilla Ice cream!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Peggy Esposito"
+},
+"reviewBody": "I've made a lot of apple pies in my life and this is by far the best ever. Simple ingredients and perfect flavor . I added 2T of flour and a little bit of nutmeg."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Leslie Hoey"
+},
+"reviewBody": "My parents said it was the best Apple pie they ever had.\n\nI am going to be making it again for a friend. Lets see what she says."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Larry Green"
+},
+"reviewBody": "Delicious and easy. I used Crimson Crisp and they are great. I reduced sugar to 1/2 cup."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "walkercharlene965"
+},
+"reviewBody": "I’m love it !! I added brown sugar and extra butter in the mix ."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "RoseMarie Gonzalez"
+},
+"reviewBody": "It was easy and it tastes great! I drizzled some caramel sauce over while it was still hot"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer Saturn with an O"
+},
+"reviewBody": "So easy to make and is oh so delicious! Thank you for sharing"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Ranboo"
+},
+"reviewBody": "i was great! cant upload a photo though"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Chinobau"
+},
+"reviewBody": "I wish the recipe had called for flower because mine came out with lots of liquid. Later saw this suggestion in reviews. Otherwise was good and tasty. Very simple to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "James Read"
+},
+"reviewBody": "it came out with a lot of liquid! no thickener ? really? once the water was out its just apples and crust... worst one we ever tried."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Donna Aguirre Garcia"
+},
+"reviewBody": "Fantastic recipe. It's the one my family asks for every time. I follow the advice of the two reviewers who make it with flour, a little nutmeg, vanilla, lemon juice, and increase the time like they did. It is a home run recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "klchan"
+},
+"reviewBody": "This is my go-to apple pie recipe and everyone loves it. Made it today for pi-day (3.14) As many others recommend, I add 1 tsp nutmeg, 1 tbsp lemon juice, 2 tbsp flour and 1 tsp vanilla extract, and mix it together in a measuring cup with the butter, sugar and cinnamon, then pour it into the cut apples and mix until well coated. Then pour into the crust and don’t spend a lot of time layering the slices, just spread around until level. I prefer a lattice top with egg wash. After 10 minutes at 450, reduced to 350 for another 45 minutes. Perfection"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Terri Lauber"
+},
+"reviewBody": "Pie looks good and is a good basic apple pie. Husband loved it! I added the nutmeg as suggested - used Granny Smith apples- but it was kind of blah in my opinion. Will make again but maybe cut back on the sugar to give it a little more tart flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shannon Newbill Niemann"
+},
+"reviewBody": "great hod i tasted the pie and i loved it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "rarely bake"
+},
+"reviewBody": "When I made this it came out way too watery. I poured all liquid out and then it was fine. Tasted great but since I rarely bake( hence my name) , I don’t mess with recipes. Wish I added some flour as others have done."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stacy Alley"
+},
+"reviewBody": "Delicious so easy to make!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Veronica"
+},
+"reviewBody": "I made this recipe for Christmas Eve with a pre-teen in the family. It was easy for her to follow with made the process enjoyable. I didn't need as many apple as I didn't want to create a mountain of apples at the center. I used 4 large organic Granny Smith apples. I reviewed the comments below and made a few adjustments: 1) brushed the rim of the bottom crust with egg, 2) create vents (or holes for ventilation), 3) brushed the top crust with a bit of egg and (almond) milk. Everyone loved it! Even one of the kids said it's better (in taste and smell) than store bought."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Neil Strother"
+},
+"reviewBody": "It is good and so easy. Slicing up the apples was the most work. I will make this more often."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lekili_"
+},
+"reviewBody": "I lost my recipe so I was looking for one for the baking times. This is a great base, but a few tweaks are needed. I always mix the apples with the sugar (I use brown sugar) and cinnamon, a dash of nutmeg, and I add 1 tbsp of flour to thicken. Don't add too much or there won't be any juices. Before putting on the top crust I sprinkle some lemon juice over the apples so they are a little tart, and dot the top with butter."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kristen MacDonald"
+},
+"reviewBody": "Easy recipe! Ended up using 6 apples including the bit for the apple rose in the center."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "christine"
+},
+"reviewBody": "I made this to serve on Thanksgiving. It was truly a hit. I had 2 Granny Smith apples and some Red Delicious, I mixed them and add a little lemon juice. The only other change I made was adding the two tablespoons of flour like other people said in their reviews. Will be making this again for sure."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jim Bailey"
+},
+"reviewBody": "Used red Michigan apples, ended up too juicy at the end."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Claire"
+},
+"reviewBody": "I’m disappointed..it was very watery.. my apples didn’t hold together. It needed flour.."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Sharon McIlhargey"
+},
+"reviewBody": "Big hit! 0 left for today. :0 I made more with fresh whipped cream."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ruby E"
+},
+"reviewBody": "No changes used a frozen pastry crust was very good"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Taylor Russo"
+},
+"reviewBody": "Add more of everything"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gloria Henry"
+},
+"reviewBody": "It's easy to make and delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ozzie B"
+},
+"reviewBody": "Excellent simple recipe. I didn't use the Cinnamon or Nutmeg. Cut the sugar down by half. Result was a tart tasting apple pie with a hint of sweetness and no sticky filling."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BAYOUMA"
+},
+"reviewBody": "This was a nice apple pie recipe. I made it my own with a few change: I added 1 teaspoon nutmeg (I like nutmeg) and reduced the cinnamon you 1/2 teaspoon, cut my apples into chunks instead of slices, and took out 2 tablespoons sugar and replaced with 2-3 tablespoons of flour. \n\nMy instructional changes were: In a large bowl I combined sugar, flour, nutmeg, and cinnamon and mixed well. I stirred @ 1/3 of the apples in the mixture and coated well and placed in the pie shell and repeated with the remaining 2/3 of the apples. \n\nWith just a few ingredients, this was a quick and easy pie that was very tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LaTonya Milton"
+},
+"reviewBody": "It was great, although I like to tweek my own ingredients in as well. I added about 1 tsp of lemon juice and about 2tbsp of flour oh and through in a little nutmeg about 1/2 tsp. It turned out great, my family has been asking for more."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DomesticDiva"
+},
+"reviewBody": "Loved this recipe. Even though I forgot the flour this was delish! \n\nI used All Recipes \"Pie Crust IV\" recipe for the crust."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "apena1212"
+},
+"reviewBody": "I made this for my grandson's 15th birthday, since he does not like birthday cake. He and all of us loved it. Instead of sprinkling the sugar and cinnamon, I dumped all the cored and peeled apples into the mixture of sugar and cinnamon and then arranged them into the pie shell."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I made this for my grandson's 15th birthday, since he does not like birthday cake. He and all of us loved it. Instead of sprinkling the sugar and cinnamon, I dumped all the cored and peeled apples into the mixture of sugar and cinnamon and then arranged them into the pie shell."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rich"
+},
+"reviewBody": "Tastes great just as it is, although I made my pie crust from scratch."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cynthia"
+},
+"reviewBody": "Yummy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "David Burton"
+},
+"reviewBody": "Very good. Easy to make simple ingredients."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Steve B"
+},
+"reviewBody": "Honestly here folks, I am not a pie kind of guy. My neighbor went to a food drive this week and got a few boxes of food for his large family. He brought over two bags large of sliced apples and I happily took them knowing that my kids likes apples. There were just too many for us to eat and i flat out REFUSE to waste food especially in these trying times so i started a searchin.. Found this simple to follow recipe and had enough apple slices to make two pies! I read all the reviews and saw ppl adding all sorts of additional ingredients. I naturally follow those addition but was very disappointing with the addition of the nutmeg. Just a 1/4 tsp completely overwhelmed the normal natural flavors. I also disagree with swapping out Brown sugar for white. It just doesn't work with that change AND the addition of nutmeg. I gave one pie to my brother and we all enjoyed the 2nd pie last night. the Vanilla ice cream helped kill the overbearing nutmeg a little.. Im sure this recipe it perfectly fine without all the tweaking..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Diana C"
+},
+"reviewBody": "Delicious my adult kids love it. Very easy to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jayelle"
+},
+"reviewBody": "This was very good and I’ll stick with this recipe. I added a couple tablespoons of flour and mixed everything together before putting it in the dish. Be careful if you decide to add the nutmeg as others suggested. It was a little overpowering and I think I’ll leave it out next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Banana"
+},
+"reviewBody": "This recipe worked out really great and everyone loved it! The only thing I changed was the cooking time because I like my apples a little less crunchy. Overall a perfect recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Aislin Bollen"
+},
+"reviewBody": "I added more of the nutmeg, cinnamon, and sugar mix on the top of the pie before I baked it. It was pretty good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kira"
+},
+"reviewBody": "I used lime juice to soak my sliced apples in, since I had no lemon juice. Also added 2 T of flour to the sugar/cinnamon mix, as others have recommended. Turned out great! My husband's a pie lover and he thought it was great. Both kids also LOVED it. I'm not sure I've ever followed the directions to cook the pie on the bottom rack, but now I realize that's why most of my previous pies have had mushy bottom crusts. This one was perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "carmen lopez"
+},
+"reviewBody": "It’s was really easy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Ann"
+},
+"reviewBody": "This pie needed either cornstarch or flour to thicken the juice. TOO WATERY!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "RobynLeigh"
+},
+"reviewBody": "I made Better Homes recipe but I switched partway. They are essentially the same (6 c apples/cinnamon/nutmeg/flour/sugar but I just combined my apples/sugar/flour and tossed them into my waiting unbaked pie crust. I liked the baking instructions and I did use nutmeg just like Grandma."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "T Plums"
+},
+"reviewBody": "Fantastic recipe, very delicious and easy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Tina Willson"
+},
+"reviewBody": "Wish I didn't have to look elsewhere for a pie crust recipe, but the filling recipe was good and everyone liked it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Maggie"
+},
+"reviewBody": "This was such a good recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "It's very easy to make!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jennyyi73"
+},
+"reviewBody": "It's very easy to make!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Stacia Papasavas"
+},
+"reviewBody": "Prefer less watery version so I will add flour next time. I also had to bake 10 minutes longer but that could be my oven."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Adriana"
+},
+"reviewBody": "This pie recipe is simple and has great flavor however followed as written, mine turned out very runny so next time I’ll probably coat the apples with flour or corn starch and maybe do an egg wash to the top crust."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "anitab"
+},
+"reviewBody": "This pie was very easy to make and tasted great. I used a mixture of Granny Smith and Honeycrisp apples. I wish I had read the reviews first though and added a little flour to thicken the juices. Will definitely try again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ashley matsen"
+},
+"reviewBody": "It was so easy to make and did not take nearly as long as other recipes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Danielle Beecroft"
+},
+"reviewBody": "Absolutely love this one"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Khristina"
+},
+"reviewBody": "I used apples from my backyard apple tree that I had sliced and frozen last fall. When I defrosted them I eliminated alot of the juice that would be produced cooking fresh apples. Therefore I didnt need to add any flour to the recipe- it was perfect!\nI did, however, use only about a third to half of the sugar. Served it with vanilla frozen yogurt. It got rave reviews at our game night gathering!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mindy Warren"
+},
+"reviewBody": "Easy. I used Pink Lady apples and added sprinkles of brown sugar to mine."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Averill"
+},
+"reviewBody": "I make this recipe -- sometimes I substitute zucchini cubes for the apples. Add raisins. A touch of rum. Magnificent."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kara Powell"
+},
+"reviewBody": "My pie turned out runny after following the directions. I should have added some flour to the mixture like some other reviewers mentioned to thicken the filling. Still turned out very tasty!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carolyn Cota"
+},
+"reviewBody": "Followed advice of adding 2 T flour and it turned out perfect. Delicious. Will definitely keep this recipe and use again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jimmy Wagner"
+},
+"reviewBody": "Recipe came out excellent!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rachel Luna Hernandez"
+},
+"reviewBody": "I followed the recipe and my pie was DELICIOUS!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Steve Mann"
+},
+"reviewBody": "Did a basic crust with and egg wash mixed with cinnamon and sugar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jralakewood"
+},
+"reviewBody": "Everyone loved the apple pie. I use brown sugar instead of white. And I forgot to put in the butter, but no one noticed."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Zoë"
+},
+"reviewBody": "Best recipie ever! It is delicious! I always make it for thanksgiving. I add"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sam"
+},
+"reviewBody": "I added 1/4 cup of sugar and 1/2 teaspoon of cinnamon because I didn't have enough. I also added a little more apple for extra flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle58821"
+},
+"reviewBody": "Overall good recipe I did a few things differently. I added 1/2 tsp nutmeg, 1 TBS flour and did half regular sugar and brown sugar also tossed the apples with it all then put the mixture in the pie pan."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Thrift"
+},
+"reviewBody": "It was great thank you. I got my kids to eat something"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LindaBee"
+},
+"reviewBody": "Pie is delicious. I only used 1/2 cup sugar. I will use this recipe again. Simple and very tasty!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ashley Lin"
+},
+"reviewBody": "This apple pie was AMAZING! it was my first time ever making a pie from scratch and it was surprisingly pretty easy. After reading the reviews, I decided to add 2 tbsp of flour to the apples to thicken up the mixture (I cut the recipe in half). I also had to bake it for 15 minutes longer at 350 degrees F since the crust on the bottom was under cooked. Other than that, the apples tasted amazing (I used about 6 small green apples) and after dividing the recipe in half, I didn't add any extra sugar (even though I used green apples) since I'm not a fan of overly sweet things."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Birdie"
+},
+"reviewBody": "I will definitely make it again. I also used a dash of nutmeg. Perfect for a birthday for someone who doesn't want cake."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Remy Sigel"
+},
+"reviewBody": "Looks and smells delicious. After reading reviews I decided to add lemon juice, nutmeg, and brown sugar. I also egg washed the crust and sprinkled with cinnamon and sugar. My first time ever baking a pie. Will update after I try it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah Michelle"
+},
+"reviewBody": "This was my first attempt at an apple pie, and I really wasn't sure how it would turn out or if I was doing it right at all! I mixed the 2/4 of white sugar with one 1/4 cup brown sugar and I also mixed some egg to brush the top of the pie with. After that, I sprinkled some of the sugar/cinnamon mix on it. It looks absolutely stunning, and tasted perfect! I used Ambrosia apples, but they're not too mushy at all :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stephen Michael Spencer"
+},
+"reviewBody": "Very good pie. Made with apples off my own tree as well. Only con is it wasn’t a “wet” as I thought it would have been but it wasn’t a bad thing as it held together very nicely."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lynn Harpham"
+},
+"reviewBody": "This is an excellent recipe. As Carol suggested, I added a dash of nutmeg. I also doubled the cinnamon, because I just really love that flavor, and the sugar mixture seemed not quite cinnamony enough for me."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kelly"
+},
+"reviewBody": "It was delicious! I will make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rylee"
+},
+"reviewBody": "very good this was alot of fun to make and my family said it was fun to eat too! we all love this pie very much its gonna be a favorite fall treat I love nutmeg its my favorite spice so i added that but i bet its good with out is too we will be making this again for sure!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kimm"
+},
+"reviewBody": "After picking apples with my family, I made this simple pie exactly as written. We wanted the apples to be the star of the show. It took an extra 15-20 minutes in the oven to start to bubble, so I covered loosely with foil to keep the crust from burning. We thought it was delicious, served it warm with vanilla ice cream and it didn't last long. Next time I will probably mix the sugar/cinnamon mixture with the sliced apples and dump it all in just to make it a little easier."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rachel A"
+},
+"reviewBody": "I love this recipe. I did modify it slightly. I added a mounded tablespoon of flour and then cinnamon and a little nutmeg. I mixed everything thing in a bowl and then tossed with the apples to get them evenly coated. I use half Granny Smith and half Johnathon apples. It makes a great flavor. I would also cover your crust with a pie crust shield and remove it the last 15-20 minutes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ian"
+},
+"reviewBody": "I followed the recipe and added some of the suggestions made by other reviewers - lemon juice,nutmeg, vanilla, and it was superb. So very good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Isela Robles Chavez"
+},
+"reviewBody": "Just followed the recipe and added the nutmeg. Turned out really well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Camila Scott"
+},
+"reviewBody": "Made my first pie letting it cool so I will give you the five stars"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ok Ok"
+},
+"reviewBody": "I added a tablespoon of brown sugar and half a stick of butter and omg this was soooo good!!!!!\nThanks for the easy recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Mery MB"
+},
+"reviewBody": "I never knew it was so simple! But i did tweak the recipe per my family's opinion. used store-bought dough \nI added more sugar (only brown), more cinnamon, added little lime juice and nutmeg mixed all with the apples. And brushed the top with an egg &amp; milk, sugar! \n\nI have to thank all of the people who commented on those things, thanks, and i knew it would help because my family loves sweets"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brenda Gessell"
+},
+"reviewBody": "Absolutely delicious! I don't like apple pie but my husband does however he refuses to pay the regular prices in store. I received some apples from a coworker and decided to whip up a pie for the greatest man in the world. I used just over half the sugar/cinnamon mixture because I love the tart apples and it turned out beautifully! I have found a pie recipe that even I enjoy eating. Thank you for posting this recipe!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jonathan Baker"
+},
+"reviewBody": "Very simple and delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "The PianoChef"
+},
+"reviewBody": "This is a GREAT pie. I used Pie Crust IV for this recipe. I didn't like the crust as much as I thought I would. The crust could of been more sugary. The pie filling was delicious, but I will use a different pie crust."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laurna"
+},
+"reviewBody": "I made this apple pie for the second time. I took Kim advise and added lemon &amp; flour to make less watery to the apples in bowl &amp; also brushed on the top crust egg wash and sprinkled with 1 tablespoon of sugar wow what a difference the second time around. This pie was delicious by the way I used granny apples. Thank you for another great recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "rayco"
+},
+"reviewBody": "Made it pretty much as per recipe. Cut down the sugar to ½ cup. Worked out very well."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tiffany Gilmore"
+},
+"reviewBody": "I love this recipe so much. I made it last night and it wasn’t too sweet or tart. Definitely making this again :)"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/12324/apple-pie-i/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/367/desserts/pies/",
+"name": "Pies"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/788/desserts/pies/apple-pie/",
+"name": "Apple Pie Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/12324/apple-pie-i/",
+"name": "Easy Apple Pie"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

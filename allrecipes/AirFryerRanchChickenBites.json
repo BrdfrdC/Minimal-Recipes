@@ -1,0 +1,128 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Air Fryer Ranch Chicken Bites"
+,"datePublished": "2022-09-22T14:29:12.000-04:00"
+,"dateModified": "2022-09-22T14:29:12.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "lutzflcat"
+,"url": "https://www.allrecipes.com/cook/lutzflcat"
+}
+]
+,"description": "Ranch flavored chicken bites are quickly cooked in the air fryer and topped with melted Cheddar cheese."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/bI9zuqCOVPC7BtFMYF0TTY9rDYo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Air-Fryer-Ranch-Chicken-Bites-lutzflcat-b50ee1718210451597e93f740555192c.jpeg",
+"height": 1000,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Air Fryer Ranch Chicken Bites"
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "328 kcal"
+,"carbohydrateContent": "1 g"
+,"cholesterolContent": "101 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "21 g"
+,"saturatedFatContent": "7 g"
+,"sodiumContent": "425 mg"
+,"fatContent": "26 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 pound boneless, skinless chicken thighs, trimmed and cut into 1-inch cubes",
+"2 tablespoons avocado oil",
+"1 tablespoon white vinegar",
+"1.5 teaspoons dry ranch dressing mix (such as Hidden Valley Ranch®)",
+"1 teaspoon garlic powder",
+"0.5 teaspoon salt",
+"0.5 teaspoon freshly ground black pepper",
+"3 tablespoons shredded extra-sharp Cheddar cheese",
+"1 tablespoon chopped fresh parsley" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine chicken, avocado oil, white vinegar, ranch powder, garlic powder, salt, and pepper in a large bowl. Stir well until the chicken is coated, cover, and marinate in the fridge for 30 to 60 minutes, but not much longer, as the texture will become mushy."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the air fryer to 380 degrees F (190 degrees C). Place chicken cubes in the air fryer basket in a single layer, not touching."
+} ,{
+"@type": "HowToStep"
+,"text": "Air fry until chicken is no longer pink in the center and the juices run clear, flipping once when the edges start to brown, being sure not to overcook, 8 to 11 minutes. An instant-read thermometer inserted near the bone should read 165 degrees F (74 degrees C). Your cooking time may vary depending on the brand and size of your air fryer, and you may need to cook in batches."
+} ,{
+"@type": "HowToStep"
+,"text": "Sprinkle the chicken with Cheddar cheese. Return to the air fryer until cheese melts, for about 30 seconds. Serve warm, garnished with chopped parsley."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT50M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8462076/air-fryer-ranch-chicken-bites/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/107/appetizers-and-snacks/meat-and-poultry/",
+"name": "Meat and Poultry"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1234/appetizers-and-snacks/meat-and-poultry/chicken/",
+"name": "Chicken"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8462076/air-fryer-ranch-chicken-bites/",
+"name": "Air Fryer Ranch Chicken Bites"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

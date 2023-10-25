@@ -1,0 +1,1429 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Spaghetti Pizza"
+,"datePublished": "2000-10-16T14:02:58.000-04:00"
+,"dateModified": "2022-12-15T16:02:34.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Kathy"
+,"url": "https://www.allrecipes.com/cook/24325063"
+}
+]
+,"description": "This is not your typical baked spaghetti recipe! This kid-pleasing pasta dish has spaghetti noodles and pizza toppings baked into a fun casserole."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/QBH9XiGGlSNy1ER5cqFIJmpNJbM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1104950-f1de63d559794d1e80e0b77db3b84c1e.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Spaghetti Pizza"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "292"
+}
+,"cookTime": "PT60M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "298 kcal"
+,"carbohydrateContent": "30 g"
+,"cholesterolContent": "35 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "15 g"
+,"saturatedFatContent": "6 g"
+,"sodiumContent": "758 mg"
+,"fatContent": "13 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"cooking spray",
+"1 (8 ounce) package spaghetti, broken into 2-inch pieces",
+"2 cups shredded mozzarella cheese, divided",
+"0.25 cup milk",
+"1 large egg, beaten",
+"0.25 teaspoon salt",
+"0.25 teaspoon garlic salt",
+"1 (16 ounce) jar spaghetti sauce",
+"1 teaspoon dried oregano",
+"0.25 teaspoon dried basil",
+"4 ounces pepperoni sausage, sliced" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 425 degrees F (220 degrees C). Grease a 9x13-inch baking dish with cooking spray."
+} ,{
+"@type": "HowToStep"
+,"text": "Bring a large pot of lightly salted water to a boil. Cook spaghetti in the boiling water, stirring occasionally, until tender yet firm to the bite, 8 to 10 minutes. Drain and rinse with cold water."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix 1/2 cup mozzarella, milk, egg, salt, and garlic salt together in a large bowl. Add drained spaghetti and mix until well combined. Spread mixture into the prepared baking dish."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven for 15 minutes. Remove from the oven and reduce the temperature to 350 degrees F (175 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Spread spaghetti sauce over noodle mixture. Sprinkle with oregano and basil, then top with remaining 1 1/2 cups mozzarella. Arrange pepperoni over cheese."
+} ,{
+"@type": "HowToStep"
+,"text": "Return to the oven and bake until cheese is bubbly and beginning to brown, about 30 minutes. Let stand for 5 minutes before cutting."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT85M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This is a superb dish. My daughter was the first to make it,my hubby loved it. We Had guest today so I tried it. Had rave reviews."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mindy"
+},
+"reviewBody": "My kids love this recipe! Simple to make! Basic ingredients and it tastes yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I like the basic idea. I will add veggies and seasonings into the pasta along with the pepperoni instead of putting it on top."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "David Heyer"
+},
+"reviewBody": "Kids loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This is such a great family meal! It is something that all of us will eat; since we all know how picky children are! No matter who comes over to our house and tries thi,s just loves it and wants to know how to make it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Candy95409"
+},
+"reviewBody": "It's a 10! Company good!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Delicious! Had this as a kid. \nI don’t eat meat now &amp; couldn’t find veggie pepperoni, so I used veggie meatballs instead. Also, doubled the sauce. We love sauce. It still held together.\nIf it falls apart, then the recipe wasn’t followed properly. Important to do the first few steps!\nGreat idea for leftover spaghetti noodles!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kelli"
+},
+"reviewBody": "We made exactly as written. We liked it very much. We may add some hamburger meat to the sauce for next try. We will probably make this a few times a year."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ameliabrown829"
+},
+"reviewBody": "My mom made this when I was a kid, and I've always thought about it sometime I thought I made it up, but now I have it thank you ??"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Charles LaCour"
+},
+"reviewBody": "It was okay. I would eat it again if someone else made it, but I don't see any point in making it again for myself."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Krystal Phillips"
+},
+"reviewBody": "Added ground beef and a layer of ricotta cheese. Also replaced the mozzarella with provolone. It was delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Daren Goodman"
+},
+"reviewBody": "We are old and we love it. Really old. Love the crust and always elevate the sauce. Hamburger onions peppers mushrooms black olives. No amount of cheese is too much. Also add cottage cheese in the middle. Love it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dman"
+},
+"reviewBody": "Leftovers were better than pizza!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Betty Osarumwense"
+},
+"reviewBody": "So good made with pepperoni and one meat lovers"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "tomlori"
+},
+"reviewBody": "I used leftover spaghettin &amp; meatballs. My husband &amp; I both liked it. It was sort of like pizza &amp; sort of like lasagna. I would make it again. I think kids would love it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stacy King"
+},
+"reviewBody": "Everyone loves it!! I put a layer of hamburger and added diced tomatoes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stephanie Phelps"
+},
+"reviewBody": "This has been a family favorite since I was a kid - my mom and grandma always making without a recipe. I found this recipe and knew the cheese and garlic in the noodles were different than how I’d grown up eating it and I LOVED the flavor it added! This is a go to for us!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kris Black"
+},
+"reviewBody": "I’ve made this a few and always as a double batch. Unfortunately, there’s hardly ever any leftovers."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Katie Fiddes"
+},
+"reviewBody": "quite tasty and easy"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Justfitz"
+},
+"reviewBody": "How can you not love this? So easy and so yummy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "razorbackrobin"
+},
+"reviewBody": "My family and I loved it! This will be made regularly now!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MaryMargaret"
+},
+"reviewBody": "I made it for my great nephew. He loved it. I did change it by adding Italian seasoned ground turkey with sauteed onions and mushrooms to the jarred marinara sauce. Yum."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Doris King"
+},
+"reviewBody": "This recipe was absolutely delicious. I more or less made it following the directions. I cannot eat pepperoni so I substituted browned ground beef. It turned out perfectly. It set up nicely and was easy to cut and serve. I froze a section of it and believe that it will reheat well. The baking times were perfect. I will make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "msbork"
+},
+"reviewBody": "This was a good, basic recipe that my kids probably would like as written, but I embellished it to make it more flavorful. I added parmesan cheese with both rounds of mozzarella, fresh basil with the spaghetti and egg mixture, and some additional vegetables on top. My family loved it with those tweaks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TCapri"
+},
+"reviewBody": "It was actually way better than I anticipated! I used about 1/2 pound of canadian bacon and about 16 oz pineapple tidbits. I did use more cheese that the recipe called for....the 1/2 cup for the bottom, then the rest in recipe plus about a cup more of shredded pizza blend. I put the canadian bacon on the cheese, then more cheese on the cb, then after putting on pineapple, a little more cheese. Used a 26 oz jar pasta sauce. It was yummy! Thanks for the great idea!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TRELLA72"
+},
+"reviewBody": "Made exactly as written without preheating the sauce. PERFECT! My family loved it! Thank you for a deliciously easy recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "domebaby68s"
+},
+"reviewBody": "I enjoyed making the receipe , I added my own ingredients as well, I added ground beef, sausage and onions to the mixture and topped it with mushrooms. Turned out yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jlovely"
+},
+"reviewBody": "Delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda C."
+},
+"reviewBody": "I’ve made spaghetti pizza for 30 years. It all started with what do do with left over spaghetti ?? I’m sure it would be better as the pasta is drier. Top with your favourite pizza topping bake as usual 25-30 depending on how thick you make it. 400 degrees."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cynthia Payton"
+},
+"reviewBody": "love it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MBD"
+},
+"reviewBody": "I liked this a lot. I made it to have as a “fun” Saturday night meal. I really like how it cuts easily...the spaghetti kind of glues together (for lack of a better description). It’s easy and tasty. I didn’t change any ingredients. I do agree with other reviewers that it’s not 7 servings. I’d say it’s more like 5-6."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Randall J Dutka"
+},
+"reviewBody": "Great. Add ground pepper at step 3."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jrtaj97"
+},
+"reviewBody": "My husband and I both liked it! I didn't have pepperoni, so I used some Italian sausage for the meat topping. I was kind of surprised that it tasted and turned out as good as it did! Yes, I will make this again, and I think like others said, you can use whatever kind of toppings you want!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "kaf1347"
+},
+"reviewBody": "This was okay. Really liked the idea and followed the recipe, but will do some things differently next time. More flavor in the pasta. Maybe skip the milk and add more cheese to the pasta. Also might layer pasta, cheese, then pepperoni (and other favorite pizza toppings) to incorporate throughout the dish and balance the pizza/pasta ratio."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cyndy Churgin"
+},
+"reviewBody": "Spaghetti meets pizza! Amazingly easy, and really delicious. I cut the recipe in half (except the egg) and made it in an 8x8 pan."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Mike Holbrook"
+},
+"reviewBody": "I was just ok. Two out of my three kids liked it. I found it to be bland. I'll make it again only if they ask."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tnkatiebug"
+},
+"reviewBody": "Sweet heavenly day--awesome recipe! So easy to make to suit your taste/supplies. Serving size is not accurate, imo. Quadrupled it (5 growing boys!) and have enough left they're finishing it for breakfast. I have now been informed me this needs to be in heavy rotation at our house. Looks like a win!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shelly Parker"
+},
+"reviewBody": "Great recipe!!! I know that I will make it again. Two changes I made was to cut up turkey meatballs instead of pepperoni and probably more cheese than what was required. I love cheese!!! Thank you for a great recipe!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Martin"
+},
+"reviewBody": "Great!\nI replaced the pasta mix with a tin Italian style tomatoes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Terri Jackson King"
+},
+"reviewBody": "This was a great recipe for my family. I did make my own sauce &amp; added sausage and Canadian bacon but result was still really good. Simple and easy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Leciana M. Zappala"
+},
+"reviewBody": "I used garbanzo bean pasta to be a little healthier and it was delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nickol Olivarez"
+},
+"reviewBody": "Everyone loved it. I added hamburger meat to the spaghetti sauce. Thanks for the recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jody Schoth"
+},
+"reviewBody": "Great! It's basically like baked spaghetti with lots of cheese and pepperoni on top. I always double my casseroles, so we have a second one for the next day and I get a day off of cooking! I was worried it wasn't enough spaghetti, with all the sauce and cheese on top, but it was very good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marko723"
+},
+"reviewBody": "Those complaining about the bland taste have only themselves to blame. Pick or make a good sauce, and add spices, take it to the next level! Made it, kids loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Menoreen"
+},
+"reviewBody": "You don’t have to be a kid to enjoy Spaghetti Pizza. I made this recipe. It is always better the next day. I ate the last piece tonight. Once the pasta is made it is an easy recipe. This definitely deserves 5 stars."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ian DesVignes"
+},
+"reviewBody": "Everyone had seconds!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "matthew myers"
+},
+"reviewBody": "Very easy to make. This was a favorite when I was a kid."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Vicki Ware"
+},
+"reviewBody": "This has become one of my family's favorite dishes. I make it according to the recipe, but the last time I forgot to bake the spaghetti mixture first and baked it all together from the beginning and actually liked it better that way as it was more moist. So, will be doing that from now on. Pepperonis and spaghetti, what could go wrong?"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MsTress"
+},
+"reviewBody": "I added extra cheese and mushrooms and it was delicious! I will make this again and again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "A B"
+},
+"reviewBody": "We absolutely love this recipe! \nWe double the sauce and leave out the basil and oregano because it's already in the spaghetti sauce so I felt it was a waste of money. It's not something kept in our pantry. I found this recipe a few weeks ago and it has become a weekly meal! Even the child who doesnt care for spaghetti comes back for seconds!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cece1988"
+},
+"reviewBody": "I added more seasoning then was recommended but it was great thank you so much!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Diana Springer"
+},
+"reviewBody": "Family loved it, nothing was left in the pan!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "SgtKav"
+},
+"reviewBody": "We were quite surprised by this dish. In the end I felt it needed more cheese, however, my wife loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dan"
+},
+"reviewBody": "Great recipe!! I made a meat sauce that I use for my spaghetti. Used shredded mozzarella and topped everything with fresh mozzarella. Extra cheesy!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nicole224"
+},
+"reviewBody": "This was so delicious! Much better than I thought it would be. My kids have been fighting all day so told them they had to agree upon a recipe and cook it for dinner. Well they chose this and they did wonderfully. They did add ground beef."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary Beth Pinner Reeves"
+},
+"reviewBody": "I fixed recipe as written. it was yummy and kids loved it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "TLC cooking"
+},
+"reviewBody": "quick, easy, whole family enjoys. Versatile dish where you can add your favorite pizza toppings. We call it pizza pasta bake."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "mrsrussell94"
+},
+"reviewBody": "This is good for kids; adults find it a bit unpalatable. The spaghetti is rather bland, even with added herbs. After preparing by the recipe, we dipped in extra marinara. I probably won't make it again unless hosting a party for children."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Michael Martin"
+},
+"reviewBody": "Awesome recipe, I substituted buttermilk instead of milk and it was great too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sharon jones"
+},
+"reviewBody": "I used a 1lb bag of good quality rigatoni, and only boiled for 6mins, instead of 10. Doubled everything else, and used basil, shredded Swiss, sharp, and grated Parmesan, along with the mozzarella. I used a large cast iron skillet. I put the oven back to 425° during last 10mins to brown the pepperoni. Super good!!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Megan Miller"
+},
+"reviewBody": "This dish is just ok, if you follow it as written. Husband didn't like. Not sure why this has such a high rating but most of the high ratings mention that they made alterations (add hamburger, etc). Honestly, I don't think it's worth making again even with the suggestions."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ginger"
+},
+"reviewBody": "Scott's recipe from when he was a kid"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KarenRCS"
+},
+"reviewBody": "This was fantastic!! The only change I made was that I used my own low fodmap pizza sauce and mixed in turkey Italian sausage. \nI also made this gluten free by using GF spaghetti."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Abbey House"
+},
+"reviewBody": "This is a family favorite, even the picky little ones like it! The only change I make is to add one pound of browned ground beef between the noodles and sauce. Makes it more hearty!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "michell"
+},
+"reviewBody": "Easy peasy and everyone likes it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "beverley powers"
+},
+"reviewBody": "Kids liked this alot"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Robin"
+},
+"reviewBody": "Excellent recipie. Easy to prepare. I did substitute hamburger and ricotta. I made for a family get together - everyone loved. Thank you for sharing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rob in West St Paul"
+},
+"reviewBody": "Being a guy, I simply had to add more meat and cheese to this. I used one prepack of salami, ham and pepperoni meant for making pizzas, and quite a bit more mozzarella. This was fast, easy, and very tasty. Thanks for sharing this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Nancy Wruck"
+},
+"reviewBody": "I used edamame spaghetti noodles, it made a very low carb dish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Tonya Bills"
+},
+"reviewBody": "It was delish!!!!!! Next time I think I'll mix spaghetti sauce in with spaghetti tho....Ty for this recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Ryan"
+},
+"reviewBody": "It was good. Not sure if all the extra prep makes it any better than just plain spaghetti, though. I think it gets points for presentation."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pat"
+},
+"reviewBody": "This was fantastic, so tasty. Next time I'm going to try adding sliced black olives, onions in the sauce, and add some fresh mushrooms the last 10 minutes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mrs. South"
+},
+"reviewBody": "Followed directions exactly and it was great!! My husband, who likes to \"change things up a bit\", loved it!!!! We will definitely make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ChefMoose"
+},
+"reviewBody": "Great family dish. I'm sure it's been said before, but adding some mild Italian pork really kicked this dish up to another level. I browned the sausage and added onion and a little garlic before I added the sauce. Then covered and simmered while I prepared the noodles. ????"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "peggy"
+},
+"reviewBody": "I added hamburger &amp; sausage to the spaghetti sauce. Also think next time I will use more sauce, seemed a little dry to me."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "49ersaredabest"
+},
+"reviewBody": "Really really good! My family loved it.\nI didn't change a thing, went with recipe as written, and served with crusty bread and Caesar salad \nWill make again for sure."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "PJ1020"
+},
+"reviewBody": "Everyone in the family loved this one! And super easy! We may try some different topping next time to mix it up. Will definitely make this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "romans"
+},
+"reviewBody": "This was really good and moist. My family enjoyed this meal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Andie"
+},
+"reviewBody": "This recipe has become a frequent request at our house! Very simple to make with the recipe! After a few times exactly with the recipe, we have also added ground sausage to the toppings which is also delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cheryl Cammack"
+},
+"reviewBody": "I made this for my co-workers and they loved it! I did add pepperoni to the middle as well as the top and it was great!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Robert Spohr"
+},
+"reviewBody": "Kids love it...so do I! Easy to make, and tastes delicious. I made two so we can have it in a couple days too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Taya"
+},
+"reviewBody": "I added some parmesan cheese and a second egg to the noodle mixture.... Yummmmm!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bernadette Allen"
+},
+"reviewBody": "Great! Needed some extra seasoning and more toppings, but I loved it and my teens loved it too. Surprisingly my picky son cleared his plate."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Melissa Perkey"
+},
+"reviewBody": "this was so much better than another version I had previously made. i subbed 1cup of mozz cheese for colby/jack, and used a little more sauce.\nalso added black olives. I'll definitely be making this again. thanks for posting this recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lturnsleft"
+},
+"reviewBody": "I love it when a plan comes together. This was perfect for my four year old...spaghetti and pizza??? What a no brainer...he asked for seconds if you were wondering about taste. I enjoyed the dish as well. I went a bit too sauce heavy and added parmesan. Your child/ren can help prepare as mine did and we decided to add cheese on too of pepperoni."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jentamu94"
+},
+"reviewBody": "Easy. Fast. Kids loved it. We have a family winner. You can easily add more toppings and seasonings as you desire, too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Patley"
+},
+"reviewBody": "made this and i loved it! will be making again for sure."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Karen A."
+},
+"reviewBody": "This tasted more like a spaghetti casserole, but we all liked it. The kids ate it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MLedford74"
+},
+"reviewBody": "This was an easy recipe and it was very good. I followed the recipe exactly. my wife and I enjoyed it a great deal. I'm sure that we'll have this one again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "PearlJamFan"
+},
+"reviewBody": "I thought this was a pretty labor intensive for the end result. It was just OK. Not bad but not that good either. I don't think I'd make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "NinjaMom"
+},
+"reviewBody": "I am not a foodie by any means and think that if your going to change someone's recipe than its not a true review. I made this dish exactly the way it's written here. We loved it, my husband had three servings and he isnt a big guy. My daughter (4) had just eaten at grandma's, climbed up to the table and ate and entire regular serving. This is one that I will make again. They both loved it. Thanks."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "carol"
+},
+"reviewBody": "This is delicious! Great for kids and adults..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jessmckinney1130"
+},
+"reviewBody": "Absolutely easy cheap and amazing....my family loves it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sarah Sweetland"
+},
+"reviewBody": "This was really easy, and turned out very good. Definitely something I will make again on nights I don't feel like thawing out meat."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kimberly Godhelpme Frendy"
+},
+"reviewBody": "My picky family loved it. Actually made 2 casseroles out of the recipe. Forgot to break noodles but turned out ok. Only think was a little greasy from pepperoni, would use turkey pepperoni next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ilona"
+},
+"reviewBody": "This is a big hit with my family. Even my husband, who is not a fan of casseroles, enjoyed it. Even reheated the next day, it was still delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lorann75"
+},
+"reviewBody": "I made this tonight and it was delicious. I did buy pizza sauce by mistake and it was fine. Will definitely make this again. Next time for my grandkids."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Staci Noble Cook"
+},
+"reviewBody": "Great recipe. I made it for a large family gathering and everyone went back for seconds! I doubled the recipe and it turned out just fine!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Molly"
+},
+"reviewBody": "Great dinner! What a quick and simple meal to put together. I use pre-cut spaghetti in place of breaking my own and used fresh basil as opposed to dried. This recipe is so versatile that you could add whatever your favorite pizza toppings are. i.e. onion, green peppers, mushroom, olives, etc. We had company for dinner and they loved this dish. I served a tossed salad and garlic bread with this."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/23181/spaghetti-pizza-i/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/505/main-dish/pasta/spaghetti/",
+"name": "Spaghetti"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17815/main-dish/pasta/spaghetti/baked/",
+"name": "Baked"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/23181/spaghetti-pizza-i/",
+"name": "Spaghetti Pizza"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

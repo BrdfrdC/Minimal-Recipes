@@ -1,0 +1,138 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Tuna Lettuce Wraps"
+,"datePublished": "2020-02-07T23:53:29.000-05:00"
+,"dateModified": "2020-02-07T23:53:29.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "spjeffer"
+,"url": "https://www.allrecipes.com/cook/6405815"
+}
+]
+,"description": "Swap green lettuce leaves for tortillas in these light and tasty tuna salad wraps that are ready in about 10 minutes."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/ihguP_Lv82Sh8-gPNQGXVL89BxM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7855198-08987e4444d14a1682e1334e1d3df74b.jpg",
+"height": 1000,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Tuna Lettuce Wraps"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4",
+"ratingCount": "1"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "95 kcal"
+,"carbohydrateContent": "1 g"
+,"cholesterolContent": "20 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "16 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "148 mg"
+,"sugarContent": "1 g"
+,"fatContent": "3 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 (6 ounce) can chunk light tuna, drained",
+"2 tablespoons chopped onion",
+"1 tablespoon light mayonnaise",
+"salt and ground black pepper to taste",
+"3 leaves green lettuce, rinsed and patted dry",
+"2 tablespoons finely shredded low-fat Cheddar cheese" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine tuna, mayonnaise, onion, salt, and pepper in a bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Lay lettuce leaves out. Divide tuna mixture among the leaves, placing it in the middle of each leaf. Sprinkle Cheddar cheese over the tuna. Roll leaves up to create wraps."
+} ]
+,"recipeYield": ["3"]
+,"totalTime": "PT10M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "France C"
+},
+"reviewBody": "Very basic tuna salad mix, but once combined with the lettuce and cheese, it works! I did find the tuna extremely dry (even with using oil-packed tuna), so I ended up using at least double the mayo called for. It was enough to stuff 2 romaine leaves, so whether it makes 3 servings is up to you. For me it made the perfect sized lunch."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/278456/tuna-lettuce-wraps/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/408/salad/seafood-salad/",
+"name": "Seafood Salad Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/2809/salad/seafood-salad/tuna-salad/",
+"name": "Tuna Salad Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/278456/tuna-lettuce-wraps/",
+"name": "Tuna Lettuce Wraps"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

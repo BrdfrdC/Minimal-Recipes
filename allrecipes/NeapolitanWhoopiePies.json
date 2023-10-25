@@ -1,0 +1,131 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Neapolitan Whoopie Pies"
+,"datePublished": "2015-05-18T12:02:05.000-04:00"
+,"dateModified": "2022-02-11T15:39:46.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "April Weller"
+,"url": "https://www.allrecipes.com/cook/14428013"
+}
+]
+,"description": "Strawberry cake mix, whipped topping, and Oreo® cookies make a tasty combination in these Neapolitan whoopie pies that can be enjoyed after an hour in the freezer or made ahead."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/bxDklG-YOL4jRaVzFFUiOkR5VBc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2277527-f7e63a3c445b4f3eab10924699cb2118.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Neapolitan Whoopie Pies"
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "334 kcal"
+,"carbohydrateContent": "45 g"
+,"cholesterolContent": "41 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "6 g"
+,"sodiumContent": "346 mg"
+,"sugarContent": "26 g"
+,"fatContent": "16 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1 (15.25 ounce) package strawberry cake mix",
+"0.33333334326744 cup vegetable oil",
+"2 large eggs",
+"0.5 (8 ounce) container whipped topping (such as Cool Whip®)",
+"0.5 cup crushed chocolate sandwich cookies (such as Oreo®)" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 275 degrees F (135 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine cake mix, vegetable oil, and eggs in a large bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Form dough into eighteen 1-inch balls and place on a cookie sheet. Flatten each ball with the palm of your hand."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until edges are golden, about 6 to 8 minutes. Cool on the baking sheet briefly before removing to a wire rack to cool completely, about 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Add whipped topping to one side of each cookie, working in pairs. Sprinkle 1/2 of the cookies with crushed Oreos®, then sandwich with remaining cookies. Wrap each whoopie pie with plastic wrap and place in a 1-gallon freezer bag."
+} ,{
+"@type": "HowToStep"
+,"text": "Freeze for at least 1 hour before serving."
+} ]
+,"recipeYield": ["9"]
+,"totalTime": "PT105M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/285846/neapolitan-whoopie-pies/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/362/desserts/cookies/",
+"name": "Cookies"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16417/desserts/cookies/whoopie-pies/",
+"name": "Whoopie Pie Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/285846/neapolitan-whoopie-pies/",
+"name": "Neapolitan Whoopie Pies"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

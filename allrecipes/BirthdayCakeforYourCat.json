@@ -1,0 +1,418 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Birthday Cake for Your Cat"
+,"datePublished": "2018-12-08T01:29:54.000-05:00"
+,"dateModified": "2022-05-24T12:59:25.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Nate Bartlett"
+,"url": "https://www.allrecipes.com/cook/1291001"
+}
+]
+,"description": "This cat birthday cake is purr-fect for those looking for a special treat for a favorite feline. Your kitty will love this easy tuna fish cake."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/F08cz-BCR5JpBvi0BDEeGdRkcEo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8282945-982307c5ac884c6b81ee93f571d20ef6.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Birthday Cake for Your Cat"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "24"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "145 kcal"
+,"carbohydrateContent": "6 g"
+,"cholesterolContent": "45 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "26 g"
+,"saturatedFatContent": "0 g"
+,"sodiumContent": "96 mg"
+,"sugarContent": "0 g"
+,"fatContent": "1 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"cooking spray",
+"1 (6 ounce) can tuna, drained",
+"2 tablespoons all-purpose flour",
+"1 egg white",
+"0.125 teaspoon shredded mild Cheddar cheese",
+"4 peeled, cooked shrimp" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 350 degrees F (175 degrees C). Spray 2 muffin tin cups with cooking spray."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine tuna, flour, egg white, and Cheddar cheese in a bowl. Fill the prepared muffin cups equally with the mixture."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven for 15 minutes. Let cool in the tin for 5 minutes. Invert onto a wire rack to cool completely."
+} ,{
+"@type": "HowToStep"
+,"text": "Garnish cakes with shrimp."
+} ]
+,"recipeYield": ["2"]
+,"totalTime": "PT30M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Pegs"
+},
+"reviewBody": "This was fully enjoyed by all my fur babies! It smells as expected, but is definitely worth it! Easy to make. I made it as a round cake and used whipped cream cheese as the frosting. Even colored some and put them in a mold to freeze to get paw prints."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "darlenegalikaolcom"
+},
+"reviewBody": "For icing on the cake, my cat loves Churu likable cat treats."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "We changed the prawns to mushrooms or cat treats. Our cat loved this recipe, and she ate all of it! Which is very rare."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "My cat really enjoyed this recipe (though I did modify it a bit.)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "So easy to make! Yoko loved it! I will definitely make this again next year!😻"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Our cat celebrated his third birthday today. We made these cakes for him and he absolutely loved them! We sprinkled the top with catnip and some of his treats."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "qgqorcsjevnivoumqk"
+},
+"reviewBody": "Amazing recipe! Our kitties absolutely loved it! Since it was all for the cats, we put in some of their treats as well into the prepared batter before baking. Though I have to mention that not all of our cats ate their shares - but the majority did. So, in the end, it's all down to what your cat does and doesn't prefer."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "katrinaaxtell68"
+},
+"reviewBody": "Pros:\n-Easy to make.\n-Kittens and cats were intrigued.\n-Good for kitty birthdays.\n\nCons:\n-Smells deathly (unless you enjoy tuna stench).\n\nRecommended:\n-Mix this VERY well.\n-Use cupcake wrappers for easy removal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tarah Sweitzer"
+},
+"reviewBody": "made a few adjustments but my cat loves them. I make them twice a year, her birthday and on \"adoption day\" anniversary. I add some deli ham and garnish it with a little bit of cat nip!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Foxy"
+},
+"reviewBody": "Cooked nice"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Blairphomet"
+},
+"reviewBody": "Cat went crazy for it! Actually started getting territorial about it haha. Only concern is how sticky it is. Towards the end, he started freaking out and was using his paws to get it out of his mouth. Had to use my finger and saw it was collecting at the roof of his mouth. I would use less flour! Other than that, he loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Molly Arrowood"
+},
+"reviewBody": "Wouldn't recommend even bothering with this, just open a can of tuna, sprinkle with a little cheese and be done. It stuck together like crazy so I had to break it up and even so, all my cat wanted was the tuna which was engulfed in the egg and flour mixture."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Melissa Benedicte"
+},
+"reviewBody": "they loved it. i removed the cheese . also this recipe yields 3"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Casey"
+},
+"reviewBody": "This worked out perfectly! I ended up chopping up the shrimp and making it into the shape of a 2. Thanks for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jill Bethel"
+},
+"reviewBody": "Kit Kat loved it, I never thought I'd be making a cake for my cat but she just defended me against a raccoon and here we are"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allison Gilbert"
+},
+"reviewBody": "I didn't have the shrimp so I put sardines on it and he loved it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chef Astrid"
+},
+"reviewBody": "I will definitly make it again my cat loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jessica baker"
+},
+"reviewBody": "Did not add the shrimp."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Araceli Garces"
+},
+"reviewBody": "I rather give my cat a can of tuna and save some time and effort. I had to mix it all up after baking and pick up a finger of the fish cake and bring it up to my cats face in order to eat the cake. He doesnt seem to like shrimp either. I guess it just depends on the Cat. But a can of tuna would be easier"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Karlee Peacock"
+},
+"reviewBody": "Recipe worked, my cats didn’t eat it. Oh well :/"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Briellephant"
+},
+"reviewBody": "This recipe was delicious! My husband loved it so I spread it to EVERYONE I know. They all love me now. I am always asked to make it when I go to parties, potlucks, or any other special gathering. My husband requests it for his birthday every year, and any time else he can."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Soup Loving Nicole"
+},
+"reviewBody": "Cat gave this a paws up. I made both of the cakes just for him so I cannot vouch for the taste but he sure seemed to think they were good. I personally think they needed more cheese but again, he didn't seem to mind. Made as written they are on the dense side so you'll have to cut it up for them. No biggie but I thought I'd mention it. Santos says thanks for the recipe!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/265170/birthday-cake-for-your-cat/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17501/everyday-cooking/more-meal-ideas/",
+"name": "More Meal Ideas"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1951/everyday-cooking/more-meal-ideas/pet-food/",
+"name": "Pet Food Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/265170/birthday-cake-for-your-cat/",
+"name": "Birthday Cake for Your Cat"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,738 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Italian Frittata"
+,"datePublished": "2019-04-02T02:58:32.000-04:00"
+,"dateModified": "2022-01-14T01:23:13.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Shagen McBride"
+,"url": "https://www.allrecipes.com/cook/2017032"
+}
+]
+,"description": "Salami, mushrooms, tomatoes, and artichoke hearts are baked in this cheesy egg dish perfect for brunch or a light lunch."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/C6C_95rJG0-6zRCe3BND-zwsDJc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8979034-ca546cd61be144c8ae304e46edd3dc6c.jpg",
+"height": 1280,
+"width": 1280
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Italian Frittata"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "58"
+}
+,"cookTime": "PT25M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "211 kcal"
+,"carbohydrateContent": "6 g"
+,"cholesterolContent": "216 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "17 g"
+,"saturatedFatContent": "6 g"
+,"sodiumContent": "1049 mg"
+,"sugarContent": "2 g"
+,"fatContent": "13 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT25M"
+,"recipeIngredient": [
+"0.5 cup diced salami",
+"0.5 cup artichoke hearts, drained and chopped",
+"0.5 cup chopped cherry tomatoes",
+"1 (4.5 ounce) can sliced mushrooms, drained",
+"6 eggs",
+"0.33333334326744 cup milk",
+"2 green onions, chopped",
+"1 clove garlic, minced",
+"1 teaspoon dried basil",
+"1 teaspoon onion powder",
+"1 teaspoon salt",
+"ground black pepper to taste",
+"0.33333334326744 cup grated Parmesan cheese",
+"1 cup shredded mozzarella cheese" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat oven to 425 degrees F (220 degrees C). Grease a shallow 2-quart baking dish."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat a skillet over medium heat; cook and stir salami, artichokes, tomatoes, and mushrooms until heated through, about 4 minutes. Transfer salami mixture to baking dish."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk eggs, milk, green onions, garlic, basil, onion powder, salt, and black pepper in a large bowl; pour eggs over salami mixture. Sprinkle with mozzarella cheese and Parmesan cheese."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake until eggs are set and cheese is melted, about 20 minutes."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT50M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Made this easily, added some scallions for some additional flavor. Will be making this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Laura Wallace Neely"
+},
+"reviewBody": "Doubled the recipe for a potluck. I used fresh mushrooms and fresh basil but otherwise stuck to the recipe. Everyone loved it. I didn't add any salt as other posters said it was too salty with the salami."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Danielle Stadelman RDN"
+},
+"reviewBody": "I went all out with this recipe and made a huge breakfast. This frittata was delicious and I added in even more veggies. No one could taste it. This can be made anyway you like and even better use leftover produce in the fridge."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Happyschmoopies"
+},
+"reviewBody": "Delicious! I am usually not a fan of frittatas, but, my family loved this one. It has a very unique flavors with the artichokes and salami added. I think next time I will try it with sun-dried tomatoes instead of fresh tomatoes. Thank you for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christina"
+},
+"reviewBody": "Delicious and could not be simpler! I did modify this a bit to coincide with my diet, but still used all ingredients listed except the dried basil (not a fan). I subbed egg beaters for the eggs, which worked perfectly. Baked this in an 11x7 baking dish for 25 minutes in my oven and it came out so puffed and beautiful! Such a great combo of flavors too! I wouldn't add the salt until you are at the table because youay not need it depending on how salty your salami is. This made a wonderful dinner along with some bacon and a toasted English muffin!??"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joyce Maute"
+},
+"reviewBody": "Fast, easy, and delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Brandon Allan"
+},
+"reviewBody": "The recipie was a great hit at brunch. People raved about it. Easy to prep, and the taste was good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "seahawksean"
+},
+"reviewBody": "YOWZA!!! This was incredible! I made mine all in one cast iron skillet and used fresh cremini mushrooms and a Roma tomato I had leftover. Sweated the mushrooms for a couple of minutes before adding the salami and then the chopped Roma tomato."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Carmie"
+},
+"reviewBody": "This is a great base recipe to make your own. I used the last of my summer orange peppers, tomatoes and basil, eliminating all other veggies. I also eliminated the salt as onion powder tends to be salty. I cooked the garlic with my veggies and then drained them through a fine-mesh sieve to avoid a watery frittata. Hit in with the broiler for the last 30 seconds."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marcie Roberts"
+},
+"reviewBody": "easy to make and something a little different. Even my grown son who doesn't like eggs ate it. I cooked mine in an ovensafe frypan. (Tfalheatmaster which I love!)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Leslie from Aurora"
+},
+"reviewBody": "First time I've made a frittata. I thought the recipe was really good! We didn't have salami, so I used some peppered roast beef we had and that worked out great. I also added some sliced black olives. I can easily see using all sorts of ingredients, but really liked the ones used in this recipe, especially the artichoke hearts."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Terry Paarlberg"
+},
+"reviewBody": "Used smoked sausage. Great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bill Rudnicki"
+},
+"reviewBody": "Consistently use as standard with slight variation each time. Use marinated artichoke hearts, shredded cheddar, chopped black olives, 3 meats (Genoa salami, polish sausage, chopped ham). Serve with sour cream."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "esureta"
+},
+"reviewBody": "Very easy, very good! Used fresh mushroom and basil."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "gardener1977"
+},
+"reviewBody": "I made this recipe as breakfast for overnight guests. Perfect hot and cold; I sautéed onions and mushrooms with some old cheddar in the mix as well as on top. Very easy and no leftovers."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MichelleG"
+},
+"reviewBody": "Great recipe! I change up the meat, veggies and cheeses based on what I have on hand, but it is always great. Also can add more eggs/milk if have extra veggies/meat."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "diggityd77"
+},
+"reviewBody": "I made this for a Sunday brunch and it was delicious. I thought the chopped Salami was great; next time I will chop the artichokes up smaller. But definitely a dish I will make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sherri Pelski"
+},
+"reviewBody": "I made this for Brunch and was a huge hit. Everyone wanted the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lodita"
+},
+"reviewBody": "Good basic recipe. I used Italian sausage (bulk) because that is what I had on hand. Next time I will use hot Italian sausage because it didn't have enough flavor. I also added roasted red peppers, as another reviewer suggested, because those make most any recipe better! Next time I will probably also add a little Italian seasoning."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Barb"
+},
+"reviewBody": "This turned out really well! My family loved it. I used a leftover sausage, artichoke hearts and green pepper. It was delicious! I also minimized the salt to 1/2t which could have been even less between the sausage and the Parmesan cheese."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jeepdog"
+},
+"reviewBody": "Cut the recipe size to four servings. Used green and yellow squash cubed, sliced onion, half a can of mushrooms, some sauteed fresh spinach and some sliced ham for the veggies. Sauteed everything first, then put into the bottom of a glass pie dish. Used five eggs vs the four that the servings size change called for. Cheddar cheese and parm cheese on top. Exactly 20 mins in the oven. Very, Very Good! Dinner plus leftovers for breakfast the next day. I think this would be great to make, cut up into individual servings and freeze for quick microwaveable breakfast on the go!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lucy"
+},
+"reviewBody": "You cant help but love a recipe that says you can substitute the ingredients with whatever you have on hand! If you goof the results are on you, but that is not likely. I made 2 changes. I used diced ham and Colby Jack cheese. My eggs have got to be done and doner. I was afraid the mozzarella cheese would disguise that because it is so gooey. It really turned out great. So use the cheese of your choice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ness"
+},
+"reviewBody": "This was the 1st time ever that I made a frittata that turned out incredible!! I added a few other veggies, used provolone chesses, and sprinkled shredded parmigiano-regiano that I grated myself. The eggs cooked perfectly all the way around and in the middle!! Thanks so much for helping me sinch it:)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Donna Brown Smith"
+},
+"reviewBody": "I used this recipe for a base for a frittata I made using leftovers from a fajita party. It was a wonderful guide."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jessica Baumgardner"
+},
+"reviewBody": "This was really good! I used a sweet onion instead of green and sautéed it with the garlic and other veggies. If I cook something with salami, bacon or ham I usually use half the salt or omit it completely. I salted the mixture just a little and had no problem. I'll definitely make this again. It's so easy and great for a family breakfast."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "KLM"
+},
+"reviewBody": "We made it the first time as written and it was good, easy to put together, and does lend itself to varying ingredients for what you have on hand and/or food preferences."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shagen McBride"
+},
+"reviewBody": "This is a recipe that I submitted and I appreciate all of the great reviews! I wanted to mention that I used Kosher Salt in my frittata and perhaps that is why some of you are having an issue with the saltiness? Just wanted to point that out and I hope that it helps!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sam"
+},
+"reviewBody": "I made this recipe as posted and thought it was excellent."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "soup ignorant"
+},
+"reviewBody": "this turned out extremely delicious and was easy to make for a novice. I substituted the artichoke hearts with steamed broccoli, added chopped red and green peppers, reduced the green onions to one and added half a white onion. as stated by someone else, I reduced the salt to a pinch and garnished the cooked dish with fresh basil leaves. good thing I used eight eggs because everyone went back for seconds! have your cholula or tapatio sauce handy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nancy White"
+},
+"reviewBody": "I used ham instead of salami. I also added some mushrooms, onions, and canned potatoes that were taking up space. Great! I loved the seasoning. Even my picky husband enjoyed. Very versatile recipe that I will use it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Call Franklin"
+},
+"reviewBody": "Amazing. Served for an open house and would definitely add more of the artichokes and tomatoes. Also added sautéed mushrooms and peppers. An outstanding recipe, hot or cold."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Suzanna Haughey"
+},
+"reviewBody": "This was my first time ever making a Frittata, and we absolutely loved it, I changed the salami for Turkey Bacon, and used mushrooms, broccoli, and slice tomatoes. This was super fast and easy!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Insane Chefs"
+},
+"reviewBody": "We did a pizza twist and added pepperoni and pesto. Super yummy!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "irishlilie"
+},
+"reviewBody": "This was absolutely delicious! I'd use a little less salt depending on the amount of salami you use. I'll make this again with slightly less artichokes and more tomatoes and onions. Using a slightly smaller dish might also be good. Still, extremely wonderful for breakfast!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LL"
+},
+"reviewBody": "This was delicious! I used coconut milk in place of cow milk. I left out the mushrooms."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Holly B"
+},
+"reviewBody": "Used Gallo dried salami and some ham. Instead of artichokes I used asparagus, lightly steamed. Used cheddar cheese also. Whisked a small amount of flour in to help it set. Baked at 375 for 30 minutes. Num!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "chrisfay81"
+},
+"reviewBody": "Absolutely incredible dish!! Switched out salami for diced pepperoni. Added a little extra garlic. Will definitely be making again and trying new recipes and flavors! Thanks!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Aly"
+},
+"reviewBody": "Made this for dinner tonight. It was fantastic. Did take out the artichoke hearts and used fresh basil. Will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "dorpas12"
+},
+"reviewBody": "Way too salty! if using salam,i don't add any salt at all. Use a smaller pan so it comes out thicker."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Vikki I."
+},
+"reviewBody": "I didn't have any mushrooms so I added garlic marinated roasted red peppers. Loved it! might omit the salt next time though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cheryl Tenney"
+},
+"reviewBody": "Really easy. You can put whatever you want in it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "HeatherZ"
+},
+"reviewBody": "Thought the recipe was great even though I am a vegetarian and left out the salami. Also thought that it could use a little less salt, but will have to make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "AVNORRED"
+},
+"reviewBody": "Delish! I loved the salami and artichoke hearts too! no changes needed. quick and easy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "VickyN"
+},
+"reviewBody": "I've been trying off and on to make frittatas for years and only ever got a glorified omelette. For some reason I thought you HAD to have a frying pan that would go in the oven. Also I never properly looked for a recipe. Anyway, tonight the wait is over. This recipe is so easy I figured even I couldn't mess it up, and I didn't. I used chopped peppers, fresh mushrooms, onion flakes and half a tomato I had lying around. My husband looked at it and said, \"WHAT is THAT?\" in tones of joy. He was expecting a glorified omelette. The fact that I've dared to post a photo shows you how good this was."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary Ellen"
+},
+"reviewBody": "I saw a photo of this on the all recipes home page and thought it looked delicious. I looked at the recipe and had all the ingredients so I made it for lunch. It was really good. The only change I made was to use fresh mushrooms. This will definitely be made again. The recipe is versatile and other veggies could be subbed easily. Thanks for a great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda T"
+},
+"reviewBody": "yumyum loved the salami in this. I had leftover frozen artichokes and fresh mushrooms so I used that. Also fresh basil and the cheese I used was a mix of mozz, cheddar and jack"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/228687/italian-frittata/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/148/breakfast-and-brunch/eggs/",
+"name": "Eggs"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1564/breakfast-and-brunch/eggs/frittata/",
+"name": "Frittata Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/228687/italian-frittata/",
+"name": "Italian Frittata"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

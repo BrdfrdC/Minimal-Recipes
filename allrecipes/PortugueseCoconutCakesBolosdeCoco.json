@@ -1,0 +1,140 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Portuguese Coconut Cakes (Bolos de Coco)"
+,"datePublished": "2020-06-19T00:04:24.000-04:00"
+,"dateModified": "2021-05-01T18:12:10.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "drodrigues101"
+,"url": "https://www.allrecipes.com/cook/1503552"
+}
+]
+,"description": "These mini flourless Portuguese coconut cakes have the chewy texture of macaroons and come together in minutes, using only 4 ingredients."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/QKISJZjwsVu06Asg7htmiV9ZxhE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/9180938-4d4fa54b55eb442d899320a83c051c48.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Portuguese Coconut Cakes (Bolos de Coco)"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4",
+"ratingCount": "1"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "624 kcal"
+,"carbohydrateContent": "64 g"
+,"cholesterolContent": "186 mg"
+,"fiberContent": "9 g"
+,"proteinContent": "10 g"
+,"saturatedFatContent": "33 g"
+,"sodiumContent": "90 mg"
+,"sugarContent": "54 g"
+,"fatContent": "40 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1.75 cups shredded coconut",
+"0.75 cup white sugar",
+"3 eggs",
+"1 tablespoon grated lemon zest" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat oven to 350 degrees F (175 degrees C). Line 3 muffin cups with paper liners."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix coconut, sugar, eggs, and lemon zest together in a large bowl. Scoop coconut mixture into lined muffin cups."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until firm and golden, 15 to 20 minutes."
+} ]
+,"recipeYield": ["3"]
+,"totalTime": "PT25M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Yoly"
+},
+"reviewBody": "I scaled the recipe down to 1 serving and baked them in a mini muffin tin. I got 8 little cakes which unfortunately stuck to the paper liners. They are tasty little bites and I enjoyed the lemon zest. Thanks for the recipe."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/245823/portuguese-coconut-cakes-bolos-de-coco/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/231/world-cuisine/european/",
+"name": "European"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/724/world-cuisine/european/portuguese/",
+"name": "Portuguese"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/245823/portuguese-coconut-cakes-bolos-de-coco/",
+"name": "Portuguese Coconut Cakes (Bolos de Coco)"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

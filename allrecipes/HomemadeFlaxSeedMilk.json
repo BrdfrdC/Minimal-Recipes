@@ -1,0 +1,171 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Homemade Flax Seed Milk"
+,"datePublished": "2019-04-04T00:00:33.000-04:00"
+,"dateModified": "2019-04-04T00:00:33.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Buckwheat Queen"
+}
+]
+,"description": "Not only is this homemade flax seed milk recipe quick and easy, and it tastes fresher, creamier and has more body than store bought varieties."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/gZ-OQyEiN8O8QWS43KLnZ3X9yxE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/2881141-cfc6b714ec5e4195bd959f59cbd8c5f0.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Homemade Flax Seed Milk"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "4"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "104 kcal"
+,"carbohydrateContent": "6 g"
+,"fiberContent": "5 g"
+,"proteinContent": "4 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "14 mg"
+,"sugarContent": "0 g"
+,"fatContent": "8 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"0.5 cup flax seeds",
+"4.5 cups water" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Blend flax seeds and water in a blender on high for 1 minute; allow to rest for 2 minutes. Blend again on high for 1 minute; allow to rest for 5 minutes. Blend again for 30 seconds."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour milk through a nut bag or a strainer lined with cheesecloth into a pitcher or glass container; press solids with back of a spoon to extract liquid. Gather cheesecloth around solids; twist and squeeze to extract all the liquid."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT20M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "AlejandraM"
+},
+"reviewBody": "This was a simple recipe and I liked that nothing needs to be soaked all night (like almond milk). I use it on my oatmeal."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Delicious. I make it to use in my coffee but end up drinking it all before I get to that. Very creamy and nutritious. Thanks for the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Farhin Ahmed"
+},
+"reviewBody": "Very good recipe. Milk is solid colored and super thick and creamy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MARIJANABROWN"
+},
+"reviewBody": "I made 1/2 of the recipe, as it only lasts up to 3 days, and I'm not sure I'll use more than 1/2. It could even use more water, but I can always add that afterwards, as well as vanilla or sweetener. This is a great 'base' recipe!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/245438/homemade-flax-seed-milk/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1642/everyday-cooking/",
+"name": "Everyday Cooking"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1227/everyday-cooking/vegan/",
+"name": "Vegan"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/245438/homemade-flax-seed-milk/",
+"name": "Homemade Flax Seed Milk"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

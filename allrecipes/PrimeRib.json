@@ -1,0 +1,1413 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Prime Rib"
+,"datePublished": "1998-12-16T17:12:51.000-05:00"
+,"dateModified": "2022-07-14T16:24:57.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Dale"
+,"url": "https://www.allrecipes.com/cook/24322470"
+}
+]
+,"description": "Use this recipe to make prime rib roast the easy way. Tastes delicious with just garlic and mustard."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/UWOpSZzk18-rIo8kfZAodbZTnI4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4564891-fb23fe46a1f94a9b803d0fd338a50a4b.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Prime Rib"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "215"
+}
+,"cookTime": "PT150M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "443 kcal"
+,"carbohydrateContent": "3 g"
+,"cholesterolContent": "133 mg"
+,"proteinContent": "47 g"
+,"saturatedFatContent": "11 g"
+,"sodiumContent": "365 mg"
+,"fatContent": "26 g"
+,"servingSize": "1 (10 pound) rib roast"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"1 (10 pound) prime rib roast",
+"6 cloves garlic, sliced",
+"salt and ground black pepper to taste",
+"0.5 cup Dijon mustard" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 500 degrees F (260 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Make slits all over the roast by pricking with a small knife. Insert slivers of sliced garlic. Season the roast with salt and pepper, then spread generously with mustard. Place on a rack in a roasting pan, and cover."
+} ,{
+"@type": "HowToStep"
+,"text": "Roast for 60 minutes in the preheated oven. Turn off oven. Leave oven closed, and do not peek for 90 minutes. The internal temperature of the meat should be at least 140 degrees F (60 degrees C) for medium-rare, or 155 degrees F (68 degrees C) for medium."
+} ]
+,"recipeYield": ["12"]
+,"totalTime": "PT160M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JenMo"
+},
+"reviewBody": "Insanely delicious! My oven cooks hot so I pulled it out 20 minutes early. Then let it sit under foil for 30 minutes. Perfection! Best meat I have ever cooked. And, I love to cook."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Luchi Ormeo Alura"
+},
+"reviewBody": "Simplicity123, i think you missed the part where it says “turn off the oven, keep door closed and let the roast stay in the oven for another 90 minutes to cook further “."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "m3shelly"
+},
+"reviewBody": "Excellent! I've been following this recipe for a couple years now, and it turns out great every time. I typically don't start with 10#, since I'm only cooking for two. Weigh out your roast and multiply the weight, in pounds, by five. Use that for the time the oven is 'on'. Always let it stand for 2hrs, no matter the weight. Also, make sure your oven door seals well. Old ovens can lose temperature quickly due to poor seals or insulation. So, five minutes per pound at 500°F, and let stand in oven two hours. Do not peak!! You'll lose the residual heat! Enjoy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ginger Roberts"
+},
+"reviewBody": "Delish!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "goosedad24"
+},
+"reviewBody": "Rule of thumb, “Bone in”make it 7 minutes per pound, shut the oven off and don’t open for Two Hours. I can’t believe I actually read a review where Simplicity123 said they couldn’t give this a good review because they couldn’t follow directions and leave the oven closed"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "trherber"
+},
+"reviewBody": "Delicious! Followed the directions and the roast came out a perfect medium rare."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Alessandro Catorcini"
+},
+"reviewBody": "Simple recipe to follow and good results. I tweaked the cooking times for the oven to 10 minutes + ( 5 minutes * weight of the roast in pounds) - in my case 30 minutes - at 450 and then 40 minutes at 325 without opening the oven."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Centava"
+},
+"reviewBody": "It was delicious. I was worried it wouldn’t be done but it was perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Heather Purves"
+},
+"reviewBody": "Turned out perfect!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Liz Deswert McCormick"
+},
+"reviewBody": "Recipe calls for 10#; however, I used a 3.5-4#. I only seasoned with salt and pepper (that's the way I like it). I was skeptical about cooking an hour at 500 degrees, but I followed the cooking instructions TO THE TEE, and this was SUPERB. I have tried various cooking methods--this turned out exactly how I get it in a restaurant. I like mine rare; my husband likes medium-rare. We got the best of both worlds."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "linda maracle-craig"
+},
+"reviewBody": "Delicious - but watch your roasts weight. My roast was about 5 pounds so time had to be adjusted but absolutely melt in the mouth good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "M E Gainey"
+},
+"reviewBody": "Works really well - If using smaller roast you will need to reduce 1st cooking time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "sebishop"
+},
+"reviewBody": "Easy to make and the rub and rosemary are good compliments for this who love the taste of beef."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jeff"
+},
+"reviewBody": "This was fantastic. I use a digital thermometer and it makes everything so easy. I did cook it at 500 F for 30 minutes (5 mins per lb) but then I dropped it to 325 and kept an eye on the thermometer. I pulled it out at 126 F, covered it in tin foil and let it rest ~ 30 minutes (it was so hard to wait). The final temp was 137 F and on the rare side (we like it that way). \n\nGreat dinner!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Yummy"
+},
+"reviewBody": "I often find to follow someone else's recipes I have to tweak a little to be successful.\nI didn't have it warmed to room temp and I was cooking for a crowd and not sure if they were med-rare people so I took the chance and did the following:\n 500F for TWO hrs (versus 1 hr) then turned off oven for the 90 min recommended. I couldn't have been more pleased and yes I will make it again. It was succulent with just a hint of pink, melt in your mouth delish!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Vettle"
+},
+"reviewBody": "Tried this and I will never make it another way. I didn't use the dijon because it just didn't sound right - just kept it simple with salt and pepper. I had a 5lb roast that wasn't quite up to room temperature so I I put it in at 450 until it reached about 70 degrees on the inside. Then I turned it up to 500 and cooked it for 45 minutes and shut it off. I had the probe inside so I knew exactly when to take it out but it was about a 45 minutes later. Amazing! Perfectly medium. Medium rare would be easy though with the temp probe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JanineS"
+},
+"reviewBody": "I made this recipe for friends the other night and it turned out excellent. Everyone loved it including my husband who doesn't usually like prime rib."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laura Couch Strebler"
+},
+"reviewBody": "This was just about perfect for a 7 lb roast. I added 15 minutes in a 300 oven after 90 minutes because we like it a little more done, and it came out a perfect medium. Also, it takes around 6 hours for a large piece of meat to come to room temperature from the fridge. If you forget to put it out early (like I did), bring it to room temp before cooking by double bagging the roast in ziplock bags and submerge it in warm water for 15 or 20 minutes. You can check the internal temp with a meat thermometer to make sure it's around 70 degrees before cooking."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kitrinka"
+},
+"reviewBody": "We read many of the comments before trying this and finally settled on convection roast at 400 degrees for 45 minutes for a 4.79 lb. roast. Then we let it sit in the still hot but turned off oven for 45 minutes. It was PERFECT. Medium rare in the middle and both ends were medium."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "greg j"
+},
+"reviewBody": "We have used this recipe for years and Love it! The only thing we do different is to coat the outside with a layer of chopped fresh garlic because we are garlic freaks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Sheri"
+},
+"reviewBody": "It was great. Turned out perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ace-dog"
+},
+"reviewBody": "A perfect NO FAIL ALWAYS PERFECT recipe. Just make sure not to peek in the oven. I use a digital thermometer though to make sure the center is rare."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CoCo"
+},
+"reviewBody": "This was my first attempt at Prime Rib &amp; let me tell you, the whole family thought I was a pro... mom, dad, aunt, cousins, sisters, etc..\nGreat recipe and very easy! I didn't measure everything out, but followed the instructions as they were written. A meat thermometer is KEY to making your prime rib right."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "AnnaD"
+},
+"reviewBody": "Tasted good however it was way undercooked."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "JFHVT"
+},
+"reviewBody": "I would rate this a three only because I listened to others and used Montreal Seasoning on the outside and unfortunately it made the pan drippings way too salty to make a decent gravy. It cooked pretty much perfectly...I had a 15# boneless prime rib. I covered it and cooked it for 85 mins then left it in the oven for another 90 mins. The ends were pretty well done but the middle was rare and perfect. May try a long, slow roast next year w/ plain old salt and pepper so I can get a nice gravy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Blushing49"
+},
+"reviewBody": "First time cooking a prime rib. Made this recipe as written and it turned out perfect. No left overs!Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Maddy Leitch"
+},
+"reviewBody": "This roast was so good that my husband said he no longer has to take me out for Prime Rib. Quick and easy to prepare and the cooking times in the recipe are spot on."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dbiagioni"
+},
+"reviewBody": "I am not a cook - my Fiance is an amazing cook. I made this for him and my son on Valentines day and I knocked their socks off...it was SO SO Easy! We have shared this with many people. Thanks to my Best Friend Becky for sharing it with me."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lori"
+},
+"reviewBody": "Have made this numerous times. Mostly with bone in roasts. I add fresh rosemary and thyme to top of roast after covering with Dijon mustard. I also use the 5 mins per pound process for smaller roasts. I have covered and not covered roast - with same results. When I don't cover - the roast is a little more crunchy on the outside (which we like) Enjoy !! This is a definite keeper...."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Love2Cook"
+},
+"reviewBody": "I was disappointed with this method of cooking my expensive prime rib. It was too rare. My oven had cooled and too late to reheat it. We were so hungry we ate it anyway. Next time I'll cook it at the 500 temp another half hour."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mickey"
+},
+"reviewBody": "I made this almost to the letter of the recipe. I cooked it at 500 for 40 min's (5 min's per lb) Then shut the oven off for 2 hours and it was perfect. If you like your rare which we do. Will cook my prime rib like this every time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nancy"
+},
+"reviewBody": "I used the reviewer's suggestion of 5 minutes at 500 degrees per pound. I had a 4.2# roast that I sprinkled liberally with garlic powder and sea salt then rubbed it in with olive oil. I did not have any mustard. It was AWESOME. Perfectly Medium Rare, pink all the way through, and delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ldsventures"
+},
+"reviewBody": "I have never been happier with the results of a recipe in my life! I followed it to the letter and it was perfect. I have cooked many rib roasts but the meat never came out with the right taste or consistency. This was better than any I have eaten out. All I can say is thank you, thank you, and thank you, for this recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "DAKOTABEAR1"
+},
+"reviewBody": "I am an experienced cook and I have always wanted to try this recipe. It was disappointing for the following reasons. I had an 8 pound prime rib at room temp. I cooked for 40 minutes at 500 and left it for 90 minutes. The house was full of smoke (my oven is clean), the roast turned out to be medium well on the first 1/3 of the slice and rare in the end of the same slice ! I gues this is fine if you really want to have different degrees of doneness but I wanted medium rare throughout. I will not make it this way again. I will just roast it at 350 until the proper temp. Usually about 1.5 hours for a roast this size."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Penny O"
+},
+"reviewBody": "Easy! We were a little nervous about cooking a $90 prime rib for the first time, but it came out PERFECT!!!! We ordered a 10# roast with the bone on. We just took it out of the fridge 3 hours before roasting, sprinkled on some s &amp; p (didn't do the garlic or the mustard) and followed the directions exactly. I usually only care for the rare part of the meat, but on this roast even the well-done ends were succulent. The meat browns even though it's covered. The smell was incredible. Every person was \"oooohing\" and \"aaaaahing!\" Great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "eabelcher"
+},
+"reviewBody": "I used a 5 lb roast. I cooked it at 400 for 45 minutes and then let it sit for 45. Came out medium rare in the middle and medium on the ends. Perfect for me. I only checked on the roast once and that was right before I turned off oven. I followed all the same seasoning directions as in original directions. Not sure why other folks had an issue with meat not being cooked or oven smoking up the house (maybe an unclean oven?). My guest raved: \"This is the best!\""
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "DragonDog"
+},
+"reviewBody": "Just a thought....some people get confused when cooking a smaller roast with the 5 min/pound rule...that rule is for the 500 degree cooking part only, you then have to continue to cook it for 90 minutes after shutting temperature/heat off, in an oven that you NEVER open. Use an oven safe meat thermometer or your oven probe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Da Chef"
+},
+"reviewBody": "As rule of thumb I don't like this style of cooking prime rib. However, if you do make it this way it is very important that you take your roast out of the refrigerator at least an hour before cooking . . . two is better. I like to have the internal temp. at around 60 - 70 degrees when I put them in the oven."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "delish"
+},
+"reviewBody": "Cooked perfectly. Thanks for the tip! I would add ALOT more seasoning though.. I doubled what was in the recipe and it still didn't enhance the flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "karriec"
+},
+"reviewBody": "Excellent recipe! This is the best prime rib I have ever eaten! Tips: meat has to be at room temp before cooking and 5 min per pound at 500F does work ONLY if the meat is at room temp. Will make again and again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jessica"
+},
+"reviewBody": "For the seeming very frustrated simplicity123, I am giving this recipe a 4 star due to the reason's you mentioned to this recipe. Not because it is a bad recipe but it seems to me that the recipe might not include a bit of information about this cut of meat that is important: it is traditionally served extremely rare, hence the very high temperature for a short period of time. (my mother adds a bit more depth in flavor by searing the cut off very quickly on a high grill first before setting it in an oven YUM) Anyway, despite tradition if you like it more well done, do so to your taste of course =) however, I would suggest that you leave the foil ON the meat to speed the cooking process as the very high temperature of the oven will, indeed, scorch the fats and smoke out your kitchen (HAHAHA, fire alarm time, one of the joys of learning to cook, no?) Hope I helped, and that you wont be discouraged from trying this recipe again as its a tasty one."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "GPOSBORN"
+},
+"reviewBody": "Excellent! I took the advice of others and cooked 6 minutes per pound at 500 degrees since I had a 7 lb. roast. I also rubbed the roast with 1 tsp of each: salt, pepper, garlic powder &amp; onion powder. Will definitely make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "TammyD"
+},
+"reviewBody": "This was the best prime rib I have every made!!! The family loved it...."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Cooked perfectly. The only addition that I would make is to add more herbs such as rosemary and thyme or your favorite, and insert a meat thermometer in the middle of the roast to determine when to remove the meat from the oven (rare=125F, med rare=130F, med=140F, med well=150). The meat will be more done towards the sides, so give those cuts to those who like the meat done more than the middle cuts.\n\nSome reviewers (e.g. simplicity123) did not follow the directions and complained that the roast wasn't cooked. You have to turn the oven off after cooking for 5 minutes / pound and leave the roast in the oven for 90 minutes to finish cooking. Adjust the cooking time for how you like it (rare, medium rare, medium). Use a meat thermometer!\n\nThe only reason that I gave this recipe 4 stars instead of 5 is because I like more herbs. Rosemary and thyme go wonderfully with dijon mustard."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "earwigsmom"
+},
+"reviewBody": "I will never cook a prime rib any other way. Foolproof, however you season the meat!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Kai"
+},
+"reviewBody": "We made this for Christmas dinner, and after following the directions exactly, we ended up with an almost raw piece of meat. After researching and reading the reviews, I think we determined the problem - it seems to not work with a gas oven. I think a gas oven cools off a lot more quickly than an electric one. Our roast was salvaged - we just turned the oven on 375 again and roasted it for about 45 more minutes and it came out fine. So, I would NOT try this if you have a gas oven."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mr. drinky"
+},
+"reviewBody": "I wasn`t sure about the mustard because I`m not a fan.But I follwed the recipe and wasn`t disappointed."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ellen"
+},
+"reviewBody": "Made this for xmas dinner. I started with a 14 pound roast which was 5 ribs. I did what another reviewer suggested and used the 5 minute per pound rule and put it into a 500 degree oven for 70 minutes. I had a thermometer in the oven with the panel on the outside and the temperature had dropped below 120 within 45 minutes after I turned the oven off. I have a gas oven and am wondering if they are worse at holding residual heat than electric ovens. I turned the oven back on to 225 and left it there for the remaining 45 minutes. Despite the oven cooling and having to be reheated, the roast was fabulous!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "steverf"
+},
+"reviewBody": "This is great and quick have used this recipe the last 4 New Years and it is always great, though I have had to adjust the time a few minutes due to the size we usually do but always a great Prime Rib"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rita"
+},
+"reviewBody": "Loved this recipe but I had to change the roasting method because I realized that I would not have been able to bake my appetizer since the oven could not be opened! Glad I thought of that before I started! I wanted to mention that we LOVED the seasoning with the mustard. I cooked a 7.5 lb roast and I stuffed in 8 garlic cloves slivered, sprinkled with Montreal Steak Seasoning and the Dijon mustard. I laid fresh thyme sprigs on top. Roasted in covered pan @ 500* for 20 minutes, uncovered and continued @ 350* about 15 mins per pound. It was very rare and everyone LOVED it!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MTRATTNER"
+},
+"reviewBody": "Did it for 7 minutes per pound at 500 degrees. Then turned it off and left it for the 90 minutes. It didn't get cooked well enough so bumped it up to 350 for a few additional minutes. Had a thermometer in it so we could monitor it through the window without opening the door. Was a great recipe and a big hit with all for Christmas dinner. Will be repeating it for sure."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "kengell"
+},
+"reviewBody": "I tried this method but I was afraid the prime rib would not cook. Here are my facts. I had a 4.22lb prime rib roast with the ribs cut off and tied back on. I used a gas oven and I did not open the oven at all. I cooked the prime rib at 500 ° for 25 mins before turning the oven off. I inserted a remote thermometer from the begining. I didn't realize I could see my oven temp thermometer through the door until the oven had been off about an hour and 15 minutes and the oven temp was only 125 and the roast was only 112 degrees. I then turned the oven on to 300° and when the roast temp reached 135° I removed it from the oven. While resting the temp continued to climb to 143°. I have times and temps throughout the cooking period, but I can't display it, because allrepices will not allow the formating. Rst turned out very good, if you like it medium. I would have perfered it more bloody, I should have removed it from the oven sooner or not turned the oven up to 300, maybe only 250° would have worked."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tamara"
+},
+"reviewBody": "I love this recipe, I made it 2 weeks ago and my husband who is very picky loved it he said it was better then any restaurant prime rib he has ever had! OOThis recipe is very simple too! I have a 10 week old daughter and a 4 year old daughter, the prep took no time at all and the end result was fabulous!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bahoogina"
+},
+"reviewBody": "I have been making prime rib this way for several years now. It is always a huge hit! Any newcomers to our holiday parties are incredulous as to how unbelievably easy this is to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CHRYS7"
+},
+"reviewBody": "This really works! Turned out perfectly! Takes all the guesswork out!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SCKL"
+},
+"reviewBody": "Nothing Wrong With Directions, I Had No Problems With My Convection Oven. Great Recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "geraci"
+},
+"reviewBody": "We cooked a 7 lb prime rib and cooked it for 5 minutes per lb at 500 degrees and then let it sit for 1 hour in the oven with the temperature turned off never opening the door. Then we let it sit out for 15 minutes before slicing and it was one of the best prime ribs we have ever made. We seasoned it with garlic salt, pepper and garlic seasoning. PERFECT!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Dot"
+},
+"reviewBody": "Have a newer oven, let roast set out for an hour (room temp.), cooked 500 degrees at 5 min. per pound, let rib roast set in unopened oven for 90 minutes. Outside was perfect, inside wasn't even 130 degrees. Had to turn oven back to 325 degrees and cook about an 1 hr longer to reach rare temp."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Capiz Greene"
+},
+"reviewBody": "I have ruined very expensive prime ribs in the past, so I was anxious to obey all the rules of this recipe. I have to say it was the absolute BEST prime rib I've ever cooked! My husband who is quite the steak connoisseur actually reacted with a surprised, delighted \"This is better than any restaurant prime we've had!\" I created a paste of mesquite, italian and various other savory spice seasonings with olive oil, coated the entire prime and then followed the recipe. Just before serving, I warmed it at 350 for 15. PERFECT medium rare...and TENNNNNDER!!! MMM!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Charla"
+},
+"reviewBody": "The BEST. Even better than some restaurants who seem to treat this like a regular roast. The key is DO NOT open your oven after the specified cooking time! Leave it in there for the 90 min. without peeking! I've made this without letting it come to room temp and is still very good. Prime rib isn't supposed to be done all the way thru..well, not well-done. Have made it this way using a cranberry mustard too. yum. I always give this recipe when asked how in the world I got such a good prime rib. Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Liz"
+},
+"reviewBody": "I made this yesterday for Christmas. I was afraid to use the dijon because I didn't know if my guests would like it. I was freaking out over cook times. I looked in several sites, here, and then also tried Martha Stewart and Food Network. I went with Stewarts as far as bringing the 10 lb roast that I used, to room temp for TWO HOURS. I put the roast in a 450 degree oven for 15 minutes, then dropped the temp to 325, for 1 hr 45 min., inserted thermometer and it was at 140 degrees. Took it out let it sit about 20 min and it was perfect medium rare. Seven people devoured a 10 lb roast. No leftovers"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Emily Tisdale"
+},
+"reviewBody": "The secret is making Prime Rib for 2. Use the basics listed here on a four lb. roast...pop into a 450 degree oven, reduce heat to 350 and cook 20 minutes per pound. Let rest 15 minutes....Carve off the bone and make Prime Rib Soup with it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KATE250922"
+},
+"reviewBody": "I have used this recipe for the past 8 years and it always comes out perfect, not a problem!!! Paired with horseradish sauce, delicious!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lynn G Meshew"
+},
+"reviewBody": "This is a wonderful recipe! I have tried several versions of cooking prime rib with many of the recipes on All Recipes. What I would suggest to ALL, is placing FRESH rosemary atop the roast. I donn't see rosemary in any of your resipes. Amazing! I would Never cook a prime rib without using rosemary."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bre"
+},
+"reviewBody": "I've coooked my roasts this way for years, but make a rub of dry mustard and butter. The trick (sipmplicty 123) is DO NOT OPEN THE OVEN DOOR until the cooking time is done and it has been left in the oven for a further hour........by opening the door you distrub the cooking process, be patient........I cook for Med rare, 9 min per lb at 500......then let it sit for an hour......and yes you will have some smoke......but don't panic. (rare cook for 7 min/lb for well done 10 min/lb."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Darlene Baryluk"
+},
+"reviewBody": "I thought this roast was amazing! My guests were raving about it all night. The mustard gives that extra \"oomph\"! Not only that, but it was soooo easy! For those who had trouble with it being undercooked I would suggest a meat thermometer. I too had issues with the cooking time but since ovens are different and some prefer there beef cooked \"a little more\" I always trust the meat thermometer. Super recipe. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lyds"
+},
+"reviewBody": "Best prime rib I have ever cooked."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LITTLEPAW"
+},
+"reviewBody": "I've cooked my prime rib like this for years with awesome results. ALWAYS allow the roast to come to room temperature before placing into the oven. I don't use the mustard, and I generously cover the roast with McCormicks Steak seasoning salt. I also have a remote thermometer that allows me to keep a close eye on what my roast is doing. Our family always requests that I cook the roast!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Robbie"
+},
+"reviewBody": "This sounded so good, but cooking it this way didn't work for me. I had a 4 lb roast and cooked it 5 min per pound and let it sit for 90 min. It was not done. We like rare, but this was way too rare! I had to cook the slices on the stove to finish them up. Also, I didn't like how the mustard crust wasn't crispy. It was soft and soggy since the pan was covered. Without a lid it would have crisped up nicely. I'll keep looking for a prime rib recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ionacaddy"
+},
+"reviewBody": "I let the roast come to room temperature, rubbed it with Kosher salt, didn't use the mustard and left it in just a couple of minutes longer. It came out absolutely PERFECTLY medium rare. I no longer have any fear of spending such a large amount of money on a cut of meat. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Amee"
+},
+"reviewBody": "I have never left a review and I have used many recipes from this website. I was very nervous after reading everyone's review. I made the prime rib exactly as described (5 min/lb) and then let it set for 90 min, and perfection. Everyone loved it!! Thank you for a great experience!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "namedmike"
+},
+"reviewBody": "I've used this recipe many times on various sizes of meat and it always comes out perfect. I follow the directions (60min./10= 6 min/lb. cooking,90min./10= 9 min/lb.) I keep my oven clean and have never had a problem with smoke."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Quincy"
+},
+"reviewBody": "Made for Christmas Day, it was Fabulous. I'm just starting to experiment cooking with herbs, I LOVE thyme now. Thanks for a great recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rbell2302"
+},
+"reviewBody": "I used this recipe last year &amp; loved it. I had never cooked a prime rib roast before &amp; it was absolutely perfect. In reading some of the other reviews, it seems like the people that didn't like it couldn't leave the oven door closed. The 5 minutes per pound rule works @ 500 degrees &amp; 90 minutes after that &amp; DON'T PEEK !!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Craig J. Doucette"
+},
+"reviewBody": "I used a meat thermometer all during cooking. After rubbing with dijon and a good sprinkling of montreal seasoning I put my 4lb. roast in a 500 degree convection oven for 30 minutes and turned off the oven until my thermometer read 145 degrees, approx 2 hours. It was wonderfully rare with a crusty covering over the largest side of the roast. The roast rested 20 minutes before carving to let the juices redistribute throughout. My guests loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "blondegermanfemale"
+},
+"reviewBody": "I used this recipe for two years in a row. The first year it turned out perfectly, and the second year I ended up with a raw prime rib and a lot of frustration. The difference... the first year I used an electric oven and the second year I used a gas oven. My gas oven didn't retain the heat the same way my electric oven did. If you have a gas oven, you may want to make sure this recipe will work for you. I've sadly had to find a new way to cook my prime rib, now that we have a gas oven. Just a word of caution!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "LISAMET"
+},
+"reviewBody": "I would omit the dijon and also cook this at 280 degrees F for a good 2-3 hours or until it is at a medium rare state. It comes out much tender cooked slower and longer.\n\nMake a batch of au jus in a pot, and if someone wants the meat more well done, place it in the au jus and simmer it in that until it is where they desire. My father used to sell this as a dinner at his deli with a baked potato, roll and tossed salad - and it would never fail that they would sell out of it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Russ"
+},
+"reviewBody": "USED THIS RECIPE LAST NIGHT FOR A BIRTHDAY DINNER. HAD TO TURN OVEN BACK ON BECAUSE I DIDN'T ALLOW ENOUGH TIME. STILL THE BEST RIB ROAST I HAVE EVER COOKED. 5 STARS"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lynzi"
+},
+"reviewBody": "This is a great recipe...HOWEVER&gt;&gt;&gt;&gt;if you open the oven door at all, you totally ruin your effort. The cooking is managed with the high heat of the oven and the time lapse. This meat is too expensive to not investigate the method if you are unsure."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "nf"
+},
+"reviewBody": "I have used a similar recipe for years- we call it never fail roast beef- cause you can't go wrong. It needs to be made clear that \"standing prime rib\" means BONE IN!!! I sometimes buy a boneless rib roast-when on sale and then buy the bones seperatley and have the butcher tie them on! It also makes it much easier to carve. The bones hold the heat when you turn the oven off and they continue to cook the roast. This is the reason people in previous negative reviews had undercooked meat."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Popo"
+},
+"reviewBody": "After reading some of the reviews, i was skeptical of the outcome of this recipe, but i got the courage and tried it 2 nights ago. I made a few mods to the cooking time though, keeping in mind that i have an electric oven...I had a 12lbs pork ribs, i had them cook @ 500 for 60 minutes, then i turned off the oven and let the oven do its magic, after an hour and 15 minutes, i turne the oven back on to 250 degrees and had it cook for anothe 30 minutes and turned it off and let it sit in the oven for 10 minutes. DO NOT OPEN THE OVEN DOOR! the ribs turned out PERFECT!!!! My friend said those were the best ribs he had, i personally thought it needed a little more flavor. but the outcome of the meat texture was really an A++"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Marc"
+},
+"reviewBody": "I didn’t have any dijon in the pantry so I tried horseradish mustard mixed with a little honey. It was ok but I would stick to dijon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Debbie"
+},
+"reviewBody": "The meat was great. The smoke that the fat caused wasn't. It was a Christmas day to remember."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sue"
+},
+"reviewBody": "I made this for New Years Eve dinner for our family. It was fabulous and tasted just like a restraunt's. Get your roast from a good meat market. OMG though, this cut of meat is so greasy. Not when you eat it but the cleanup! It took me twice as long as normal to clean up the kitchen afterwards!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shelly J."
+},
+"reviewBody": "Turned out really well! I let the seasoning sit on prime rib overnight. WAS AWESOME"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "recipe good. i just didn't trust that it would be done at 145. my husband bought the cut of meat and chopped it in half. ended up only having a 1.5 pound rib to cook tonight. i had no idea how to adjust the cooking times and temps for such a small cut of meat so i followed others' suggestions. i baked at 500 for 10 minutes (5 min/lb) and had the meat therm in it the whole time. shut it off at 10 min and let it go till it climbed to 150 (about an hour). i was afraid of under cooking it and i shouldn't have been. the taste was good with the garlic and mustard, but it was definitely over cooked :( at least we have the other half to do better on. thanks for the good recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Keri"
+},
+"reviewBody": "This recipe was GREAT! So easy and delicious. I was a bit hesitant with the dijon mustard, but it was great. I cooked my 5lb for 30 min at 500 and let it sit for 1 1/2 hours after shutting the oven off. It was a bit rare. Next time I will do the 5 lb. for 45 min. at 500 and then let it sit for about the same time. Everyone loved it and it was soo easy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carolina"
+},
+"reviewBody": "This was a hit for those who liked their prime rib well done. I like mine on the rarer side. I didn't have any problems with smoke, however next time I will reduce the time that the roast is in the oven. I used a 4 lb roast and will not peak for 60 minutes. Although it was cooked more than I would have liked, it was still very tender."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "maegan"
+},
+"reviewBody": "When I bought the prime rib, I had absolutely no idea on how to cook it. I logged on to allrecipes.com and found this recipe. I admit that I was skeptical (mustard on a $100 cut of meat??) but I told myself to trust the process, my peeps at allrecipe.com have yet to fail me and I'm glad I did! This was by far the best prime rib I have ever had. I followed the cooking directions to the letter (this is a MUST) and it was hard not to open the oven during the 90 minute wait but I made it through and with spectacular results! I used horseradish mustard and montreal steak seasoning instead of what the recipe called for. Yes, there was smoke but I knew what to expect (this is why I read reviews) so it was not big deal, just open a few windows and kick on the ceiling fan. My husband thought I was crazy with the mustard so we made two prime ribs - he smoked one and the one I made - mine was the hands down favorite - try this recipe, you won't be disappointed!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Barbara Bonney"
+},
+"reviewBody": "Don't know where I went wrong! I read all the reviews. Put my 5 lb roast in the oven at 500 for 25 minutes then let sit for 90 min or so. Came out cooked about 1\" into the meat and the rest was absolutely raw. Then baked at 350 for 45 min hoping to save this $55 roast - but no luck. I'd never try this method again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Prairiefire"
+},
+"reviewBody": "Here's the lesson I learned for this recipe: Use a meat thermometer BEFORE you put the roast in the oven to make sure that the meat is at room temperature (70 degrees) inside and out. I took my roast out of the frig two hours before I intended to start it cooking. When I went to put it in the oven, the interior temperature was still 41 degrees. I am supposing that is why my 6 1/2 pound roast was not done after 35 minutes at 500 degrees and 90 minutes in a brand new, tightly closed oven. \n\nWith more cooking, it tasted great. The mustard and garlic proportions are just right for our tastes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "djk716"
+},
+"reviewBody": "I used this recipe for Christmas dinner and adjusted according to reviews. I had a 4.6 lb roast. I cooked it at 500 for 22 minute and then let it sit for an hour without opening the oven. I had a meat thermometer in it while it was cooking and it was only 95 degrees after 60 minutes. So I cooked it at 375 for an additional 45 minutes (until the meat thermometer reached 140). I took the roast out of the oven and the outside did not sear and the color was not very appetizing. I am not sure if my oven door did not seal properly or if the roast should have been at room temperature before cooking. I'll try this again but I will not use as much dijion mustard if any at all. Meat was very tender but did not come out medium rare. Was more like medium."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Boycook"
+},
+"reviewBody": "I tried this recipe with a 5 pound roast, cooked for 30min then left in for 60min. Roast was not done yet (130f), cooked for an additional 20 minutes at 375 and roast was medium-rare(140f). Flavor was excellent (I did rub with \"Famous Daves Steak and Burger Seasoning\" before applying mustard)!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Valarie Jeyne Davies"
+},
+"reviewBody": "Great recipe. It was a hit with my teens and boyfriend. This was a run thru for Christmas eve. I used a 4lb standing roast. As suggested, I cooked it at 500 for 20 mins. Let sit in the oven for 60 minutes. It was a little too rare for us, I will let it sit in the oven for an additional 15-30 next time. \nI used jar minced garlic rather than fresh and at least a half cup of dijon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "2kids4me"
+},
+"reviewBody": "Excellent ideas in this recipe. I cooked the roast 5 min per pound at 500 and then left it sit for 90 min in the oven. I didn't have any mustard, so rather than the seasonings, I used Montreal Steak seasoning. I made a basic au jus to finish the slices to peoples liking. it was a hit. There was very little leftover. What was left, was so tender, it could be eaten cold."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bernadette"
+},
+"reviewBody": "This was so good my family has requested it for Christmas dinner this year. Using a meat thermometer is the key. I did not use mustard I used garlic and steakhouse pepper blend mixed with olive oil."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "KYBOSCH"
+},
+"reviewBody": "I highly recommend this recipe. It was my first time cooking prime rib and I was very apprehensive about leaving it alone in the oven. I followed the 5 min. per pound rule for my 5 pound roast (25 min. at 500 degrees) and then turned off the over and left it for 60 min. instead of 90. Also, I did mine in a cast iron roasting pot, lid on, in a regular oven.\nI also tented it in tinfoil and let it rest for 15 min. after removing it from the oven. It came out medium/well put was super moist. Perfectly cooked. If you want it a bit more rare, maybe cut down the time a bit more. \n\nAn excellent and easy way to cook prime rib!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ELJ616"
+},
+"reviewBody": "Excellent"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Nicole Bergstrome"
+},
+"reviewBody": "Made it exactly as shown...turned out PERFECTLY!! YUMMY!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/9381/prime-rib/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/80/main-dish/",
+"name": "Main Dishes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/258/main-dish/roasts/",
+"name": "Roast Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/9381/prime-rib/",
+"name": "Prime Rib"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

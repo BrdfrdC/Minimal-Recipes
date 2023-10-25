@@ -1,0 +1,342 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Teriyaki Chicken with Mushrooms and Broccoli"
+,"datePublished": "2018-09-05T09:03:00.000-04:00"
+,"dateModified": "2018-09-05T09:03:00.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "T-fal"
+,"url": "https://www.allrecipes.com/cook/t-fal"
+}
+]
+,"description": "This quick and easy (and only one-pot) teriyaki chicken with mushrooms and broccoli is a perfect weeknight dinner with a side of steamed rice."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/J1gkM0jP7RJgcZQQmEGF8VAc5oI=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5679011-fe131d11c14e4dcd9fbcf53faba1eb4d.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Teriyaki Chicken with Mushrooms and Broccoli"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.1",
+"ratingCount": "20"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "206 kcal"
+,"carbohydrateContent": "14 g"
+,"cholesterolContent": "59 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "26 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "971 mg"
+,"sugarContent": "8 g"
+,"fatContent": "6 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"0.5 cup soy sauce",
+"0.5 cup rice vinegar",
+"3 tablespoons honey",
+"2 teaspoons sesame oil",
+"4 teaspoons fresh ginger, minced",
+"4 teaspoons cornstarch",
+"4 cloves garlic, minced",
+"1 tablespoon olive oil",
+"2 pounds boneless, skinless chicken breasts, cut into 1-inch pieces",
+"1 pound broccoli florets, chopped into bite-sized pieces",
+"1 (8 ounce) package sliced mushrooms" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Mix all the sauce ingredients in a medium size bowl until completely smooth."
+} ,{
+"@type": "HowToStep"
+,"text": "Add the olive oil to the bottom of a fry pan and heat to medium high. Add the cut-up chicken and cook until the chicken is golden brown and almost cooked through, about 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Add the sauce to the chicken and toss until all the chicken is coated. Add the broccoli floret pieces and sliced mushrooms to the chicken mixture; stir until coated. Let the chicken and veggie mixture simmer for about 10 minutes."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT40M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "annabeatty"
+},
+"reviewBody": "Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "pattypb1056"
+},
+"reviewBody": "As much as I love Rice Vinegar, I agree it was a tad too much. Otherwise flavor was good. I normally don't follow a recipe but glad I did to discover a twist on my usual."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Michael Genson"
+},
+"reviewBody": "Tastes great with a few modifications. I recommend adding toasted sesame seeds per the main photo. I also added scallions for authenticity.\n\nA lot of the comments mentioned that the teriyaki is so-so. I added 4 tsp of brown sugar and it came out perfect."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kylee Warton"
+},
+"reviewBody": "WOW is all I can say for this recipe! I cooked this for my family and everyone absolutely loved it. I got a ton of compliments and greatly enjoyed it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Bernadette Meyers"
+},
+"reviewBody": "Love this healthier version of Teriyaki chicken. The ginger really does add to this dish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Neil Darius Bryan"
+},
+"reviewBody": "it was good bit salty but a good easy make i did not use the mushrooms"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "JoAnn"
+},
+"reviewBody": "I just wasn't that I'm pressed. It wasn't horrible, but it wasn't fantastic either. I followed the recipe to a tee and can't really complain about anything. Just not for me. Doubt I'll make it again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "PPK"
+},
+"reviewBody": "It was ok, but we've made better just by putting a little of this &amp; that together. Not much for flavor &amp; certainly didn't taste like a teriyaki sauce for us. Won't be making again. It was easy to make &amp; didn't take much time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "tigereye10"
+},
+"reviewBody": "I added alittle brown sugar as others suggested i thought it was pretty good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "L. Brewster"
+},
+"reviewBody": "I liked this recipe except for the vinegar. If I make it again I'll cut the vinegar in half. Just a little too tart for my tastes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Jackie"
+},
+"reviewBody": "Not sweet enough for teriyaki. I would add more sugar if I make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Vermontr"
+},
+"reviewBody": "Flavor burst! Easy to make and we loved it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Karen Williamson"
+},
+"reviewBody": "Great dinner. Added brown sugar to mixture to sweeten it up and decrease soy flavor slightly. Also used caned mushrooms. Delicious"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jane Ellis"
+},
+"reviewBody": "Easy and tasty. I will cut back on the vinegar next time, perhaps add scallions."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Gaga"
+},
+"reviewBody": "I found the chicken to be a bit dry, but the sauce was terrific. I would definitely serve it with rice the next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Poetrywrtr"
+},
+"reviewBody": "I make stir try\n Every once in awhile but have never made chicken terriachy spel? Before. I have a good friend in rehab and love making\n him homemade suppers. So tonight this is what he had. He says he loved it. I thought it was very good. Thanks for your recipe. i will use it again. P.s. Didn't change but one little thing. I like lemongrass so put in some of that."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/267813/teriyaki-chicken-with-mushrooms-and-broccoli/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/16954/main-dish/chicken/",
+"name": "Chicken"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/15938/main-dish/chicken/chicken-teriyaki/",
+"name": "Chicken Teriyaki Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/267813/teriyaki-chicken-with-mushrooms-and-broccoli/",
+"name": "Teriyaki Chicken with Mushrooms and Broccoli"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

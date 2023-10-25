@@ -1,0 +1,157 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Air Fryer Beef Tenderloin"
+,"datePublished": "2020-05-09T16:03:29.000-04:00"
+,"dateModified": "2023-03-20T13:51:50.463-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Buckwheat Queen"
+}
+]
+,"description": "This air fryer beef tenderloin recipe is tender like filet mignon and has a lovely crisp crust perfectly seasoned with oregano, salt, and pepper."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/rrfdlUJJPCPlG6-T3yRchHb5XBM=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8155402-603030ca447a47eaa24bf927cecac747.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Air Fryer Beef Tenderloin"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "2"
+}
+,"cookTime": "PT35M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "235 kcal"
+,"carbohydrateContent": "0 g"
+,"cholesterolContent": "90 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "32 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "358 mg"
+,"fatContent": "11 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+, "recipeCategory": ["Dinner"]
+,"recipeCuisine": ["American"]
+,"recipeIngredient": [
+"2 pounds beef tenderloin, at room temperature",
+"1 tablespoon vegetable oil",
+"1 teaspoon dried oregano",
+"1 teaspoon salt",
+"0.5 teaspoon cracked black pepper" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat the air fryer to 400 degrees F (200 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Pat dry tenderloin with paper towels and place on a plate. Drizzle oil all over meat, then sprinkle with oregano, salt, and pepper. Rub spices and oil into meat. Place into the preheated air fryer basket, folding as needed to make it fit. Close the lid."
+} ,{
+"@type": "HowToStep"
+,"text": "Reduce heat to 390 degrees F (198 degrees C) and cook for 22 minutes. Reduce heat to 360 degrees F (182 degrees C) and cook for 10 more minutes. An instant-read thermometer inserted into the center of tenderloin should read 135 degrees F (57 degrees C) for medium doneness."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove tenderloin to a platter. Allow to rest, uncovered, for at least 10 minutes before serving."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT50M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Judy Wajda Karcher"
+},
+"reviewBody": "I make this recipe every year for Christmas and it turns out perfect every time. If my tenderloin is too big I cut it in half and use 2 air fryers."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tosawi Pena"
+},
+"reviewBody": "Used Buffalo Meat it was amazing!!!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/280268/air-fryer-beef-tenderloin/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/",
+"name": "Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1642/everyday-cooking/",
+"name": "Everyday Cooking"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/280268/air-fryer-beef-tenderloin/",
+"name": "Air Fryer Beef Tenderloin"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

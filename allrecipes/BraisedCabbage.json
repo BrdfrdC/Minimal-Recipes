@@ -1,0 +1,440 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Braised Cabbage"
+,"datePublished": "2020-06-19T00:04:49.000-04:00"
+,"dateModified": "2023-01-10T04:11:53.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Mark"
+,"url": "https://www.allrecipes.com/cook/3955042"
+}
+]
+,"description": "Buttery braised cabbage with caraway seeds, onion, vinegar, and sugar is a flavorful and versatile vegetable side dish that pairs well with any roast."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/d4a2zEt9TqmPJAYPWeolmRxAp7o=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4462999-129c27b2ee7d406b88bccc7f7d10ce0d.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Braised Cabbage"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.6",
+"ratingCount": "32"
+}
+,"cookTime": "PT25M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "77 kcal"
+,"carbohydrateContent": "10 g"
+,"cholesterolContent": "10 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "2 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "435 mg"
+,"sugarContent": "6 g"
+,"fatContent": "4 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"2 tablespoons butter, or more to taste",
+"0.5 head cabbage, cored and cut into 1/4-inch slices",
+"0.5 onion, cut into 1/4-inch slices",
+"1 cup water",
+"1 tablespoon white vinegar",
+"1 tablespoon white sugar",
+"2 teaspoons caraway seeds",
+"1 teaspoon salt" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Melt butter in a large skillet over medium heat. Cook and stir cabbage and onion in butter until onion is translucent, about 5 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour in water; add vinegar, sugar, caraway seeds, and salt. Reduce heat to low and cook, stirring occasionally, until cabbage is tender, 20 to 25 minutes."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT35M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Sooo nice. Didn’t have caraway seeds but it would have put my kids off anyway. Also used regular vinegar. Recipe produces lots of veg that is easy to eat, goes with anything and also re-heats nicely. Will make this weekly."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dan Campbell"
+},
+"reviewBody": "I made this because I had some leftover raw cabbage from another dish. Very good. The only thing I did to it was to add about 4 strips of bacon to it. Very good flavor and not strong on sour or sweet but just right. I would defiantly make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "prncpl"
+},
+"reviewBody": "I made this pretty much as written as a side dish for quickly browned pork tenderloin 'medallions,' and everyone said it was yummy. Glad I have leftovers! I was the only one who knew what caraway is (Milwaukee German background.)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Rosie"
+},
+"reviewBody": "Very Good. Cabbage lovers will enjoy this one. Basic, old fashioned braised cabbage and very simple to prepare. I was out of white vinegar so I substituted asian rice vinegar and used less white sugar. This recipe was quick, easy and delicious.\nRH, NY"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carm Moscarello"
+},
+"reviewBody": "Great I added sweet potatoes and it was tasty. Family liked it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Laura B."
+},
+"reviewBody": "I used the exact same ingredients but the caraway seeds and vinegar were over powering."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "mur_bren"
+},
+"reviewBody": "I was looking for a savory, all-season recipe to use with green cabbage (not savoy) - and I think this is it. Great recipe. I cut the sugar to a teaspoon bc of personal preference.\nThe cabbage is also fantastic the next day made into a hash with potatoes/eggs."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "rachelmiller"
+},
+"reviewBody": "I didn’t have caraway seeds, but this was very tasty with corned beef and potatoes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mikey Tarts"
+},
+"reviewBody": "I made this twice; the recipe was simplistic enough that I didn't refer to printout the second time around! While I didn't make any alterations, per se, I went by \"feel\" for the acid and sugar. The best part about this recipe is that it's reminiscent of braised red cabbage, but without the napkin/tablecloth/apron/wooden-spoon stains! I would make this again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "E.J. B"
+},
+"reviewBody": "Absolutely delicious. Thank you for this recipe! This was my first time ever attempting to cook cabbage. This recipe made it really accessible. I made a few tweaks, based on my love of spices and full-bodied flavor:\n-I doubled the basics —whole onion, whole cabbage, 4 Tbs butter, 2 c water, 2 Tsp Kosher salt\n-I pumped up the vinegar bc I love it so much (and it is so good for you): 3 Tbs apple cider vinegar + 2 Tbs strawberry balsamic \n-Used 3 Tbs vs 2 (when doubling) of whit sugar, which turned out to be a great ratio with the sweeter vinegars\n-After melting the butter, I put in the following spices: ground black pepper, celery seed, turmeric, smoked paprika and a bay leaf. Stir and let the spices bloom in the hot butter to create an excellent flavor base\n-I sautéed the (red) onion for a good 10 minutes prior to adding the cabbage\n-Took time to soften down the veg mixture before adding the water, vinegar, sugar and salt\n\nWith the extra vinegar, it turned out almost like a rich soup/borscht, and was absolutely delicious and so healthful eaten right from a bowl. Great suggestion to pair with rye bread. I will play with this by adding sliced tart apples, raisins, and using red cabbage. Cheers!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "tubarn"
+},
+"reviewBody": "This was delicious I didn't have caraway seeds but followed the rest of the recipe exactly as written. It was delicious! I couldn't stop eating it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "EmK"
+},
+"reviewBody": "Great recipe! My husband and I loved this. It was simple, fast, and had tons of flavor. The only thing I changed was to carmelize the onions a tiny bit before adding the cabbage in order to add more depth of flavor. Definitely a keeper!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Leah Woodward Wiley"
+},
+"reviewBody": "I love this recipe! It’s the first pan of cabbage I personally made that I enjoyed! LOL! The vinegar and sugar are everything. I used 1/2 a cup of water instead of a whole cup and I simmered for 10 minutes instead of 20-25 because I don’t like my cabbage to be very soggy. I also added carrots for both taste and color (I didn’t have caraway seeds on hand). In the future I’ll also add more onion. Love it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "laughing tree frog"
+},
+"reviewBody": "Yummy with rye bread"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Danny Hughes"
+},
+"reviewBody": "Fantastic as is recipe. Puts cabbage into a whole new light, this is now my favourite way to cook it. Don’t change a thing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Susan Koehne"
+},
+"reviewBody": "Easy to make, served it with pork and apples and used the leftovers in pastrami and Swiss sandwiches. So delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "margie"
+},
+"reviewBody": "no changes"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Dana"
+},
+"reviewBody": "Spectacularly good for you, traditional, easy to follow recipe, what more can one want? I didn't have any caraway and substituted fennel. Good too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Al & Al"
+},
+"reviewBody": "I made this recipe exactly as written with the exception that I accidentally added twice as much onion as it called for. I personally despise onion, so I was quite worried about how it would turn out – but it was delightful."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Nancy"
+},
+"reviewBody": "Sorry - this wasn't a hit in my home. We prefer just cooking the cabbage and onions in butter, olive oil, and salt and pepper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "afton"
+},
+"reviewBody": "Nice easy dish that I remember my grandmother making. My daughter came in the house with a smile saying the \"house smelt so good\". Good thing I had caraway seeds in the back of the spice cabinet."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Chef Mo"
+},
+"reviewBody": "This recipe is perfect! We loved the sweet and tangy flavors that married together on the stove while on low. It would be great with some beef! We had it along with salmon for a healthy meal. Everyone wanted seconds!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "KANDIYOHIV"
+},
+"reviewBody": "This is just a basic solid cabbage dish. It's better than boiled and not as greasy as fried. The vinegar, sugar and caraway seeds add good flavor and a bit of tanginess."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "nanny129"
+},
+"reviewBody": "great recipe- quick- easy and goes with almost any entree"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/245996/braised-cabbage/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/81/side-dish/",
+"name": "Side Dish"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/225/side-dish/vegetables/",
+"name": "Vegetables"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/245996/braised-cabbage/",
+"name": "Braised Cabbage"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

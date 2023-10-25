@@ -1,0 +1,176 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Green Tomato Mock Mincemeat Pie"
+,"datePublished": "2020-03-05T00:12:09.000-05:00"
+,"dateModified": "2020-03-05T00:12:09.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "TopDog"
+,"url": "https://www.allrecipes.com/cook/888073"
+}
+]
+,"description": "Green tomato and green apple mincemeat pie is a sweet addition to the holiday dessert table."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/-qEZaGo8htX2FKMOq8oHxCHyOz4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4585575-733c07abd8ae40ba9daafa5bcc822535.jpg",
+"height": 1120,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Green Tomato Mock Mincemeat Pie"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.7",
+"ratingCount": "3"
+}
+,"cookTime": "PT60M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "402 kcal"
+,"carbohydrateContent": "62 g"
+,"cholesterolContent": "4 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "4 g"
+,"saturatedFatContent": "5 g"
+,"sodiumContent": "405 mg"
+,"sugarContent": "38 g"
+,"fatContent": "17 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"2 cups chopped green tomato",
+"2 cups peeled and chopped tart green apples",
+"1 cup firmly packed brown sugar",
+"0.5 cup chopped raisins",
+"3 tablespoons cider vinegar",
+"1 tablespoon butter",
+"1 teaspoon ground cinnamon",
+"0.5 teaspoon salt",
+"0.25 teaspoon ground nutmeg",
+"0.25 teaspoon ground cloves",
+"1 pastry for a 9-inch double-crust pie" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine tomatoes, apples, brown sugar, raisins, vinegar, butter, cinnamon, salt, nutmeg, and cloves together in a large saucepan; cook and stir over medium-low heat until bubbling and slightly reduced in volume, about 25 minutes. Remove saucepan from heat and cool slightly, about 15 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat oven to 450 degrees F (230 degrees C). Press 1 pie crust into a 9-inch pie dish."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour green tomato filling into the pie crust; top with the second pie crust, crimping the edges together to seal."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven for 15 minutes. Decrease oven temperature to 375 degrees F (190 degrees C) and continue baking until golden brown, 20 to 25 minutes."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT90M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Shannon"
+},
+"reviewBody": "Same recipe I've used for years - remember from childhood and now my kids do too. I make a massive batch with whatever green tomatoes are left in the garden - so its something like 3 pounds of tomatoes, 3 pounds of apples, as many raisins as you've got....then once it cools I package it in quart size freezer bags and freeze them indefinitely. They never freeze solid so whenever you want a pie, just pull out a bag and throw it in a crust."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "JEAN R"
+},
+"reviewBody": "What a great way to use green tomatoes! And we used pears from our tree instead of apples. (Love using what we have). Also added an orange and a a lemon just because. Since we want our pies for the holidays, I plan to freeze the filling --assuming we don't eat it all right out of the pot! Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Islandflea"
+},
+"reviewBody": "Wonderful way to use green tomatoes from my garden! Made \"Ruth's Grandma's Pie Crust\" and followed recipe and even my husband (who swore he did not care for mincemeat pie) enjoyed it. Will be making more to can for later use!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/238380/green-tomato-mock-mincemeat-pie/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/808/desserts/pies/fruit-pies/",
+"name": "Fruit Pies"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/12949/desserts/pies/fruit-pies/mincemeat-pie/",
+"name": "Mincemeat Pie Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/238380/green-tomato-mock-mincemeat-pie/",
+"name": "Green Tomato Mock Mincemeat Pie"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

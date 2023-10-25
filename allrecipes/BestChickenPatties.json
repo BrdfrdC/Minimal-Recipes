@@ -1,0 +1,405 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Best Chicken Patties"
+,"datePublished": "2018-04-05T02:56:20.000-04:00"
+,"dateModified": "2022-07-13T22:24:47.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Natasha Titanova"
+,"url": "https://www.allrecipes.com/cook/13104903"
+}
+]
+,"description": "Try these chicken patties as a great alternative to chicken nuggets and change up the usual dinner routine with a dish the whole family will love."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/nNIqC08wYj1zY5wSM5cpD73D4LE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/5290561-best-chicken-patties-Natasha-Titanov-4x3-1-334e6ace3fa0464899bc731457ee1c8a.jpg",
+"height": 900,
+"width": 1200
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Best Chicken Patties"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.4",
+"ratingCount": "25"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "229 kcal"
+,"carbohydrateContent": "7 g"
+,"cholesterolContent": "82 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "22 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "152 mg"
+,"sugarContent": "1 g"
+,"fatContent": "13 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT25M"
+,"recipeIngredient": [
+"18 ounces ground chicken",
+"1 onion, finely chopped",
+"1 bunch fresh parsley, finely chopped",
+"1 large egg",
+"2 cloves garlic, crushed, or more to taste",
+"sea salt and freshly ground black pepper to taste",
+"2 tablespoons mayonnaise",
+"0.25 cup all-purpose flour, or as needed",
+"3 tablespoons vegetable oil" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine chicken, onion, parsley, egg, garlic, sea salt, and pepper in a bowl; mix well. Add mayonnaise and stir to combine; the mixture will be quite soft."
+} ,{
+"@type": "HowToStep"
+,"text": "Place flour in a shallow bowl. Drop large spoonfuls of the chicken mixture into the flour. Roll to coat and press gently into patties."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat oil in a skillet over medium-high heat. Cook chicken patties in the hot oil until golden brown and no longer pink in the center, 5 to 7 minutes per side."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT35M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CucaCooks"
+},
+"reviewBody": "Amaziiiing recipe. I didn’t have what I needed in the pantry/fridge so I omitted some things, but regardless, the base of what’s important was used. I used canned chicken chunks and I suppose if I baked or roasted a chicken, leftovers should make this recipe even better. This recipe is a keeper!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lisajane8"
+},
+"reviewBody": "Turned out very nice although I did double the garlic. Otherwise stuck to the recipe and bound and cooked up just fine. With this or anytime I am cooking chicken of any description, pieces, breast, thigh, whole the lot I always stick my meat thermometer in and the SECOND it reaches 165oC (def. no more than 170oC) I stop cooking and remove from pan to rest. Even breasts are juicy when you do this - (ie providing you beat them to any even thickness first). You can't go wrong when you use a meat thermometer."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rooburney"
+},
+"reviewBody": "The patties turned out soft, juicy and delicious. To add a kick to it, I chopped green chilli with the onions. My family loved this!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Don"
+},
+"reviewBody": "This is my go to now, we love them. I add a little green bell pepper finely chopped for flavor"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Christine Blanchet"
+},
+"reviewBody": "This recipe is a hit at our house. I have made it twice. The first time I had ground chicken. The second time I chopped up chicken breast with my Cuisinart. I did make tartar sauce with mayo, lemon juice and lemon pepper and we used that for a topping. I will make again as it is easy and full of protein."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "bgrmosaic"
+},
+"reviewBody": "It’s a great base recipe; Reading some other reviews before, I added more spices."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Carolyn R"
+},
+"reviewBody": "It was ok. A little bland. Recommend more seasoning or a sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "healthycook"
+},
+"reviewBody": "I added one cup of cooked rice to the mixture. Used different seasonings - Mrs. Dash table blend and poultry seasoning, and did use the garlic and onion. I didn't coat them in flour, but made patties and baked them at 375 degrees for about 30 minutes, or until chicken is done and starts to brown. Was really good without all of the oil and flour."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kelli Peek Athas"
+},
+"reviewBody": "I used to say \"these are great for a change of pace\". Now they are becoming 1 of my staples! The only tweaks I made were eliminating the mayo and adding some Tony's and cayenne seasoning. And this is also becoming a fav of my Husband's...so even better! \n\nThanks, Kelli"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Paul Williams"
+},
+"reviewBody": "Will definitely make again. I had more than I needed from the recipe, so I froze them, uncooked. They are just as good unfrozen and cooked."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jncaquel"
+},
+"reviewBody": "My small town grocery store doesn’t carry ground chicken so I use shredded roasted chicken. I’ve tried both onions raw and sautéed in this and we prefer them sautéed first. The smoke from the roasted chicken and splash of lawrys seasoning in the flour make this a new favorite at our house! Even my very picky 3&amp;7 yr olds eat it all up! We serve it with a dollop of sour cream, potatoes and corn."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "beth"
+},
+"reviewBody": "This was too plain for me so I added 1 1/2 Tsp cumin curry paste. I enjoyed them but my husband would have enjoyed them plain."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "PPK"
+},
+"reviewBody": "As is just ok, but if you use flour &amp; panko to coat helps. Also, next time we'll add some spices or herbs cause it needs it bad. The taste was ok otherwise so just needs a boost. The worst part &amp; I do mean WORSE is it smells when frying. It reminded me of warming up our old cats wet food to get the chill off. Needed to burn candles &amp; spray the place after eating. With all that said, we do plan on making again though. Oops, forgot we used ground turkey so maybe that is why there was a smell. We didn't have any ground chicken &amp; were in the middle of a blizzard so used the turkey."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Big Red"
+},
+"reviewBody": "They were good! The fresh parsley and onion made for a wonderful combination of flavors and texture. I could not find ground chicken at my grocery store so I substituted ground turkey. And I used olive oil maynnaise. Word to the wise, you will make a mess; make sure to have paper towels on standby and plenty of hand soap. But it is so worth it. I ate mine by themselves and dipped in BBQ sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "landa818"
+},
+"reviewBody": "These patties were ok. IF I make them again, I might use a little less flour and seasoned salt instead. My kids enjoyed them though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tammy Coish"
+},
+"reviewBody": "Didn't make any changes, and they were delicious and something different. I will make them again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "dillpickler"
+},
+"reviewBody": "Nice basic recipe. I used gluten free bread crumbs instead of flour. Happy with the results."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Maisa Garcia"
+},
+"reviewBody": "This is a good recipe but had to tweak a bit so that I used half of the chicken and substituted the other half with minced potatoes. I ran out of mayo so I used heavy cream instead. To make the mixture more stable and not fall apart when placed on the pan, I reduced the flour by half and substituted the other half with cornstarch; these were combined straight into the mixture instead of rolling the mixture on them. I had to set the mixture aside for 5-10 minutes in the fridge to allow the ingredients to bind together, and just before frying I added around 1/2 cup Panko breadcrumbs to add a bit more crunch to it. Turned out great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Mary Hamilton"
+},
+"reviewBody": "I've been making this for years but differently - I use a large can of chicken mashed up with sauted onion, celery, add some dry Colemann's mustard, mayo and cracker crumbs. Also throw in some dry dill, plus salt and pepper. NEXT I BREAD THESE HAND FORMED CAKES /CROQUETTES in some flour before I fry them up. everyone loves them. can't always find ground chicken in g. store"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Josephine L Pace"
+},
+"reviewBody": "These were good but not great. I followed the instructions with the exception of the garlic. I do not like garlic. I did not think that they were worth the effort. They are very soft and you need to be very careful handling them."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "carolmaggs"
+},
+"reviewBody": "We enjoyed this very much. I made it to the recipe, but next time might add some spices to make it more 'adult'. My husband says it doesn’t need it, though. \nI found the raw mix very moist and hard to form into patties. I got the hang of it but it needed more flour to toss it in...v-e-r-y gently! The onion needs to be chopped quite finely too, or it makes them a bit crumbly. \nDefinitely a keeper."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/263628/best-chicken-patties/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/92/meat-and-poultry/",
+"name": "Meat and Poultry"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/201/meat-and-poultry/chicken/",
+"name": "Chicken"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/263628/best-chicken-patties/",
+"name": "Best Chicken Patties"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

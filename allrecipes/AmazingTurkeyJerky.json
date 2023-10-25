@@ -1,0 +1,160 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Amazing Turkey Jerky"
+,"datePublished": "2017-02-10T20:25:06.000-05:00"
+,"dateModified": "2017-02-10T20:25:06.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "PJB"
+,"url": "https://www.allrecipes.com/cook/8467758"
+}
+]
+,"description": "This homemade jerky recipe made from ground turkey is inexpensive, super easy, and a fun do-it-yourself project your kids can help with."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/2fv0TN-It-obhEsiFXgL5HRBJqw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4873432-76c0d65fb078418d8dd9d385347e2ac6.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Amazing Turkey Jerky"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "3.5",
+"ratingCount": "2"
+}
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "137 kcal"
+,"carbohydrateContent": "4 g"
+,"cholesterolContent": "50 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "15 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "821 mg"
+,"sugarContent": "2 g"
+,"fatContent": "7 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT25M"
+,"recipeIngredient": [
+"1.5 pounds ground turkey",
+"0.5 cup soy sauce",
+"1 tablespoon honey",
+"1 tablespoon Worcestershire sauce",
+"1 tablespoon apple cider vinegar",
+"1 tablespoon liquid smoke",
+"1 tablespoon garlic powder",
+"1 tablespoon coarsely ground black pepper",
+"1.5 teaspoons ground ginger",
+"1 teaspoon olive oil",
+"0.5 cube beef bouillon",
+"wooden paint stir sticks" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine ground turkey, soy sauce, honey, Worcestershire sauce, apple cider vinegar, liquid smoke, garlic powder, pepper, ginger, olive oil, and beef bouillon in a large bowl. Mix well and cover. Marinate in the refrigerator for 2 to 12 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Tape 2 paint stir sticks 2 inches apart on a flat work surface. Cover with a large piece of plastic wrap. Place a golfball-sized piece of turkey mixture between the sticks. Cover with another piece of plastic wrap. Roll turkey mixture into a thin strip using a rolling pin. Transfer strip to a dehydrator tray. Repeat with remaining turkey mixture."
+} ,{
+"@type": "HowToStep"
+,"text": "Dehydrate at 160 degrees F (70 degrees C) until thoroughly dried, 5 to 8 hours."
+} ]
+,"recipeYield": ["10"]
+,"totalTime": "PT445M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lori Ransom"
+},
+"reviewBody": "Great marinade!!! I used thin chicken breast cuts, and followed the directions to dehydrate for 5 hrs. They were tasty. Thank you for sharing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "WICONNIE"
+},
+"reviewBody": "This was a real waste of 1 1/2 lbs of ground turkey. It was very bland and did not taste like a jerky anyone would eat."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/257159/amazing-turkey-jerky/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/107/appetizers-and-snacks/meat-and-poultry/",
+"name": "Meat and Poultry"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17041/appetizers-and-snacks/meat-and-poultry/jerky/",
+"name": "Jerky Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/257159/amazing-turkey-jerky/",
+"name": "Amazing Turkey Jerky"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,138 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Instant Pot Wheat Berries"
+,"datePublished": "2019-04-04T00:14:45.000-04:00"
+,"dateModified": "2022-11-24T08:08:25.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Cindy Spalding"
+,"url": "https://www.allrecipes.com/cook/5118546"
+}
+]
+,"description": "Cook wheat berries in the Instant Pot for a nutty add-in or main ingredient for nearly any meal. Use them alone as a side dish or in whole grain salads."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/DCqdSCK6oyNQ1RYzDY6i2W7DETA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6009135-73aca645bc9546118b3d9c697d1832cf.jpg",
+"height": 1120,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Instant Pot Wheat Berries"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "2"
+}
+,"cookTime": "PT40M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "126 kcal"
+,"carbohydrateContent": "27 g"
+,"fiberContent": "5 g"
+,"proteinContent": "5 g"
+,"saturatedFatContent": "0 g"
+,"sodiumContent": "102 mg"
+,"sugarContent": "0 g"
+,"fatContent": "1 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"6 cups water",
+"2 cups wheat berries",
+"0.5 teaspoon kosher salt, or to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Turn on a multi-functional pressure cooker (such as Instant Pot). Add water and wheat berries; stir once. Close and lock the lid. Select Manual pressure according to the manufacturer&#39;s instructions and set the timer for 27 minutes. Allow 10 to 15 minutes for pressure to build."
+} ,{
+"@type": "HowToStep"
+,"text": "Release pressure using the natural-release method according to the manufacturer&#39;s instructions, about 10 minutes, then switch to the quick-release method, about 5 minutes. Unlock and remove the lid."
+} ,{
+"@type": "HowToStep"
+,"text": "Drain wheat berries and mix in salt."
+} ]
+,"recipeYield": ["10"]
+,"totalTime": "PT60M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kostakraljajdsajdisaidjsa"
+},
+"reviewBody": "Really good!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/269283/instant-pot-wheat-berries/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1642/everyday-cooking/",
+"name": "Everyday Cooking"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1227/everyday-cooking/vegan/",
+"name": "Vegan"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/269283/instant-pot-wheat-berries/",
+"name": "Instant Pot Wheat Berries"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

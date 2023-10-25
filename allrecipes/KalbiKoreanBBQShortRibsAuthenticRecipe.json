@@ -1,0 +1,162 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Kalbi (Korean BBQ Short Ribs): Authentic Recipe"
+,"datePublished": "2020-06-19T00:06:13.000-04:00"
+,"dateModified": "2020-06-19T00:06:13.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Potchie"
+,"url": "https://www.allrecipes.com/cook/11072538"
+}
+]
+,"description": "Kalbi, Korean barbeque short ribs, involves marinating beef short ribs in a cola-based marinade for 2 hours creating a sweet and tender meat."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Y6AHlwmpSqKIwA-_MY0R-dqY24A=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6918430-e72a5c356ec244be804807021862ae96.jpg",
+"height": 1501,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Kalbi (Korean BBQ Short Ribs): Authentic Recipe"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "2"
+}
+,"cookTime": "PT6M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "647 kcal"
+,"carbohydrateContent": "21 g"
+,"cholesterolContent": "93 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "23 g"
+,"saturatedFatContent": "19 g"
+,"sodiumContent": "956 mg"
+,"sugarContent": "18 g"
+,"fatContent": "52 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"0.75 cup cola-flavored carbonated beverage (such as Coca-Cola®)",
+"0.25 cup white sugar",
+"0.25 cup soy sauce",
+"0.25 cup water",
+"2 green onions, chopped",
+"3 tablespoons sesame oil",
+"1 tablespoon minced garlic",
+"1.5 teaspoons sesame seeds",
+"1 teaspoon ground black pepper",
+"2 pounds short ribs" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine cola beverage, white sugar, soy sauce, water, green onions, sesame oil, garlic, sesame seeds, and black pepper in a bowl until marinade is well-mixed."
+} ,{
+"@type": "HowToStep"
+,"text": "Place short ribs in a resealable plastic bag and pour in marinade. Squeeze out excess air and seal the bag. Marinate in the refrigerator for at least 2 hours."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat an outdoor grill for medium-high heat and lightly oil the grate. Remove short ribs from marinade, discarding marinade."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook short ribs until browned and cooked to desired doneness, 3 to 4 minutes per side. An instant-read thermometer inserted into the center should read 145 degrees F (63 degrees C)."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT141M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Itsmi"
+},
+"reviewBody": "This was so easy to make and they were delicious! Highly recommend"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Aaron A"
+},
+"reviewBody": "I used a pretty thick boneless short rib instead of korean style cut. Marinated for 4-5 hours. The marinade gives a good flavor and the ribs were tender indeed. My only complaint was that I wish the ribs had more of the marinade flavor! Maybe using the thinner cut will prove to be more flavorful. I will definitely be teying this again when I find some. Great share!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/246645/kalbi-korean-bbq-short-ribs-authentic-recipe/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/227/world-cuisine/asian/",
+"name": "Asian"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/700/world-cuisine/asian/korean/",
+"name": "Korean"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/246645/kalbi-korean-bbq-short-ribs-authentic-recipe/",
+"name": "Kalbi (Korean BBQ Short Ribs): Authentic Recipe"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

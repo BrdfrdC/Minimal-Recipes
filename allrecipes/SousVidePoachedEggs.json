@@ -1,0 +1,332 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Sous Vide &#34;Poached&#34; Eggs"
+,"datePublished": "2020-04-06T18:04:16.000-04:00"
+,"dateModified": "2022-08-03T15:51:09.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "France C"
+,"url": "https://www.allrecipes.com/cook/francecevallos"
+}
+]
+,"description": "Sous vide eggs with a perfectly set white and a runny yolk; this foolproof recipe might become your go-to method for perfectly poached eggs."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/OA7ZVN7n3Uko58g4gjZoRo_M_ig=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7921111-6a316d7bac6b407994c0b7712517e6b1.jpg",
+"height": 994,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Sous Vide &#34;Poached&#34; Eggs"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "3.7",
+"ratingCount": "17"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "72 kcal"
+,"carbohydrateContent": "0 g"
+,"cholesterolContent": "186 mg"
+,"proteinContent": "6 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "109 mg"
+,"sugarContent": "0 g"
+,"fatContent": "5 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"4 large cold eggs",
+"1 pinch salt and freshly ground black pepper" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Fill a large pot with water and place a sous vide immersion cooker into the water. Set temperature to 167 degrees F (75 degrees C) according to manufacturer&#39;s instructions; allow 15 minutes for the water to heat."
+} ,{
+"@type": "HowToStep"
+,"text": "Gently lower eggs into the water using a slotted spoon. Immediately set a kitchen timer for 13 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove eggs from water once timer is up and let cool for 3 minutes. Gently crack egg around the middle and peel top half of shell. Slide egg out into a small bowl or serve over toast. Season with salt and pepper."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT40M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "We just bought our sous vide machine and were testing the temperature - to not waste the heated water, we googled and tried your recipe. Guess what - this is probably the BEST poached egg we've ever tried!!! Thanks for sharing :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "calliscd"
+},
+"reviewBody": "I like poached eggs but they never really come out as pretty as I hope they will. this recipe totally works. I did note that one of the cold eggs cracked slightly when putting into the hot water but it did not affect the look or taste. served over red potato home fries. I was quite happy at breakfast this morning."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This was perfect. I know how to make poached eggs the traditional way, but this is a game changer and my new go-to method for poached eggs. Granted It's not faster since it takes a little while for the sous vide to warm up vs. boiling water in a pot. However, it eliminates a lot of problems associated with making poached eggs, making things much easier. Issues like wispy egg whites that float away from the rest of the egg and broken yolks from wrestling the eggs in and out of the water are all off the table now. The eggs just cook in their own shells and crack open a perfect poached egg with no lost egg white or cleanup. My only suggestion: follow the timing and temperatures on this exactly; should you choose to experiment by adding or subtracting a minute or so, be very precise. There is extraordinarily little room for error when it comes to poached eggs and this could become a hard broiled egg or a runny mess very easily if you don't keep an eye on the timer. Many thanks to person who sent this in!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "JDeCola"
+},
+"reviewBody": "Followed recipe to the tee with An Anova. Yolks we’re over done and the whites were like snot. Sorry to be graphic but that’s the only way to explain it.. way easier and better to poach eggs in water IMO…"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I tried 13 and 14 minutes. Most would think this is the perfect poached egg but there was far too much egg white \"snot\" for my taste. The only difference between 13 and 14 minutes was a harder set yolk. The white remained somewhat runny."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jim Smallridge"
+},
+"reviewBody": "Perfect!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Netter"
+},
+"reviewBody": "Used an Anova Precision cooker (the new one) and their cooking container. No matter what I did, the eggs were nothing like the photo's. I tried putting them in the bath while heating. I tried putting them in the bath when it was at the temperature. I tried 13 minutes, 15 minutes, letting them cool for 3 minutes and putting them in an ice bath for a minute or two. Results: a lot of wasted eggs. The whites were not cooked enough and the yolks were overcooked. Not sure what to try next. Probably a different recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "bagirathi"
+},
+"reviewBody": "I’m not sure what went wrong, but this was a terrible temp and time. I’ve done sous vide eggs before with a 15 minute timeline that turned out beautifully, but couldn’t find the old recipe so tried this temp and time. Followed instructions exactly using fresh pasture-raised eggs. The egg came out with an over done yolk and sloppy, barely cooked mushy white. Inedible."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "MRSJPVAN2"
+},
+"reviewBody": "13 minutes was not nearly long enough. The eggs were barely cooked and inedible. I will try again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "mrm"
+},
+"reviewBody": "For Joule people....My circulator is a joule, and I find many recipe temps usually are off a bit. I typically add 2 degrees to the temps recommended in recipes. I cooked these as directed, and the whites were too loose. Next time I’ll adjust temp or add 2 more minutes...."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "APRILMILLER"
+},
+"reviewBody": "I appreciate someone providing a sous vide egg recipe that doesn’t take 1-2 hours to cook. This makes putting together Eggs Benedict much easier for a weekend breakfast. I cook mine 15 minutes because my husband likes his a bit more on the firm side, though 14 minutes is good for me. Either way, this is a solid recipe that you can adjust to your preference."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mark Ennes"
+},
+"reviewBody": "Yep, this works nicely. It's the best sous vide recipe I have found. I've tried the 74C 15 min recipe from another siteand it didn't work as well as this 75C 13 min recipe. I've tried a bunch of other ones too, over the years. This is the best."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rendyl71"
+},
+"reviewBody": "these eggs have become all the rage among sous vide addicts! I've seen differnt times and temps and this one is my favorite. they really are easy and the best part, you don't have to sit there watching them in a simmering pan on the stovve, nevermind the mess they sometimes make in the pan. you just put them in your sous vide container and let them cook and it leaves you time to prepare other foods at the same time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Nancy Simons"
+},
+"reviewBody": "This is way more trouble than necessary. I cook perfect poached eggs : bring an appropriate-size shallow pan of water to a low boil. Add 1 tsp whit vinegar. Crack eggs, One at a time, slowly add to water so they don’t spread too much. Lower heat to a simmer. Cover and set a timer for 3 1/2 minutes. Remove with slotted spoon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "grovesr"
+},
+"reviewBody": "Same as a soft boiled egg - don't see it..."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MatthewArnold"
+},
+"reviewBody": "This begs for a video. They look beautiful but I cannot visualize. Rating was requited—and I am sure that is what I will give this recipe when I make it! Thank you."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/279620/sous-vide-poached-eggs/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/78/breakfast-and-brunch/",
+"name": "Breakfast and Brunch"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/148/breakfast-and-brunch/eggs/",
+"name": "Eggs"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/279620/sous-vide-poached-eggs/",
+"name": "Sous Vide &#34;Poached&#34; Eggs"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

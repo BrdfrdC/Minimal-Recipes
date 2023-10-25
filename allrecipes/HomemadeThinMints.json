@@ -1,0 +1,150 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Homemade Thin Mints"
+,"datePublished": "2023-02-18T09:30:00.000-05:00"
+,"dateModified": "2023-02-18T09:30:00.000-05:00"
+,"author": [ {"@type": "Person"
+,"name": "Colleen Weeden" }
+]
+,"description": "If you&#39;re a fan of Girl Scout Thin Mints cookies, try making these copycat versions yourself."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/iSF47GIXkiCF7TT4j7RAWMobmv0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/8535773-Homemade-Thin-Mints-4x3-1-2aeed43507a64b5c8d11547151cf320a.jpg",
+"height": 704,
+"width": 939
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Homemade Thin Mints"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4",
+"ratingCount": "1"
+}
+,"cookTime": "PT7M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "169 kcal"
+,"carbohydrateContent": "19 g"
+,"cholesterolContent": "10 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "2 g"
+,"saturatedFatContent": "7 g"
+,"sodiumContent": "28 mg"
+,"fatContent": "11 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"0.5 cup butter, softened",
+"0.5 cup sugar",
+"0.25 teaspoon salt",
+"1 large egg yolk",
+"0.5 teaspoon peppermint extract",
+"1 cup flour",
+"0.25 cup unsweetened cocoa powder",
+"8 ounces semisweet chocolate, chopped",
+"8 ounces dark chocolate candy melts" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Beat butter in a large bowl with an electric mixer at medium speed about 30 seconds. Add sugar and salt and beat until combined. Beat in egg yolk and peppermint extract. Beat in flour and cocoa. Shape dough into a 6-inch roll. Wrap in plastic wrap or wax paper. Chill until firm enough to slice, about 2 hours, or freeze about 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat the oven to 375 degrees F (190 degrees C)."
+} ,{
+"@type": "HowToStep"
+,"text": "Cut roll into 1/8- to 1/4-inch slices. Arrange 2 inches apart on an ungreased baking sheet."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until edges are firm, 7 to 8 minutes. Cool on the baking sheet on a wire rack (cookies are too delicate to remove until cooled)."
+} ,{
+"@type": "HowToStep"
+,"text": "Microwave semisweet chocolate and candy melts in a small bowl, stirring twice, until melted and smooth, 1 to 2 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Dip each cookie into melted chocolate, allowing excess to drip off. Arrange on wax paper-lined trays. Chill until set."
+} ]
+,"recipeYield": ["24"]
+,"totalTime": "PT157M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "It was AMAZING. It seriously tasted like heaven. Though it kind of got messy when I was dipping the cookies into the chocolate"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8535773/homemade-thin-mints/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/362/desserts/cookies/",
+"name": "Cookies"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/840/desserts/cookies/chocolate-cookies/",
+"name": "Chocolate Cookie Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8535773/homemade-thin-mints/",
+"name": "Homemade Thin Mints"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

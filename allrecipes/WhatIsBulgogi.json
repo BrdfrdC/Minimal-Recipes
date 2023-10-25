@@ -1,0 +1,106 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["NewsArticle"]
+,"headline": "What Is Bulgogi?"
+,"datePublished": "2021-05-04T19:22:37.000-04:00"
+,"dateModified": "2021-05-04T19:22:37.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Lauren Helmer"
+,"url": "https://www.allrecipes.com/author/lauren-helmer/"
+}
+]
+,"description": "Bulgogi is barbecue at its best. Thin slices of grilled, perfectly caramelized, sweet and savory beef. Get to know this quintessential Korean dish with tips on how to enjoy it the authentic way."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Ef2mstwR2Nr6IpRWHT7qyifpdu4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/3983202_bulgogi-beef-korean-style-barbecue_photo-by-chef-john-61dfbe0fff934a02a815559b4cc5c633.jpg",
+"height": 600,
+"width": 600
+}
+,"video": [{
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=5170581924001",
+"description": "The secret to this incredibly flavorful short rib and rice dish is the marinade. ",
+"duration": "PT7M42S",
+"name": "Beef Bulgogi (Korean-Style Barbecue)",
+"thumbnailUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/69aa4dd0-1944-4ce3-9b22-10382bccc7d5/3dd395ac-b941-47c2-82e9-a48e3f90d5e0/960x540/match/image.jpg",
+"uploadDate": "2021-07-24T01:02:12.143-04:00"},
+{
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=6252721863001",
+"description": "Get to know this quintessential Korean dish with tips on how to enjoy it the authentic way.",
+"duration": "PT42S",
+"name": "What Is Bulgogi?",
+"thumbnailUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/53a11d66-cf52-4ea6-a7fe-9256f6533ce4/e5f274d7-abff-4e73-8719-cfc433fd1abe/1280x720/match/image.jpg",
+"uploadDate": "2021-05-06T02:24:35.790-04:00"}
+]
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"articleSection": "Kitchen Tips"
+,"keywords": ["How To","Global Kitchen","Kitchen Tips","Korean","Bulgogi Recipes","Olympics","Cuisine"]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/article/what-is-bulgogi/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/kitchen-tips/how-to/",
+"name": "How To"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/kitchen-tips/how-to/global-kitchen/",
+"name": "Global Kitchen"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/article/what-is-bulgogi/",
+"name": "What Is Bulgogi?"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,261 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Crispy Fried Tofu"
+,"datePublished": "2020-06-26T22:53:27.000-04:00"
+,"dateModified": "2022-01-14T01:19:28.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Sarah Dipity"
+,"url": "https://www.allrecipes.com/cook/1027007"
+}
+]
+,"description": "Serve this crispy fried tofu with your favorite dipping sauce as an appetizer, or add to your favorite Asian dish for a main meal."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/KAKTk2K43B7V4Hkoh3-bBSxAeig=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/6391276-22305f1ce6074f818002b3d601dcfab6.jpg",
+"height": 1500,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Crispy Fried Tofu"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.3",
+"ratingCount": "15"
+}
+,"cookTime": "PT5M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "161 kcal"
+,"carbohydrateContent": "2 g"
+,"fiberContent": "0 g"
+,"proteinContent": "7 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "297 mg"
+,"sugarContent": "0 g"
+,"fatContent": "15 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"1 (12 ounce) package extra-firm tofu",
+"0.5 teaspoon salt",
+"vegetable oil for frying" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Wrap tofu in a clean towel and place onto a plate. Set another plate on top, and place a 3- to 5-pound weight on top. Press tofu for about 20 minutes; drain and discard the accumulated liquid."
+} ,{
+"@type": "HowToStep"
+,"text": "Cut tofu into 1-inch by 2-inch chunks. Sprinkle 1/4 teaspoon salt onto one slide; flip over and sprinkle remaining 1/4 teaspoon on the other."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat oil in a wok or large skillet. To test if the oil is ready, dip a chopstick or wooden spoon in it; if bubbles rise, it is ready. If the oil smokes, it is too hot."
+} ,{
+"@type": "HowToStep"
+,"text": "Gently place 5 to 8 pieces of tofu at a time in hot oil using metal tongs. Be very careful as oil may splatter; use a splatter guard if possible. Fry tofu until golden, 3 to 4 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Drain tofu on a plate lined with several paper towels. Allow to cool slightly before serving."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT35M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lolo"
+},
+"reviewBody": "Absolutely yummy! I coat the tofu in salt,pepper, and garlic and it turns out delicious ??"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LE C"
+},
+"reviewBody": "This is a great prep recipe. I have been using tofu for years and years. For a quick dinner, slice lengthwise in thirds, wrap in paper towels, top with heavy pan or pot to press out liquid. Do this twice before frying in light olive oil and sprinkle with soy etc sauces -- some like a sprinkle of sesame oil, giner, etc. -- until golden brown. Enjoy with rice and veggies."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rosie"
+},
+"reviewBody": "I made this is my air fryer, no oil at all. Came out nice and crispy without the added fat"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "raek77"
+},
+"reviewBody": "So good. I wanted to recreate the fried tofu I used to order from this restaurant in my home town. I made a really simple sauce with honey and garlic and soy sauce and served with udon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Trisha"
+},
+"reviewBody": "Exactly like when I had tofu for the first time. Over 20+ years ago. Will definitely make this again. I just topped the tofu with salsa verde for additional flavor, but ate quite a few pieces on their own. Delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "penny Slater"
+},
+"reviewBody": "I fried garlic cloves in the oil, removed them bore burning, then added the tofu pieces. Excellent way to get protein into the littles!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rita Bell"
+},
+"reviewBody": "Very Effective Outcome With The Paper Towel Method..Thanx!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Pat"
+},
+"reviewBody": "This was an easy recipe. Thanks. The taste, however, was rather bland. Perhaps an overnight marinade would have enhanced the flavor. I love tofu and its versatility. I will try it again using another reviewer's suggestions."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Sandra Spears"
+},
+"reviewBody": "I marinated mine overnight in ginger,orange juice and soy sauce. Then dried the tofu and coated with corn starch before frying. Then dip in sweet and sour sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "missymhc"
+},
+"reviewBody": "Very easy to make.\nMy only change would be to dry the tofu for longer. It's still going to have a lot of moisture after only 20 minutes. I usually go 40-60 minutes. The texture is great. Definitely needs to be paired with a good dipping sauce. Great recipe! Thank you!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/245295/crispy-fried-tofu/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/",
+"name": "Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/76/appetizers-and-snacks/",
+"name": "Appetizers and Snacks"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/245295/crispy-fried-tofu/",
+"name": "Crispy Fried Tofu"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

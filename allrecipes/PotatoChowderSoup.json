@@ -1,0 +1,1421 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Potato Chowder Soup"
+,"datePublished": "2018-06-08T09:15:09.000-04:00"
+,"dateModified": "2023-01-02T17:42:25.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Thea"
+,"url": "https://www.allrecipes.com/cook/93416"
+}
+]
+,"description": "This creamy potato chowder will warm your soul on a cold winter day. With chunks of potatoes and lots of corn, this hearty soup is nice in a bread bowl."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/swJSIIfCndMnslZsq58DJ0R5VOY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1056112-potato-chowder-soup-i-Krun06-4x3-1-6f632b61993a4011bff2c37765621d1d.jpg",
+"height": 600,
+"width": 800
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Potato Chowder Soup"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "149"
+}
+,"cookTime": "PT30M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "359 kcal"
+,"carbohydrateContent": "34 g"
+,"cholesterolContent": "57 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "15 g"
+,"saturatedFatContent": "12 g"
+,"sodiumContent": "901 mg"
+,"sugarContent": "7 g"
+,"fatContent": "20 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"2 cups peeled and diced potatoes",
+"0.5 cup diced carrots",
+"0.5 cup diced celery",
+"0.25 cup chopped onion",
+"1 teaspoon salt",
+"4 cups water, or as needed to cover",
+"2 cups milk",
+"0.25 cup butter",
+"0.25 cup all-purpose flour",
+"2 (15 ounce) cans whole kernel corn, drained",
+"2.5 cups shredded Cheddar cheese" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Place potatoes, carrots, celery, onion, and salt into a large pot. Add water to cover and bring to a boil over medium-high heat. Reduce the heat and simmer until potatoes are tender, about 20 minutes; do not drain."
+} ,{
+"@type": "HowToStep"
+,"text": "When the vegetables are almost finished, combine milk, butter, and flour in a small saucepan over medium-low heat. Whisk constantly until butter melts and mixture is smooth and thick, 5 to 10 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour hot milk mixture into cooked vegetables. Add corn and Cheddar; cook and stir until Cheddar melts, about 3 minutes."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT50M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carol Ann"
+},
+"reviewBody": "Best potato soup I ever had. I added shredded cauliflower at first so it would be creamy in the soup. I also used heavy cream for half of the milk and unsweetened coconut milk for the other half. I also used powdered garlic. I will make this the same way again. I also added thick sliced, crumbled, crispy bacon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Inspired by my Aunty Daisy’s chowder, chowder will be on the menu for us 🤗"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Novice Tim"
+},
+"reviewBody": "Had to sub Mexican cheese for Cheddar. Still turned out well. Could maybe use a little flavor is all."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer Leise"
+},
+"reviewBody": "I cooked in vegetable broth rather than water, added garlic to the roux (cooked in butter), and curry powder (1-2 tsp), cayenne pepper (1 tsp), both at the end. It made a bland chowder stellar!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sandie Stiles"
+},
+"reviewBody": "I used red potatoes. I didn't peel them. I used the shredded Mexican cheese blend and it was delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jackie"
+},
+"reviewBody": "great soup I didnt have celery so i used celery salt, added sine nutmeg and chopped ham"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kristina Stokes"
+},
+"reviewBody": "Bomb recipe. Super easy to make. I add a tablespoon of sour cream and paprika. I used vegetable broth instead of water. I also grilled the corn with jalapeños and red peppers on the skillet before putting into the mixtures. Super yummy!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "midwifemeg"
+},
+"reviewBody": "I used lots of extra vegetables. Double rue needed more milk. I actually left some water in the veggies before mixing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carol F"
+},
+"reviewBody": "Very creamy soup without using cream. The only changes I made were to use chicken stock instead of water to cook the veggies and added some black pepper close to the end. I used jalapeno cheddar cheese. The step to heat the milk with butter and flour is essential to the creaminess in the final product. I've made various chowders and haven't seen that step before - great addition. Very easy to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dahlia"
+},
+"reviewBody": "Great soup. Easy recipe. I switched out one of the canned whole corns for a creamed style corn. Kids loved it. Will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "NurseAnita"
+},
+"reviewBody": "Me and my family loved this chowder! To make it thick and creamy, I used half and half for half of the milk the recipe called for. I also thought one can of corn was enough. I will definitely be making this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "J.D. Blanco"
+},
+"reviewBody": "I didn’t have flour so I crushed a few crackers, I also added some garlic and mixed in some green onions with the white onions. Really liked this recipe. It was very delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Roye L. Lane"
+},
+"reviewBody": "Yes"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "simplydawn"
+},
+"reviewBody": "i kinda made it...combined it with another recipe so to this one i booked the veggies in slightly diluted chicken broth, added half &amp; half, turkey bacon, a small ham steak, thyme, garlic powder, sage,"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Christopher Karl"
+},
+"reviewBody": "As others have said this is a bit bland but I did not boil all the vegetables just the potatoes. I cooked the other vegetables in a large pot in olive oil with salt and pepper, you are going to need quite a bit of salt the potatoes absorb lots of it that is way many of you thought that it was bland. The milk Roux I thought was not enough when I poured it so I added a cup of cream that I heated up on the stove top and it came out great, I did not mix in the cheese that is for when I serve it into the bowls."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "abbyz2000"
+},
+"reviewBody": "My 8 year old doesn’t really like soups but she really liked this one. My husband also said it was really good. I did 2 cups of cheese instead of 2.5."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sarynati Martin"
+},
+"reviewBody": "This Chowder is amazing!! Im definitely sharing this with family."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jessi"
+},
+"reviewBody": "Whole family loves it, Glad I doubled the recipe my son had thirds!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rhonda from Old Louisville"
+},
+"reviewBody": "This was really good. I already had a creamy vegetable based broth that I used instead of the milk mixture. I also threw in a vegetable bouillon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Kershner"
+},
+"reviewBody": "This was a great base recipe! I made several additions, which turned out delicious! I doubled the recipe ( my boys are hungry guys). I added bacon. I used a packet of Simply Organic Chipotle Ranch dip mix, smoked paprika, dried parsley, and some other spices. I sautéed the onions, celery, carrots, and some garlic in the soup pot for a bit. Added the diced potatoes. Filled with one box of chicken broth. Topped that off with potato water, and cooked. I fried a pound of thick cut bacon in a saucepan in batches. Removed bacon. I put the flower in the bacon grease and cooked for a few minutes. I added milk, half and half, and chipotle dip mix. Added chopped bacon to potato mixture. Cooked the flour mixture until thick and smooth. Added that to the potato mixture, as well as 2 cups of shredded cheddar, and simmered until the crescent rolls were done. I served with chopped fresh parsley on top. Delish! Next time I think I'll add a couple of cans of baby clams. I will definitely make this again! Thanks for the recipe! Oh, this was the first time I ever made potato soup. I did not use butter, as I used the bacon fat instead."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sharonelaine"
+},
+"reviewBody": "My husband and I love this chowder! Also, added small amount black pepper and a slight sprinkle of a flavor- enhancer, added after all chowder complete, before serving.\n\nUsed all low fat or fat-free products. Fat free milk used, and low-fat margarine, and cut back on amount of cheese, and used only 2 cups of a 2% fat Cheddar cheese, that is shredded. \n\nIt is an excellent chowder. One could leave out the cheese if desired."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kimberly Moore"
+},
+"reviewBody": "Excellent recipe! I wanted to have left overs so I doubled the recipe. Substituted chicken broth instead of water to cook the veggies. While I was waiting for the vegetables to cook (and before I put on my milk and butter), I fried up 1/2 lb of spiral ham pieces that I had diced. After the ham pieces were done frying up, I removed them from the skillet onto a paper towel then poured the frozen corn into the skillet with no heat (just to defrost the corn) because I didn't have any canned corn in my pantry. It turned out just fine. After I added the milk mixture to my vegetables and added the cheese, I then added the corn and the ham pieces to the soup and it was perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "IngwerTerra"
+},
+"reviewBody": "A wonderful soup! I make this without celery and add a dash of \"liquid smoke\" (you can buy it at the grocery store in the cooking isle). I use veggie stock to boil the vegetables while I make a roux in a separate sauce pan: heat the butter, add the flour, then slowly add in the milk until it's a nice thick and creamy sauce-- then add in the cheddar and combine with the veggie stock mix. The whole family loves it and even my little ones will finish a whole cup (2, 4, &amp; 6yrs old). I serve it with some buttered french bread and a side salad. An easy dinner fit that heats up well for left-overs."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Linda"
+},
+"reviewBody": "This is a great recipe. I used left over grilled corn and it added so much extra flavor."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kathy"
+},
+"reviewBody": "Very Good- thought it needed more seasoning so I cooked vegetables in vegetable stock and then used my immersion blender to puree about a third in the Stockport. I doubled all the vegetables, but didn't need to double butter/flour/milk thickener. Added dried thyme and oregano before thickening and used frozen sweet corn. Saved this recipe for future use."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Terrie Fox"
+},
+"reviewBody": "Unfortunately this soup was very blend as there are no spices nor stock added to it. I added chicken stock (about 4 tsp) and bacon. Now it tastes good :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "msadr"
+},
+"reviewBody": "I skipped the cheese so this soup came out very bland. But after adding another tsp and half of salt and a teaspoon of stevia sweetener, it was fantastic."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "skanauss"
+},
+"reviewBody": "This is a very tasty chowder. My family loved it. I used white pepper to give it a kick and I used celery seed instead of celery as I did not have any celery. I will definitely make it again. Very easy and quick to make."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Tamster335"
+},
+"reviewBody": "Good chowder but I made a few changes. I doubled the recipe but cut back the butter to 3/4 stick and only did one serving of cheese, about 2.5 cups. I also only added 15 oz of corn. The recommended amount would have been way too much. I saw several reviewers added chicken broth, so I threw two chicken bouillon cubes into the water while the veggies simmered. I also added 1/2 tsp rosemary. Turned out great this way!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary B"
+},
+"reviewBody": "In seventeen years of marriage this is the first thing I made that my husband actually bragged about."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Tammy Doerr"
+},
+"reviewBody": "I know some people don't like it when people change the recipes and then review it, but I like reading the different variations and suggestions in the reviews and making it to my taste. So I started with this as my base recipe and made a few changes. I added my normal seasoning of salt, pepper, garlic salt, celery salt and Lowrys. I cut back the corn to just one can and I also used a little less than 2 cups cheddar cheese. I sliced up and fried about 4 precooked style brat-sausages (like johnsonville) and I added them at the end, just to heat before serving. Unfortunately the sausages I had on hand were a spice anduoille sausage style and I think it could have been better with more of a traditional sausage or beer brat. Ham would have been good too."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cori"
+},
+"reviewBody": "Added chicken bouillon to the water. Added garlic.\nDoubled the recipe.\nAmy loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CSIMelissa"
+},
+"reviewBody": "Was looking for a vegetarian potato soup recipe since I'm allergic to chicken and I thought I'd never find one! This one fit the bill. When I made it I omitted the carrots and the celery because I had none and was snowed in so I couldn't go to the grocery to get any. Only thing the recipe wasn't clear if you should drain the water off the potatoes and onion once they are boiled. I did but after reading reviews that was an \"oops\" because apparently you're not supposed to. My soup was thick so I added a little more milk. I also added fresh garlic and some other seasonings. Perfect! Will repeat."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kevin Smith"
+},
+"reviewBody": "I added bacon and a can of creamed corn, very yum"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LaraKat"
+},
+"reviewBody": "I used 1 c. of frozen corn instead of canned corn and only 1 c. of cheese, plus I added a little celery seed and fresh ground pepper. I also diced my potatoes and carrots to about 1/2\", which really sped up the cooking time. Great recipe. I'll definitely make it again soon."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Ginger Turner"
+},
+"reviewBody": "I made a huge pot of this, thinking I would have some for leftovers... boy was I wrong! My family couldn't get enough! I used frozen corn instead of canned though, so it would be healthier (canned veggies have NO nutritional value!) and taste better. I think I might add some ham next time, but it's good without it too. All in all, VERY GOOD! :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sharon Fields"
+},
+"reviewBody": "This is a wonderful chowder and easy to make. I did cut up and cooked 5 bacon slices then drained the grease off and set aside to use later for garnish before I added the vegetables. Shared with a friend who loved it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "healthycook"
+},
+"reviewBody": "I added a cube of chicken bouillon to water while veggies were simmering. In the end it tasted very bland to me, but with adding crumbled bacon, a couple pinches of dried rosemary, a dash of creole seasoning it was Delicious! The recipe has a good base but definitely needed some key flavor components added. The good thing is that you can be creative &amp; add what you like to make it taste good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "audlyn"
+},
+"reviewBody": "I made it for a crowd (triple recipe) and got many compliments. The taste was awesome!! Changes i made included adding 1-2 garlic cloves, 1/2 tsp rosemary, and using part skim evaporated milk. I only used 1/3 salt in recipe but it was perfect with cheese and bacon . Served these on the side due to guest needs. I prefer a more hearty texture so would easily triple the vegetable amounts (potatoes, carrots, celery)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Celine"
+},
+"reviewBody": "grainy. only 1 can of corn is enough. somewhat bland."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "abrownie"
+},
+"reviewBody": "I made the potato chowder yesterday and it was a hit with my family. \r\n\r\nThank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jmillard"
+},
+"reviewBody": "My boyfriend and I loved it. Very delicious and easy to make. I made two small changes by using vegetable broth instead of water to boil the veggies in and then replacing the can of corn with a Midwestern mix of corn, blackbeans and red pepper! I will definitely be making this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "vallen241"
+},
+"reviewBody": "This was ok. I make a great corn chowder and a great potato soup. This mix was less than pleasant. I won't be making this again. The leftovers went bad in the fridge because no one wanted it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Iluvwildrice"
+},
+"reviewBody": "This recipe provides a great starting point. I added 4 vegetable bullion cubes and six cups of water to make a more flavorful soup. I also added asparagus and mushrooms toward the end of the boiling process to make this more of a spring vegetable chowder."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "bozers"
+},
+"reviewBody": "This was a wonderful soup for some very cold days here in PA lately! Didn't change a thing except triple it to share with some older neighbors. Thanks for a great soup recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Irene Silva"
+},
+"reviewBody": "Great soup. Since it's just my husband and me, I was able to reduce the serving portion."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "hkane"
+},
+"reviewBody": "My husband and I really enjoyed this recipe. Great soup for a cold snowy day in WI. I will be making this again, the only changes I made was add a little extra veggies and that was it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "SidGoldberg"
+},
+"reviewBody": "This was the first chowder I ever made and it was so easy and delicious! The only change I made was using chicken broth instead of water to cook the vegetables. Rich, creamy, savory - perfect on cold winter nights."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "bigmamax4"
+},
+"reviewBody": "Very Yummy! I'm so stuffed from it right now! For more flavor, I cooked the veggies in fat-free low-sodium chicken broth, added some onion/herb seasoning blend and ground white pepper. I didn't use the full 2.5 Cups of cheese because it seemed like too much to me, but I bet it would've been fine, since I didn't drain the broth from the veggies. Regardless, 4 out of the 6 of us LOVED it. The youngest (4 &amp; 5 yrs) were OK with it and they are REALLY hard to please. Winner!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "becca572"
+},
+"reviewBody": "YUMMY!! I made this for company &amp; got rave reviews! Can't wait to make it again. I tripled it, so instead of using 6 c. milk, I used 2 c. half-and-half &amp; 4 c. milk. I have a friend who uses evaporated milk so I'll probably try that next."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "HeatherB"
+},
+"reviewBody": "Great soup! I used half and half, cream corn, and pureed some as other users did. Also Lawry's seasoned pepper really made the difference. It's my boyfriend's seasoning for everything he eats! Not really spicy, but brings the flavor way up!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "StacyB1012"
+},
+"reviewBody": "Delicious! This was my first time making a potato chowder and I'm so happy with how it turned out. Like others suggested, I almost double the veggies, used one can of creamed corn, and put half of the vegetable mixture in the blender to thicken up the soup. So great with french bread."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sara Hedger"
+},
+"reviewBody": "I love this! Thank you for sharing. I 1st made this over a year ago and have made it many times! It is so good. I have also made it with out the cheese when we were out of it and it stills turns out awesome! Thanks again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kitchen Witch"
+},
+"reviewBody": "Easy, fast and tasty. Going in my \"keeper\" book. I used homemade chicken broth instead of water. I also used 2 cans creamed corn, 1 can whole kernel corn and added black pepper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "jess50x"
+},
+"reviewBody": "The only change I made was a slight increase in onions but other than that, left the recipe as is. THIS SOUP IS VERY BLAND! I added some spices to my own portion but couldnt fix it much. I cant even see how chicken stock could make it better. I would definitely try a different recipe. Rated 2 stars instead of 1 because the potatoes were cooked the way I like them (very soft) and they were slightly flavorful."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Kitten"
+},
+"reviewBody": "I've made this twice now; both times I used chicken stock instead of water, and the second time I added chopped heat-and-eat Italian sausage. It's very good without the sausage, but my fiance and I like it even better with the sausage! This is definately a new comfort food, and comparably healthy when you use 1% milk and Promise margarine. :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Joshua Miller"
+},
+"reviewBody": "My son eats bowl after bowl of this soup. Every time I have made I am out of Celery but even without it's still good. I also double the cream part to make the soup extra creamy."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "KaylaMayaCamrynMOM"
+},
+"reviewBody": "I added more potatoes and tons of seasoning to this soup and we still didn't like it. I also boiled the vegetables in broth, but this is not a keeper for my family. We each finished our one bowl, because we were hungry and that is what we had for supper, but I wouldn't make it again. The corn made the soup sweet and I imagine without adding the stuff I added, the original would have been very bland."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jackie1065"
+},
+"reviewBody": "Very easy to make &amp; tastes great! Very nice comfort meal. Can't wait to serve tonight for dinner. I used skim milk with prepacked finely shredded mild cheddar. This will help for the real creamy texture. Working on the bread bowls while this sits and I'm sure gets more savory!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jaxmona"
+},
+"reviewBody": "This is me favorite homemade soap! I halved the corn and add a few more veggies."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Beccah"
+},
+"reviewBody": "This was a good base for a soup but I thought it was pretty bland. If nothing else it atleast needs some salt and black pepper."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ZIPORAHS"
+},
+"reviewBody": "I just finished preparing this soup. bland, bland ugh. Added salt, pepper, italian spices, basil nothing seems to help. Won't be making this again. Hello again...looked up another potato chowder soup and reviewers recommended rosemary. I ground the rosemary finely and added it to the soup. Yummo!! That did it..I'll be making this again and again. DH had two bowls..he loved it. He's a big soup eater."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Liza C."
+},
+"reviewBody": "Excellent if made with chicken broth in place of the water! Probably fine with just water, too, though. Great combination. So yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "jerseymom4"
+},
+"reviewBody": "Easy and very satisfying on a cold night. I did make changes per others reviews. Changed 1 of the cans of corn to a can of sweet creamed corn Used 1 cup 1/2 and 1/2 with 1 cup of lowfat milk. Used \"No-Chicken\" broth (vegetarian chicken broth) instead of water. Although I am not sure if it matters, I also sauteed the onion, celery and carrots in 1T of butter before adding the broth."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Josie"
+},
+"reviewBody": "Wonderful comfort food!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "jo ghadban"
+},
+"reviewBody": "yummy delish . . . with some changes. i'm a vegetarian so this soup was perfect and tasty. i added vegetable bouillon cubes when cooking the veggies instead of just water. and i added a teaspoon of red pepper flakes - it gave the soup a nice kick without being spicy. i used half velveeta cheese and half cheddar instead of all cheddar to the white sauce - velveeta melts better, stays creamy and doesn't separate like cheddar. finally i added fresh ground black pepper to taste. my family - who are not vegetarians loved it. then i gave some of the soup to friends and they raved about it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Volleyballmom"
+},
+"reviewBody": "Loved this and picky kids did too! I used chicken broth instead of water. Next time I think I would use more potatoes (3 cups) and carrots. Thanks for the great recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tony"
+},
+"reviewBody": "This soup will make your guest think you were at the stove all day. My family all loved this soup and it is Very good recipe.It is quick and easy. Followed the recipe and did not change a thing. Thanks !"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Leakey Lady"
+},
+"reviewBody": "Great. Easy &amp; Delicious. I used 1 can corn and 1 can cream corn. I will definately make this again"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Denise"
+},
+"reviewBody": "I've used a recipe exactly like this for years and my family loves it! Sprinkle some bacon bits and shredded cheese in each bowl and it's like a loaded baked potato!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "OFF the HOOK!"
+},
+"reviewBody": "I loved this soup. I took someone's advice and added two chicken bouillon cubes to the water that covers the veggies. It was amazing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "bon21mags"
+},
+"reviewBody": "I thought this soup was pretty bland. I added quite a bit of garlic, pepper, and salt. My husband thought it was pretty good though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "<3Loves2Bake<3"
+},
+"reviewBody": "I'll admit, this was pretty good. After I read the other reviews, I also cooked the potatoes, carrots and celery in chicken broth. Yummy! I think I might have slightly scalded the flour mixture, but thats my own fault. I'll try and be more careful next time. I also added some pepper to the soup. Mmmm."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rosebud soup"
+},
+"reviewBody": "this an excellent soup for a cold winter day....only change is less onions, and added frozen peas. Very very good!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tara"
+},
+"reviewBody": "This soup got great reviews from everyone that was fortunate enough to get a spoonful! I used all chicken stock to cook the potatoes, it really did make amazing flavor. I also used much more potatoes and veggies, as I was really trying to maximize the recipe. Instead of 2 cans of corn, I took a previous reviewers advise and used one can of creamed corn and one regular (Del Monte Summer Crisp). I also used 1C 2% milk and 1C half and half in order to add to the creaminess of the chowder. I think the most important step was that I removed about 1/3 of the potatoes after they were cooked, as well as a handful of other veggies, blended them with an immersion blender, and added them back into the soup. It made a super amazing texture. I will be making this again, and am already taking requests from my family and coworkers for another batch!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SuziandBear"
+},
+"reviewBody": "Delicious and very easy. I, too, used homemade veggie stock--and used the veggie scraps to make more soup stock later."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Greeny002"
+},
+"reviewBody": "love it"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jenny Lewis"
+},
+"reviewBody": "Really good soup! I did use veg broth instead of water. Very tasty as is and also good with a bit of thyme, sage, and old bay seasoning. I will definitely make this again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "gretchen gragg"
+},
+"reviewBody": "this is definitely my favorite creamy soup i have made. the only reason i gave 4 stars and not 5 is that without a couple additions i think it would be a little bland. i added chopped garlic to the simmering veggies as well as some crushed bay leaves. you could also use chicken broth instead of water and that would kick up the flavor too. this is a really excellent chowder and while its not completely healthy with all the cheese its a great way to get my son to eat carrots and celery (i added more than suggested) sooo good on a cold day, thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "BREN1226"
+},
+"reviewBody": "This was sooo good! Only thing I would recommend is seasoning up the butter/milk/flour mixture. I added salt, pepper, and garlic powder...yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Michelle Culmone Povey"
+},
+"reviewBody": "This soup is great! I added some cubed ham pieces and garlic powder. Made this for a fall camping trip and everyone thought it was awesome."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "blkimmel"
+},
+"reviewBody": "Very good! We were out of potatoes &amp; onions so I added 2C of frozen hash browns &amp; 1C of broccoli. Ended up MUCH better than expected!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Lisa Civitillo Blok"
+},
+"reviewBody": "My son loves corn and this was a good recipe to use my leftover corn on the cobs from last weekend's bbq party. Can't wait for tomorrow and have some leftovers."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tami F"
+},
+"reviewBody": "This is great! I didn't exactly follow it, so I don't know if it would be too bland. Since I didn't give it a chance as is, I didn't want to take away a star. I would suggest starting the milk mixture about 10 minutes into the simmer and adding a bay leaf to the veggie pot. I ended up standing at the stove for ten minutes stirring because I didn't want globs in the soup. I also used chicken broth. Put the veggies in first (added a few cloves of garlic)and added chicken broth to cover. I cooked them for about 5 minutes or so--just until tender crisp. Then I added 6 medium potatoes and proceeded as written. Oh, and I forgot the cheddar cheese but it was great even without it! Thanks for sharing! (I plan on adding cooked chicken to it tomorrow. Yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "itgirl76"
+},
+"reviewBody": "This a great basic recipe but I added a lot of different items because it was a little bland. I added Fresh sage, thyme, oregano and garlic powder and fresh jalepeno. I don't particularly like cooked carrots so I left them out."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ROBYNBNB"
+},
+"reviewBody": "This was sooo easy(gotta like that!). I didn't have celery and didn't add salt, but did add a little chipolte spice and fresh instead of canned corn. I would make again 4 sure."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "K.C. Williams"
+},
+"reviewBody": "Made this for the first time tonight. What I love about it is that the ingredients don't have to be exact - for example, one potato yielded more than 2 cups chopped so I just threw it all in anyway. I also added two baked chicken breasts (unseasoned.) I'm not sure I got all the cheese because I grated it right in the pot and didn't bother measuring. After we had some, we decided it was still missing something. So I tossed in a capful of bacon bits and will probably add a little more cheese when I reheat it for lunch tomorrow. All in all, a great recipe considering it can be altered based on what you have available!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Julie"
+},
+"reviewBody": "The whole family loves this! I don't peel the potatoes and I use a lot more than 2, but then again, I never measure anything. I thought I'd have leftovers the first time I made it, but they finished it all! Now I at least double the recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MELANIE95"
+},
+"reviewBody": "Awesome! I have five children..and they all loved it! :) Quick..easy..wholesome! Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "ROBERTL30"
+},
+"reviewBody": "No flavor. I fixed it up with chicken granules, bay leaf, celery salt, worstershire. Better. More of a soup than a chowder (watery). But a good basic start."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "trooworld"
+},
+"reviewBody": "This was very good and hardy. It was a little bland but I think it would have been more bland if I had not made some changes. I cooked my veggies in 30 oz of chicken broth + about 1 cup of water and a chicken boullion cube. I added about 1/4-1/2 tsp of garlic powder and I added black pepper. Instead of cooking the butter, milk and flour separately, I added the butter to the veggies and in a separate bowl, I whisked the milk and flour and then added that to the pot. It came out really good and I'll make it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Jenny"
+},
+"reviewBody": "This was a little bland, so we added some habanero pepper sauce to induvidual servings and that brightened up the flavor. I still prefer a corn and potato chowder without cheese, though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "nikkie"
+},
+"reviewBody": "I give this recipe 3 stars because I change a lot, but it is a good basic recipe. I sauteed my potatos and onions first with oregano, pepper, garlic and fresh garlic. I cooked the chowder in my slow cooker. I added water with a chicken bullion cube. Addedd the potatos, then cooked some frozen vege mix with some maragine and salt on the stove and added to the soup. I let it cook a few hours and then cooked fresh mushrooms on the stove and then added. did the flour, margarine and milk mix the same and just added some pepper. came out really good! i'll be making it again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "4beauties"
+},
+"reviewBody": "Very good. My husband loved this. I made sure to save the leftovers for him. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "MushroomMafia"
+},
+"reviewBody": "This is the greatest chowder soup I've ever tasted.You can really taste the flavors.I give it 2 thumbs up."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gina Bigness"
+},
+"reviewBody": "this recipe was very good. I cooked up some bacon and threw that in. it gave it a good flavor"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tiffany"
+},
+"reviewBody": "Very thick and cheesey soup. I took the advice of the others and used chicken broth (instead of water). Very easy, quick, and tastey recipe. Thank you for sharing this."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "psumissy"
+},
+"reviewBody": "I made this for a potluck, everyone commented how delicious it was. Anyone can make this...your friends and family will think you are a gourmet!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Momsthebestcook3"
+},
+"reviewBody": "wonderful i only left out onions, celery,carrotts because i dislike them everything was wonderful very good thanks for sharing i will make plenty more of this recipe"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/23859/potato-chowder-soup-i/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/184/soups-stews-and-chili/soup/vegetable-soup/",
+"name": "Vegetable Soup Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1552/soups-stews-and-chili/soup/vegetable-soup/potato-soup/",
+"name": "Potato Soup Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/23859/potato-chowder-soup-i/",
+"name": "Potato Chowder Soup"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

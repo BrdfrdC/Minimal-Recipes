@@ -1,0 +1,826 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Easy Broccoli Salad"
+,"datePublished": "2012-02-10T12:05:08.000-05:00"
+,"dateModified": "2022-01-14T01:40:59.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Chef John"
+,"url": "https://www.allrecipes.com/cook/foodwisheswithchefjohn"
+}
+]
+,"description": "This simple broccoli salad kicks up ordinary broccoli with some lemon and red pepper flakes."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/49QInLzE4Oy38SzA1UJTGGLyDhc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/805840-228b2e9443d44aa0a39c0f8ecc5f6d0f.jpg",
+"height": 250,
+"width": 250
+}
+,"video": {
+"@type": "VideoObject",
+"embedUrl": "https://players.brightcove.net/1033249144001/default_default/index.html?videoId=1381379450001",
+"description": "Watch Chef John make an easy, healthy broccoli side dish.",
+"duration": "PT3M39S",
+"name": "Easy Broccoli Salad",
+"thumbnailUrl": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/1033249144001/1f3d7e19-5344-4c79-a6c9-27d3506eacc1/2abb9efc-6483-4614-81b1-7f8c1cef941f/1280x720/match/image.jpg",
+"uploadDate": "2021-07-15T07:14:47.274-04:00"}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Easy Broccoli Salad"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.1",
+"ratingCount": "76"
+}
+,"cookTime": "PT5M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "223 kcal"
+,"carbohydrateContent": "13 g"
+,"fiberContent": "5 g"
+,"proteinContent": "5 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "73 mg"
+,"sugarContent": "3 g"
+,"fatContent": "19 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1.5 pounds fresh broccoli",
+"3 cloves garlic, mashed into a paste",
+"2 tablespoons lemon juice",
+"2 tablespoons rice vinegar",
+"0.5 teaspoon Dijon mustard",
+"1 pinch red pepper flakes, or to taste",
+"1 pinch salt and ground black pepper, or to taste",
+"0.33333334326744 cup olive oil" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Trim bottoms of broccoli stems and cut off broccoli heads; cut the broccoli heads into quarters. Peel broccoli stems and cut into quarters crosswise."
+} ,{
+"@type": "HowToStep"
+,"text": "Bring a large pot of lightly salted water to a boil; reduce heat to medium and cook broccoli until tender when cut with a paring knife but still slightly firm, 5 to 6 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Transfer broccoli to a large bowl filled with cold water and chill to stop the cooking process. Drain well. Arrange broccoli in a colander with the florets facing down towards the holes of the colander and allow broccoli to drip for at least 30 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk together garlic, lemon juice, rice vinegar, Dijon mustard, red pepper flakes, salt, and black pepper together in a large serving bowl. Slowly drizzle in olive oil while whisking rapidly until the dressing is thick and creamy. Adjust salt, black pepper, and crushed red pepper flakes to taste."
+} ,{
+"@type": "HowToStep"
+,"image": [
+{
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/49QInLzE4Oy38SzA1UJTGGLyDhc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/805840-228b2e9443d44aa0a39c0f8ecc5f6d0f.jpg"
+}
+]
+,"text": "Toss broccoli with the dressing; let stand 5 to 10 minutes to marinate, then toss again. Can be refrigerated up to an hour if you want to serve the salad cold."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT50M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Great recipe! Making it again today :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sharon Dunavent"
+},
+"reviewBody": "This recipe was excellent! Even a vegetable hater would love it. I made it with one head of broccoli without the stems and the regular amount of sauce. About 2 large servings plus a little for the dog who also loved it. I served it with roast rosemary chicken and roast sweet potatoes."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Carly"
+},
+"reviewBody": "This recipe is just so good! I've made it several times in the past month. It is just that good. The first time I made it exactly as the recipe indicates and it was delicious, but I wasn't loving the red pepper flakes. So now I skip that part and it is still very flavorful."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hoobski"
+},
+"reviewBody": "This is amazing!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "fireball0821"
+},
+"reviewBody": "Made it luke warm instead of a cold salad. Was good but think next time will increase spices and decrease olive oil. Good flavor all in all though."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "BARNKITTY"
+},
+"reviewBody": "This is NOT what I think of as a \"broccoli salad.\" It made a tasty warm side dish though. We tried it 'cool' and microwaved it to heat it back up; we much preferred it warm. To make the dressing, we whirled everything in the food processor and only used enough olive oil to make it 'creamy'. I think 1/3C of oil would be too much."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "JOYCE LITOFF"
+},
+"reviewBody": "I needed a make-ahead vegetable for a pot luck. This was easy and portable. I added some steamed baby carrots for color. This was gobbled up!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "just_jam"
+},
+"reviewBody": "i really liked how this came out.. based on other reviews i quartered the oil and steamed my broccoli (for about 12 min's) instead of blanching it.. i also used cayenne instead of the red pepper flakes (old habits die hard).. very tasty.. ty for the recipe"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "shirley"
+},
+"reviewBody": "It was delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Carolina"
+},
+"reviewBody": "Just wasn't a fan. It sounded good--didn't care for the vinegar taste. I won't be keeping it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "SPARROW"
+},
+"reviewBody": "Quick and delicious. I followed everything exactly the first time. As far as taste, texture and calories, I didn't mind the amount of olive oil called for, but I do agree with everyone that it can be reduced, especially if you're in diet mode. Jillian gave us a great suggestion to try fresh green beans or brussel sprouts &amp; Nana Deb added cauliflower. Their ideas inspired me to go crazy with it and try a medley - smaller cuts of broccoli, cauliflower, quartered brussel sprouts, green beans, carrots, button mushrooms and fresh chopped parsley. My crew thought it was tasty. I've also made the dressing as a salmon marinade with addition of dried dill &amp; tarragon (I loved it but got mixed reviews from the crew). I'm taking the medley version to a bbq tomorrow so I thought I'd share my thoughts and let all of you know how much I appreciate and inspired by your ideas. To quote Chef John \"AND AS ALWAYS...ENJOY!\""
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Dena Boeger"
+},
+"reviewBody": "This was somewhat bland so I added sliced red onion which helped some, but not enough."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sharon Shackelford"
+},
+"reviewBody": "YES and I love it. It is an excellent source of fiber and calcium.\nI tweaked it only slightly and added a touch of sugar or stevia and reduced the olive oil in half. I am going to make it again and add equal amounts of cauliflower. SKAY"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Shelley Dima"
+},
+"reviewBody": "Not a favorite for us."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Robbie"
+},
+"reviewBody": "This had a good flavor, but I thought the olive oil was too much so I cut it back. That helped make it not so greasy. I need to learn how to mash garlic into a paste.. My dressing was pretty chunky! :). But I did like the flavor overall and will make this again. Thanks."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Paul Keith Sears"
+},
+"reviewBody": "This was pretty good broccoli. A nice change from our usual boiled and buttered fare. I served it chilled."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "LLeeLLee"
+},
+"reviewBody": "Yummy and simple. Reduced oil by half based on previous reviews, and I definitely recommend it. Only used 2 cloves of garlic because the kiddos complain that garlic is \"too spicy\" but I'll use all 3 cloves next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cooking in Brooklyn"
+},
+"reviewBody": "We love broccoli, but I think family was tired of the usual sauteed broccoli with garlic. This salad has the perfect tang and family appreciated a new recipe. Thank you, Chef John."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "BettyeM"
+},
+"reviewBody": "I have always made it a habit to read over the reviews when attempting a new dish, however, I must had been in a hurry to get this on the table and completely forget to read one single review. Needless to say it was quite oily and the flavor was lost. I tried adding more of the other ingredients and I added way too much lemon, that of course was my fault. I'm sure I will get a chance to try it again because I like other ways to eat broccoli other than just steamed."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "YummySmells"
+},
+"reviewBody": "I loved this, but only found I needed 1 tbsp of oil. 1/3 cup is far too much"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Gail"
+},
+"reviewBody": "Made this night before last, and it was great. Even the leftovers which I had last night were still firm and delicious. Next time, I think I'll add some crispy bacon and sprinkle of parmigiana cheese on top."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sas"
+},
+"reviewBody": "This is wow. I used stoneground horsersdish mustsrd, cut the broccoli up a bit more, and added quinoa for a complete lunch. Thanks Chef Jonn."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Jessica Wetherington"
+},
+"reviewBody": "The sauce was to garlicky."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Laurie D"
+},
+"reviewBody": "So Good. This one is a keeper"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "QUEENLUCY"
+},
+"reviewBody": "Scrumptious! Absolutely too much oil, so the only change I made was to reduce the oil to 3 Tablespoons. Very refreshing flavor. I've served it both warm and cold. I like it both ways, but hubby says he prefers cooked broccoli warm. I had the leftovers a few days later and even though the broccoli was no longer bright green (due to sitting in the dressing so long), it still tasted delicious."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "lilorchid82"
+},
+"reviewBody": "Really like the dressing. I didn't have lemon juice, and only used 1T of WHITE wine vinegar and a tsp of lemon zest. Added less than 2T of quality evoo. I can see this on reg rotation. I found that my broccoli steamed in less than 4 min. I'll keep a closer eye on it next time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "pattyknox"
+},
+"reviewBody": "This salad is truly simple and delicious, I have done it couple of times for me and my husband ans always work even alone!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stacy"
+},
+"reviewBody": "I've always liked adding a little something to broccoli, usually a bit of parmesan cheese. My man is a a big fan of all things lemony, so I gave this a try. We both loved it. If I change anything at all, I'd reduce the amount of vinegar by a wee bit."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Tammi Vik"
+},
+"reviewBody": "This was very tastey. I should have cooked for only 5 minutes from the moment I dropped the broccolli into the water (it was a little mushy)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Susan"
+},
+"reviewBody": "Ok, what did I do wrong??? Could not get the dressing to thicken up using a small whisk. The broccoli cooked fine at 6 mins. It spouse would rather not eat a cold salad broccoli. May try this again as we like broccoli.. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "swm"
+},
+"reviewBody": "I made this a few times and for me, it is 5 stars with one caveat: it doesn't need that much olive oil. I added less than half and thought it worked fine. My family and I love broccoli and this was a fun way to make it more interesting without overpowering the taste of the veggie. I also like that the recipe makes good use of the stem. I served with lemon broiled salmon and rice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jillian"
+},
+"reviewBody": "So simple, yet so good! This really perks up regular 'ol broccoli and delivers a nice amout of sweet and heat. I did cut back on the olive oil a bit but other than that didn't change a thing. This is excellent warm or cold and would be great over green beans or brussel sprouts as well. I liked the dressing so much I added a little sugar and it was perfect over a mixed green salad. Thanks Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Rhoda"
+},
+"reviewBody": "Excellent way to prepare broccoli. Very fresh tasting and very tasty too. I steamed the broccoli but made no other changes I always enjoy Chef John's videos. He is so entertaining and his recipes are great."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Erin W"
+},
+"reviewBody": "Yum! Light and fresh and very easy. I steamed my broccoli for 5-6 minutes and I cut down on the oil (used 2 TB). This is tangy but in a good way. Will make again!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Nancy G"
+},
+"reviewBody": "Did not like the flavor of this - at all. Way too garlicky!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mel Coon"
+},
+"reviewBody": "Very fresh, watch the video for great tips! I followed his advice and the broccoli was perfectly cooked, not mushy, and made my mouth pop! :-) Thanks for this!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Jess13"
+},
+"reviewBody": "I have to say this wasn't my favorite; i prefer plain brocoli! I think it's because I'm not typically a fan of horseradish/dijon mustard and I found the flavour of that overpowering. However, if you like those, you will like this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Jo"
+},
+"reviewBody": "Not good for me at all. Maybe way too much vinegar or lemon but it was not nice."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Teresa Seamonson"
+},
+"reviewBody": "This salad sounded good when reading the ingredient list, but I did not like it. Wished I would have."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Nana Deb"
+},
+"reviewBody": "I bought 2 bags of broccoli cauliflower mix. I steamed them for 4 minutes, dumped in a bowl and put right in frig for an hour, took them out mixed with dressing and let sit at room temp 30 mins-no peeling slicing draining or straining-plus the veggies retain more of their nutrients"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ulally"
+},
+"reviewBody": "Great recipe...The only thing that I did different was steam the brocolli."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "julie ann"
+},
+"reviewBody": "Delicious! Everyone loved this; I made a double batch and have very little left over. This will be a both summer and winter side dish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "vicki"
+},
+"reviewBody": "Prepared this as a side dish with burgers. I also blanched carrot slices and cucumbers for this - it was very good and colorful. I didn't put as much pepper flakes in the recipe for our taste, and omitted the vinegar, but used a little more lemon juice. Very tasty. Will make again. Thank you Chef John."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Emily Tisdale"
+},
+"reviewBody": "Used only florets and tested after boiling for two minutes, which was plenty of time to cook tender. Cut the oil back to 2 T. and next time will cut the rice vinegar back to 1 T. Might be more interesting with cauliflower florets and thinly sliced carrots added."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Cynthia"
+},
+"reviewBody": "I loved as is. I used all of the oil olive and got a nice emulsion."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Lori Booth"
+},
+"reviewBody": "Good but needed a little more , so I added roasted garlic seasoning and some thinly sliced purple onion for color variation."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Spyce"
+},
+"reviewBody": "Nice, easy, and tasty. I only used a couple tablespoons of olive oil, and let it sit in the fridge for an hour. Served with grilled salmon kabobs, and the orzo with basil and parmesan from this site."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tana Star"
+},
+"reviewBody": "Nice, healthy, flavorful version for eating our most consumed veggie! We love it!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Flatroad12"
+},
+"reviewBody": "This was fantastic! Cut the olive oil in half because I thought it might be too oily. It was great like that. It's a definite keeper for us. 3 of us ate it all up it was so delicious with a little bit left for hubby's lunch tomorrow. Follow Chef John's video.\nI just have to add to my review: we have made this several times since my last rating and I LOVE this stuff!! I follow the video exactly for cutting it and putting it in cold water to stop the cooking. I do cut the oil though, because it would be way too oily if we did not. When I make it now I have to make extra we love it so much. I have never been a fan of broccoli in the past and do not really care for it raw. But I have become a fan of broccoli because of this recipe. It is simple to make and the red pepper flakes give it a nice appearance and pizzazz if making it for company."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "rookie"
+},
+"reviewBody": "I would have given this five stars but it had too much olive oil for my taste. Next time I will cut the olive oil in half. Other than that, the flavor was really good."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "danij214"
+},
+"reviewBody": "Great, simple recipe! I had a package with both broccoli and cauliflower combined, so I added both to this recipe, and it was delicious. I also added a bit of sweet to the vinegarette to balance the flavor a bit (agave syrup). I wanted to also comment on Chef John's video presentation. He has a wonderful down-to-earth way about him and I picked up a lot of good tips about broccoli preparation in general from this video. Thanks for the recipe, Chef John!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "JanHomeCookin"
+},
+"reviewBody": "Who knew something so simple could be so good? This has such a fresh clean taste. The dressing is a bit more acidic than I like but that's just me. I added about 1/2 tsp honey to balance it out. We'll have this often! I bet this would be great with asparagus, too. Tomorrow night!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/220184/easy-broccoli-salad/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/219/salad/vegetable-salads/",
+"name": "Vegetable Salad Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/15103/salad/vegetable-salads/broccoli-salad/",
+"name": "Broccoli Salad Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/220184/easy-broccoli-salad/",
+"name": "Easy Broccoli Salad"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,141 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Spicy Chicken and Green Bean Stir Fry"
+,"datePublished": "2023-01-25T14:20:51.000-05:00"
+,"dateModified": "2023-01-25T14:20:51.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Bibi"
+,"url": "https://www.allrecipes.com/cook/bibi"
+}
+]
+,"description": "A quick stir fry recipe with chicken and green beans in a spicy sauce."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/7Uhe2WP4t8vNdZRhnf3QQkdtVA0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1670955413One-Pan20Green20Beans20and20Chicken20Thighs-0ef8bd1ec0e7446d929443e91a568e18.jpeg",
+"height": 960,
+"width": 1280
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Spicy Chicken and Green Bean Stir Fry"
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "460 kcal"
+,"carbohydrateContent": "16 g"
+,"cholesterolContent": "189 mg"
+,"fiberContent": "4 g"
+,"proteinContent": "48 g"
+,"saturatedFatContent": "4 g"
+,"sodiumContent": "1077 mg"
+,"fatContent": "22 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"2 tablespoons chili oil (such as Mongolian Fire oil), divided",
+"3 tablespoons soy sauce, divided",
+"0.25 teaspoon red pepper flakes",
+"0.25 teaspoon freshly ground white pepper",
+"2 pounds skinless, boneless chicken thighs, cut into bite-sized pieces",
+"1 tablespoon mirin (Japanese sweet wine)",
+"0.5 teaspoon granulated garlic",
+"0.5 teaspoon ground ginger",
+"salt to taste",
+"2 tablespoons cooking oil, divided",
+"0.5 cup sliced shallot",
+"1 pound fresh green beans, trimmed",
+"1 teaspoon chicken base",
+"0.5 cup water",
+"1 tablespoon cornstarch",
+"1 teaspoon sesame seeds" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Stir together 1 tablespoon chili oil, 2 tablespoon soy sauce, red pepper flakes, and white pepper in a bowl. Add chicken pieces and mix with marinade. Set aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Combine remaining 1 tablespoon chili oil and soy sauce, mirin, garlic, ginger, and salt in a small bowl; set sauce aside."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat 1 tablespoon cooking oil in a large non-stick skillet or wok over medium high heat. Add seasoned chicken pieces and sliced shallots to the hot oil. Cook, stirring frequently, until the chicken is no longer pink at the center and the liquid has started to evaporate, about 8 minutes. Transfer to a bowl and keep warm."
+} ,{
+"@type": "HowToStep"
+,"text": "Heat remaining tablespoon cooking oil in the same skillet over medium-high heat. Add green beans to hot oil and cook, stirring frequently, until beans turn bright green, about 1 minute. Add sauce and stir to coat beans."
+} ,{
+"@type": "HowToStep"
+,"text": "Return cooked chicken and shallots to the skillet and stir, about 3 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Stir together chicken base and water in a small bowl; stir in cornstarch to make a slurry. Drizzle slurry into the skillet, stirring quickly. Continue stirring and cooking until pan sauce is slightly thickened. Serve garnished with sesame seeds."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT35M"
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8522536/spicy-chicken-and-green-bean-stir-fry/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/259/main-dish/stir-fry/",
+"name": "Stir-Fry"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/2035/main-dish/stir-fry/chicken/",
+"name": "Chicken"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8522536/spicy-chicken-and-green-bean-stir-fry/",
+"name": "Spicy Chicken and Green Bean Stir Fry"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

@@ -1,0 +1,187 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Air Fryer Latkes"
+,"datePublished": "2019-11-27T04:01:04.000-05:00"
+,"dateModified": "2022-12-12T16:10:43.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Bibi"
+,"url": "https://www.allrecipes.com/cook/bibi"
+}
+]
+,"description": "Instead of frying your latkes on the stovetop in oil, lighten them up with this crispy air-fried recipe."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/kYdcSEQz7TqAeNCWZ44KOy70QDo=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Air-Fryer-Latkes-2000-0f2e534d19a44d679c700b85846f99d5.jpeg",
+"height": 1125,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Air Fryer Latkes"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "5",
+"ratingCount": "4"
+}
+,"cookTime": "PT20M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "97 kcal"
+,"carbohydrateContent": "19 g"
+,"cholesterolContent": "33 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "3 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "121 mg"
+,"sugarContent": "1 g"
+,"fatContent": "7 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT20M"
+,"recipeIngredient": [
+"1 (16 ounce) package frozen shredded hash brown potatoes, thawed",
+"0.5 cup shredded onion",
+"1 egg",
+"kosher salt and ground black pepper to taste",
+"2 tablespoons matzo meal",
+"avocado oil cooking spray" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Preheat an air fryer to 375 degrees F (190 degrees C) according to manufacturer&#39;s instructions. Lay out a sheet of parchment or waxed paper."
+} ,{
+"@type": "HowToStep"
+,"text": "Place thawed potatoes and shredded onion on several layers of paper towels. Cover with more paper towels and press to squeeze out most of the liquid."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk together egg, salt, and pepper in a large bowl. Stir in potatoes and onion with a fork. Sprinkle matzo meal on top and stir until ingredients are evenly distributed. Use your hands to form mixture into ten 3- to 4-inch wide patties. Place patties on the parchment or waxed paper."
+} ,{
+"@type": "HowToStep"
+,"text": "Spray the air fryer basket with cooking spray. Carefully place half of the patties in the basket and spray generously with cooking spray."
+} ,{
+"@type": "HowToStep"
+,"text": "Air-fry until crispy and dark golden brown on the outside, 10 to 12 minutes. (Check for doneness at 8 minutes if you prefer a softer latke.) Remove latkes to a plate. Repeat with remaining patties, spraying them with cooking spray before cooking."
+} ]
+,"recipeYield": ["5"]
+,"totalTime": "PT40M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "magick"
+},
+"reviewBody": "I tried these for Hanukkah this year, and they were amazingly good. This will be my go to recipe from now on."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "lutzflcat"
+},
+"reviewBody": "The key to crispy latkes is to get as much moisture out of the potatoes as possible, and I find that my Oxo salad spinner really helps with that. We enjoyed these as an appetizer, so I did make them a little smaller. They cooked at 8 minutes and were crispy, crunchy, and tasty. Served with a garnish of chopped parsley and sour cream and applesauce for dipping."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "matt151617"
+},
+"reviewBody": "I don't usually make these because they're unhealthy and messy. The air fryer eliminates both of those concerns. I made them as a side for salmon and loved them."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tuscan_Italian"
+},
+"reviewBody": "Wow, these are addictive! You better double the recipe, otherwise you will be sorry once you taste them because you will want more and more!\nThank you, Bibi for sharing such an amazing recipe!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/277453/air-fryer-latkes/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/917/side-dish/potatoes/",
+"name": "Potato"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1545/side-dish/potatoes/potato-pancakes/",
+"name": "Pancakes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/277453/air-fryer-latkes/",
+"name": "Air Fryer Latkes"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

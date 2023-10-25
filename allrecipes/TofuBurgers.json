@@ -1,0 +1,735 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Tofu Burgers"
+,"datePublished": "2000-03-27T11:26:58.000-05:00"
+,"dateModified": "2023-02-24T13:50:39.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "SILVERWOLF"
+,"url": "https://www.allrecipes.com/cook/35632"
+}
+]
+,"description": "Tofu burgers flavored with onion, celery, and Cheddar cheese are a nice alternative to beef burgers when topped with all your favorite burger fixings."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/WQDCaqKVopkILjghP3p6M95sbVQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1131681-cd0b385657de425ea101f7d3d4f6bce9.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Tofu Burgers"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "3.9",
+"ratingCount": "56"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "151 kcal"
+,"carbohydrateContent": "4 g"
+,"cholesterolContent": "28 mg"
+,"fiberContent": "2 g"
+,"proteinContent": "11 g"
+,"saturatedFatContent": "2 g"
+,"sodiumContent": "59 mg"
+,"sugarContent": "1 g"
+,"fatContent": "11 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT25M"
+,"recipeIngredient": [
+"1 (12 ounce) package firm tofu, frozen for 72 hours",
+"2 teaspoons vegetable oil",
+"1 small onion, chopped",
+"1 stalk celery, chopped",
+"0.25 cup shredded Cheddar cheese",
+"1 large egg, beaten",
+"salt and pepper to taste",
+"0.5 cup vegetable oil for frying, or as needed" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Bring a large saucepan of water to a simmer. Leave frozen tofu in its package and place into the water. Remove from the heat and let tofu thaw for about 20 minutes in the hot water."
+} ,{
+"@type": "HowToStep"
+,"text": "Remove tofu from the package and transfer to a plate. Place another plate on top of tofu. Set a 3- to 5-pound weight on top. Press tofu for 20 to 30 minutes; drain and discard the accumulated liquid."
+} ,{
+"@type": "HowToStep"
+,"text": "While tofu is draining, heat 2 teaspoons oil in a small skillet over medium heat. Add onion and celery; sauté until soft and lightly browned, about 5 minutes. Remove from the heat."
+} ,{
+"@type": "HowToStep"
+,"text": "Finely chop tofu and place into a mixing bowl. Add onion and celery mixture, Cheddar, egg, salt, and pepper; mix until thoroughly combined."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour 1/4 inch oil into a large skillet and heat over medium-high heat. Drop tofu mixture into the skillet in six equal portions. Flatten with a spatula to form patties. Fry until golden brown, 5 to 7 minutes per side."
+} ]
+,"recipeYield": ["6"]
+,"totalTime": "PT80M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Steff"
+},
+"reviewBody": "These came out great! I made a few changes. I used 1 egg instead of 2, added breadcrumbs, used carrots instead of celery, added garlic powder, onion powder, parsley and Italian seasoning. After I formed the patties, I put them in the fridge for an hour or so and they did not fall apart. I baked on 350. 15 minutes each side. Definitely a keeper. Will make again."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Christina Febbroriello"
+},
+"reviewBody": "This was the worst recipe ever. Not really sure how freezing the tofu is necessary and the amount of water that is extracted is impacted by the deep freeze and quick defrost. My version turned into a tofu scramble because there wasn’t enough binding ingredients to keep anything resembling a burger."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Stacy Brewer"
+},
+"reviewBody": "I used 2 eggs and I did not freeze tofu. Turned out really good! This is my first time ever eating tofu!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Therese M"
+},
+"reviewBody": "We found that one egg in one brick of previously frozen tofu is not nearly enough as a binding agent. We used 2 eggs, ½ cup of rolled oats and then the same amount of flour. I think once the tofu has thawed, it needs to be squeezed and drained for a long time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Elena Barere"
+},
+"reviewBody": "I made these with slight changes: I didn’t want to fry, so I used my cast iron pan with maybe 2 teaspoons of oil. The mixture was a bit crumbly as was, I added some egg whites, and for flavor a tablespoon sriracha mayo as well as a healthy teaspoon red curry paste. It STILL was crumbly but I tried to be patient and kept the crumbles together in like patty form, lowered the heat and didn’t flip until I was pretty sure it would hold. It did! Voila! \nNext time I will wrap a towel around the tofu, put it between two cutting boards with some weight on top to control how much moisture is lost, in order to improve the texture. I see no need for freezing since you can control the water content that way."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Newbie"
+},
+"reviewBody": "This is the first time making Tofu burgers. I like the recipe but I substituted onions for green onions because of the recall, and I added garlic, chopped spinach, and grated carrots and zucchini in place of the celery with pepper jack and asadero cheese. \n\nI halved the mixture and made two large burgers. The other half I added a combination of black beans and chick peas (smashed) equaling less than a quarter cup and fried them. I liked both versions but in the future I will bake them."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Victoria Arzu"
+},
+"reviewBody": "This recipe needs work. Nobody has time for the freeze and defrost thing, first of all. Second, it needs way more spices than just salt and pepper so I added cumin powder, onion powder, garlic powder, chili powder, salt, and pepper. I guess because of how I didn't freeze it beforehand, it was difficult to bind together so I had to add and additional egg and more cheese. THEN, the frying was hard to get right without overbrowning them... And at least 2 out of 8 of them fell apart... It was a mess. BUT!! The taste was amazing. I ate 3 patties in one day. So great concept and foundational recipe but it's kinda tricky and difficult to execute without seriously tweaking it. I can't even imagine how bland it would have tasted without those spices."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tim Wilkerson"
+},
+"reviewBody": "LOVE IT! I froze the tofu and, after thawing, made sure I got as much liquid out before breaking it up with my hands and combining it with the other ingredients. I added 2 T nutritional yeast, some grated carrot, 2 t dried Italian spices, and another egg, then fried them in a hot pan with a couple tablespoons of olive oil. They held together great. This is one of the best uses for tofu I've tried! Really flavorful and toothsome!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Benito Costatini"
+},
+"reviewBody": "I fried the tofu burgers in a spray of Pam and it turned out great - I did not add cheese but I added fresh parsley they stuck together well in the pan and they are absolutely delicious- I cooked on high heat so they browned well!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "almevans"
+},
+"reviewBody": "I added super fine shredded carrots and a bit of All Season and plain bread crumbs to help keep it together. So yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Lorax"
+},
+"reviewBody": "I had to add breadcrumbs. I have to say these were awful. There was no taste, very bland even w/ flavored bread crumbs, and keeping them together in the pan was more of a challenge then these were worth. I Sorry!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Ms. Megan"
+},
+"reviewBody": "I found the recipe to be okay. I made some changes though. After I thawed the tofu according to directions and sautéed the celery and onion mixture I combined it in a bowl with two eggs because the ones I have are small and I also added about a tablespoon of garlic salt and about half a tablespoon of season all along with pepper. Then I preheated the oven to 350 degrees and covered a cookie sheet with aluminum foil (to keep the dish load to a minimum) and I placed the patties on it and put in the oven and I cooked them for about 15 minutes on one side them I flipped them and cooked them for another 15 mins."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Aliona"
+},
+"reviewBody": "Concerning that these burgers don't have any meat this was amazing! Even my picky husband loved it! Thank you for the recipe!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "crazydaisy"
+},
+"reviewBody": "I don't freeze the tofu beforehand. I drain in cheesecloth in a colander. And I add chopped peppers and scallions to the mixture. I love serving them on nice, fresh, while grain rolls with wasabi mayo, alfalfa sprouts, tomato, and sometimes a pickle. Yummo!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "rjwest75"
+},
+"reviewBody": "i used a grill with same results i used chipotle sauce to give it a glaze and didn't freeze it turns it into mock chicken* wich is very tasty tho! so i was able to get a burger taste"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "VeggieLvr12"
+},
+"reviewBody": "These were absolutely wonderful!!!! I even added a few extra spices just to test, and it tasted amazing! It's also good to add flour to the mixture after you have shaped it up so it will stick together and fall apart less!\n\nThanks for the recipe! This is sure to be a favorite of mine for a long time."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Big \"M\""
+},
+"reviewBody": "First time cooking and eating tofu - just sounded bland &amp; boring. I was pleasantly impressed and will keep a few of these ready to go in my freezer! The only thing I did different was add a little cornstarch and fry in olive oil. Even my husband thought they were good! I'm sure there is better out there - but decided a 5 star was the way to go. Thanks for the recipe!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "gardenmaster"
+},
+"reviewBody": "I made these without the cheese, added about 1/2 tsp. cumin powder, 1/4 cup oats, 1/4 cup wheat bran, and 1/4 cup shredded zucchini. Then stuffed them in bell pepper halves, baked them, and they were delicious. You could not tell you were not eating meat. Sprinkle just a little olive oil on them about halfway through baking so they don't dry out so bad before the peppers are done. Yum-Yum!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Axeman"
+},
+"reviewBody": "I am currently moving to tofu and made this for me and my boyfriend. We love it. I used the baking method and had some variations: \r\n*Squeezed the water out of the tofu for 20 min between plates &amp; paper towels\r\n*Then soaked the tofu in beef stock for 20min before crumbling into the baking pan\r\n*Sauteed green peppers instead of celery\r\n*Add fennel seed for a more meaty flavor\r\n*Add cumin, chili powder, and red pepper flakes to add spice(we like spicy)\r\n\r\nWith the cheese and egg it will do well in the oven. Used 2 eggs instead of one to make it bind a little more."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jaime"
+},
+"reviewBody": "8) I will definetly make these again one day theres plenty of time. Don't make on short notice they were worth it and next time I'll bake them. But had to add flour or else too wet. 8)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "dothemooshoo"
+},
+"reviewBody": "I added an extra egg white since my mixture was not binding well. Once in the hot oil... they didn't hold their shape and I got frustrated and started \"scrambling\" the whole thing. Maybe my tofu was old? It had been frozen for longer than 72 hours... :( Don't think I'll try it again since the flavor wasn't that good to me. I'm sad... :("
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "pattyward555"
+},
+"reviewBody": "Really good!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "Rochelle"
+},
+"reviewBody": "I found this recipe really boring and tasteless! I baked instead of fried it, and it had a horrible texture. It might be better if it's fried, but I wouldn't make it again. Sorry!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Marlee"
+},
+"reviewBody": "I loved this recipe! It ws my first time cooking tofu and it turned out delicious. I used lite tofu and cut way back on the oil, thereby making it very healthy as well as tasty. I threw in some garlic, too, for more flavour."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "Kyla"
+},
+"reviewBody": "It didn't turn out at all for me. They didn't stick together at all. It turn out as mush when i tried to fry them."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "VeggieGirl"
+},
+"reviewBody": "Tasty. I baked them and they were nice. The need some seasoning but you can jazz them up with just about anything."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Sariel"
+},
+"reviewBody": "Tasted kind of like plain scrambled eggs pushed together. I did everything as the recipe asked, besides using 1/2 a cup of oil. I used 1/4th of a cup and it was still way too much. I had a problem trying to keep them together. I wouldn't mind trying this recipe again, but I would definitely add more seasonings and less oil."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "SailorJane"
+},
+"reviewBody": "These tofu 'burgers' were great! Warranted, getting them to hold together was a challenge, (I added a dash of bread crumbs) but once they were in the pan, the oil kept them all in individual patties. I did add a little Adobo seasoning, parsley, and finely chopped red cabbage (in place of the onion) and about a tsp of dried minced onion. The consistency was a little more \"fried chicken sandwich\" than \"burger\" but delicious all the same and the whole family, including the meat-eaters, loved them."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "damhnade"
+},
+"reviewBody": "Tried these last night for dinner and was pleasantly surprised. I was never a huge fan of tofu but I'm trying to eat better and decided to give this a shot. I used exra-firm tofu, drained for only about an hour then squeezed the heck out of it. I didn't bother with the freezing thing. I added a little bit of Worcestershire sauce and a little bit of cumin but other than that didn't do anything differently. I baked them and served them on ciabatta rolls with spinach. These won't replace my hamburgers but are tasty."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "MLKet"
+},
+"reviewBody": "We really liked this recipe when we tried it a couple of nights ago. It tasted great!\n I got frustrated when I first put it in the pan because it doesn't hold together at all. But you can just dump in the whole thing and flatten it out. Don't be tempted to cut it or anything until it has browned on the bottom so it will set up. I was too impatient. Give it about 5 minutes before you even test it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Thyme Lord"
+},
+"reviewBody": "Didn't use egg and it fell apart. Tasty though!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "mustang2b1"
+},
+"reviewBody": "It was bit eggy in my opinion. When I would fry it, it smelt and looked like I was cooking scrambled eggs.\nInitially, I couldn't get this to hold together well in the pan either. I ended up freezing the patties and it worked better the second day."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "kuratenko"
+},
+"reviewBody": "I did not freeze tofu but instead put it in a colander and drained in the fridge for five hours. Then I crumbled it into chunks before mixing in other ingredients. If you use extra-firm tofu, it gets firm enough without freezing to be shaped into patties. I added two tbs of cornstarch as an additional binding agent. I also added miso (soy bean paste) for extra flavor. Added also shiitake mushrooms stir-fried with diced carrots. These patties are good even cold. My husband, who never cared for tofu, eats them."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I used mozzarella cheese instead of cheddar cheese but that's about all I did differently and the way the recipe was written they really would not have turned out had I not put in about a half a cup of flour because it was so watery. Tip to all and to myself: (next time), make sure you drain the tofu really well, because if you leave too much water it won't work. That said, with the flour that I put in, they turned out and they were tasty. :)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "viking"
+},
+"reviewBody": "Very very good. I made a couple of changes: 1)crumbled the tofu with my hands, (better bonding consistency) 2. added a tablespoon of ketchup and tablespoon of mustard to mixture 3. used zucchini instead of celery 4.refridgerated for 20 min 5. fried two minutes on each side in not a lot of oil and then put in over for remainder"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "As a Peace Corps volunteer, Im always looking for easy vegetarian recipies that can be made with basic ingredients. These burgers were fantastic and even worked out in improvised conditions. I added mushrooms and peppers since celery doesnt exist here and that was fine. Then baked them in the oven for about an hour, making sure each side was browned. Ill make these often, thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "huong"
+},
+"reviewBody": "It would be really difficult to fry these because it was hard enough trying to mold them to bake but they were really good. I didn't freeze the tofu and as other reviewers suggested added shitake mushrooms. I problably won't be making this again though"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "CHELSEASKINGIRL"
+},
+"reviewBody": "I had a hard time getting these to stick together, so I added a torn up bread roll to the mix and it worked great. I also cooked these in the oven. Yummy!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "AWO"
+},
+"reviewBody": "Like another reviewer, I used chopped shitake in place of the celery and added some chili powder. I also added an additional half egg I had sitting in my fridge. Even with the extra egg, the final mixture didn't stick together and there seemed no hope of making anything remotely resembling patties. I greased a two quart baking pan, packed the mixture in, baked it according to directions and cut it into squares instead. The end result is good and I'll probably make it again, but it's really more like a casserole than a burger."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Vincci"
+},
+"reviewBody": "My attempt at making these failed miserably. I was afraid that they wouldn't stick so I added an extra egg, and then they just wouldn't stay together in the frying pan so I baked them and they ended up tasting a bit too much like egg. I might try this recipe again just to see if I could fix my mistakes, but other than that I'm not its biggest fan."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "The Aluminum Chef"
+},
+"reviewBody": "Wow! These were fantastic! I changed a few things - used portobello mushrooms instead of celery, swiss instead of cheddar and I baked instead of fried. But they were easy to prepare, easy to bake and soooo yummy! Even my boyfriend ate some, and he's fanatically anti-tofu!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sara"
+},
+"reviewBody": "We like these better than Boca burgers -- the texture is so pleasing! I also added finely chopped shiitake mushrooms and chilled my patties in the fridge for 15-20 minutes to help them stay together."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "KEVINCOOK"
+},
+"reviewBody": "These are pretty good burgers...but there are way better tofu burgers out there. I baked these as the recipe suggested and they came out great...I couldn't bring myself to fry them in that much oil...kind of defeats the purpose of eating tofu in the first place!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "This was very good. We had them on buns like a burger. My husband asked to have them again. We didn't miss the meat at all."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "I thought it was fabulous. I served it on a bun with some barbeque sauce."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "BRIEKAESE"
+},
+"reviewBody": "These are very tasty! I used Nasoya five\r\nspice seasoned tofu and they were \r\nwonderful. I served them like hamburgers,\r\nwith lettuce, tomato, onion, ketchup etc.\r\nMy boyfriend loved them, and he hates\r\nall vegetables :)"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/18415/tofu-burgers/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/248/main-dish/burgers/",
+"name": "Burger Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1987/main-dish/burgers/veggie/",
+"name": "Veggie"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/18415/tofu-burgers/",
+"name": "Tofu Burgers"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

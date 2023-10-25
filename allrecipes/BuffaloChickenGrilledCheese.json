@@ -1,0 +1,144 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Buffalo Chicken Grilled Cheese"
+,"datePublished": "2022-09-07T14:26:41.000-04:00"
+,"dateModified": "2022-09-07T14:26:41.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Chef Mo"
+,"url": "https://www.allrecipes.com/cook/chefmo"
+}
+]
+,"description": "Buffalo chicken with blue cheese and pepper jack meets grilled cheese in this quick and easy sandwich."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/LPRwsJiRqCDTzeuMNN2vYoduzGU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Buffalo-Chicken-Grilled-Cheese-Sandwich-Chef-Mo-4x3-1-7f17fd5eabc04387aedd98c29213610c.jpg",
+"height": 920,
+"width": 1227
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Buffalo Chicken Grilled Cheese"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4",
+"ratingCount": "2"
+}
+,"cookTime": "PT5M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "531 kcal"
+,"carbohydrateContent": "30 g"
+,"cholesterolContent": "117 mg"
+,"fiberContent": "1 g"
+,"proteinContent": "32 g"
+,"saturatedFatContent": "16 g"
+,"sodiumContent": "1527 mg"
+,"fatContent": "31 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT5M"
+,"recipeIngredient": [
+"1.5 tablespoons Buffalo wing sauce",
+"0.5 cup shredded cooked chicken",
+"2 slices white bread",
+"1 slice pepper Jack cheese",
+"3 tablespoons crumbled blue cheese",
+"1 tablespoon butter, softened" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Combine shredded chicken, buffalo wing sauce, and blue cheese in a small bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat a small skillet over medium heat."
+} ,{
+"@type": "HowToStep"
+,"text": "Spread 1/2 tablespoon butter on one side of a slice of bread. Place bread butter-side-down onto the skillet bottom and place pepper Jack cheese on top. Top with chicken mixture. Butter a second slice of bread with remaining butter on one side and place on top of sandwich, butter-side-up."
+} ,{
+"@type": "HowToStep"
+,"text": "Cook sandwich in skillet until lightly browned bread and flip over; about 2 1/2 minutes per side."
+} ]
+,"recipeYield": ["1"]
+,"totalTime": "PT10M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "DREGINEK"
+},
+"reviewBody": "Really great sandwich recipe! I usually have Buffalo sauce on hand but I am out 😮 so had to use Franks Red Hot. Made on a panini press vs grilling like a grilled cheese- which was a fun twist! This panini method takes longer but when it’s just for two; totally fine! Dipped the finished sandwich in ranch and/or more blue cheese dressing. Super fun, easy and great weeknight dinner! I would recommend thinly sliced red onion but husband disagrees. Thanks Chef Mo!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/8469664/buffalo-chicken-grilled-cheese/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/251/main-dish/sandwiches/",
+"name": "Sandwich Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/1032/main-dish/sandwiches/chicken/",
+"name": "Chicken"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/8469664/buffalo-chicken-grilled-cheese/",
+"name": "Buffalo Chicken Grilled Cheese"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

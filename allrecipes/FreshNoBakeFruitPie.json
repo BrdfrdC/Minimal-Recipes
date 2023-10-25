@@ -1,0 +1,274 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Fresh No-Bake Fruit Pie"
+,"datePublished": "2020-06-18T23:50:23.000-04:00"
+,"dateModified": "2020-06-18T23:50:23.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "GOMUM"
+,"url": "https://www.allrecipes.com/cook/862007"
+}
+]
+,"description": "Fresh strawberries, blueberries, raspberries, and blackberries fill a prepared shortbread pie crust for an easy and refreshing no-bake pie that won&#39;t heat up your kitchen. Serve with a dollop of your favorite whipped cream."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/vPP4LORgAMDLL0_RlC_hA1o2gQY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1421416-348cbf88a28c4bfeb7466fd004e2c941.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Fresh No-Bake Fruit Pie"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.8",
+"ratingCount": "13"
+}
+,"cookTime": "PT5M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "232 kcal"
+,"carbohydrateContent": "44 g"
+,"fiberContent": "5 g"
+,"proteinContent": "2 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "104 mg"
+,"sugarContent": "27 g"
+,"fatContent": "6 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"1 (16 ounce) package fresh strawberries, hulled and large berries cut in half",
+"1 pint fresh blueberries",
+"1 (6 ounce) container fresh raspberries",
+"1 (6 ounce) container fresh blackberries",
+"1 cup water",
+"0.5 cup white sugar",
+"3 tablespoons cornstarch",
+"0.25 cup water",
+"1 (9 inch) prepared shortbread pie crust (such as Keebler®)" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Thoroughly combine strawberries, blueberries, raspberries, and blackberries in a bowl. Scoop out 3/4 cup of mixed berries and place into a saucepan with 1 cup water and sugar; set remaining berries aside. Bring the mixture to a boil and reduce heat to medium-low."
+} ,{
+"@type": "HowToStep"
+,"text": "Whisk cornstarch and 1/4 cup water in a bowl until smooth and stir the cornstarch mixture into the hot fruit syrup; stir until the mixture thickens, about 2 minutes. Let the mixture cool completely, stirring occasionally, about 20 minutes."
+} ,{
+"@type": "HowToStep"
+,"text": "Pour the thickened berry mixture into fresh berries until thoroughly combined; pour berries and sauce into shortbread pie crust. Place in refrigerator until chilled, at least 1 hour."
+} ]
+,"recipeYield": ["8"]
+,"totalTime": "PT100M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "greensnacks"
+},
+"reviewBody": "Turned out great, using fresh peaches. I made my own pie crust using this milk tart recipe ( https://www.allrecipes.com/recipe/16738/milk-tart/ ), which has a sugar cookie like taste."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "clemelin226"
+},
+"reviewBody": "Excellent recipe and so easy to do. We added a little bit more sugar because the fresh fruit was not as sweet as the summertime. 5 Stars for sure!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Elsa Sand"
+},
+"reviewBody": "Great recipe and great way to use fresh fruit!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Tacy Caudle"
+},
+"reviewBody": "My whole family loved this! I did make a chocolate shortbread crust, and I cooked the berry syrup in the microwave but it was exactly like you wrote it other than that. It is delicious with the chocolate crust. It’s delicious just to eat the fruit by itself. I thank you so much for this."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sybere"
+},
+"reviewBody": "I made its with different crusts.....Graham crackers, oreo cookies and shortbread...., i reduced the amount of sugar and last time I added sliced kiwi on top. this has been a hit with all of my friends. I usually don't participate n potlucks but this is now my go to dish."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "cigarlady"
+},
+"reviewBody": "This is so delicious with a graham cracker crust blueberries &amp; raspberries were so expensive at the store I decided to use frozen wild Maine blueberries from Kroger and raspberries and added a container of fresh strawberries. It's a little runny with the frozen fruit but it was so good who cares making it again for a second time tonight"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jo Steinberg"
+},
+"reviewBody": "It was a very good healthy pie. I served it with whipped cream and it turned out like a picture."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer Tucker"
+},
+"reviewBody": "Super easy and tasty. It's my go to summer potluck dessert. Frozen fruits can also be used."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Baking Nana"
+},
+"reviewBody": "We really enjoyed this. A great way to use the bounty of summer fruit and berries. Fresh peaches would be a great addition. I used the short bread crust recipe from this site and used a tart pan with a removable bottom instead of a pie pan. Very nice presentation. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "karen"
+},
+"reviewBody": "This recipe was very easy to make and delicious. I made it for an outdoor concert /potluck in mini graham cracker crusts. Guests topped the pies with whipped cream on the side. Delicious!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mary Hawke"
+},
+"reviewBody": "This is my favorite summer dessert recipe. I use a graham crust and raspberries for the filling. Sometimes add a little raspberry jello powder to the cornstarch mix."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/223496/fresh-no-bake-fruit-pie/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/367/desserts/pies/",
+"name": "Pies"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/15142/desserts/pies/no-bake-pies/",
+"name": "No-Bake Pie Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/223496/fresh-no-bake-fruit-pie/",
+"name": "Fresh No-Bake Fruit Pie"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

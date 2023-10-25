@@ -1,0 +1,370 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Amazing Ginger Snaps"
+,"datePublished": "2020-06-18T23:55:36.000-04:00"
+,"dateModified": "2020-06-18T23:55:36.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Jennifer Mazorra Salamy"
+,"url": "https://www.allrecipes.com/cook/3030456"
+}
+]
+,"description": "These amazing ginger snaps have plenty of ginger and molasses delivering a chewy and crowd-pleasing treat for the holiday season."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/7utfODYjnMzdbZUxhY1bveStyf4=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/1073572-b0412251235448369a391345ece00cc1.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Amazing Ginger Snaps"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.3",
+"ratingCount": "23"
+}
+,"cookTime": "PT10M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "147 kcal"
+,"carbohydrateContent": "21 g"
+,"cholesterolContent": "8 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "1 g"
+,"saturatedFatContent": "1 g"
+,"sodiumContent": "158 mg"
+,"sugarContent": "12 g"
+,"fatContent": "7 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT10M"
+,"recipeIngredient": [
+"2 cups all-purpose flour",
+"1 cup white sugar",
+"0.66666668653488 cup canola oil",
+"0.25 cup unsulfured molasses",
+"1 egg",
+"2 teaspoons baking soda",
+"1 teaspoon ground cinnamon",
+"1 teaspoon ground ginger",
+"0.5 teaspoon salt",
+"0.25 cup white sugar, or as needed" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Mix flour, 1 cup sugar, canola oil, molasses, egg, baking soda, cinnamon, ginger, and salt in a bowl. Refrigerate dough for 1 hour."
+} ,{
+"@type": "HowToStep"
+,"text": "Preheat oven to 350 degrees F (175 degrees C). Pour 1/4 cup sugar into a bowl."
+} ,{
+"@type": "HowToStep"
+,"text": "Roll dough into 1-inch balls and coat each ball in sugar. Flatten each coated ball onto a baking sheet."
+} ,{
+"@type": "HowToStep"
+,"text": "Bake in the preheated oven until edges begin to harden, 7 to 8 minutes. Cool on the pan for 10 minutes before removing to cool completely on a wire rack."
+} ]
+,"recipeYield": ["24"]
+,"totalTime": "PT90M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "2"
+},
+"author": {
+"@type": "Person",
+"name": "slackercook"
+},
+"reviewBody": "These were very oily. Flavor might have been good if I could get past that."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Sherri Baktuit"
+},
+"reviewBody": "Delicious flavor! Substituted 1/2 cup stevia for 1/2 cup sugar. Substituted 1/2 cup of sugar for 1/2 cup of brown sugar."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "r r"
+},
+"reviewBody": "double the spices, could use 3 tsp of ginger, half instead of 1 cup of sugar"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Suzette"
+},
+"reviewBody": "I did 1/4 c butter and the rest oil. Added 1/2 tsp cloves as well as some nutmeg, allspice &amp; cayenne. Did sugar as half brown sug and half white sug. Also reduced baking powder by 1/4 tsp. I rolled into balls and rolled in sugar, then lightly pressed them with a glass bottom (and slightly re-sanded tops w sugar), then baked for 10 minutes. Came out with fab flavor and flatter like I wanted with gently crispy edges and chewy centers. Perfect!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Peter Boyd"
+},
+"reviewBody": "used butter ib stead of canola oil, after all a little butter makes the batter better."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Mookster"
+},
+"reviewBody": "these are the best. I love them. so tasty and soft. because I don't like things too sweet I only used about half cup of sugar instead."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Jennifer Keller"
+},
+"reviewBody": "lovely"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Jan Eves"
+},
+"reviewBody": "I agree with other reviewers that this dough is kind of crumbly and a bit hard to work with. But it seems a trade off for much less saturated fat in the cookies. I did reduce the sugar to 1/2 c and they tasted fine. I think I will try freezing the balls before baking them. Maybe the texture will improve. If not then I will try adding butter to the oil and reduce the oil."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "1"
+},
+"author": {
+"@type": "Person",
+"name": "I-am-will"
+},
+"reviewBody": "This recipe is too dry and way too oily! I will not make this one again. I think the staff were into too much rum and egg nog when they picked this."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Miss Kay"
+},
+"reviewBody": "I just made these and they are fabulous!! I did use fresh ginger not granulated so it did change the texture I think. They are soft and chewy and very flavorful!! making them again today, going to use the dough for a cheese cake base!! Will let you know how it turns out!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Julie S Ringenberg"
+},
+"reviewBody": "I used oat flour and olive oil instead of all-purpose flour and canola oil. I followed the recipe otherwise, and my cookies were very flat."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Suzanne"
+},
+"reviewBody": "they were a big hit, made some using gluten free flour, huge success, not too sweet, just right."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Zoe Pacciani"
+},
+"reviewBody": "Sugary and greasy. Sorry, it just didn't work out for us."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "candy"
+},
+"reviewBody": "wonderful! I took these to work once and a coworker told me that they were amazing cookies. We all laughed when I told her their name."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kamila"
+},
+"reviewBody": "I made them again but this time with 1/2 cup of melted butter and 1/2 cup of white sugar. First time I tried this recipe they turned out too sweet to my palate and due to the canola oil - very greasy. They're perfect this time. Thanks for sharing."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Lewcas"
+},
+"reviewBody": "I just made these cookies to take to my church's social hour tomorrow. They smell and taste great, although they are a little bit oily."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "kittyhawk"
+},
+"reviewBody": "We loved them. Although next time I think I will add just a bit more molasses."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Audrey E Wrobel"
+},
+"reviewBody": "Rather decent recipe, so thank you for sharing it! I was looking for something to make for this year's cookie exchange, and this fits the bill nicely. I decided to try it out today, and will be making 12 dozen of these two weeks from now, after all. \n\nMy toddler is fully enjoying this cookie with a small glass of milk. \n\nHaving just made the cookies today, I find the crunchy edges and inner chewiness delightfully seasonal and a nice change from other run-of-the-mill cookie exchange fare. I wonder if any will last until tomorrow to see if the texture or taste improves from what impressed me today.\n\nThe only thing I did different from the recipe was to use vegetable oil. Oh, I also lightly sprayed the pans and only halfway rolled the cookies in sugar, trying to prevent any from sticking to the pan, in case that was going to happen otherwise."
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/233642/amazing-ginger-snaps/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/362/desserts/cookies/",
+"name": "Cookies"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/17794/desserts/cookies/gingersnaps/",
+"name": "Gingersnap Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/233642/amazing-ginger-snaps/",
+"name": "Amazing Ginger Snaps"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

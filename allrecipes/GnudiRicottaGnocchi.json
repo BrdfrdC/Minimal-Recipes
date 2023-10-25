@@ -1,0 +1,239 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Gnudi (Ricotta Gnocchi)"
+,"datePublished": "2019-07-10T03:06:50.000-04:00"
+,"dateModified": "2022-01-14T01:23:10.000-05:00"
+,"author": [
+{"@type": "Person"
+,"name": "Callinectes Sapidus"
+,"url": "https://www.allrecipes.com/cook/callinectessapidus"
+}
+]
+,"description": "These ricotta-based gnudi with fresh basil and Parmigiano-Reggiano cheese are a delicate and delicious alternative to pasta or gnocchi."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/8pglB1xuRuTkCwlaGMsHKTrl9Cc=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/4472329-11c6c8ab135f402e8f02c08d1278b30a.jpg",
+"height": 960,
+"width": 960
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Gnudi (Ricotta Gnocchi)"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.5",
+"ratingCount": "8"
+}
+,"cookTime": "PT15M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "185 kcal"
+,"carbohydrateContent": "23 g"
+,"cholesterolContent": "111 mg"
+,"fiberContent": "3 g"
+,"proteinContent": "11 g"
+,"saturatedFatContent": "3 g"
+,"sodiumContent": "1042 mg"
+,"sugarContent": "1 g"
+,"fatContent": "6 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT30M"
+,"recipeIngredient": [
+"1 pound fresh basil, stems removed",
+"1 cup ricotta cheese",
+"0.75 cup all-purpose flour, divided",
+"0.5 cup freshly grated Parmigiano-Reggiano",
+"2 egg yolks, lightly beaten",
+"0.25 teaspoon freshly grated nutmeg",
+"2 teaspoons freshly ground white pepper",
+"2 teaspoons sea salt, or more to taste",
+"0.5 lemon, juiced" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Bring a large pot of salted water to a boil. Add basil and cook uncovered until just wilted, about 1 minute. Immerse in ice water for several minutes to stop the cooking process. Drain. Squeeze very dry and finely chop."
+} ,{
+"@type": "HowToStep"
+,"text": "Mix ricotta cheese, 1/2 cup flour, Parmigiano-Reggiano cheese, egg yolks, and nutmeg in a large bowl. Add basil, white pepper, and salt; mix until gnudi mixture is well-combined."
+} ,{
+"@type": "HowToStep"
+,"text": "Dust your hands with remaining 1/4 cup flour and form gnudi mixture into small balls."
+} ,{
+"@type": "HowToStep"
+,"text": "Bring a large pot of salted water to a boil. Add lemon juice. Boil gnudi in batches until they float to the top of the water, 3 to 4 minutes. Drain."
+} ]
+,"recipeYield": ["4"]
+,"totalTime": "PT45M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Travis Brooks"
+},
+"reviewBody": "The servings on this are way off, double them (if you're feeding 4 people, make 8 servings). The basil is also WAY OFF, whoever developed this recipe either made a typo or is delusional. I used about 2.5oz for 6 servings (instead of 24oz), and that was perfect.\n\nThey turn out good, though I've made better. Cook's Illustrated has a good recipe that are fluffier.\n\nWord to the wise: the quantities in the directions of the recipe don't scale when you change the number of servings, so you need to do the math on your own for the flour."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Deb C"
+},
+"reviewBody": "I thought the salt and white pepper were too aggressive in this recipe."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Teresa"
+},
+"reviewBody": "I had herb ricotta leftover from Easter. I searched ricotta recipes and found this! To save time I piped the ricotta into a gallon bag, snipped the corner and squeezed and cut small pieces as it came out of the bag directly into boiling water. I used low sodium chicken broth with my boiling water. When the gnocchi was done I placed it on a paper towel liner plate. To complete the dish, I pan fried ham in butter, added peas and fresh pesto. I also pan fried the gnocchi to golden brown in that process ( I don’t like mushy gnocchi). It was delicious. I topped with more Parmesan and fresh parsley."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "ifarmthings"
+},
+"reviewBody": "Since I’m all about making things quick I put this in a sturdy ziploc bag, snip the corner of the bag, squeeze and “slice” into little logs right into the boiling water (be careful of splash) Saves you from dirtying extra dishes &amp; dealing with sticky dough. As a first timer I wasn’t sure the consistency gnudi should be and seeing as my ricotta was watery I did add extra flour. Workable yet still sticky. This probably only took me 20 minutes, I just did a brown butter sauce, so flavorful! Thank you!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "dog300"
+},
+"reviewBody": "Turned out amazing! Obviously, I didn't have a pound of basil, but I used a full bun and that worked out great. I added some extra parmesan just because I had it. Served with a butter sauce with onion and garlic. Will make this again for sure."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Elizabethbellb"
+},
+"reviewBody": "I used 1 tsp of dried basil and 1 tsp salt. This was great"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Heather Savage"
+},
+"reviewBody": "This was excellent! My entire family loved it. I have goats for milk and make ricotta regularly, so I was very glad to see a recipe that used ricotta. It took me about 40 minutes from the time I picked the basil in the garden to the time I served the dish, so quick and easy! I served it as a main dish with pesto and a salad."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Kim's Cooking Now"
+},
+"reviewBody": "One pound of fresh basil sounds like an awful lot, and being that we are in the dead of winter here in Georgia, my bumper basil crop won't be showing up for a few months. What I used was last year's bumper crop of basil that I had put in the freezer. Once it's frozen, I crush it until it crumbles, that way I can add it to sauces and other recipes throughout the winter. I used about 1/2 cup of the crushed frozen basil, and it worked perfect! I just threw it right in with the ricotta cheese (didn't even wait for it to thaw) and then carried on with the recipe. These were light and pillow-y, and worked great in the recipe that I was making tonight (Chicken Sausage Gnocchi Skillet, also from this site). I will be saving this to my recipe box, and can't wait to make them again!"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/246702/gnudi-ricotta-gnocchi/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/95/pasta-and-noodles/",
+"name": "Pasta and Noodles"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/521/pasta-and-noodles/pasta-by-shape/",
+"name": "Pasta by Shape Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/246702/gnudi-ricotta-gnocchi/",
+"name": "Gnudi (Ricotta Gnocchi)"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]

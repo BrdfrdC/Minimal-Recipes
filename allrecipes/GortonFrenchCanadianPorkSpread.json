@@ -1,0 +1,478 @@
+				
+[
+{
+"@context": "http://schema.org",
+"@type": ["Recipe","NewsArticle"]
+,"headline": "Gorton (French-Canadian Pork Spread)"
+,"datePublished": "2019-04-03T23:48:45.000-04:00"
+,"dateModified": "2019-04-03T23:48:45.000-04:00"
+,"author": [
+{"@type": "Person"
+,"name": "Lil1"
+,"url": "https://www.allrecipes.com/cook/3590660"
+}
+]
+,"description": "Flavored with nutmeg and clove, this traditional French-Canadian pork spread is great on hearty bread."
+,"image": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/bkLmVldMzoWE0Kr987nV9b5x400=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/7339108-79e3bb102e9746dc994f8c65ad2e26b1.jpg",
+"height": 2735,
+"width": 1500
+}
+,"publisher": {
+"@type": "Organization",
+"name": "Allrecipes",
+"url": "https://www.allrecipes.com",
+"logo": {
+"@type": "ImageObject",
+"url": "https://www.allrecipes.com/thmb/Z9lwz1y0B5aX-cemPiTgpn5YB0k=/112x112/filters:no_upscale():max_bytes(150000):strip_icc()/allrecipes_logo_schema-867c69d2999b439a9eba923a445ccfe3.png",
+"width": 112,
+"height": 112
+},
+"brand": "Allrecipes"
+, "publishingPrinciples": "https://www.allrecipes.com/about-us-6648102#toc-editorial-guidelines"
+, "sameAs" : [
+"https://www.facebook.com/allrecipes",
+"https://www.instagram.com/allrecipes/",
+"https://www.pinterest.com/allrecipes/",
+"https://www.tiktok.com/@allrecipes",
+"https://www.youtube.com/user/allrecipes/videos",
+"https://twitter.com/Allrecipes",
+"https://flipboard.com/@Allrecipes",
+"https://en.wikipedia.org/wiki/Allrecipes.com",
+"https://apps.apple.com/us/app/allrecipes-dinner-spinner/id299515267",
+"https://play.google.com/store/apps/details?id=com.allrecipes.spinner.free&hl=en_US&gl=US",
+"https://www.youtube.com/c/foodwishes",
+"https://www.linkedin.com/company/19312/admin/"
+]
+}
+,"name": "Gorton (French-Canadian Pork Spread)"
+,"aggregateRating": {
+"@type": "AggregateRating",
+"ratingValue": "4.4",
+"ratingCount": "30"
+}
+,"cookTime": "PT105M"
+,"nutrition": {
+"@type": "NutritionInformation"
+,"calories": "236 kcal"
+,"carbohydrateContent": "1 g"
+,"cholesterolContent": "28 mg"
+,"fiberContent": "0 g"
+,"proteinContent": "5 g"
+,"saturatedFatContent": "9 g"
+,"sodiumContent": "15 mg"
+,"sugarContent": "1 g"
+,"fatContent": "23 g"
+,"unsaturatedFatContent": "0 g"
+}
+,"prepTime": "PT15M"
+,"recipeIngredient": [
+"2 pounds finely ground pork fat",
+"2 pounds finely ground pork",
+"2 onions, finely chopped",
+"4 cups water",
+"1 teaspoon ground cloves",
+"0.75 teaspoon ground nutmeg",
+"salt and black pepper to taste" ]
+,"recipeInstructions": [
+{
+"@type": "HowToStep"
+,"text": "Stir the pork fat, ground pork, onions, water, cloves, and nutmeg together in a large pot. Season to taste with salt and pepper. Bring to a boil over medium-high heat, then reduce heat to medium-low, and simmer until the pork is tender, at least 1 1/2 hours. Use a potato masher to mash the pork mixture every 15 minutes as it cooks."
+} ,{
+"@type": "HowToStep"
+,"text": "The longer you simmer the gorton, the better the flavor will be. Add water as needed to keep the mixture from boiling dry. When you&#39;re ready to stop cooking, let the liquid reduce as much as possible without letting it burn. Refrigerate the gorton overnight. Remove and discard the fat layer, or stir it into the meat for a creamier spread."
+} ]
+,"recipeYield": ["40"]
+,"totalTime": "PT840M"
+,"review": [
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Rob"
+},
+"reviewBody": "Loved it taste great"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Mima"
+},
+"reviewBody": "I always thought Gorton was the name of the company in New England that made the spread my grandmother bought. I ate a lot of it as a kid. We called it Gorton ( with a rolled R and a swallowed N). After moving west where no one ever heard of it, I always make a extra large batch of tourtiere filling and use the extra as a spread. I often include ground moose and turkey. The latter adds gelatin which helps as a binder with less fat. I also add summer savory, sage and garlic."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Melody"
+},
+"reviewBody": "I've been looking for a gorton recipe and this one was very simple. However, I don't think you need to add extra water to it: the 4 cups should be enough. I was worried about burning it, so I added two more cups and it watered down some of the flavor. It still tasted fine and I'm glad that I know how to make it now!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "deetones"
+},
+"reviewBody": "Coming from Woonsocket, RI ...... La ville la plus française aux États-Unis, ......'the most French city in the United States', we pronounce it Gorton (cahhtons)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Grace"
+},
+"reviewBody": "I love the original but I'm cutting back on the fat. I used ground turkey 2% fat instead. I know my French-Canadian relatives would have been appalled. It did need a bit more salt, but all of the spices are the same I as needed, and cooked over a very low heat for 2 hrs. Strained off the fat and put in fridge. I actually liked it.. It was spreadable on toast."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kitty62862"
+},
+"reviewBody": "Where has this little gem been all my life? O. M. G. !!!! This is just unbelievably awesome! I used tsp allspice 1/2 tsp ground cloves 1/2 tsp nutmeg, and hickory smoked bacon fat. Holy cow!!!!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "kauai90"
+},
+"reviewBody": "Similar to this, Gorton has been a recipe we have made for decades starting with my Memere! We add a small amount of mashed potato at the end to absorb the fat and keep it together."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Auby's Nana"
+},
+"reviewBody": "My French Canadian Memere from Lowell Massachucettes and my Mom and Aunt used to make this all the time when I was a little girl. We ate it speared on white bread with yellow mustard. Absolutly delicious. We also put it in a pie shell and cooked that and ate it with cranberry sauce. We called it Meat Pie which my Dad made every Christmas Eve.I still love it but find now that I'm much older, the cloves and other spices in it give me horrible heart burn."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "anniesbud"
+},
+"reviewBody": "I grew up with gorton (cahh-ton)on toast. Memmere always had a pot of ground pork simmering. The recipe handed down to me uses allspice, salt and pepper to taste. There are some variations for meat stuffing or meat pie."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Tom"
+},
+"reviewBody": "My memere used to add a splash of white wine and brandy. I remember that she would only make it after a snow storm and put it out in a snow bank to chill. She swore that this made it taste better than putting it in the fridge. Funny the things that you remember from childhood."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Allrecipes Member"
+},
+"reviewBody": "Every family had their own recipe and we all claimed authenticity. Ours has cinnamon, we didn't add fat, the ground Boston butt was fine, you must skim the scum that rises as it cooks. We also skimmed most of the fat that rose after cooking. Great stuff KEH! Ces 't ne pas la pate, ces't le gourton."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "p_oedcustomer"
+},
+"reviewBody": "Every family had their own recipe and we all claimed authenticity. Ours has cinnamon, we didn't add fat, the ground Boston butt was fine, you must skim the scum that rises as it cooks. We also skimmed most of the fat that rose after cooking. Great stuff KEH! Ces 't ne pas la pate, ces't le gourton."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Maureen Ordway"
+},
+"reviewBody": "This is very similar to my Mom &amp; Memere's recipe. I am making some right now. The only thing is that I buy my ground pork already kind of fatty already. If it looks lean I just don't make any. My Mom has pork butts ground up. So we don't buy seperate pork fat. Anyhow, also we do not add the ground cloves, nutmeg and also a little cinnamon in until the last 10 mins. of cooking. And I have found that if I cook it way to much it has a dried out flavor. Don't confuse the melted fat in there with the water. I kept cooking to try to reduce the \"water\" before I realized it was liquid fat. Now after 20 or so years making it myself I feel confident that it will come out great. (Nobody ever measured, so I had to experiment.) Also, we add cinnamon. Use one of those electric hand blenders while it cools down a bit in the pan before pouring into containers to cool."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "Cyndi Lenz"
+},
+"reviewBody": "Heart attack on toast lol But I love this. My french candiadian mil who lived in manchester nh called it Gutons and the local little markets sold it as the same name. May have the spelling wrong but you can't forget the yummy taste. Divorced the husband but kept the gutons."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "David Beaulieu"
+},
+"reviewBody": "This was also a Christmas recipe my Grammy used to make. Here kids would fight over who got to take the leftovers home. I make it in a crockpot with a bone in boston butt. Yellow onions, salt &amp; pepper cinnamon and ground clove 1/4 tsp per lb. pour in a few cups of water and cook on high til the bone pulls right out about 8-10 hours. Drain most of the water and Mash with electric mixer. Spoon into Pyrex dishes and refrigerate for at least 4 hours. Made this last thanksgiving in MASS. And had a bunch of frenchies (I'm a Beaulieu) saying this was the best they have had. It's great on Hawaiian sweet rolls"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "GigiMaine"
+},
+"reviewBody": "- The art of making Cretons has been handed-down in my family for 6 generations (french canadian), and I continue to be amazed at all the recipe variations and names for this spreadable delicacy. :-) \nHints: don't underestimate the need to use a potato masher (vigorously, against the bottom of the pan) every 15mins in an effort to create a spreadable end product. And, ensure a pot of simmering water on the stove when adding water to the cretons. It's important to add hot water vs. water from the tap.\nI sincerely hope this is helpful."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "loribe"
+},
+"reviewBody": "my hubby loves it ...he grew up having this at 'camp' ...needless to say it's very nostalgic for him ...he loves coming in and smelling this simmering on the woodstove ....likes it for breakfast on toast!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "3"
+},
+"author": {
+"@type": "Person",
+"name": "Mireille Halley"
+},
+"reviewBody": "Ya it's cretons. Never heard Gorton anywhere ever. Maybe in the Eastern US someone calls it that. My family always made it with cinnamon and cloves. It's ugly but it's good! Even the kids love it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Christine Gallagher"
+},
+"reviewBody": "This is amazing. My oldest son's grandpa used to make this from whole pork shoulder and at least one other cut of pork. He cooked them forever. When it came to the rest of the preparation no one was allowed to be there. It truly was a secret family recipe. He promised to write it down one day. :( Unfortunately,neither he or his wife ever did.\nMy son, now 45 years old and I are going to try this for sure. Thank you Lil1"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "kgcook"
+},
+"reviewBody": "A very dear friend and \"second Mom\" introduced this wonderful spread to me 45 years ago. She has long since passed and she was heavy on my mind a couple weeks ago and the \"cahhton\" came to mind. I asked some French co-workers if they knew what it was ( I wasn't even sure if that was what I was remembering!) no one knew. Trusty ol' computer; typed in French meat spread and there it was!! Couldn't believe it!! Went out an bought the ingredients and the smell of it cooking brought me back to the little kitchen and that wonderful little lady so many, many years ago. Thank you Lil1, I will be making this every week and never forget it again. Thank you, thank you, thank you!!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Hank"
+},
+"reviewBody": "I grew up on this and over the years, living in the US the last 40 years, I simply forgot about it. Well I out of the blue had a craving for! On a whim decided to see if anyone had a recipe for it so I thank you so much for posting! We Kanucks also called it cretons, but whatever you call it, it's awesome! Merci!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "geishagirl"
+},
+"reviewBody": "My French-Canadian grandmother use to make this and give it away in plastic containers for Christmas. As kids, we always looked forward to that morning toast with \"cahton\" on it. She gave the guarded \"secret\" recipe to my sister (I think she also used allspice) who later passed it to my niece who has also guarded the recipe. SO I was very pleased to find it on-line. Can't wait to share it with my family and grandkids this Christmas. Thanks!"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Margo"
+},
+"reviewBody": "My mom made this when I was growing up in Maine. She died when I was 22 (I'm 65 now) and had never written her recipes down. I just discovered this recipe yesterday watching an episode of Drive Ins, Diners and Dives and am making it right this minute. I hope it's just like hers - it sure smells like it. Wow - this is really something... I could just cry. We just ate in on toast and it was wonderful. Over the years, I thought it was \"head cheese\" and was put off by it so I never bothered to look it up on the internet. I am so grateful to have found it. Can't wait to try it."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "5"
+},
+"author": {
+"@type": "Person",
+"name": "Aloha-Beth"
+},
+"reviewBody": "Yes in New England we call it gorton. My pepere was French Canadian and my memere made this every Christmas in large batches, put them into tupperware containers and gave them away as gifts. Everyone loved her gorton. In my mind it is not Christmas without it! This is almost exactly like her recipe except she used allspice instead of the cloves and nutmeg."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "pam"
+},
+"reviewBody": "My mom always made this for us growing up as kids, over the years she stopped doing it. I made it this evening and my husband can't wait to try it tommorrow. She always called it cretons(pronounced kahh tuhh)."
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "cantcook"
+},
+"reviewBody": "It may be \"creton\" in some areas, but our 83 year old french canadian grandmother has always called it \"gorton\" ( cahh-ton... and she adds an s at the end)"
+}
+,
+{
+"@type": "Review",
+"reviewRating": {
+"@type": "Rating",
+"ratingValue": "4"
+},
+"author": {
+"@type": "Person",
+"name": "BigJon1206"
+},
+"reviewBody": "Just so you are aware, its \"Creton\" but the recipe looks good. :)"
+}
+]
+,"mainEntityOfPage": {
+"@type": ["WebPage"]
+,"@id": "https://www.allrecipes.com/recipe/213554/gorton-french-canadian-pork-spread/"
+,"breadcrumb": {
+"@type": "BreadcrumbList",
+"itemListElement": [
+{
+"@type": "ListItem",
+"position": 1,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/105/appetizers-and-snacks/dips-and-spreads/",
+"name": "Dips and Spreads Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 2,
+"item": {
+"@id": "https://www.allrecipes.com/recipes/435/appetizers-and-snacks/dips-and-spreads/pate/",
+"name": "Pate Recipes"
+}
+}
+,
+{
+"@type": "ListItem",
+"position": 3,
+"item": {
+"@id": "https://www.allrecipes.com/recipe/213554/gorton-french-canadian-pork-spread/",
+"name": "Gorton (French-Canadian Pork Spread)"
+}
+}
+]
+}
+}
+, "about": [
+]
+}
+]
